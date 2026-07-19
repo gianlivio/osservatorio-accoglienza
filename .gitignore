@@ -1,0 +1,9 @@
+dati-grezzi/
+output/
+*.csv
+*.zip
+__pycache__/
+.env
+.DS_Store
+node_modules/
+.next/
