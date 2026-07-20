@@ -10,18 +10,18 @@ export type Blocco = {
 export type Mese = { affidamenti: number; diretti: number; quota_diretti: number; importo_mediano: number | null };
 export type Provincia = {
   provincia: string; totale: Blocco; per_anno: Record<string, Blocco | null>;
-  per_mese: Record<string, Mese>;
+  per_mese: Record<string, Mese | undefined>;
   top_enti: { nome: string; affidamenti: number }[];
   rapporti_ricorrenti: { amministrazione: string; ente: string; affidamenti_diretti: number }[];
 };
 
 export const anni = dati.anni as string[];
 export const fonte = dati.fonte;
-export const totale = dati.totale as Blocco;
-export const perAnno = dati.per_anno as Record<string, Blocco>;
-export const perMese = dati.per_mese as Record<string, Mese>;
+export const totale = dati.totale as unknown as Blocco;
+export const perAnno = dati.per_anno as unknown as Record<string, Blocco>;
+export const perMese = dati.per_mese as unknown as Record<string, Mese | undefined>;
 export const amministrazioni = dati.amministrazioni;
-export const province = dati.province as Provincia[];
+export const province = dati.province as unknown as Provincia[];
 
 export function slug(nome: string) {
   return nome.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
