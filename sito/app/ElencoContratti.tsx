@@ -23,8 +23,8 @@ export default function ElencoContratti({ contratti }: { contratti: Contratto[] 
       </div>
 
       <ul className="contratti">
-        {mostrati.map((c) => (
-          <li key={c.cig + c.data} className="contratto">
+        {mostrati.map((c, i) => (
+          <li key={c.cig + "-" + i} className="contratto">
             <div className="riga-alta">
               <span className="data-c">{c.data}</span>
               <span className={"badge " + (c.diretto ? "badge-diretto" : "badge-gara")}>

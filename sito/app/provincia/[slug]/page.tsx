@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
-import ElencoContratti from "@/app/ElencoContratti";
 import { province, trovaProvincia, slug as mkSlug, euro, anni } from "@/lib/dati";
 
 export function generateStaticParams() {
@@ -58,15 +57,6 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           Un anno con pochi affidamenti non indica poca accoglienza: i contratti pluriennali
           compaiono solo nell&apos;anno in cui vengono stipulati.
         </p>
-      </section>
-
-      <section className="sezione">
-        <h2 className="titolo-sezione">I contratti, uno per uno</h2>
-        <p className="nota-tabella">
-          In ordine dal più recente. Ogni voce riporta quanto risulta nell&apos;archivio
-          pubblico: dove il dato non è stato comunicato, la riga non compare.
-        </p>
-        <ElencoContratti contratti={p.contratti} />
       </section>
 
       <section className="sezione">
