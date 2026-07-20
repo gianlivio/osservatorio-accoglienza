@@ -88,3 +88,14 @@ th.num .ordina{flex-direction:row-reverse}
 .mese i{position:absolute;inset:auto 0 0 0;background:var(--timbro);display:block}
 .assi-mesi{display:flex;justify-content:space-between;font-family:var(--dato);
   font-size:11px;color:var(--tenue)}
+
+.prosa{max-width:62ch;margin-bottom:16px}
+.prosa p{margin-bottom:18px;font-size:18px}
+.prosa p:first-child{font-size:20px}
+.glossario{max-width:62ch}
+.glossario dt{font-family:var(--display);font-weight:700;font-size:15px;
+  letter-spacing:-.01em;margin-top:16px}
+.glossario dt:first-child{margin-top:0}
+.glossario dd{color:var(--tenue);font-size:16px;margin-top:2px}
+.link-interno{color:var(--timbro);border-bottom:1px solid var(--linea);white-space:nowrap}
+.link-interno:hover{border-color:var(--timbro)}
