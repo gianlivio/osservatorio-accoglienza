@@ -1,0 +1,34 @@
+import dati from "@/data/province.json";
+
+export type Blocco = {
+  affidamenti: number; certi: number; diretti: number; quota_diretti: number;
+  quota_diretti_per_importo: number; sotto_soglia: number;
+  quota_diretti_sotto_soglia: number | null; importo_mediano: number | null;
+  prosecuzioni: number; canale_prefettura: number; canale_ente_locale: number;
+  enti_gestori: number; copertura_vincitore: number;
+};
+export type Mese = { affidamenti: number; diretti: number; quota_diretti: number; importo_mediano: number | null };
+export type Provincia = {
+  provincia: string; totale: Blocco; per_anno: Record<string, Blocco | null>;
+  per_mese: Record<string, Mese>;
+  top_enti: { nome: string; affidamenti: number }[];
+  rapporti_ricorrenti: { amministrazione: string; ente: string; affidamenti_diretti: number }[];
+};
+
+export const anni = dati.anni as string[];
+export const fonte = dati.fonte;
+export const totale = dati.totale as Blocco;
+export const perAnno = dati.per_anno as Record<string, Blocco>;
+export const perMese = dati.per_mese as Record<string, Mese>;
+export const amministrazioni = dati.amministrazioni;
+export const province = dati.province as Provincia[];
+
+export function slug(nome: string) {
+  return nome.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
+export const trovaProvincia = (s: string) => province.find((p) => slug(p.provincia) === s);
+export const euro = (n: number | null) =>
+  n === null ? "n.d." : new Intl.NumberFormat("it-IT",
+    { style: "currency", currency: "EUR", maximumFractionDigits: 0 }).format(n);
+export const nItal = (n: number) => n.toLocaleString("it-IT");

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import csv, sys, os, re
+import csv, sys, os, re, html
 csv.field_size_limit(10_000_000)
 
 CPV_AMMESSI = {"85311000","85311300","85310000","85320000",
@@ -35,8 +35,9 @@ COLONNE = ["cig","oggetto_gara","oggetto_lotto","importo_lotto",
     "cod_cpv","descrizione_cpv","DURATA_PREVISTA","ESITO"]
 
 def cpv_base(v): return v.strip().split("-")[0][:8] if v else ""
-def testo(r): return " ".join([r.get("oggetto_gara") or "",
-                               r.get("oggetto_lotto") or ""]).lower()
+def pulisci(v): return html.unescape(v or "").replace("\u2013","-").strip()
+def testo(r): return " ".join([pulisci(r.get("oggetto_gara")),
+                               pulisci(r.get("oggetto_lotto"))]).lower()
 
 def classifica(r):
     t = testo(r)
