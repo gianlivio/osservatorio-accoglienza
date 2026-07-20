@@ -132,6 +132,22 @@ province = []
 for p, rr in sorted(per_prov.items()):
     if p == "NON INDICATA": continue
     rr_e = [r for r in rr if r["anno"] in ANNI_ESITO]
+    elenco = sorted(rr, key=lambda r: (r["data_pubblicazione"] or ""), reverse=True)
+    contratti = [{
+        "cig": r["cig"],
+        "data": r["data_pubblicazione"],
+        "oggetto": (r["oggetto_lotto"] or r["oggetto_gara"])[:180],
+        "amministrazione": r["denominazione_amministrazione_appaltante"],
+        "ente": r["vincitore"] or None,
+        "procedura": r["tipo_scelta_contraente"],
+        "diretto": diretto(r),
+        "base": num(r["importo_lotto"], 0),
+        "aggiudicato": num(r["importo_aggiudicazione"], 0),
+        "durata_gg": (lambda d: d if d and 25 <= d <= 2000 else None)(num(r["DURATA_PREVISTA"])),
+        "da_accordo": bool((r.get("cig_accordo_quadro") or "").strip()),
+        "confidenza": r["confidenza"],
+    } for r in elenco]
+
     enti = collections.Counter(r["vincitore"] for r in rr_e if r["vincitore"])
     cop  = collections.Counter((r["denominazione_amministrazione_appaltante"], r["vincitore"])
                                for r in rr_e if diretto(r) and r["vincitore"])
@@ -141,6 +157,7 @@ for p, rr in sorted(per_prov.items()):
         "per_anno": {a: blocco([r for r in rr if r["anno"] == a]) for a in ANNI},
         "per_mese": mesi(rr),
         "anni_enti": sorted(ANNI_ESITO),
+        "contratti": contratti,
         "top_enti": [{"nome": k, "affidamenti": v} for k, v in enti.most_common(10)],
         "rapporti_ricorrenti": [{"amministrazione": a, "ente": e, "affidamenti_diretti": v}
                                 for (a, e), v in cop.most_common(8) if v >= 3],

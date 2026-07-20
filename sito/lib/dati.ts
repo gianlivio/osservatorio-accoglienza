@@ -8,9 +8,19 @@ export type Blocco = {
   enti_gestori: number; copertura_vincitore: number;
 };
 export type Mese = { affidamenti: number; diretti: number; quota_diretti: number; importo_mediano: number | null };
+export type Contratto = { cig: string; data: string; oggetto: string;
+  amministrazione: string; ente: string | null; procedura: string; diretto: boolean;
+  base: number | null; aggiudicato: number | null; durata_gg: number | null;
+  da_accordo: boolean; confidenza: string };
+export type Contratto = { cig: string; data: string; oggetto: string;
+  amministrazione: string; ente: string | null; procedura: string; diretto: boolean;
+  base: number | null; aggiudicato: number | null; durata_gg: number | null;
+  da_accordo: boolean; confidenza: string };
 export type Provincia = {
   provincia: string; totale: Blocco; per_anno: Record<string, Blocco | null>;
   per_mese: Record<string, Mese | undefined>;
+  contratti: Contratto[];
+  contratti: Contratto[];
   top_enti: { nome: string; affidamenti: number }[];
   rapporti_ricorrenti: { amministrazione: string; ente: string; affidamenti_diretti: number }[];
 };
