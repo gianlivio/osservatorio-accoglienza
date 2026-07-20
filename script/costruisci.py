@@ -3,7 +3,8 @@
 import csv, glob, os, re, json, html, zipfile, io, collections, statistics
 
 csv.field_size_limit(10_000_000)
-ANNI   = ["2023", "2024", "2025"]
+ANNI   = [str(a) for a in range(2015, 2026)]
+ANNI_ESITO = {"2024", "2025"}  # esiti e aggiudicatari attendibili solo da qui
 SOGLIA = 140000
 Z_AGG  = "dati-grezzi/aggiudicazioni_csv.zip"
 Z_VIN  = "dati-grezzi/aggiudicatari_csv.zip"
@@ -105,6 +106,7 @@ def blocco(rr):
         "canale_ente_locale": sum(1 for r in rr if r["canale"] == "ente locale"),
         "enti_gestori": len({r["cf_vincitore"] for r in rr if r["cf_vincitore"]}),
         "copertura_vincitore": round(sum(1 for r in rr if r["cf_vincitore"]) / len(rr) * 100, 1),
+        "copertura_esito": round(sum(1 for r in rr if r["importo_aggiudicazione"]) / len(rr) * 100, 1),
     }
 
 def mesi(rr):
@@ -129,14 +131,16 @@ for r in righe:
 province = []
 for p, rr in sorted(per_prov.items()):
     if p == "NON INDICATA": continue
-    enti = collections.Counter(r["vincitore"] for r in rr if r["vincitore"])
+    rr_e = [r for r in rr if r["anno"] in ANNI_ESITO]
+    enti = collections.Counter(r["vincitore"] for r in rr_e if r["vincitore"])
     cop  = collections.Counter((r["denominazione_amministrazione_appaltante"], r["vincitore"])
-                               for r in rr if diretto(r) and r["vincitore"])
+                               for r in rr_e if diretto(r) and r["vincitore"])
     province.append({
         "provincia": p,
         "totale": blocco(rr),
         "per_anno": {a: blocco([r for r in rr if r["anno"] == a]) for a in ANNI},
         "per_mese": mesi(rr),
+        "anni_enti": sorted(ANNI_ESITO),
         "top_enti": [{"nome": k, "affidamenti": v} for k, v in enti.most_common(10)],
         "rapporti_ricorrenti": [{"amministrazione": a, "ente": e, "affidamenti_diretti": v}
                                 for (a, e), v in cop.most_common(8) if v >= 3],
@@ -148,6 +152,21 @@ dati = {
     "totale": blocco(righe),
     "per_anno": {a: blocco([r for r in righe if r["anno"] == a]) for a in ANNI},
     "per_mese": mesi(righe),
+    "serie_anni": [
+        {
+            "anno": a,
+            "affidamenti": len(rr),
+            "quota_diretti": round(sum(1 for r in rr if diretto(r)) / len(rr) * 100, 1),
+            "affidamenti_40k": len(big),
+            "quota_diretti_40k": round(sum(1 for r in big if diretto(r)) / len(big) * 100, 1) if big else None,
+            "importo_mediano": round(statistics.median([x for x in (num(r["importo_lotto"], 0) for r in rr) if x is not None])),
+            "copertura_esito": round(sum(1 for r in rr if r["importo_aggiudicazione"]) / len(rr) * 100, 1),
+        }
+        for a in ANNI
+        for rr in [[r for r in righe if r["anno"] == a]] if rr
+        for big in [[r for r in rr if (num(r["importo_lotto"], 0) or 0) >= 40000]]
+    ],
+    "anni_esito": sorted(ANNI_ESITO),
     "amministrazioni": len({r["cf_amministrazione_appaltante"] for r in righe if r["cf_amministrazione_appaltante"]}),
     "province": province,
 }
@@ -155,7 +174,7 @@ json.dump(dati, open(OUTJS, "w", encoding="utf-8"), ensure_ascii=False, indent=1
 
 for a in ANNI:
     b = dati["per_anno"][a]
-    print(f"{a}: {b['affidamenti']:5,} affidamenti · {b['quota_diretti']:5.1f}% diretti "
-          f"· {b['quota_diretti_per_importo']:5.1f}% per importo · mediana {b['importo_mediano']:,} EUR "
-          f"· prosecuzioni {b['prosecuzioni']}")
+    if not b: continue
+    print(f"{a}: {b['affidamenti']:5,} affidamenti · {b['quota_diretti']:5.1f}% senza gara "
+          f"· mediana {b['importo_mediano'] or 0:>9,} EUR · esiti noti {b['copertura_esito']:5.1f}%")
 print(f"\nprovince: {len(province)}  ->  {OUTJS}")

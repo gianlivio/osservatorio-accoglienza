@@ -28,7 +28,7 @@ VETO = [r"caserm", r"\bcas\.", r"ferrovi", r"\brfi\b", r"binari",
         r"foresteria", r"studenti all'estero", r"informazione turistica",
         r"car rental", r"spettacol"]
 
-COLONNE = ["cig","oggetto_gara","oggetto_lotto","importo_lotto",
+COLONNE = ["cig","cig_accordo_quadro","n_lotti_componenti","oggetto_gara","oggetto_lotto","importo_lotto",
     "importo_complessivo_gara","provincia","luogo_istat","data_pubblicazione",
     "tipo_scelta_contraente","cf_amministrazione_appaltante",
     "denominazione_amministrazione_appaltante","denominazione_centro_costo",

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { totale, anni } from "@/lib/dati";
+import { totale, anni, serieAnni, euro } from "@/lib/dati";
 
 export const metadata = { title: "Metodologia e limiti · Osservatorio Accoglienza" };
 
@@ -81,6 +81,58 @@ export default function Metodologia() {
           nel regime ordinario di comunicazione solo dal 1° ottobre 2024, e alcuni canali
           di pubblicazione riguardano i soli contratti sopra i 40.000 euro. Un sistema
           fatto di micro-affidamenti ripetuti risulta perciò sottorappresentato.
+        </p>
+      </section>
+
+      <section className="sezione">
+        <h2 className="titolo-sezione">Perché gli anni non sono confrontabili</h2>
+        <p>
+          Le regole su quali contratti debbano essere registrati sono cambiate. Dal 2024
+          l&apos;uso di piattaforme certificate è obbligatorio anche per gli affidamenti di
+          piccolo importo, che prima seguivano procedure semplificate e in larga parte non
+          producevano una scheda consultabile. Dal 2024 entrano quindi nell&apos;archivio
+          migliaia di contratti piccoli che negli anni precedenti non c&apos;erano.
+        </p>
+        <p>
+          Poiché i contratti piccoli sono quasi sempre assegnati senza gara, il loro ingresso
+          fa salire la percentuale di affidamenti diretti anche se il comportamento delle
+          amministrazioni non è cambiato. La tabella mostra le due serie affiancate: a
+          sinistra tutti i contratti, a destra i soli contratti da 40.000 euro in su, che
+          erano registrati anche prima e sono quindi confrontabili nel tempo.
+        </p>
+        <table className="tabella">
+          <thead>
+            <tr>
+              <th>Anno</th>
+              <th className="num">Contratti</th><th className="num">Senza gara</th>
+              <th className="num">Da 40.000 €</th><th className="num">Senza gara</th>
+              <th className="num">Esiti noti</th>
+            </tr>
+          </thead>
+          <tbody>
+            {serieAnni.map((a) => (
+              <tr key={a.anno}>
+                <td>{a.anno}</td>
+                <td className="num">{a.affidamenti}</td>
+                <td className="num">{a.quota_diretti}%</td>
+                <td className="num">{a.affidamenti_40k}</td>
+                <td className="num">{a.quota_diretti_40k !== null ? `${a.quota_diretti_40k}%` : "—"}</td>
+                <td className="num">{a.copertura_esito}%</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <p className="avviso">
+          Sulla colonna confrontabile la percentuale oscilla senza una direzione: era già
+          oltre il 60% nel 2018, era scesa sotto il 40% nel 2020, ed è tornata intorno al 58%
+          negli ultimi due anni. Chi volesse leggerci una tendenza usando la colonna di
+          sinistra otterrebbe una crescita che nei fatti non c&apos;è.
+        </p>
+        <p>
+          L&apos;ultima colonna misura per quanti contratti l&apos;archivio riporta anche
+          l&apos;esito, cioè importo aggiudicato e soggetto vincitore. Prima del 2024 il dato
+          manca per circa due contratti su tre: per questo gli elenchi degli enti gestori sono
+          calcolati solo sugli anni {anni.slice(-2).join(" e ")}.
         </p>
       </section>
 
