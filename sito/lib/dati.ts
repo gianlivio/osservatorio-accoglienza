@@ -20,7 +20,9 @@ export type Provincia = {
   provincia: string; totale: Blocco; per_anno: Record<string, Blocco | null>;
   per_mese: Record<string, Mese | undefined>;
   contratti: Contratto[];
+  anni_enti: string[];
   contratti: Contratto[];
+  anni_enti: string[];
   top_enti: { nome: string; affidamenti: number }[];
   rapporti_ricorrenti: { amministrazione: string; ente: string; affidamenti_diretti: number }[];
 };

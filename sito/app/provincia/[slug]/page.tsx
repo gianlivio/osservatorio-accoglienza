@@ -22,12 +22,12 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       <section className="sezione">
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
         <div className="cifre">
-          <div className="cifra"><b>{t.affidamenti}</b><span>affidamenti registrati</span></div>
-          <div className="cifra"><b>{t.diretti}</b><span>diretti ({t.quota_diretti}%)</span></div>
-          <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano</span></div>
-          <div className="cifra"><b>{t.canale_prefettura}</b><span>dal canale prefettizio</span></div>
-          <div className="cifra"><b>{t.canale_ente_locale}</b><span>da comuni ed enti locali</span></div>
-          <div className="cifra"><b>{t.prosecuzioni}</b><span>proroghe o prosecuzioni</span></div>
+          <div className="cifra"><b>{t.affidamenti}</b><span>contratti firmati</span></div>
+          <div className="cifra"><b>{t.diretti}</b><span>assegnati senza gara ({t.quota_diretti}%)</span></div>
+          <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>valore tipico di un contratto</span></div>
+          <div className="cifra"><b>{t.canale_prefettura}</b><span>firmati dalla Prefettura</span></div>
+          <div className="cifra"><b>{t.canale_ente_locale}</b><span>firmati da comuni o enti locali</span></div>
+          <div className="cifra"><b>{t.prosecuzioni}</b><span>rinnovi di contratti già in corso</span></div>
         </div>
       </section>
 
@@ -35,8 +35,8 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <h2 className="titolo-sezione">Anno per anno</h2>
         <table className="tabella">
           <thead>
-            <tr><th>Anno</th><th className="num">Affidamenti</th><th className="num">Diretti</th>
-            <th className="num">Importo mediano</th><th className="num">Enti</th></tr>
+            <tr><th>Anno</th><th className="num">Contratti</th><th className="num">Senza gara</th>
+            <th className="num">Valore tipico</th><th className="num">Enti diversi</th></tr>
           </thead>
           <tbody>
             {anni.map((a) => {
@@ -54,8 +54,10 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           </tbody>
         </table>
         <p className="avviso">
-          Un anno con pochi affidamenti non indica poca accoglienza: i contratti pluriennali
-          compaiono solo nell&apos;anno in cui vengono stipulati.
+          Gli anni non sono confrontabili tra loro. Fino al 2023 molti contratti di piccolo
+          importo non venivano registrati nell&apos;archivio pubblico, e i contratti
+          pluriennali compaiono solo nell&apos;anno in cui vengono firmati. Un anno con pochi
+          contratti non significa poca accoglienza: la <Link href="/metodologia">Metodologia</Link>{" "}spiega perché.
         </p>
       </section>
 
@@ -70,9 +72,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
 
       {p.top_enti.length > 0 && (
         <section className="sezione">
-          <h2 className="titolo-sezione">Enti gestori · {t.enti_gestori} soggetti nei tre anni</h2>
+          <h2 className="titolo-sezione">Enti gestori · {p.anni_enti.join(" e ")}</h2>
           <table className="tabella">
-            <thead><tr><th>Ente</th><th className="num">Affidamenti</th></tr></thead>
+            <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
             <tbody>{p.top_enti.map((e) => (
               <tr key={e.nome}><td>{e.nome}</td><td className="num">{e.affidamenti}</td></tr>
             ))}</tbody>
@@ -82,7 +84,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
 
       {p.rapporti_ricorrenti.length > 0 && (
         <section className="sezione">
-          <h2 className="titolo-sezione">Affidamenti diretti ripetuti</h2>
+          <h2 className="titolo-sezione">Assegnazioni ripetute allo stesso ente</h2>
           <table className="tabella">
             <thead><tr><th>Amministrazione</th><th>Ente</th><th className="num">Volte</th></tr></thead>
             <tbody>{p.rapporti_ricorrenti.map((r, i) => (
@@ -91,9 +93,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             ))}</tbody>
           </table>
           <p className="avviso">
-            Ogni riga conta quante volte, nel periodo, la stessa amministrazione ha disposto
-            un affidamento diretto verso lo stesso ente. L&apos;affidamento diretto sotto
-            soglia è una procedura prevista dal codice dei contratti pubblici.
+            Ogni riga conta quante volte lo stesso ufficio ha assegnato un contratto allo
+            stesso ente senza gara, nel {p.anni_enti.join(" e ")}. Assegnare direttamente sotto
+            una certa cifra è una procedura prevista dalla legge.
           </p>
         </section>
       )}

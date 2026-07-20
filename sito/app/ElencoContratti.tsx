@@ -31,7 +31,7 @@ export default function ElencoContratti({ contratti }: { contratti: Contratto[] 
                 {c.diretto ? "senza gara" : "con gara"}
               </span>
               {c.da_accordo && <span className="badge badge-neutro">da accordo quadro</span>}
-              {c.confidenza === "probabile" && <span className="badge badge-neutro">attribuzione incerta</span>}
+              {c.confidenza === "probabile" && <span className="badge badge-neutro" title="Il contratto è stato incluso automaticamente sulla base di parole generiche: potrebbe non riguardare l'accoglienza di migranti.">da verificare</span>}
             </div>
             <p className="oggetto">{c.oggetto}</p>
             <dl className="dettagli">
