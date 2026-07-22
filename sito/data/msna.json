@@ -5,339 +5,453 @@
  "nazionale": [
   {
    "periodo": "2016-01",
-   "presenti": 10601
+   "presenti": 10601,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-02",
-   "presenti": 11557
+   "presenti": 11557,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-03",
-   "presenti": 11434
+   "presenti": 11434,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-04",
-   "presenti": 11648
+   "presenti": 11648,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-05",
-   "presenti": 12005
+   "presenti": 12005,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-06",
-   "presenti": 11957
+   "presenti": 11957,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-07",
-   "presenti": 12708
+   "presenti": 12708,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-08",
-   "presenti": 13862
+   "presenti": 13862,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-09",
-   "presenti": 14225
+   "presenti": 14225,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-10",
-   "presenti": 15883
+   "presenti": 15883,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-11",
-   "presenti": 1198
+   "presenti": 1198,
+   "tipo": "mensile"
   },
   {
    "periodo": "2016-12",
-   "presenti": 1165
+   "presenti": 1165,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-01",
-   "presenti": 1037
+   "presenti": 1037,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-02",
-   "presenti": 1031
+   "presenti": 1031,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-03",
-   "presenti": 1091
+   "presenti": 1091,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-04",
-   "presenti": 1131
+   "presenti": 1131,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-05",
-   "presenti": 1123
+   "presenti": 1123,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-06",
-   "presenti": 1209
+   "presenti": 1209,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-07",
-   "presenti": 1304
+   "presenti": 1304,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-08",
-   "presenti": 1277
+   "presenti": 1277,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-09",
-   "presenti": 1280
+   "presenti": 1280,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-10",
-   "presenti": 1269
+   "presenti": 1269,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-11",
-   "presenti": 1291
+   "presenti": 1291,
+   "tipo": "mensile"
   },
   {
    "periodo": "2017-12",
-   "presenti": 1247
+   "presenti": 1247,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-01",
-   "presenti": 1101
+   "presenti": 1101,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-02",
-   "presenti": 1092
+   "presenti": 1092,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-03",
-   "presenti": 1057
+   "presenti": 1057,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-04",
-   "presenti": 1006
+   "presenti": 1006,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-05",
-   "presenti": 994
+   "presenti": 994,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-06",
-   "presenti": 982
+   "presenti": 982,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-07",
-   "presenti": 964
+   "presenti": 964,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-08",
-   "presenti": 918
+   "presenti": 918,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-09",
-   "presenti": 898
+   "presenti": 898,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-10",
-   "presenti": 871
+   "presenti": 871,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-11",
-   "presenti": 833
+   "presenti": 833,
+   "tipo": "mensile"
   },
   {
    "periodo": "2018-12",
-   "presenti": 787
+   "presenti": 787,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-01",
-   "presenti": 671
+   "presenti": 671,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-02",
-   "presenti": 647
+   "presenti": 647,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-03",
-   "presenti": 568
+   "presenti": 568,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-04",
-   "presenti": 548
+   "presenti": 548,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-05",
-   "presenti": 508
+   "presenti": 508,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-06",
-   "presenti": 491
+   "presenti": 491,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-07",
-   "presenti": 472
+   "presenti": 472,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-08",
-   "presenti": 469
+   "presenti": 469,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-09",
-   "presenti": 422
+   "presenti": 422,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-10",
-   "presenti": 398
+   "presenti": 398,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-11",
-   "presenti": 503
+   "presenti": 503,
+   "tipo": "mensile"
   },
   {
    "periodo": "2019-12",
-   "presenti": 317
+   "presenti": 317,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-01",
-   "presenti": 285
+   "presenti": 285,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-02",
-   "presenti": 260
+   "presenti": 260,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-03",
-   "presenti": 261
+   "presenti": 261,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-04",
-   "presenti": 241
+   "presenti": 241,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-05",
-   "presenti": 249
+   "presenti": 249,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-06",
-   "presenti": 238
+   "presenti": 238,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-07",
-   "presenti": 233
+   "presenti": 233,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-08",
-   "presenti": 232
+   "presenti": 232,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-09",
-   "presenti": 249
+   "presenti": 249,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-10",
-   "presenti": 221
+   "presenti": 221,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-11",
-   "presenti": 239
+   "presenti": 239,
+   "tipo": "mensile"
   },
   {
    "periodo": "2020-12",
-   "presenti": 252
+   "presenti": 252,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-01",
-   "presenti": 227
+   "presenti": 227,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-02",
-   "presenti": 218
+   "presenti": 218,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-03",
-   "presenti": 239
+   "presenti": 239,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-04",
-   "presenti": 241
+   "presenti": 241,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-05",
-   "presenti": 246
+   "presenti": 246,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-06",
-   "presenti": 256
+   "presenti": 256,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-07",
-   "presenti": 261
+   "presenti": 261,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-08",
-   "presenti": 271
+   "presenti": 271,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-09",
-   "presenti": 276
+   "presenti": 276,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-10",
-   "presenti": 261
+   "presenti": 261,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-11",
-   "presenti": 303
+   "presenti": 303,
+   "tipo": "mensile"
   },
   {
    "periodo": "2021-12",
-   "presenti": 333
+   "presenti": 333,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-01",
-   "presenti": 11542
+   "presenti": 11542,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-02",
-   "presenti": 11201
+   "presenti": 11201,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-03",
-   "presenti": 11937
+   "presenti": 11937,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-04",
-   "presenti": 14025
+   "presenti": 14025,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-05",
-   "presenti": 14558
+   "presenti": 14558,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-06",
-   "presenti": 15595
+   "presenti": 15595,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-07",
-   "presenti": 16470
+   "presenti": 16470,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-08",
-   "presenti": 17668
+   "presenti": 17668,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-09",
-   "presenti": 18801
+   "presenti": 18801,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-10",
-   "presenti": 18876
+   "presenti": 18876,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-11",
-   "presenti": 20032
+   "presenti": 20032,
+   "tipo": "mensile"
   },
   {
    "periodo": "2022-12",
-   "presenti": 20089
+   "presenti": 20089,
+   "tipo": "mensile"
+  },
+  {
+   "periodo": "2023-06",
+   "presenti": 20926,
+   "tipo": "semestrale"
+  },
+  {
+   "periodo": "2023-12",
+   "presenti": 23226,
+   "tipo": "semestrale"
+  },
+  {
+   "periodo": "2024-06",
+   "presenti": 20206,
+   "tipo": "semestrale"
+  },
+  {
+   "periodo": "2024-12",
+   "presenti": 18625,
+   "tipo": "semestrale"
+  },
+  {
+   "periodo": "2025-06",
+   "presenti": 16497,
+   "tipo": "semestrale"
+  },
+  {
+   "periodo": "2025-12",
+   "presenti": 17011,
+   "tipo": "semestrale"
   }
  ],
  "regioni": [
@@ -6920,5 +7034,7 @@
     }
    ]
   }
- ]
+ ],
+ "ultimo_totale_periodo": "2025-12",
+ "ultimo_totale": 17011
 }

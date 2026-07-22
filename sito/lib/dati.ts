@@ -46,10 +46,11 @@ export const nItal = (n: number) => n.toLocaleString("it-IT");
 
 
 import msnaRaw from "@/data/msna.json";
-export type MsnaPunto = { periodo: string; presenti: number };
+export type MsnaPunto = { periodo: string; presenti: number; tipo?: string };
 export type MsnaRegione = { regione: string; ultimo: number; primo: number; serie: MsnaPunto[] };
 export type MsnaData = {
   primo_periodo: string; ultimo_periodo: string; totale_ultimo: number;
   nazionale: MsnaPunto[]; regioni: MsnaRegione[];
+  ultimo_totale_periodo: string; ultimo_totale: number;
 };
 export const msnaData = msnaRaw as unknown as MsnaData;

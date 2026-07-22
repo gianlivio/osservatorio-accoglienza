@@ -9,3 +9,5 @@ node_modules/
 .next/
 dati-istat/
 dati-msna/
+dati-msna-sem/
+nazionale_completo.json

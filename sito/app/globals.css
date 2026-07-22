@@ -125,3 +125,12 @@ th.num .ordina{flex-direction:row-reverse}
 
 .spark{width:240px;height:40px;display:block}
 .cella-spark{width:260px;padding-top:6px!important;padding-bottom:6px!important}
+
+.grafico-naz{margin:8px 0 4px}
+.grafico-naz svg{width:100%;height:auto;display:block}
+.asse-txt{font-family:var(--dato);font-size:11px;fill:var(--tenue)}
+.legenda{font-family:var(--dato);font-size:12px;color:var(--tenue);
+  display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:8px}
+.leg-linea{display:inline-block;width:18px;height:2px;background:var(--timbro);margin-left:6px}
+.leg-punto{display:inline-block;width:9px;height:9px;border-radius:50%;
+  border:1.6px solid var(--timbro);background:var(--carta);margin-left:14px}

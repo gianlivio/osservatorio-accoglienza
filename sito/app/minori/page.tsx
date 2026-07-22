@@ -18,6 +18,42 @@ function Spark({ serie }: { serie: { presenti: number }[] }) {
   );
 }
 
+
+function GraficoNazionale({ serie }: { serie: { periodo: string; presenti: number; tipo?: string }[] }) {
+  const w = 720, h = 200, pad = 34;
+  const vals = serie.map((p) => p.presenti);
+  const max = Math.max(...vals), min = Math.min(...vals);
+  const range = max - min || 1;
+  const x = (i: number) => pad + (i / (serie.length - 1)) * (w - pad * 2);
+  const y = (v: number) => h - pad - ((v - min) / range) * (h - pad * 2);
+  const mensili = serie.filter((p) => p.tipo === "mensile");
+  const linea = mensili.map((p) => {
+    const i = serie.indexOf(p);
+    return `${x(i)},${y(p.presenti)}`;
+  }).join(" ");
+  const semestrali = serie.map((p, i) => ({ p, i })).filter((o) => o.p.tipo === "semestrale");
+  const primoAnno = serie[0].periodo.slice(0, 4);
+  const ultimoAnno = serie[serie.length - 1].periodo.slice(0, 4);
+  return (
+    <div className="grafico-naz">
+      <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="xMidYMid meet">
+        <polyline points={linea} fill="none" stroke="var(--timbro)" strokeWidth="1.6" />
+        {semestrali.map(({ p, i }) => (
+          <circle key={p.periodo} cx={x(i)} cy={y(p.presenti)} r="3.5"
+            fill="var(--carta)" stroke="var(--timbro)" strokeWidth="1.6" />
+        ))}
+        <text x={pad} y={h - 8} className="asse-txt">{primoAnno}</text>
+        <text x={w - pad} y={h - 8} className="asse-txt" textAnchor="end">{ultimoAnno}</text>
+        <text x={pad} y={y(max) - 6} className="asse-txt">{max.toLocaleString("it-IT")}</text>
+      </svg>
+      <p className="legenda">
+        <span className="leg-linea" /> rilevazione mensile ({primoAnno}–2022)
+        <span className="leg-punto" /> rilevazione semestrale (2023–{ultimoAnno})
+      </p>
+    </div>
+  );
+}
+
 export default function Minori() {
   const d = msnaData;
   const [pa, pm] = d.ultimo_periodo.split("-");
@@ -29,7 +65,7 @@ export default function Minori() {
   return (
     <main>
       <Link href="/" className="indietro">← torna all&apos;archivio contratti</Link>
-      <p className="occhiello">Un&apos;altra faccia dello stesso fenomeno</p>
+      <p className="occhiello">Dati del Ministero del Lavoro</p>
       <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>
       <p className="sommario">
         I minori stranieri non accompagnati sono le persone sotto la maggiore età che si
@@ -37,6 +73,18 @@ export default function Minori() {
         affida l&apos;accoglienza allo Stato. Il Ministero del Lavoro ne pubblica il numero
         presente in ciascuna regione, mese per mese. Qui è raccolto dal {primoAnno} al {pa}.
       </p>
+
+      <section className="sezione">
+        <h2 className="titolo-sezione">
+          Minori presenti in Italia, {msnaData.nazionale[0].periodo.slice(0,4)}–{msnaData.ultimo_totale_periodo.slice(0,4)}
+        </h2>
+        <p className="nota-tabella">
+          Numero complessivo di minori non accompagnati presenti nel Paese. Fino al 2022 la
+          rilevazione era mensile (linea); dal 2023 il Ministero pubblica il dato ogni sei
+          mesi (punti).
+        </p>
+        <GraficoNazionale serie={msnaData.nazionale} />
+      </section>
 
       <section className="sezione">
         <h2 className="titolo-sezione">Quante regioni accolgono, al {dataLeggibile}</h2>
