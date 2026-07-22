@@ -122,3 +122,6 @@ th.num .ordina{flex-direction:row-reverse}
 .badge-negoziata{border-color:var(--timbro);color:var(--timbro)}
 .badge-gara{border-color:var(--linea);color:var(--tenue)}
 .badge-altro{border-color:var(--linea);color:var(--tenue)}
+
+.spark{width:240px;height:40px;display:block}
+.cella-spark{width:260px;padding-top:6px!important;padding-bottom:6px!important}

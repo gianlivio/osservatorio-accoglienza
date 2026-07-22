@@ -43,3 +43,13 @@ export const euro = (n: number | null) =>
   n === null ? "n.d." : new Intl.NumberFormat("it-IT",
     { style: "currency", currency: "EUR", maximumFractionDigits: 0 }).format(n);
 export const nItal = (n: number) => n.toLocaleString("it-IT");
+
+
+import msnaRaw from "@/data/msna.json";
+export type MsnaPunto = { periodo: string; presenti: number };
+export type MsnaRegione = { regione: string; ultimo: number; primo: number; serie: MsnaPunto[] };
+export type MsnaData = {
+  primo_periodo: string; ultimo_periodo: string; totale_ultimo: number;
+  nazionale: MsnaPunto[]; regioni: MsnaRegione[];
+};
+export const msnaData = msnaRaw as unknown as MsnaData;

@@ -1,0 +1,6924 @@
+{
+ "primo_periodo": "2016-01",
+ "ultimo_periodo": "2022-12",
+ "totale_ultimo": 20089,
+ "nazionale": [
+  {
+   "periodo": "2016-01",
+   "presenti": 10601
+  },
+  {
+   "periodo": "2016-02",
+   "presenti": 11557
+  },
+  {
+   "periodo": "2016-03",
+   "presenti": 11434
+  },
+  {
+   "periodo": "2016-04",
+   "presenti": 11648
+  },
+  {
+   "periodo": "2016-05",
+   "presenti": 12005
+  },
+  {
+   "periodo": "2016-06",
+   "presenti": 11957
+  },
+  {
+   "periodo": "2016-07",
+   "presenti": 12708
+  },
+  {
+   "periodo": "2016-08",
+   "presenti": 13862
+  },
+  {
+   "periodo": "2016-09",
+   "presenti": 14225
+  },
+  {
+   "periodo": "2016-10",
+   "presenti": 15883
+  },
+  {
+   "periodo": "2016-11",
+   "presenti": 1198
+  },
+  {
+   "periodo": "2016-12",
+   "presenti": 1165
+  },
+  {
+   "periodo": "2017-01",
+   "presenti": 1037
+  },
+  {
+   "periodo": "2017-02",
+   "presenti": 1031
+  },
+  {
+   "periodo": "2017-03",
+   "presenti": 1091
+  },
+  {
+   "periodo": "2017-04",
+   "presenti": 1131
+  },
+  {
+   "periodo": "2017-05",
+   "presenti": 1123
+  },
+  {
+   "periodo": "2017-06",
+   "presenti": 1209
+  },
+  {
+   "periodo": "2017-07",
+   "presenti": 1304
+  },
+  {
+   "periodo": "2017-08",
+   "presenti": 1277
+  },
+  {
+   "periodo": "2017-09",
+   "presenti": 1280
+  },
+  {
+   "periodo": "2017-10",
+   "presenti": 1269
+  },
+  {
+   "periodo": "2017-11",
+   "presenti": 1291
+  },
+  {
+   "periodo": "2017-12",
+   "presenti": 1247
+  },
+  {
+   "periodo": "2018-01",
+   "presenti": 1101
+  },
+  {
+   "periodo": "2018-02",
+   "presenti": 1092
+  },
+  {
+   "periodo": "2018-03",
+   "presenti": 1057
+  },
+  {
+   "periodo": "2018-04",
+   "presenti": 1006
+  },
+  {
+   "periodo": "2018-05",
+   "presenti": 994
+  },
+  {
+   "periodo": "2018-06",
+   "presenti": 982
+  },
+  {
+   "periodo": "2018-07",
+   "presenti": 964
+  },
+  {
+   "periodo": "2018-08",
+   "presenti": 918
+  },
+  {
+   "periodo": "2018-09",
+   "presenti": 898
+  },
+  {
+   "periodo": "2018-10",
+   "presenti": 871
+  },
+  {
+   "periodo": "2018-11",
+   "presenti": 833
+  },
+  {
+   "periodo": "2018-12",
+   "presenti": 787
+  },
+  {
+   "periodo": "2019-01",
+   "presenti": 671
+  },
+  {
+   "periodo": "2019-02",
+   "presenti": 647
+  },
+  {
+   "periodo": "2019-03",
+   "presenti": 568
+  },
+  {
+   "periodo": "2019-04",
+   "presenti": 548
+  },
+  {
+   "periodo": "2019-05",
+   "presenti": 508
+  },
+  {
+   "periodo": "2019-06",
+   "presenti": 491
+  },
+  {
+   "periodo": "2019-07",
+   "presenti": 472
+  },
+  {
+   "periodo": "2019-08",
+   "presenti": 469
+  },
+  {
+   "periodo": "2019-09",
+   "presenti": 422
+  },
+  {
+   "periodo": "2019-10",
+   "presenti": 398
+  },
+  {
+   "periodo": "2019-11",
+   "presenti": 503
+  },
+  {
+   "periodo": "2019-12",
+   "presenti": 317
+  },
+  {
+   "periodo": "2020-01",
+   "presenti": 285
+  },
+  {
+   "periodo": "2020-02",
+   "presenti": 260
+  },
+  {
+   "periodo": "2020-03",
+   "presenti": 261
+  },
+  {
+   "periodo": "2020-04",
+   "presenti": 241
+  },
+  {
+   "periodo": "2020-05",
+   "presenti": 249
+  },
+  {
+   "periodo": "2020-06",
+   "presenti": 238
+  },
+  {
+   "periodo": "2020-07",
+   "presenti": 233
+  },
+  {
+   "periodo": "2020-08",
+   "presenti": 232
+  },
+  {
+   "periodo": "2020-09",
+   "presenti": 249
+  },
+  {
+   "periodo": "2020-10",
+   "presenti": 221
+  },
+  {
+   "periodo": "2020-11",
+   "presenti": 239
+  },
+  {
+   "periodo": "2020-12",
+   "presenti": 252
+  },
+  {
+   "periodo": "2021-01",
+   "presenti": 227
+  },
+  {
+   "periodo": "2021-02",
+   "presenti": 218
+  },
+  {
+   "periodo": "2021-03",
+   "presenti": 239
+  },
+  {
+   "periodo": "2021-04",
+   "presenti": 241
+  },
+  {
+   "periodo": "2021-05",
+   "presenti": 246
+  },
+  {
+   "periodo": "2021-06",
+   "presenti": 256
+  },
+  {
+   "periodo": "2021-07",
+   "presenti": 261
+  },
+  {
+   "periodo": "2021-08",
+   "presenti": 271
+  },
+  {
+   "periodo": "2021-09",
+   "presenti": 276
+  },
+  {
+   "periodo": "2021-10",
+   "presenti": 261
+  },
+  {
+   "periodo": "2021-11",
+   "presenti": 303
+  },
+  {
+   "periodo": "2021-12",
+   "presenti": 333
+  },
+  {
+   "periodo": "2022-01",
+   "presenti": 11542
+  },
+  {
+   "periodo": "2022-02",
+   "presenti": 11201
+  },
+  {
+   "periodo": "2022-03",
+   "presenti": 11937
+  },
+  {
+   "periodo": "2022-04",
+   "presenti": 14025
+  },
+  {
+   "periodo": "2022-05",
+   "presenti": 14558
+  },
+  {
+   "periodo": "2022-06",
+   "presenti": 15595
+  },
+  {
+   "periodo": "2022-07",
+   "presenti": 16470
+  },
+  {
+   "periodo": "2022-08",
+   "presenti": 17668
+  },
+  {
+   "periodo": "2022-09",
+   "presenti": 18801
+  },
+  {
+   "periodo": "2022-10",
+   "presenti": 18876
+  },
+  {
+   "periodo": "2022-11",
+   "presenti": 20032
+  },
+  {
+   "periodo": "2022-12",
+   "presenti": 20089
+  }
+ ],
+ "regioni": [
+  {
+   "regione": "Sicilia",
+   "ultimo": 3923,
+   "primo": 3579,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 3579
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 4065
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 4150
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 4258
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 4651
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 4776
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 5101
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 5750
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 5888
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 6344
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 674
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 636
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 538
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 532
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 573
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 597
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 581
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 658
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 737
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 731
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 737
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 726
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 769
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 732
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 629
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 605
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 587
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 558
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 564
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 542
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 516
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 494
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 480
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 438
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 458
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 401
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 301
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 288
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 251
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 252
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 225
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 207
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 201
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 197
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 160
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 154
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 130
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 130
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 90
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 73
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 62
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 66
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 62
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 73
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 53
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 56
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 54
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 71
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 51
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 59
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 59
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 43
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 52
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 72
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 71
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 82
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 90
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 103
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 112
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 119
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 100
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 130
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 132
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 3200
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 3112
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 2712
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 2523
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 2299
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 2742
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 3045
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 3494
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 3833
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 3980
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 4021
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 3923
+    }
+   ]
+  },
+  {
+   "regione": "Lombardia",
+   "ultimo": 2880,
+   "primo": 883,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 883
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 919
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 890
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 872
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 894
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 882
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 902
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 995
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 865
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 974
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 48
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 54
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 53
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 55
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 62
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 68
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 64
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 66
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 66
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 65
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 73
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 68
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 67
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 65
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 63
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 57
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 55
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 53
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 51
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 51
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 53
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 51
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 50
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 51
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 43
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 42
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 41
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 38
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 34
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 37
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 30
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 28
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 27
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 27
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 26
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 28
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 25
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 25
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 25
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 22
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 20
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 21
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 22
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 22
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 22
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 21
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 22
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 25
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 24
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 20
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 21
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 22
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 23
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 22
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 21
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 26
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 26
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 28
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 30
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 1221
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 1246
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 1596
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 2749
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 2887
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 2859
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 2875
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 2833
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 2875
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 2895
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 2842
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 2880
+    }
+   ]
+  },
+  {
+   "regione": "Calabria",
+   "ultimo": 2068,
+   "primo": 863,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 863
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 912
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 927
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 851
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 880
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 901
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 988
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 1059
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 1119
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 1407
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 98
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 91
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 69
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 73
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 74
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 72
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 74
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 80
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 79
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 73
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 71
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 77
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 71
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 65
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 52
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 48
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 48
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 39
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 37
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 38
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 36
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 36
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 35
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 33
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 41
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 26
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 23
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 21
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 20
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 10
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 10
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 10
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 5
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 5
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 6
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 6
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 5
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 5
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 15
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 1278
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 1224
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 1070
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 1175
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 961
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 1024
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 1122
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 1596
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 2003
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 1840
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 2351
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 2068
+    }
+   ]
+  },
+  {
+   "regione": "Emilia-Romagna",
+   "ultimo": 1814,
+   "primo": 793,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 793
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 877
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 833
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 839
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 820
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 843
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 845
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 855
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 882
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 1059
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 65
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 69
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 64
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 65
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 69
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 74
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 73
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 72
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 67
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 68
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 65
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 64
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 58
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 63
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 60
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 61
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 62
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 62
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 60
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 58
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 66
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 65
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 63
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 63
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 58
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 58
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 56
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 53
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 40
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 39
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 32
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 37
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 34
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 37
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 46
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 40
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 42
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 41
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 38
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 38
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 32
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 30
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 30
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 30
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 28
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 29
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 28
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 24
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 22
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 26
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 23
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 21
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 26
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 23
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 22
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 23
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 26
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 912
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 883
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 1030
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 1231
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 1491
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 1639
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 1653
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 1691
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 1713
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 1747
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 1766
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 1814
+    }
+   ]
+  },
+  {
+   "regione": "Campania",
+   "ultimo": 1135,
+   "primo": 453,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 453
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 513
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 510
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 531
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 532
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 572
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 566
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 567
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 636
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 720
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 24
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 23
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 20
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 18
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 20
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 28
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 41
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 45
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 45
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 44
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 39
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 37
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 35
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 30
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 24
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 23
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 20
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 18
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 17
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 16
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 16
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 14
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 14
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 13
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 11
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 14
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 13
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 17
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 17
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 17
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 16
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 16
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 13
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 13
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 13
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 11
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 10
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 9
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 7
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 5
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 7
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 381
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 381
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 430
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 536
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 592
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 684
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 734
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 836
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 886
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 888
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 1015
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 1135
+    }
+   ]
+  },
+  {
+   "regione": "Lazio",
+   "ultimo": 1087,
+   "primo": 838,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 838
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 856
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 792
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 913
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 886
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 858
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 837
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 873
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 838
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 860
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 30
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 29
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 30
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 29
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 29
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 29
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 31
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 29
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 35
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 34
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 40
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 46
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 41
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 45
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 43
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 69
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 63
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 61
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 63
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 61
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 60
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 60
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 62
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 60
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 55
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 58
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 55
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 53
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 51
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 28
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 26
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 30
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 29
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 29
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 31
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 23
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 22
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 24
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 21
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 21
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 24
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 19
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 17
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 17
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 19
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 18
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 26
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 20
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 20
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 27
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 27
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 22
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 21
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 21
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 28
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 19
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 494
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 460
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 433
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 549
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 754
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 906
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 983
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 998
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 973
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 969
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 1098
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 1087
+    }
+   ]
+  },
+  {
+   "regione": "Friuli-Venezia Giulia",
+   "ultimo": 963,
+   "primo": 428,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 428
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 474
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 496
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 498
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 475
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 487
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 510
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 546
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 538
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 615
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 10
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 10
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 11
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 13
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 12
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 11
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 11
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 10
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 16
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 12
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 13
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 12
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 11
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 12
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 9
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 9
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 10
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 11
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 10
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 9
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 10
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 11
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 10
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 11
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 10
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 11
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 11
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 11
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 13
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 909
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 846
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 813
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 744
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 681
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 731
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 793
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 872
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 942
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 960
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 973
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 963
+    }
+   ]
+  },
+  {
+   "regione": "Toscana",
+   "ultimo": 902,
+   "primo": 509,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 509
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 553
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 518
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 509
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 503
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 512
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 494
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 515
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 541
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 568
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 37
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 40
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 38
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 39
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 40
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 41
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 40
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 44
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 46
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 42
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 38
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 38
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 37
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 36
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 36
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 38
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 37
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 36
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 34
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 32
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 32
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 31
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 30
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 29
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 24
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 24
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 26
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 24
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 17
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 20
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 21
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 23
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 23
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 26
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 23
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 23
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 24
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 19
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 17
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 14
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 14
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 11
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 9
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 12
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 12
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 12
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 12
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 12
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 14
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 13
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 12
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 9
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 6
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 7
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 461
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 456
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 599
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 710
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 767
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 759
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 776
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 783
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 829
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 840
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 866
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 902
+    }
+   ]
+  },
+  {
+   "regione": "Piemonte",
+   "ultimo": 885,
+   "primo": 341,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 341
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 368
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 357
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 353
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 345
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 343
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 363
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 365
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 382
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 482
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 42
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 48
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 50
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 51
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 55
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 53
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 52
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 56
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 57
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 57
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 53
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 52
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 50
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 55
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 55
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 54
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 48
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 50
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 48
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 51
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 51
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 45
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 46
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 47
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 39
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 42
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 39
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 42
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 45
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 50
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 47
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 42
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 40
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 38
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 40
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 38
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 36
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 29
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 31
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 31
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 31
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 28
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 29
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 34
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 30
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 30
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 26
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 23
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 27
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 29
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 29
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 28
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 27
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 28
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 27
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 27
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 26
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 26
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 27
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 28
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 31
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 368
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 372
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 523
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 683
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 735
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 756
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 780
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 816
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 866
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 851
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 845
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 885
+    }
+   ]
+  },
+  {
+   "regione": "Puglia",
+   "ultimo": 880,
+   "primo": 890,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 890
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 906
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 858
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 852
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 801
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 771
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 735
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 732
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 838
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 884
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 80
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 79
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 71
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 67
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 64
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 64
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 61
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 56
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 56
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 53
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 51
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 49
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 49
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 48
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 47
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 49
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 44
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 38
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 36
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 49
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 47
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 39
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 37
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 38
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 29
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 31
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 28
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 28
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 27
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 24
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 19
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 21
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 20
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 20
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 15
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 18
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 26
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 30
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 26
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 24
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 31
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 27
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 27
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 33
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 31
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 30
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 31
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 34
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 36
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 37
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 33
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 29
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 34
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 31
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 27
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 29
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 28
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 26
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 25
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 24
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 21
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 32
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 729
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 674
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 701
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 671
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 545
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 530
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 507
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 532
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 550
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 525
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 823
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 880
+    }
+   ]
+  },
+  {
+   "regione": "Veneto",
+   "ultimo": 814,
+   "primo": 306,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 306
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 327
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 276
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 284
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 291
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 289
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 297
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 303
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 306
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 22
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 23
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 23
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 22
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 24
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 25
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 26
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 25
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 25
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 24
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 25
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 28
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 29
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 27
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 26
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 26
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 30
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 30
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 29
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 30
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 32
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 28
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 26
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 30
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 29
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 27
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 27
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 26
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 16
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 18
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 20
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 19
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 18
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 22
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 21
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 21
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 19
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 13
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 12
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 13
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 10
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 11
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 11
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 10
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 10
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 9
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 9
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 9
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 9
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 8
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 6
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 6
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 6
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 6
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 6
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 292
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 289
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 435
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 660
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 773
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 760
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 846
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 796
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 806
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 796
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 798
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 814
+    }
+   ]
+  },
+  {
+   "regione": "Liguria",
+   "ultimo": 794,
+   "primo": 170,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 170
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 184
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 182
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 163
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 155
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 169
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 175
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 204
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 219
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 235
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 5
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 5
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 5
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 5
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 5
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 4
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 6
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 6
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 5
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 5
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 376
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 370
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 455
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 544
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 581
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 629
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 663
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 718
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 765
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 793
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 796
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 794
+    }
+   ]
+  },
+  {
+   "regione": "Abruzzo",
+   "ultimo": 491,
+   "primo": 43,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 43
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 55
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 47
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 48
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 44
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 64
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 77
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 91
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 94
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 120
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 5
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 5
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 7
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 8
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 1
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 1
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 4
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 161
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 168
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 218
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 234
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 365
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 383
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 440
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 408
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 418
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 439
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 464
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 491
+    }
+   ]
+  },
+  {
+   "regione": "Marche",
+   "ultimo": 435,
+   "primo": 94,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 94
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 114
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 110
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 118
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 120
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 151
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 158
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 166
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 170
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 174
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 4
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 4
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 7
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 9
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 7
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 6
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 203
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 200
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 272
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 319
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 375
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 364
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 382
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 381
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 408
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 422
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 416
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 435
+    }
+   ]
+  },
+  {
+   "regione": "Basilicata",
+   "ultimo": 358,
+   "primo": 87,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 87
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 93
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 103
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 146
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 175
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 180
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 189
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 212
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 227
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 276
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 1
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 9
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 234
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 222
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 217
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 224
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 205
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 230
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 247
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 250
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 256
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 252
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 299
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 358
+    }
+   ]
+  },
+  {
+   "regione": "Sardegna",
+   "ultimo": 190,
+   "primo": 185,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 185
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 190
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 236
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 252
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 249
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 257
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 272
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 418
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 452
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 606
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 21
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 18
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 23
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 23
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 26
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 28
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 28
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 28
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 28
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 29
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 26
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 24
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 23
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 19
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 17
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 16
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 14
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 12
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 9
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 7
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 74
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 68
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 145
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 154
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 169
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 169
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 175
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 188
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 184
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 185
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 185
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 190
+    }
+   ]
+  },
+  {
+   "regione": "Umbria",
+   "ultimo": 156,
+   "primo": 19,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 19
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 21
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 21
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 21
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 20
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 18
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 16
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 15
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 15
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 16
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 4
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 7
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 4
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 9
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 9
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 6
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 5
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 4
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 5
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 80
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 74
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 98
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 108
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 130
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 154
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 155
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 162
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 165
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 157
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 153
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 156
+    }
+   ]
+  },
+  {
+   "regione": "Molise",
+   "ultimo": 138,
+   "primo": 17,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 17
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 19
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 17
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 19
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 50
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 50
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 65
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 77
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 77
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 90
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 2
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 8
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 1
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 4
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 1
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 1
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 70
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 52
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 81
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 91
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 125
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 132
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 133
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 141
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 151
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 157
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 150
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 138
+    }
+   ]
+  },
+  {
+   "regione": "Trento",
+   "ultimo": 86,
+   "primo": 30,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 30
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 33
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 33
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 40
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 36
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 40
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 47
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 51
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 57
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 61
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 11
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 11
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 12
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 11
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 10
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 10
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 9
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 10
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 9
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 7
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 6
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 5
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 3
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 2
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 1
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 26
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 24
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 32
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 34
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 44
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 56
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 68
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 75
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 83
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 87
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 81
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 86
+    }
+   ]
+  },
+  {
+   "regione": "Bolzano",
+   "ultimo": 76,
+   "primo": 67,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 67
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 72
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 74
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 77
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 74
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 79
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 75
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 70
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 81
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 83
+    },
+    {
+     "periodo": "2016-11",
+     "presenti": 20
+    },
+    {
+     "periodo": "2016-12",
+     "presenti": 19
+    },
+    {
+     "periodo": "2017-01",
+     "presenti": 19
+    },
+    {
+     "periodo": "2017-02",
+     "presenti": 17
+    },
+    {
+     "periodo": "2017-03",
+     "presenti": 17
+    },
+    {
+     "periodo": "2017-04",
+     "presenti": 18
+    },
+    {
+     "periodo": "2017-05",
+     "presenti": 19
+    },
+    {
+     "periodo": "2017-06",
+     "presenti": 18
+    },
+    {
+     "periodo": "2017-07",
+     "presenti": 18
+    },
+    {
+     "periodo": "2017-08",
+     "presenti": 19
+    },
+    {
+     "periodo": "2017-09",
+     "presenti": 19
+    },
+    {
+     "periodo": "2017-10",
+     "presenti": 19
+    },
+    {
+     "periodo": "2017-11",
+     "presenti": 19
+    },
+    {
+     "periodo": "2017-12",
+     "presenti": 19
+    },
+    {
+     "periodo": "2018-01",
+     "presenti": 17
+    },
+    {
+     "periodo": "2018-02",
+     "presenti": 17
+    },
+    {
+     "periodo": "2018-03",
+     "presenti": 17
+    },
+    {
+     "periodo": "2018-04",
+     "presenti": 17
+    },
+    {
+     "periodo": "2018-05",
+     "presenti": 15
+    },
+    {
+     "periodo": "2018-06",
+     "presenti": 15
+    },
+    {
+     "periodo": "2018-07",
+     "presenti": 13
+    },
+    {
+     "periodo": "2018-08",
+     "presenti": 14
+    },
+    {
+     "periodo": "2018-09",
+     "presenti": 16
+    },
+    {
+     "periodo": "2018-10",
+     "presenti": 19
+    },
+    {
+     "periodo": "2018-11",
+     "presenti": 13
+    },
+    {
+     "periodo": "2018-12",
+     "presenti": 17
+    },
+    {
+     "periodo": "2019-01",
+     "presenti": 16
+    },
+    {
+     "periodo": "2019-02",
+     "presenti": 15
+    },
+    {
+     "periodo": "2019-03",
+     "presenti": 13
+    },
+    {
+     "periodo": "2019-04",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-05",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-06",
+     "presenti": 12
+    },
+    {
+     "periodo": "2019-07",
+     "presenti": 11
+    },
+    {
+     "periodo": "2019-08",
+     "presenti": 11
+    },
+    {
+     "periodo": "2019-09",
+     "presenti": 9
+    },
+    {
+     "periodo": "2019-10",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-11",
+     "presenti": 8
+    },
+    {
+     "periodo": "2019-12",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-01",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-02",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-03",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-04",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-05",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-06",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 7
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 8
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 7
+    },
+    {
+     "periodo": "2020-10",
+     "presenti": 7
+    },
+    {
+     "periodo": "2020-11",
+     "presenti": 7
+    },
+    {
+     "periodo": "2020-12",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-01",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-02",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-03",
+     "presenti": 7
+    },
+    {
+     "periodo": "2021-04",
+     "presenti": 6
+    },
+    {
+     "periodo": "2021-05",
+     "presenti": 5
+    },
+    {
+     "periodo": "2021-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-07",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-08",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-10",
+     "presenti": 4
+    },
+    {
+     "periodo": "2021-11",
+     "presenti": 3
+    },
+    {
+     "periodo": "2021-12",
+     "presenti": 3
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 65
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 73
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 74
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 76
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 67
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 75
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 77
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 81
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 80
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 78
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 75
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 76
+    }
+   ]
+  },
+  {
+   "regione": "Valle d'Aosta",
+   "ultimo": 14,
+   "primo": 6,
+   "serie": [
+    {
+     "periodo": "2016-01",
+     "presenti": 6
+    },
+    {
+     "periodo": "2016-02",
+     "presenti": 6
+    },
+    {
+     "periodo": "2016-03",
+     "presenti": 4
+    },
+    {
+     "periodo": "2016-04",
+     "presenti": 4
+    },
+    {
+     "periodo": "2016-05",
+     "presenti": 4
+    },
+    {
+     "periodo": "2016-06",
+     "presenti": 4
+    },
+    {
+     "periodo": "2016-07",
+     "presenti": 4
+    },
+    {
+     "periodo": "2016-08",
+     "presenti": 4
+    },
+    {
+     "periodo": "2016-09",
+     "presenti": 3
+    },
+    {
+     "periodo": "2016-10",
+     "presenti": 3
+    },
+    {
+     "periodo": "2020-07",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-08",
+     "presenti": 1
+    },
+    {
+     "periodo": "2020-09",
+     "presenti": 1
+    },
+    {
+     "periodo": "2022-01",
+     "presenti": 8
+    },
+    {
+     "periodo": "2022-02",
+     "presenti": 7
+    },
+    {
+     "periodo": "2022-03",
+     "presenti": 3
+    },
+    {
+     "periodo": "2022-04",
+     "presenti": 10
+    },
+    {
+     "periodo": "2022-05",
+     "presenti": 12
+    },
+    {
+     "periodo": "2022-06",
+     "presenti": 13
+    },
+    {
+     "periodo": "2022-07",
+     "presenti": 16
+    },
+    {
+     "periodo": "2022-08",
+     "presenti": 17
+    },
+    {
+     "periodo": "2022-09",
+     "presenti": 15
+    },
+    {
+     "periodo": "2022-10",
+     "presenti": 15
+    },
+    {
+     "periodo": "2022-11",
+     "presenti": 15
+    },
+    {
+     "periodo": "2022-12",
+     "presenti": 14
+    }
+   ]
+  }
+ ]
+}
