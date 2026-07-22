@@ -79,9 +79,8 @@ export default function Minori() {
           Minori presenti in Italia, {msnaData.nazionale[0].periodo.slice(0,4)}–{msnaData.ultimo_totale_periodo.slice(0,4)}
         </h2>
         <p className="nota-tabella">
-          Numero complessivo di minori non accompagnati presenti nel Paese. Fino al 2022 la
-          rilevazione era mensile (linea); dal 2023 il Ministero pubblica il dato ogni sei
-          mesi (punti).
+          Quanti minori non accompagnati ci sono in Italia. Fino al 2022 il conteggio era
+          mensile (la linea); dal 2023 il Ministero lo pubblica ogni sei mesi (i punti).
         </p>
         <GraficoNazionale serie={msnaData.nazionale} />
       </section>
@@ -89,8 +88,8 @@ export default function Minori() {
       <section className="sezione">
         <h2 className="titolo-sezione">Quante regioni accolgono, al {dataLeggibile}</h2>
         <p className="nota-tabella">
-          La linea mostra l&apos;andamento dei minori presenti in ogni regione nel tempo.
-          L&apos;ordine è per numero attuale.
+          Ogni linea segue nel tempo i minori presenti in una regione. In ordine di numero,
+          dal più alto.
         </p>
         <table className="tabella">
           <thead>

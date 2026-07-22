@@ -24,7 +24,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <div className="cifre">
           <div className="cifra"><b>{t.affidamenti}</b><span>contratti firmati</span></div>
           <div className="cifra"><b>{t.diretti}</b><span>assegnati senza gara ({t.quota_diretti}%)</span></div>
-          <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>valore tipico di un contratto</span></div>
+          <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano</span></div>
           <div className="cifra"><b>{t.canale_prefettura}</b><span>firmati dalla Prefettura</span></div>
           <div className="cifra"><b>{t.canale_ente_locale}</b><span>firmati da comuni o enti locali</span></div>
           <div className="cifra"><b>{t.prosecuzioni}</b><span>rinnovi di contratti già in corso</span></div>
