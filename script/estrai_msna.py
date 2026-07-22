@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Estrae la presenza MSNA per regione dai report mensili PDF del Ministero del Lavoro.
-Uso: python3 script/estrai_msna.py  (legge dati-msna/*.pdf, scrive sito-dati/msna.json)"""
+Uso: python3 script/estrai_msna.py  (legge dati-msna/*.pdf, scrive sito/data/msna.json)"""
 import pdfplumber, os, re, glob, json, warnings, logging
 warnings.filterwarnings("ignore")
 logging.getLogger("pdfminer").setLevel(logging.ERROR)
@@ -54,10 +54,10 @@ def main():
             va = primo_intero(riga)
             if va and 0 < va < 100000:
                 righe.append({"anno":anno,"mese":mese,"regione":reg,"presenti":va})
-    os.makedirs("sito-dati", exist_ok=True)
-    json.dump(righe, open("sito-dati/msna.json","w"), ensure_ascii=False)
+    os.makedirs("sito/data", exist_ok=True)
+    json.dump(righe, open("sito/data/msna.json","w"), ensure_ascii=False)
     mesi = len(set((r["anno"],r["mese"]) for r in righe))
-    print(f"{len(righe)} righe, {mesi} mesi -> sito-dati/msna.json")
+    print(f"{len(righe)} righe, {mesi} mesi -> sito/data/msna.json")
 
 if __name__ == "__main__":
     main()

@@ -3,12 +3,13 @@
 import csv, glob, os, re, json, html, zipfile, io, collections, statistics
 
 csv.field_size_limit(10_000_000)
-ANNI   = [str(a) for a in range(2015, 2026)]
-ANNI_ESITO = {"2024", "2025"}  # esiti e aggiudicatari attendibili solo da qui
+import datetime
+ANNI   = [str(a) for a in range(2015, datetime.date.today().year + 1)]
+ANNI_ESITO = {str(a) for a in range(2024, datetime.date.today().year + 1)}  # esiti attendibili dal 2024
 SOGLIA = 140000
 Z_AGG  = "dati-grezzi/aggiudicazioni_csv.zip"
 Z_VIN  = "dati-grezzi/aggiudicatari_csv.zip"
-OUTJS  = "sito-dati/province.json"
+OUTJS  = "sito/data/province.json"
 
 def pulisci(v):
     return re.sub(r"\s+", " ", html.unescape(v or "")).strip()
@@ -65,7 +66,7 @@ for r in righe:
     r["canale"] = "prefettura" if prefettura(r) else "ente locale"
 
 # --- 3. un CSV per anno ------------------------------------------------------
-os.makedirs("sito-dati", exist_ok=True)
+os.makedirs("sito/data", exist_ok=True)
 campi = list(righe[0].keys())
 for a in ANNI:
     rr = [r for r in righe if r["anno"] == a]

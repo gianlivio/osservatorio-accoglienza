@@ -1,0 +1,109 @@
+name: Aggiornamento mensile dati ANAC
+
+on:
+  schedule:
+    - cron: "0 6 2 * *"   # il 2 di ogni mese, 06:00 UTC
+  workflow_dispatch: {}    # avvio manuale dal tab Actions
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Calcola il mese da scaricare
+        id: mese
+        run: |
+          # mese precedente rispetto a oggi
+          A=$(date -u -d "last month" +%Y)
+          M=$(date -u -d "last month" +%m)
+          echo "anno=$A" >> $GITHUB_OUTPUT
+          echo "mese=$M" >> $GITHUB_OUTPUT
+          echo "Scarico CIG $A-$M"
+
+      - name: Scarica i dati ANAC
+        id: scarica
+        run: |
+          mkdir -p dati-grezzi output
+          A=${{ steps.mese.outputs.anno }}
+          M=${{ steps.mese.outputs.mese }}
+          set +e
+          curl -fL -C - --retry 5 --retry-delay 10 --speed-limit 3000 --speed-time 60 \
+            -o dati-grezzi/cig_csv_${A}_${M}.zip \
+            "https://dati.anticorruzione.it/opendata/download/dataset/cig-${A}/filesystem/cig_csv_${A}_${M}.zip"
+          CIG_OK=$?
+          curl -fL -C - --retry 5 --retry-delay 10 \
+            -o dati-grezzi/aggiudicazioni_csv.zip \
+            "https://dati.anticorruzione.it/opendata/download/dataset/aggiudicazioni/filesystem/aggiudicazioni_csv.zip"
+          curl -fL -C - --retry 5 --retry-delay 10 \
+            -o dati-grezzi/aggiudicatari_csv.zip \
+            "https://dati.anticorruzione.it/opendata/download/dataset/aggiudicatari/filesystem/aggiudicatari_csv.zip"
+          echo "cig_ok=$CIG_OK" >> $GITHUB_OUTPUT
+          if [ $CIG_OK -ne 0 ]; then
+            echo "Download CIG fallito"; exit 1
+          fi
+
+      - name: Estrai e ricostruisci
+        run: |
+          A=${{ steps.mese.outputs.anno }}
+          M=${{ steps.mese.outputs.mese }}
+          unzip -o dati-grezzi/cig_csv_${A}_${M}.zip -d dati-grezzi/
+          python3 script/estrai2.py dati-grezzi/cig_csv_${A}_${M}.csv
+          mv accoglienza_${A}_${M}.csv output/ 2>/dev/null || true
+          python3 script/costruisci.py
+
+      - name: Commit se ci sono novità
+        id: commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          if git diff --quiet sito/data/province.json; then
+            echo "cambiato=no" >> $GITHUB_OUTPUT
+            echo "Nessuna novità nel dato"
+          else
+            git add sito/data/province.json
+            git commit -m "Aggiornamento automatico dati ANAC ${{ steps.mese.outputs.anno }}-${{ steps.mese.outputs.mese }}"
+            git push
+            echo "cambiato=si" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Notifica esito
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const esito = "${{ job.status }}";
+            const cambiato = "${{ steps.commit.outputs.cambiato }}";
+            const a = "${{ steps.mese.outputs.anno }}", m = "${{ steps.mese.outputs.mese }}";
+            let titolo, corpo;
+            if (esito === "success" && cambiato === "si") {
+              titolo = `✅ Dati aggiornati: ${a}-${m}`;
+              corpo = `L'aggiornamento automatico di ${a}-${m} è andato a buon fine e il dato è cambiato.\n\n`
+                + `Vercel sta ridistribuendo il sito. Tra qualche minuto le novità saranno visibili su https://osservatorio-accoglienza-2tkz.vercel.app\n\n`
+                + `Controlla la tabella delle province e le schede: i nuovi contratti del mese ${a}-${m} dovrebbero comparire.`;
+            } else if (esito === "success" && cambiato === "no") {
+              titolo = `➖ Nessuna novità: ${a}-${m}`;
+              corpo = `L'aggiornamento è andato a buon fine ma il dato non è cambiato: ANAC potrebbe non aver ancora pubblicato il mese ${a}-${m}, oppure non c'erano nuovi contratti di accoglienza.\n\nRiprova manualmente più avanti dal tab Actions (pulsante "Run workflow").`;
+            } else {
+              titolo = `❌ Aggiornamento fallito: ${a}-${m}`;
+              corpo = `L'aggiornamento automatico di ${a}-${m} è fallito.\n\n`
+                + `Causa probabile: ANAC ha rifiutato il download dal server GitHub, oppure ha cambiato il formato dei file.\n\n`
+                + `Cosa fare: apri il log della Action per vedere l'errore, oppure aggiorna a mano sul tuo computer con:\n`
+                + "```\ncd ~/osservatorio\n"
+                + `curl -fL -C - -o dati-grezzi/cig_csv_${a}_${m}.zip "https://dati.anticorruzione.it/opendata/download/dataset/cig-${a}/filesystem/cig_csv_${a}_${m}.zip"\n`
+                + `unzip -o dati-grezzi/cig_csv_${a}_${m}.zip -d dati-grezzi/\n`
+                + `python3 script/estrai2.py dati-grezzi/cig_csv_${a}_${m}.csv && mv accoglienza_${a}_${m}.csv output/\n`
+                + "python3 script/costruisci.py && git add -A && git commit -m 'aggiornamento manuale' && git push\n```";
+            }
+            await github.rest.issues.create({
+              owner: context.repo.owner, repo: context.repo.repo,
+              title: titolo, body: corpo,
+            });
