@@ -27,8 +27,11 @@ export default function ElencoContratti({ contratti }: { contratti: Contratto[] 
           <li key={c.cig + "-" + i} className="contratto">
             <div className="riga-alta">
               <span className="data-c">{c.data}</span>
-              <span className={"badge " + (c.diretto ? "badge-diretto" : "badge-gara")}>
-                {c.diretto ? "senza gara" : "con gara"}
+              <span className={"badge badge-" + c.modalita}>
+                {c.modalita === "diretto" ? "affidamento diretto"
+                  : c.modalita === "negoziata" ? "negoziata, senza bando"
+                  : c.modalita === "gara" ? "gara con bando"
+                  : "altra procedura"}
               </span>
               {c.da_accordo && <span className="badge badge-neutro">da accordo quadro</span>}
               {c.confidenza === "probabile" && <span className="badge badge-neutro" title="Il contratto è stato incluso automaticamente sulla base di parole generiche: potrebbe non riguardare l'accoglienza di migranti.">da verificare</span>}

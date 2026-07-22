@@ -117,3 +117,8 @@ th.num .ordina{flex-direction:row-reverse}
 .dettagli dd{color:var(--inchiostro)}
 .dettagli dd.mono{font-family:var(--dato);font-size:12px}
 .altri{margin-bottom:8px}
+
+.badge-diretto{background:var(--timbro);border-color:var(--timbro);color:var(--carta)}
+.badge-negoziata{border-color:var(--timbro);color:var(--timbro)}
+.badge-gara{border-color:var(--linea);color:var(--tenue)}
+.badge-altro{border-color:var(--linea);color:var(--tenue)}

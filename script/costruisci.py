@@ -83,6 +83,16 @@ def num(v, lo=None, hi=None):
 def diretto(r):
     return "AFFIDAMENTO DIRETTO" in (r["tipo_scelta_contraente"] or "")
 
+def modalita(r):
+    t = (r["tipo_scelta_contraente"] or "").upper()
+    if "AFFIDAMENTO DIRETTO" in t or "COTTIMO FIDUCIARIO" in t or "AFFIDAMENTO RISERVATO" in t:
+        return "diretto"
+    if "APERTA" in t or "RISTRETTA" in t or "DIALOGO" in t or "CONFRONTO COMPETITIVO" in t or "PROCEDURA DI GARA" in t or "SISTEMA DINAMICO" in t or ("PREVIA PUBBLICAZIONE" in t and "SENZA" not in t) or "PREVIA INDIZIONE" in t or "AVVISI CON CUI SI INDICE" in t:
+        return "gara"
+    if "NEGOZIATA" in t or "COMPETITIVA CON NEGOZIAZIONE" in t or "PARTE" in t or "ALTRA PROCEDURA" in t:
+        return "negoziata"
+    return "altro"
+
 PROROGA = re.compile(r"prosecuzion|prorog|rinnov|proseguimento", re.I)
 
 def blocco(rr):
@@ -97,6 +107,10 @@ def blocco(rr):
         "certi": sum(1 for r in rr if r["confidenza"] == "certa"),
         "diretti": d,
         "quota_diretti": round(d / len(rr) * 100, 1),
+        "mod_diretto": sum(1 for r in rr if modalita(r) == "diretto"),
+        "mod_negoziata": sum(1 for r in rr if modalita(r) == "negoziata"),
+        "mod_gara": sum(1 for r in rr if modalita(r) == "gara"),
+        "mod_altro": sum(1 for r in rr if modalita(r) == "altro"),
         "quota_diretti_per_importo": round(val_d / val * 100, 1),
         "sotto_soglia": len(sotto),
         "quota_diretti_sotto_soglia": round(sum(1 for r in sotto if diretto(r)) / len(sotto) * 100, 1) if sotto else None,
@@ -141,6 +155,7 @@ for p, rr in sorted(per_prov.items()):
         "ente": r["vincitore"] or None,
         "procedura": r["tipo_scelta_contraente"],
         "diretto": diretto(r),
+        "modalita": modalita(r),
         "base": num(r["importo_lotto"], 0),
         "aggiudicato": num(r["importo_aggiudicazione"], 0),
         "durata_gg": (lambda d: d if d and 25 <= d <= 2000 else None)(num(r["DURATA_PREVISTA"])),

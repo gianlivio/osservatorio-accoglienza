@@ -9,18 +9,13 @@ export type Blocco = {
 };
 export type Mese = { affidamenti: number; diretti: number; quota_diretti: number; importo_mediano: number | null };
 export type Contratto = { cig: string; data: string; oggetto: string;
-  amministrazione: string; ente: string | null; procedura: string; diretto: boolean;
+  amministrazione: string; ente: string | null; procedura: string; diretto: boolean; modalita: string;
   base: number | null; aggiudicato: number | null; durata_gg: number | null;
   da_accordo: boolean; confidenza: string };
-export type Contratto = { cig: string; data: string; oggetto: string;
-  amministrazione: string; ente: string | null; procedura: string; diretto: boolean;
-  base: number | null; aggiudicato: number | null; durata_gg: number | null;
-  da_accordo: boolean; confidenza: string };
+
 export type Provincia = {
   provincia: string; totale: Blocco; per_anno: Record<string, Blocco | null>;
   per_mese: Record<string, Mese | undefined>;
-  contratti: Contratto[];
-  anni_enti: string[];
   contratti: Contratto[];
   anni_enti: string[];
   top_enti: { nome: string; affidamenti: number }[];
