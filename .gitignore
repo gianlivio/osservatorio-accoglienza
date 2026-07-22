@@ -1,6 +1,4 @@
 dati-grezzi/
-output/
-*.csv
 *.zip
 __pycache__/
 .env
@@ -12,3 +10,7 @@ dati-msna/
 dati-msna-sem/
 nazionale_completo.json
 sito-dati/
+
+# dentro output/ versiona solo gli estratti mensili puri
+output/*_completo.csv
+output/accoglienza_2025_ANNO

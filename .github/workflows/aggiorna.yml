@@ -65,12 +65,14 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          if git diff --quiet sito/data/province.json; then
+          A=${{ steps.mese.outputs.anno }}
+          M=${{ steps.mese.outputs.mese }}
+          git add output/accoglienza_${A}_${M}.csv sito/data/province.json 2>/dev/null || true
+          if git diff --cached --quiet; then
             echo "cambiato=no" >> $GITHUB_OUTPUT
-            echo "Nessuna novità nel dato"
+            echo "Nessuna novita nel dato"
           else
-            git add sito/data/province.json
-            git commit -m "Aggiornamento automatico dati ANAC ${{ steps.mese.outputs.anno }}-${{ steps.mese.outputs.mese }}"
+            git commit -m "Aggiornamento automatico dati ANAC ${A}-${M}"
             git push
             echo "cambiato=si" >> $GITHUB_OUTPUT
           fi
