@@ -32,7 +32,7 @@ export default function Minori() {
       <p className="occhiello">Un&apos;altra faccia dello stesso fenomeno</p>
       <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>
       <p className="sommario">
-        I minori stranieri non accompagnati sono le persone sotto i diciotto anni che si
+        I minori stranieri non accompagnati sono le persone sotto la maggiore età che si
         trovano in Italia senza un adulto legalmente responsabile per loro. La legge ne
         affida l&apos;accoglienza allo Stato. Il Ministero del Lavoro ne pubblica il numero
         presente in ciascuna regione, mese per mese. Qui è raccolto dal {primoAnno} al {pa}.
@@ -66,13 +66,25 @@ export default function Minori() {
 
       <section className="sezione">
         <h2 className="titolo-sezione">Da dove vengono questi dati</h2>
+        <p>
+          Fonte: Ministero del Lavoro e delle Politiche Sociali, report mensili sulla
+          presenza dei minori stranieri non accompagnati. I numeri indicano i minori
+          presenti in ciascuna regione all&apos;ultimo giorno del mese.
+        </p>
+        <p>
+          La serie copre i mesi da {primoAnno} a {dataLeggibile}. Da allora il Ministero ha
+          smesso di pubblicare i report come documenti scaricabili e diffonde questi dati
+          solo attraverso una dashboard online: per questo la raccolta si ferma a questo
+          punto. Il dato è regionale, non provinciale, perché il Ministero non lo pubblica
+          a un dettaglio maggiore.
+        </p>
         <p className="avviso">
-          Fonte: Ministero del Lavoro e delle Politiche Sociali, report mensili sui minori
-          stranieri non accompagnati. La serie copre i mesi da {primoAnno} a dicembre 2022,
-          l&apos;ultimo periodo pubblicato in forma di report scaricabile. Da giugno 2023 il
-          Ministero diffonde questi dati solo attraverso una dashboard online, non più in
-          documenti; per questo la serie qui si ferma al 2022. Il dato è regionale: il
-          Ministero non lo pubblica per provincia.
+          Nelle linee di andamento si nota un calo ricorrente a inizio di ogni anno.
+          Non è un errore: dipende da come funziona il censimento. Per i minori di cui non si
+          conosce la data di nascita esatta viene registrato in via presuntiva il 1° gennaio.
+          Al compimento della maggiore età escono dal conteggio, e poiché a molti risulta il
+          1° gennaio come compleanno, ogni gennaio una parte del gruppo esce insieme,
+          producendo il gradino visibile nel grafico.
         </p>
       </section>
     </main>

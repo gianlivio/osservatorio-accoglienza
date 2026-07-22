@@ -48,10 +48,10 @@ export default function Metodologia() {
         <h2 className="titolo-sezione">Cosa misura, e cosa no</h2>
         <p>
           L&apos;archivio conta <strong>gli affidamenti pubblicati in un anno</strong>, non
-          l&apos;accoglienza attiva sul territorio. Un servizio affidato nel 2023 per un
-          triennio compare nel 2023 e non negli anni successivi, pur essendo tuttora in
-          corso. Una provincia con pochi affidamenti può quindi avere molta accoglienza
-          gestita con contratti pluriennali stipulati prima.
+          l&apos;accoglienza attiva sul territorio. Un servizio affidato per una durata
+          pluriennale compare nell&apos;anno in cui viene firmato e non negli anni
+          successivi, pur essendo tuttora in corso. Una provincia con pochi affidamenti può
+          quindi avere molta accoglienza gestita con contratti pluriennali stipulati prima.
         </p>
         <p>
           Per la stessa ragione il numero di affidamenti non è una misura del numero di
@@ -77,28 +77,29 @@ export default function Metodologia() {
           crescere nel tempo, e vanno letti come provvisori.
         </p>
         <p>
-          Anche le soglie contano. Gli affidamenti diretti sotto i 5.000 euro sono entrati
-          nel regime ordinario di comunicazione solo dal 1° ottobre 2024, e alcuni canali
-          di pubblicazione riguardano i soli contratti sopra i 40.000 euro. Un sistema
-          fatto di micro-affidamenti ripetuti risulta perciò sottorappresentato.
+          Anche le soglie contano. Gli affidamenti diretti di importo minore sono entrati
+          nel regime ordinario di comunicazione solo di recente, e alcuni canali di
+          pubblicazione riguardano soltanto i contratti sopra una certa soglia di importo.
+          Un sistema fatto di micro-affidamenti ripetuti risulta perciò sottorappresentato.
         </p>
       </section>
 
       <section className="sezione">
         <h2 className="titolo-sezione">Perché gli anni non sono confrontabili</h2>
         <p>
-          Le regole su quali contratti debbano essere registrati sono cambiate. Dal 2024
-          l&apos;uso di piattaforme certificate è obbligatorio anche per gli affidamenti di
-          piccolo importo, che prima seguivano procedure semplificate e in larga parte non
-          producevano una scheda consultabile. Dal 2024 entrano quindi nell&apos;archivio
-          migliaia di contratti piccoli che negli anni precedenti non c&apos;erano.
+          Le regole su quali contratti debbano essere registrati sono cambiate nel tempo.
+          L&apos;uso di piattaforme certificate è diventato obbligatorio anche per gli
+          affidamenti di piccolo importo, che prima seguivano procedure semplificate e in
+          larga parte non producevano una scheda consultabile. Da quel momento entrano
+          quindi nell&apos;archivio migliaia di contratti piccoli che negli anni precedenti
+          non c&apos;erano.
         </p>
         <p>
           Poiché i contratti piccoli sono quasi sempre assegnati senza gara, il loro ingresso
           fa salire la percentuale di affidamenti diretti anche se il comportamento delle
           amministrazioni non è cambiato. La tabella mostra le due serie affiancate: a
-          sinistra tutti i contratti, a destra i soli contratti da 40.000 euro in su, che
-          erano registrati anche prima e sono quindi confrontabili nel tempo.
+          sinistra tutti i contratti, a destra i soli contratti sopra una certa soglia di
+          importo, registrati anche negli anni precedenti e quindi confrontabili nel tempo.
         </p>
         <table className="tabella">
           <thead>
@@ -123,16 +124,15 @@ export default function Metodologia() {
           </tbody>
         </table>
         <p className="avviso">
-          Sulla colonna confrontabile la percentuale oscilla senza una direzione: era già
-          oltre il 60% nel 2018, era scesa sotto il 40% nel 2020, ed è tornata intorno al 58%
-          negli ultimi due anni. Chi volesse leggerci una tendenza usando la colonna di
-          sinistra otterrebbe una crescita che nei fatti non c&apos;è.
+          Nella colonna confrontabile la quota di affidamenti senza gara non segue una
+          direzione costante lungo gli anni; i valori sono nella tabella qui sopra.
         </p>
         <p>
           L&apos;ultima colonna misura per quanti contratti l&apos;archivio riporta anche
-          l&apos;esito, cioè importo aggiudicato e soggetto vincitore. Prima del 2024 il dato
-          manca per circa due contratti su tre: per questo gli elenchi degli enti gestori sono
-          calcolati solo sugli anni {anni.slice(-2).join(" e ")}.
+          l&apos;esito, cioè importo aggiudicato e soggetto vincitore. Nei primi anni della
+          serie il dato manca per la maggioranza dei contratti, come mostra la tabella qui
+          sopra: per questo gli elenchi degli enti gestori sono calcolati solo sugli anni
+          {" "}{anni.slice(-2).join(" e ")}.
         </p>
       </section>
 
