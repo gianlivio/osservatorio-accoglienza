@@ -46,7 +46,7 @@ jobs:
               `git push`,
               "```",
               ``,
-              `Dopo il push, Vercel ridistribuisce da solo. Tra qualche minuto i nuovi contratti di ${a}-${m} sono visibili su https://osservatorio-accoglienza-2tkz.vercel.app`,
+              `Dopo il push, Vercel ridistribuisce da solo. Tra qualche minuto i nuovi contratti di ${a}-${m} sono visibili su https://osservatorioaccoglienza.org`,
               ``,
               `Quando hai finito, chiudi questa issue.`,
             ].join("\n");
