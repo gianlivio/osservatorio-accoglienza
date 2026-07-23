@@ -2,6 +2,12 @@ import Link from "next/link";
 import TabellaProvince from "./TabellaProvince";
 import { anni, province } from "@/lib/dati";
 
+export const metadata = {
+  title: "Osservatorio Accoglienza",
+  description:
+    "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
+};
+
 export default function Home() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
 

@@ -1,6 +1,10 @@
 import Link from "next/link";
 
-export const metadata = { title: "Che cos'è · Osservatorio Accoglienza" };
+export const metadata = {
+  title: "Che cos'è · Osservatorio Accoglienza",
+  description:
+    "Come funziona l'affidamento dei servizi di accoglienza in Italia e cosa raccoglie questo archivio di contratti pubblici.",
+};
 
 export default function CheCose() {
   return (

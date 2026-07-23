@@ -7,6 +7,13 @@ export function generateStaticParams() {
   return province.map((p) => ({ slug: mkSlug(p.provincia) }));
 }
 
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const p = trovaProvincia(slug);
+  if (!p) return {};
+  return { title: `${p.provincia} · Osservatorio Accoglienza` };
+}
+
 export default async function Provincia({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const p = trovaProvincia(slug);
