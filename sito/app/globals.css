@@ -134,3 +134,13 @@ th.num .ordina{flex-direction:row-reverse}
 .leg-linea{display:inline-block;width:18px;height:2px;background:var(--timbro);margin-left:6px}
 .leg-punto{display:inline-block;width:9px;height:9px;border-radius:50%;
   border:1.6px solid var(--timbro);background:var(--carta);margin-left:14px}
+
+@media (max-width: 640px){
+  .sezione{overflow-x:auto}
+  .dettagli{grid-template-columns:1fr}
+  .cifre{grid-template-columns:repeat(2, 1fr)}
+  .tesi{font-size:clamp(28px, 8vw, 40px)}
+  .guscio{padding-left:16px;padding-right:16px}
+  .spark,.grafico-naz svg{width:100%}
+  .periodi{gap:4px;font-size:11px}
+}
