@@ -4,6 +4,8 @@ import Link from "next/link";
 import { anni } from "@/lib/dati";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://osservatorioaccoglienza.org"),
+  alternates: { canonical: "./" },
   title: "Osservatorio Accoglienza",
   description:
     "Come lo Stato italiano compra l'accoglienza dei migranti: affidamenti, importi ed enti gestori, provincia per provincia.",
