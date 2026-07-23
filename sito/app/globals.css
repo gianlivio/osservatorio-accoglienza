@@ -135,6 +135,9 @@ th.num .ordina{flex-direction:row-reverse}
 .leg-punto{display:inline-block;width:9px;height:9px;border-radius:50%;
   border:1.6px solid var(--timbro);background:var(--carta);margin-left:14px}
 
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;
+  clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
 @media (max-width: 640px){
   .sezione{overflow-x:auto}
   .dettagli{grid-template-columns:1fr}

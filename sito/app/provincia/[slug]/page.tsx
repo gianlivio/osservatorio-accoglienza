@@ -41,6 +41,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       <section className="sezione">
         <h2 className="titolo-sezione">Anno per anno</h2>
         <table className="tabella">
+          <caption className="sr-only">Andamento anno per anno di contratti, quota senza gara, valore tipico ed enti diversi</caption>
           <thead>
             <tr><th>Anno</th><th className="num">Contratti</th><th className="num">Senza gara</th>
             <th className="num">Valore tipico</th><th className="num">Enti diversi</th></tr>
@@ -81,6 +82,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <section className="sezione">
           <h2 className="titolo-sezione">Enti gestori · {p.anni_enti.join(" e ")}</h2>
           <table className="tabella">
+            <caption className="sr-only">Enti gestori e numero di contratti ricevuti</caption>
             <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
             <tbody>{p.top_enti.map((e) => (
               <tr key={e.nome}><td>{e.nome}</td><td className="num">{e.affidamenti}</td></tr>
@@ -93,6 +95,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <section className="sezione">
           <h2 className="titolo-sezione">Assegnazioni ripetute allo stesso ente</h2>
           <table className="tabella">
+            <caption className="sr-only">Amministrazioni ed enti con assegnazioni dirette ripetute</caption>
             <thead><tr><th>Amministrazione</th><th>Ente</th><th className="num">Volte</th></tr></thead>
             <tbody>{p.rapporti_ricorrenti.map((r, i) => (
               <tr key={i}><td>{r.amministrazione}</td><td>{r.ente}</td>

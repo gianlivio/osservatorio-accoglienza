@@ -3,7 +3,7 @@ import { msnaData } from "@/lib/dati";
 
 export const metadata = { title: "Minori non accompagnati · Osservatorio Accoglienza" };
 
-function Spark({ serie }: { serie: { presenti: number }[] }) {
+function Spark({ serie, regione }: { serie: { presenti: number }[]; regione: string }) {
   const vals = serie.map((p) => p.presenti);
   const max = Math.max(...vals), min = Math.min(...vals);
   const range = max - min || 1;
@@ -12,7 +12,8 @@ function Spark({ serie }: { serie: { presenti: number }[] }) {
     `${(i / (vals.length - 1)) * w},${h - ((v - min) / range) * (h - 4) - 2}`
   ).join(" ");
   return (
-    <svg viewBox={`0 0 ${w} ${h}`} className="spark" preserveAspectRatio="none">
+    <svg viewBox={`0 0 ${w} ${h}`} className="spark" preserveAspectRatio="none"
+      role="img" aria-label={`Andamento dei minori non accompagnati presenti in ${regione} nel tempo`}>
       <polyline points={pts} fill="none" stroke="var(--timbro)" strokeWidth="1.5" />
     </svg>
   );
@@ -36,7 +37,8 @@ function GraficoNazionale({ serie }: { serie: { periodo: string; presenti: numbe
   const ultimoAnno = serie[serie.length - 1].periodo.slice(0, 4);
   return (
     <div className="grafico-naz">
-      <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="xMidYMid meet">
+      <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="xMidYMid meet"
+        role="img" aria-label={`Andamento nazionale dei minori non accompagnati presenti, ${primoAnno}–${ultimoAnno}`}>
         <polyline points={linea} fill="none" stroke="var(--timbro)" strokeWidth="1.6" />
         {semestrali.map(({ p, i }) => (
           <circle key={p.periodo} cx={x(i)} cy={y(p.presenti)} r="3.5"
@@ -92,6 +94,7 @@ export default function Minori() {
           dal più alto.
         </p>
         <table className="tabella">
+          <caption className="sr-only">Regioni per numero di minori non accompagnati presenti e andamento nel tempo</caption>
           <thead>
             <tr>
               <th>Regione</th>
@@ -104,7 +107,7 @@ export default function Minori() {
               <tr key={r.regione}>
                 <td className="nome-prov">{r.regione}</td>
                 <td className="num">{r.ultimo.toLocaleString("it-IT")}</td>
-                <td className="cella-spark"><Spark serie={r.serie} /></td>
+                <td className="cella-spark"><Spark serie={r.serie} regione={r.regione} /></td>
               </tr>
             ))}
           </tbody>

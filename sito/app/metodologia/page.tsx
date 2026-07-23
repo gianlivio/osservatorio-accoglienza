@@ -78,6 +78,7 @@ export default function Metodologia() {
           in archivio anche prima e quindi confrontabili nel tempo.
         </p>
         <table className="tabella">
+          <caption className="sr-only">Confronto anno per anno tra tutti i contratti e i soli contratti sopra i 40.000 euro</caption>
           <thead>
             <tr>
               <th>Anno</th>

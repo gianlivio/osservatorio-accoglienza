@@ -53,6 +53,7 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
       </div>
 
       <table className="tabella">
+        <caption className="sr-only">Elenco delle province con numero di affidamenti, quota diretti, importo mediano ed enti gestori</caption>
         <thead>
           <tr>{COLONNE.map((c) => (
             <th key={c.campo} className={c.num ? "num" : undefined}>
