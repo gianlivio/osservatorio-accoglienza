@@ -1,7 +1,13 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
-import { province, trovaProvincia, slug as mkSlug, euro, anni } from "@/lib/dati";
+import { province, trovaProvincia, slug as mkSlug, euro, anni, nItal } from "@/lib/dati";
+
+const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
+function formatPeriodo(periodo: string) {
+  const [anno, mese] = periodo.split("-");
+  return `${NOMI_MESI[+mese - 1]} ${anno}`;
+}
 
 export function generateStaticParams() {
   return province.map((p) => ({ slug: mkSlug(p.provincia) }));
@@ -19,6 +25,10 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
   const p = trovaProvincia(slug);
   if (!p) notFound();
   const t = p.totale;
+  const mesiDati = Object.entries(p.per_mese)
+    .filter((voce): voce is [string, NonNullable<(typeof voce)[1]>] => voce[1] !== undefined)
+    .sort(([a], [b]) => a.localeCompare(b));
+  const maxMese = Math.max(...mesiDati.map(([, m]) => m.affidamenti), 1);
 
   return (
     <main>
@@ -68,6 +78,28 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           contratti non significa poca accoglienza: la <Link href="/metodologia">Metodologia</Link>{" "}spiega perché.
         </p>
       </section>
+
+      {mesiDati.length > 0 && (
+        <section className="sezione">
+          <h2 className="titolo-sezione">Mese per mese</h2>
+          <p className="nota-tabella">
+            Ogni barra è un mese: la parte piena indica i contratti assegnati senza gara.
+          </p>
+          <div className="mesi" role="img"
+            aria-label={`Contratti mese per mese a ${p.provincia}, da ${formatPeriodo(mesiDati[0][0])} a ${formatPeriodo(mesiDati[mesiDati.length - 1][0])}: massimo ${nItal(maxMese)} in un mese`}>
+            {mesiDati.map(([periodo, m]) => (
+              <div key={periodo} className="mese" style={{ height: `${(m.affidamenti / maxMese) * 100}%` }}>
+                <i style={{ height: `${m.quota_diretti}%` }} />
+              </div>
+            ))}
+          </div>
+          <div className="assi-mesi">
+            <span>{formatPeriodo(mesiDati[0][0])}</span>
+            <span>{nItal(maxMese)} in un mese</span>
+            <span>{formatPeriodo(mesiDati[mesiDati.length - 1][0])}</span>
+          </div>
+        </section>
+      )}
 
       <section className="sezione">
         <h2 className="titolo-sezione">I contratti, uno per uno</h2>
