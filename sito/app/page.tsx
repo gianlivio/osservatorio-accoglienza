@@ -8,11 +8,28 @@ export const metadata = {
     "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
 };
 
+const datasetJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  name: "Osservatorio Accoglienza",
+  description:
+    "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
+  license: "https://creativecommons.org/licenses/by/4.0/",
+  temporalCoverage: "2015/2025",
+  spatialCoverage: "Italia",
+  url: "https://osservatorioaccoglienza.org",
+  isBasedOn: "https://dati.anticorruzione.it",
+};
+
 export default function Home() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
 
   return (
     <main>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetJsonLd) }}
+      />
       <p className="occhiello">Contratti pubblici · {primo}–{ultimo}</p>
       <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>
       <p className="sommario">
