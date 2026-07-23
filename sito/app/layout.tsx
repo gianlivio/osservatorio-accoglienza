@@ -9,6 +9,13 @@ export const metadata: Metadata = {
   title: "Osservatorio Accoglienza",
   description:
     "Come lo Stato italiano compra l'accoglienza dei migranti: affidamenti, importi ed enti gestori, provincia per provincia.",
+  openGraph: {
+    title: "Osservatorio Accoglienza",
+    description:
+      "Come lo Stato italiano compra l'accoglienza dei migranti: affidamenti, importi ed enti gestori, provincia per provincia.",
+    type: "website",
+    locale: "it_IT",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
