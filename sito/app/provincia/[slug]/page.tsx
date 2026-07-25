@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
-import { province, trovaProvincia, slug as mkSlug, euro, anni, nItal } from "@/lib/dati";
+import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal } from "@/lib/dati";
 
 const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
 function formatPeriodo(periodo: string) {
@@ -24,8 +24,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
   const { slug } = await params;
   const p = trovaProvincia(slug);
   if (!p) notFound();
+  const d = await caricaDettaglioProvincia(slug);
   const t = p.totale;
-  const mesiDati = Object.entries(p.per_mese)
+  const mesiDati = Object.entries(d.per_mese)
     .filter((voce): voce is [string, NonNullable<(typeof voce)[1]>] => voce[1] !== undefined)
     .sort(([a], [b]) => a.localeCompare(b));
   const maxMese = Math.max(...mesiDati.map(([, m]) => m.affidamenti), 1);
@@ -107,29 +108,29 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           In ordine dal più recente. Ogni voce riporta quanto risulta nell&apos;archivio
           pubblico: dove il dato non è stato comunicato, la riga non compare.
         </p>
-        <ElencoContratti contratti={p.contratti} />
+        <ElencoContratti contratti={d.contratti} />
       </section>
 
-      {p.top_enti.length > 0 && (
+      {d.top_enti.length > 0 && (
         <section className="sezione">
           <h2 className="titolo-sezione">Enti gestori · {p.anni_enti.join(" e ")}</h2>
           <table className="tabella">
             <caption className="sr-only">Enti gestori e numero di contratti ricevuti</caption>
             <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
-            <tbody>{p.top_enti.map((e) => (
+            <tbody>{d.top_enti.map((e) => (
               <tr key={e.nome}><td>{e.nome}</td><td className="num">{e.affidamenti}</td></tr>
             ))}</tbody>
           </table>
         </section>
       )}
 
-      {p.rapporti_ricorrenti.length > 0 && (
+      {d.rapporti_ricorrenti.length > 0 && (
         <section className="sezione">
           <h2 className="titolo-sezione">Assegnazioni ripetute allo stesso ente</h2>
           <table className="tabella">
             <caption className="sr-only">Amministrazioni ed enti con assegnazioni dirette ripetute</caption>
             <thead><tr><th>Amministrazione</th><th>Ente</th><th className="num">Volte</th></tr></thead>
-            <tbody>{p.rapporti_ricorrenti.map((r, i) => (
+            <tbody>{d.rapporti_ricorrenti.map((r, i) => (
               <tr key={i}><td>{r.amministrazione}</td><td>{r.ente}</td>
               <td className="num">{r.affidamenti_diretti}</td></tr>
             ))}</tbody>

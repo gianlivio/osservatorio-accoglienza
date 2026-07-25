@@ -1,4 +1,4 @@
-import dati from "@/data/province.json";
+import dati from "@/data/province-lite.json";
 
 export type Blocco = {
   affidamenti: number; certi: number; diretti: number; quota_diretti: number;
@@ -7,6 +7,9 @@ export type Blocco = {
   prosecuzioni: number; canale_prefettura: number; canale_ente_locale: number;
   enti_gestori: number; copertura_vincitore: number;
 };
+export type BloccoAnnoLite = {
+  affidamenti: number; quota_diretti: number; importo_mediano: number | null; enti_gestori: number;
+};
 export type Mese = { affidamenti: number; diretti: number; quota_diretti: number; importo_mediano: number | null };
 export type Contratto = { cig: string; data: string; oggetto: string;
   amministrazione: string; ente: string | null; procedura: string; diretto: boolean; modalita: string;
@@ -14,10 +17,14 @@ export type Contratto = { cig: string; data: string; oggetto: string;
   da_accordo: boolean; confidenza: string };
 
 export type Provincia = {
-  provincia: string; totale: Blocco; per_anno: Record<string, Blocco | null>;
+  provincia: string; totale: Blocco; per_anno: Record<string, BloccoAnnoLite | null>;
+  anni_enti: string[];
+};
+
+export type ProvinciaDettaglio = {
+  per_anno: Record<string, Blocco | null>;
   per_mese: Record<string, Mese | undefined>;
   contratti: Contratto[];
-  anni_enti: string[];
   top_enti: { nome: string; affidamenti: number }[];
   rapporti_ricorrenti: { amministrazione: string; ente: string; affidamenti_diretti: number }[];
 };
@@ -39,6 +46,10 @@ export function slug(nome: string) {
     .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
 export const trovaProvincia = (s: string) => province.find((p) => slug(p.provincia) === s);
+export async function caricaDettaglioProvincia(slug: string): Promise<ProvinciaDettaglio> {
+  const mod = await import(`@/data/provincia/${slug}.json`);
+  return mod.default as unknown as ProvinciaDettaglio;
+}
 export const euro = (n: number | null) =>
   n === null ? "n.d." : new Intl.NumberFormat("it-IT",
     { style: "currency", currency: "EUR", maximumFractionDigits: 0 }).format(n);

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Arricchisce gli estratti mensili e produce il JSON multi-anno per il sito."""
-import csv, glob, os, re, json, html, zipfile, io, collections, statistics
+import csv, glob, os, re, json, html, zipfile, io, collections, statistics, unicodedata
 
 csv.field_size_limit(10_000_000)
 import datetime
@@ -9,10 +9,18 @@ ANNI_ESITO = {str(a) for a in range(2024, datetime.date.today().year + 1)}  # es
 SOGLIA = 140000
 Z_AGG  = "dati-grezzi/aggiudicazioni_csv.zip"
 Z_VIN  = "dati-grezzi/aggiudicatari_csv.zip"
-OUTJS  = "sito/data/province.json"
+OUTJS  = "sito/data/province-lite.json"
+OUTDIR_PROV = "sito/data/provincia"
+CAMPI_ANNO_LITE = ("affidamenti", "quota_diretti", "importo_mediano", "enti_gestori")
 
 def pulisci(v):
     return re.sub(r"\s+", " ", html.unescape(v or "")).strip()
+
+def slug(nome):
+    s = unicodedata.normalize("NFD", nome.lower())
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    return s
 
 # --- 1. carica gli estratti mensili -----------------------------------------
 righe = []
@@ -167,10 +175,11 @@ for p, rr in sorted(per_prov.items()):
     enti = collections.Counter(r["vincitore"] for r in rr_e if r["vincitore"])
     cop  = collections.Counter((r["denominazione_amministrazione_appaltante"], r["vincitore"])
                                for r in rr_e if diretto(r) and r["vincitore"])
+    per_anno_completo = {a: blocco([r for r in rr if r["anno"] == a]) for a in ANNI}
     province.append({
         "provincia": p,
         "totale": blocco(rr),
-        "per_anno": {a: blocco([r for r in rr if r["anno"] == a]) for a in ANNI},
+        "per_anno": per_anno_completo,
         "per_mese": mesi(rr),
         "anni_enti": sorted(ANNI_ESITO),
         "contratti": contratti,
@@ -201,8 +210,33 @@ dati = {
     ],
     "anni_esito": sorted(ANNI_ESITO),
     "amministrazioni": len({r["cf_amministrazione_appaltante"] for r in righe if r["cf_amministrazione_appaltante"]}),
-    "province": province,
 }
+
+# --- 5. livello lite (tutte le province) + un file di dettaglio per provincia -
+os.makedirs(OUTDIR_PROV, exist_ok=True)
+province_lite = []
+for p in province:
+    per_anno_lite = {
+        a: ({k: b[k] for k in CAMPI_ANNO_LITE} if b is not None else None)
+        for a, b in p["per_anno"].items()
+    }
+    province_lite.append({
+        "provincia": p["provincia"],
+        "totale": p["totale"],
+        "per_anno": per_anno_lite,
+        "anni_enti": p["anni_enti"],
+    })
+    dettaglio = {
+        "per_anno": p["per_anno"],
+        "per_mese": p["per_mese"],
+        "top_enti": p["top_enti"],
+        "rapporti_ricorrenti": p["rapporti_ricorrenti"],
+        "contratti": p["contratti"],
+    }
+    with open(f"{OUTDIR_PROV}/{slug(p['provincia'])}.json", "w", encoding="utf-8") as f:
+        json.dump(dettaglio, f, ensure_ascii=False, indent=1)
+
+dati["province"] = province_lite
 json.dump(dati, open(OUTJS, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 for a in ANNI:

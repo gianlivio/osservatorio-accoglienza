@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
-import { slug, euro, anni, type Provincia, type Blocco } from "@/lib/dati";
+import { slug, euro, anni, type Provincia, type Blocco, type BloccoAnnoLite } from "@/lib/dati";
 
 type Campo = "provincia" | "affidamenti" | "quota_diretti" | "importo_mediano" | "enti_gestori";
 const COLONNE: { campo: Campo; testo: string; num: boolean }[] = [
@@ -17,7 +17,7 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
   const [campo, setCampo] = useState<Campo>("affidamenti");
   const [cresc, setCresc] = useState(false);
 
-  const dato = (p: Provincia): Blocco | null =>
+  const dato = (p: Provincia): Blocco | BloccoAnnoLite | null =>
     periodo === "tutti" ? p.totale : p.per_anno[periodo];
 
   function valore(p: Provincia, c: Campo): string | number {
