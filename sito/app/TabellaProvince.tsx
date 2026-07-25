@@ -56,10 +56,10 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
         <caption className="sr-only">Elenco delle province con numero di affidamenti, quota diretti, importo mediano ed enti gestori</caption>
         <thead>
           <tr>{COLONNE.map((c) => (
-            <th key={c.campo} className={c.num ? "num" : undefined}>
-              <button type="button" className={"ordina" + (campo === c.campo ? " attiva" : "")}
-                onClick={() => ordina(c.campo)}
+            <th key={c.campo} className={c.num ? "num" : undefined}
                 aria-sort={campo === c.campo ? (cresc ? "ascending" : "descending") : "none"}>
+              <button type="button" className={"ordina" + (campo === c.campo ? " attiva" : "")}
+                onClick={() => ordina(c.campo)}>
                 {c.testo}<span className="freccia">{campo === c.campo ? (cresc ? "↑" : "↓") : "↕"}</span>
               </button>
             </th>
