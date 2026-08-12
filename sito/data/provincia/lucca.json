@@ -163,24 +163,24 @@
    "copertura_esito": 100.0
   },
   "2025": {
-   "affidamenti": 17,
+   "affidamenti": 16,
    "certi": 15,
-   "diretti": 12,
-   "quota_diretti": 70.6,
-   "mod_diretto": 12,
+   "diretti": 11,
+   "quota_diretti": 68.8,
+   "mod_diretto": 11,
    "mod_negoziata": 2,
    "mod_gara": 3,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 3.4,
-   "sotto_soglia": 12,
+   "quota_diretti_per_importo": 3.0,
+   "sotto_soglia": 11,
    "quota_diretti_sotto_soglia": 100.0,
    "importo_mediano": 36890,
    "prosecuzioni": 0,
    "canale_prefettura": 0,
-   "canale_ente_locale": 17,
+   "canale_ente_locale": 16,
    "enti_gestori": 7,
-   "copertura_vincitore": 70.6,
-   "copertura_esito": 70.6
+   "copertura_vincitore": 68.8,
+   "copertura_esito": 68.8
   },
   "2026": null
  },
@@ -437,12 +437,6 @@
    "quota_diretti": 100.0,
    "importo_mediano": 21100
   },
-  "2025-08": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 60419
-  },
   "2025-12": {
    "affidamenti": 4,
    "diretti": 2,
@@ -472,10 +466,6 @@
    "affidamenti": 2
   },
   {
-   "nome": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 2
-  },
-  {
    "nome": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
    "affidamenti": 1
   },
@@ -489,6 +479,10 @@
   },
   {
    "nome": "SALVADORI CRISTINA",
+   "affidamenti": 1
+  },
+  {
+   "nome": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   }
  ],
@@ -569,21 +563,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B7FB916ECB",
-   "data": "2025-08-19",
-   "oggetto": "ACQUISIZIONE DI SERVIZI DESTINATI A CITTADINI IMMIGRATI VOLTI A SOSTENERE L'INTEGRAZIONE SOCIALE E LAVORATIVA CORSI DI LINGUA ITALIANA PER STRANIERI, MEDIAZIONE LINGUISTICA E CULTU",
-   "amministrazione": "COMUNE DI PIETRASANTA",
-   "ente": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 60419.01,
-   "aggiudicato": 60419.01,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "B7B791663A",

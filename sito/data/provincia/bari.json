@@ -181,24 +181,24 @@
    "copertura_esito": 50.0
   },
   "2024": {
-   "affidamenti": 17,
-   "certi": 16,
-   "diretti": 11,
-   "quota_diretti": 64.7,
-   "mod_diretto": 11,
+   "affidamenti": 16,
+   "certi": 15,
+   "diretti": 10,
+   "quota_diretti": 62.5,
+   "mod_diretto": 10,
    "mod_negoziata": 3,
    "mod_gara": 3,
    "mod_altro": 0,
    "quota_diretti_per_importo": 74.5,
-   "sotto_soglia": 3,
-   "quota_diretti_sotto_soglia": 66.7,
-   "importo_mediano": 785174,
+   "sotto_soglia": 2,
+   "quota_diretti_sotto_soglia": 50.0,
+   "importo_mediano": 894006,
    "prosecuzioni": 1,
    "canale_prefettura": 0,
-   "canale_ente_locale": 17,
-   "enti_gestori": 9,
-   "copertura_vincitore": 76.5,
-   "copertura_esito": 76.5
+   "canale_ente_locale": 16,
+   "enti_gestori": 8,
+   "copertura_vincitore": 75.0,
+   "copertura_esito": 75.0
   },
   "2025": {
    "affidamenti": 9,
@@ -451,12 +451,6 @@
    "quota_diretti": 0.0,
    "importo_mediano": 1967637
   },
-  "2024-10": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 5900
-  },
   "2024-11": {
    "affidamenti": 2,
    "diretti": 1,
@@ -522,10 +516,6 @@
    "affidamenti": 1
   },
   {
-   "nome": "ASSOCIAZIONE PER GLI STUDI GIURIDICI SULL'IMMIGRAZIONE - ASGI ASSOCIAZIONE DI PROMOZIONE SOCIALE",
-   "affidamenti": 1
-  },
-  {
    "nome": "MA.CO. GROUP S.R.L.",
    "affidamenti": 1
   },
@@ -539,6 +529,10 @@
   },
   {
    "nome": "NOVA ONLUS CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 1
+  },
+  {
+   "nome": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
    "affidamenti": 1
   }
  ],
@@ -791,21 +785,6 @@
    "modalita": "gara",
    "base": 503939.82,
    "aggiudicato": null,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B4088575AB",
-   "data": "2024-10-31",
-   "oggetto": "CORSO TUTORI MINORI STRANIERI NON ACCOMPAGNATI",
-   "amministrazione": "CONSIGLIO REGIONALE DELLA PUGLIA",
-   "ente": "ASSOCIAZIONE PER GLI STUDI GIURIDICI SULL'IMMIGRAZIONE - ASGI ASSOCIAZIONE DI PROMOZIONE SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 5900.0,
-   "aggiudicato": 5900.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

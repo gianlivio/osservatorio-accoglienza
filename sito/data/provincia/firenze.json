@@ -142,24 +142,24 @@
    "copertura_esito": 7.7
   },
   "2023": {
-   "affidamenti": 49,
-   "certi": 20,
-   "diretti": 37,
-   "quota_diretti": 75.5,
-   "mod_diretto": 37,
+   "affidamenti": 48,
+   "certi": 19,
+   "diretti": 36,
+   "quota_diretti": 75.0,
+   "mod_diretto": 36,
    "mod_negoziata": 4,
    "mod_gara": 8,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 5.8,
-   "sotto_soglia": 26,
-   "quota_diretti_sotto_soglia": 96.2,
-   "importo_mediano": 135493,
+   "quota_diretti_per_importo": 5.7,
+   "sotto_soglia": 25,
+   "quota_diretti_sotto_soglia": 96.0,
+   "importo_mediano": 136556,
    "prosecuzioni": 7,
    "canale_prefettura": 32,
-   "canale_ente_locale": 17,
+   "canale_ente_locale": 16,
    "enti_gestori": 5,
-   "copertura_vincitore": 14.3,
-   "copertura_esito": 14.3
+   "copertura_vincitore": 14.6,
+   "copertura_esito": 14.6
   },
   "2024": {
    "affidamenti": 100,
@@ -379,10 +379,10 @@
    "importo_mediano": 198658
   },
   "2023-12": {
-   "affidamenti": 10,
-   "diretti": 9,
-   "quota_diretti": 90.0,
-   "importo_mediano": 144533
+   "affidamenti": 9,
+   "diretti": 8,
+   "quota_diretti": 88.9,
+   "importo_mediano": 144644
   },
   "2024-01": {
    "affidamenti": 22,
@@ -3475,21 +3475,6 @@
    "modalita": "negoziata",
    "base": 177547.3,
    "aggiudicato": 149557.27,
-   "durata_gg": 60.0,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "A0606E7F17",
-   "data": "2023-12-28",
-   "oggetto": "LAVORI DI 'RIQUALIFICAZIONE IMMOBILE DI VIA DEL RISORGIMENTO - CENTRO PROFUGHI' - VARIANTE IN CORSO D'OPERA",
-   "amministrazione": "COMUNE DI SESTO FIORENTINO",
-   "ente": null,
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 39410.05,
-   "aggiudicato": null,
    "durata_gg": 60.0,
    "da_accordo": false,
    "confidenza": "certa"

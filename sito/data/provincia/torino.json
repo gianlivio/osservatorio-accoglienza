@@ -181,44 +181,44 @@
    "copertura_esito": 49.4
   },
   "2024": {
-   "affidamenti": 82,
-   "certi": 76,
-   "diretti": 59,
-   "quota_diretti": 72.0,
-   "mod_diretto": 59,
+   "affidamenti": 71,
+   "certi": 65,
+   "diretti": 48,
+   "quota_diretti": 67.6,
+   "mod_diretto": 48,
    "mod_negoziata": 16,
    "mod_gara": 6,
    "mod_altro": 1,
    "quota_diretti_per_importo": 67.9,
-   "sotto_soglia": 29,
-   "quota_diretti_sotto_soglia": 96.6,
-   "importo_mediano": 257413,
+   "sotto_soglia": 18,
+   "quota_diretti_sotto_soglia": 94.4,
+   "importo_mediano": 598570,
    "prosecuzioni": 2,
    "canale_prefettura": 36,
-   "canale_ente_locale": 46,
-   "enti_gestori": 41,
-   "copertura_vincitore": 89.0,
-   "copertura_esito": 95.1
+   "canale_ente_locale": 35,
+   "enti_gestori": 37,
+   "copertura_vincitore": 88.7,
+   "copertura_esito": 94.4
   },
   "2025": {
-   "affidamenti": 29,
-   "certi": 21,
-   "diretti": 21,
-   "quota_diretti": 72.4,
-   "mod_diretto": 21,
+   "affidamenti": 21,
+   "certi": 13,
+   "diretti": 13,
+   "quota_diretti": 61.9,
+   "mod_diretto": 13,
    "mod_negoziata": 4,
    "mod_gara": 4,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 18.1,
-   "sotto_soglia": 22,
-   "quota_diretti_sotto_soglia": 95.5,
-   "importo_mediano": 25000,
+   "quota_diretti_per_importo": 15.1,
+   "sotto_soglia": 14,
+   "quota_diretti_sotto_soglia": 92.9,
+   "importo_mediano": 98506,
    "prosecuzioni": 0,
    "canale_prefettura": 2,
-   "canale_ente_locale": 27,
-   "enti_gestori": 18,
-   "copertura_vincitore": 82.8,
-   "copertura_esito": 89.7
+   "canale_ente_locale": 19,
+   "enti_gestori": 15,
+   "copertura_vincitore": 76.2,
+   "copertura_esito": 85.7
   },
   "2026": null
  },
@@ -686,22 +686,16 @@
    "importo_mediano": 66003
   },
   "2024-02": {
-   "affidamenti": 12,
-   "diretti": 10,
-   "quota_diretti": 83.3,
-   "importo_mediano": 36736
+   "affidamenti": 8,
+   "diretti": 6,
+   "quota_diretti": 75.0,
+   "importo_mediano": 45950
   },
   "2024-03": {
-   "affidamenti": 6,
-   "diretti": 4,
-   "quota_diretti": 66.7,
-   "importo_mediano": 15350
-  },
-  "2024-04": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 16000
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0,
+   "importo_mediano": 403940
   },
   "2024-06": {
    "affidamenti": 4,
@@ -722,15 +716,15 @@
    "importo_mediano": 464016
   },
   "2024-09": {
-   "affidamenti": 5,
-   "diretti": 2,
-   "quota_diretti": 40.0,
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0,
    "importo_mediano": 214900
   },
   "2024-10": {
-   "affidamenti": 3,
-   "diretti": 1,
-   "quota_diretti": 33.3,
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0,
    "importo_mediano": 214900
   },
   "2024-11": {
@@ -752,22 +746,16 @@
    "importo_mediano": 80000
   },
   "2025-02": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0,
-   "importo_mediano": 12250
-  },
-  "2025-03": {
-   "affidamenti": 3,
-   "diretti": 3,
-   "quota_diretti": 100.0,
-   "importo_mediano": 20000
+   "importo_mediano": 14000
   },
   "2025-04": {
-   "affidamenti": 4,
-   "diretti": 3,
-   "quota_diretti": 75.0,
-   "importo_mediano": 15800
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7,
+   "importo_mediano": 15000
   },
   "2025-05": {
    "affidamenti": 5,
@@ -782,10 +770,10 @@
    "importo_mediano": 49753
   },
   "2025-07": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0,
-   "importo_mediano": 22500
+   "importo_mediano": 31532
   },
   "2025-09": {
    "affidamenti": 3,
@@ -812,14 +800,6 @@
    "affidamenti": 14
   },
   {
-   "nome": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "affidamenti": 6
-  },
-  {
-   "nome": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "affidamenti": 6
-  },
-  {
    "nome": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
    "affidamenti": 5
   },
@@ -840,25 +820,23 @@
    "affidamenti": 2
   },
   {
-   "nome": "IMMAGINAZIONE E LAVORO SOCIETÀ COOPERATIVA",
+   "nome": "COMUNITA SILOE ONLUS",
    "affidamenti": 2
   },
   {
-   "nome": "COMUNITA SILOE ONLUS",
+   "nome": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "affidamenti": 2
+  },
+  {
+   "nome": "GLI ARGONAUTI SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE GLI ARGONAUTI S.C.S. ONLUS",
+   "affidamenti": 2
+  },
+  {
+   "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE DI SUSA O.D.V.",
    "affidamenti": 2
   }
  ],
  "rapporti_ricorrenti": [
-  {
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "affidamenti_diretti": 6
-  },
-  {
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "affidamenti_diretti": 6
-  },
   {
    "amministrazione": "COMUNE DI NOVARA",
    "ente": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
@@ -960,51 +938,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
-  },
-  {
-   "cig": "B7C6DFDFC4",
-   "data": "2025-07-28",
-   "oggetto": "AFFIDAMENTO CORSO ELEMENTI DI ADDETTO SALDATURA TIG A FILO CONTINUO - NELL'AMBITO DELLA RETE SAI ADULTI 2025",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "ASSOCIAZIONE CNOS - FAP REGIONE PIEMONTE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 25000.0,
-   "aggiudicato": 25000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B7C6EBDE36",
-   "data": "2025-07-28",
-   "oggetto": "GESTIONE DI UN CORSO DI FORMAZIONE ELEMENTI DI PANIFICAZIONE E PIZZERIA NELL'AMBITO DELLA RETE SAI 2025 - TORINO MINORI",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 14700.0,
-   "aggiudicato": 14700.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B7C6E77475",
-   "data": "2025-07-28",
-   "oggetto": "GESTIONE DI UN CORSO ELEMENTI DI PANIFICAZIONE E PIZZERIA - SAI ADULTI 2025",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 20000.0,
-   "aggiudicato": 20000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
   },
   {
    "cig": "B78E8EEC0A",
@@ -1157,21 +1090,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B683B3A39B",
-   "data": "2025-04-16",
-   "oggetto": "SFEP: DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETT. B) DEL DLGS N.36/2023, DEL SERVIZIO DI GESTIONE CORSO PROFESSIONALE ELEMENTI DI COLLA",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 16600.0,
-   "aggiudicato": 16600.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B6462F3342",
    "data": "2025-04-01",
    "oggetto": "ATTIVITÀ DI COORDINAMENTO OPERATIVO DEL PROGETTO SAI 1° SEMESTRE 2025",
@@ -1187,51 +1105,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B63A155C17",
-   "data": "2025-03-27",
-   "oggetto": "GESTIONE DI UN CORSO PROFESSIONALE ELEMENTI DI ADDETTO DECORATORE RIVOLTO A MINORI STRANIERI RETE SAI 2025",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "ASSOCIAZIONE CNOS - FAP REGIONE PIEMONTE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 7500.0,
-   "aggiudicato": 7500.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B627DC3F8F",
-   "data": "2025-03-24",
-   "oggetto": "GESTIONE DI UN CORSO PROFESSIONALE ELEMENTI DI COLLABORATORE DI CUCINA – RISTORAZIONE -TECNICHE CUCINA DI BASE RIVOLTO AD ADULTI STRANIERI RETE SAI 2025",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 20000.0,
-   "aggiudicato": 20000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B627AEA5FB",
-   "data": "2025-03-24",
-   "oggetto": "GESTIONE DI UN CORSO PROFESSIONALE ELEMENTI DI ADDETTO MAGAZZINO E LOGISTICA + LAVORATORE ADDETTO ALLA CONDUZIONE DI CARRELLI ELEVATORI SEMOVENTI CON CONDUCENTE A BORDO – CARRELLI ",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 20000.0,
-   "aggiudicato": 20000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B5CDE26DE8",
    "data": "2025-02-27",
    "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - COOPERATIVA ANIMAZIONE VALDOCCO - I TRIMESTRE 2025",
@@ -1242,21 +1115,6 @@
    "modalita": "diretto",
    "base": 14000.0,
    "aggiudicato": 14000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B5BD53287A",
-   "data": "2025-02-21",
-   "oggetto": "FORNITURA DI CORSO DI ALFABETIZZAZIONE PROGETTO SAI ANNO 2025-2026",
-   "amministrazione": "COMUNE DI COLLERETTO CASTELNUOVO",
-   "ente": "ANDIRIVIENI - SOCIETA' COOPERATIVA SOCIALE SIGLABILE IN ANDIRIVIENI - S.C.S.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 10500.0,
-   "aggiudicato": 10500.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1512,36 +1370,6 @@
    "modalita": "negoziata",
    "base": 214900.0,
    "aggiudicato": 214900.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B35A71914E",
-   "data": "2024-10-09",
-   "oggetto": "GESTIONE CORSO ELEMENTI DI DECORATORE",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "ASSOCIAZIONE SCUOLE TECNICHE SAN CARLO",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 7500.0,
-   "aggiudicato": 7500.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B339AB105A",
-   "data": "2024-09-30",
-   "oggetto": "GESTIONE DEL CORSO ELEMENTI DI ADDETTO MAGAZZINO E LOGISTICA RIVOLTO AD STRANIERI ADULTI - RETE S.A.I. 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 16000.0,
-   "aggiudicato": 16000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2237,21 +2065,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B155CD250C",
-   "data": "2024-04-22",
-   "oggetto": "GESTIONE DI UN CORSO PROFESSIONALE ELEMENTI DI COLLABORATORE DI CUCINA: RISTORAZIONE TECNICHE CUCINA DI BASE",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 16000.0,
-   "aggiudicato": 16000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B107DEBB17",
    "data": "2024-03-29",
    "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA MIGRANTI",
@@ -2277,66 +2090,6 @@
    "modalita": "negoziata",
    "base": 419029.2,
    "aggiudicato": 419029.2,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B0E9E5BBBB",
-   "data": "2024-03-20",
-   "oggetto": "SERVIZIO DI GESTIONE DI UN CORSO PROFESSIONALE ELEMENTI DI PANIFICAZIONE E PIZZERIA RIVOLTO A MINORI STRANIERI NELL'AMBITO DELLA RETE SAI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETÀ COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 14700.0,
-   "aggiudicato": 14700.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B0E9F8C76E",
-   "data": "2024-03-20",
-   "oggetto": "GESTIONE DI UN CORSO PROFESSIONALE ELEMENTI DI PANIFICAZIONE/PIZZERIA RIVOLTO AD ADULTI STRANIERI RETE SAI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 16000.0,
-   "aggiudicato": 16000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B0CD31E209",
-   "data": "2024-03-13",
-   "oggetto": "GESTIONE DI UN CORSO DI FORMAZIONE ELEMENTI DI COLLABORATORE POLIVALENTE NELLE STRUTTURE RICETTIVE E RISTORATIVE NELL'AMBITO DELLA RETE SAI ADULTI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETÀ COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 12600.0,
-   "aggiudicato": 12600.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B0C8683A84",
-   "data": "2024-03-12",
-   "oggetto": "GESTIONE CORSO PROFESSIONALE ADDETTO VIGILANZA NON ARMATA RIVOLTO A ADULTI STRANIERI NELL'AMBITO DELLA RETE SAI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": null,
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 12600.0,
-   "aggiudicato": 12600.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2447,36 +2200,6 @@
    "confidenza": "probabile"
   },
   {
-   "cig": "B06CE072A8",
-   "data": "2024-02-16",
-   "oggetto": "GESTIONE CORSO PROFESSIONALE ELEMENTI DI PANIFICAZIONE E PIZZERIA RIVOLTO A ADULTI STRANIERI NELL'AMBITO DELLA RETE SAI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 16000.0,
-   "aggiudicato": 16000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B06CE3047D",
-   "data": "2024-02-16",
-   "oggetto": "GESTIONE CORSO PROFESSIONALE ELEMENTI DI PANIFICAZIONE E PIZZERIA RIVOLTO A MINORI STRANIERI NELL'AMBITO DELLA RETE SAI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 14700.0,
-   "aggiudicato": 14700.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B068F80941",
    "data": "2024-02-15",
    "oggetto": "OSPITALITA PROFUGHI UCRAINI",
@@ -2487,36 +2210,6 @@
    "modalita": "negoziata",
    "base": 214900.0,
    "aggiudicato": 214900.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B05E7E6A1A",
-   "data": "2024-02-13",
-   "oggetto": "GESTIONE CORSO PROFESSIONALE ELEMENTI DI PANIFICAZIONE E PIZZERIA RIVOLTO A MINORI STRANIERI NELL'AMBITO DELLA RETE SAI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "IMMAGINAZIONE E LAVORO SOCIETA' COOPERATIVA SIGLABILE IL",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 14700.0,
-   "aggiudicato": 14700.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B05ECACA87",
-   "data": "2024-02-13",
-   "oggetto": "GESTIONE CORSO PROFESSIONALE ELEMENTI DI PANIFICAZIONE E PIZZERIA RIVOLTO A ADULTI STRANIERI NELL'AMBITO DELLA RETE SAI 2024",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "FONDAZIONE CASA DI CARITA' ARTI E MESTIERI - ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 16000.0,
-   "aggiudicato": 16000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

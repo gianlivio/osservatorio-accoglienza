@@ -123,24 +123,24 @@
    "copertura_esito": 14.3
   },
   "2023": {
-   "affidamenti": 32,
-   "certi": 32,
-   "diretti": 8,
-   "quota_diretti": 25.0,
-   "mod_diretto": 8,
+   "affidamenti": 31,
+   "certi": 31,
+   "diretti": 7,
+   "quota_diretti": 22.6,
+   "mod_diretto": 7,
    "mod_negoziata": 3,
    "mod_gara": 21,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 1.4,
-   "sotto_soglia": 9,
-   "quota_diretti_sotto_soglia": 88.9,
-   "importo_mediano": 905185,
+   "quota_diretti_per_importo": 1.0,
+   "sotto_soglia": 8,
+   "quota_diretti_sotto_soglia": 87.5,
+   "importo_mediano": 910371,
    "prosecuzioni": 2,
    "canale_prefettura": 0,
-   "canale_ente_locale": 32,
+   "canale_ente_locale": 31,
    "enti_gestori": 8,
-   "copertura_vincitore": 25.0,
-   "copertura_esito": 25.0
+   "copertura_vincitore": 25.8,
+   "copertura_esito": 25.8
   },
   "2024": {
    "affidamenti": 37,
@@ -342,10 +342,10 @@
    "importo_mediano": 197480
   },
   "2023-06": {
-   "affidamenti": 14,
-   "diretti": 5,
-   "quota_diretti": 35.7,
-   "importo_mediano": 509917
+   "affidamenti": 13,
+   "diretti": 4,
+   "quota_diretti": 30.8,
+   "importo_mediano": 799833
   },
   "2023-08": {
    "affidamenti": 2,
@@ -1520,21 +1520,6 @@
    "base": 103047.5,
    "aggiudicato": 103047.5,
    "durata_gg": 180.0,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "98940246E4",
-   "data": "2023-06-20",
-   "oggetto": "AFFIDAMENTO DIRETTO PONTE PER L'ESECUZIONE DEL SERVIZIO DEL PROGETTO SAI NELLE MORE DELLA DEFINZIONE DELLA PROCEDURA DI GARA IN CORSO",
-   "amministrazione": "COMUNE DI VACCARIZZO ALBANESE",
-   "ente": null,
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 91081.53,
-   "aggiudicato": null,
-   "durata_gg": 90.0,
    "da_accordo": false,
    "confidenza": "certa"
   },

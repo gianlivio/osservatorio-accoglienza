@@ -15,105 +15,105 @@
  ],
  "fonte": "ANAC - Banca Dati Nazionale dei Contratti Pubblici (CIG, aggiudicazioni, aggiudicatari)",
  "totale": {
-  "affidamenti": 18104,
-  "certi": 13832,
-  "diretti": 10303,
+  "affidamenti": 18058,
+  "certi": 13789,
+  "diretti": 10268,
   "quota_diretti": 56.9,
-  "mod_diretto": 10725,
-  "mod_negoziata": 2567,
-  "mod_gara": 4785,
+  "mod_diretto": 10689,
+  "mod_negoziata": 2562,
+  "mod_gara": 4780,
   "mod_altro": 27,
   "quota_diretti_per_importo": 31.1,
-  "sotto_soglia": 7633,
+  "sotto_soglia": 7589,
   "quota_diretti_sotto_soglia": 75.2,
-  "importo_mediano": 205798,
-  "prosecuzioni": 2021,
+  "importo_mediano": 207384,
+  "prosecuzioni": 2018,
   "canale_prefettura": 8890,
-  "canale_ente_locale": 9214,
-  "enti_gestori": 2356,
-  "copertura_vincitore": 51.8,
+  "canale_ente_locale": 9168,
+  "enti_gestori": 2349,
+  "copertura_vincitore": 51.7,
   "copertura_esito": 53.7
  },
  "per_anno": {
   "2015": {
-   "affidamenti": 1509,
-   "certi": 1167,
+   "affidamenti": 1504,
+   "certi": 1163,
    "diretti": 695,
-   "quota_diretti": 46.1,
-   "mod_diretto": 830,
+   "quota_diretti": 46.2,
+   "mod_diretto": 829,
    "mod_negoziata": 246,
-   "mod_gara": 433,
+   "mod_gara": 429,
    "mod_altro": 0,
    "quota_diretti_per_importo": 20.2,
-   "sotto_soglia": 688,
-   "quota_diretti_sotto_soglia": 58.6,
-   "importo_mediano": 167510,
+   "sotto_soglia": 683,
+   "quota_diretti_sotto_soglia": 59.0,
+   "importo_mediano": 168568,
    "prosecuzioni": 159,
    "canale_prefettura": 849,
-   "canale_ente_locale": 660,
-   "enti_gestori": 279,
-   "copertura_vincitore": 45.9,
-   "copertura_esito": 45.9
+   "canale_ente_locale": 655,
+   "enti_gestori": 278,
+   "copertura_vincitore": 46.0,
+   "copertura_esito": 46.0
   },
   "2016": {
-   "affidamenti": 2081,
-   "certi": 1574,
-   "diretti": 1029,
+   "affidamenti": 2079,
+   "certi": 1572,
+   "diretti": 1028,
    "quota_diretti": 49.4,
-   "mod_diretto": 1139,
+   "mod_diretto": 1138,
    "mod_negoziata": 403,
-   "mod_gara": 538,
+   "mod_gara": 537,
    "mod_altro": 1,
    "quota_diretti_per_importo": 16.6,
-   "sotto_soglia": 890,
-   "quota_diretti_sotto_soglia": 61.3,
+   "sotto_soglia": 888,
+   "quota_diretti_sotto_soglia": 61.4,
    "importo_mediano": 178200,
    "prosecuzioni": 194,
    "canale_prefettura": 1154,
-   "canale_ente_locale": 927,
+   "canale_ente_locale": 925,
    "enti_gestori": 409,
    "copertura_vincitore": 43.1,
    "copertura_esito": 43.1
   },
   "2017": {
-   "affidamenti": 2618,
-   "certi": 1921,
+   "affidamenti": 2613,
+   "certi": 1916,
    "diretti": 1295,
-   "quota_diretti": 49.5,
+   "quota_diretti": 49.6,
    "mod_diretto": 1390,
-   "mod_negoziata": 320,
+   "mod_negoziata": 315,
    "mod_gara": 906,
    "mod_altro": 2,
    "quota_diretti_per_importo": 15.5,
-   "sotto_soglia": 910,
-   "quota_diretti_sotto_soglia": 61.5,
-   "importo_mediano": 286600,
+   "sotto_soglia": 907,
+   "quota_diretti_sotto_soglia": 61.7,
+   "importo_mediano": 287100,
    "prosecuzioni": 260,
    "canale_prefettura": 1490,
-   "canale_ente_locale": 1128,
+   "canale_ente_locale": 1123,
    "enti_gestori": 591,
-   "copertura_vincitore": 52.6,
-   "copertura_esito": 52.6
+   "copertura_vincitore": 52.5,
+   "copertura_esito": 52.5
   },
   "2018": {
-   "affidamenti": 1498,
-   "certi": 1076,
-   "diretti": 914,
+   "affidamenti": 1497,
+   "certi": 1075,
+   "diretti": 913,
    "quota_diretti": 61.0,
-   "mod_diretto": 971,
+   "mod_diretto": 970,
    "mod_negoziata": 148,
    "mod_gara": 379,
    "mod_altro": 0,
    "quota_diretti_per_importo": 79.6,
-   "sotto_soglia": 490,
+   "sotto_soglia": 489,
    "quota_diretti_sotto_soglia": 66.7,
-   "importo_mediano": 245260,
-   "prosecuzioni": 149,
+   "importo_mediano": 245520,
+   "prosecuzioni": 148,
    "canale_prefettura": 919,
-   "canale_ente_locale": 579,
+   "canale_ente_locale": 578,
    "enti_gestori": 390,
-   "copertura_vincitore": 58.9,
-   "copertura_esito": 58.9
+   "copertura_vincitore": 59.0,
+   "copertura_esito": 59.0
   },
   "2019": {
    "affidamenti": 1089,
@@ -156,104 +156,104 @@
    "copertura_esito": 38.3
   },
   "2021": {
-   "affidamenti": 1100,
-   "certi": 887,
-   "diretti": 440,
-   "quota_diretti": 40.0,
-   "mod_diretto": 445,
+   "affidamenti": 1099,
+   "certi": 886,
+   "diretti": 439,
+   "quota_diretti": 39.9,
+   "mod_diretto": 444,
    "mod_negoziata": 166,
    "mod_gara": 489,
    "mod_altro": 0,
    "quota_diretti_per_importo": 12.9,
-   "sotto_soglia": 313,
-   "quota_diretti_sotto_soglia": 64.9,
-   "importo_mediano": 462355,
+   "sotto_soglia": 312,
+   "quota_diretti_sotto_soglia": 64.7,
+   "importo_mediano": 464458,
    "prosecuzioni": 191,
    "canale_prefettura": 401,
-   "canale_ente_locale": 699,
+   "canale_ente_locale": 698,
    "enti_gestori": 249,
    "copertura_vincitore": 36.4,
    "copertura_esito": 36.4
   },
   "2022": {
-   "affidamenti": 1376,
-   "certi": 1056,
-   "diretti": 860,
+   "affidamenti": 1375,
+   "certi": 1055,
+   "diretti": 859,
    "quota_diretti": 62.5,
-   "mod_diretto": 863,
+   "mod_diretto": 862,
    "mod_negoziata": 219,
    "mod_gara": 294,
    "mod_altro": 0,
    "quota_diretti_per_importo": 22.5,
-   "sotto_soglia": 463,
+   "sotto_soglia": 462,
    "quota_diretti_sotto_soglia": 80.1,
-   "importo_mediano": 226191,
+   "importo_mediano": 226250,
    "prosecuzioni": 154,
    "canale_prefettura": 599,
-   "canale_ente_locale": 777,
+   "canale_ente_locale": 776,
    "enti_gestori": 297,
-   "copertura_vincitore": 36.6,
-   "copertura_esito": 36.8
+   "copertura_vincitore": 36.7,
+   "copertura_esito": 36.9
   },
   "2023": {
-   "affidamenti": 1673,
-   "certi": 1317,
-   "diretti": 1023,
+   "affidamenti": 1671,
+   "certi": 1315,
+   "diretti": 1021,
    "quota_diretti": 61.1,
-   "mod_diretto": 1025,
+   "mod_diretto": 1023,
    "mod_negoziata": 262,
    "mod_gara": 386,
    "mod_altro": 0,
    "quota_diretti_per_importo": 16.8,
-   "sotto_soglia": 686,
+   "sotto_soglia": 684,
    "quota_diretti_sotto_soglia": 86.3,
    "importo_mediano": 214900,
    "prosecuzioni": 214,
    "canale_prefettura": 779,
-   "canale_ente_locale": 894,
+   "canale_ente_locale": 892,
    "enti_gestori": 354,
-   "copertura_vincitore": 36.2,
+   "copertura_vincitore": 36.3,
    "copertura_esito": 36.7
   },
   "2024": {
-   "affidamenti": 2312,
-   "certi": 1802,
-   "diretti": 1675,
-   "quota_diretti": 72.4,
-   "mod_diretto": 1675,
+   "affidamenti": 2295,
+   "certi": 1786,
+   "diretti": 1658,
+   "quota_diretti": 72.2,
+   "mod_diretto": 1658,
    "mod_negoziata": 309,
    "mod_gara": 315,
    "mod_altro": 13,
    "quota_diretti_per_importo": 7.9,
-   "sotto_soglia": 1514,
-   "quota_diretti_sotto_soglia": 88.9,
-   "importo_mediano": 73645,
-   "prosecuzioni": 221,
+   "sotto_soglia": 1497,
+   "quota_diretti_sotto_soglia": 88.8,
+   "importo_mediano": 74666,
+   "prosecuzioni": 219,
    "canale_prefettura": 875,
-   "canale_ente_locale": 1437,
-   "enti_gestori": 850,
-   "copertura_vincitore": 78.7,
-   "copertura_esito": 87.2
+   "canale_ente_locale": 1420,
+   "enti_gestori": 844,
+   "copertura_vincitore": 78.6,
+   "copertura_esito": 87.1
   },
   "2025": {
-   "affidamenti": 1743,
-   "certi": 1415,
-   "diretti": 1259,
-   "quota_diretti": 72.2,
-   "mod_diretto": 1259,
+   "affidamenti": 1731,
+   "certi": 1404,
+   "diretti": 1247,
+   "quota_diretti": 72.0,
+   "mod_diretto": 1247,
    "mod_negoziata": 197,
    "mod_gara": 276,
    "mod_altro": 11,
    "quota_diretti_per_importo": 23.3,
-   "sotto_soglia": 1058,
-   "quota_diretti_sotto_soglia": 89.1,
-   "importo_mediano": 99660,
+   "sotto_soglia": 1046,
+   "quota_diretti_sotto_soglia": 89.0,
+   "importo_mediano": 101016,
    "prosecuzioni": 207,
    "canale_prefettura": 755,
-   "canale_ente_locale": 988,
-   "enti_gestori": 677,
-   "copertura_vincitore": 77.3,
-   "copertura_esito": 85.9
+   "canale_ente_locale": 976,
+   "enti_gestori": 673,
+   "copertura_vincitore": 77.2,
+   "copertura_esito": 85.8
   },
   "2026": null
  },
@@ -307,10 +307,10 @@
    "importo_mediano": 150150
   },
   "2015-09": {
-   "affidamenti": 132,
+   "affidamenti": 128,
    "diretti": 69,
-   "quota_diretti": 52.3,
-   "importo_mediano": 98672
+   "quota_diretti": 53.9,
+   "importo_mediano": 108880
   },
   "2015-10": {
    "affidamenti": 50,
@@ -325,10 +325,10 @@
    "importo_mediano": 151207
   },
   "2015-12": {
-   "affidamenti": 362,
+   "affidamenti": 361,
    "diretti": 158,
-   "quota_diretti": 43.6,
-   "importo_mediano": 181000
+   "quota_diretti": 43.8,
+   "importo_mediano": 182000
   },
   "2016-01": {
    "affidamenti": 148,
@@ -349,10 +349,10 @@
    "importo_mediano": 154175
   },
   "2016-04": {
-   "affidamenti": 163,
+   "affidamenti": 162,
    "diretti": 90,
-   "quota_diretti": 55.2,
-   "importo_mediano": 189000
+   "quota_diretti": 55.6,
+   "importo_mediano": 189225
   },
   "2016-05": {
    "affidamenti": 101,
@@ -367,10 +367,10 @@
    "importo_mediano": 164312
   },
   "2016-07": {
-   "affidamenti": 164,
-   "diretti": 66,
-   "quota_diretti": 40.2,
-   "importo_mediano": 166223
+   "affidamenti": 163,
+   "diretti": 65,
+   "quota_diretti": 39.9,
+   "importo_mediano": 167460
   },
   "2016-08": {
    "affidamenti": 138,
@@ -469,16 +469,16 @@
    "importo_mediano": 598260
   },
   "2017-12": {
-   "affidamenti": 331,
+   "affidamenti": 326,
    "diretti": 189,
-   "quota_diretti": 57.1,
-   "importo_mediano": 247970
+   "quota_diretti": 58.0,
+   "importo_mediano": 253335
   },
   "2018-01": {
-   "affidamenti": 194,
-   "diretti": 117,
-   "quota_diretti": 60.3,
-   "importo_mediano": 279960
+   "affidamenti": 193,
+   "diretti": 116,
+   "quota_diretti": 60.1,
+   "importo_mediano": 283432
   },
   "2018-02": {
    "affidamenti": 158,
@@ -691,10 +691,10 @@
    "importo_mediano": 584000
   },
   "2021-01": {
-   "affidamenti": 89,
-   "diretti": 17,
-   "quota_diretti": 19.1,
-   "importo_mediano": 576203
+   "affidamenti": 88,
+   "diretti": 16,
+   "quota_diretti": 18.2,
+   "importo_mediano": 598518
   },
   "2021-02": {
    "affidamenti": 117,
@@ -829,10 +829,10 @@
    "importo_mediano": 300395
   },
   "2022-12": {
-   "affidamenti": 234,
-   "diretti": 97,
-   "quota_diretti": 41.5,
-   "importo_mediano": 511546
+   "affidamenti": 233,
+   "diretti": 96,
+   "quota_diretti": 41.2,
+   "importo_mediano": 521402
   },
   "2023-01": {
    "affidamenti": 94,
@@ -865,10 +865,10 @@
    "importo_mediano": 242175
   },
   "2023-06": {
-   "affidamenti": 225,
-   "diretti": 104,
-   "quota_diretti": 46.2,
-   "importo_mediano": 541562
+   "affidamenti": 224,
+   "diretti": 103,
+   "quota_diretti": 46.0,
+   "importo_mediano": 541920
   },
   "2023-07": {
    "affidamenti": 166,
@@ -901,34 +901,34 @@
    "importo_mediano": 124275
   },
   "2023-12": {
-   "affidamenti": 194,
-   "diretti": 148,
-   "quota_diretti": 76.3,
-   "importo_mediano": 139948
+   "affidamenti": 193,
+   "diretti": 147,
+   "quota_diretti": 76.2,
+   "importo_mediano": 139995
   },
   "2024-01": {
-   "affidamenti": 96,
-   "diretti": 83,
-   "quota_diretti": 86.5,
-   "importo_mediano": 40855
+   "affidamenti": 95,
+   "diretti": 82,
+   "quota_diretti": 86.3,
+   "importo_mediano": 40940
   },
   "2024-02": {
-   "affidamenti": 213,
-   "diretti": 183,
-   "quota_diretti": 85.9,
-   "importo_mediano": 30000
+   "affidamenti": 208,
+   "diretti": 178,
+   "quota_diretti": 85.6,
+   "importo_mediano": 30990
   },
   "2024-03": {
-   "affidamenti": 192,
-   "diretti": 150,
-   "quota_diretti": 78.1,
-   "importo_mediano": 47744
+   "affidamenti": 188,
+   "diretti": 146,
+   "quota_diretti": 77.7,
+   "importo_mediano": 48450
   },
   "2024-04": {
-   "affidamenti": 244,
-   "diretti": 179,
-   "quota_diretti": 73.4,
-   "importo_mediano": 119094
+   "affidamenti": 243,
+   "diretti": 178,
+   "quota_diretti": 73.3,
+   "importo_mediano": 125398
   },
   "2024-05": {
    "affidamenti": 307,
@@ -937,10 +937,10 @@
    "importo_mediano": 73804
   },
   "2024-06": {
-   "affidamenti": 179,
-   "diretti": 119,
-   "quota_diretti": 66.5,
-   "importo_mediano": 98936
+   "affidamenti": 178,
+   "diretti": 118,
+   "quota_diretti": 66.3,
+   "importo_mediano": 103758
   },
   "2024-07": {
    "affidamenti": 243,
@@ -955,22 +955,22 @@
    "importo_mediano": 87146
   },
   "2024-09": {
-   "affidamenti": 142,
-   "diretti": 91,
-   "quota_diretti": 64.1,
-   "importo_mediano": 123560
+   "affidamenti": 141,
+   "diretti": 90,
+   "quota_diretti": 63.8,
+   "importo_mediano": 129788
   },
   "2024-10": {
-   "affidamenti": 196,
-   "diretti": 132,
-   "quota_diretti": 67.3,
-   "importo_mediano": 140237
+   "affidamenti": 193,
+   "diretti": 129,
+   "quota_diretti": 66.8,
+   "importo_mediano": 154941
   },
   "2024-11": {
-   "affidamenti": 162,
-   "diretti": 106,
-   "quota_diretti": 65.4,
-   "importo_mediano": 97922
+   "affidamenti": 161,
+   "diretti": 105,
+   "quota_diretti": 65.2,
+   "importo_mediano": 100100
   },
   "2024-12": {
    "affidamenti": 238,
@@ -979,28 +979,28 @@
    "importo_mediano": 65465
   },
   "2025-01": {
-   "affidamenti": 190,
-   "diretti": 147,
-   "quota_diretti": 77.4,
-   "importo_mediano": 54936
+   "affidamenti": 189,
+   "diretti": 146,
+   "quota_diretti": 77.2,
+   "importo_mediano": 56072
   },
   "2025-02": {
-   "affidamenti": 176,
-   "diretti": 134,
-   "quota_diretti": 76.1,
-   "importo_mediano": 92122
+   "affidamenti": 175,
+   "diretti": 133,
+   "quota_diretti": 76.0,
+   "importo_mediano": 92916
   },
   "2025-03": {
-   "affidamenti": 162,
-   "diretti": 111,
-   "quota_diretti": 68.5,
-   "importo_mediano": 247862
+   "affidamenti": 157,
+   "diretti": 106,
+   "quota_diretti": 67.5,
+   "importo_mediano": 289896
   },
   "2025-04": {
-   "affidamenti": 133,
-   "diretti": 88,
-   "quota_diretti": 66.2,
-   "importo_mediano": 59860
+   "affidamenti": 132,
+   "diretti": 87,
+   "quota_diretti": 65.9,
+   "importo_mediano": 59930
   },
   "2025-05": {
    "affidamenti": 153,
@@ -1015,16 +1015,16 @@
    "importo_mediano": 95753
   },
   "2025-07": {
-   "affidamenti": 157,
-   "diretti": 117,
-   "quota_diretti": 74.5,
-   "importo_mediano": 108977
+   "affidamenti": 154,
+   "diretti": 114,
+   "quota_diretti": 74.0,
+   "importo_mediano": 113033
   },
   "2025-08": {
-   "affidamenti": 96,
-   "diretti": 61,
-   "quota_diretti": 63.5,
-   "importo_mediano": 98999
+   "affidamenti": 95,
+   "diretti": 60,
+   "quota_diretti": 63.2,
+   "importo_mediano": 99956
   },
   "2025-09": {
    "affidamenti": 113,
@@ -1054,16 +1054,16 @@
  "serie_anni": [
   {
    "anno": "2015",
-   "affidamenti": 1509,
-   "quota_diretti": 46.1,
-   "affidamenti_40k": 1385,
+   "affidamenti": 1504,
+   "quota_diretti": 46.2,
+   "affidamenti_40k": 1384,
    "quota_diretti_40k": 44.2,
-   "importo_mediano": 167510,
-   "copertura_esito": 45.9
+   "importo_mediano": 168568,
+   "copertura_esito": 46.0
   },
   {
    "anno": "2016",
-   "affidamenti": 2081,
+   "affidamenti": 2079,
    "quota_diretti": 49.4,
    "affidamenti_40k": 1951,
    "quota_diretti_40k": 47.8,
@@ -1072,21 +1072,21 @@
   },
   {
    "anno": "2017",
-   "affidamenti": 2618,
-   "quota_diretti": 49.5,
-   "affidamenti_40k": 2479,
-   "quota_diretti_40k": 47.8,
-   "importo_mediano": 286600,
-   "copertura_esito": 52.6
+   "affidamenti": 2613,
+   "quota_diretti": 49.6,
+   "affidamenti_40k": 2474,
+   "quota_diretti_40k": 47.9,
+   "importo_mediano": 287100,
+   "copertura_esito": 52.5
   },
   {
    "anno": "2018",
-   "affidamenti": 1498,
+   "affidamenti": 1497,
    "quota_diretti": 61.0,
-   "affidamenti_40k": 1391,
+   "affidamenti_40k": 1390,
    "quota_diretti_40k": 59.6,
-   "importo_mediano": 245260,
-   "copertura_esito": 58.9
+   "importo_mediano": 245520,
+   "copertura_esito": 59.0
   },
   {
    "anno": "2019",
@@ -1108,48 +1108,48 @@
   },
   {
    "anno": "2021",
-   "affidamenti": 1100,
-   "quota_diretti": 40.0,
-   "affidamenti_40k": 1027,
+   "affidamenti": 1099,
+   "quota_diretti": 39.9,
+   "affidamenti_40k": 1026,
    "quota_diretti_40k": 38.9,
-   "importo_mediano": 462355,
+   "importo_mediano": 464458,
    "copertura_esito": 36.4
   },
   {
    "anno": "2022",
-   "affidamenti": 1376,
+   "affidamenti": 1375,
    "quota_diretti": 62.5,
-   "affidamenti_40k": 1339,
+   "affidamenti_40k": 1338,
    "quota_diretti_40k": 62.4,
-   "importo_mediano": 226191,
-   "copertura_esito": 36.8
+   "importo_mediano": 226250,
+   "copertura_esito": 36.9
   },
   {
    "anno": "2023",
-   "affidamenti": 1673,
+   "affidamenti": 1671,
    "quota_diretti": 61.1,
-   "affidamenti_40k": 1613,
+   "affidamenti_40k": 1612,
    "quota_diretti_40k": 60.0,
    "importo_mediano": 214900,
    "copertura_esito": 36.7
   },
   {
    "anno": "2024",
-   "affidamenti": 2312,
-   "quota_diretti": 72.4,
-   "affidamenti_40k": 1367,
-   "quota_diretti_40k": 57.9,
-   "importo_mediano": 73645,
-   "copertura_esito": 87.2
+   "affidamenti": 2295,
+   "quota_diretti": 72.2,
+   "affidamenti_40k": 1365,
+   "quota_diretti_40k": 57.8,
+   "importo_mediano": 74666,
+   "copertura_esito": 87.1
   },
   {
    "anno": "2025",
-   "affidamenti": 1743,
-   "quota_diretti": 72.2,
-   "affidamenti_40k": 1084,
+   "affidamenti": 1731,
+   "quota_diretti": 72.0,
+   "affidamenti_40k": 1083,
    "quota_diretti_40k": 58.0,
-   "importo_mediano": 99660,
-   "copertura_esito": 85.9
+   "importo_mediano": 101016,
+   "copertura_esito": 85.8
   }
  ],
  "anni_esito": [
@@ -1157,7 +1157,7 @@
   "2025",
   "2026"
  ],
- "amministrazioni": 1498,
+ "amministrazioni": 1497,
  "province": [
   {
    "provincia": "AGRIGENTO",
@@ -1848,24 +1848,24 @@
   {
    "provincia": "BARI",
    "totale": {
-    "affidamenti": 93,
-    "certi": 83,
-    "diretti": 32,
-    "quota_diretti": 34.4,
-    "mod_diretto": 32,
+    "affidamenti": 92,
+    "certi": 82,
+    "diretti": 31,
+    "quota_diretti": 33.7,
+    "mod_diretto": 31,
     "mod_negoziata": 12,
     "mod_gara": 49,
     "mod_altro": 0,
     "quota_diretti_per_importo": 9.3,
-    "sotto_soglia": 16,
-    "quota_diretti_sotto_soglia": 56.2,
-    "importo_mediano": 724080,
+    "sotto_soglia": 15,
+    "quota_diretti_sotto_soglia": 53.3,
+    "importo_mediano": 736718,
     "prosecuzioni": 6,
     "canale_prefettura": 37,
-    "canale_ente_locale": 56,
-    "enti_gestori": 36,
-    "copertura_vincitore": 82.8,
-    "copertura_esito": 82.8
+    "canale_ente_locale": 55,
+    "enti_gestori": 35,
+    "copertura_vincitore": 82.6,
+    "copertura_esito": 82.6
    },
    "per_anno": {
     "2015": {
@@ -1923,10 +1923,10 @@
      "enti_gestori": 6
     },
     "2024": {
-     "affidamenti": 17,
-     "quota_diretti": 64.7,
-     "importo_mediano": 785174,
-     "enti_gestori": 9
+     "affidamenti": 16,
+     "quota_diretti": 62.5,
+     "importo_mediano": 894006,
+     "enti_gestori": 8
     },
     "2025": {
      "affidamenti": 9,
@@ -2442,22 +2442,22 @@
   {
    "provincia": "BOLZANO",
    "totale": {
-    "affidamenti": 54,
-    "certi": 53,
-    "diretti": 41,
-    "quota_diretti": 75.9,
-    "mod_diretto": 42,
+    "affidamenti": 53,
+    "certi": 52,
+    "diretti": 40,
+    "quota_diretti": 75.5,
+    "mod_diretto": 41,
     "mod_negoziata": 9,
     "mod_gara": 3,
     "mod_altro": 0,
-    "quota_diretti_per_importo": 35.3,
-    "sotto_soglia": 42,
-    "quota_diretti_sotto_soglia": 90.5,
-    "importo_mediano": 36918,
+    "quota_diretti_per_importo": 34.6,
+    "sotto_soglia": 41,
+    "quota_diretti_sotto_soglia": 90.2,
+    "importo_mediano": 35840,
     "prosecuzioni": 2,
     "canale_prefettura": 0,
-    "canale_ente_locale": 54,
-    "enti_gestori": 38,
+    "canale_ente_locale": 53,
+    "enti_gestori": 37,
     "copertura_vincitore": 100.0,
     "copertura_esito": 100.0
    },
@@ -2507,10 +2507,10 @@
     "2022": null,
     "2023": null,
     "2024": {
-     "affidamenti": 20,
-     "quota_diretti": 90.0,
-     "importo_mediano": 15122,
-     "enti_gestori": 18
+     "affidamenti": 19,
+     "quota_diretti": 89.5,
+     "importo_mediano": 14944,
+     "enti_gestori": 17
     },
     "2025": {
      "affidamenti": 17,
@@ -3379,24 +3379,24 @@
   {
    "provincia": "COSENZA",
    "totale": {
-    "affidamenti": 125,
-    "certi": 124,
-    "diretti": 44,
-    "quota_diretti": 35.2,
-    "mod_diretto": 44,
+    "affidamenti": 124,
+    "certi": 123,
+    "diretti": 43,
+    "quota_diretti": 34.7,
+    "mod_diretto": 43,
     "mod_negoziata": 11,
     "mod_gara": 70,
     "mod_altro": 0,
-    "quota_diretti_per_importo": 6.7,
-    "sotto_soglia": 42,
-    "quota_diretti_sotto_soglia": 88.1,
-    "importo_mediano": 493226,
+    "quota_diretti_per_importo": 6.6,
+    "sotto_soglia": 41,
+    "quota_diretti_sotto_soglia": 87.8,
+    "importo_mediano": 510848,
     "prosecuzioni": 24,
     "canale_prefettura": 1,
-    "canale_ente_locale": 124,
+    "canale_ente_locale": 123,
     "enti_gestori": 37,
-    "copertura_vincitore": 51.2,
-    "copertura_esito": 56.8
+    "copertura_vincitore": 51.6,
+    "copertura_esito": 57.3
    },
    "per_anno": {
     "2015": null,
@@ -3438,9 +3438,9 @@
      "enti_gestori": 2
     },
     "2023": {
-     "affidamenti": 32,
-     "quota_diretti": 25.0,
-     "importo_mediano": 905185,
+     "affidamenti": 31,
+     "quota_diretti": 22.6,
+     "importo_mediano": 910371,
      "enti_gestori": 8
     },
     "2024": {
@@ -3963,24 +3963,24 @@
   {
    "provincia": "FIRENZE",
    "totale": {
-    "affidamenti": 276,
-    "certi": 109,
-    "diretti": 227,
+    "affidamenti": 275,
+    "certi": 108,
+    "diretti": 226,
     "quota_diretti": 82.2,
-    "mod_diretto": 228,
+    "mod_diretto": 227,
     "mod_negoziata": 21,
     "mod_gara": 27,
     "mod_altro": 0,
     "quota_diretti_per_importo": 38.7,
-    "sotto_soglia": 136,
+    "sotto_soglia": 135,
     "quota_diretti_sotto_soglia": 96.3,
     "importo_mediano": 142740,
     "prosecuzioni": 8,
     "canale_prefettura": 198,
-    "canale_ente_locale": 78,
+    "canale_ente_locale": 77,
     "enti_gestori": 44,
-    "copertura_vincitore": 63.8,
-    "copertura_esito": 77.9
+    "copertura_vincitore": 64.0,
+    "copertura_esito": 78.2
    },
    "per_anno": {
     "2015": {
@@ -4027,9 +4027,9 @@
      "enti_gestori": 1
     },
     "2023": {
-     "affidamenti": 49,
-     "quota_diretti": 75.5,
-     "importo_mediano": 135493,
+     "affidamenti": 48,
+     "quota_diretti": 75.0,
+     "importo_mediano": 136556,
      "enti_gestori": 5
     },
     "2024": {
@@ -5350,24 +5350,24 @@
   {
    "provincia": "LUCCA",
    "totale": {
-    "affidamenti": 96,
+    "affidamenti": 95,
     "certi": 73,
-    "diretti": 66,
-    "quota_diretti": 68.8,
-    "mod_diretto": 70,
+    "diretti": 65,
+    "quota_diretti": 68.4,
+    "mod_diretto": 69,
     "mod_negoziata": 3,
     "mod_gara": 23,
     "mod_altro": 0,
     "quota_diretti_per_importo": 28.9,
-    "sotto_soglia": 44,
-    "quota_diretti_sotto_soglia": 93.2,
-    "importo_mediano": 465587,
+    "sotto_soglia": 43,
+    "quota_diretti_sotto_soglia": 93.0,
+    "importo_mediano": 476730,
     "prosecuzioni": 3,
     "canale_prefettura": 44,
-    "canale_ente_locale": 52,
+    "canale_ente_locale": 51,
     "enti_gestori": 31,
-    "copertura_vincitore": 91.7,
-    "copertura_esito": 92.7
+    "copertura_vincitore": 91.6,
+    "copertura_esito": 92.6
    },
    "per_anno": {
     "2015": null,
@@ -5421,8 +5421,8 @@
      "enti_gestori": 6
     },
     "2025": {
-     "affidamenti": 17,
-     "quota_diretti": 70.6,
+     "affidamenti": 16,
+     "quota_diretti": 68.8,
      "importo_mediano": 36890,
      "enti_gestori": 7
     },
@@ -5924,24 +5924,24 @@
   {
    "provincia": "MODENA",
    "totale": {
-    "affidamenti": 140,
+    "affidamenti": 139,
     "certi": 98,
-    "diretti": 115,
-    "quota_diretti": 82.1,
-    "mod_diretto": 115,
+    "diretti": 114,
+    "quota_diretti": 82.0,
+    "mod_diretto": 114,
     "mod_negoziata": 5,
     "mod_gara": 20,
     "mod_altro": 0,
     "quota_diretti_per_importo": 59.4,
-    "sotto_soglia": 66,
-    "quota_diretti_sotto_soglia": 95.5,
-    "importo_mediano": 190047,
+    "sotto_soglia": 65,
+    "quota_diretti_sotto_soglia": 95.4,
+    "importo_mediano": 193200,
     "prosecuzioni": 41,
     "canale_prefettura": 66,
-    "canale_ente_locale": 74,
+    "canale_ente_locale": 73,
     "enti_gestori": 24,
-    "copertura_vincitore": 75.0,
-    "copertura_esito": 75.0
+    "copertura_vincitore": 74.8,
+    "copertura_esito": 74.8
    },
    "per_anno": {
     "2015": {
@@ -5999,9 +5999,9 @@
      "enti_gestori": 5
     },
     "2024": {
-     "affidamenti": 53,
-     "quota_diretti": 92.5,
-     "importo_mediano": 72348,
+     "affidamenti": 52,
+     "quota_diretti": 92.3,
+     "importo_mediano": 73098,
      "enti_gestori": 16
     },
     "2025": {
@@ -6923,24 +6923,24 @@
   {
    "provincia": "PESCARA",
    "totale": {
-    "affidamenti": 123,
-    "certi": 122,
-    "diretti": 91,
-    "quota_diretti": 74.0,
-    "mod_diretto": 91,
+    "affidamenti": 119,
+    "certi": 118,
+    "diretti": 87,
+    "quota_diretti": 73.1,
+    "mod_diretto": 87,
     "mod_negoziata": 17,
     "mod_gara": 15,
     "mod_altro": 0,
     "quota_diretti_per_importo": 5.3,
-    "sotto_soglia": 94,
-    "quota_diretti_sotto_soglia": 92.6,
-    "importo_mediano": 9900,
+    "sotto_soglia": 90,
+    "quota_diretti_sotto_soglia": 92.2,
+    "importo_mediano": 14000,
     "prosecuzioni": 16,
     "canale_prefettura": 34,
-    "canale_ente_locale": 89,
-    "enti_gestori": 41,
-    "copertura_vincitore": 59.3,
-    "copertura_esito": 68.3
+    "canale_ente_locale": 85,
+    "enti_gestori": 40,
+    "copertura_vincitore": 58.0,
+    "copertura_esito": 67.2
    },
    "per_anno": {
     "2015": null,
@@ -6978,16 +6978,16 @@
      "enti_gestori": 0
     },
     "2024": {
-     "affidamenti": 45,
-     "quota_diretti": 97.8,
+     "affidamenti": 44,
+     "quota_diretti": 97.7,
      "importo_mediano": 5000,
      "enti_gestori": 30
     },
     "2025": {
-     "affidamenti": 36,
-     "quota_diretti": 97.2,
+     "affidamenti": 33,
+     "quota_diretti": 97.0,
      "importo_mediano": 4950,
-     "enti_gestori": 18
+     "enti_gestori": 17
     },
     "2026": null
    },
@@ -7932,24 +7932,24 @@
   {
    "provincia": "RIMINI",
    "totale": {
-    "affidamenti": 83,
-    "certi": 79,
-    "diretti": 51,
-    "quota_diretti": 61.4,
-    "mod_diretto": 51,
+    "affidamenti": 82,
+    "certi": 78,
+    "diretti": 50,
+    "quota_diretti": 61.0,
+    "mod_diretto": 50,
     "mod_negoziata": 18,
     "mod_gara": 14,
     "mod_altro": 0,
-    "quota_diretti_per_importo": 6.8,
-    "sotto_soglia": 41,
-    "quota_diretti_sotto_soglia": 82.9,
-    "importo_mediano": 140000,
+    "quota_diretti_per_importo": 6.7,
+    "sotto_soglia": 40,
+    "quota_diretti_sotto_soglia": 82.5,
+    "importo_mediano": 148264,
     "prosecuzioni": 16,
     "canale_prefettura": 59,
-    "canale_ente_locale": 24,
+    "canale_ente_locale": 23,
     "enti_gestori": 19,
-    "copertura_vincitore": 81.9,
-    "copertura_esito": 84.3
+    "copertura_vincitore": 82.9,
+    "copertura_esito": 85.4
    },
    "per_anno": {
     "2015": {
@@ -7990,9 +7990,9 @@
     },
     "2021": null,
     "2022": {
-     "affidamenti": 14,
-     "quota_diretti": 78.6,
-     "importo_mediano": 265750,
+     "affidamenti": 13,
+     "quota_diretti": 76.9,
+     "importo_mediano": 346415,
      "enti_gestori": 5
     },
     "2023": {
@@ -9018,24 +9018,24 @@
   {
    "provincia": "TORINO",
    "totale": {
-    "affidamenti": 595,
-    "certi": 570,
-    "diretti": 333,
-    "quota_diretti": 56.0,
-    "mod_diretto": 337,
+    "affidamenti": 576,
+    "certi": 551,
+    "diretti": 314,
+    "quota_diretti": 54.5,
+    "mod_diretto": 318,
     "mod_negoziata": 151,
     "mod_gara": 106,
     "mod_altro": 1,
     "quota_diretti_per_importo": 22.2,
-    "sotto_soglia": 215,
-    "quota_diretti_sotto_soglia": 55.3,
+    "sotto_soglia": 196,
+    "quota_diretti_sotto_soglia": 51.0,
     "importo_mediano": 214900,
     "prosecuzioni": 5,
     "canale_prefettura": 387,
-    "canale_ente_locale": 208,
-    "enti_gestori": 109,
-    "copertura_vincitore": 79.0,
-    "copertura_esito": 80.2
+    "canale_ente_locale": 189,
+    "enti_gestori": 104,
+    "copertura_vincitore": 78.5,
+    "copertura_esito": 79.5
    },
    "per_anno": {
     "2015": {
@@ -9093,16 +9093,16 @@
      "enti_gestori": 10
     },
     "2024": {
-     "affidamenti": 82,
-     "quota_diretti": 72.0,
-     "importo_mediano": 257413,
-     "enti_gestori": 41
+     "affidamenti": 71,
+     "quota_diretti": 67.6,
+     "importo_mediano": 598570,
+     "enti_gestori": 37
     },
     "2025": {
-     "affidamenti": 29,
-     "quota_diretti": 72.4,
-     "importo_mediano": 25000,
-     "enti_gestori": 18
+     "affidamenti": 21,
+     "quota_diretti": 61.9,
+     "importo_mediano": 98506,
+     "enti_gestori": 15
     },
     "2026": null
    },
@@ -9212,24 +9212,24 @@
   {
    "provincia": "TRENTO",
    "totale": {
-    "affidamenti": 201,
-    "certi": 199,
+    "affidamenti": 196,
+    "certi": 194,
     "diretti": 73,
-    "quota_diretti": 36.3,
+    "quota_diretti": 37.2,
     "mod_diretto": 73,
-    "mod_negoziata": 87,
+    "mod_negoziata": 82,
     "mod_gara": 41,
     "mod_altro": 0,
-    "quota_diretti_per_importo": 12.4,
-    "sotto_soglia": 88,
-    "quota_diretti_sotto_soglia": 78.4,
-    "importo_mediano": 192341,
+    "quota_diretti_per_importo": 12.5,
+    "sotto_soglia": 85,
+    "quota_diretti_sotto_soglia": 81.2,
+    "importo_mediano": 194536,
     "prosecuzioni": 68,
     "canale_prefettura": 0,
-    "canale_ente_locale": 201,
+    "canale_ente_locale": 196,
     "enti_gestori": 32,
-    "copertura_vincitore": 76.1,
-    "copertura_esito": 88.6
+    "copertura_vincitore": 75.5,
+    "copertura_esito": 88.3
    },
    "per_anno": {
     "2015": {
@@ -9245,9 +9245,9 @@
      "enti_gestori": 6
     },
     "2017": {
-     "affidamenti": 36,
-     "quota_diretti": 2.8,
-     "importo_mediano": 333027,
+     "affidamenti": 31,
+     "quota_diretti": 3.2,
+     "importo_mediano": 385000,
      "enti_gestori": 14
     },
     "2018": {
@@ -9299,21 +9299,21 @@
   {
    "provincia": "TREVISO",
    "totale": {
-    "affidamenti": 315,
-    "certi": 242,
-    "diretti": 280,
-    "quota_diretti": 88.9,
-    "mod_diretto": 281,
+    "affidamenti": 313,
+    "certi": 240,
+    "diretti": 278,
+    "quota_diretti": 88.8,
+    "mod_diretto": 279,
     "mod_negoziata": 18,
     "mod_gara": 16,
     "mod_altro": 0,
     "quota_diretti_per_importo": 35.1,
-    "sotto_soglia": 148,
+    "sotto_soglia": 146,
     "quota_diretti_sotto_soglia": 96.6,
-    "importo_mediano": 147413,
-    "prosecuzioni": 76,
+    "importo_mediano": 149472,
+    "prosecuzioni": 74,
     "canale_prefettura": 191,
-    "canale_ente_locale": 124,
+    "canale_ente_locale": 122,
     "enti_gestori": 29,
     "copertura_vincitore": 98.4,
     "copertura_esito": 98.4
@@ -9369,9 +9369,9 @@
     },
     "2023": null,
     "2024": {
-     "affidamenti": 35,
-     "quota_diretti": 80.0,
-     "importo_mediano": 172556,
+     "affidamenti": 33,
+     "quota_diretti": 78.8,
+     "importo_mediano": 177762,
      "enti_gestori": 6
     },
     "2025": {

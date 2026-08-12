@@ -143,22 +143,22 @@
   "2022": null,
   "2023": null,
   "2024": {
-   "affidamenti": 20,
-   "certi": 20,
-   "diretti": 18,
-   "quota_diretti": 90.0,
-   "mod_diretto": 18,
+   "affidamenti": 19,
+   "certi": 19,
+   "diretti": 17,
+   "quota_diretti": 89.5,
+   "mod_diretto": 17,
    "mod_negoziata": 0,
    "mod_gara": 2,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 32.5,
-   "sotto_soglia": 18,
+   "quota_diretti_per_importo": 26.8,
+   "sotto_soglia": 17,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 15122,
+   "importo_mediano": 14944,
    "prosecuzioni": 0,
    "canale_prefettura": 0,
-   "canale_ente_locale": 20,
-   "enti_gestori": 18,
+   "canale_ente_locale": 19,
+   "enti_gestori": 17,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
   },
@@ -306,10 +306,10 @@
    "importo_mediano": 8250
   },
   "2024-10": {
-   "affidamenti": 5,
-   "diretti": 5,
+   "affidamenti": 4,
+   "diretti": 4,
    "quota_diretti": 100.0,
-   "importo_mediano": 27842
+   "importo_mediano": 21393
   },
   "2024-11": {
    "affidamenti": 1,
@@ -688,21 +688,6 @@
    "modalita": "diretto",
    "base": 14040.0,
    "aggiudicato": 14040.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B3F491933E",
-   "data": "2024-10-24",
-   "oggetto": "PROGETTO SAI PROG 1204-PR-2. ORGANIZZAZIONE E SVOLGIMENTO DI CORSI DI APPRENDIMENTO DELLA LINGUA ITALIANA E TEDESCA PER IL PERIODO 01.11.2024-31.12.2026",
-   "amministrazione": "BEZIRKSGEMEINSCHAFT VINSCHGAU",
-   "ente": "SOCIETA' COOPERATIVA PER LA FORMAZIONE E LO SVILUPPO REGIONALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 93109.5,
-   "aggiudicato": 93109.5,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

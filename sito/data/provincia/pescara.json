@@ -105,44 +105,44 @@
    "copertura_esito": 0.0
   },
   "2024": {
-   "affidamenti": 45,
-   "certi": 45,
-   "diretti": 44,
-   "quota_diretti": 97.8,
-   "mod_diretto": 44,
+   "affidamenti": 44,
+   "certi": 44,
+   "diretti": 43,
+   "quota_diretti": 97.7,
+   "mod_diretto": 43,
    "mod_negoziata": 0,
    "mod_gara": 1,
    "mod_altro": 0,
    "quota_diretti_per_importo": 20.3,
-   "sotto_soglia": 44,
+   "sotto_soglia": 43,
    "quota_diretti_sotto_soglia": 100.0,
    "importo_mediano": 5000,
    "prosecuzioni": 6,
    "canale_prefettura": 0,
-   "canale_ente_locale": 45,
+   "canale_ente_locale": 44,
    "enti_gestori": 30,
-   "copertura_vincitore": 91.1,
+   "copertura_vincitore": 90.9,
    "copertura_esito": 100.0
   },
   "2025": {
-   "affidamenti": 36,
-   "certi": 36,
-   "diretti": 35,
-   "quota_diretti": 97.2,
-   "mod_diretto": 35,
+   "affidamenti": 33,
+   "certi": 33,
+   "diretti": 32,
+   "quota_diretti": 97.0,
+   "mod_diretto": 32,
    "mod_negoziata": 0,
    "mod_gara": 1,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 8.1,
-   "sotto_soglia": 35,
+   "quota_diretti_per_importo": 8.0,
+   "sotto_soglia": 32,
    "quota_diretti_sotto_soglia": 100.0,
    "importo_mediano": 4950,
    "prosecuzioni": 10,
    "canale_prefettura": 2,
-   "canale_ente_locale": 34,
-   "enti_gestori": 18,
-   "copertura_vincitore": 77.8,
-   "copertura_esito": 97.2
+   "canale_ente_locale": 31,
+   "enti_gestori": 17,
+   "copertura_vincitore": 75.8,
+   "copertura_esito": 97.0
   },
   "2026": null
  },
@@ -310,10 +310,10 @@
    "importo_mediano": 5000
   },
   "2024-11": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 3,
+   "diretti": 3,
    "quota_diretti": 100.0,
-   "importo_mediano": 1450
+   "importo_mediano": 2500
   },
   "2024-12": {
    "affidamenti": 2,
@@ -322,10 +322,10 @@
    "importo_mediano": 8510
   },
   "2025-01": {
-   "affidamenti": 5,
-   "diretti": 5,
+   "affidamenti": 4,
+   "diretti": 4,
    "quota_diretti": 100.0,
-   "importo_mediano": 3022
+   "importo_mediano": 3191
   },
   "2025-02": {
    "affidamenti": 5,
@@ -334,8 +334,8 @@
    "importo_mediano": 4000
   },
   "2025-03": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 2,
+   "diretti": 2,
    "quota_diretti": 100.0,
    "importo_mediano": 2641
   },
@@ -418,11 +418,11 @@
    "affidamenti": 3
   },
   {
-   "nome": "TRISI SSD A R.L.",
-   "affidamenti": 3
+   "nome": "PAPER SHOW DI DI BLASIO MAURIZIO",
+   "affidamenti": 2
   },
   {
-   "nome": "PAPER SHOW DI DI BLASIO MAURIZIO",
+   "nome": "TRISI SSD A R.L.",
    "affidamenti": 2
   },
   {
@@ -464,11 +464,6 @@
   {
    "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
    "ente": "FERSOL SRLS",
-   "affidamenti_diretti": 3
-  },
-  {
-   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
-   "ente": "TRISI SSD A R.L.",
    "affidamenti_diretti": 3
   }
  ],
@@ -819,21 +814,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B63D6D30C0",
-   "data": "2025-03-28",
-   "oggetto": "PROG. SAI CAT. MSNA – ISCRIZIONE N. 18 MSNA A CORSO TRIMESTRALE CALCIO A 5",
-   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
-   "ente": "TRISI SSD A R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 5400.0,
-   "aggiudicato": 5400.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B613FCA956",
    "data": "2025-03-18",
    "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO N. 14 VISITE MEDICHE PER ATTIVITÀ SPORTIVA A LIVELLO NON AGONISTICO",
@@ -844,21 +824,6 @@
    "modalita": "diretto",
    "base": 560.0,
    "aggiudicato": 560.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B5EAED3457",
-   "data": "2025-03-06",
-   "oggetto": "PROG. SAI CAT. MSNA – ISCRIZIONE N. 1 MSNA A CORSO TRIMESTRALE KICKBOXING",
-   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
-   "ente": "TRISI SSD A R.L",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 150.0,
-   "aggiudicato": 150.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -934,21 +899,6 @@
    "modalita": "diretto",
    "base": 4000.0,
    "aggiudicato": 4000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B5532A3696",
-   "data": "2025-01-24",
-   "oggetto": "PROG. SAI CAT. MSNA - PAGAMENTO QUOTA PARTECIPAZIONE CORSO DIRITTO E NORMATIVA DELLE MIGRAZIONI",
-   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
-   "ente": "VIS VOLONTARIATO INTERNAZIONALE PER LO SVILUPPO",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 265.0,
-   "aggiudicato": 265.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1054,21 +1004,6 @@
    "modalita": "diretto",
    "base": 8500.0,
    "aggiudicato": 8500.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B458971878",
-   "data": "2024-11-20",
-   "oggetto": "PROG. SAI CAT. MSNA – ISCRIZIONE N. 2 MSNA A CORSO KICKBOXING",
-   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
-   "ente": "TRISI SSD A R.L",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 240.0,
-   "aggiudicato": 240.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

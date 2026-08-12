@@ -181,21 +181,21 @@
    "copertura_esito": 31.2
   },
   "2024": {
-   "affidamenti": 53,
+   "affidamenti": 52,
    "certi": 29,
-   "diretti": 49,
-   "quota_diretti": 92.5,
-   "mod_diretto": 49,
+   "diretti": 48,
+   "quota_diretti": 92.3,
+   "mod_diretto": 48,
    "mod_negoziata": 2,
    "mod_gara": 2,
    "mod_altro": 0,
    "quota_diretti_per_importo": 77.8,
-   "sotto_soglia": 34,
-   "quota_diretti_sotto_soglia": 97.1,
-   "importo_mediano": 72348,
+   "sotto_soglia": 33,
+   "quota_diretti_sotto_soglia": 97.0,
+   "importo_mediano": 73098,
    "prosecuzioni": 20,
    "canale_prefettura": 24,
-   "canale_ente_locale": 29,
+   "canale_ente_locale": 28,
    "enti_gestori": 16,
    "copertura_vincitore": 96.2,
    "copertura_esito": 96.2
@@ -392,10 +392,10 @@
    "importo_mediano": 139500
   },
   "2024-02": {
-   "affidamenti": 6,
-   "diretti": 6,
+   "affidamenti": 5,
+   "diretti": 5,
    "quota_diretti": 100.0,
-   "importo_mediano": 38760
+   "importo_mediano": 26671
   },
   "2024-03": {
    "affidamenti": 2,
@@ -508,12 +508,12 @@
    "affidamenti": 5
   },
   {
-   "nome": "IL MANTELLO COOPERATIVA SOCIALE ARL",
+   "nome": "ASSOCIAZIONE PORTA APERTA",
    "affidamenti": 4
   },
   {
-   "nome": "ASSOCIAZIONE PORTA APERTA",
-   "affidamenti": 4
+   "nome": "IL MANTELLO COOPERATIVA SOCIALE ARL",
+   "affidamenti": 3
   },
   {
    "nome": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
@@ -1673,21 +1673,6 @@
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B085CE49A9",
-   "data": "2024-02-23",
-   "oggetto": "AFFIDAMENTO DI INTERVENTI PER FAVORIRE L'INTEGRAZIONE DEI CITTADINI STRANIERI (SPORTELLO STRANIERI E CORSI DI LINGUA DA REALIZZARSI ANCHE NELL'AMBITO DELL'ATTIVITA' DEL CENTRO SERV",
-   "amministrazione": "UNIONE COMUNI DEL SORBARA",
-   "ente": "IL MANTELLO COOPERATIVA SOCIALE ARL",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 50850.0,
-   "aggiudicato": 50850.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "B085C02F27",

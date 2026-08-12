@@ -122,24 +122,24 @@
   },
   "2021": null,
   "2022": {
-   "affidamenti": 14,
-   "certi": 14,
-   "diretti": 11,
-   "quota_diretti": 78.6,
-   "mod_diretto": 11,
+   "affidamenti": 13,
+   "certi": 13,
+   "diretti": 10,
+   "quota_diretti": 76.9,
+   "mod_diretto": 10,
    "mod_negoziata": 3,
    "mod_gara": 0,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 42.8,
-   "sotto_soglia": 6,
-   "quota_diretti_sotto_soglia": 83.3,
-   "importo_mediano": 265750,
+   "quota_diretti_per_importo": 41.6,
+   "sotto_soglia": 5,
+   "quota_diretti_sotto_soglia": 80.0,
+   "importo_mediano": 346415,
    "prosecuzioni": 3,
    "canale_prefettura": 10,
-   "canale_ente_locale": 4,
+   "canale_ente_locale": 3,
    "enti_gestori": 5,
-   "copertura_vincitore": 85.7,
-   "copertura_esito": 85.7
+   "copertura_vincitore": 92.3,
+   "copertura_esito": 92.3
   },
   "2023": {
    "affidamenti": 26,
@@ -283,10 +283,10 @@
    "importo_mediano": 265750
   },
   "2022-12": {
-   "affidamenti": 8,
-   "diretti": 5,
-   "quota_diretti": 62.5,
-   "importo_mediano": 120873
+   "affidamenti": 7,
+   "diretti": 4,
+   "quota_diretti": 57.1,
+   "importo_mediano": 103757
   },
   "2023-01": {
    "affidamenti": 1,
@@ -1353,21 +1353,6 @@
    "base": 1814714.29,
    "aggiudicato": 1814714.29,
    "durata_gg": 1095.0,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "9490409542",
-   "data": "2022-12-21",
-   "oggetto": "VARIANTE IN CORSO D'OPERA PER SISTEMA SAI SIMPROIMI- APMLIAMENTO POSTI PER EMERGENZA AFGHANI E UCRAINI",
-   "amministrazione": "UNIONE DI COMUNI VALMARECCHIA",
-   "ente": null,
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 137989.73,
-   "aggiudicato": null,
-   "durata_gg": 457.0,
    "da_accordo": false,
    "confidenza": "certa"
   },

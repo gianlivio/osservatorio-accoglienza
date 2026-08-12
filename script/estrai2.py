@@ -36,12 +36,19 @@ COLONNE = ["cig","cig_accordo_quadro","n_lotti_componenti","oggetto_gara","ogget
 
 def cpv_base(v): return v.strip().split("-")[0][:8] if v else ""
 def pulisci(v): return html.unescape(v or "").replace("\u2013","-").strip()
+FORMAZIONE = re.compile(r"\bcorso\b|\bcorsi\b|laboratori tematici|erogazione di percorsi|percorsi di formazione|corso professional", re.I)
+OSPITALITA = re.compile(r"accoglienz|alloggi|ospitalit|\bvitto\b|posti letto|gestione (di )?(un )?centro|gestione (di )?(una )?struttur|presa in carico|prima accoglienza|seconda accoglienza|centro di accoglienza|casa di|beneficiari|richiedent", re.I)
+
+def solo_formazione(t):
+    return bool(FORMAZIONE.search(t)) and not OSPITALITA.search(t)
+
 def testo(r): return " ".join([pulisci(r.get("oggetto_gara")),
                                pulisci(r.get("oggetto_lotto"))]).lower()
 
 def classifica(r):
     t = testo(r)
     if any(re.search(p, t) for p in VETO): return None
+    if solo_formazione(t): return None
     c = cpv_base(r.get("cod_cpv"))
     if c in CPV_ESCLUSI: return None
     if any(re.search(p, t) for p in FORTI): return "certa"

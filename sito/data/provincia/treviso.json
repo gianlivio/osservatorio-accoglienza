@@ -162,21 +162,21 @@
   },
   "2023": null,
   "2024": {
-   "affidamenti": 35,
-   "certi": 7,
-   "diretti": 28,
-   "quota_diretti": 80.0,
-   "mod_diretto": 28,
+   "affidamenti": 33,
+   "certi": 5,
+   "diretti": 26,
+   "quota_diretti": 78.8,
+   "mod_diretto": 26,
    "mod_negoziata": 7,
    "mod_gara": 0,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 43.2,
-   "sotto_soglia": 12,
-   "quota_diretti_sotto_soglia": 83.3,
-   "importo_mediano": 172556,
-   "prosecuzioni": 23,
+   "quota_diretti_per_importo": 42.8,
+   "sotto_soglia": 10,
+   "quota_diretti_sotto_soglia": 80.0,
+   "importo_mediano": 177762,
+   "prosecuzioni": 21,
    "canale_prefettura": 26,
-   "canale_ente_locale": 9,
+   "canale_ente_locale": 7,
    "enti_gestori": 6,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
@@ -492,12 +492,6 @@
    "quota_diretti": 100.0,
    "importo_mediano": 2044605
   },
-  "2024-01": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 34290
-  },
   "2024-02": {
    "affidamenti": 1,
    "diretti": 0,
@@ -511,10 +505,10 @@
    "importo_mediano": 196728
   },
   "2024-06": {
-   "affidamenti": 7,
-   "diretti": 7,
+   "affidamenti": 6,
+   "diretti": 6,
    "quota_diretti": 100.0,
-   "importo_mediano": 147413
+   "importo_mediano": 159984
   },
   "2024-07": {
    "affidamenti": 5,
@@ -589,12 +583,12 @@
    "affidamenti": 25
   },
   {
-   "nome": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
+   "nome": "INTEGRA COOPERATIVA SOCIALE",
    "affidamenti": 12
   },
   {
-   "nome": "INTEGRA COOPERATIVA SOCIALE",
-   "affidamenti": 12
+   "nome": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 10
   },
   {
    "nome": "CIVICO 1 S.R.L.",
@@ -629,11 +623,6 @@
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
    "ente": "CIVICO 1 S.R.L.",
    "affidamenti_diretti": 6
-  },
-  {
-   "amministrazione": "COMUNE DI ASOLO",
-   "ente": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti_diretti": 4
   }
  ],
  "contratti": [
@@ -1523,21 +1512,6 @@
    "confidenza": "probabile"
   },
   {
-   "cig": "B1F935BA34",
-   "data": "2024-06-05",
-   "oggetto": "DM19832 DEL 02/05/2024 E 24545 DEL 31/05/2024 PROROGA PROGETTO SAI ASOLO PROG 51 PR2R",
-   "amministrazione": "COMUNE DI ASOLO",
-   "ente": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 34765.78,
-   "aggiudicato": 34765.78,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B1DFB09553",
    "data": "2024-05-29",
    "oggetto": "ACCOGLIENZA MIGRANTI APRILE_GIUGNO2024",
@@ -1641,21 +1615,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
-  },
-  {
-   "cig": "B0028F6EF4",
-   "data": "2024-01-15",
-   "oggetto": "NOME LOTTO",
-   "amministrazione": "COMUNE DI ASOLO",
-   "ente": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 34289.52,
-   "aggiudicato": 34289.52,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
   },
   {
    "cig": "9526508319",

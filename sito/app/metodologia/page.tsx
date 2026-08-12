@@ -42,6 +42,13 @@ export default function Metodologia() {
           anche impianti ferroviari — e ne lascia fuori altri, scritti in modo insolito. Ogni
           correzione è annotata nel codice pubblico del progetto.
         </p>
+        <p>
+          Una distinzione in particolare: i corsi di formazione professionale rivolti a
+          migranti — cucina, saldatura, alfabetizzazione — non sono contati come accoglienza,
+          anche quando fanno parte di un progetto SAI. L&apos;archivio raccoglie i contratti
+          per ospitare le persone, non quelli per formarle. Un contratto che unisce le due
+          cose resta incluso; uno che riguarda solo la formazione no.
+        </p>
       </section>
 
       <section className="sezione">
