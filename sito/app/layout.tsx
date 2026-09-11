@@ -15,6 +15,12 @@ export const metadata: Metadata = {
       "Come lo Stato italiano compra l'accoglienza dei migranti: affidamenti, importi ed enti gestori, provincia per provincia.",
     type: "website",
     locale: "it_IT",
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "Osservatorio Accoglienza" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Osservatorio Accoglienza",
+    images: ["/og.png"],
   },
 };
 
