@@ -158,9 +158,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 4,
    "canale_ente_locale": 2,
-   "enti_gestori": 3,
-   "copertura_vincitore": 66.7,
-   "copertura_esito": 66.7
+   "enti_gestori": 5,
+   "copertura_vincitore": 83.3,
+   "copertura_esito": 83.3
   },
   "2025": {
    "affidamenti": 22,
@@ -181,8 +181,7 @@
    "enti_gestori": 15,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-02": {
@@ -380,12 +379,24 @@
  },
  "top_enti": [
   {
+   "nome": "COOPERATIVA SOCIALE PERCORSO ALTRO",
+   "affidamenti": 3
+  },
+  {
    "nome": "UN MONDO DI GIOIA SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 4
+   "affidamenti": 3
+  },
+  {
+   "nome": "LEVANTE SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 3
   },
   {
    "nome": "LA MIA BADANTE SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 3
+  },
+  {
+   "nome": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 2
   },
   {
    "nome": "TANGRAM APS",
@@ -396,19 +407,7 @@
    "affidamenti": 2
   },
   {
-   "nome": "LEVANTE SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 2
-  },
-  {
-   "nome": "COOPERATIVA SOCIALE PERCORSO ALTRO",
-   "affidamenti": 2
-  },
-  {
    "nome": "COOPERATIVA SOCIALE PERCORSO VITA",
-   "affidamenti": 1
-  },
-  {
-   "nome": "CO.GE.S. DON LORENZO MILANI SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   },
   {
@@ -757,12 +756,12 @@
    "data": "2024-10-23",
    "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
    "amministrazione": "PREFETTURA DI PADOVA",
-   "ente": null,
+   "ente": "LEVANTE SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 2424261.38,
-   "aggiudicato": null,
+   "aggiudicato": 376178.49,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -772,7 +771,7 @@
    "data": "2024-10-11",
    "oggetto": "SERVIZIO DI ACCOGLIENZA PROGETTO RONDINE SAI ORDINARI - SISTEMA DI ACCOGLIENZA E INTEGRAZIONE – DEL SISTEMA DI PROTEZIONE INTERNAZIONALE E MSNA",
    "amministrazione": "COMUNE DI PADOVA",
-   "ente": "CO.GE.S. DON LORENZO MILANI SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -792,7 +791,7 @@
    "diretto": false,
    "modalita": "altro",
    "base": 78604575.0,
-   "aggiudicato": 9258984.75,
+   "aggiudicato": 3578292.12,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -802,12 +801,12 @@
    "data": "2024-06-21",
    "oggetto": "SERVIZI ACCOGLIENA MIGRANTI IN SINGOLE UNIT� ABITATIVE",
    "amministrazione": "PREFETTURA DI PADOVA",
-   "ente": "UN MONDO DI GIOIA SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "COOPERATIVA SOCIALE PERCORSO ALTRO",
    "procedura": "ND P1_20",
    "diretto": false,
    "modalita": "altro",
    "base": 189314550.0,
-   "aggiudicato": 69118762.02000001,
+   "aggiudicato": 1027656.19,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

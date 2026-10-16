@@ -84,10 +84,9 @@
    "canale_prefettura": 4,
    "canale_ente_locale": 6,
    "enti_gestori": 6,
-   "copertura_vincitore": 80.0,
-   "copertura_esito": 80.0
-  },
-  "2026": null
+   "copertura_vincitore": 90.0,
+   "copertura_esito": 90.0
+  }
  },
  "per_mese": {
   "2018-05": {
@@ -237,8 +236,12 @@
    "affidamenti": 3
   },
   {
-   "nome": "4 ESSE S.R.L.",
-   "affidamenti": 1
+   "nome": "ORS ITALIA S.R.L.",
+   "affidamenti": 2
+  },
+  {
+   "nome": "GUS GRUPPO UMANA SOLIDARIETA' GUIDO PULETTI",
+   "affidamenti": 2
   },
   {
    "nome": "S.P.E.S. - SOCIETA  COOPERATIVA SOCIALE",
@@ -257,11 +260,7 @@
    "affidamenti": 1
   },
   {
-   "nome": "GUS GRUPPO UMANA SOLIDARIETA' GUIDO PULETTI",
-   "affidamenti": 1
-  },
-  {
-   "nome": "ORS ITALIA S.R.L.",
+   "nome": "DRYWALL EDIL DI GIAN PIETRO SANNA",
    "affidamenti": 1
   }
  ],
@@ -272,12 +271,12 @@
    "data": "2025-12-30",
    "oggetto": "SERVIZI DI ACCOGLIENZA E INTEGRAZIONE DEL SERVIZIO SAI - 'JUNTS' - AFFIDAMENTO PROSECUZIONE AMPLIAMENTO SAI 2026",
    "amministrazione": "GARE E CONTRATTI - C.U.C. COMUNI ALGHERO E STINTINO",
-   "ente": null,
+   "ente": "GUS GRUPPO UMANA SOLIDARIETA' GUIDO PULETTI",
    "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
    "diretto": true,
    "modalita": "diretto",
    "base": 278263.0,
-   "aggiudicato": null,
+   "aggiudicato": 278263.0,
    "durata_gg": 365.0,
    "da_accordo": true,
    "confidenza": "certa"
@@ -602,12 +601,12 @@
    "data": "2024-06-21",
    "oggetto": "PROCEDURA APERTA PER AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI PRESSO CENTRI DA 101 A 300 POSTI",
    "amministrazione": "PREFETTURA DI SASSARI",
-   "ente": "4 ESSE S.R.L.",
+   "ente": "ORS ITALIA S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 35828400.0,
-   "aggiudicato": 20303336.7,
+   "aggiudicato": 5618182.2,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

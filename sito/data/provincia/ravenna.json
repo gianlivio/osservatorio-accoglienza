@@ -217,10 +217,9 @@
    "canale_prefettura": 0,
    "canale_ente_locale": 5,
    "enti_gestori": 4,
-   "copertura_vincitore": 80.0,
-   "copertura_esito": 80.0
-  },
-  "2026": null
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2015-05": {
@@ -473,7 +472,7 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
-   "affidamenti": 4
+   "affidamenti": 5
   },
   {
    "nome": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
@@ -508,7 +507,7 @@
    "affidamenti": 1
   },
   {
-   "nome": "COOPERATIVA SOCIALE TERANGA SOCIETA' COOPERATIVA",
+   "nome": "NUOVE ACCOGLIENZE SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   }
  ],
@@ -549,12 +548,12 @@
    "data": "2025-12-03",
    "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA EDUCATIVA IN REGIME RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI. PERIODO PER UN MINORE: 01/01 - 05/01/26; PERIODO PER UN MINORE: 01/01 - 3",
    "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
-   "ente": null,
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 53625.0,
-   "aggiudicato": null,
+   "aggiudicato": 53625.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -684,12 +683,12 @@
    "data": "2024-08-14",
    "oggetto": "CENTRI COLLETTIVI FINO A 50 POSTI GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L'AFFIDAMENTO, NEL TERRITORIO DELLA PROVINCIA DI RAVENNA, DEI SERVIZI ",
    "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
-   "ente": "COOPERATIVA SOCIALE TERANGA SOCIETA' COOPERATIVA",
+   "ente": "NUOVE ACCOGLIENZE SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 13742142.0,
-   "aggiudicato": 338031510.69,
+   "aggiudicato": 9932567.06,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -879,7 +878,7 @@
    "data": "2022-12-23",
    "oggetto": "N.69 MINORI STRANIERI NON ACCOMPAGNATI DI CUI 5 NEOMAGGIORENNI",
    "amministrazione": "COMUNE DI RAVENNA",
-   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "ente": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

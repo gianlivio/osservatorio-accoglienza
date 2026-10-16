@@ -176,9 +176,9 @@
    "prosecuzioni": 3,
    "canale_prefettura": 4,
    "canale_ente_locale": 25,
-   "enti_gestori": 4,
-   "copertura_vincitore": 24.1,
-   "copertura_esito": 24.1
+   "enti_gestori": 5,
+   "copertura_vincitore": 31.0,
+   "copertura_esito": 31.0
   },
   "2024": {
    "affidamenti": 62,
@@ -196,7 +196,7 @@
    "prosecuzioni": 1,
    "canale_prefettura": 19,
    "canale_ente_locale": 43,
-   "enti_gestori": 25,
+   "enti_gestori": 24,
    "copertura_vincitore": 85.5,
    "copertura_esito": 95.2
   },
@@ -219,8 +219,7 @@
    "enti_gestori": 10,
    "copertura_vincitore": 90.5,
    "copertura_esito": 95.2
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-04": {
@@ -753,14 +752,10 @@
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE S.A.B.A. ONLUS",
-   "affidamenti": 9
+   "affidamenti": 8
   },
   {
    "nome": "IL CE.STO COOPERATIVA SOCIALE",
-   "affidamenti": 7
-  },
-  {
-   "nome": "ENTE CHIESA DEL SS.MO NOME DI MARIA E DEGLI ANGELI CUSTODI",
    "affidamenti": 7
   },
   {
@@ -768,11 +763,15 @@
    "affidamenti": 7
   },
   {
+   "nome": "ENTE CHIESA DEL SS.MO NOME DI MARIA E DEGLI ANGELI CUSTODI",
+   "affidamenti": 6
+  },
+  {
    "nome": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
    "affidamenti": 4
   },
   {
-   "nome": "IL MELOGRANO COOPERATIVA SOCIALE - ONLUS",
+   "nome": "ARCI SOLIDARIETA' GENOVA ODV",
    "affidamenti": 3
   },
   {
@@ -780,11 +779,11 @@
    "affidamenti": 2
   },
   {
-   "nome": "SYNERGIE ITALIA - AGENZIA PER IL LAVORO - S.P.A.",
+   "nome": "IL MELOGRANO COOPERATIVA SOCIALE - ONLUS",
    "affidamenti": 2
   },
   {
-   "nome": "ARCI SOLIDARIETA' GENOVA ODV",
+   "nome": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 2
   }
  ],
@@ -792,16 +791,16 @@
   {
    "amministrazione": "COMUNE DI GENOVA",
    "ente": "SOCIETA' COOPERATIVA SOCIALE S.A.B.A. ONLUS",
-   "affidamenti_diretti": 9
-  },
-  {
-   "amministrazione": "COMUNE DI GENOVA",
-   "ente": "ENTE CHIESA DEL SS.MO NOME DI MARIA E DEGLI ANGELI CUSTODI",
-   "affidamenti_diretti": 7
+   "affidamenti_diretti": 8
   },
   {
    "amministrazione": "COMUNE DI GENOVA",
    "ente": "IL CE.STO COOPERATIVA SOCIALE",
+   "affidamenti_diretti": 6
+  },
+  {
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "ENTE CHIESA DEL SS.MO NOME DI MARIA E DEGLI ANGELI CUSTODI",
    "affidamenti_diretti": 6
   },
   {
@@ -812,6 +811,11 @@
   {
    "amministrazione": "COMUNE DI RAPALLO",
    "ente": "AGORA' SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti_diretti": 3
+  },
+  {
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "ARCI SOLIDARIETA' GENOVA ODV",
    "affidamenti_diretti": 3
   }
  ],
@@ -1061,7 +1065,7 @@
    "data": "2025-02-07",
    "oggetto": "AFFIDAMENTO EX ARTICOLO 59 COMMA 4 DEL D.LGS. 36/2023 DELLA GESTIONE DEL SERVIZIO DI ACCOGLIENZA INTEGRATA DI PERSONE ADULTE E NUCLEI FAMILIARI BENEFICIARI DEL PROGETTO SAI CATEGOR",
    "amministrazione": "COMUNE DI GENOVA",
-   "ente": "ENTE CHIESA DEL SS.MO NOME DI MARIA E DEGLI ANGELI CUSTODI",
+   "ente": "UN'ALTRA STORIA - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -1091,7 +1095,7 @@
    "data": "2025-02-07",
    "oggetto": "AFFIDAMENTO EX ARTICOLO 59 COMMA 4 DEL D.LGS. 36/2023 DELLA GESTIONE DEL SERVIZIO DI ACCOGLIENZA INTEGRATA DI PERSONE ADULTE E NUCLEI FAMILIARI BENEFICIARI DEL PROGETTO SAI CATEGOR",
    "amministrazione": "COMUNE DI GENOVA",
-   "ente": "SOCIETA' COOPERATIVA SOCIALE S.A.B.A. ONLUS",
+   "ente": "ARCI SOLIDARIETA' GENOVA ODV",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -1781,12 +1785,12 @@
    "data": "2024-03-15",
    "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI COLLETTIVI CON CAPACITÀ RICETTIZIA FINO A 50 POSTI IN FAVORE DI PROFUGHI UCRAINI - 14",
    "amministrazione": "PREFETTURA DI GENOVA",
-   "ente": "FONDAZIONE L'ANCORA ONLUS",
+   "ente": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "ALTRA PROCEDURA A FASE UNICA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 1336191.26,
-   "aggiudicato": 1336191.26,
+   "aggiudicato": 668095.63,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1801,7 +1805,7 @@
    "diretto": false,
    "modalita": "negoziata",
    "base": 143459.52,
-   "aggiudicato": 143459.52,
+   "aggiudicato": 71729.76,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1816,7 +1820,7 @@
    "diretto": false,
    "modalita": "negoziata",
    "base": 365989.44,
-   "aggiudicato": 365989.44,
+   "aggiudicato": 182994.72,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1841,12 +1845,12 @@
    "data": "2024-03-14",
    "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA UA PROFUGHI UCRAINI -5",
    "amministrazione": "PREFETTURA DI GENOVA",
-   "ente": "MAGIS SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "OPERA DIOCESANA MADONNA DEI BAMBINI – VILLAGGIO DEL RAGAZZO",
    "procedura": "ALTRA PROCEDURA A FASE UNICA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 365989.44,
-   "aggiudicato": 365989.44,
+   "aggiudicato": 182994.72,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1856,12 +1860,12 @@
    "data": "2024-03-14",
    "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA UA PROFUGHI UCRAINI - 4",
    "amministrazione": "PREFETTURA DI GENOVA",
-   "ente": "IL MELOGRANO COOPERATIVA SOCIALE - ONLUS",
+   "ente": "FONDAZIONE AUXILIUM",
    "procedura": "ALTRA PROCEDURA A FASE UNICA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 134837.48,
-   "aggiudicato": 134837.48,
+   "aggiudicato": 67418.74,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2066,12 +2070,12 @@
    "data": "2023-12-12",
    "oggetto": "SERVIZIO ACCOGLIENZA SAI - SISTEMA ACCOGLIENZA INTEGRATA COOP. IL. CE.STO 01.01.2024 - 30.06.2026",
    "amministrazione": "COMUNE DI CAMOGLI",
-   "ente": null,
+   "ente": "IL CE.STO COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
    "diretto": true,
    "modalita": "diretto",
    "base": 367536.0,
-   "aggiudicato": null,
+   "aggiudicato": 367536.0,
    "durata_gg": 912.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2081,12 +2085,12 @@
    "data": "2023-12-12",
    "oggetto": "SERVIZIO ACCOGLIENZA SAI - SISTEMA ACCOGLIENZA INTEGRATA COOP. UN'ALTRA STORIA 01.01.2024 - 30.06.2026",
    "amministrazione": "COMUNE DI CAMOGLI",
-   "ente": null,
+   "ente": "UN'ALTRA STORIA - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
    "diretto": true,
    "modalita": "diretto",
    "base": 737301.6,
-   "aggiudicato": null,
+   "aggiudicato": 774421.68,
    "durata_gg": 912.0,
    "da_accordo": false,
    "confidenza": "certa"

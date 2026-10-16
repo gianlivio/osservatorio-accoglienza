@@ -178,11 +178,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 0,
    "canale_ente_locale": 16,
-   "enti_gestori": 7,
-   "copertura_vincitore": 68.8,
-   "copertura_esito": 68.8
-  },
-  "2026": null
+   "enti_gestori": 8,
+   "copertura_vincitore": 81.2,
+   "copertura_esito": 87.5
+  }
  },
  "per_mese": {
   "2016-04": {
@@ -447,19 +446,19 @@
  "top_enti": [
   {
    "nome": "L'IMPRONTA - SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 5
+   "affidamenti": 6
   },
   {
    "nome": "ODISSEA SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 4
   },
   {
-   "nome": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+   "nome": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 4
   },
   {
-   "nome": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 3
+   "nome": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 4
   },
   {
    "nome": "FONDAZIONE VILLAGGIO FANCIULLO ONLUS",
@@ -514,7 +513,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 2226859.07,
-   "aggiudicato": null,
+   "aggiudicato": 2120818.16,
    "durata_gg": 1036.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -584,12 +583,12 @@
    "data": "2025-06-26",
    "oggetto": "PROCEDURA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS N.36/2023, IN MODALITÀ' INTERAMENTE TELEMATICA, PER L'APPALTO DEL SERVIZIO DI ACCOGLIENZA SAI, PROGETTO TERRITORIALE 1573 CATEGORI",
    "amministrazione": "COMUNE DI CAPANNORI",
-   "ente": null,
+   "ente": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1734156.8,
-   "aggiudicato": null,
+   "aggiudicato": 1230461.07,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -599,12 +598,12 @@
    "data": "2025-06-25",
    "oggetto": "GESTIONE DEL SERVIZIO ACCOGLIENZA E L'INTEGRAZIONE DI MINORI STRANIERI NON ACCOMPAGNATI - PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI UN BANDO PER RIPETIZIONE DI SERVIZI ANALOGHI, P",
    "amministrazione": "COMUNE DI LUCCA",
-   "ente": null,
+   "ente": "L'IMPRONTA - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 1697031.0,
-   "aggiudicato": null,
+   "aggiudicato": 1414192.5,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

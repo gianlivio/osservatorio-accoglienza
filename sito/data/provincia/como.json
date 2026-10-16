@@ -140,11 +140,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 15,
    "canale_ente_locale": 9,
-   "enti_gestori": 11,
-   "copertura_vincitore": 70.8,
-   "copertura_esito": 87.5
-  },
-  "2026": null
+   "enti_gestori": 12,
+   "copertura_vincitore": 79.2,
+   "copertura_esito": 95.8
+  }
  },
  "per_mese": {
   "2018-12": {
@@ -490,12 +489,12 @@
    "data": "2025-11-05",
    "oggetto": "LOTTO 1: SERVIZI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNIT ABITATIVE CON CAPIENZA FINO A 50 POSTI PER UN FABBISOGNO DI MAX 100 POSTI.",
    "amministrazione": "PREFETTURA DI COMO",
-   "ente": null,
+   "ente": "MICHEA SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 10747425.0,
-   "aggiudicato": null,
+   "aggiudicato": 4294671.03,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -520,12 +519,12 @@
    "data": "2025-11-04",
    "oggetto": "SAP COMO - PREFETTURA - UTG DI COMO. AFFIDAMENTO DEI SERVIZI DI PRIMA ACCOGLIENZA DEI MINORI STRANIERI NON ACCOMPAGNATI, RICHIEDENTI PROTEZIONE INTERNAZIONALE, PRESSO LA STRUTTURA ",
    "amministrazione": "PREFETTURA DI COMO",
-   "ente": null,
+   "ente": "MEDIHOSPES COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1484256.96,
-   "aggiudicato": null,
+   "aggiudicato": 795652.92,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -595,12 +594,12 @@
    "data": "2025-05-14",
    "oggetto": "LOTTO 1: SERVIZI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNIT ABITATIVE CON CAPIENZA FINO A 50 POSTI PER UN FABBISOGNO DI MAX 1.170 POSTI.",
    "amministrazione": "PREFETTURA DI COMO",
-   "ente": "SYMPLOKE' - SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "ACLI SOLIDARIETA' E SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 125104297.5,
-   "aggiudicato": 199871629.85000002,
+   "aggiudicato": 49966656.42,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -615,7 +614,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 11420850.0,
-   "aggiudicato": 8858011.26,
+   "aggiudicato": 4307944.62,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "probabile"

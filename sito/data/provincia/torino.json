@@ -156,9 +156,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 32,
    "canale_ente_locale": 47,
-   "enti_gestori": 11,
-   "copertura_vincitore": 53.2,
-   "copertura_esito": 53.2
+   "enti_gestori": 13,
+   "copertura_vincitore": 57.0,
+   "copertura_esito": 57.0
   },
   "2023": {
    "affidamenti": 87,
@@ -176,9 +176,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 44,
    "canale_ente_locale": 43,
-   "enti_gestori": 10,
-   "copertura_vincitore": 49.4,
-   "copertura_esito": 49.4
+   "enti_gestori": 12,
+   "copertura_vincitore": 51.7,
+   "copertura_esito": 51.7
   },
   "2024": {
    "affidamenti": 71,
@@ -196,9 +196,9 @@
    "prosecuzioni": 2,
    "canale_prefettura": 36,
    "canale_ente_locale": 35,
-   "enti_gestori": 37,
+   "enti_gestori": 36,
    "copertura_vincitore": 88.7,
-   "copertura_esito": 94.4
+   "copertura_esito": 93.0
   },
   "2025": {
    "affidamenti": 21,
@@ -217,10 +217,9 @@
    "canale_prefettura": 2,
    "canale_ente_locale": 19,
    "enti_gestori": 15,
-   "copertura_vincitore": 76.2,
-   "copertura_esito": 85.7
-  },
-  "2026": null
+   "copertura_vincitore": 85.7,
+   "copertura_esito": 95.2
+  }
  },
  "per_mese": {
   "2015-01": {
@@ -816,6 +815,10 @@
    "affidamenti": 3
   },
   {
+   "nome": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "affidamenti": 3
+  },
+  {
    "nome": "NOE NUOVE OPPORTUNITA' EDUCATIVE - SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 2
   },
@@ -829,10 +832,6 @@
   },
   {
    "nome": "GLI ARGONAUTI SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE GLI ARGONAUTI S.C.S. ONLUS",
-   "affidamenti": 2
-  },
-  {
-   "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE DI SUSA O.D.V.",
    "affidamenti": 2
   }
  ],
@@ -914,12 +913,12 @@
    "data": "2025-09-19",
    "oggetto": "PROCEDURA NEGOZIATA G00858 - SERVIZIO DI ACCOGLIENZA RESIDENZIALE SUPPORTATA A VALENZA SOCIOSANITARIA PER 10 MIGRANTI, DESTINATARI DELLE PRESTAZIONI DEL PROGETTO PROGETTO 993 LGNET",
    "amministrazione": "COMUNE DI TORINO",
-   "ente": null,
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 423808.0,
-   "aggiudicato": null,
+   "aggiudicato": 272427.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -929,12 +928,12 @@
    "data": "2025-09-19",
    "oggetto": "PROCEDURA NEGOZIATA G00858 - SERVIZIO DI ACCOGLIENZA RESIDENZIALE SUPPORTATA A VALENZA SOCIOSANITARIA PER 10 MIGRANTI, DESTINATARI DELLE PRESTAZIONI DEL PROGETTO PROGETTO 993 LGNET",
    "amministrazione": "COMUNE DI TORINO",
-   "ente": null,
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 423808.0,
-   "aggiudicato": null,
+   "aggiudicato": 272427.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -1334,7 +1333,7 @@
    "data": "2024-11-05",
    "oggetto": "SERVIZIO DI ACCOGLIENZA ED ACCOMPAGNAMENTO ALLINCLUSIONE PER N. 40 PERSONE SINGOLE E/O NUCLEI FAMILIARI PRESSO STRUTTURE COLLETTIVE E/O ALLOGGI MESSI A DISPOSIZIONE DAI CONCORRENTI",
    "amministrazione": "COMUNE DI SETTIMO TORINESE",
-   "ente": "ASSOCIAZIONE CASA DEI POPOLI ONLUS",
+   "ente": "CISV SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CISV SOLIDARIETA' - S.C.S.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -2224,7 +2223,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 66002.92,
-   "aggiudicato": 66002.92,
+   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3449,12 +3448,12 @@
    "data": "2023-02-14",
    "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - EDUCAMONDO SOCIETÀ COOPERATIVA SOCIALE - GENNAIO-MARZO 2023",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "EDUCAMONDO - SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 54000.0,
-   "aggiudicato": null,
+   "aggiudicato": 51428.57,
    "durata_gg": 90.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3464,12 +3463,12 @@
    "data": "2023-02-14",
    "oggetto": "ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO ACCOGLIENZA COMUNITARIA 'CA' NOSTRA' - LA TERRA PROMESSA 2 COOPERATIVA SOCIALE ONLUS - GENNAIO-MARZO 2023",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "LA TERRA PROMESSA 2 SOCIET COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 73000.0,
-   "aggiudicato": null,
+   "aggiudicato": 73000.0,
    "durata_gg": 90.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3689,12 +3688,12 @@
    "data": "2022-11-08",
    "oggetto": "ACCOGLIENZA DI MINORI CON MADRE PRESSO COMUNITÀ MAMMA / BAMBINO - E DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA NOE NUOVE OPPORTUNITÀ EDUCATIVE - OTTOBRE-DICEMBRE 2022'",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "NOE NUOVE OPPORTUNITA' EDUCATIVE - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 110000.0,
-   "aggiudicato": null,
+   "aggiudicato": 110476.2,
    "durata_gg": 92.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3704,12 +3703,12 @@
    "data": "2022-11-08",
    "oggetto": "ACCOGLIENZA DI MINORI E MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - OTTOBRE-DICEMBRE 2022",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "EDUCAMONDO - SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 70000.0,
-   "aggiudicato": null,
+   "aggiudicato": 66666.67,
    "durata_gg": 92.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -4364,12 +4363,12 @@
    "data": "2022-07-26",
    "oggetto": "ACCOGLIENZA DI MINORI CON MADRE PRESSO COMUNITÀ MAMMA / BAMBINO E DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - NOE NUOVE OPPORTUNITÀ EDUCATIVE - LUGLIO-SETTEMBRE 2022",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "NOE NUOVE OPPORTUNITA' EDUCATIVE - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 87000.0,
-   "aggiudicato": null,
+   "aggiudicato": 87000.0,
    "durata_gg": 92.0,
    "da_accordo": false,
    "confidenza": "certa"

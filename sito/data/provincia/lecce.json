@@ -178,8 +178,8 @@
    "canale_prefettura": 6,
    "canale_ente_locale": 42,
    "enti_gestori": 20,
-   "copertura_vincitore": 68.8,
-   "copertura_esito": 75.0
+   "copertura_vincitore": 70.8,
+   "copertura_esito": 79.2
   },
   "2025": {
    "affidamenti": 42,
@@ -197,11 +197,10 @@
    "prosecuzioni": 15,
    "canale_prefettura": 8,
    "canale_ente_locale": 34,
-   "enti_gestori": 18,
-   "copertura_vincitore": 69.0,
-   "copertura_esito": 78.6
-  },
-  "2026": null
+   "enti_gestori": 17,
+   "copertura_vincitore": 71.4,
+   "copertura_esito": 83.3
+  }
  },
  "per_mese": {
   "2015-05": {
@@ -511,19 +510,19 @@
    "affidamenti": 10
   },
   {
+   "nome": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+   "affidamenti": 5
+  },
+  {
+   "nome": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "affidamenti": 5
+  },
+  {
    "nome": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "affidamenti": 5
   },
   {
-   "nome": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
-   "affidamenti": 4
-  },
-  {
    "nome": "AD MAIORA SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 4
-  },
-  {
-   "nome": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
    "affidamenti": 4
   },
   {
@@ -625,7 +624,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 309345.8,
-   "aggiudicato": null,
+   "aggiudicato": 309345.8,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -880,7 +879,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 725040.0,
-   "aggiudicato": 1027263.6,
+   "aggiudicato": 130442.4,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -890,12 +889,12 @@
    "data": "2025-06-19",
    "oggetto": "INDAGINE DI MERCATO PER L'ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZ",
    "amministrazione": "PREFETTURA",
-   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SOUTH EUROPE YOUTH FORUM",
+   "ente": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
    "procedura": "PROCEDURA RISTRETTA",
    "diretto": false,
    "modalita": "gara",
    "base": 679500.0,
-   "aggiudicato": 427555.8,
+   "aggiudicato": 54244.8,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1205,12 +1204,12 @@
    "data": "2025-01-02",
    "oggetto": "PROCEDURA APERTA PER L’INDIVIDUAZIONE DELL’ENTE ATTUATORE DEL PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE) PROSECUZIONE SERVIZIO DI ACCOGLIEN",
    "amministrazione": "COMUNE DI TRICASE",
-   "ente": null,
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1102479.54,
-   "aggiudicato": null,
+   "aggiudicato": 805072.47,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1435,7 +1434,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 2083119.8,
-   "aggiudicato": null,
+   "aggiudicato": 2083119.8,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1625,12 +1624,12 @@
    "data": "2024-04-25",
    "oggetto": "GARA EUROPEA PER LA CONCLUSIONE DI UN ACCORDO QUADRO TRIENNALE PER L AFFIDAMENTO NEL TERRIORIO DELLA PROV DI LECCE DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA MIGRANTI COSTITU",
    "amministrazione": "PREFETTURA",
-   "ente": null,
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SOUTH EUROPE YOUTH FORUM",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 51670312.5,
-   "aggiudicato": null,
+   "aggiudicato": 2685432.75,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -1645,7 +1644,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 55133250.0,
-   "aggiudicato": 9420404.1,
+   "aggiudicato": 3908447.85,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

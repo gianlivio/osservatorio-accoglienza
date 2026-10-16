@@ -177,8 +177,8 @@
    "prosecuzioni": 1,
    "canale_prefettura": 2,
    "canale_ente_locale": 18,
-   "enti_gestori": 16,
-   "copertura_vincitore": 90.0,
+   "enti_gestori": 17,
+   "copertura_vincitore": 95.0,
    "copertura_esito": 100.0
   },
   "2025": {
@@ -200,8 +200,7 @@
    "enti_gestori": 4,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-03": {
@@ -509,7 +508,7 @@
    "data": "2024-06-04",
    "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO, PER LA DURATA DI 36 MESI, PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA DI ",
    "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
-   "ente": null,
+   "ente": "RALLYE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -539,12 +538,12 @@
    "data": "2024-05-21",
    "oggetto": "CAS 2 - PROCEDURA APERTA AFFIDAMNETO SERVIZIO ACCOGLIENZA",
    "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
-   "ente": "ALBERGO CORONA S.R.L.",
+   "ente": "HOTEL ITALIA GROPELLO società a responsabilità limitata semplificata",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 44106600.0,
-   "aggiudicato": 99898218.75999999,
+   "aggiudicato": 5513325.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

@@ -14,13 +14,13 @@ const datasetJsonLd = {
   name: "Osservatorio Accoglienza",
   description:
     "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
-  license: "https://creativecommons.org/licenses/by/4.0/",
+  license: "https://creativecommons.org/licenses/by-sa/4.0/",
   creator: {
     "@type": "Person",
     name: "Gianlivio Iemolo",
     url: "https://portfoliooo-main.vercel.app/it",
   },
-  temporalCoverage: "2015/2025",
+  temporalCoverage: `${anni[0]}/${anni[anni.length - 1]}`,
   spatialCoverage: "Italia",
   url: "https://osservatorioaccoglienza.org",
   isBasedOn: "https://dati.anticorruzione.it",

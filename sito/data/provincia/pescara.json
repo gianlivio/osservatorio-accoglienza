@@ -140,11 +140,10 @@
    "prosecuzioni": 10,
    "canale_prefettura": 2,
    "canale_ente_locale": 31,
-   "enti_gestori": 17,
-   "copertura_vincitore": 75.8,
-   "copertura_esito": 97.0
-  },
-  "2026": null
+   "enti_gestori": 18,
+   "copertura_vincitore": 78.8,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2018-04": {
@@ -518,12 +517,12 @@
    "data": "2025-10-31",
    "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI DI ETÀ NON INFERIORE A 14 ANNI (MSNA) E GESTIONE DEI SERVIZI CONNESSI PR",
    "amministrazione": "PREFETTURA DI PESCARA",
-   "ente": null,
+   "ente": "NUVOLA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 3128415.0,
-   "aggiudicato": null,
+   "aggiudicato": 3128415.0,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"

@@ -6,7 +6,7 @@ Archivio dei contratti pubblici per i servizi di accoglienza a migranti e richie
 asilo in Italia, ricostruito dai dati aperti dell'Autorità Nazionale Anticorruzione.
 
 Provincia per provincia: quanti affidamenti, con quale procedura, di quale importo,
-verso quali enti gestori. Anni 2023, 2024, 2025.
+verso quali enti gestori, dal 2015 all'ultimo anno pubblicato da ANAC.
 
 ## Perché
 
@@ -34,7 +34,7 @@ CIG (per anno), aggiudicazioni, aggiudicatari. Uniti tramite il codice CIG.
 
     script/estrai2.py      filtra le gare di accoglienza da un file CIG mensile
     script/costruisci.py   unisce aggiudicazioni e aggiudicatari, aggrega, produce il JSON
-    sito/                  applicazione Next.js che legge sito-dati/province.json
+    sito/                  applicazione Next.js che legge sito/data/province-lite.json e sito/data/provincia/
 
 I dati grezzi non sono versionati: si scaricano da
 `dati.anticorruzione.it/opendata/download/dataset/cig-ANNO/filesystem/cig_csv_ANNO_MM.zip`
@@ -53,4 +53,4 @@ La pagina `/metodologia` del sito riporta questi limiti per esteso.
 
 ## Licenza
 
-Codice: MIT. Dati derivati: CC BY 4.0, coerentemente con la fonte.
+Codice: MIT. Dati derivati: CC BY-SA 4.0, la stessa licenza della fonte.

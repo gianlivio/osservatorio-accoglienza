@@ -157,9 +157,9 @@
    "prosecuzioni": 5,
    "canale_prefettura": 0,
    "canale_ente_locale": 13,
-   "enti_gestori": 2,
-   "copertura_vincitore": 23.1,
-   "copertura_esito": 23.1
+   "enti_gestori": 4,
+   "copertura_vincitore": 46.2,
+   "copertura_esito": 46.2
   },
   "2024": {
    "affidamenti": 15,
@@ -177,9 +177,9 @@
    "prosecuzioni": 2,
    "canale_prefettura": 1,
    "canale_ente_locale": 14,
-   "enti_gestori": 10,
-   "copertura_vincitore": 66.7,
-   "copertura_esito": 73.3
+   "enti_gestori": 11,
+   "copertura_vincitore": 73.3,
+   "copertura_esito": 80.0
   },
   "2025": {
    "affidamenti": 11,
@@ -197,11 +197,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 3,
    "canale_ente_locale": 8,
-   "enti_gestori": 5,
-   "copertura_vincitore": 63.6,
-   "copertura_esito": 63.6
-  },
-  "2026": null
+   "enti_gestori": 6,
+   "copertura_vincitore": 72.7,
+   "copertura_esito": 72.7
+  }
  },
  "per_mese": {
   "2015-07": {
@@ -439,11 +438,15 @@
    "affidamenti": 4
   },
   {
+   "nome": "SAN ROCCO - SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 2
+  },
+  {
    "nome": "VERDE SANTO",
    "affidamenti": 1
   },
   {
-   "nome": "ITACA SOCIETA' COOPERATIVA SOCIALE",
+   "nome": "EDILMISCANO S.N.C. DEI F.LLI RUSSO ANTONIO E GIUSEPPE",
    "affidamenti": 1
   },
   {
@@ -468,10 +471,6 @@
   },
   {
    "nome": "BOVE                     EMILIO",
-   "affidamenti": 1
-  },
-  {
-   "nome": "DOTT. GIUSEPPE APPROVATO",
    "affidamenti": 1
   }
  ],
@@ -578,12 +577,12 @@
    "data": "2025-05-19",
    "oggetto": "AFFIDAMENTO SERVIZIO DI SVOLGIMENTO RUOLO DI SOGGETTO ATTUATORE DI UN PROGETTO SAI – SISTEMA DI ACCOGLIENZA E INTEGRAZIONE (CODICE N. PROG-950-PR-2), PER LA GESTIONE DI UN CENTRO D",
    "amministrazione": "COMUNE DI PESCO SANNITA",
-   "ente": null,
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 427858.0,
-   "aggiudicato": null,
+   "aggiudicato": 386859.63,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -818,12 +817,12 @@
    "data": "2024-04-10",
    "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE -ART 11 D LGS.18 -08 -2015 N 142 E SS.MM IN U.A. FINO A 50 POSTI N.200 POSTI",
    "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO DI BN",
-   "ente": "ITACA SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "SAN ROCCO - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 21533182.0,
-   "aggiudicato": 5012752.86,
+   "aggiudicato": 1024923.96,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -833,12 +832,12 @@
    "data": "2024-04-04",
    "oggetto": "INTERVENTI DI MANUTENZIONE STRAORDINARIA DEI LOCALI DEL PRESIDIO DI CONTINUITA' ASSISTENZIALE - GUARDIA MEDICA - CON POTENZIAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI E PROFUGHI D",
    "amministrazione": "COMUNE DI CASTELFRANCO IN MISCANO",
-   "ente": null,
+   "ente": "EDILMISCANO S.N.C. DEI F.LLI RUSSO ANTONIO E GIUSEPPE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 251005.4,
-   "aggiudicato": null,
+   "aggiudicato": 0.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -878,12 +877,12 @@
    "data": "2023-07-05",
    "oggetto": "AFFIDAMENTO PROGETTO SAI COMUNE DI TORRECUSO",
    "amministrazione": "COMUNE DI TORRECUSO",
-   "ente": null,
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1396200.0,
-   "aggiudicato": null,
+   "aggiudicato": 1126392.276,
    "durata_gg": 1096.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -938,12 +937,12 @@
    "data": "2023-06-16",
    "oggetto": "AGENZIA PER LA COESIONE TERRITORIALE - PNRR M5' INCLUSIONE E COESIONE' C.3, I.1, LINEA DI INTERVENTO N1.1.1. POTENZIAMENTO DEI SERVIZI E DELLE INFRASTRUTTURE SOCIALI DI COMUNITÀ FI",
    "amministrazione": "ASMEL CONSORTILE SOC. CONS. A R.L.",
-   "ente": null,
+   "ente": "EFFEPI MULTISERVIZI SRLS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 375923.09,
-   "aggiudicato": null,
+   "aggiudicato": 301770.418,
    "durata_gg": 150.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -998,12 +997,12 @@
    "data": "2023-05-08",
    "oggetto": "PROGETTO SAI PER ACCOGLIENZA DI CARATTERE ORDINARIO D.M. 10019 DEL 15/03/2023",
    "amministrazione": "COMUNE DI CAUTANO",
-   "ente": null,
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 204400.81,
-   "aggiudicato": null,
+   "aggiudicato": 0.0,
    "durata_gg": 210.0,
    "da_accordo": false,
    "confidenza": "certa"

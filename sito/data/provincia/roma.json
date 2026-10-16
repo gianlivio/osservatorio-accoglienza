@@ -196,9 +196,9 @@
    "prosecuzioni": 11,
    "canale_prefettura": 13,
    "canale_ente_locale": 41,
-   "enti_gestori": 27,
+   "enti_gestori": 28,
    "copertura_vincitore": 90.7,
-   "copertura_esito": 96.3
+   "copertura_esito": 94.4
   },
   "2025": {
    "affidamenti": 39,
@@ -218,9 +218,8 @@
    "canale_ente_locale": 24,
    "enti_gestori": 16,
    "copertura_vincitore": 59.0,
-   "copertura_esito": 69.2
-  },
-  "2026": null
+   "copertura_esito": 71.8
+  }
  },
  "per_mese": {
   "2015-03": {
@@ -722,16 +721,16 @@
    "affidamenti": 2
   },
   {
-   "nome": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATI VA SOCIALE A MUTUALITA' PREVALENTE",
-   "affidamenti": 2
-  },
-  {
    "nome": "LA REVISIONE S.R.L.",
    "affidamenti": 2
   },
   {
    "nome": "ERREBIAN",
    "affidamenti": 2
+  },
+  {
+   "nome": "LADISA S.R.L.",
+   "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [
@@ -917,7 +916,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 399828.35,
-   "aggiudicato": null,
+   "aggiudicato": 381908.61,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -1362,7 +1361,7 @@
    "data": "2024-12-19",
    "oggetto": "CENTRO DI PRONTA ACCOGLIENZA E PRESA IN CARICO, SU RICHIESTA DELLA STAZIONE APPALTANTE, DI MINORI, INCLUSI MINORI STRANIERI NON ACCOMPAGNATI DA ADULTI DI RIFERIMENTO (ANCHE TITOLAR",
    "amministrazione": "ROMA CAPITALE",
-   "ente": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATI VA SOCIALE A MUTUALITA' PREVALENTE",
+   "ente": "SPES CONTRA SPEM - SOCIETA COOPERATIVA SOCIALE A RESPONSABILITA L I MITATA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -1812,7 +1811,7 @@
    "data": "2024-05-20",
    "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023 PROGETTO RIM -ROMA INCLUSIONE MIGRANTI A VALERE SUL FINANZIAMENTO AI COMUNI DEL LAZIO FACENTI PARTE DEL SAI A",
    "amministrazione": "ROMA CAPITALE",
-   "ente": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATI VA SOCIALE A MUTUALITA' PREVALENTE",
+   "ente": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATIVA SOCIALE E.T.S.",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -2102,7 +2101,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 186362.1,
-   "aggiudicato": 186362.1,
+   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

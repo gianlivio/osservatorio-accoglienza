@@ -140,11 +140,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 2,
    "canale_ente_locale": 1,
-   "enti_gestori": 1,
-   "copertura_vincitore": 33.3,
-   "copertura_esito": 33.3
-  },
-  "2026": null
+   "enti_gestori": 3,
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2015-02": {
@@ -264,6 +263,14 @@
   {
    "nome": "PROCIV ARCI ISOLA CAPO RIZZUTO",
    "affidamenti": 1
+  },
+  {
+   "nome": "SABIR SRL SOCIALE",
+   "affidamenti": 1
+  },
+  {
+   "nome": "IVS ITALIA S.P.A.",
+   "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [],
@@ -273,12 +280,12 @@
    "data": "2025-10-15",
    "oggetto": "L'AFFIDAMENTO TRIENNALE, IN CONCESSIONE, AI SENSI DELL'ART. 187 DEL D.LGS N. 36/2023, DEL SERVIZIO DI SOMMINISTRAZIONE BEVANDE CALDE E FREDDE E DI ALIMENTI PRECONFEZIONATI A MEZZO ",
    "amministrazione": "PREFETTURA DI CROTONE",
-   "ente": null,
+   "ente": "IVS ITALIA S.P.A.",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 22800.0,
-   "aggiudicato": null,
+   "aggiudicato": 24115.56,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -288,12 +295,12 @@
    "data": "2025-06-10",
    "oggetto": "ACCORDO QUADRO AI SENSI DELL’ART. 59 DEL D.LGS. 36/2023 PER L’AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E GESTIONE DEI SERVIZI CONNESSI IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI",
    "amministrazione": "PREFETTURA DI CROTONE",
-   "ente": null,
+   "ente": "SABIR SRL SOCIALE",
    "procedura": "ND P1_20",
    "diretto": false,
    "modalita": "altro",
    "base": 4169979.0,
-   "aggiudicato": null,
+   "aggiudicato": 1249797.74,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

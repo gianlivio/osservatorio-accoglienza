@@ -177,8 +177,8 @@
    "prosecuzioni": 2,
    "canale_prefettura": 0,
    "canale_ente_locale": 4,
-   "enti_gestori": 1,
-   "copertura_vincitore": 25.0,
+   "enti_gestori": 2,
+   "copertura_vincitore": 50.0,
    "copertura_esito": 50.0
   },
   "2025": {
@@ -198,10 +198,9 @@
    "canale_prefettura": 0,
    "canale_ente_locale": 5,
    "enti_gestori": 3,
-   "copertura_vincitore": 60.0,
-   "copertura_esito": 80.0
-  },
-  "2026": null
+   "copertura_vincitore": 80.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2015-05": {
@@ -325,11 +324,15 @@
    "affidamenti": 2
   },
   {
-   "nome": "LA REVISIONE S.R.L.",
+   "nome": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 2
+  },
+  {
+   "nome": "ASSOCIAZIONE I GIRASOLI ONLUS",
    "affidamenti": 1
   },
   {
-   "nome": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "nome": "LA REVISIONE S.R.L.",
    "affidamenti": 1
   }
  ],
@@ -340,12 +343,12 @@
    "data": "2025-12-24",
    "oggetto": "SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A N. 44 SOGGETTI, DI CUI N. 30 MINORISTRANIERI NON ACCOMPAGNATI E N. 14 NEOMAGGIORENNI, BENEFICIARI DEL PROGETTO TERRITORIALE ",
    "amministrazione": "LIBERO CONSORZIO COMUNALE DI CALTANISSETTA GIA PROVINCIA REGIONALE DI CALTANISSETTA",
-   "ente": null,
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 3653591.4,
-   "aggiudicato": null,
+   "aggiudicato": 3653591.4,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -430,7 +433,7 @@
    "data": "2024-11-21",
    "oggetto": "AFFIDAMENTO DEL SERVIZIO DEL PROGETTO DI SECONDA ACCOGLIENZA NELLA RETE SIPROIMI – CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI (MSNA) – COMUNE DI MILENA (CL).PROSECUZIONE SIPROIMI/",
    "amministrazione": "COMUNE DI MILENA",
-   "ente": null,
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

@@ -177,8 +177,8 @@
    "prosecuzioni": 0,
    "canale_prefettura": 4,
    "canale_ente_locale": 5,
-   "enti_gestori": 2,
-   "copertura_vincitore": 66.7,
+   "enti_gestori": 3,
+   "copertura_vincitore": 77.8,
    "copertura_esito": 88.9
   },
   "2025": {
@@ -200,8 +200,7 @@
    "enti_gestori": 6,
    "copertura_vincitore": 90.9,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-10": {
@@ -491,16 +490,16 @@
    "affidamenti": 2
   },
   {
+   "nome": "OPERA AUXILIUM FRATRUM COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA INSIGLA: OAF COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "affidamenti": 2
+  },
+  {
    "nome": "SOCIETA' COOPERATIVA SOCIALE L'ABBRACCIO",
    "affidamenti": 2
   },
   {
    "nome": "CASA DI BETANIA",
    "affidamenti": 2
-  },
-  {
-   "nome": "OPERA AUXILIUM FRATRUM COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA INSIGLA: OAF COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
-   "affidamenti": 1
   },
   {
    "nome": "CASA DI BETANIA SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
@@ -704,12 +703,12 @@
    "data": "2024-10-17",
    "oggetto": "ACCORDO QUADRO PER L'ACQUISIZIONE DI 50 POSTI DI ACCOGLIENZA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) DI ETA' NON INFERIORE A 14 ANNI AI SENSI DELL'ART. 19 C.3 BIS DEL D. LGS. ",
    "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": null,
+   "ente": "OPERA AUXILIUM FRATRUM COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA INSIGLA: OAF COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 3879800.35,
-   "aggiudicato": 3.0,
+   "aggiudicato": 1.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

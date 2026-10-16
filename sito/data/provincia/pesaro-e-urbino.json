@@ -162,8 +162,7 @@
    "enti_gestori": 2,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-12": {
@@ -314,11 +313,15 @@
  "top_enti": [
   {
    "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 8
+   "affidamenti": 7
   },
   {
    "nome": "LABIRINTO COOPERATIVA SOCIALE",
    "affidamenti": 5
+  },
+  {
+   "nome": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "affidamenti": 2
   },
   {
    "nome": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
@@ -330,10 +333,6 @@
   },
   {
    "nome": "ETS ORGANIZZAZIONE DI VOLONTARIATO SAN PATERNIANO",
-   "affidamenti": 1
-  },
-  {
-   "nome": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
    "affidamenti": 1
   },
   {
@@ -566,12 +565,12 @@
    "data": "2024-06-04",
    "oggetto": "GARA EUROPEA PER LA CONCLUSIONE DI UN ACCORDO QUADRO TRIENNALE AI SENSI ART. 59 COMMA 4, LETTERA A), ARTICOLO 71 E 128 DEL D.LGS 36/2023 PER L'AFFIDAMENTO NEL TERRITORIO DELLA PROV",
    "amministrazione": "PREFETTURA UTG PESARO E URBINO",
-   "ente": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 56146125.0,
-   "aggiudicato": 15523695.24,
+   "aggiudicato": 11443058.96,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"

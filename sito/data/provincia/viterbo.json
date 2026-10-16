@@ -197,11 +197,10 @@
    "prosecuzioni": 3,
    "canale_prefettura": 0,
    "canale_ente_locale": 42,
-   "enti_gestori": 11,
+   "enti_gestori": 12,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2016-12": {
@@ -428,7 +427,7 @@
   },
   {
    "nome": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
-   "affidamenti": 6
+   "affidamenti": 5
   },
   {
    "nome": "CORTELLINO MIRKO",
@@ -1019,7 +1018,7 @@
    "data": "2025-02-21",
    "oggetto": "PROSECUZIONE DEL PROGETTO RELATIVO AL SERVIZIO DI ACCOGLIENZA DI RIFUGIATI E RICHIEDENTI ASILO - SAI - ANNUALITÀ 2025/2026 - COMUNE DI VALLERANO",
    "amministrazione": "COMUNE DI VALLERANO",
-   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "ente": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
@@ -1354,7 +1353,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 33425771.75,
-   "aggiudicato": 17907853.0,
+   "aggiudicato": 7125885.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

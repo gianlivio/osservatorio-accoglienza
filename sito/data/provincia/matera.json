@@ -140,11 +140,10 @@
    "prosecuzioni": 1,
    "canale_prefettura": 1,
    "canale_ente_locale": 4,
-   "enti_gestori": 2,
-   "copertura_vincitore": 80.0,
-   "copertura_esito": 80.0
-  },
-  "2026": null
+   "enti_gestori": 3,
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2016-05": {
@@ -342,6 +341,10 @@
    "affidamenti": 1
   },
   {
+   "nome": "GIOCANDO INSIEME  - SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 1
+  },
+  {
    "nome": "LOGUERCIO PASQUALE",
    "affidamenti": 1
   }
@@ -404,12 +407,12 @@
    "data": "2025-04-24",
    "oggetto": "ACCORDO QUADRO PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART. 11 DEL D.LGS. 142/20",
    "amministrazione": "PREFETTURA DI MATERA",
-   "ente": null,
+   "ente": "GIOCANDO INSIEME  - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 57108750.0,
-   "aggiudicato": null,
+   "aggiudicato": 22615065.0,
    "durata_gg": 1095.0,
    "da_accordo": false,
    "confidenza": "certa"

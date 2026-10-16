@@ -156,9 +156,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 1,
    "canale_ente_locale": 4,
-   "enti_gestori": 3,
-   "copertura_vincitore": 60.0,
-   "copertura_esito": 60.0
+   "enti_gestori": 4,
+   "copertura_vincitore": 80.0,
+   "copertura_esito": 80.0
   },
   "2023": {
    "affidamenti": 4,
@@ -196,7 +196,7 @@
    "prosecuzioni": 7,
    "canale_prefettura": 21,
    "canale_ente_locale": 1,
-   "enti_gestori": 19,
+   "enti_gestori": 18,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
   },
@@ -216,11 +216,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 1,
    "canale_ente_locale": 6,
-   "enti_gestori": 6,
-   "copertura_vincitore": 85.7,
-   "copertura_esito": 85.7
-  },
-  "2026": null
+   "enti_gestori": 7,
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2015-12": {
@@ -388,15 +387,23 @@
  },
  "top_enti": [
   {
+   "nome": "CASA SERVIZI S.R.L.",
+   "affidamenti": 2
+  },
+  {
    "nome": "ASSOCIAZIONE MEDITERRANEO",
-   "affidamenti": 3
+   "affidamenti": 2
+  },
+  {
+   "nome": "SAMARCANDA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "affidamenti": 2
+  },
+  {
+   "nome": "TANGRAM APS",
+   "affidamenti": 2
   },
   {
    "nome": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 3
-  },
-  {
-   "nome": "CASA SERVIZI S.R.L.",
    "affidamenti": 2
   },
   {
@@ -408,15 +415,7 @@
    "affidamenti": 1
   },
   {
-   "nome": "SAMARCANDA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
-   "affidamenti": 1
-  },
-  {
    "nome": "COMUNITA PAPA GIOVANNI XXIII",
-   "affidamenti": 1
-  },
-  {
-   "nome": "TANGRAM APS",
    "affidamenti": 1
   },
   {
@@ -510,12 +509,12 @@
    "data": "2025-03-31",
    "oggetto": "SERVIZIO INTERPRETARIATO E TRADUZIONE ESIGENZE COMMISSIONE RIFIUGIATI VICENZA",
    "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
-   "ente": null,
+   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 275000.0,
-   "aggiudicato": null,
+   "aggiudicato": 210100.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -570,12 +569,12 @@
    "data": "2024-08-16",
    "oggetto": "GARA APERTA ACCOGLIENZA MIGRANTI CENTRI COLLETTIVI FINO A 50 POSTI",
    "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
-   "ente": "ASSOCIAZIONE MEDITERRANEO",
+   "ente": "TANGRAM APS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 24188900.0,
-   "aggiudicato": 5034612.9,
+   "aggiudicato": 892337.4,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -585,12 +584,12 @@
    "data": "2024-08-14",
    "oggetto": "APPALTO MIGRANTI UNITA' ABITATIVE",
    "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
-   "ente": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "SAMARCANDA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
    "procedura": "ALTRA PROCEDURA A FASE UNICA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 183577363.0,
-   "aggiudicato": 46213051.5,
+   "aggiudicato": 3187107.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -930,12 +929,12 @@
    "data": "2022-11-25",
    "oggetto": "SERVIZIO DI INTERPRETARIATO A SUPPORTO COMMISSIONE TERRITORIALE DI VICENZA RICONOSCIMENTO PROTEZIONE INTERNAZIONALE - ANNI 2023-2024",
    "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
-   "ente": null,
+   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 365375.0,
-   "aggiudicato": null,
+   "aggiudicato": 292300.0,
    "durata_gg": 730.0,
    "da_accordo": false,
    "confidenza": "certa"

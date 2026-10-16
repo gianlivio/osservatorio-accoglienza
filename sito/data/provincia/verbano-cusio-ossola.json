@@ -103,10 +103,9 @@
    "canale_prefettura": 12,
    "canale_ente_locale": 6,
    "enti_gestori": 4,
-   "copertura_vincitore": 77.8,
-   "copertura_esito": 83.3
-  },
-  "2026": null
+   "copertura_vincitore": 83.3,
+   "copertura_esito": 88.9
+  }
  },
  "per_mese": {
   "2021-04": {
@@ -245,7 +244,7 @@
  "top_enti": [
   {
    "nome": "VERBANIA HOSTEL - ASSOCIAZIONE DI PROMOZIONE SOCIALE",
-   "affidamenti": 15
+   "affidamenti": 16
   },
   {
    "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
@@ -444,12 +443,12 @@
    "data": "2025-04-15",
    "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI",
    "amministrazione": "PREFETTURA DEL VERBANO - CUSIO - OSSOLA -",
-   "ente": null,
+   "ente": "VERBANIA HOSTEL - ASSOCIAZIONE DI PROMOZIONE SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 29322384.0,
-   "aggiudicato": null,
+   "aggiudicato": 10472280.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

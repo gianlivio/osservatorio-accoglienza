@@ -178,11 +178,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 11,
    "canale_ente_locale": 3,
-   "enti_gestori": 8,
-   "copertura_vincitore": 71.4,
-   "copertura_esito": 71.4
-  },
-  "2026": null
+   "enti_gestori": 10,
+   "copertura_vincitore": 92.9,
+   "copertura_esito": 92.9
+  }
  },
  "per_mese": {
   "2015-02": {
@@ -370,6 +369,10 @@
    "affidamenti": 3
   },
   {
+   "nome": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
+   "affidamenti": 2
+  },
+  {
    "nome": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
    "affidamenti": 2
   },
@@ -394,11 +397,7 @@
    "affidamenti": 1
   },
   {
-   "nome": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
-   "affidamenti": 1
-  },
-  {
-   "nome": "CENTRO LORENZO MORI -  DI INIZIATIVE CULTURALI TRA I GIOVANI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "nome": "ORS ITALIA S.R.L.",
    "affidamenti": 1
   }
  ],
@@ -445,12 +444,12 @@
    "data": "2025-11-17",
    "oggetto": "SERVIZI SOCIALI CON ALLOGGIO",
    "amministrazione": "PREFETTURA DI SIENA",
-   "ente": null,
+   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 367482.0,
-   "aggiudicato": null,
+   "aggiudicato": 359379.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -475,12 +474,12 @@
    "data": "2025-09-08",
    "oggetto": "CENTRI COLLETTIVI CON UNA CAPIENZA DA 51 FINO A 100 POSTI",
    "amministrazione": "PREFETTURA DI SIENA",
-   "ente": null,
+   "ente": "ORS ITALIA S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 16740360.0,
-   "aggiudicato": null,
+   "aggiudicato": 4182900.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -490,12 +489,12 @@
    "data": "2025-09-08",
    "oggetto": "CENTRI COLLETTIVI CON UNA CAPIENZA MASSIMA DI 50 POSTI",
    "amministrazione": "PREFETTURA DI SIENA",
-   "ente": null,
+   "ente": "OSPITA S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 27561150.0,
-   "aggiudicato": null,
+   "aggiudicato": 2291835.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -670,12 +669,12 @@
    "data": "2024-06-19",
    "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE O TEMPORANEA",
    "amministrazione": "PREFETTURA DI SIENA",
-   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "ente": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 12686670.0,
-   "aggiudicato": 4398045.6,
+   "aggiudicato": 2368178.4,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

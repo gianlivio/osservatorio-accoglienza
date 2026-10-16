@@ -100,9 +100,9 @@
    "prosecuzioni": 1,
    "canale_prefettura": 1,
    "canale_ente_locale": 3,
-   "enti_gestori": 2,
-   "copertura_vincitore": 50.0,
-   "copertura_esito": 50.0
+   "enti_gestori": 3,
+   "copertura_vincitore": 75.0,
+   "copertura_esito": 75.0
   },
   "2024": null,
   "2025": {
@@ -124,8 +124,7 @@
    "enti_gestori": 1,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2016-10": {
@@ -246,7 +245,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 2522411.0,
-   "aggiudicato": 2522412.0,
+   "aggiudicato": 1261206.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -256,12 +255,12 @@
    "data": "2023-02-14",
    "oggetto": "ACCOGLIENZA DI MSNA PRESSO COMUNITÀ EDUCATIVA RESIDENZIALE CASA DI DILVA GENNAIO MARZO 2023",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "NOE NUOVE OPPORTUNITA' EDUCATIVE - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 56000.0,
-   "aggiudicato": null,
+   "aggiudicato": 56000.0,
    "durata_gg": 90.0,
    "da_accordo": false,
    "confidenza": "certa"

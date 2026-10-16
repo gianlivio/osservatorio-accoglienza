@@ -159,11 +159,10 @@
    "prosecuzioni": 3,
    "canale_prefettura": 4,
    "canale_ente_locale": 5,
-   "enti_gestori": 2,
-   "copertura_vincitore": 22.2,
-   "copertura_esito": 33.3
-  },
-  "2026": null
+   "enti_gestori": 3,
+   "copertura_vincitore": 33.3,
+   "copertura_esito": 44.4
+  }
  },
  "per_mese": {
   "2016-08": {
@@ -415,6 +414,10 @@
  },
  "top_enti": [
   {
+   "nome": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "affidamenti": 2
+  },
+  {
    "nome": "LIPARA                   AGATINO",
    "affidamenti": 1
   },
@@ -423,7 +426,7 @@
    "affidamenti": 1
   },
   {
-   "nome": "B.RECYCLING S.R.L.",
+   "nome": "IMPRESA INESISTENTE",
    "affidamenti": 1
   },
   {
@@ -440,10 +443,6 @@
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE DIBENEDETTO A R.L.",
-   "affidamenti": 1
-  },
-  {
-   "nome": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
    "affidamenti": 1
   },
   {
@@ -477,12 +476,12 @@
    "data": "2025-12-18",
    "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO ANNUALE, PROROGABILE PER ULTERIORI 12 MESI, DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMIS",
    "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": null,
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 837084.99,
-   "aggiudicato": null,
+   "aggiudicato": 35.23,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -752,7 +751,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 56146125.0,
-   "aggiudicato": 13518870.0,
+   "aggiudicato": 2239822.5,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -792,12 +791,12 @@
    "data": "2024-05-02",
    "oggetto": "SERVIZIO DI NOLEGGIO, PER DODICI MESI (PERIODO PRESUNTO 1° GIUGNO 2024 – 31 MAGGIO 2025), DI N. 5 TORRI FARO DA COLLOCARE PRESSO IL CENTRO DI ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A",
    "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "B.RECYCLING S.R.L.",
+   "ente": "IMPRESA INESISTENTE",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 750000.0,
-   "aggiudicato": 750000.0,
+   "aggiudicato": 50000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

@@ -160,7 +160,7 @@
    "canale_ente_locale": 10,
    "enti_gestori": 5,
    "copertura_vincitore": 50.0,
-   "copertura_esito": 60.0
+   "copertura_esito": 70.0
   },
   "2025": {
    "affidamenti": 9,
@@ -181,8 +181,7 @@
    "enti_gestori": 7,
    "copertura_vincitore": 88.9,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2017-03": {
@@ -585,7 +584,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 639033.14,
-   "aggiudicato": null,
+   "aggiudicato": 639033.14,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

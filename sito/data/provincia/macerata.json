@@ -100,7 +100,7 @@
    "prosecuzioni": 1,
    "canale_prefettura": 6,
    "canale_ente_locale": 3,
-   "enti_gestori": 3,
+   "enti_gestori": 2,
    "copertura_vincitore": 33.3,
    "copertura_esito": 33.3
   },
@@ -140,11 +140,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 14,
    "canale_ente_locale": 2,
-   "enti_gestori": 6,
-   "copertura_vincitore": 43.8,
+   "enti_gestori": 7,
+   "copertura_vincitore": 62.5,
    "copertura_esito": 93.8
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2016-01": {
@@ -274,6 +273,10 @@
    "affidamenti": 3
   },
   {
+   "nome": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+   "affidamenti": 3
+  },
+  {
    "nome": "COMUNITA' PAPA GIOVANNI XXIII",
    "affidamenti": 2
   },
@@ -286,15 +289,11 @@
    "affidamenti": 2
   },
   {
-   "nome": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+   "nome": "COOPERATIVA SOCIALE RAPADURA SOCIETA' COOPERATIVA IN SIGLA COOPER ATIVA SOCIALE RAPADURA S.C.",
    "affidamenti": 2
   },
   {
    "nome": "IL FARO  SOCIETA' COOPERATIVA SOCIALE - IL FARO S.C.S.-",
-   "affidamenti": 1
-  },
-  {
-   "nome": "COOPERATIVA SOCIALE RAPADURA SOCIETA' COOPERATIVA IN SIGLA COOPER ATIVA SOCIALE RAPADURA S.C.",
    "affidamenti": 1
   }
  ],
@@ -366,12 +365,12 @@
    "data": "2025-02-10",
    "oggetto": "S.U.A. PER LA PREFETTURA - U.T.G. DI MACERATA. PROCEDURA APERTA PER L'AFFIDAMENTO MEDIANTE ACCORDO QUADRO CON PIÃÃÃÂ¹ OPERATORI ECONOMICI, SENZA SUCCESSIVO CONFRONTO COMPETIT",
    "amministrazione": "PREFETTURA DI MACERATA",
-   "ente": null,
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 34451437.5,
-   "aggiudicato": 26903348.46,
+   "aggiudicato": 13197159.0,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -531,12 +530,12 @@
    "data": "2025-01-27",
    "oggetto": "S.U.A. PER LA PREFETTURA - U.T.G. DI MACERATA. PROCEDURA APERTA PER L'AFFIDAMENTO MEDIANTE ACCORDO QUADRO CON PIÃÃÃÂ¹ OPERATORI ECONOMICI, SENZA SUCCESSIVO CONFRONTO COMPETIT",
    "amministrazione": "PREFETTURA DI MACERATA",
-   "ente": null,
+   "ente": "COOPERATIVA SOCIALE RAPADURA SOCIETA' COOPERATIVA IN SIGLA COOPER ATIVA SOCIALE RAPADURA S.C.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 21494850.0,
-   "aggiudicato": 17173984.95,
+   "aggiudicato": 8576044.95,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -546,7 +545,7 @@
    "data": "2025-01-27",
    "oggetto": "S.U.A. PER LA PREFETTURA - U.T.G. DI MACERATA. PROCEDURA APERTA PER L'AFFIDAMENTO MEDIANTE ACCORDO QUADRO CON PIÃÃÃÃÂ¹ OPERATORI ECONOMICI, SENZA SUCCESSIVO CONFRONTO COM",
    "amministrazione": "PREFETTURA DI MACERATA",
-   "ente": null,
+   "ente": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -966,7 +965,7 @@
    "data": "2023-12-19",
    "oggetto": "PERCORSI DI INCLUSIONE SOCIALE PER MSNA",
    "amministrazione": "COMUNE DI MACERATA",
-   "ente": "IL FARO  SOCIETA' COOPERATIVA SOCIALE - IL FARO S.C.S.-",
+   "ente": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",

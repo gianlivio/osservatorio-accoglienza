@@ -196,9 +196,9 @@
    "prosecuzioni": 1,
    "canale_prefettura": 9,
    "canale_ente_locale": 11,
-   "enti_gestori": 6,
-   "copertura_vincitore": 75.0,
-   "copertura_esito": 75.0
+   "enti_gestori": 7,
+   "copertura_vincitore": 80.0,
+   "copertura_esito": 80.0
   },
   "2025": {
    "affidamenti": 16,
@@ -219,8 +219,7 @@
    "enti_gestori": 7,
    "copertura_vincitore": 87.5,
    "copertura_esito": 87.5
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-01": {
@@ -534,6 +533,10 @@
    "affidamenti": 1
   },
   {
+   "nome": "OLTRE IL MARE SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 1
+  },
+  {
    "nome": "IMPREL S.R.L.",
    "affidamenti": 1
   },
@@ -547,10 +550,6 @@
   },
   {
    "nome": "COOPERATIVA SOCIALE MADRE TERESA DI CALCUTTA SOCIETA' COOPERATIVA",
-   "affidamenti": 1
-  },
-  {
-   "nome": "ADECCO ITALIA SPA",
    "affidamenti": 1
   }
  ],
@@ -942,12 +941,12 @@
    "data": "2024-08-02",
    "oggetto": "PROCEDURA NEGOZIATA, SENZA PREVIA PUBBLICAZIONE DEL BANDO DI GARA, APERTA A TUTTI GLI OPERATORI DEL SETTORE OGGETTO DI CONFERIMENTO, PER L'AFFIDAMENTO DELLA GESTIONE E DEL FUNZIONA",
    "amministrazione": "PREFETTURA DI AGRIGENTO",
-   "ente": null,
+   "ente": "OLTRE IL MARE SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 749999.0,
-   "aggiudicato": null,
+   "aggiudicato": 749999.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

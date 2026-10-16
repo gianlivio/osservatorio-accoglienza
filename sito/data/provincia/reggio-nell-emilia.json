@@ -105,8 +105,7 @@
    "enti_gestori": 8,
    "copertura_vincitore": 87.5,
    "copertura_esito": 87.5
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2020-10": {
@@ -250,12 +249,12 @@
  },
  "top_enti": [
   {
-   "nome": "CENTRO DI SOLIDARIETA' DI REGGIO EMILIA - ONLUS",
+   "nome": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
    "affidamenti": 6
   },
   {
-   "nome": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
-   "affidamenti": 5
+   "nome": "CENTRO DI SOLIDARIETA' DI REGGIO EMILIA - ONLUS",
+   "affidamenti": 6
   },
   {
    "nome": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
@@ -278,15 +277,15 @@
    "affidamenti": 2
   },
   {
-   "nome": "CENTRO SOCIALE PAPA GIOVANNI XXIII SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S. ABBREVIABILE IN CENTRO SOCIALE PAPA GIOVANNI XXIII SCS - ONLUS",
-   "affidamenti": 2
-  },
-  {
    "nome": "CORESS SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   },
   {
    "nome": "LABORATORIO LESIGNOLA SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 1
+  },
+  {
+   "nome": "PANGEA  SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   }
  ],
@@ -368,7 +367,7 @@
    "data": "2025-10-15",
    "oggetto": "SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
    "amministrazione": "PREFETTURA DI REGGIO EMILIA",
-   "ente": "CENTRO SOCIALE PAPA GIOVANNI XXIII SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S. ABBREVIABILE IN CENTRO SOCIALE PAPA GIOVANNI XXIII SCS - ONLUS",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

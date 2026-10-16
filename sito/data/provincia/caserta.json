@@ -178,11 +178,10 @@
    "prosecuzioni": 2,
    "canale_prefettura": 31,
    "canale_ente_locale": 10,
-   "enti_gestori": 19,
-   "copertura_vincitore": 87.8,
-   "copertura_esito": 90.2
-  },
-  "2026": null
+   "enti_gestori": 20,
+   "copertura_vincitore": 90.2,
+   "copertura_esito": 92.7
+  }
  },
  "per_mese": {
   "2017-02": {
@@ -435,11 +434,11 @@
  "top_enti": [
   {
    "nome": "GAMA S.R.L.",
-   "affidamenti": 8
+   "affidamenti": 7
   },
   {
    "nome": "APEIRON - COOPERATIVA SOCIALE",
-   "affidamenti": 7
+   "affidamenti": 6
   },
   {
    "nome": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
@@ -450,11 +449,11 @@
    "affidamenti": 5
   },
   {
-   "nome": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "nome": "HOPE S.R.L.",
    "affidamenti": 5
   },
   {
-   "nome": "HOPE S.R.L.",
+   "nome": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 4
   },
   {
@@ -470,7 +469,7 @@
    "affidamenti": 2
   },
   {
-   "nome": "PROMETEO COOPERATIVA SOCIALE",
+   "nome": "ARTA S.R.L.",
    "affidamenti": 2
   }
  ],
@@ -1122,12 +1121,12 @@
    "data": "2025-01-30",
    "oggetto": "PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D. LGS. 36/2023 CON IL CRITERIO DELL'OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO, PER L'APPALTO",
    "amministrazione": "COMUNE DI PIEDIMONTE MATESE",
-   "ente": null,
+   "ente": "CO.GES.AP. SOCIETA' COOPERATIVA DI PRODUZIONE E LAVORO",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1565000.0,
-   "aggiudicato": null,
+   "aggiudicato": 1300323.19,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1197,12 +1196,12 @@
    "data": "2024-11-22",
    "oggetto": "NEGOZIATA CENTRI DI ACCOGLIENZA CITTADINI STRANIERI",
    "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
-   "ente": "GAMA S.R.L.",
+   "ente": "HOPE S.R.L.",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 6976475.0,
-   "aggiudicato": 14480319.5,
+   "aggiudicato": 13514764.18,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -1212,12 +1211,12 @@
    "data": "2024-11-22",
    "oggetto": "NEGOZIATA CENTRI DI ACCOGLIENZA CITTADINI STRANIERI",
    "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
-   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "HUMANITAS",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 11485800.0,
-   "aggiudicato": 6123424.720000001,
+   "aggiudicato": 182922.93,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -1467,12 +1466,12 @@
    "data": "2024-04-26",
    "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONEINTERNAZIONALE -ART 11 D LGS.18 -08 -2015 N 142 E SS.MM IN CENTRI COLLETTIVI 51-100",
    "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
-   "ente": "PROMETEO COOPERATIVA SOCIALE",
+   "ente": "ARTA S.R.L.",
    "procedura": "ALTRA PROCEDURA A PIU' FASI",
    "diretto": false,
    "modalita": "negoziata",
    "base": 80191230.0,
-   "aggiudicato": 15174794.379999999,
+   "aggiudicato": 3807091.35,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1487,7 +1486,7 @@
    "diretto": false,
    "modalita": "negoziata",
    "base": 15499861.88,
-   "aggiudicato": 12771412.719999999,
+   "aggiudicato": 2057083.43,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1497,12 +1496,12 @@
    "data": "2024-04-26",
    "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONEINTERNAZIONALE -ART 11 D LGS.18 -08 -2015 N 142 E SS.MM IN CENTRI COLLETTIVI FINO A 50 POSTI",
    "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
-   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "ente": "ARCHE' - COOPERATIVA SOCIALE",
    "procedura": "ALTRA PROCEDURA A PIU' FASI",
    "diretto": false,
    "modalita": "negoziata",
    "base": 115799945.63,
-   "aggiudicato": 40018424.33,
+   "aggiudicato": 3617368.47,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1542,7 +1541,7 @@
    "data": "2024-04-08",
    "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L'INDIVIDUAZIONE DELL'ENTE ATTUATORE A CUI AFFIDARE LA GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA PER MINORI STRANIERI NON ACCOMPA",
    "amministrazione": "COMUNE CANCELLO ED ARNONE",
-   "ente": "LA VELA COOPERATIVA SOCIALE",
+   "ente": "SMILE SOCIETA' COOPERTIVA SOCIALE ONLUS",
    "procedura": "PROCEDURA DI GARA",
    "diretto": false,
    "modalita": "gara",

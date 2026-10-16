@@ -160,10 +160,9 @@
    "canale_prefettura": 9,
    "canale_ente_locale": 3,
    "enti_gestori": 5,
-   "copertura_vincitore": 41.7,
-   "copertura_esito": 50.0
-  },
-  "2026": null
+   "copertura_vincitore": 50.0,
+   "copertura_esito": 58.3
+  }
  },
  "per_mese": {
   "2015-02": {
@@ -329,6 +328,10 @@
    "affidamenti": 2
   },
   {
+   "nome": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "affidamenti": 2
+  },
+  {
    "nome": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
    "affidamenti": 1
   },
@@ -350,10 +353,6 @@
   },
   {
    "nome": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
-   "affidamenti": 1
-  },
-  {
-   "nome": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
    "affidamenti": 1
   }
  ],
@@ -469,12 +468,12 @@
    "data": "2025-07-01",
    "oggetto": "PROCEDURA APERTA, AI SENSI DEGLI ARTT. 71 E 59 COMMA 3, DEL D.LGS. 36/2023, PER L'AFFIDAMENTO, MEDIANTE ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO, DI SERVIZI RIVOLTI AD UTENZ",
    "amministrazione": "COMUNE DI BIASSONO",
-   "ente": null,
+   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 18000000.0,
-   "aggiudicato": null,
+   "aggiudicato": 17820000.0,
    "durata_gg": 48.0,
    "da_accordo": false,
    "confidenza": "probabile"

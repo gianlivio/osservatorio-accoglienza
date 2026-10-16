@@ -200,8 +200,7 @@
    "enti_gestori": 10,
    "copertura_vincitore": 92.3,
    "copertura_esito": 92.3
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-03": {
@@ -423,19 +422,19 @@
  },
  "top_enti": [
   {
-   "nome": "C.I.D.A.S. - COOPERATIVA INSERIMENTO DISABILI ASSISTENZA SOLIDARIETA'  - SOC. COOP. A R.L. SOCIETA'  COOPERATIVA SOCIALE - I.S. IN SIGLA C.I.D.A.S., CAMELOT, PERSONE IN MOVIMENTO, LE PAGINE",
-   "affidamenti": 4
+   "nome": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "affidamenti": 5
   },
   {
    "nome": "MEETING POINT - SOCIETA' COOPERATIVA SOCIALE - ETS",
    "affidamenti": 3
   },
   {
-   "nome": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "nome": "ASSOCIAZIONE TAMATA",
    "affidamenti": 3
   },
   {
-   "nome": "ASSOCIAZIONE TAMATA",
+   "nome": "C.I.D.A.S. - COOPERATIVA INSERIMENTO DISABILI ASSISTENZA SOLIDARIETA'  - SOC. COOP. A R.L. SOCIETA'  COOPERATIVA SOCIALE - I.S. IN SIGLA C.I.D.A.S., CAMELOT, PERSONE IN MOVIMENTO, LE PAGINE",
    "affidamenti": 3
   },
   {
@@ -444,10 +443,6 @@
   },
   {
    "nome": "ECCOCI - SOCIETA' COOPERATIVA",
-   "affidamenti": 2
-  },
-  {
-   "nome": "AMICI DELLA CARITAS DI FERRARA-COMACCHIO ONLUS",
    "affidamenti": 2
   },
   {
@@ -461,6 +456,10 @@
   {
    "nome": "VIVERE PER GLI ALTRI S.R.L. SOCIETA' BENEFIT",
    "affidamenti": 2
+  },
+  {
+   "nome": "IL FARRO DI N. S.R.L.",
+   "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [
@@ -776,7 +775,7 @@
    "data": "2024-09-09",
    "oggetto": "REALIZZAZIONE DEL PROGETTO TERRITORIALE DEL COMUNE DI ARGENTA ADERENTE A SAI - CATEGORIA ORDINARI 2025-2026",
    "amministrazione": "COMUNE DI ARGENTA",
-   "ente": "C.I.D.A.S. - COOPERATIVA INSERIMENTO DISABILI ASSISTENZA SOLIDARIETA'  - SOC. COOP. A R.L. SOCIETA'  COOPERATIVA SOCIALE - I.S. IN SIGLA C.I.D.A.S., CAMELOT, PERSONE IN MOVIMENTO, LE PAGINE",
+   "ente": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -866,12 +865,12 @@
    "data": "2024-06-19",
    "oggetto": "ACCOGLIENZA RICHIEDENTI ASILO IN SINGOLE UNIT� ABITATIVE",
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
-   "ente": "AMICI DELLA CARITAS DI FERRARA-COMACCHIO ONLUS",
+   "ente": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 74005575.0,
-   "aggiudicato": 43271663.0,
+   "aggiudicato": 10572225.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

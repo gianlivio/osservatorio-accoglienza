@@ -159,11 +159,10 @@
    "prosecuzioni": 1,
    "canale_prefettura": 18,
    "canale_ente_locale": 9,
-   "enti_gestori": 8,
+   "enti_gestori": 7,
    "copertura_vincitore": 96.3,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-12": {
@@ -388,7 +387,7 @@
   },
   {
    "nome": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
-   "affidamenti": 5
+   "affidamenti": 6
   },
   {
    "nome": "ETS FERMANO SOLIDALE ODV",
@@ -412,10 +411,6 @@
   },
   {
    "nome": "ASSOCIAZIONE BETANIA O.D.V. ETS",
-   "affidamenti": 1
-  },
-  {
-   "nome": "BET SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   }
  ],
@@ -647,12 +642,12 @@
    "data": "2025-06-25",
    "oggetto": "SUA P/C DELLA PREFETTURA DI FERMO: AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA ED ASSISTENZA IN SINGOLE UNITÀ ABITATIVE DEI RICHIEDENTI LA PROTEZIONE INTERNAZIONAL",
    "amministrazione": "PROVINCIA DI FERMO",
-   "ente": "BET SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 37615987.5,
-   "aggiudicato": 40042483.972,
+   "aggiudicato": 10030857.533,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"

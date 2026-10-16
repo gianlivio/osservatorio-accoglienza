@@ -138,9 +138,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 1,
    "canale_ente_locale": 2,
-   "enti_gestori": 0,
-   "copertura_vincitore": 0.0,
-   "copertura_esito": 0.0
+   "enti_gestori": 1,
+   "copertura_vincitore": 33.3,
+   "copertura_esito": 33.3
   },
   "2024": {
    "affidamenti": 11,
@@ -181,8 +181,7 @@
    "enti_gestori": 4,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2016-01": {
@@ -619,12 +618,12 @@
    "data": "2023-06-22",
    "oggetto": "SERVIZI TECNICI PER PROGETTAZIONE/DIREZIONE LAVORI 'RISTRUTTURAZIONE LOCALI PER REALIZZAZIONE N. 3 UNITA' ABITATIVE PER ACCOGLIENZA DI MIGRANTI/PROFUGHI IN FUGA DALLE GUERRE'",
    "amministrazione": "COMUNE DI CARASSAI",
-   "ente": null,
+   "ente": "CHIARA GIROLAMI",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 26275.23,
-   "aggiudicato": null,
+   "aggiudicato": 26012.48,
    "durata_gg": 120.0,
    "da_accordo": false,
    "confidenza": "certa"

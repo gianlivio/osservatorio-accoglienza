@@ -158,9 +158,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 2,
    "canale_ente_locale": 9,
-   "enti_gestori": 8,
-   "copertura_vincitore": 90.9,
-   "copertura_esito": 90.9
+   "enti_gestori": 9,
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
   },
   "2025": {
    "affidamenti": 13,
@@ -178,11 +178,10 @@
    "prosecuzioni": 2,
    "canale_prefettura": 2,
    "canale_ente_locale": 11,
-   "enti_gestori": 8,
-   "copertura_vincitore": 76.9,
-   "copertura_esito": 76.9
-  },
-  "2026": null
+   "enti_gestori": 9,
+   "copertura_vincitore": 84.6,
+   "copertura_esito": 84.6
+  }
  },
  "per_mese": {
   "2015-02": {
@@ -386,6 +385,10 @@
    "affidamenti": 1
   },
   {
+   "nome": "GESTIONE ORIZZONTI S.R.L.",
+   "affidamenti": 1
+  },
+  {
    "nome": "LA FENICE ONLUS",
    "affidamenti": 1
   },
@@ -395,10 +398,6 @@
   },
   {
    "nome": "KALEIDOS SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
-  },
-  {
-   "nome": "PRESUTTI IMPIANTI TECNOLOGICI S.R.L.",
    "affidamenti": 1
   }
  ],
@@ -480,12 +479,12 @@
    "data": "2025-07-30",
    "oggetto": "GARA APERTA SERVIZIO ACCOGLIENZA CITTADINI STRANIERI CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITA ABITATIVE PROVINCIA AQ",
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": null,
+   "ente": "NOVAE TERRAE SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 14469745.0,
-   "aggiudicato": null,
+   "aggiudicato": 1134244.8,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -690,12 +689,12 @@
    "data": "2024-06-18",
    "oggetto": "GARA APERTA PER ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI FINO A 50 POSTI",
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": null,
+   "ente": "GESTIONE ORIZZONTI S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 55133250.0,
-   "aggiudicato": null,
+   "aggiudicato": 4700894.13,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

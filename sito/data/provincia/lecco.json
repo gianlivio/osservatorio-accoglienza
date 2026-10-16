@@ -138,9 +138,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 5,
    "canale_ente_locale": 4,
-   "enti_gestori": 3,
-   "copertura_vincitore": 33.3,
-   "copertura_esito": 66.7
+   "enti_gestori": 4,
+   "copertura_vincitore": 44.4,
+   "copertura_esito": 77.8
   },
   "2024": {
    "affidamenti": 3,
@@ -162,8 +162,7 @@
    "copertura_vincitore": 33.3,
    "copertura_esito": 100.0
   },
-  "2025": null,
-  "2026": null
+  "2025": null
  },
  "per_mese": {
   "2015-10": {
@@ -447,12 +446,12 @@
    "data": "2023-03-07",
    "oggetto": "CO-PROGETTAZIONE DEL SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE DI CITTADINI STRANIERI (S.A.I.) - PERIODO 01.02.2023/31.12.2025 - PROGETTO 'LECCO UNA CITTA' ACCOGLIENTE'",
    "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
-   "ente": null,
+   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 4869720.0,
-   "aggiudicato": null,
+   "aggiudicato": 0.0,
    "durata_gg": 1064.0,
    "da_accordo": false,
    "confidenza": "probabile"

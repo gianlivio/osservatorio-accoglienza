@@ -178,11 +178,10 @@
    "prosecuzioni": 4,
    "canale_prefettura": 4,
    "canale_ente_locale": 9,
-   "enti_gestori": 4,
-   "copertura_vincitore": 30.8,
-   "copertura_esito": 84.6
-  },
-  "2026": null
+   "enti_gestori": 5,
+   "copertura_vincitore": 38.5,
+   "copertura_esito": 92.3
+  }
  },
  "per_mese": {
   "2015-12": {
@@ -468,6 +467,10 @@
   {
    "nome": "ALPI DEL MARE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
    "affidamenti": 1
+  },
+  {
+   "nome": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [],
@@ -477,12 +480,12 @@
    "data": "2025-12-30",
    "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEL PROGETTO SISTEMA ACCOGLIENZA ED INTEGRAZIONE - SAI (EX SIPROIMI) - ACCOGLIENZA DI CARATTERE ORDINARIO - PROSECUZIONE TRIENNIO 2026-2028",
    "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI SAVONA",
-   "ente": null,
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 2555911.35,
-   "aggiudicato": null,
+   "aggiudicato": 2555911.35,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

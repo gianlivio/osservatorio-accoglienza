@@ -157,9 +157,9 @@
    "prosecuzioni": 7,
    "canale_prefettura": 32,
    "canale_ente_locale": 16,
-   "enti_gestori": 5,
-   "copertura_vincitore": 14.6,
-   "copertura_esito": 14.6
+   "enti_gestori": 6,
+   "copertura_vincitore": 18.8,
+   "copertura_esito": 18.8
   },
   "2024": {
    "affidamenti": 100,
@@ -178,8 +178,8 @@
    "canale_prefettura": 84,
    "canale_ente_locale": 16,
    "enti_gestori": 23,
-   "copertura_vincitore": 79.0,
-   "copertura_esito": 98.0
+   "copertura_vincitore": 80.0,
+   "copertura_esito": 100.0
   },
   "2025": {
    "affidamenti": 90,
@@ -198,10 +198,9 @@
    "canale_prefettura": 77,
    "canale_ente_locale": 13,
    "enti_gestori": 22,
-   "copertura_vincitore": 72.2,
-   "copertura_esito": 94.4
-  },
-  "2026": null
+   "copertura_vincitore": 73.3,
+   "copertura_esito": 95.6
+  }
  },
  "per_mese": {
   "2015-04": {
@@ -536,7 +535,7 @@
   },
   {
    "nome": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
-   "affidamenti": 13
+   "affidamenti": 14
   },
   {
    "nome": "CONSORZIO DI COOPERATIVE L'ARCOLAIO - COOPERATIVA SOCIALE",
@@ -555,6 +554,10 @@
    "affidamenti": 9
   },
   {
+   "nome": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 9
+  },
+  {
    "nome": "CROCE ROSSA ITALIANA COMITATO DI FIRENZE ODV",
    "affidamenti": 8
   },
@@ -564,10 +567,6 @@
   },
   {
    "nome": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
-   "affidamenti": 8
-  },
-  {
-   "nome": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 8
   }
  ],
@@ -649,12 +648,12 @@
    "data": "2025-12-17",
    "oggetto": "SERVIZIO SAI CAT. DISAGIO MENTALE PER IL TRIENNIO 2026-2028.",
    "amministrazione": "COMUNE DI FIRENZE",
-   "ente": null,
+   "ente": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 979800.72,
-   "aggiudicato": null,
+   "aggiudicato": 979800.72,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2299,12 +2298,12 @@
    "data": "2024-08-16",
    "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA, TUTELA E INTEGRAZIONE RIVOLTI AI CITTADINI STRANIERI RICHIEDENTI ASILO, RIFUGIATI E TITOLARI DI PROTEZIONE SUSSIDIARI",
    "amministrazione": "UNIONE MONTANA DEI COMUNI DEL MUGELLO",
-   "ente": null,
+   "ente": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 4180306.1,
-   "aggiudicato": null,
+   "aggiudicato": 4180306.1,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2319,7 +2318,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 561664.46,
-   "aggiudicato": null,
+   "aggiudicato": 561664.46,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3844,12 +3843,12 @@
    "data": "2023-06-26",
    "oggetto": "SERVIZIO DI ACCOGLIENZA SAI CAT. ORDINARI (DAL 1/1/2024 AL 31/12/2025 CON OPZIONI DI PROSECUZIONE)",
    "amministrazione": "SOCIETA' DELLA SALUTE DI FIRENZE",
-   "ente": null,
+   "ente": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 18082200.64,
-   "aggiudicato": null,
+   "aggiudicato": 4701938.2,
    "durata_gg": 731.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3859,12 +3858,12 @@
    "data": "2023-06-26",
    "oggetto": "SERVIZIO DI ACCOGLIENZA SAI CAT. DM/DS (DAL 1/1/2024 AL 31/12/2025 CON OPZIONI DI PROSECUZIONE)",
    "amministrazione": "SOCIETA' DELLA SALUTE DI FIRENZE",
-   "ente": null,
+   "ente": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 3405150.34,
-   "aggiudicato": null,
+   "aggiudicato": 885445.68,
    "durata_gg": 731.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3994,7 +3993,7 @@
    "data": "2023-05-31",
    "oggetto": "SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI MIGRANTI NELL'AMBITO DELLA RETE SAI",
    "amministrazione": "UNIONE DEI COMUNI CIRCONDARIO DELL'EMPOLESE VALDELSA",
-   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "ente": "VENERABILE ARCICONFRATERNITA DELLA MISERICORDIA DI EMPOLI",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

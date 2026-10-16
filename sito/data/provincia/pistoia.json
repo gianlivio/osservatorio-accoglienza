@@ -158,7 +158,7 @@
    "prosecuzioni": 0,
    "canale_prefettura": 3,
    "canale_ente_locale": 3,
-   "enti_gestori": 4,
+   "enti_gestori": 5,
    "copertura_vincitore": 83.3,
    "copertura_esito": 100.0
   },
@@ -181,8 +181,7 @@
    "enti_gestori": 8,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2016-01": {
@@ -342,8 +341,8 @@
    "affidamenti": 2
   },
   {
-   "nome": "GRUPPO INCONTRO -  SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 2
+   "nome": "C.A.T. (CENTRO DI ANIMAZIONE TRICCHEBALLACCHE) - SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 1
   },
   {
    "nome": "OSPITA S.R.L.",
@@ -355,6 +354,10 @@
   },
   {
    "nome": "ARCI MADIBA ONLUS",
+   "affidamenti": 1
+  },
+  {
+   "nome": "GRUPPO INCONTRO -  SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   },
   {
@@ -480,7 +483,7 @@
    "data": "2025-06-25",
    "oggetto": "L'AMMINISTRAZIONE COMUNALE DI PISTOIA INTENDE, CON IL PRESENTE AFFIDAMENTO, PERSEGUIRE LA FINALITÀ DI REALIZZARE UN PROGETTO DI ACCOGLIENZA E INTEGRAZIONE A FAVORE DI MINORI STRANI",
    "amministrazione": "COMUNE DI PISTOIA",
-   "ente": "GRUPPO INCONTRO -  SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -540,7 +543,7 @@
    "data": "2024-12-31",
    "oggetto": "SERVIZIO DI GESTIONE DEI SERVIZI DI ACCOGLIENZA E INTEGRAZIONE NELL'AMBITO DEL SISTEMA SAI (EX SIPROIMI) PER LA SOCIETA' DELLA SALUTE VALDINIEVOLE.",
    "amministrazione": "SOCIETA DELLA SALUTE DELLA VALDINIEVOLE",
-   "ente": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "C.A.T. (CENTRO DI ANIMAZIONE TRICCHEBALLACCHE) - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

@@ -176,9 +176,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 6,
    "canale_ente_locale": 8,
-   "enti_gestori": 6,
-   "copertura_vincitore": 50.0,
-   "copertura_esito": 50.0
+   "enti_gestori": 7,
+   "copertura_vincitore": 57.1,
+   "copertura_esito": 57.1
   },
   "2024": {
    "affidamenti": 16,
@@ -196,9 +196,9 @@
    "prosecuzioni": 1,
    "canale_prefettura": 0,
    "canale_ente_locale": 16,
-   "enti_gestori": 8,
-   "copertura_vincitore": 75.0,
-   "copertura_esito": 75.0
+   "enti_gestori": 9,
+   "copertura_vincitore": 87.5,
+   "copertura_esito": 87.5
   },
   "2025": {
    "affidamenti": 9,
@@ -216,11 +216,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 3,
    "canale_ente_locale": 6,
-   "enti_gestori": 4,
-   "copertura_vincitore": 44.4,
-   "copertura_esito": 44.4
-  },
-  "2026": null
+   "enti_gestori": 5,
+   "copertura_vincitore": 66.7,
+   "copertura_esito": 66.7
+  }
  },
  "per_mese": {
   "2015-04": {
@@ -505,7 +504,15 @@
   },
   {
    "nome": "IL SOGNO DI DON BOSCO SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
+   "affidamenti": 2
+  },
+  {
+   "nome": "F.M.B. TUBES S.R.L.",
+   "affidamenti": 2
+  },
+  {
+   "nome": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
+   "affidamenti": 2
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
@@ -525,14 +532,6 @@
   },
   {
    "nome": "ABUSUAN",
-   "affidamenti": 1
-  },
-  {
-   "nome": "NOVA ONLUS CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
-  },
-  {
-   "nome": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
    "affidamenti": 1
   }
  ],
@@ -554,12 +553,12 @@
    "data": "2025-12-30",
    "oggetto": "LOTTO DI GARA N. 2: CATEGORIA MSNA",
    "amministrazione": "COMUNE DI BARI",
-   "ente": null,
+   "ente": "IL SOGNO DI DON BOSCO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 15212938.0,
-   "aggiudicato": null,
+   "aggiudicato": 12677448.36,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -659,12 +658,12 @@
    "data": "2025-08-20",
    "oggetto": "SPORTELLO PER L'INTEGRAZIONE SOCIO-SANITARIA E CULTURALE PER GLI IMMIGRATI E CENTRO INTERCULTURALE NEI COMUNI DELL'AMBITO TERRITORIALE SOCIALE DI GIOIA DEL COLLE.",
    "amministrazione": "UNIONE DEI COMUNI MONTEDORO",
-   "ente": null,
+   "ente": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 107408.4,
-   "aggiudicato": null,
+   "aggiudicato": 102403.17,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -809,12 +808,12 @@
    "data": "2024-09-06",
    "oggetto": "P24-230 - BARI PALESE - FORNITURA E POSA IN OPERA DI PREFABBRICATI VARI",
    "amministrazione": "3 REPARTO GENIO A.M.BARI",
-   "ente": null,
+   "ente": "F.M.B. TUBES S.R.L.",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 1967636.83,
-   "aggiudicato": null,
+   "aggiudicato": 1967636.83,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -824,12 +823,12 @@
    "data": "2024-09-06",
    "oggetto": "P24-230 - BARI PALESE - FORNITURA E POSA IN OPERA DI PREFABBRICATI VARI",
    "amministrazione": "3 REPARTO GENIO A.M.BARI",
-   "ente": null,
+   "ente": "F.M.B. TUBES S.R.L.",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 1967636.83,
-   "aggiudicato": null,
+   "aggiudicato": 1967636.83,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -959,12 +958,12 @@
    "data": "2023-12-07",
    "oggetto": "P23-460 - BARI PALESE - SERVIZI VARI DI INGEGNERIA PROGETTO DI SOSTITUZIONE DEI MODULI ABITATIVI IN DISUSO DEL CENTRO ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A.) E.F 2023",
    "amministrazione": "3 REPARTO GENIO A.M.BARI",
-   "ente": null,
+   "ente": "ING. CICINELLI VALERIA",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 52083.89,
-   "aggiudicato": null,
+   "aggiudicato": 51042.21,
    "durata_gg": 365.0,
    "da_accordo": false,
    "confidenza": "certa"

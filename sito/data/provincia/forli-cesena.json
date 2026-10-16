@@ -162,8 +162,7 @@
    "enti_gestori": 13,
    "copertura_vincitore": 96.8,
    "copertura_esito": 96.8
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2016-06": {
@@ -741,7 +740,7 @@
    "diretto": false,
    "modalita": "negoziata",
    "base": 12106101.0,
-   "aggiudicato": 7536009.0,
+   "aggiudicato": 1825584.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

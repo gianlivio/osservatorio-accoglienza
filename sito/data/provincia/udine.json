@@ -197,8 +197,8 @@
    "canale_prefettura": 8,
    "canale_ente_locale": 28,
    "enti_gestori": 12,
-   "copertura_vincitore": 83.3,
-   "copertura_esito": 94.4
+   "copertura_vincitore": 86.1,
+   "copertura_esito": 97.2
   },
   "2025": {
    "affidamenti": 72,
@@ -219,8 +219,7 @@
    "enti_gestori": 32,
    "copertura_vincitore": 83.3,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-02": {
@@ -863,7 +862,7 @@
    "data": "2025-10-29",
    "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA DI UN MINORE STRANIERO NON ACCOMPAGNATO A COOP. SOC. PERCORSO VITA. PERIODO 01.10.2025 - 17.08.2027",
    "amministrazione": "COMUNE DI UDINE",
-   "ente": "COOPERATIVA SOCIALE PERCORSO ALTRO",
+   "ente": "COOPERATIVA SOCIALE PERCORSO VITA",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -2168,12 +2167,12 @@
    "data": "2024-06-03",
    "oggetto": "SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER IL SOCCORSO E L?ASSISTENZA DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, COSTITUITI DA STRUTTURE ABITATIVE FINO A ",
    "amministrazione": "PREFETTURA DI UDINE",
-   "ente": null,
+   "ente": "CODESS FRIULI VENEZIA GIULIA COOPERATIVA SOCIALE - ONLUS IN BREVE CODESS FVG",
    "procedura": "ND P1_20",
    "diretto": false,
    "modalita": "altro",
    "base": 55159381.08,
-   "aggiudicato": null,
+   "aggiudicato": 6176325.6,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2258,12 +2257,12 @@
    "data": "2024-02-28",
    "oggetto": "ACCOGLIENZA CITTADINI STRANIERI UCRAINI STRUTTURE PRIVATE",
    "amministrazione": "PREFETTURA DI UDINE",
-   "ente": "CENTRO CARITAS DELL'ARCIDIOCESI DI UDINE ONLUS",
+   "ente": "FONDAZIONE CENTRO CARITAS DELL'ARCIDIOCESI DI UDINE ETS",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 538876.44,
-   "aggiudicato": 538876.44,
+   "aggiudicato": 620011.32,
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "probabile"

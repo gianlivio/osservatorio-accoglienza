@@ -4,7 +4,7 @@ import csv, glob, os, re, json, html, zipfile, io, collections, statistics, unic
 
 csv.field_size_limit(10_000_000)
 import datetime
-ANNI   = [str(a) for a in range(2015, datetime.date.today().year + 1)]
+ANNI   = sorted({os.path.basename(f)[12:16] for f in glob.glob("output/accoglienza_*_[01]*.csv")})  # solo anni con estratti
 ANNI_ESITO = {str(a) for a in range(2024, datetime.date.today().year + 1)}  # esiti attendibili dal 2024
 SOGLIA = 140000
 Z_AGG  = "dati-grezzi/aggiudicazioni_csv.zip"
@@ -36,29 +36,36 @@ print(f"righe caricate: {len(righe):,}")
 cig = {r["cig"] for r in righe}
 
 # --- 2. una sola passata su ciascun archivio --------------------------------
-def scorri(percorso, chiavi):
-    trovati = {}
-    with zipfile.ZipFile(percorso) as z:
-        nome = [n for n in z.namelist() if n.endswith(".csv")][0]
-        with z.open(nome) as f:
-            for r in csv.DictReader(io.TextIOWrapper(f, encoding="utf-8", errors="replace"),
-                                    delimiter=";", quotechar='"'):
-                c = (r.get("cig") or "").strip()
-                if c in cig and c not in trovati:
-                    if "tipo_soggetto" in r and "STAZIONE APPALTANTE" in (r.get("tipo_soggetto") or "").upper():
-                        continue
-                    trovati[c] = {k: (r.get(v) or "").strip() for k, v in chiavi.items()}
+def archivi(completo):
+    """Aggiornamenti mensili ANAC (AAAAMMGG-nome.zip) dal più recente, poi il file completo."""
+    cartella, nome = os.path.split(completo)
+    return sorted(glob.glob(os.path.join(cartella, f"2*-{nome}")), reverse=True) + [completo]
+
+def scorri(percorsi, chiavi):
+    trovati = {}  # vale la prima occorrenza: l'archivio più recente prevale
+    for percorso in percorsi:
+        print(f"  {percorso}")
+        with zipfile.ZipFile(percorso) as z:
+            nome = [n for n in z.namelist() if n.endswith(".csv")][0]
+            with z.open(nome) as f:
+                for r in csv.DictReader(io.TextIOWrapper(f, encoding="utf-8", errors="replace"),
+                                        delimiter=";", quotechar='"'):
+                    c = (r.get("cig") or "").strip()
+                    if c in cig and c not in trovati:
+                        if "tipo_soggetto" in r and "STAZIONE APPALTANTE" in (r.get("tipo_soggetto") or "").upper():
+                            continue
+                        trovati[c] = {k: (r.get(v) or "").strip() for k, v in chiavi.items()}
     return trovati
 
 print("lettura aggiudicazioni...")
-agg = scorri(Z_AGG, {"importo_aggiudicazione": "importo_aggiudicazione",
+agg = scorri(archivi(Z_AGG), {"importo_aggiudicazione": "importo_aggiudicazione",
                      "ribasso": "ribasso_aggiudicazione",
                      "criterio": "criterio_aggiudicazione",
                      "n_offerte": "numero_offerte_ammesse"})
 print(f"  {len(agg):,} aggiudicazioni")
 
 print("lettura aggiudicatari...")
-vin = scorri(Z_VIN, {"vincitore": "denominazione",
+vin = scorri(archivi(Z_VIN), {"vincitore": "denominazione",
                      "cf_vincitore": "codice_fiscale",
                      "tipo_soggetto": "tipo_soggetto"})
 print(f"  {len(vin):,} aggiudicatari")

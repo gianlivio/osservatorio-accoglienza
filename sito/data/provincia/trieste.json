@@ -196,7 +196,7 @@
    "prosecuzioni": 0,
    "canale_prefettura": 9,
    "canale_ente_locale": 42,
-   "enti_gestori": 21,
+   "enti_gestori": 20,
    "copertura_vincitore": 90.2,
    "copertura_esito": 98.0
   },
@@ -219,8 +219,7 @@
    "enti_gestori": 7,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-06": {
@@ -544,12 +543,12 @@
  },
  "top_enti": [
   {
-   "nome": "EOS COOPERATIVA SOCIALE ONLUS",
+   "nome": "CASA DELLO STUDENTE SLOVENO SRECKO KOSOVEL",
    "affidamenti": 10
   },
   {
-   "nome": "CASA DELLO STUDENTE SLOVENO SRECKO KOSOVEL",
-   "affidamenti": 9
+   "nome": "EOS COOPERATIVA SOCIALE ONLUS",
+   "affidamenti": 10
   },
   {
    "nome": "SANTA ANGELA MERICI SOCIETA' COOPERATIVA SOCIALE",
@@ -576,11 +575,11 @@
    "affidamenti": 1
   },
   {
-   "nome": "ZADRUZNI CENTER ZA SOCIALNO DEJAVNOST - CENTRO COOPERATIVO DI ATTIVITA' SOCIALI - COOPERATIVA SOCIALE - SOC. COOPERATIVA A RESPONSABILITA' LIMITATA",
+   "nome": "L'ASCENSORE SOCIALE",
    "affidamenti": 1
   },
   {
-   "nome": "L'ASCENSORE SOCIALE",
+   "nome": "FONDAZIONE OPERA SACRA FAMIGLIA - IMPRESA SOCIALE",
    "affidamenti": 1
   }
  ],
@@ -1602,7 +1601,7 @@
    "data": "2024-03-01",
    "oggetto": "AFFIDAMENTO SERVIZIO DI PRIMA ACCOGLIENZA DEI MINORI STRANIERI NON ACCOMPAGNATI RINTRACCIATI NEL TERRITORIO DEL COMUNE DI TRIESTE",
    "amministrazione": "COMUNE DI TRIESTE",
-   "ente": "ZADRUZNI CENTER ZA SOCIALNO DEJAVNOST - CENTRO COOPERATIVO DI ATTIVITA' SOCIALI - COOPERATIVA SOCIALE - SOC. COOPERATIVA A RESPONSABILITA' LIMITATA",
+   "ente": "CASA DELLO STUDENTE SLOVENO SRECKO KOSOVEL",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

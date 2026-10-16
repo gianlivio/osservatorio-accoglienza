@@ -10,8 +10,7 @@
   "2022",
   "2023",
   "2024",
-  "2025",
-  "2026"
+  "2025"
  ],
  "fonte": "ANAC - Banca Dati Nazionale dei Contratti Pubblici (CIG, aggiudicazioni, aggiudicatari)",
  "totale": {
@@ -30,9 +29,9 @@
   "prosecuzioni": 2018,
   "canale_prefettura": 8890,
   "canale_ente_locale": 9168,
-  "enti_gestori": 2349,
-  "copertura_vincitore": 51.7,
-  "copertura_esito": 53.7
+  "enti_gestori": 2384,
+  "copertura_vincitore": 52.7,
+  "copertura_esito": 54.6
  },
  "per_anno": {
   "2015": {
@@ -151,9 +150,9 @@
    "prosecuzioni": 180,
    "canale_prefettura": 333,
    "canale_ente_locale": 772,
-   "enti_gestori": 259,
-   "copertura_vincitore": 38.3,
-   "copertura_esito": 38.3
+   "enti_gestori": 260,
+   "copertura_vincitore": 38.5,
+   "copertura_esito": 38.5
   },
   "2021": {
    "affidamenti": 1099,
@@ -171,9 +170,9 @@
    "prosecuzioni": 191,
    "canale_prefettura": 401,
    "canale_ente_locale": 698,
-   "enti_gestori": 249,
-   "copertura_vincitore": 36.4,
-   "copertura_esito": 36.4
+   "enti_gestori": 254,
+   "copertura_vincitore": 36.9,
+   "copertura_esito": 36.9
   },
   "2022": {
    "affidamenti": 1375,
@@ -191,9 +190,9 @@
    "prosecuzioni": 154,
    "canale_prefettura": 599,
    "canale_ente_locale": 776,
-   "enti_gestori": 297,
-   "copertura_vincitore": 36.7,
-   "copertura_esito": 36.9
+   "enti_gestori": 309,
+   "copertura_vincitore": 38.8,
+   "copertura_esito": 39.1
   },
   "2023": {
    "affidamenti": 1671,
@@ -211,9 +210,9 @@
    "prosecuzioni": 214,
    "canale_prefettura": 779,
    "canale_ente_locale": 892,
-   "enti_gestori": 354,
-   "copertura_vincitore": 36.3,
-   "copertura_esito": 36.7
+   "enti_gestori": 376,
+   "copertura_vincitore": 38.8,
+   "copertura_esito": 39.3
   },
   "2024": {
    "affidamenti": 2295,
@@ -231,9 +230,9 @@
    "prosecuzioni": 219,
    "canale_prefettura": 875,
    "canale_ente_locale": 1420,
-   "enti_gestori": 844,
-   "copertura_vincitore": 78.6,
-   "copertura_esito": 87.1
+   "enti_gestori": 851,
+   "copertura_vincitore": 79.6,
+   "copertura_esito": 87.8
   },
   "2025": {
    "affidamenti": 1731,
@@ -251,11 +250,10 @@
    "prosecuzioni": 207,
    "canale_prefettura": 755,
    "canale_ente_locale": 976,
-   "enti_gestori": 673,
-   "copertura_vincitore": 77.2,
-   "copertura_esito": 85.8
-  },
-  "2026": null
+   "enti_gestori": 706,
+   "copertura_vincitore": 81.3,
+   "copertura_esito": 89.9
+  }
  },
  "per_mese": {
   "2015-01": {
@@ -1104,7 +1102,7 @@
    "affidamenti_40k": 982,
    "quota_diretti_40k": 32.7,
    "importo_mediano": 570000,
-   "copertura_esito": 38.3
+   "copertura_esito": 38.5
   },
   {
    "anno": "2021",
@@ -1113,7 +1111,7 @@
    "affidamenti_40k": 1026,
    "quota_diretti_40k": 38.9,
    "importo_mediano": 464458,
-   "copertura_esito": 36.4
+   "copertura_esito": 36.9
   },
   {
    "anno": "2022",
@@ -1122,7 +1120,7 @@
    "affidamenti_40k": 1338,
    "quota_diretti_40k": 62.4,
    "importo_mediano": 226250,
-   "copertura_esito": 36.9
+   "copertura_esito": 39.1
   },
   {
    "anno": "2023",
@@ -1131,7 +1129,7 @@
    "affidamenti_40k": 1612,
    "quota_diretti_40k": 60.0,
    "importo_mediano": 214900,
-   "copertura_esito": 36.7
+   "copertura_esito": 39.3
   },
   {
    "anno": "2024",
@@ -1140,7 +1138,7 @@
    "affidamenti_40k": 1365,
    "quota_diretti_40k": 57.8,
    "importo_mediano": 74666,
-   "copertura_esito": 87.1
+   "copertura_esito": 87.8
   },
   {
    "anno": "2025",
@@ -1149,7 +1147,7 @@
    "affidamenti_40k": 1083,
    "quota_diretti_40k": 58.0,
    "importo_mediano": 101016,
-   "copertura_esito": 85.8
+   "copertura_esito": 89.9
   }
  ],
  "anni_esito": [
@@ -1178,8 +1176,8 @@
     "canale_prefettura": 15,
     "canale_ente_locale": 153,
     "enti_gestori": 42,
-    "copertura_vincitore": 79.2,
-    "copertura_esito": 79.2
+    "copertura_vincitore": 79.8,
+    "copertura_esito": 79.8
    },
    "per_anno": {
     "2015": {
@@ -1240,15 +1238,14 @@
      "affidamenti": 20,
      "quota_diretti": 70.0,
      "importo_mediano": 24800,
-     "enti_gestori": 6
+     "enti_gestori": 7
     },
     "2025": {
      "affidamenti": 16,
      "quota_diretti": 75.0,
      "importo_mediano": 20602,
      "enti_gestori": 7
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -1319,8 +1316,7 @@
      "quota_diretti": 92.9,
      "importo_mediano": 1571361,
      "enti_gestori": 13
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -1346,9 +1342,9 @@
     "prosecuzioni": 25,
     "canale_prefettura": 14,
     "canale_ente_locale": 80,
-    "enti_gestori": 38,
-    "copertura_vincitore": 86.2,
-    "copertura_esito": 87.2
+    "enti_gestori": 40,
+    "copertura_vincitore": 88.3,
+    "copertura_esito": 88.3
    },
    "per_anno": {
     "2015": {
@@ -1398,7 +1394,7 @@
      "affidamenti": 11,
      "quota_diretti": 54.5,
      "importo_mediano": 183960,
-     "enti_gestori": 7
+     "enti_gestori": 8
     },
     "2024": {
      "affidamenti": 38,
@@ -1410,9 +1406,8 @@
      "affidamenti": 23,
      "quota_diretti": 78.3,
      "importo_mediano": 116752,
-     "enti_gestori": 12
-    },
-    "2026": null
+     "enti_gestori": 13
+    }
    },
    "anni_enti": [
     "2024",
@@ -1488,8 +1483,7 @@
      "quota_diretti": 60.0,
      "importo_mediano": 357301,
      "enti_gestori": 1
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -1516,8 +1510,8 @@
     "canale_prefettura": 74,
     "canale_ente_locale": 31,
     "enti_gestori": 32,
-    "copertura_vincitore": 84.8,
-    "copertura_esito": 92.4
+    "copertura_vincitore": 86.7,
+    "copertura_esito": 94.3
    },
    "per_anno": {
     "2015": {
@@ -1561,7 +1555,7 @@
      "affidamenti": 6,
      "quota_diretti": 100.0,
      "importo_mediano": 641605,
-     "enti_gestori": 5
+     "enti_gestori": 6
     },
     "2023": {
      "affidamenti": 17,
@@ -1580,8 +1574,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 22981,
      "enti_gestori": 4
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -1607,9 +1600,9 @@
     "prosecuzioni": 0,
     "canale_prefettura": 11,
     "canale_ente_locale": 21,
-    "enti_gestori": 16,
-    "copertura_vincitore": 81.2,
-    "copertura_esito": 81.2
+    "enti_gestori": 17,
+    "copertura_vincitore": 84.4,
+    "copertura_esito": 84.4
    },
    "per_anno": {
     "2015": null,
@@ -1654,7 +1647,7 @@
      "affidamenti": 3,
      "quota_diretti": 66.7,
      "importo_mediano": 139461,
-     "enti_gestori": 0
+     "enti_gestori": 1
     },
     "2024": {
      "affidamenti": 11,
@@ -1667,8 +1660,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 59550,
      "enti_gestori": 4
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -1694,9 +1686,9 @@
     "prosecuzioni": 4,
     "canale_prefettura": 10,
     "canale_ente_locale": 11,
-    "enti_gestori": 7,
-    "copertura_vincitore": 61.9,
-    "copertura_esito": 61.9
+    "enti_gestori": 9,
+    "copertura_vincitore": 85.7,
+    "copertura_esito": 85.7
    },
    "per_anno": {
     "2015": null,
@@ -1725,13 +1717,13 @@
      "affidamenti": 4,
      "quota_diretti": 25.0,
      "importo_mediano": 4107284,
-     "enti_gestori": 2
+     "enti_gestori": 3
     },
     "2023": {
      "affidamenti": 5,
      "quota_diretti": 40.0,
      "importo_mediano": 541562,
-     "enti_gestori": 0
+     "enti_gestori": 3
     },
     "2024": {
      "affidamenti": 1,
@@ -1744,8 +1736,7 @@
      "quota_diretti": 60.0,
      "importo_mediano": 25000,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -1771,9 +1762,9 @@
     "prosecuzioni": 16,
     "canale_prefettura": 62,
     "canale_ente_locale": 84,
-    "enti_gestori": 49,
-    "copertura_vincitore": 67.1,
-    "copertura_esito": 69.2
+    "enti_gestori": 48,
+    "copertura_vincitore": 70.5,
+    "copertura_esito": 71.9
    },
    "per_anno": {
     "2015": {
@@ -1829,15 +1820,14 @@
      "affidamenti": 29,
      "quota_diretti": 55.2,
      "importo_mediano": 61000,
-     "enti_gestori": 16
+     "enti_gestori": 14
     },
     "2025": {
      "affidamenti": 50,
      "quota_diretti": 76.0,
      "importo_mediano": 169042,
-     "enti_gestori": 25
-    },
-    "2026": null
+     "enti_gestori": 27
+    }
    },
    "anni_enti": [
     "2024",
@@ -1863,9 +1853,9 @@
     "prosecuzioni": 6,
     "canale_prefettura": 37,
     "canale_ente_locale": 55,
-    "enti_gestori": 35,
-    "copertura_vincitore": 82.6,
-    "copertura_esito": 82.6
+    "enti_gestori": 37,
+    "copertura_vincitore": 88.0,
+    "copertura_esito": 88.0
    },
    "per_anno": {
     "2015": {
@@ -1920,21 +1910,20 @@
      "affidamenti": 14,
      "quota_diretti": 50.0,
      "importo_mediano": 458566,
-     "enti_gestori": 6
+     "enti_gestori": 7
     },
     "2024": {
      "affidamenti": 16,
      "quota_diretti": 62.5,
      "importo_mediano": 894006,
-     "enti_gestori": 8
+     "enti_gestori": 9
     },
     "2025": {
      "affidamenti": 9,
      "quota_diretti": 44.4,
      "importo_mediano": 147632,
-     "enti_gestori": 4
-    },
-    "2026": null
+     "enti_gestori": 5
+    }
    },
    "anni_enti": [
     "2024",
@@ -2015,8 +2004,7 @@
      "quota_diretti": 14.3,
      "importo_mediano": 108404,
      "enti_gestori": 7
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2082,8 +2070,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 22439,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2109,9 +2096,9 @@
     "prosecuzioni": 11,
     "canale_prefettura": 4,
     "canale_ente_locale": 52,
-    "enti_gestori": 22,
-    "copertura_vincitore": 60.7,
-    "copertura_esito": 62.5
+    "enti_gestori": 24,
+    "copertura_vincitore": 69.6,
+    "copertura_esito": 71.4
    },
    "per_anno": {
     "2015": {
@@ -2161,21 +2148,20 @@
      "affidamenti": 13,
      "quota_diretti": 7.7,
      "importo_mediano": 913400,
-     "enti_gestori": 2
+     "enti_gestori": 4
     },
     "2024": {
      "affidamenti": 15,
      "quota_diretti": 66.7,
      "importo_mediano": 27772,
-     "enti_gestori": 10
+     "enti_gestori": 11
     },
     "2025": {
      "affidamenti": 11,
      "quota_diretti": 63.6,
      "importo_mediano": 120454,
-     "enti_gestori": 5
-    },
-    "2026": null
+     "enti_gestori": 6
+    }
    },
    "anni_enti": [
     "2024",
@@ -2261,8 +2247,7 @@
      "quota_diretti": 83.3,
      "importo_mediano": 28608,
      "enti_gestori": 7
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2289,8 +2274,8 @@
     "canale_prefettura": 1,
     "canale_ente_locale": 8,
     "enti_gestori": 3,
-    "copertura_vincitore": 77.8,
-    "copertura_esito": 77.8
+    "copertura_vincitore": 88.9,
+    "copertura_esito": 88.9
    },
    "per_anno": {
     "2015": null,
@@ -2325,7 +2310,7 @@
      "affidamenti": 4,
      "quota_diretti": 0.0,
      "importo_mediano": 894493,
-     "enti_gestori": 2
+     "enti_gestori": 3
     },
     "2024": null,
     "2025": {
@@ -2333,8 +2318,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 11200,
      "enti_gestori": 1
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2430,8 +2414,7 @@
      "quota_diretti": 92.6,
      "importo_mediano": 348884,
      "enti_gestori": 12
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2517,8 +2500,7 @@
      "quota_diretti": 94.1,
      "importo_mediano": 25678,
      "enti_gestori": 16
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2604,8 +2586,7 @@
      "quota_diretti": 92.3,
      "importo_mediano": 898185,
      "enti_gestori": 10
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2633,7 +2614,7 @@
     "canale_ente_locale": 50,
     "enti_gestori": 21,
     "copertura_vincitore": 67.9,
-    "copertura_esito": 71.7
+    "copertura_esito": 73.6
    },
    "per_anno": {
     "2015": null,
@@ -2691,8 +2672,7 @@
      "quota_diretti": 88.9,
      "importo_mediano": 23000,
      "enti_gestori": 7
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2718,9 +2698,9 @@
     "prosecuzioni": 3,
     "canale_prefettura": 36,
     "canale_ente_locale": 25,
-    "enti_gestori": 23,
-    "copertura_vincitore": 86.9,
-    "copertura_esito": 86.9
+    "enti_gestori": 26,
+    "copertura_vincitore": 91.8,
+    "copertura_esito": 91.8
    },
    "per_anno": {
     "2015": {
@@ -2777,9 +2757,8 @@
      "affidamenti": 13,
      "quota_diretti": 53.8,
      "importo_mediano": 36400,
-     "enti_gestori": 5
-    },
-    "2026": null
+     "enti_gestori": 8
+    }
    },
    "anni_enti": [
     "2024",
@@ -2806,8 +2785,8 @@
     "canale_prefettura": 0,
     "canale_ente_locale": 24,
     "enti_gestori": 7,
-    "copertura_vincitore": 75.0,
-    "copertura_esito": 83.3
+    "copertura_vincitore": 83.3,
+    "copertura_esito": 87.5
    },
    "per_anno": {
     "2015": {
@@ -2863,15 +2842,14 @@
      "affidamenti": 4,
      "quota_diretti": 0.0,
      "importo_mediano": 628761,
-     "enti_gestori": 1
+     "enti_gestori": 2
     },
     "2025": {
      "affidamenti": 5,
      "quota_diretti": 40.0,
      "importo_mediano": 762872,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2952,8 +2930,7 @@
      "quota_diretti": 94.1,
      "importo_mediano": 11499,
      "enti_gestori": 9
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -2979,9 +2956,9 @@
     "prosecuzioni": 9,
     "canale_prefettura": 138,
     "canale_ente_locale": 34,
-    "enti_gestori": 50,
-    "copertura_vincitore": 89.0,
-    "copertura_esito": 91.3
+    "enti_gestori": 53,
+    "copertura_vincitore": 89.5,
+    "copertura_esito": 91.9
    },
    "per_anno": {
     "2015": null,
@@ -3038,9 +3015,8 @@
      "affidamenti": 41,
      "quota_diretti": 90.2,
      "importo_mediano": 568425,
-     "enti_gestori": 19
-    },
-    "2026": null
+     "enti_gestori": 20
+    }
    },
    "anni_enti": [
     "2024",
@@ -3066,9 +3042,9 @@
     "prosecuzioni": 7,
     "canale_prefettura": 7,
     "canale_ente_locale": 60,
-    "enti_gestori": 15,
-    "copertura_vincitore": 59.7,
-    "copertura_esito": 65.7
+    "enti_gestori": 16,
+    "copertura_vincitore": 61.2,
+    "copertura_esito": 67.2
    },
    "per_anno": {
     "2015": null,
@@ -3126,8 +3102,7 @@
      "quota_diretti": 45.5,
      "importo_mediano": 339418,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -3213,8 +3188,7 @@
      "quota_diretti": 87.5,
      "importo_mediano": 58543,
      "enti_gestori": 8
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -3290,8 +3264,7 @@
      "quota_diretti": 58.3,
      "importo_mediano": 355741,
      "enti_gestori": 9
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -3318,8 +3291,8 @@
     "canale_prefettura": 28,
     "canale_ente_locale": 114,
     "enti_gestori": 40,
-    "copertura_vincitore": 69.0,
-    "copertura_esito": 89.4
+    "copertura_vincitore": 70.4,
+    "copertura_esito": 90.8
    },
    "per_anno": {
     "2015": null,
@@ -3366,9 +3339,8 @@
      "affidamenti": 24,
      "quota_diretti": 75.0,
      "importo_mediano": 215578,
-     "enti_gestori": 11
-    },
-    "2026": null
+     "enti_gestori": 12
+    }
    },
    "anni_enti": [
     "2024",
@@ -3394,9 +3366,9 @@
     "prosecuzioni": 24,
     "canale_prefettura": 1,
     "canale_ente_locale": 123,
-    "enti_gestori": 37,
-    "copertura_vincitore": 51.6,
-    "copertura_esito": 57.3
+    "enti_gestori": 38,
+    "copertura_vincitore": 53.2,
+    "copertura_esito": 58.9
    },
    "per_anno": {
     "2015": null,
@@ -3447,15 +3419,14 @@
      "affidamenti": 37,
      "quota_diretti": 51.4,
      "importo_mediano": 234655,
-     "enti_gestori": 16
+     "enti_gestori": 17
     },
     "2025": {
      "affidamenti": 18,
      "quota_diretti": 55.6,
      "importo_mediano": 105138,
-     "enti_gestori": 8
-    },
-    "2026": null
+     "enti_gestori": 9
+    }
    },
    "anni_enti": [
     "2024",
@@ -3482,8 +3453,8 @@
     "canale_prefettura": 152,
     "canale_ente_locale": 133,
     "enti_gestori": 66,
-    "copertura_vincitore": 91.6,
-    "copertura_esito": 95.1
+    "copertura_vincitore": 93.3,
+    "copertura_esito": 96.8
    },
    "per_anno": {
     "2015": {
@@ -3527,7 +3498,7 @@
      "affidamenti": 31,
      "quota_diretti": 67.7,
      "importo_mediano": 99810,
-     "enti_gestori": 15
+     "enti_gestori": 16
     },
     "2023": {
      "affidamenti": 54,
@@ -3539,15 +3510,14 @@
      "affidamenti": 58,
      "quota_diretti": 87.9,
      "importo_mediano": 40050,
-     "enti_gestori": 28
+     "enti_gestori": 30
     },
     "2025": {
      "affidamenti": 8,
      "quota_diretti": 100.0,
      "importo_mediano": 32475,
      "enti_gestori": 8
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -3573,9 +3543,9 @@
     "prosecuzioni": 7,
     "canale_prefettura": 13,
     "canale_ente_locale": 9,
-    "enti_gestori": 10,
-    "copertura_vincitore": 54.5,
-    "copertura_esito": 54.5
+    "enti_gestori": 12,
+    "copertura_vincitore": 63.6,
+    "copertura_esito": 63.6
    },
    "per_anno": {
     "2015": {
@@ -3622,9 +3592,8 @@
      "affidamenti": 3,
      "quota_diretti": 0.0,
      "importo_mediano": 633830,
-     "enti_gestori": 1
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -3700,8 +3669,7 @@
      "quota_diretti": 66.7,
      "importo_mediano": 8197,
      "enti_gestori": 2
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -3777,8 +3745,7 @@
      "enti_gestori": 1
     },
     "2024": null,
-    "2025": null,
-    "2026": null
+    "2025": null
    },
    "anni_enti": [
     "2024",
@@ -3804,7 +3771,7 @@
     "prosecuzioni": 7,
     "canale_prefettura": 31,
     "canale_ente_locale": 44,
-    "enti_gestori": 20,
+    "enti_gestori": 19,
     "copertura_vincitore": 94.7,
     "copertura_esito": 96.0
    },
@@ -3858,9 +3825,8 @@
      "affidamenti": 27,
      "quota_diretti": 92.6,
      "importo_mediano": 371070,
-     "enti_gestori": 8
-    },
-    "2026": null
+     "enti_gestori": 7
+    }
    },
    "anni_enti": [
     "2024",
@@ -3951,8 +3917,7 @@
      "quota_diretti": 76.9,
      "importo_mediano": 50279,
      "enti_gestori": 10
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -3979,8 +3944,8 @@
     "canale_prefettura": 198,
     "canale_ente_locale": 77,
     "enti_gestori": 44,
-    "copertura_vincitore": 64.0,
-    "copertura_esito": 78.2
+    "copertura_vincitore": 65.5,
+    "copertura_esito": 80.0
    },
    "per_anno": {
     "2015": {
@@ -4030,7 +3995,7 @@
      "affidamenti": 48,
      "quota_diretti": 75.0,
      "importo_mediano": 136556,
-     "enti_gestori": 5
+     "enti_gestori": 6
     },
     "2024": {
      "affidamenti": 100,
@@ -4043,8 +4008,7 @@
      "quota_diretti": 94.4,
      "importo_mediano": 157895,
      "enti_gestori": 22
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4071,8 +4035,8 @@
     "canale_prefettura": 28,
     "canale_ente_locale": 44,
     "enti_gestori": 26,
-    "copertura_vincitore": 51.4,
-    "copertura_esito": 52.8
+    "copertura_vincitore": 52.8,
+    "copertura_esito": 54.2
    },
    "per_anno": {
     "2015": null,
@@ -4124,9 +4088,8 @@
      "affidamenti": 9,
      "quota_diretti": 33.3,
      "importo_mediano": 73742,
-     "enti_gestori": 2
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -4207,8 +4170,7 @@
      "quota_diretti": 87.1,
      "importo_mediano": 39390,
      "enti_gestori": 13
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4299,8 +4261,7 @@
      "quota_diretti": 64.3,
      "importo_mediano": 29480,
      "enti_gestori": 7
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4326,9 +4287,9 @@
     "prosecuzioni": 14,
     "canale_prefettura": 144,
     "canale_ente_locale": 183,
-    "enti_gestori": 55,
-    "copertura_vincitore": 87.5,
-    "copertura_esito": 89.6
+    "enti_gestori": 54,
+    "copertura_vincitore": 88.1,
+    "copertura_esito": 90.2
    },
    "per_anno": {
     "2015": {
@@ -4383,21 +4344,20 @@
      "affidamenti": 29,
      "quota_diretti": 65.5,
      "importo_mediano": 234439,
-     "enti_gestori": 4
+     "enti_gestori": 5
     },
     "2024": {
      "affidamenti": 62,
      "quota_diretti": 71.0,
      "importo_mediano": 135286,
-     "enti_gestori": 25
+     "enti_gestori": 24
     },
     "2025": {
      "affidamenti": 21,
      "quota_diretti": 61.9,
      "importo_mediano": 493467,
      "enti_gestori": 10
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4473,8 +4433,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 84500,
      "enti_gestori": 1
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4555,8 +4514,7 @@
      "importo_mediano": 477976,
      "enti_gestori": 0
     },
-    "2025": null,
-    "2026": null
+    "2025": null
    },
    "anni_enti": [
     "2024",
@@ -4637,8 +4595,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 25047,
      "enti_gestori": 8
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4719,8 +4676,7 @@
      "quota_diretti": 75.0,
      "importo_mediano": 12709,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4746,9 +4702,9 @@
     "prosecuzioni": 12,
     "canale_prefettura": 16,
     "canale_ente_locale": 32,
-    "enti_gestori": 19,
-    "copertura_vincitore": 62.5,
-    "copertura_esito": 62.5
+    "enti_gestori": 20,
+    "copertura_vincitore": 66.7,
+    "copertura_esito": 66.7
    },
    "per_anno": {
     "2015": {
@@ -4799,15 +4755,14 @@
      "affidamenti": 11,
      "quota_diretti": 63.6,
      "importo_mediano": 39239,
-     "enti_gestori": 8
+     "enti_gestori": 9
     },
     "2025": {
      "affidamenti": 13,
      "quota_diretti": 76.9,
      "importo_mediano": 73000,
-     "enti_gestori": 8
-    },
-    "2026": null
+     "enti_gestori": 9
+    }
    },
    "anni_enti": [
     "2024",
@@ -4893,8 +4848,7 @@
      "quota_diretti": 75.0,
      "importo_mediano": 15880,
      "enti_gestori": 2
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -4990,8 +4944,7 @@
      "quota_diretti": 92.3,
      "importo_mediano": 18100,
      "enti_gestori": 12
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -5018,8 +4971,8 @@
     "canale_prefettura": 17,
     "canale_ente_locale": 115,
     "enti_gestori": 39,
-    "copertura_vincitore": 67.4,
-    "copertura_esito": 72.7
+    "copertura_vincitore": 68.9,
+    "copertura_esito": 75.8
    },
    "per_anno": {
     "2015": {
@@ -5081,9 +5034,8 @@
      "affidamenti": 42,
      "quota_diretti": 61.9,
      "importo_mediano": 69984,
-     "enti_gestori": 18
-    },
-    "2026": null
+     "enti_gestori": 17
+    }
    },
    "anni_enti": [
     "2024",
@@ -5109,9 +5061,9 @@
     "prosecuzioni": 0,
     "canale_prefettura": 24,
     "canale_ente_locale": 77,
-    "enti_gestori": 22,
-    "copertura_vincitore": 91.1,
-    "copertura_esito": 96.0
+    "enti_gestori": 23,
+    "copertura_vincitore": 92.1,
+    "copertura_esito": 97.0
    },
    "per_anno": {
     "2015": {
@@ -5156,7 +5108,7 @@
      "affidamenti": 9,
      "quota_diretti": 88.9,
      "importo_mediano": 135000,
-     "enti_gestori": 3
+     "enti_gestori": 4
     },
     "2024": {
      "affidamenti": 3,
@@ -5164,8 +5116,7 @@
      "importo_mediano": 2737852,
      "enti_gestori": 1
     },
-    "2025": null,
-    "2026": null
+    "2025": null
    },
    "anni_enti": [
     "2024",
@@ -5256,8 +5207,7 @@
      "quota_diretti": 50.0,
      "importo_mediano": 55,
      "enti_gestori": 1
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -5338,8 +5288,7 @@
      "quota_diretti": 66.7,
      "importo_mediano": 657000,
      "enti_gestori": 6
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -5366,8 +5315,8 @@
     "canale_prefettura": 44,
     "canale_ente_locale": 51,
     "enti_gestori": 31,
-    "copertura_vincitore": 91.6,
-    "copertura_esito": 92.6
+    "copertura_vincitore": 93.7,
+    "copertura_esito": 95.8
    },
    "per_anno": {
     "2015": null,
@@ -5424,9 +5373,8 @@
      "affidamenti": 16,
      "quota_diretti": 68.8,
      "importo_mediano": 36890,
-     "enti_gestori": 7
-    },
-    "2026": null
+     "enti_gestori": 8
+    }
    },
    "anni_enti": [
     "2024",
@@ -5452,8 +5400,8 @@
     "prosecuzioni": 1,
     "canale_prefettura": 25,
     "canale_ente_locale": 33,
-    "enti_gestori": 15,
-    "copertura_vincitore": 62.1,
+    "enti_gestori": 16,
+    "copertura_vincitore": 67.2,
     "copertura_esito": 82.8
    },
    "per_anno": {
@@ -5489,7 +5437,7 @@
      "affidamenti": 9,
      "quota_diretti": 100.0,
      "importo_mediano": 114770,
-     "enti_gestori": 3
+     "enti_gestori": 2
     },
     "2024": {
      "affidamenti": 26,
@@ -5501,9 +5449,8 @@
      "affidamenti": 16,
      "quota_diretti": 18.8,
      "importo_mediano": 137865,
-     "enti_gestori": 6
-    },
-    "2026": null
+     "enti_gestori": 7
+    }
    },
    "anni_enti": [
     "2024",
@@ -5564,8 +5511,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 27000,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -5592,7 +5538,7 @@
     "canale_prefettura": 134,
     "canale_ente_locale": 10,
     "enti_gestori": 30,
-    "copertura_vincitore": 93.1,
+    "copertura_vincitore": 93.8,
     "copertura_esito": 95.1
    },
    "per_anno": {
@@ -5649,15 +5595,14 @@
      "affidamenti": 9,
      "quota_diretti": 77.8,
      "importo_mediano": 23000,
-     "enti_gestori": 2
+     "enti_gestori": 3
     },
     "2025": {
      "affidamenti": 11,
      "quota_diretti": 63.6,
      "importo_mediano": 41195,
      "enti_gestori": 6
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -5683,9 +5628,9 @@
     "prosecuzioni": 3,
     "canale_prefettura": 26,
     "canale_ente_locale": 25,
-    "enti_gestori": 9,
-    "copertura_vincitore": 39.2,
-    "copertura_esito": 39.2
+    "enti_gestori": 10,
+    "copertura_vincitore": 41.2,
+    "copertura_esito": 41.2
    },
    "per_anno": {
     "2015": null,
@@ -5732,9 +5677,8 @@
      "affidamenti": 5,
      "quota_diretti": 60.0,
      "importo_mediano": 62170,
-     "enti_gestori": 2
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -5760,9 +5704,9 @@
     "prosecuzioni": 16,
     "canale_prefettura": 16,
     "canale_ente_locale": 47,
-    "enti_gestori": 19,
-    "copertura_vincitore": 52.4,
-    "copertura_esito": 52.4
+    "enti_gestori": 21,
+    "copertura_vincitore": 55.6,
+    "copertura_esito": 55.6
    },
    "per_anno": {
     "2015": null,
@@ -5814,9 +5758,8 @@
      "affidamenti": 11,
      "quota_diretti": 27.3,
      "importo_mediano": 376773,
-     "enti_gestori": 6
-    },
-    "2026": null
+     "enti_gestori": 8
+    }
    },
    "anni_enti": [
     "2024",
@@ -5842,9 +5785,9 @@
     "prosecuzioni": 17,
     "canale_prefettura": 67,
     "canale_ente_locale": 271,
-    "enti_gestori": 91,
-    "copertura_vincitore": 82.5,
-    "copertura_esito": 87.6
+    "enti_gestori": 90,
+    "copertura_vincitore": 84.0,
+    "copertura_esito": 89.1
    },
    "per_anno": {
     "2015": {
@@ -5893,13 +5836,13 @@
      "affidamenti": 52,
      "quota_diretti": 80.8,
      "importo_mediano": 214900,
-     "enti_gestori": 24
+     "enti_gestori": 23
     },
     "2023": {
      "affidamenti": 33,
      "quota_diretti": 57.6,
      "importo_mediano": 133893,
-     "enti_gestori": 8
+     "enti_gestori": 9
     },
     "2024": {
      "affidamenti": 48,
@@ -5912,8 +5855,7 @@
      "quota_diretti": 69.6,
      "importo_mediano": 27499,
      "enti_gestori": 14
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -5939,9 +5881,9 @@
     "prosecuzioni": 41,
     "canale_prefettura": 66,
     "canale_ente_locale": 73,
-    "enti_gestori": 24,
-    "copertura_vincitore": 74.8,
-    "copertura_esito": 74.8
+    "enti_gestori": 25,
+    "copertura_vincitore": 76.3,
+    "copertura_esito": 76.3
    },
    "per_anno": {
     "2015": {
@@ -6008,9 +5950,8 @@
      "affidamenti": 24,
      "quota_diretti": 83.3,
      "importo_mediano": 139728,
-     "enti_gestori": 9
-    },
-    "2026": null
+     "enti_gestori": 10
+    }
    },
    "anni_enti": [
     "2024",
@@ -6037,8 +5978,8 @@
     "canale_prefettura": 30,
     "canale_ente_locale": 11,
     "enti_gestori": 14,
-    "copertura_vincitore": 56.1,
-    "copertura_esito": 58.5
+    "copertura_vincitore": 58.5,
+    "copertura_esito": 61.0
    },
    "per_anno": {
     "2015": {
@@ -6091,8 +6032,7 @@
      "quota_diretti": 50.0,
      "importo_mediano": 1043170,
      "enti_gestori": 5
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6118,9 +6058,9 @@
     "prosecuzioni": 16,
     "canale_prefettura": 61,
     "canale_ente_locale": 115,
-    "enti_gestori": 50,
-    "copertura_vincitore": 70.5,
-    "copertura_esito": 75.0
+    "enti_gestori": 54,
+    "copertura_vincitore": 73.3,
+    "copertura_esito": 78.4
    },
    "per_anno": {
     "2015": null,
@@ -6171,15 +6111,14 @@
      "affidamenti": 67,
      "quota_diretti": 59.7,
      "importo_mediano": 137803,
-     "enti_gestori": 25
+     "enti_gestori": 24
     },
     "2025": {
      "affidamenti": 71,
      "quota_diretti": 73.2,
      "importo_mediano": 137670,
-     "enti_gestori": 31
-    },
-    "2026": null
+     "enti_gestori": 35
+    }
    },
    "anni_enti": [
     "2024",
@@ -6205,9 +6144,9 @@
     "prosecuzioni": 0,
     "canale_prefettura": 7,
     "canale_ente_locale": 70,
-    "enti_gestori": 11,
-    "copertura_vincitore": 42.9,
-    "copertura_esito": 54.5
+    "enti_gestori": 16,
+    "copertura_vincitore": 71.4,
+    "copertura_esito": 83.1
    },
    "per_anno": {
     "2015": null,
@@ -6226,13 +6165,13 @@
      "affidamenti": 15,
      "quota_diretti": 6.7,
      "importo_mediano": 102000,
-     "enti_gestori": 4
+     "enti_gestori": 6
     },
     "2023": {
      "affidamenti": 23,
      "quota_diretti": 56.5,
      "importo_mediano": 84000,
-     "enti_gestori": 0
+     "enti_gestori": 7
     },
     "2024": {
      "affidamenti": 23,
@@ -6245,8 +6184,7 @@
      "quota_diretti": 76.9,
      "importo_mediano": 55000,
      "enti_gestori": 8
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6322,8 +6260,7 @@
      "quota_diretti": 20.0,
      "importo_mediano": 749000,
      "enti_gestori": 1
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6350,8 +6287,8 @@
     "canale_prefettura": 29,
     "canale_ente_locale": 5,
     "enti_gestori": 8,
-    "copertura_vincitore": 76.5,
-    "copertura_esito": 76.5
+    "copertura_vincitore": 79.4,
+    "copertura_esito": 79.4
    },
    "per_anno": {
     "2015": null,
@@ -6379,8 +6316,7 @@
      "quota_diretti": 25.9,
      "importo_mediano": 255300,
      "enti_gestori": 7
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6407,8 +6343,8 @@
     "canale_prefettura": 24,
     "canale_ente_locale": 38,
     "enti_gestori": 28,
-    "copertura_vincitore": 91.9,
-    "copertura_esito": 91.9
+    "copertura_vincitore": 93.5,
+    "copertura_esito": 93.5
    },
    "per_anno": {
     "2015": {
@@ -6459,15 +6395,14 @@
      "affidamenti": 6,
      "quota_diretti": 16.7,
      "importo_mediano": 2586874,
-     "enti_gestori": 3
+     "enti_gestori": 5
     },
     "2025": {
      "affidamenti": 22,
      "quota_diretti": 95.5,
      "importo_mediano": 1476806,
      "enti_gestori": 15
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6495,7 +6430,7 @@
     "canale_ente_locale": 94,
     "enti_gestori": 30,
     "copertura_vincitore": 59.5,
-    "copertura_esito": 67.2
+    "copertura_esito": 66.4
    },
    "per_anno": {
     "2015": {
@@ -6558,8 +6493,7 @@
      "quota_diretti": 57.1,
      "importo_mediano": 36100,
      "enti_gestori": 4
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6645,8 +6579,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 31184,
      "enti_gestori": 5
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6672,8 +6605,8 @@
     "prosecuzioni": 4,
     "canale_prefettura": 86,
     "canale_ente_locale": 32,
-    "enti_gestori": 45,
-    "copertura_vincitore": 95.8,
+    "enti_gestori": 47,
+    "copertura_vincitore": 96.6,
     "copertura_esito": 97.5
    },
    "per_anno": {
@@ -6730,15 +6663,14 @@
      "affidamenti": 20,
      "quota_diretti": 90.0,
      "importo_mediano": 40770,
-     "enti_gestori": 16
+     "enti_gestori": 17
     },
     "2025": {
      "affidamenti": 5,
      "quota_diretti": 100.0,
      "importo_mediano": 15979,
      "enti_gestori": 4
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6764,8 +6696,8 @@
     "prosecuzioni": 2,
     "canale_prefettura": 23,
     "canale_ente_locale": 35,
-    "enti_gestori": 20,
-    "copertura_vincitore": 77.6,
+    "enti_gestori": 19,
+    "copertura_vincitore": 79.3,
     "copertura_esito": 81.0
    },
    "per_anno": {
@@ -6829,8 +6761,7 @@
      "quota_diretti": 47.1,
      "importo_mediano": 339206,
      "enti_gestori": 9
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6911,8 +6842,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 124347,
      "enti_gestori": 2
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -6938,9 +6868,9 @@
     "prosecuzioni": 16,
     "canale_prefettura": 34,
     "canale_ente_locale": 85,
-    "enti_gestori": 40,
-    "copertura_vincitore": 58.0,
-    "copertura_esito": 67.2
+    "enti_gestori": 41,
+    "copertura_vincitore": 58.8,
+    "copertura_esito": 68.1
    },
    "per_anno": {
     "2015": null,
@@ -6987,9 +6917,8 @@
      "affidamenti": 33,
      "quota_diretti": 97.0,
      "importo_mediano": 4950,
-     "enti_gestori": 17
-    },
-    "2026": null
+     "enti_gestori": 18
+    }
    },
    "anni_enti": [
     "2024",
@@ -7075,8 +7004,7 @@
      "quota_diretti": 38.1,
      "importo_mediano": 171040,
      "enti_gestori": 9
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7102,9 +7030,9 @@
     "prosecuzioni": 1,
     "canale_prefettura": 14,
     "canale_ente_locale": 6,
-    "enti_gestori": 9,
-    "copertura_vincitore": 70.0,
-    "copertura_esito": 75.0
+    "enti_gestori": 10,
+    "copertura_vincitore": 80.0,
+    "copertura_esito": 85.0
    },
    "per_anno": {
     "2015": null,
@@ -7145,15 +7073,14 @@
      "affidamenti": 4,
      "quota_diretti": 25.0,
      "importo_mediano": 5729384,
-     "enti_gestori": 3
+     "enti_gestori": 4
     },
     "2025": {
      "affidamenti": 8,
      "quota_diretti": 87.5,
      "importo_mediano": 1341896,
      "enti_gestori": 5
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7179,7 +7106,7 @@
     "prosecuzioni": 2,
     "canale_prefettura": 10,
     "canale_ente_locale": 24,
-    "enti_gestori": 13,
+    "enti_gestori": 14,
     "copertura_vincitore": 97.1,
     "copertura_esito": 100.0
    },
@@ -7232,15 +7159,14 @@
      "affidamenti": 6,
      "quota_diretti": 50.0,
      "importo_mediano": 265808,
-     "enti_gestori": 4
+     "enti_gestori": 5
     },
     "2025": {
      "affidamenti": 11,
      "quota_diretti": 72.7,
      "importo_mediano": 60272,
      "enti_gestori": 8
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7316,8 +7242,7 @@
      "quota_diretti": 100.0,
      "importo_mediano": 4559872,
      "enti_gestori": 2
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7343,9 +7268,9 @@
     "prosecuzioni": 46,
     "canale_prefettura": 94,
     "canale_ente_locale": 68,
-    "enti_gestori": 30,
-    "copertura_vincitore": 76.5,
-    "copertura_esito": 77.8
+    "enti_gestori": 34,
+    "copertura_vincitore": 84.0,
+    "copertura_esito": 84.6
    },
    "per_anno": {
     "2015": {
@@ -7394,13 +7319,13 @@
      "affidamenti": 18,
      "quota_diretti": 61.1,
      "importo_mediano": 670451,
-     "enti_gestori": 4
+     "enti_gestori": 8
     },
     "2023": {
      "affidamenti": 24,
      "quota_diretti": 45.8,
      "importo_mediano": 640194,
-     "enti_gestori": 7
+     "enti_gestori": 11
     },
     "2024": {
      "affidamenti": 13,
@@ -7412,9 +7337,8 @@
      "affidamenti": 10,
      "quota_diretti": 40.0,
      "importo_mediano": 717978,
-     "enti_gestori": 6
-    },
-    "2026": null
+     "enti_gestori": 7
+    }
    },
    "anni_enti": [
     "2024",
@@ -7500,8 +7424,7 @@
      "quota_diretti": 60.0,
      "importo_mediano": 1420580,
      "enti_gestori": 2
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7592,8 +7515,7 @@
      "quota_diretti": 0.0,
      "importo_mediano": 945510,
      "enti_gestori": 1
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7620,8 +7542,8 @@
     "canale_prefettura": 4,
     "canale_ente_locale": 135,
     "enti_gestori": 33,
-    "copertura_vincitore": 97.1,
-    "copertura_esito": 97.1
+    "copertura_vincitore": 97.8,
+    "copertura_esito": 97.8
    },
    "per_anno": {
     "2015": {
@@ -7689,8 +7611,7 @@
      "quota_diretti": 60.0,
      "importo_mediano": 27716,
      "enti_gestori": 4
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7716,9 +7637,9 @@
     "prosecuzioni": 17,
     "canale_prefettura": 9,
     "canale_ente_locale": 68,
-    "enti_gestori": 34,
-    "copertura_vincitore": 61.0,
-    "copertura_esito": 61.0
+    "enti_gestori": 36,
+    "copertura_vincitore": 67.5,
+    "copertura_esito": 67.5
    },
    "per_anno": {
     "2015": null,
@@ -7763,7 +7684,7 @@
      "affidamenti": 12,
      "quota_diretti": 0.0,
      "importo_mediano": 928511,
-     "enti_gestori": 2
+     "enti_gestori": 3
     },
     "2024": {
      "affidamenti": 12,
@@ -7775,9 +7696,8 @@
      "affidamenti": 16,
      "quota_diretti": 31.2,
      "importo_mediano": 302615,
-     "enti_gestori": 7
-    },
-    "2026": null
+     "enti_gestori": 10
+    }
    },
    "anni_enti": [
     "2024",
@@ -7843,8 +7763,7 @@
      "quota_diretti": 62.5,
      "importo_mediano": 120468,
      "enti_gestori": 8
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -7870,9 +7789,9 @@
     "prosecuzioni": 0,
     "canale_prefettura": 22,
     "canale_ente_locale": 15,
-    "enti_gestori": 10,
-    "copertura_vincitore": 91.9,
-    "copertura_esito": 91.9
+    "enti_gestori": 11,
+    "copertura_vincitore": 94.6,
+    "copertura_esito": 94.6
    },
    "per_anno": {
     "2015": null,
@@ -7919,9 +7838,8 @@
      "affidamenti": 4,
      "quota_diretti": 75.0,
      "importo_mediano": 25606,
-     "enti_gestori": 2
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -7947,9 +7865,9 @@
     "prosecuzioni": 16,
     "canale_prefettura": 59,
     "canale_ente_locale": 23,
-    "enti_gestori": 19,
-    "copertura_vincitore": 82.9,
-    "copertura_esito": 85.4
+    "enti_gestori": 20,
+    "copertura_vincitore": 84.1,
+    "copertura_esito": 86.6
    },
    "per_anno": {
     "2015": {
@@ -8011,9 +7929,8 @@
      "affidamenti": 21,
      "quota_diretti": 61.9,
      "importo_mediano": 98737,
-     "enti_gestori": 8
-    },
-    "2026": null
+     "enti_gestori": 9
+    }
    },
    "anni_enti": [
     "2024",
@@ -8039,7 +7956,7 @@
     "prosecuzioni": 97,
     "canale_prefettura": 46,
     "canale_ente_locale": 388,
-    "enti_gestori": 89,
+    "enti_gestori": 90,
     "copertura_vincitore": 80.9,
     "copertura_esito": 82.5
    },
@@ -8102,15 +8019,14 @@
      "affidamenti": 54,
      "quota_diretti": 88.9,
      "importo_mediano": 36472,
-     "enti_gestori": 27
+     "enti_gestori": 28
     },
     "2025": {
      "affidamenti": 39,
      "quota_diretti": 71.8,
      "importo_mediano": 82274,
      "enti_gestori": 16
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -8137,8 +8053,8 @@
     "canale_prefettura": 58,
     "canale_ente_locale": 2,
     "enti_gestori": 10,
-    "copertura_vincitore": 76.7,
-    "copertura_esito": 76.7
+    "copertura_vincitore": 78.3,
+    "copertura_esito": 78.3
    },
    "per_anno": {
     "2015": null,
@@ -8195,9 +8111,8 @@
      "affidamenti": 8,
      "quota_diretti": 12.5,
      "importo_mediano": 136576,
-     "enti_gestori": 2
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -8223,9 +8138,9 @@
     "prosecuzioni": 15,
     "canale_prefettura": 69,
     "canale_ente_locale": 68,
-    "enti_gestori": 41,
-    "copertura_vincitore": 64.2,
-    "copertura_esito": 65.7
+    "enti_gestori": 43,
+    "copertura_vincitore": 65.7,
+    "copertura_esito": 67.2
    },
    "per_anno": {
     "2015": null,
@@ -8269,7 +8184,7 @@
      "affidamenti": 9,
      "quota_diretti": 11.1,
      "importo_mediano": 925275,
-     "enti_gestori": 1
+     "enti_gestori": 2
     },
     "2023": {
      "affidamenti": 25,
@@ -8287,9 +8202,8 @@
      "affidamenti": 54,
      "quota_diretti": 48.1,
      "importo_mediano": 138600,
-     "enti_gestori": 20
-    },
-    "2026": null
+     "enti_gestori": 21
+    }
    },
    "anni_enti": [
     "2024",
@@ -8315,9 +8229,9 @@
     "prosecuzioni": 4,
     "canale_prefettura": 17,
     "canale_ente_locale": 23,
-    "enti_gestori": 15,
-    "copertura_vincitore": 75.0,
-    "copertura_esito": 77.5
+    "enti_gestori": 14,
+    "copertura_vincitore": 77.5,
+    "copertura_esito": 80.0
    },
    "per_anno": {
     "2015": null,
@@ -8350,8 +8264,7 @@
      "quota_diretti": 70.0,
      "importo_mediano": 278263,
      "enti_gestori": 6
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -8378,8 +8291,8 @@
     "canale_prefettura": 20,
     "canale_ente_locale": 49,
     "enti_gestori": 20,
-    "copertura_vincitore": 78.3,
-    "copertura_esito": 92.8
+    "copertura_vincitore": 79.7,
+    "copertura_esito": 94.2
    },
    "per_anno": {
     "2015": {
@@ -8436,9 +8349,8 @@
      "affidamenti": 13,
      "quota_diretti": 76.9,
      "importo_mediano": 14880,
-     "enti_gestori": 4
-    },
-    "2026": null
+     "enti_gestori": 5
+    }
    },
    "anni_enti": [
     "2024",
@@ -8464,9 +8376,9 @@
     "prosecuzioni": 0,
     "canale_prefettura": 50,
     "canale_ente_locale": 13,
-    "enti_gestori": 17,
-    "copertura_vincitore": 54.0,
-    "copertura_esito": 54.0
+    "enti_gestori": 18,
+    "copertura_vincitore": 58.7,
+    "copertura_esito": 58.7
    },
    "per_anno": {
     "2015": {
@@ -8523,9 +8435,8 @@
      "affidamenti": 14,
      "quota_diretti": 71.4,
      "importo_mediano": 2716184,
-     "enti_gestori": 8
-    },
-    "2026": null
+     "enti_gestori": 10
+    }
    },
    "anni_enti": [
     "2024",
@@ -8551,8 +8462,8 @@
     "prosecuzioni": 6,
     "canale_prefettura": 46,
     "canale_ente_locale": 72,
-    "enti_gestori": 41,
-    "copertura_vincitore": 85.6,
+    "enti_gestori": 42,
+    "copertura_vincitore": 86.4,
     "copertura_esito": 89.0
    },
    "per_anno": {
@@ -8615,9 +8526,8 @@
      "affidamenti": 5,
      "quota_diretti": 60.0,
      "importo_mediano": 64179,
-     "enti_gestori": 2
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -8645,7 +8555,7 @@
     "canale_ente_locale": 13,
     "enti_gestori": 9,
     "copertura_vincitore": 41.4,
-    "copertura_esito": 44.8
+    "copertura_esito": 48.3
    },
    "per_anno": {
     "2015": null,
@@ -8683,8 +8593,7 @@
      "quota_diretti": 42.9,
      "importo_mediano": 2544174,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -8765,8 +8674,7 @@
      "quota_diretti": 60.0,
      "importo_mediano": 77239,
      "enti_gestori": 2
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -8857,8 +8765,7 @@
      "quota_diretti": 33.3,
      "importo_mediano": 80177,
      "enti_gestori": 2
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -8885,8 +8792,8 @@
     "canale_prefettura": 34,
     "canale_ente_locale": 4,
     "enti_gestori": 9,
-    "copertura_vincitore": 68.4,
-    "copertura_esito": 68.4
+    "copertura_vincitore": 73.7,
+    "copertura_esito": 73.7
    },
    "per_anno": {
     "2015": null,
@@ -8928,9 +8835,8 @@
      "affidamenti": 5,
      "quota_diretti": 0.0,
      "importo_mediano": 6925060,
-     "enti_gestori": 2
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -9006,8 +8912,7 @@
      "quota_diretti": 94.6,
      "importo_mediano": 110475,
      "enti_gestori": 11
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9033,9 +8938,9 @@
     "prosecuzioni": 5,
     "canale_prefettura": 387,
     "canale_ente_locale": 189,
-    "enti_gestori": 104,
-    "copertura_vincitore": 78.5,
-    "copertura_esito": 79.5
+    "enti_gestori": 106,
+    "copertura_vincitore": 79.7,
+    "copertura_esito": 80.6
    },
    "per_anno": {
     "2015": {
@@ -9084,27 +8989,26 @@
      "affidamenti": 79,
      "quota_diretti": 88.6,
      "importo_mediano": 214900,
-     "enti_gestori": 11
+     "enti_gestori": 13
     },
     "2023": {
      "affidamenti": 87,
      "quota_diretti": 82.8,
      "importo_mediano": 155160,
-     "enti_gestori": 10
+     "enti_gestori": 12
     },
     "2024": {
      "affidamenti": 71,
      "quota_diretti": 67.6,
      "importo_mediano": 598570,
-     "enti_gestori": 37
+     "enti_gestori": 36
     },
     "2025": {
      "affidamenti": 21,
      "quota_diretti": 61.9,
      "importo_mediano": 98506,
      "enti_gestori": 15
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9130,7 +9034,7 @@
     "prosecuzioni": 11,
     "canale_prefettura": 2,
     "canale_ente_locale": 120,
-    "enti_gestori": 28,
+    "enti_gestori": 27,
     "copertura_vincitore": 80.3,
     "copertura_esito": 81.1
    },
@@ -9200,8 +9104,7 @@
      "quota_diretti": 0.0,
      "importo_mediano": 2020843,
      "enti_gestori": 0
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9287,8 +9190,7 @@
      "quota_diretti": 75.4,
      "importo_mediano": 47250,
      "enti_gestori": 18
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9379,8 +9281,7 @@
      "quota_diretti": 66.7,
      "importo_mediano": 232420,
      "enti_gestori": 5
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9406,7 +9307,7 @@
     "prosecuzioni": 68,
     "canale_prefettura": 16,
     "canale_ente_locale": 174,
-    "enti_gestori": 35,
+    "enti_gestori": 34,
     "copertura_vincitore": 57.4,
     "copertura_esito": 59.5
    },
@@ -9469,15 +9370,14 @@
      "affidamenti": 51,
      "quota_diretti": 62.7,
      "importo_mediano": 97920,
-     "enti_gestori": 21
+     "enti_gestori": 20
     },
     "2025": {
      "affidamenti": 20,
      "quota_diretti": 100.0,
      "importo_mediano": 10764,
      "enti_gestori": 7
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9504,8 +9404,8 @@
     "canale_prefettura": 15,
     "canale_ente_locale": 187,
     "enti_gestori": 42,
-    "copertura_vincitore": 81.7,
-    "copertura_esito": 89.6
+    "copertura_vincitore": 82.2,
+    "copertura_esito": 90.1
    },
    "per_anno": {
     "2015": {
@@ -9573,8 +9473,7 @@
      "quota_diretti": 94.4,
      "importo_mediano": 48850,
      "enti_gestori": 32
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9670,8 +9569,7 @@
      "quota_diretti": 55.0,
      "importo_mediano": 46741,
      "enti_gestori": 3
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9767,8 +9665,7 @@
      "quota_diretti": 85.0,
      "importo_mediano": 1416940,
      "enti_gestori": 13
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9795,8 +9692,8 @@
     "canale_prefettura": 24,
     "canale_ente_locale": 20,
     "enti_gestori": 11,
-    "copertura_vincitore": 70.5,
-    "copertura_esito": 81.8
+    "copertura_vincitore": 72.7,
+    "copertura_esito": 84.1
    },
    "per_anno": {
     "2015": null,
@@ -9834,8 +9731,7 @@
      "quota_diretti": 61.1,
      "importo_mediano": 110072,
      "enti_gestori": 4
-    },
-    "2026": null
+    }
    },
    "anni_enti": [
     "2024",
@@ -9861,9 +9757,9 @@
     "prosecuzioni": 2,
     "canale_prefettura": 48,
     "canale_ente_locale": 7,
-    "enti_gestori": 13,
-    "copertura_vincitore": 92.7,
-    "copertura_esito": 92.7
+    "enti_gestori": 14,
+    "copertura_vincitore": 94.5,
+    "copertura_esito": 94.5
    },
    "per_anno": {
     "2015": null,
@@ -9920,9 +9816,8 @@
      "affidamenti": 3,
      "quota_diretti": 66.7,
      "importo_mediano": 68781,
-     "enti_gestori": 2
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -9949,8 +9844,8 @@
     "canale_prefettura": 106,
     "canale_ente_locale": 31,
     "enti_gestori": 63,
-    "copertura_vincitore": 83.9,
-    "copertura_esito": 85.4
+    "copertura_vincitore": 86.9,
+    "copertura_esito": 87.6
    },
    "per_anno": {
     "2015": {
@@ -10001,15 +9896,14 @@
      "affidamenti": 8,
      "quota_diretti": 62.5,
      "importo_mediano": 60962,
-     "enti_gestori": 5
+     "enti_gestori": 4
     },
     "2025": {
      "affidamenti": 17,
      "quota_diretti": 41.2,
      "importo_mediano": 302088,
-     "enti_gestori": 5
-    },
-    "2026": null
+     "enti_gestori": 7
+    }
    },
    "anni_enti": [
     "2024",
@@ -10035,9 +9929,9 @@
     "prosecuzioni": 6,
     "canale_prefettura": 7,
     "canale_ente_locale": 16,
-    "enti_gestori": 9,
-    "copertura_vincitore": 52.2,
-    "copertura_esito": 52.2
+    "enti_gestori": 10,
+    "copertura_vincitore": 69.6,
+    "copertura_esito": 69.6
    },
    "per_anno": {
     "2015": null,
@@ -10078,15 +9972,14 @@
      "affidamenti": 7,
      "quota_diretti": 71.4,
      "importo_mediano": 693569,
-     "enti_gestori": 4
+     "enti_gestori": 5
     },
     "2025": {
      "affidamenti": 5,
      "quota_diretti": 20.0,
      "importo_mediano": 5896550,
-     "enti_gestori": 1
-    },
-    "2026": null
+     "enti_gestori": 3
+    }
    },
    "anni_enti": [
     "2024",
@@ -10113,8 +10006,8 @@
     "canale_prefettura": 23,
     "canale_ente_locale": 43,
     "enti_gestori": 39,
-    "copertura_vincitore": 92.4,
-    "copertura_esito": 92.4
+    "copertura_vincitore": 95.5,
+    "copertura_esito": 95.5
    },
    "per_anno": {
     "2015": {
@@ -10163,7 +10056,7 @@
      "affidamenti": 5,
      "quota_diretti": 80.0,
      "importo_mediano": 130817,
-     "enti_gestori": 3
+     "enti_gestori": 4
     },
     "2023": {
      "affidamenti": 4,
@@ -10175,15 +10068,14 @@
      "affidamenti": 22,
      "quota_diretti": 90.9,
      "importo_mediano": 643500,
-     "enti_gestori": 19
+     "enti_gestori": 18
     },
     "2025": {
      "affidamenti": 7,
      "quota_diretti": 57.1,
      "importo_mediano": 14975,
-     "enti_gestori": 6
-    },
-    "2026": null
+     "enti_gestori": 7
+    }
    },
    "anni_enti": [
     "2024",
@@ -10209,7 +10101,7 @@
     "prosecuzioni": 3,
     "canale_prefettura": 59,
     "canale_ente_locale": 73,
-    "enti_gestori": 28,
+    "enti_gestori": 29,
     "copertura_vincitore": 94.7,
     "copertura_esito": 94.7
    },
@@ -10273,9 +10165,8 @@
      "affidamenti": 42,
      "quota_diretti": 95.2,
      "importo_mediano": 12200,
-     "enti_gestori": 11
-    },
-    "2026": null
+     "enti_gestori": 12
+    }
    },
    "anni_enti": [
     "2024",

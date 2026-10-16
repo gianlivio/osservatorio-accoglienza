@@ -157,9 +157,9 @@
    "prosecuzioni": 3,
    "canale_prefettura": 0,
    "canale_ente_locale": 11,
-   "enti_gestori": 7,
-   "copertura_vincitore": 72.7,
-   "copertura_esito": 72.7
+   "enti_gestori": 8,
+   "copertura_vincitore": 81.8,
+   "copertura_esito": 81.8
   },
   "2024": {
    "affidamenti": 38,
@@ -178,7 +178,7 @@
    "canale_prefettura": 8,
    "canale_ente_locale": 30,
    "enti_gestori": 24,
-   "copertura_vincitore": 92.1,
+   "copertura_vincitore": 94.7,
    "copertura_esito": 94.7
   },
   "2025": {
@@ -197,11 +197,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 6,
    "canale_ente_locale": 17,
-   "enti_gestori": 12,
+   "enti_gestori": 13,
    "copertura_vincitore": 82.6,
    "copertura_esito": 82.6
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-12": {
@@ -435,15 +434,11 @@
  },
  "top_enti": [
   {
-   "nome": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "nome": "NUOVA RICERCA - AGENZIA RES SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "affidamenti": 4
   },
   {
    "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 3
-  },
-  {
-   "nome": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
    "affidamenti": 3
   },
   {
@@ -452,6 +447,10 @@
   },
   {
    "nome": "LUBERTI BUS S.R.L.",
+   "affidamenti": 3
+  },
+  {
+   "nome": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
    "affidamenti": 3
   },
   {
@@ -467,11 +466,11 @@
    "affidamenti": 3
   },
   {
-   "nome": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
+   "nome": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
    "affidamenti": 2
   },
   {
-   "nome": "STUDIO LUCII & PARTNERS SOCIETA' A RESPONSABILITA' LIMITATA TRA PROFESSIONISTI",
+   "nome": "RUSSO SALVATORE",
    "affidamenti": 2
   }
  ],
@@ -500,11 +499,6 @@
    "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
    "ente": "H MUTA COOPERATIVA SOCIALE SOCIETA' COOPERATIVA PER AZIONI",
    "affidamenti_diretti": 3
-  },
-  {
-   "amministrazione": "COMUNE DI ANCONA",
-   "ente": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
-   "affidamenti_diretti": 3
   }
  ],
  "contratti": [
@@ -513,7 +507,7 @@
    "data": "2025-12-24",
    "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER MIGRANTI - LOTTO 1 - CATEGORIA MINORI COD. 551",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "ente": "A.N.O.L.F. ASSOCIAZIONE NAZ.LE OLTRE LE FRONTIERE - MARCHE",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -618,7 +612,7 @@
    "data": "2025-07-18",
    "oggetto": "U.O. IMMIGRAZIONE - GARA EUROPEA A PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO IN APPALTO DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA DEI MINORI STRANIERI NO",
    "amministrazione": "ASP AMBITO IX",
-   "ente": "FONDAZIONE OIKOS ENTE DEL TERZO SETTORE",
+   "ente": "NUOVA RICERCA - AGENZIA RES SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -648,7 +642,7 @@
    "data": "2025-06-30",
    "oggetto": "SECONDO CONTRATTO APPLICATIVO LOTTO 2 PROGETTO SAIA MIGRANTI",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "ente": "NUOVA RICERCA - AGENZIA RES SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -723,7 +717,7 @@
    "data": "2025-04-30",
    "oggetto": "AFFIDAMENTO PRIMO CONTRATTO ATTUATIVO - ADESIONE ACCORDO QUADRO LOTTO 2 ACCOGLIENZA INTEGRATA PER MIGRANTI CATEGORIA MINORI (COD. 552)CUP E31424000110001CUI S00351040423202400025",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "ente": "NUOVA RICERCA - AGENZIA RES SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -803,7 +797,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 4083.33,
-   "aggiudicato": 24500.0,
+   "aggiudicato": 4083.33,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -818,7 +812,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 4083.33,
-   "aggiudicato": 24500.0,
+   "aggiudicato": 4083.33,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -833,7 +827,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 16333.34,
-   "aggiudicato": 24500.0,
+   "aggiudicato": 16333.34,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -888,7 +882,7 @@
    "data": "2024-12-20",
    "oggetto": "LOTTO 2: ACCOGLIENZA INTEGRATA PER MIGRANTI - CATEGORIA MINORI (COD. 552)CUP E31424000110001CUI S00351040423202400025",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "ente": "NUOVA RICERCA - AGENZIA RES SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -1203,12 +1197,12 @@
    "data": "2024-06-27",
    "oggetto": "SERVIZIO INTERPRETARIATO A SUPPORTO CTR ANCONA",
    "amministrazione": "PREFETTURA DI ANCONA",
-   "ente": null,
+   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 402325.0,
-   "aggiudicato": null,
+   "aggiudicato": 256749.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1278,12 +1272,12 @@
    "data": "2024-05-07",
    "oggetto": "REVISORE CONTABILE INDIPENDENTE NELL'AMBITO DEI PROGETTI SAI 551 E 552",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": "STUDIO LUCII & PARTNERS SOCIETA' A RESPONSABILITA' LIMITATA TRA PROFESSIONISTI",
+   "ente": "RUSSO SALVATORE",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 148860.0,
-   "aggiudicato": 148860.0,
+   "aggiudicato": 29772.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1293,12 +1287,12 @@
    "data": "2024-05-07",
    "oggetto": "REVISORE CONTABILE INDIPENDENTE NELL'AMBITO DEI PROGETTI SAI 551 E 552",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": "STUDIO LUCII & PARTNERS SOCIETA' A RESPONSABILITA' LIMITATA TRA PROFESSIONISTI",
+   "ente": "RUSSO SALVATORE",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 148860.0,
-   "aggiudicato": 148860.0,
+   "aggiudicato": 29772.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1343,7 +1337,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 78375.0,
-   "aggiudicato": 78375.0,
+   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1473,12 +1467,12 @@
    "data": "2023-03-30",
    "oggetto": "AFFIDAMENTO DEI SERVIZI PER L'ACCOGLIENZA INTEGRATA PER MIGRANTI AFFERENTI AL PROGETTO ANCONA CITTÀ D'ASILO CATEGORIA MINORI COD.552",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": null,
+   "ente": "LABIRINTO COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 2767688.0,
-   "aggiudicato": null,
+   "aggiudicato": 2767688.0,
    "durata_gg": 731.0,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -1488,7 +1482,7 @@
    "data": "2023-03-30",
    "oggetto": "AFFIDAMENTO SERVIZI ACCOGLIENZA INTEGRATA DEI MIGRANTI AFFERENTI AL PROGETTO ANCONA CITTÀ D'ASILO CAT. ORDINARI COD. 551",
    "amministrazione": "COMUNE DI ANCONA",
-   "ente": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "ente": "COOSS MARCHE ONLUS SOC. COOP. P.A",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

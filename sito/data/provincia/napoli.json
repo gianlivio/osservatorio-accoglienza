@@ -158,7 +158,7 @@
    "prosecuzioni": 6,
    "canale_prefettura": 25,
    "canale_ente_locale": 42,
-   "enti_gestori": 25,
+   "enti_gestori": 24,
    "copertura_vincitore": 74.6,
    "copertura_esito": 83.6
   },
@@ -178,11 +178,10 @@
    "prosecuzioni": 9,
    "canale_prefettura": 26,
    "canale_ente_locale": 45,
-   "enti_gestori": 31,
-   "copertura_vincitore": 77.5,
-   "copertura_esito": 80.3
-  },
-  "2026": null
+   "enti_gestori": 35,
+   "copertura_vincitore": 84.5,
+   "copertura_esito": 88.7
+  }
  },
  "per_mese": {
   "2016-12": {
@@ -483,11 +482,15 @@
  "top_enti": [
   {
    "nome": "IL MIRTO COOPERATIVA SOCIALE",
-   "affidamenti": 9
+   "affidamenti": 10
   },
   {
    "nome": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 8
+  },
+  {
+   "nome": "SERVIZI ALRAIAN S.R.L.",
+   "affidamenti": 6
   },
   {
    "nome": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
@@ -507,18 +510,14 @@
   },
   {
    "nome": "DEMETRA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
-   "affidamenti": 5
-  },
-  {
-   "nome": "SERVIZI ALRAIAN S.R.L.",
-   "affidamenti": 5
+   "affidamenti": 4
   },
   {
    "nome": "CRESCERE INSIEME SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 4
   },
   {
-   "nome": "SENZA FRONTIERE S.R.L.",
+   "nome": "AGAPE S.R.L. IMPRESA SOCIALE",
    "affidamenti": 3
   }
  ],
@@ -675,12 +674,12 @@
    "data": "2025-12-18",
    "oggetto": "ACCOGLIENZA",
    "amministrazione": "COMUNE DI CASORIA",
-   "ente": null,
+   "ente": "EVENTI SOCIALI SOCIETA' COOPERATIVA SOCIALE A R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 7212765.34,
-   "aggiudicato": null,
+   "aggiudicato": 7212765.34,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -690,12 +689,12 @@
    "data": "2025-12-17",
    "oggetto": "SERVIZI SOCIALI SIA SAN GIORGIO A CREMANO",
    "amministrazione": "COMUNE DI SAN GIORGIO A CREMANO",
-   "ente": null,
+   "ente": "ARCI MEDITERRANEO IMPRESA SOCIALE S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 10875000.0,
-   "aggiudicato": null,
+   "aggiudicato": 10875000.0,
    "durata_gg": 1095.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -755,7 +754,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 1577073.76,
-   "aggiudicato": null,
+   "aggiudicato": 1577073.76,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -945,12 +944,12 @@
    "data": "2025-09-03",
    "oggetto": "ACCORDO QUADRO PROGETTO S.A.I. MSNA",
    "amministrazione": "COMUNE DI GIUGLIANO IN CAMPANIA",
-   "ente": null,
+   "ente": "IL MIRTO COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1636521.3,
-   "aggiudicato": null,
+   "aggiudicato": 1636521.3,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -960,12 +959,12 @@
    "data": "2025-08-21",
    "oggetto": "L'ENTE LOCALE, CITTÀ DI GIUGLIANO IN CAMPANIA, SI È INSERITO NELL'AMBITO DELLA PROGRAMMAZIONE DEL MINISTERO DELL'INTERNO – DIREZIONE CENTRALE DEI SERVIZI CIVILI PER L'IMMIGRAZIONE ",
    "amministrazione": "COMUNE DI GIUGLIANO IN CAMPANIA",
-   "ente": null,
+   "ente": "ELIOS COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 2439258.75,
-   "aggiudicato": null,
+   "aggiudicato": 2439258.75,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1080,12 +1079,12 @@
    "data": "2025-06-27",
    "oggetto": "PROCEDURA DI GARA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS. N. 36 2023, FINALIZZATA ALLA SELEZIONE DI PIU' OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO TRIENNALE PER L'",
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": null,
+   "ente": "SAN TOMMASO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 45943200.0,
-   "aggiudicato": null,
+   "aggiudicato": 2294167.35,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1860,12 +1859,12 @@
    "data": "2024-10-17",
    "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DELLE ATTIVITÀ DI ACCOGLIENZA INTEGRATA, SIA ORDINARIA SIA RELATIVO AMPLIAMENTO, NELL'AMBITO DELLA RETE SAI (SISTEMA ACCOGLIENZA INTEGRAZIONE) - 20",
    "amministrazione": "COMUNE DI NAPOLI",
-   "ente": "DAFNE - SOCIETA' COOPERATIVA SOCIALE A R.L. - ENTE DEL TERZO SETT ORE IN FORMA ABBREVIATA DAFNE SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "ente": "ARCI MEDITERRANEO IMPRESA SOCIALE S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 3256420.5,
-   "aggiudicato": 7119516.600000001,
+   "aggiudicato": 2373172.2,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1875,7 +1874,7 @@
    "data": "2024-10-09",
    "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA SELEZIONE DEL SOGGETTO ATTUATORE AI FINI DELL’AFFIDAMENTO, PER LA PROSECUZIONE, DEI SERVIZI DI ACCOGLIENZA, TUTELA, INTEGRAZIONE D",
    "amministrazione": "COMUNE DI PROCIDA",
-   "ente": "DEMETRA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "ente": "DAFNE - SOCIETA' COOPERATIVA SOCIALE A R.L. - ENTE DEL TERZO SETT ORE IN FORMA ABBREVIATA DAFNE SOCIETA' COOPERATIVA SOCIALE A R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -2055,12 +2054,12 @@
    "data": "2024-07-19",
    "oggetto": "GARA EUROPEA A PROCEDURA APERTA, AI SENSI DELL?ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PI� OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO TRIENNALE ",
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "SOCIET?? COOPERATIVA A.R.L. CRESCERE INSIEME",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 136685812.5,
-   "aggiudicato": 16981725.61,
+   "aggiudicato": 7281390.03,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2070,12 +2069,12 @@
    "data": "2024-07-19",
    "oggetto": "GARA EUROPEA A PROCEDURA APERTA, AI SENSI DELL?ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PI� OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO TRIENNALE ",
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "SENZA FRONTIERE S.R.L.",
+   "ente": "AGAPE S.R.L. IMPRESA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 115111837.5,
-   "aggiudicato": 15450483.84,
+   "aggiudicato": 2770304.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2090,7 +2089,7 @@
    "diretto": false,
    "modalita": "gara",
    "base": 91886400.0,
-   "aggiudicato": 10394841.709999999,
+   "aggiudicato": 2290842.7,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3120,7 +3119,7 @@
    "data": "2020-11-20",
    "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
    "amministrazione": "COMUNE DI SAN GIORGIO A CREMANO",
-   "ente": "ARCI NAPOLI",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE EVENTI SOCIALI",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

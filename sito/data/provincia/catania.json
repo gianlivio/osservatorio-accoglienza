@@ -179,10 +179,9 @@
    "canale_prefettura": 1,
    "canale_ente_locale": 10,
    "enti_gestori": 3,
-   "copertura_vincitore": 27.3,
-   "copertura_esito": 63.6
-  },
-  "2026": null
+   "copertura_vincitore": 36.4,
+   "copertura_esito": 72.7
+  }
  },
  "per_mese": {
   "2016-02": {
@@ -356,6 +355,10 @@
  },
  "top_enti": [
   {
+   "nome": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 2
+  },
+  {
    "nome": "SISTEMIA S.R.L.",
    "affidamenti": 1
   },
@@ -364,15 +367,11 @@
    "affidamenti": 1
   },
   {
-   "nome": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
-  },
-  {
    "nome": "CONFSERVIZI CISPEL SOCIETA' A RESPONSABILITA' LIMITATA",
    "affidamenti": 1
   },
   {
-   "nome": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE E DI SOLIDARIETA'",
+   "nome": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
    "affidamenti": 1
   }
  ],
@@ -413,12 +412,12 @@
    "data": "2025-11-17",
    "oggetto": "AFFIDAMENTO DEL SERVIZIO DI SECONDA ACCOGLIENZA PROGETTO SAI PROG- 1641-PR-2 (MSNA) – COMUNE DI RADDUSA (CT).",
    "amministrazione": "COMUNE DI RADDUSA",
-   "ente": null,
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1143618.65,
-   "aggiudicato": null,
+   "aggiudicato": 1143618.65,
    "durata_gg": 30.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -458,7 +457,7 @@
    "data": "2025-10-09",
    "oggetto": "INDIVIDUAZIONE DI ENTI ATTUATORI PER LA GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTEMA DI ACCOGLIENZA INTEGRATA (SAI) PER N. 73 MINORI STRANIER",
    "amministrazione": "COMUNE DI SCORDIA",
-   "ente": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE E DI SOLIDARIETA'",
+   "ente": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -773,7 +772,7 @@
    "data": "2023-02-15",
    "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA)",
    "amministrazione": "COMUNE DI VIZZINI",
-   "ente": "OPERA PROSSIMA SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -803,7 +802,7 @@
    "data": "2023-02-15",
    "oggetto": "ACCOGLIENZA DI CARATTERE ORDINARIO - SOGGETTI INSERITI NELLE RESTANTI CATEGORIE DI BENEFICIARI",
    "amministrazione": "COMUNE DI VIZZINI",
-   "ente": "OPERA PROSSIMA SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

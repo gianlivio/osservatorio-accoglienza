@@ -65,10 +65,9 @@
    "canale_prefettura": 22,
    "canale_ente_locale": 5,
    "enti_gestori": 7,
-   "copertura_vincitore": 70.4,
-   "copertura_esito": 70.4
-  },
-  "2026": null
+   "copertura_vincitore": 74.1,
+   "copertura_esito": 74.1
+  }
  },
  "per_mese": {
   "2022-12": {
@@ -152,12 +151,12 @@
  },
  "top_enti": [
   {
-   "nome": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "nome": "NIGHT&DAY SERVIZI ALLA PERSONA - COOPERATIVA SOCIALE",
    "affidamenti": 6
   },
   {
-   "nome": "NIGHT&DAY SERVIZI ALLA PERSONA - COOPERATIVA SOCIALE",
-   "affidamenti": 5
+   "nome": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "affidamenti": 6
   },
   {
    "nome": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
@@ -243,12 +242,12 @@
    "data": "2025-11-06",
    "oggetto": "ACCORDO QUADRO, AI SENSI DELL'ART.59 DEL D.LGS 36/2023 PER LA DURATA DI 36 MESI, MEDIANTE PROCEDURA APERTA, AI SENSI DELL'ART.71 DEL D.LGS 36/2023, PER L'AFFIDAMENTO DEL SERVIZIO D",
    "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
-   "ente": null,
+   "ente": "NIGHT&DAY SERVIZI ALLA PERSONA - COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 2020349.64,
-   "aggiudicato": null,
+   "aggiudicato": 1016614.48,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

@@ -140,11 +140,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 1,
    "canale_ente_locale": 3,
-   "enti_gestori": 2,
-   "copertura_vincitore": 75.0,
-   "copertura_esito": 75.0
-  },
-  "2026": null
+   "enti_gestori": 3,
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2016-03": {
@@ -244,6 +243,10 @@
   {
    "nome": "THE COUSINS SRL",
    "affidamenti": 2
+  },
+  {
+   "nome": "LEONE ROSSO SOCIETA'  COOPERATIVA SOCIALE",
+   "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [
@@ -279,12 +282,12 @@
    "data": "2025-06-24",
    "oggetto": "ACCORDO QUADRO MULTI OPERATORE AI SENSI DELL'ART.59 COMMA 4 LETT. A) D.LGS.N.36/2023 PER APPALTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI",
    "amministrazione": "PREFETTURA RIETI",
-   "ente": null,
+   "ente": "LEONE ROSSO SOCIETA'  COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 107460800.0,
-   "aggiudicato": null,
+   "aggiudicato": 4012179.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

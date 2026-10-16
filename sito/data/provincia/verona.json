@@ -158,7 +158,7 @@
    "prosecuzioni": 0,
    "canale_prefettura": 2,
    "canale_ente_locale": 6,
-   "enti_gestori": 5,
+   "enti_gestori": 4,
    "copertura_vincitore": 87.5,
    "copertura_esito": 87.5
   },
@@ -178,11 +178,10 @@
    "prosecuzioni": 2,
    "canale_prefettura": 12,
    "canale_ente_locale": 5,
-   "enti_gestori": 5,
-   "copertura_vincitore": 35.3,
-   "copertura_esito": 47.1
-  },
-  "2026": null
+   "enti_gestori": 7,
+   "copertura_vincitore": 58.8,
+   "copertura_esito": 64.7
+  }
  },
  "per_mese": {
   "2015-03": {
@@ -440,19 +439,23 @@
  },
  "top_enti": [
   {
+   "nome": "COOPERATIVA SOCIALE SERVIZI E ACCOGLIENZA - IL SAMARITANO ONLUS",
+   "affidamenti": 4
+  },
+  {
    "nome": "FONDAZIONE DON CALABRIA",
    "affidamenti": 3
   },
   {
-   "nome": "COOPERATIVA SOCIALE SERVIZI E ACCOGLIENZA - IL SAMARITANO ONLUS",
-   "affidamenti": 3
-  },
-  {
-   "nome": "A.CROSS ONLUS",
+   "nome": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 2
   },
   {
    "nome": "SAN MARCO SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 2
+  },
+  {
+   "nome": "IGEA SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   },
   {
@@ -460,7 +463,11 @@
    "affidamenti": 1
   },
   {
-   "nome": "HERMETE - COOPERATIVA SOCIALE",
+   "nome": "A.CROSS ONLUS",
+   "affidamenti": 1
+  },
+  {
+   "nome": "A.CROSS IMPRESA SOCIALE",
    "affidamenti": 1
   },
   {
@@ -605,12 +612,12 @@
    "data": "2025-03-11",
    "oggetto": "PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D. LGS. N. 36/2023 PER LA STIPULAZIONE DI UN ACCORDO QUADRO DELLA DURATA DI UN BIENNIO, RINNOVABILE DI 12 MESI, PER L'AFFIDAMENTO DEL SER",
    "amministrazione": "PREFETTURA DI VERONA",
-   "ente": null,
+   "ente": "SAN MARCO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "ND P1_20",
    "diretto": false,
    "modalita": "altro",
    "base": 3068754.6,
-   "aggiudicato": null,
+   "aggiudicato": 1818775.5,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -635,7 +642,7 @@
    "data": "2025-02-13",
    "oggetto": "SERVIZIO DI ACCOGLIENZA DEI PROFUGHI UCRAINI NELL'AREA DI ACCOGLIENZA SITA A LAZISE IN VIA DELLE COSTE N. 18 PER IL PERIODO DAL 19.04.2025 AL 31.12.2025 PER IL COMUNE DI LAZISE (VR",
    "amministrazione": "COMUNE DI LAZISE",
-   "ente": "A.CROSS ONLUS",
+   "ente": "A.CROSS IMPRESA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -680,12 +687,12 @@
    "data": "2025-01-20",
    "oggetto": "PROCEDURA APERTA PER STIPULAZIONE ACCORDO QUADRO SERVIZIO ACCOGLIENZA N. 900 MIGRANTI IN SINGOLE UNITA' ABITATIVE CON CAPIENZA MASSIMA DI 50 POSTI",
    "amministrazione": "PREFETTURA DI VERONA",
-   "ente": null,
+   "ente": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "ND P1_20",
    "diretto": false,
    "modalita": "altro",
    "base": 95154280.2,
-   "aggiudicato": null,
+   "aggiudicato": 3982614.225,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -695,12 +702,12 @@
    "data": "2025-01-20",
    "oggetto": "PROCEDURA APERTA PER STIPULAZIONE ACCORDO QUADRO SERVIZIO ACCOGLIENZA N. 650 MIGRANTI IN CENTRI COLLETTIVI DI ACCOGLIENZA CON CAPIENZA MASSIMA DI 50 POSTI",
    "amministrazione": "PREFETTURA DI VERONA",
-   "ente": null,
+   "ente": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 73547346.6,
-   "aggiudicato": null,
+   "aggiudicato": 3586108.32,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -710,7 +717,7 @@
    "data": "2025-01-15",
    "oggetto": "PROCEDURA APERTA PER LA STIPULAZIONE DI UN ACCORDO QUADRO PER LA GESTIONE DELL'ACCOGLIENZA DI N. 450 RICHIEDENTI LA PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI DA 51 A 100 POSTI",
    "amministrazione": "PREFETTURA DI VERONA",
-   "ente": null,
+   "ente": "SAN MARCO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -755,7 +762,7 @@
    "data": "2024-10-07",
    "oggetto": "SERVIZIO DI GESTIONE DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E PER MINORI STRANIERI NON ACCOMPAGNATI PER IL PERIODO 01.01.2025 - 31.12.2026.",
    "amministrazione": "COMUNE DI FUMANE",
-   "ente": "HERMETE - COOPERATIVA SOCIALE",
+   "ente": "COOPERATIVA SOCIALE SERVIZI E ACCOGLIENZA - IL SAMARITANO ONLUS",
    "procedura": "PROCEDURA DI GARA",
    "diretto": false,
    "modalita": "gara",
@@ -800,12 +807,12 @@
    "data": "2024-07-25",
    "oggetto": "SERVIZIO ACCOGLIENZA 315 RICHIEDENTI ASILO IN CENTRI COLLETTIVI FINO A 50 POSTI",
    "amministrazione": "PREFETTURA DI VERONA",
-   "ente": "SAN MARCO SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "IGEA SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 6442290.0,
-   "aggiudicato": 1303938.28,
+   "aggiudicato": 358250.73,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

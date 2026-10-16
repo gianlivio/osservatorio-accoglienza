@@ -181,8 +181,7 @@
    "enti_gestori": 16,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-01": {
@@ -366,10 +365,6 @@
    "affidamenti": 2
   },
   {
-   "nome": "REWI BAU SAS DI WINDEGGER ERWIN & C.",
-   "affidamenti": 2
-  },
-  {
    "nome": "ARO - STAENDIGES KONSORTIUM",
    "affidamenti": 2
   },
@@ -387,6 +382,10 @@
   },
   {
    "nome": "OSCAR DE IORIO",
+   "affidamenti": 1
+  },
+  {
+   "nome": "ASSOCIAZIONE TRAIT D'UNION",
    "affidamenti": 1
   }
  ],
@@ -712,7 +711,7 @@
    "data": "2024-10-04",
    "oggetto": "06.04_099.002_RR_VB - CENTRO DI TERAPIA RIABILITATIVA EX-PARKHOTEL - CASA NOAH (CENTRO PER RICHIEDENTI ASILO) - TESIMO - PRISSIANO 108 B - SPOSTAMENTO DELLA CONDOTTA PRINCIPALE ACQ",
    "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
-   "ente": "REWI BAU SAS DI WINDEGGER ERWIN & C.",
+   "ente": "REWI BAU SRL",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -937,7 +936,7 @@
    "data": "2021-10-21",
    "oggetto": "SERVIZIO SOCIALE MULTIZONALE PER PROFUGHI - ASSISTENZA UMANITARIA AL BRENNERO",
    "amministrazione": "BEZIRSGEMEINSCHAFT WIPPTAL",
-   "ente": "ASSOCIAZIONE  VOLONTARIUS",
+   "ente": "CARITAS DIOCESI BOLZANO-BRESSANONE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",

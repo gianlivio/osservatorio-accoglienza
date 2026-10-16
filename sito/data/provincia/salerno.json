@@ -137,9 +137,9 @@
    "prosecuzioni": 3,
    "canale_prefettura": 2,
    "canale_ente_locale": 7,
-   "enti_gestori": 1,
-   "copertura_vincitore": 22.2,
-   "copertura_esito": 22.2
+   "enti_gestori": 2,
+   "copertura_vincitore": 33.3,
+   "copertura_esito": 33.3
   },
   "2023": {
    "affidamenti": 25,
@@ -197,11 +197,10 @@
    "prosecuzioni": 4,
    "canale_prefettura": 37,
    "canale_ente_locale": 17,
-   "enti_gestori": 20,
-   "copertura_vincitore": 83.3,
-   "copertura_esito": 87.0
-  },
-  "2026": null
+   "enti_gestori": 21,
+   "copertura_vincitore": 85.2,
+   "copertura_esito": 88.9
+  }
  },
  "per_mese": {
   "2016-10": {
@@ -875,12 +874,12 @@
    "data": "2025-09-16",
    "oggetto": "PROCEDURA NEGOZIATA EX ART. 50, COMMA 1, LETT. E) DEL DSERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA",
    "amministrazione": "PREFETTURA",
-   "ente": null,
+   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 353485.0,
-   "aggiudicato": null,
+   "aggiudicato": 237799.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1115,7 +1114,7 @@
    "data": "2025-05-19",
    "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L'AMPLIAMENTO DI ULTERIORI 10 POSTI, NELL'AMBITO DEL COMUNE DI SANTOMENNA (SA), DELLE ATTIVITA' RELATIVE AI SERVI",
    "amministrazione": "COMUNE DI LACEDONIA",
-   "ente": "LA CITTA' DELLA LUNA COOPERATIVA SOCIALE",
+   "ente": "PROMETEO 82 SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -2360,12 +2359,12 @@
    "data": "2022-04-08",
    "oggetto": "ACCOGLIENZA NELL'AMBITO DELLA RETE SAI",
    "amministrazione": "COMUNE DI MAGLIANO VETERE",
-   "ente": null,
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 139000.0,
-   "aggiudicato": null,
+   "aggiudicato": 139000.0,
    "durata_gg": 220.0,
    "da_accordo": false,
    "confidenza": "certa"

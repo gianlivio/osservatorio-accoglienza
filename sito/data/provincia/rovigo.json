@@ -178,11 +178,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 8,
    "canale_ente_locale": 0,
-   "enti_gestori": 2,
-   "copertura_vincitore": 75.0,
-   "copertura_esito": 75.0
-  },
-  "2026": null
+   "enti_gestori": 3,
+   "copertura_vincitore": 87.5,
+   "copertura_esito": 87.5
+  }
  },
  "per_mese": {
   "2016-02": {
@@ -403,7 +402,7 @@
   },
   {
    "nome": "LE ORME COOPERATIVA SOCIALE ONLUS",
-   "affidamenti": 5
+   "affidamenti": 6
   },
   {
    "nome": "PETER PAN GROUP COOPERATIVA SOCIALE",
@@ -435,12 +434,12 @@
    "data": "2025-10-22",
    "oggetto": "ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
    "amministrazione": "PREFETTURA DI ROVIGO",
-   "ente": null,
+   "ente": "LE ORME COOPERATIVA SOCIALE ONLUS",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 657000.0,
-   "aggiudicato": null,
+   "aggiudicato": 657000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

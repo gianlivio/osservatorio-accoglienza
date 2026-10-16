@@ -121,11 +121,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 5,
    "canale_ente_locale": 0,
-   "enti_gestori": 2,
-   "copertura_vincitore": 40.0,
-   "copertura_esito": 40.0
-  },
-  "2026": null
+   "enti_gestori": 3,
+   "copertura_vincitore": 80.0,
+   "copertura_esito": 80.0
+  }
  },
  "per_mese": {
   "2017-05": {
@@ -222,10 +221,14 @@
  "top_enti": [
   {
    "nome": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
+   "affidamenti": 2
   },
   {
    "nome": "ARCI APS",
+   "affidamenti": 1
+  },
+  {
+   "nome": "ABRUZZO RENT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
    "affidamenti": 1
   }
  ],
@@ -236,12 +239,12 @@
    "data": "2025-09-04",
    "oggetto": "GARA EUROPEA A PROCEDURA APERTA VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIER",
    "amministrazione": "PREFETTURA DI TERAMO",
-   "ente": null,
+   "ente": "ABRUZZO RENT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 58802184.0,
-   "aggiudicato": null,
+   "aggiudicato": 32700000.0,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -251,12 +254,12 @@
    "data": "2025-09-04",
    "oggetto": "GARA EUROPEA A PROCEDURA APERTA VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIER",
    "amministrazione": "PREFETTURA DI TERAMO",
-   "ente": null,
+   "ente": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 62076955.5,
-   "aggiudicato": null,
+   "aggiudicato": 52739156.4,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"

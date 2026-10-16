@@ -178,11 +178,10 @@
    "prosecuzioni": 1,
    "canale_prefettura": 6,
    "canale_ente_locale": 7,
-   "enti_gestori": 5,
-   "copertura_vincitore": 76.9,
-   "copertura_esito": 76.9
-  },
-  "2026": null
+   "enti_gestori": 8,
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2015-08": {
@@ -356,6 +355,18 @@
    "affidamenti": 2
   },
   {
+   "nome": "AMAN SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 1
+  },
+  {
+   "nome": "EUROWUNDER S.R.L.",
+   "affidamenti": 1
+  },
+  {
+   "nome": "COOPERATIVA SERVIZI SOCIALI DI PRODUZIONE E LAVORO - COOPERATIVA SOCIALE - SOCIETA' COOPERATIVA",
+   "affidamenti": 1
+  },
+  {
    "nome": "GAY CENTER",
    "affidamenti": 1
   },
@@ -497,12 +508,12 @@
    "data": "2025-03-28",
    "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE CON CAPACITÀ RICETTIVA FINO A 50 POSTI",
    "amministrazione": "PREFETTURA DI CAGLIARI UTG",
-   "ente": null,
+   "ente": "AMAN SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 21385350.0,
-   "aggiudicato": null,
+   "aggiudicato": 2889978.75,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -512,12 +523,12 @@
    "data": "2025-03-28",
    "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA CENTRI COLLETTIVI CON CAPACITÀ RICETTIVA FINO A 50 POSTI",
    "amministrazione": "PREFETTURA DI CAGLIARI UTG",
-   "ente": null,
+   "ente": "EUROWUNDER S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 41115060.0,
-   "aggiudicato": null,
+   "aggiudicato": 3440216.25,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -527,12 +538,12 @@
    "data": "2025-03-28",
    "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA CENTRI COLLETTIVI CON CAPACITÀ RICETTIVA DA 51 A 100 POSTI",
    "amministrazione": "PREFETTURA DI CAGLIARI UTG",
-   "ente": null,
+   "ente": "COOPERATIVA SERVIZI SOCIALI DI PRODUZIONE E LAVORO - COOPERATIVA SOCIALE - SOCIETA' COOPERATIVA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 20805000.0,
-   "aggiudicato": null,
+   "aggiudicato": 8816529.38,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

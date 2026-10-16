@@ -158,9 +158,9 @@
    "prosecuzioni": 13,
    "canale_prefettura": 0,
    "canale_ente_locale": 37,
-   "enti_gestori": 16,
-   "copertura_vincitore": 45.9,
-   "copertura_esito": 64.9
+   "enti_gestori": 17,
+   "copertura_vincitore": 48.6,
+   "copertura_esito": 67.6
   },
   "2025": {
    "affidamenti": 18,
@@ -178,11 +178,10 @@
    "prosecuzioni": 4,
    "canale_prefettura": 0,
    "canale_ente_locale": 18,
-   "enti_gestori": 8,
-   "copertura_vincitore": 72.2,
-   "copertura_esito": 72.2
-  },
-  "2026": null
+   "enti_gestori": 9,
+   "copertura_vincitore": 77.8,
+   "copertura_esito": 77.8
+  }
  },
  "per_mese": {
   "2016-02": {
@@ -484,6 +483,10 @@
    "affidamenti": 2
   },
   {
+   "nome": "STRADE DI CASA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "affidamenti": 2
+  },
+  {
    "nome": "CENTRO DI SOLIDARIETA' IL DELFINO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
    "affidamenti": 2
   },
@@ -509,10 +512,6 @@
   },
   {
    "nome": "IOELE FRANCESCO",
-   "affidamenti": 1
-  },
-  {
-   "nome": "EMANUELE MILITERNO",
    "affidamenti": 1
   }
  ],
@@ -763,12 +762,12 @@
    "data": "2025-02-17",
    "oggetto": "PROCEDURA NEGOZIATA SENZA BANDO PER SERVIZI DI IMPORTO SUPERIORE A 140.000 EURO E INFERIORE A 1 MILIONE DI EURO (ART. 50 COMMA 1 LETT. E) DECRETO LEGISLATIVO 31 MARZO 2023, N. 36) ",
    "amministrazione": "COMUNE DI CERISANO",
-   "ente": null,
+   "ente": "STRADE DI CASA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
    "base": 275220.0,
-   "aggiudicato": null,
+   "aggiudicato": 275222.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -883,12 +882,12 @@
    "data": "2024-11-05",
    "oggetto": "LAVORI DI COMPLETAMENTO DEL RECUPERO E RISTRUTTURAZIONE PALAZZO MARCHIANÒ DA ADIBIRE AD ALLOGGI DESTINATI ALL' ACCOGLIENZA DI MIGRANTI E PROFUGHI IN FUGA DALLE GUERRE",
    "amministrazione": "CENTRALE UNICA DI COMMITTENZA ARBERIA",
-   "ente": null,
+   "ente": "COS.IN.CAL S.R.L.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 493226.19,
-   "aggiudicato": null,
+   "aggiudicato": 376889.27,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

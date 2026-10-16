@@ -178,11 +178,10 @@
    "prosecuzioni": 0,
    "canale_prefettura": 2,
    "canale_ente_locale": 1,
-   "enti_gestori": 2,
-   "copertura_vincitore": 66.7,
-   "copertura_esito": 66.7
-  },
-  "2026": null
+   "enti_gestori": 3,
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
+  }
  },
  "per_mese": {
   "2017-05": {
@@ -320,6 +319,10 @@
    "affidamenti": 1
   },
   {
+   "nome": "CASCINASSA SOCIETA' A RESPONSABILITA' LIMITATA",
+   "affidamenti": 1
+  },
+  {
    "nome": "AMALTEA SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   }
@@ -352,12 +355,12 @@
    "data": "2025-07-08",
    "oggetto": "PROCEDURA APERTA, AI SENSI DEGLI ARTT 70 E 71 DEL DECRETO LEGISLATIVO N. 362023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE E FUNZIONAMENTO DE",
    "amministrazione": "PREFETTURA DI VERCELLI",
-   "ente": null,
+   "ente": "CASCINASSA SOCIETA' A RESPONSABILITA' LIMITATA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 9628335.0,
-   "aggiudicato": null,
+   "aggiudicato": 5349075.0,
    "durata_gg": 36.0,
    "da_accordo": false,
    "confidenza": "certa"

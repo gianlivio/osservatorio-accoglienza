@@ -198,10 +198,9 @@
    "canale_prefettura": 9,
    "canale_ente_locale": 8,
    "enti_gestori": 9,
-   "copertura_vincitore": 76.5,
+   "copertura_vincitore": 82.4,
    "copertura_esito": 88.2
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-09": {
@@ -430,11 +429,11 @@
  "top_enti": [
   {
    "nome": "ARCISOLIDARIETA' ORA D'ARIA ONLUS",
-   "affidamenti": 10
+   "affidamenti": 12
   },
   {
    "nome": "FONDAZIONE ARCA DEL MEDITERRANEO ONLUS",
-   "affidamenti": 3
+   "affidamenti": 2
   },
   {
    "nome": "SALVATORE CALACIURA",
@@ -465,7 +464,7 @@
    "affidamenti": 1
   },
   {
-   "nome": "CONSORZIO DI COOPERATIVE L'ARCOLAIO - COOPERATIVA SOCIALE",
+   "nome": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
    "affidamenti": 1
   }
  ],
@@ -551,7 +550,7 @@
    "data": "2025-05-16",
    "oggetto": "PROCEDURA TELEMATICA APERTA SVOLTA IN ATTIVITÀ DI COMMITTENZA AUSILIARIA DAL COMUNE DI CASTIGLIONE DEL LAGO EX ART 62, COMMA 5, LETT. C), COMMA 6 D.LGS 36/2023 PER L'AFFIDAMENTO DE",
    "amministrazione": "COMUNE DI MAGIONE",
-   "ente": "CONSORZIO DI COOPERATIVE L'ARCOLAIO - COOPERATIVA SOCIALE",
+   "ente": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -701,7 +700,7 @@
    "data": "2025-01-31",
    "oggetto": "LOTTO 1",
    "amministrazione": "PREFETTURA DI PERUGIA",
-   "ente": null,
+   "ente": "ARCISOLIDARIETA' ORA D'ARIA ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -791,7 +790,7 @@
    "data": "2024-08-01",
    "oggetto": "L'APPALTO HA PER OGGETTO L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE A FAVORE DI TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA SAI, PER COMPLESSIVI 39 ",
    "amministrazione": "COMUNE DI FOLIGNO",
-   "ente": "FONDAZIONE ARCA DEL MEDITERRANEO ONLUS",
+   "ente": "ARCISOLIDARIETA' ORA D'ARIA ONLUS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

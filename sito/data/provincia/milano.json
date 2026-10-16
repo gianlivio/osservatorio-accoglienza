@@ -156,9 +156,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 1,
    "canale_ente_locale": 51,
-   "enti_gestori": 24,
-   "copertura_vincitore": 63.5,
-   "copertura_esito": 63.5
+   "enti_gestori": 23,
+   "copertura_vincitore": 69.2,
+   "copertura_esito": 69.2
   },
   "2023": {
    "affidamenti": 33,
@@ -176,9 +176,9 @@
    "prosecuzioni": 2,
    "canale_prefettura": 8,
    "canale_ente_locale": 25,
-   "enti_gestori": 8,
-   "copertura_vincitore": 42.4,
-   "copertura_esito": 45.5
+   "enti_gestori": 9,
+   "copertura_vincitore": 48.5,
+   "copertura_esito": 48.5
   },
   "2024": {
    "affidamenti": 48,
@@ -218,9 +218,8 @@
    "canale_ente_locale": 18,
    "enti_gestori": 14,
    "copertura_vincitore": 73.9,
-   "copertura_esito": 82.6
-  },
-  "2026": null
+   "copertura_esito": 87.0
+  }
  },
  "per_mese": {
   "2015-01": {
@@ -1143,7 +1142,7 @@
    "diretto": false,
    "modalita": "negoziata",
    "base": 285000.0,
-   "aggiudicato": null,
+   "aggiudicato": 285000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1918,7 +1917,7 @@
    "data": "2023-12-29",
    "oggetto": "L'AFFIDAMENTO E LA GESTIONE DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DEI PROFUGHI UCRAINI PRESSO I CENTRI DI ACCOGLIENZA STRAORDINARIA (CAS) UBICATI ALL'INTERNO DELL'AMBITO TERRITORIA",
    "amministrazione": "COMUNE DI CESANO BOSCONE",
-   "ente": null,
+   "ente": "IL MELOGRANO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
    "diretto": false,
    "modalita": "negoziata",
@@ -2008,7 +2007,7 @@
    "data": "2023-10-24",
    "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE E ORGANIZZAZIONE DI N. 46 POSTI DI ACCOGLIENZA RIVOLTI A PERSONE DESTINATARIE DEGLI INTERVENTI DEL SISTEMA SAI AI S",
    "amministrazione": "COMUNI INSIEME PER LO SVILUPPO SOCIALE AZ.SPEC.CONSORTILE",
-   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "ente": "CONSORZIO FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -2368,12 +2367,12 @@
    "data": "2023-02-14",
    "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA CASCINA BARNASSINA L'AIRONE LA FENICE - GENNAIO-MARZO 2023",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 82000.0,
-   "aggiudicato": null,
+   "aggiudicato": 73000.0,
    "durata_gg": 90.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2458,12 +2457,12 @@
    "data": "2022-11-08",
    "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - FABER SOCIETÀ COOPERATIVA SOCIALE - OTTOBRE-DICEMBRE 2022",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "FABER SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 80000.0,
-   "aggiudicato": null,
+   "aggiudicato": 66666.67,
    "durata_gg": 92.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2503,12 +2502,12 @@
    "data": "2022-07-26",
    "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - FABER SOCIETÀ COOPERATIVA SOCIALE - LUGLIO-SETTEMBRE 2022",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "FABER SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 90000.0,
-   "aggiudicato": null,
+   "aggiudicato": 90000.0,
    "durata_gg": 92.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -2578,12 +2577,12 @@
    "data": "2022-04-12",
    "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - FABER SOCIETÀ COOPERATIVA SOCIALE - APRILE-GIUGNO 2022",
    "amministrazione": "COMUNE DI NOVARA",
-   "ente": null,
+   "ente": "FABER SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 88000.0,
-   "aggiudicato": null,
+   "aggiudicato": 88000.0,
    "durata_gg": 91.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -3148,7 +3147,7 @@
    "data": "2022-02-11",
    "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA E ASSISTENZA DEI MIGRANTI UCRAINI GIUNTI SUL TERRITORIO NAZIONALE",
    "amministrazione": "COMUNE DI PESCHIERA BORROMEO",
-   "ente": "FUORILUOGHI SCS ONLUS",
+   "ente": "IL MELOGRANO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
    "diretto": true,
    "modalita": "diretto",

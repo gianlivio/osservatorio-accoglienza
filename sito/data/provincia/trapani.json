@@ -219,8 +219,7 @@
    "enti_gestori": 0,
    "copertura_vincitore": 0.0,
    "copertura_esito": 0.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2015-01": {
@@ -596,7 +595,7 @@
    "diretto": false,
    "modalita": "negoziata",
    "base": 747048.0,
-   "aggiudicato": 1473328.07,
+   "aggiudicato": 739577.52,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -891,7 +890,7 @@
    "data": "2023-05-12",
    "oggetto": "AFFIDAMENTO PROSECUZIONE, PER IL PERIODO DAL 1^ LUGLIO 2023 AL 31 DICEMBRE 2025, DEL PROGETTO DI ACCOGLIENZA INTEGRATA E TUTELA NELL'AMBITO DEL SISTEMA SAI - MSNA, FINANZIATA CON D",
    "amministrazione": "COMUNE DI MARSALA",
-   "ente": "LIBERI D'INTRECCIARE SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "L'ARCA SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",

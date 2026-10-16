@@ -216,11 +216,10 @@
    "prosecuzioni": 2,
    "canale_prefettura": 8,
    "canale_ente_locale": 16,
-   "enti_gestori": 9,
-   "copertura_vincitore": 87.5,
-   "copertura_esito": 87.5
-  },
-  "2026": null
+   "enti_gestori": 10,
+   "copertura_vincitore": 95.8,
+   "copertura_esito": 95.8
+  }
  },
  "per_mese": {
   "2015-01": {
@@ -505,15 +504,15 @@
   },
   {
    "nome": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
-   "affidamenti": 5
+   "affidamenti": 7
+  },
+  {
+   "nome": "IL MANTELLO COOPERATIVA SOCIALE ARL",
+   "affidamenti": 4
   },
   {
    "nome": "ASSOCIAZIONE PORTA APERTA",
    "affidamenti": 4
-  },
-  {
-   "nome": "IL MANTELLO COOPERATIVA SOCIALE ARL",
-   "affidamenti": 3
   },
   {
    "nome": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
@@ -524,19 +523,24 @@
    "affidamenti": 3
   },
   {
+   "nome": "CENTRO SOCIALE PAPA GIOVANNI XXIII SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S. ABBREVIABILE IN CENTRO SOCIALE PAPA GIOVANNI XXIII SCS - ONLUS",
+   "affidamenti": 2
+  },
+  {
    "nome": "DOMUS ASSISTENZA SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE CALEIDOS A R.L.",
    "affidamenti": 1
-  },
-  {
-   "nome": "CENTRO SOCIALE PAPA GIOVANNI XXIII SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S. ABBREVIABILE IN CENTRO SOCIALE PAPA GIOVANNI XXIII SCS - ONLUS",
-   "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [
+  {
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
+   "affidamenti_diretti": 7
+  },
   {
    "amministrazione": "UNIONE DELLE TERRE D ARGINE",
    "ente": "CALEIDOS COOPERATIVA SOCIALE ONLUS",
@@ -545,11 +549,6 @@
   {
    "amministrazione": "PREFETTURA U.T.G. DI MODENA",
    "ente": "CONSORZIO GRUPPO CEIS COOPERATIVA SOCIALE",
-   "affidamenti_diretti": 6
-  },
-  {
-   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
-   "ente": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
    "affidamenti_diretti": 5
   },
   {
@@ -564,6 +563,11 @@
   },
   {
    "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "IL MANTELLO COOPERATIVA SOCIALE ARL",
+   "affidamenti_diretti": 4
+  },
+  {
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
    "ente": "ASSOCIAZIONE PORTA APERTA",
    "affidamenti_diretti": 4
   },
@@ -571,11 +575,6 @@
    "amministrazione": "COMUNE DI MODENA",
    "ente": "CALEIDOS COOPERATIVA SOCIALE ONLUS",
    "affidamenti_diretti": 4
-  },
-  {
-   "amministrazione": "COMUNE DI MIRANDOLA",
-   "ente": "CALEIDOS COOPERATIVA SOCIALE ONLUS",
-   "affidamenti_diretti": 3
   }
  ],
  "contratti": [
@@ -629,12 +628,12 @@
    "data": "2025-10-23",
    "oggetto": "AFFIDAMENTO DI SERVIZI ATTI A FAVORIRE L'INTEGRAZIONE DEI CITTADINI STRANIERI E L'INCLUSIONE SOCIALE DELLA POPOLAZIONE E DELLE ATTIVITÀ DEL CENTRO SERVIZI DISTRETTUALE PER IL CONTR",
    "amministrazione": "UNIONE COMUNI DEL SORBARA",
-   "ente": null,
+   "ente": "CONSORZIO GRUPPO CEIS COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 1164061.0,
-   "aggiudicato": null,
+   "aggiudicato": 1039099.6,
    "durata_gg": 1095.0,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -644,12 +643,12 @@
    "data": "2025-10-22",
    "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE PER MINORI STRANIERI NON ACCOMPAGNATI",
    "amministrazione": "COMUNE DI MODENA",
-   "ente": null,
+   "ente": "FONDAZIONE SAN FILIPPO NERI",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 6750215.0,
-   "aggiudicato": null,
+   "aggiudicato": 6748922.9,
    "durata_gg": 365.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -769,7 +768,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 6561240.0,
-   "aggiudicato": 12503831.28,
+   "aggiudicato": 6561240.0,
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "certa"
@@ -784,7 +783,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 3279590.7,
-   "aggiudicato": 12503831.28,
+   "aggiudicato": 3279590.7,
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "certa"
@@ -794,12 +793,12 @@
    "data": "2025-02-19",
    "oggetto": "ANGOLO - SERVIZIO ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN STRUTTURE COSTITUITE DA SINGOLE UNITA' ABITATIVE",
    "amministrazione": "PREFETTURA U.T.G. DI MODENA",
-   "ente": "COMUNITÀ L’ANGOLO COOPERATIVA SOCIALE ARL",
+   "ente": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 19679488.92,
-   "aggiudicato": 12503831.28,
+   "aggiudicato": 19679488.92,
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "certa"
@@ -844,7 +843,7 @@
    "diretto": true,
    "modalita": "diretto",
    "base": 13119011.04,
-   "aggiudicato": 12503831.28,
+   "aggiudicato": 13119011.04,
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "certa"
@@ -854,7 +853,7 @@
    "data": "2025-02-19",
    "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN STRUTTURE COSTITUITE DA CENTRI COLLETTIVI",
    "amministrazione": "PREFETTURA U.T.G. DI MODENA",
-   "ente": "COMUNITÀ L’ANGOLO COOPERATIVA SOCIALE ARL,",
+   "ente": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -959,7 +958,7 @@
    "data": "2024-12-31",
    "oggetto": "SERVIZIO DI SEGRETARIATO SOCIALE",
    "amministrazione": "UNIONE COMUNI MODENESI AREA NORD",
-   "ente": "GAFGA SOCIETA' COOPERATIVA SOCIALE IN SIGLA GAFGA SOC. COOP. SOC.",
+   "ente": "IL MIRTO COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -1064,7 +1063,7 @@
    "data": "2024-10-17",
    "oggetto": "PROROGA SERVIZIO ACCOGLIENZA MIGRANTI -1.10.2024-30.11.2024 PAPA GIOVANNI",
    "amministrazione": "PREFETTURA U.T.G. DI MODENA",
-   "ente": "CENTRO SOCIALE PAPA GIOVANNI XXIII SOCIETA’ COOPERATIVA SOCIALE",
+   "ente": "CENTRO SOCIALE PAPA GIOVANNI XXIII SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S. ABBREVIABILE IN CENTRO SOCIALE PAPA GIOVANNI XXIII SCS - ONLUS",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -1559,12 +1558,12 @@
    "data": "2024-04-02",
    "oggetto": "PROROGA SERVIZIO ACCOGLIENZA MIGRANTI VARI OPERATORI",
    "amministrazione": "PREFETTURA U.T.G. DI MODENA",
-   "ente": "CONSORZIO GRUPPO CEIS COOPERATIVA SOCIALE",
+   "ente": "IL MANTELLO COOPERATIVA SOCIALE ARL",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 743126.3999999999,
-   "aggiudicato": 743126.3999999999,
+   "aggiudicato": 27523.2,
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "probabile"

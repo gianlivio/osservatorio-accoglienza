@@ -197,11 +197,10 @@
    "prosecuzioni": 6,
    "canale_prefettura": 18,
    "canale_ente_locale": 3,
-   "enti_gestori": 8,
-   "copertura_vincitore": 61.9,
-   "copertura_esito": 71.4
-  },
-  "2026": null
+   "enti_gestori": 9,
+   "copertura_vincitore": 66.7,
+   "copertura_esito": 76.2
+  }
  },
  "per_mese": {
   "2015-07": {
@@ -425,11 +424,11 @@
    "affidamenti": 1
   },
   {
-   "nome": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "nome": "TERRE SOLIDALI SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
    "affidamenti": 1
   },
   {
-   "nome": "MADONNA DELLA CARITA' - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "nome": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
    "affidamenti": 1
   }
  ],
@@ -551,12 +550,12 @@
    "data": "2025-05-15",
    "oggetto": "GARA CENTRI COLLETTIVI PER MIGRANTI RIMINI",
    "amministrazione": "PREFETTURA DI RIMINI",
-   "ente": null,
+   "ente": "TERRE SOLIDALI SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 56574882.0,
-   "aggiudicato": null,
+   "aggiudicato": 447880.8,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

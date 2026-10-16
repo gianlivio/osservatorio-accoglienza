@@ -138,9 +138,9 @@
    "prosecuzioni": 4,
    "canale_prefettura": 2,
    "canale_ente_locale": 10,
-   "enti_gestori": 2,
-   "copertura_vincitore": 25.0,
-   "copertura_esito": 25.0
+   "enti_gestori": 3,
+   "copertura_vincitore": 33.3,
+   "copertura_esito": 33.3
   },
   "2024": {
    "affidamenti": 12,
@@ -159,8 +159,8 @@
    "canale_prefettura": 1,
    "canale_ente_locale": 11,
    "enti_gestori": 8,
-   "copertura_vincitore": 91.7,
-   "copertura_esito": 91.7
+   "copertura_vincitore": 100.0,
+   "copertura_esito": 100.0
   },
   "2025": {
    "affidamenti": 16,
@@ -178,11 +178,10 @@
    "prosecuzioni": 4,
    "canale_prefettura": 1,
    "canale_ente_locale": 15,
-   "enti_gestori": 7,
-   "copertura_vincitore": 43.8,
-   "copertura_esito": 43.8
-  },
-  "2026": null
+   "enti_gestori": 10,
+   "copertura_vincitore": 62.5,
+   "copertura_esito": 62.5
+  }
  },
  "per_mese": {
   "2016-01": {
@@ -486,6 +485,14 @@
    "affidamenti": 4
   },
   {
+   "nome": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 3
+  },
+  {
+   "nome": "EXODUS CALABRIA - SOCIETA' COOPERATIVA SOCIALE",
+   "affidamenti": 2
+  },
+  {
    "nome": "MAGRO S.R.L.",
    "affidamenti": 1
   },
@@ -498,10 +505,6 @@
    "affidamenti": 1
   },
   {
-   "nome": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
-  },
-  {
    "nome": "WORK - SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "affidamenti": 1
   },
@@ -510,15 +513,11 @@
    "affidamenti": 1
   },
   {
-   "nome": "EXODUS CALABRIA - SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
-  },
-  {
    "nome": "DR LEONARDO CORBINI",
    "affidamenti": 1
   },
   {
-   "nome": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "nome": "ARCI REGGIO CALABRIA APS",
    "affidamenti": 1
   }
  ],
@@ -535,12 +534,12 @@
    "data": "2025-12-16",
    "oggetto": "P.A. PER CONTO DEL COMUNE DI CINQUEFRONDI. AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA ED INTEGRAZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE PROGETTO SAI CAT. ORDINARI PROG-228-PR-",
    "amministrazione": "COMUNE DI CINQUEFRONDI",
-   "ente": null,
+   "ente": "SANKARA SOCIETA'  COOPERATIVA",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 376401.28,
-   "aggiudicato": null,
+   "aggiudicato": 360000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -595,12 +594,12 @@
    "data": "2025-08-12",
    "oggetto": "RECUPERO DI EDIFICI RESIDENZIALI NEL CENTRO STORICO DI FERRUZZANO",
    "amministrazione": "COMUNE DI FERRUZZANO",
-   "ente": null,
+   "ente": "RONDINELLI GIUSEPPE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 228827.79,
-   "aggiudicato": null,
+   "aggiudicato": 153417.1,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -610,12 +609,12 @@
    "data": "2025-07-25",
    "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO GESTORE PER LA PROSECUZIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO E IN PROTEZIONE INTERNAZIONALE NELL'AMBITO ",
    "amministrazione": "COMUNE DI BRANCALEONE",
-   "ente": null,
+   "ente": "EXODUS CALABRIA - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 466842.3,
-   "aggiudicato": null,
+   "aggiudicato": 466842.3,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -685,7 +684,7 @@
    "data": "2025-05-08",
    "oggetto": "SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO RELATIVA AL FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO, PERIODO 01/06/2025 - 31/12/2025 (PRO",
    "amministrazione": "COMUNE DI SEMINARA",
-   "ente": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "ente": "ARCI REGGIO CALABRIA APS",
    "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
    "diretto": false,
    "modalita": "gara",
@@ -820,7 +819,7 @@
    "data": "2024-09-10",
    "oggetto": "<P><STRONG>GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO E IN PROTEZIONE INTERNAZIONALE - PROGETTO TERRITORIALE ADERENTE AL SISTEMA DI PRO",
    "amministrazione": "COMUNE DI SANT ILARIO DEL JONIO",
-   "ente": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
+   "ente": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
@@ -940,12 +939,12 @@
    "data": "2024-01-24",
    "oggetto": "PER LA INDIVIDUAZIONE DI UN SOGGETTO PER L'AFFIDAMENTO DELLA GESTIONE ED ORGANIZZAZIONE DEI SERVIZI DI ACCOGLIENZA PER TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA",
    "amministrazione": "COMUNE DI CAMINI",
-   "ente": null,
+   "ente": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 2848595.44,
-   "aggiudicato": null,
+   "aggiudicato": 2848595.44,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1000,12 +999,12 @@
    "data": "2023-10-30",
    "oggetto": "AFFIDAMENTO DELL'ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA IN FAVORE DEI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) SAI EX SIPROIMI - TRIENNIO 2023-",
    "amministrazione": "COMUNE DI BENESTARE",
-   "ente": null,
+   "ente": "SOCIETA' COOPERATIVA PATHOS",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 3979535.18,
-   "aggiudicato": null,
+   "aggiudicato": 3979535.18,
    "durata_gg": 1095.0,
    "da_accordo": false,
    "confidenza": "certa"

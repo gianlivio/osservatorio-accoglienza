@@ -162,8 +162,7 @@
    "enti_gestori": 8,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2016-12": {
@@ -449,11 +448,11 @@
    "affidamenti": 8
   },
   {
-   "nome": "CROCE ROSSA ITALIANA ODV",
-   "affidamenti": 8
+   "nome": "IL FAGGIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "affidamenti": 7
   },
   {
-   "nome": "IL FAGGIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "nome": "CROCE ROSSA ITALIANA ODV",
    "affidamenti": 7
   },
   {
@@ -504,7 +503,7 @@
   {
    "amministrazione": "COMUNE DI VENTIMIGLIA",
    "ente": "CROCE ROSSA ITALIANA ODV",
-   "affidamenti_diretti": 4
+   "affidamenti_diretti": 3
   }
  ],
  "contratti": [
@@ -618,7 +617,7 @@
    "data": "2025-04-28",
    "oggetto": "SERVIZIO DI MESSA IN SICUREZZA IN ESTREMA EMERGENZA DI MINORI STRANIERI NON ACCOMPAGNATI",
    "amministrazione": "COMUNE DI VENTIMIGLIA",
-   "ente": "CROCE ROSSA ITALIANA ODV",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI VENTIMIGLIA",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
@@ -663,7 +662,7 @@
    "data": "2025-02-13",
    "oggetto": "COLLOCAZIONE MINORI STRANIERI NON ACCOMPAGNATI IN COMUNITÀ EDUCATIVA",
    "amministrazione": "COMUNE DI VENTIMIGLIA",
-   "ente": "NUOVI ORIZZONTI SOCIETÀ COOPERATIVA SOCIALE",
+   "ente": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",

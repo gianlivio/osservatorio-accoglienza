@@ -80,9 +80,9 @@
    "prosecuzioni": 1,
    "canale_prefettura": 2,
    "canale_ente_locale": 2,
-   "enti_gestori": 2,
-   "copertura_vincitore": 50.0,
-   "copertura_esito": 50.0
+   "enti_gestori": 3,
+   "copertura_vincitore": 75.0,
+   "copertura_esito": 75.0
   },
   "2023": {
    "affidamenti": 5,
@@ -100,9 +100,9 @@
    "prosecuzioni": 0,
    "canale_prefettura": 5,
    "canale_ente_locale": 0,
-   "enti_gestori": 0,
-   "copertura_vincitore": 0.0,
-   "copertura_esito": 0.0
+   "enti_gestori": 3,
+   "copertura_vincitore": 80.0,
+   "copertura_esito": 80.0
   },
   "2024": {
    "affidamenti": 1,
@@ -143,8 +143,7 @@
    "enti_gestori": 3,
    "copertura_vincitore": 80.0,
    "copertura_esito": 80.0
-  },
-  "2026": null
+  }
  },
  "per_mese": {
   "2018-02": {
@@ -379,12 +378,12 @@
    "data": "2023-09-19",
    "oggetto": "SERVIZIO PRIMA ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN COMPENDIO DEMANIALE",
    "amministrazione": "PREFETTURA DI ASTI",
-   "ente": null,
+   "ente": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI ASTI",
    "procedura": "AFFIDAMENTO DIRETTO",
    "diretto": true,
    "modalita": "diretto",
    "base": 275400.0,
-   "aggiudicato": null,
+   "aggiudicato": 275400.0,
    "durata_gg": 90.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -394,12 +393,12 @@
    "data": "2023-06-30",
    "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
    "amministrazione": "PREFETTURA DI ASTI",
-   "ente": null,
+   "ente": "FENICE COOPERATIVA SOCIALE - E.T.S.",
    "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
    "diretto": false,
    "modalita": "negoziata",
    "base": 541562.5,
-   "aggiudicato": null,
+   "aggiudicato": 498237.0,
    "durata_gg": 365.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -409,12 +408,12 @@
    "data": "2023-04-12",
    "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN UNITA' ABITATIVE",
    "amministrazione": "PREFETTURA DI ASTI",
-   "ente": null,
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 375891.6,
-   "aggiudicato": null,
+   "aggiudicato": 375891.0,
    "durata_gg": 365.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -424,12 +423,12 @@
    "data": "2023-04-07",
    "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN UNITA' ABITATIVE",
    "amministrazione": "PREFETTURA DI ASTI",
-   "ente": null,
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
    "diretto": true,
    "modalita": "diretto",
    "base": 874950.0,
-   "aggiudicato": null,
+   "aggiudicato": 874950.0,
    "durata_gg": 365.0,
    "da_accordo": false,
    "confidenza": "certa"
@@ -484,12 +483,12 @@
    "data": "2022-07-12",
    "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN UNITA' ABITATIVE",
    "amministrazione": "PREFETTURA DI ASTI",
-   "ente": null,
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "PROCEDURA APERTA",
    "diretto": false,
    "modalita": "gara",
    "base": 4196040.0,
-   "aggiudicato": null,
+   "aggiudicato": 4196040.0,
    "durata_gg": 730.0,
    "da_accordo": false,
    "confidenza": "certa"
