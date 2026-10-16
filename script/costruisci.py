@@ -39,7 +39,10 @@ cig = {r["cig"] for r in righe}
 def archivi(completo):
     """Aggiornamenti mensili ANAC (AAAAMMGG-nome.zip) dal più recente, poi il file completo."""
     cartella, nome = os.path.split(completo)
-    return sorted(glob.glob(os.path.join(cartella, f"2*-{nome}")), reverse=True) + [completo]
+    with zipfile.ZipFile(completo) as z:  # data del file completo: gli aggiornamenti anteriori sono già inclusi
+        data_completo = "%04d%02d%02d" % z.infolist()[0].date_time[:3]
+    nuovi = [f for f in glob.glob(os.path.join(cartella, f"2*-{nome}")) if os.path.basename(f)[:8] > data_completo]
+    return sorted(nuovi, reverse=True) + [completo]
 
 def scorri(percorsi, chiavi):
     trovati = {}  # vale la prima occorrenza: l'archivio più recente prevale

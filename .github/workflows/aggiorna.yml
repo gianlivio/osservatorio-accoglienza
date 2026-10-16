@@ -2,7 +2,7 @@ name: Promemoria aggiornamento mensile
 
 on:
   schedule:
-    - cron: "0 6 2 * *"   # il 2 di ogni mese
+    - cron: "0 6 25 * *"   # il 25: ANAC pubblica gli aggiornamenti mensili tra il 2 e il 22
   workflow_dispatch: {}
 
 permissions:
@@ -17,36 +17,32 @@ jobs:
         with:
           script: |
             const oggi = new Date();
+            const am = `${oggi.getFullYear()}${String(oggi.getMonth() + 1).padStart(2, "0")}`;
             const scorso = new Date(oggi.getFullYear(), oggi.getMonth() - 1, 1);
             const a = scorso.getFullYear();
             const m = String(scorso.getMonth() + 1).padStart(2, "0");
-            const titolo = `Aggiornamento dati: scarica il mese ${a}-${m}`;
+            const base = "https://dati.anticorruzione.it/opendata/download/dataset";
+            const titolo = `Aggiornamento dati ANAC: ${am.slice(0, 4)}-${am.slice(4)}`;
             const corpo = [
-              `È il momento di aggiornare l'archivio con i contratti del mese **${a}-${m}**.`,
+              `È il momento di aggiornare l'archivio con le pubblicazioni ANAC del mese.`,
               ``,
-              `ANAC non permette il download automatico dai server (blocca gli IP esteri), quindi l'aggiornamento va lanciato dal tuo computer. Sono cinque minuti.`,
+              `ANAC non permette il download automatico dai server (blocca gli IP esteri), quindi l'aggiornamento va lanciato dal tuo computer.`,
               ``,
-              `Apri il Terminale e incolla questo blocco:`,
+              `Il blocco scarica gli aggiornamenti mensili di aggiudicazioni e aggiudicatari e i file CIG del ${a} fino a ${a}-${m} non ancora in archivio, se ANAC li ha pubblicati. Un file non ancora pubblicato viene segnalato e saltato. Apri il Terminale e incolla:`,
               ``,
               "```bash",
               `cd ~/osservatorio`,
-              `curl -fL -C - --retry 5 -o dati-grezzi/cig_csv_${a}_${m}.zip \\`,
-              `  "https://dati.anticorruzione.it/opendata/download/dataset/cig-${a}/filesystem/cig_csv_${a}_${m}.zip"`,
-              `curl -fL --retry 5 -o dati-grezzi/aggiudicazioni_csv.zip \\`,
-              `  "https://dati.anticorruzione.it/opendata/download/dataset/aggiudicazioni/filesystem/aggiudicazioni_csv.zip"`,
-              `curl -fL --retry 5 -o dati-grezzi/aggiudicatari_csv.zip \\`,
-              `  "https://dati.anticorruzione.it/opendata/download/dataset/aggiudicatari/filesystem/aggiudicatari_csv.zip"`,
-              `unzip -o dati-grezzi/cig_csv_${a}_${m}.zip -d dati-grezzi/`,
-              `python3 script/estrai2.py dati-grezzi/cig_csv_${a}_${m}.csv`,
-              `mv accoglienza_${a}_${m}.csv output/`,
-              `rm dati-grezzi/cig_csv_${a}_${m}.csv`,
+              `for d in aggiudicazioni aggiudicatari; do curl -fL --retry 5 -o dati-grezzi/${am}01-$d"_csv.zip" "${base}/$d/filesystem/${am}01-$d"_csv.zip" || { echo "manca ${am}01-$d"; rm -f dati-grezzi/${am}01-$d"_csv.zip"; }; done`,
+              `for mm in $(seq -w 1 ${m}); do [ -f output/accoglienza_${a}_$mm.csv ] && continue; if curl -sfL --retry 5 -o dati-grezzi/cig_csv_${a}_$mm.zip "${base}/cig-${a}/filesystem/cig_csv_${a}_$mm.zip"; then unzip -o dati-grezzi/cig_csv_${a}_$mm.zip -d dati-grezzi/ && python3 script/estrai2.py dati-grezzi/cig_csv_${a}_$mm.csv && mv accoglienza_${a}_$mm.csv output/ && rm dati-grezzi/cig_csv_${a}_$mm.csv; else echo "CIG ${a}-$mm non ancora pubblicato"; rm -f dati-grezzi/cig_csv_${a}_$mm.zip; fi; done`,
               `python3 script/costruisci.py`,
-              `git add output/accoglienza_${a}_${m}.csv sito/data/province-lite.json sito/data/provincia/`,
-              `git commit -m "Dati ANAC ${a}-${m}"`,
+              `git add output sito/data`,
+              `git commit -m "Dati ANAC ${am.slice(0, 4)}-${am.slice(4)}"`,
               `git push`,
               "```",
               ``,
-              `Dopo il push, Vercel ridistribuisce da solo. Tra qualche minuto i nuovi contratti di ${a}-${m} sono visibili su https://osservatorioaccoglienza.org`,
+              `Se \`git commit\` risponde che non c'è nulla da salvare, ANAC non ha pubblicato niente di nuovo: chiudi la issue.`,
+              ``,
+              `Dopo il push Vercel ridistribuisce da solo: https://osservatorioaccoglienza.org`,
               ``,
               `Quando hai finito, chiudi questa issue.`,
             ].join("\n");
