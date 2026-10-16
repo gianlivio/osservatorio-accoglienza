@@ -41,7 +41,7 @@ jobs:
               `mv accoglienza_${a}_${m}.csv output/`,
               `rm dati-grezzi/cig_csv_${a}_${m}.csv`,
               `python3 script/costruisci.py`,
-              `git add output/accoglienza_${a}_${m}.csv sito/data/province.json`,
+              `git add output/accoglienza_${a}_${m}.csv sito/data/province-lite.json sito/data/provincia/`,
               `git commit -m "Dati ANAC ${a}-${m}"`,
               `git push`,
               "```",
