@@ -35,11 +35,19 @@ print(f"righe caricate: {len(righe):,}")
 cig = {r["cig"] for r in righe}
 
 # --- 2. una sola passata su ciascun archivio --------------------------------
+def data_zip(percorso):
+    with zipfile.ZipFile(percorso) as z:
+        return "%04d%02d%02d" % z.infolist()[0].date_time[:3]
+
+def data_archivi(percorsi):
+    """Data più recente (AAAA-MM-GG) fra gli archivi letti: dal nome per gli aggiornamenti, dallo zip per il completo."""
+    d = max(os.path.basename(f)[:8] if os.path.basename(f)[:1] == "2" else data_zip(f) for f in percorsi)
+    return f"{d[:4]}-{d[4:6]}-{d[6:]}"
+
 def archivi(completo):
     """Aggiornamenti mensili ANAC (AAAAMMGG-nome.zip) dal più recente, poi il file completo."""
     cartella, nome = os.path.split(completo)
-    with zipfile.ZipFile(completo) as z:  # data del file completo: gli aggiornamenti anteriori sono già inclusi
-        data_completo = "%04d%02d%02d" % z.infolist()[0].date_time[:3]
+    data_completo = data_zip(completo)  # gli aggiornamenti anteriori sono già inclusi
     nuovi = [f for f in glob.glob(os.path.join(cartella, f"2*-{nome}")) if os.path.basename(f)[:8] > data_completo]
     return sorted(nuovi, reverse=True) + [completo]
 
@@ -60,14 +68,16 @@ def scorri(percorsi, chiavi):
     return trovati
 
 print("lettura aggiudicazioni...")
-agg = scorri(archivi(Z_AGG), {"importo_aggiudicazione": "importo_aggiudicazione",
+arch_agg = archivi(Z_AGG)
+agg = scorri(arch_agg, {"importo_aggiudicazione": "importo_aggiudicazione",
                      "ribasso": "ribasso_aggiudicazione",
                      "criterio": "criterio_aggiudicazione",
                      "n_offerte": "numero_offerte_ammesse"})
 print(f"  {len(agg):,} aggiudicazioni")
 
 print("lettura aggiudicatari...")
-vin = scorri(archivi(Z_VIN), {"vincitore": "denominazione",
+arch_vin = archivi(Z_VIN)
+vin = scorri(arch_vin, {"vincitore": "denominazione",
                      "cf_vincitore": "codice_fiscale",
                      "tipo_soggetto": "tipo_soggetto"})
 print(f"  {len(vin):,} aggiudicatari")
@@ -218,6 +228,7 @@ dati = {
         for big in [[r for r in rr if (num(r["importo_lotto"], 0) or 0) >= 40000]]
     ],
     "anni_esito": sorted(ANNI_ESITO),
+    "aggiornato": max(data_archivi(arch_agg), data_archivi(arch_vin)),
     "amministrazioni": len({r["cf_amministrazione_appaltante"] for r in righe if r["cf_amministrazione_appaltante"]}),
 }
 
