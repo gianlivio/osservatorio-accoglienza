@@ -17,7 +17,6 @@ function cerca(indice: Voce[], testo: string) {
     if (!parole.every((p) => v.chiave.includes(p))) continue;
     const inizio = v.chiave.startsWith(parole[0]) ? 0 : v.chiave.includes(" " + parole[0]) ? 1 : 2;
     trovate.push({ v, punti: inizio });
-    if (trovate.length > 400) break;
   }
   return trovate.sort((a, b) => a.punti - b.punti).slice(0, MAX).map((t) => t.v);
 }
@@ -37,8 +36,8 @@ export default function Ricerca() {
     if (caricamento.current) return;
     caricamento.current = true;
     fetch("/ricerca.json")
-      .then((r) => r.json() as Promise<[string, string][]>)
-      .then((voci) => setIndice(voci.map(([nome, percorso]) => ({ nome, percorso, chiave: normalizza(nome) }))))
+      .then((r) => r.json() as Promise<[string, string, string?][]>)
+      .then((voci) => setIndice(voci.map(([nome, percorso, luoghi]) => ({ nome, percorso, chiave: normalizza(`${nome} ${luoghi ?? ""}`) }))))
       .catch(() => { caricamento.current = false; setErrore(true); });
   }
 
