@@ -3,9 +3,8 @@
 import csv, glob, os, re, json, html, zipfile, io, collections, statistics, unicodedata
 
 csv.field_size_limit(10_000_000)
-import datetime
 ANNI   = sorted({os.path.basename(f)[12:16] for f in glob.glob("output/accoglienza_*_[01]*.csv")})  # solo anni con estratti
-ANNI_ESITO = {str(a) for a in range(2024, datetime.date.today().year + 1)}  # esiti attendibili dal 2024
+ANNI_ESITO = {a for a in ANNI if a >= "2024"}  # esiti attendibili dal 2024
 SOGLIA = 140000
 Z_AGG  = "dati-grezzi/aggiudicazioni_csv.zip"
 Z_VIN  = "dati-grezzi/aggiudicatari_csv.zip"
