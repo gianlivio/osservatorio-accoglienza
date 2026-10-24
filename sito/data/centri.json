@@ -1,0 +1,9833 @@
+{
+ "fonte": "Centri d'Italia (ActionAid e Openpolis)",
+ "url": "https://centriditalia.it",
+ "licenza": "CC BY 4.0",
+ "anni": [
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024"
+ ],
+ "rilevazioni_cas": {
+  "2018": "2018-12-31",
+  "2019": "2019-12-31",
+  "2020": "2020-12-31",
+  "2021": "2021-12-31",
+  "2022": "2022-12-31",
+  "2023": "2023-12-31",
+  "2024": "2024-12-31"
+ },
+ "rilevazioni_sai": {
+  "2018": "2018-12-31",
+  "2019": "2019-12-31",
+  "2020": "2020-07-03",
+  "2021": "2021-12-31",
+  "2022": "2022-12-31",
+  "2023": "2023-12-31",
+  "2024": "2024-12-31"
+ },
+ "rilevazioni_sai_scartate": {
+  "2022": [
+   "2022-07-18"
+  ],
+  "2023": [
+   "2023-09-19"
+  ]
+ },
+ "province": {
+  "AGRIGENTO": {
+   "2018": {
+    "cas": {
+     "centri": 17,
+     "capienza": 688,
+     "presenze": 635,
+     "costo_mediano": 30.0
+    },
+    "sai": {
+     "strutture": 77,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 17,
+     "capienza": 986,
+     "presenze": 250,
+     "costo_mediano": 30.0
+    },
+    "sai": {
+     "strutture": 77,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 16,
+     "capienza": 996,
+     "presenze": 451,
+     "costo_mediano": 25.25
+    },
+    "sai": {
+     "strutture": 74,
+     "capienza": 609,
+     "presenze": 364
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 24,
+     "capienza": 1015,
+     "presenze": 604,
+     "costo_mediano": 20.63
+    },
+    "sai": {
+     "strutture": 69,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 19,
+     "capienza": 1181,
+     "presenze": 2288,
+     "costo_mediano": 20.22
+    },
+    "sai": {
+     "strutture": 81,
+     "capienza": 799,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 15,
+     "capienza": 1215,
+     "presenze": 1341,
+     "costo_mediano": 24.17
+    },
+    "sai": {
+     "strutture": 96,
+     "capienza": 925,
+     "presenze": 722
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 18,
+     "capienza": 1570,
+     "presenze": 1096,
+     "costo_mediano": 26.24
+    },
+    "sai": {
+     "strutture": 92,
+     "capienza": 908,
+     "presenze": 784
+    }
+   }
+  },
+  "ALESSANDRIA": {
+   "2018": {
+    "cas": {
+     "centri": 135,
+     "capienza": 1643,
+     "presenze": 1358,
+     "costo_mediano": 34.5
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 183,
+     "capienza": 2081,
+     "presenze": 944,
+     "costo_mediano": 18.85
+    },
+    "sai": {
+     "strutture": 42,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 201,
+     "capienza": 994,
+     "presenze": 783,
+     "costo_mediano": 18.83
+    },
+    "sai": {
+     "strutture": 42,
+     "capienza": 188,
+     "presenze": 122
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 78,
+     "capienza": 817,
+     "presenze": 634,
+     "costo_mediano": 18.57
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 89,
+     "capienza": 936,
+     "presenze": 884,
+     "costo_mediano": 27.77
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 141,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 95,
+     "capienza": 1123,
+     "presenze": 1251,
+     "costo_mediano": 28.36
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 153,
+     "presenze": 126
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 76,
+     "capienza": 1187,
+     "presenze": 1120,
+     "costo_mediano": 26.1
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 153,
+     "presenze": 135
+    }
+   }
+  },
+  "ANCONA": {
+   "2018": {
+    "cas": {
+     "centri": 123,
+     "capienza": 1034,
+     "presenze": 849,
+     "costo_mediano": 33.06
+    },
+    "sai": {
+     "strutture": 119,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 127,
+     "capienza": 1066,
+     "presenze": 676,
+     "costo_mediano": 33.06
+    },
+    "sai": {
+     "strutture": 139,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 101,
+     "capienza": 688,
+     "presenze": 648,
+     "costo_mediano": 31.56
+    },
+    "sai": {
+     "strutture": 144,
+     "capienza": 744,
+     "presenze": 539
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 96,
+     "capienza": 772,
+     "presenze": 716,
+     "costo_mediano": 31.71
+    },
+    "sai": {
+     "strutture": 140,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 93,
+     "capienza": 927,
+     "presenze": 858,
+     "costo_mediano": 31.17
+    },
+    "sai": {
+     "strutture": 149,
+     "capienza": 760,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 87,
+     "capienza": 971,
+     "presenze": 909,
+     "costo_mediano": 31.17
+    },
+    "sai": {
+     "strutture": 184,
+     "capienza": 936,
+     "presenze": 655
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 84,
+     "capienza": 941,
+     "presenze": 860,
+     "costo_mediano": 32.39
+    },
+    "sai": {
+     "strutture": 184,
+     "capienza": 932,
+     "presenze": 816
+    }
+   }
+  },
+  "AOSTA": {
+   "2018": {
+    "cas": {
+     "centri": 44,
+     "capienza": 343,
+     "presenze": 231,
+     "costo_mediano": 36.02
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 42,
+     "capienza": 329,
+     "presenze": 120,
+     "costo_mediano": 33.92
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 22,
+     "capienza": 64,
+     "presenze": 56,
+     "costo_mediano": 33.91
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 25,
+     "presenze": 21
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 16,
+     "capienza": 86,
+     "presenze": 45,
+     "costo_mediano": 33.92
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 27,
+     "capienza": 110,
+     "presenze": 100,
+     "costo_mediano": 32.04
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 37,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 28,
+     "capienza": 117,
+     "presenze": 105,
+     "costo_mediano": 32.04
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 37,
+     "presenze": 34
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 28,
+     "capienza": 117,
+     "presenze": 106,
+     "costo_mediano": 32.04
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 37,
+     "presenze": 35
+    }
+   }
+  },
+  "AREZZO": {
+   "2018": {
+    "cas": {
+     "centri": 145,
+     "capienza": 1145,
+     "presenze": 807,
+     "costo_mediano": 35.65
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 134,
+     "capienza": 1060,
+     "presenze": 420,
+     "costo_mediano": 21.4
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 103,
+     "capienza": 280,
+     "presenze": 270,
+     "costo_mediano": 22.5
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": 80,
+     "presenze": 59
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 59,
+     "capienza": 267,
+     "presenze": 257,
+     "costo_mediano": 27.98
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 47,
+     "capienza": 371,
+     "presenze": 371,
+     "costo_mediano": 28.33
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 109,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 63,
+     "capienza": 595,
+     "presenze": 693,
+     "costo_mediano": 28.19
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 113,
+     "presenze": 91
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 81,
+     "capienza": 786,
+     "presenze": 746,
+     "costo_mediano": 28.08
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 113,
+     "presenze": 94
+    }
+   }
+  },
+  "ASCOLI PICENO": {
+   "2018": {
+    "cas": {
+     "centri": 45,
+     "capienza": 508,
+     "presenze": 351,
+     "costo_mediano": 34.63
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 37,
+     "capienza": 377,
+     "presenze": 179,
+     "costo_mediano": 34.63
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 11,
+     "capienza": 123,
+     "presenze": 100,
+     "costo_mediano": 21.31
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 97,
+     "presenze": 64
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 12,
+     "capienza": 129,
+     "presenze": 124,
+     "costo_mediano": 28.44
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 10,
+     "capienza": 140,
+     "presenze": 172,
+     "costo_mediano": 28.44
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 115,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 25,
+     "capienza": 235,
+     "presenze": 306,
+     "costo_mediano": 29.15
+    },
+    "sai": {
+     "strutture": 23,
+     "capienza": 144,
+     "presenze": 122
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 23,
+     "capienza": 275,
+     "presenze": 232,
+     "costo_mediano": 24.96
+    },
+    "sai": {
+     "strutture": 24,
+     "capienza": 150,
+     "presenze": 131
+    }
+   }
+  },
+  "ASTI": {
+   "2018": {
+    "cas": {
+     "centri": 93,
+     "capienza": 970,
+     "presenze": 816,
+     "costo_mediano": 34.65
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 90,
+     "capienza": 960,
+     "presenze": 561,
+     "costo_mediano": 34.65
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 64,
+     "capienza": 578,
+     "presenze": 479,
+     "costo_mediano": 26.55
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": 188,
+     "presenze": 165
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 48,
+     "capienza": 733,
+     "presenze": 688,
+     "costo_mediano": 25.57
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 78,
+     "capienza": 973,
+     "presenze": 973,
+     "costo_mediano": 25.57
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 220,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 73,
+     "capienza": 955,
+     "presenze": 955,
+     "costo_mediano": 25.57
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": 224,
+     "presenze": 189
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 72,
+     "capienza": 977,
+     "presenze": 909,
+     "costo_mediano": 26.8
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": 224,
+     "presenze": 181
+    }
+   }
+  },
+  "AVELLINO": {
+   "2018": {
+    "cas": {
+     "centri": 70,
+     "capienza": 2248,
+     "presenze": 1028,
+     "costo_mediano": 34.83
+    },
+    "sai": {
+     "strutture": 42,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 42,
+     "capienza": 1332,
+     "presenze": 454,
+     "costo_mediano": 24.15
+    },
+    "sai": {
+     "strutture": 58,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 19,
+     "capienza": 476,
+     "presenze": 372,
+     "costo_mediano": 25.5
+    },
+    "sai": {
+     "strutture": 62,
+     "capienza": 467,
+     "presenze": 231
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 23,
+     "capienza": 445,
+     "presenze": 371,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 67,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 16,
+     "capienza": 438,
+     "presenze": 416,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 107,
+     "capienza": 700,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 27,
+     "capienza": 975,
+     "presenze": 948,
+     "costo_mediano": 27.0
+    },
+    "sai": {
+     "strutture": 164,
+     "capienza": 1029,
+     "presenze": 811
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 24,
+     "capienza": 800,
+     "presenze": 765,
+     "costo_mediano": 27.0
+    },
+    "sai": {
+     "strutture": 166,
+     "capienza": 1038,
+     "presenze": 856
+    }
+   }
+  },
+  "BARI": {
+   "2018": {
+    "cas": {
+     "centri": 2,
+     "capienza": 855,
+     "presenze": 585,
+     "costo_mediano": 21.38
+    },
+    "sai": {
+     "strutture": 76,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 2,
+     "capienza": 825,
+     "presenze": 655,
+     "costo_mediano": 21.38
+    },
+    "sai": {
+     "strutture": 85,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 1,
+     "capienza": 640,
+     "presenze": 587,
+     "costo_mediano": 8.87
+    },
+    "sai": {
+     "strutture": 87,
+     "capienza": 697,
+     "presenze": 320
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 2,
+     "capienza": 720,
+     "presenze": 616,
+     "costo_mediano": 21.01
+    },
+    "sai": {
+     "strutture": 88,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 5,
+     "capienza": 735,
+     "presenze": 700,
+     "costo_mediano": 33.16
+    },
+    "sai": {
+     "strutture": 92,
+     "capienza": 709,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 4,
+     "capienza": 884,
+     "presenze": 1578,
+     "costo_mediano": 30.33
+    },
+    "sai": {
+     "strutture": 115,
+     "capienza": 888,
+     "presenze": 681
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 3,
+     "capienza": 762,
+     "presenze": 1006,
+     "costo_mediano": 27.19
+    },
+    "sai": {
+     "strutture": 119,
+     "capienza": 900,
+     "presenze": 704
+    }
+   }
+  },
+  "BARLETTA-ANDRIA-TRANI": {
+   "2018": {
+    "cas": {
+     "centri": 23,
+     "capienza": 892,
+     "presenze": 493,
+     "costo_mediano": 36.15
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 14,
+     "capienza": 419,
+     "presenze": 128,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 8,
+     "capienza": 145,
+     "presenze": 62,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 140,
+     "presenze": 57
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 5,
+     "capienza": 115,
+     "presenze": 93,
+     "costo_mediano": 28.29
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 7,
+     "capienza": 95,
+     "presenze": 94,
+     "costo_mediano": 29.18
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 191,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 10,
+     "capienza": 244,
+     "presenze": 275,
+     "costo_mediano": 31.82
+    },
+    "sai": {
+     "strutture": 24,
+     "capienza": 224,
+     "presenze": 129
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 10,
+     "capienza": 244,
+     "presenze": 280,
+     "costo_mediano": 33.05
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": 229,
+     "presenze": 141
+    }
+   }
+  },
+  "BELLUNO": {
+   "2018": {
+    "cas": {
+     "centri": 64,
+     "capienza": 633,
+     "presenze": 367,
+     "costo_mediano": 35.65
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 48,
+     "capienza": 472,
+     "presenze": 152,
+     "costo_mediano": 22.4
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 25,
+     "capienza": 108,
+     "presenze": 10,
+     "costo_mediano": 22.4
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 18,
+     "presenze": 18
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 10,
+     "capienza": 97,
+     "presenze": 84,
+     "costo_mediano": 27.58
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 13,
+     "capienza": 194,
+     "presenze": 196,
+     "costo_mediano": 32.44
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": 15,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 18,
+     "capienza": 311,
+     "presenze": 299,
+     "costo_mediano": 32.3
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": 15,
+     "presenze": 17
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 20,
+     "capienza": 327,
+     "presenze": 283,
+     "costo_mediano": 28.86
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": 18,
+     "presenze": 17
+    }
+   }
+  },
+  "BENEVENTO": {
+   "2018": {
+    "cas": {
+     "centri": 76,
+     "capienza": 2959,
+     "presenze": 1068,
+     "costo_mediano": 36.93
+    },
+    "sai": {
+     "strutture": 50,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 53,
+     "capienza": 1900,
+     "presenze": 638,
+     "costo_mediano": 36.7
+    },
+    "sai": {
+     "strutture": 68,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 30,
+     "capienza": 628,
+     "presenze": 476,
+     "costo_mediano": 33.54
+    },
+    "sai": {
+     "strutture": 66,
+     "capienza": 446,
+     "presenze": 247
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 25,
+     "capienza": 379,
+     "presenze": 289,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 68,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 20,
+     "capienza": 532,
+     "presenze": 500,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 73,
+     "capienza": 467,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 20,
+     "capienza": 532,
+     "presenze": 508,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 85,
+     "capienza": 543,
+     "presenze": 420
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 30,
+     "capienza": 857,
+     "presenze": 734,
+     "costo_mediano": 25.08
+    },
+    "sai": {
+     "strutture": 81,
+     "capienza": 515,
+     "presenze": 430
+    }
+   }
+  },
+  "BERGAMO": {
+   "2018": {
+    "cas": {
+     "centri": 113,
+     "capienza": 2318,
+     "presenze": 1586,
+     "costo_mediano": 36.75
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 101,
+     "capienza": 1756,
+     "presenze": 869,
+     "costo_mediano": 22.99
+    },
+    "sai": {
+     "strutture": 45,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 54,
+     "capienza": 915,
+     "presenze": 568,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 45,
+     "capienza": 193,
+     "presenze": 149
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 55,
+     "capienza": 472,
+     "presenze": 423,
+     "costo_mediano": 20.49
+    },
+    "sai": {
+     "strutture": 46,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 15,
+     "capienza": 90,
+     "presenze": 90,
+     "costo_mediano": 29.79
+    },
+    "sai": {
+     "strutture": 43,
+     "capienza": 198,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 33,
+     "capienza": 618,
+     "presenze": 802,
+     "costo_mediano": 32.5
+    },
+    "sai": {
+     "strutture": 56,
+     "capienza": 252,
+     "presenze": 183
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 29,
+     "capienza": 879,
+     "presenze": 896,
+     "costo_mediano": 30.61
+    },
+    "sai": {
+     "strutture": 55,
+     "capienza": 248,
+     "presenze": 201
+    }
+   }
+  },
+  "BIELLA": {
+   "2018": {
+    "cas": {
+     "centri": 29,
+     "capienza": 475,
+     "presenze": 376,
+     "costo_mediano": 35.49
+    },
+    "sai": {
+     "strutture": 29,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 29,
+     "capienza": 455,
+     "presenze": 240,
+     "costo_mediano": 20.78
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 23,
+     "capienza": 259,
+     "presenze": 224,
+     "costo_mediano": 20.78
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 121,
+     "presenze": 73
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 24,
+     "capienza": 292,
+     "presenze": 273,
+     "costo_mediano": 28.22
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 35,
+     "capienza": 367,
+     "presenze": 327,
+     "costo_mediano": 28.22
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 106,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 43,
+     "capienza": 572,
+     "presenze": 515,
+     "costo_mediano": 31.81
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 113,
+     "presenze": 101
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 45,
+     "capienza": 596,
+     "presenze": 522,
+     "costo_mediano": 38.43
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 113,
+     "presenze": 100
+    }
+   }
+  },
+  "BOLOGNA": {
+   "2018": {
+    "cas": {
+     "centri": 98,
+     "capienza": 1595,
+     "presenze": 1039,
+     "costo_mediano": 34.82
+    },
+    "sai": {
+     "strutture": 160,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 74,
+     "capienza": 1107,
+     "presenze": 652,
+     "costo_mediano": 33.16
+    },
+    "sai": {
+     "strutture": 187,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 39,
+     "capienza": 734,
+     "presenze": 604,
+     "costo_mediano": 28.29
+    },
+    "sai": {
+     "strutture": 190,
+     "capienza": 1402,
+     "presenze": 1219
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 43,
+     "capienza": 724,
+     "presenze": 632,
+     "costo_mediano": 28.29
+    },
+    "sai": {
+     "strutture": 214,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 72,
+     "capienza": 1188,
+     "presenze": 1135,
+     "costo_mediano": 26.92
+    },
+    "sai": {
+     "strutture": 269,
+     "capienza": 1753,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 62,
+     "capienza": 1660,
+     "presenze": 1473,
+     "costo_mediano": 26.93
+    },
+    "sai": {
+     "strutture": 344,
+     "capienza": 2137,
+     "presenze": 1809
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 55,
+     "capienza": 1555,
+     "presenze": 1348,
+     "costo_mediano": 26.91
+    },
+    "sai": {
+     "strutture": 361,
+     "capienza": 2180,
+     "presenze": 1944
+    }
+   }
+  },
+  "BOLZANO": {
+   "2018": {
+    "cas": {
+     "centri": 29,
+     "capienza": 1360,
+     "presenze": 1246,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 48,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 22,
+     "capienza": 1112,
+     "presenze": 848,
+     "costo_mediano": 25.9
+    },
+    "sai": {
+     "strutture": 54,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 18,
+     "capienza": 960,
+     "presenze": 577,
+     "costo_mediano": 25.9
+    },
+    "sai": {
+     "strutture": 54,
+     "capienza": 225,
+     "presenze": 264
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 18,
+     "capienza": 636,
+     "presenze": 387,
+     "costo_mediano": 25.9
+    },
+    "sai": {
+     "strutture": 24,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 11,
+     "capienza": 585,
+     "presenze": 422,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 101,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 11,
+     "capienza": 555,
+     "presenze": 457,
+     "costo_mediano": 32.0
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": 107,
+     "presenze": 82
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 8,
+     "capienza": 460,
+     "presenze": 400,
+     "costo_mediano": 32.0
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": 100,
+     "presenze": 83
+    }
+   }
+  },
+  "BRESCIA": {
+   "2018": {
+    "cas": {
+     "centri": 196,
+     "capienza": 1967,
+     "presenze": 1759,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 81,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 171,
+     "capienza": 1647,
+     "presenze": 994,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 90,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 112,
+     "capienza": 1149,
+     "presenze": 871,
+     "costo_mediano": 23.0
+    },
+    "sai": {
+     "strutture": 97,
+     "capienza": 421,
+     "presenze": 301
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 111,
+     "capienza": 888,
+     "presenze": 831,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 92,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 98,
+     "capienza": 894,
+     "presenze": 1000,
+     "costo_mediano": 24.42
+    },
+    "sai": {
+     "strutture": 127,
+     "capienza": 556,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 112,
+     "capienza": 1273,
+     "presenze": 1680,
+     "costo_mediano": 24.42
+    },
+    "sai": {
+     "strutture": 143,
+     "capienza": 623,
+     "presenze": 480
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 127,
+     "capienza": 1589,
+     "presenze": 1720,
+     "costo_mediano": 28.6
+    },
+    "sai": {
+     "strutture": 138,
+     "capienza": 604,
+     "presenze": 463
+    }
+   }
+  },
+  "BRINDISI": {
+   "2018": {
+    "cas": {
+     "centri": 15,
+     "capienza": 1234,
+     "presenze": 927,
+     "costo_mediano": 36.64
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 11,
+     "capienza": 1131,
+     "presenze": 462,
+     "costo_mediano": 36.64
+    },
+    "sai": {
+     "strutture": 54,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 4,
+     "capienza": 527,
+     "presenze": 309,
+     "costo_mediano": 34.9
+    },
+    "sai": {
+     "strutture": 56,
+     "capienza": 403,
+     "presenze": 264
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 4,
+     "capienza": 276,
+     "presenze": 246,
+     "costo_mediano": 34.9
+    },
+    "sai": {
+     "strutture": 60,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 3,
+     "capienza": 325,
+     "presenze": 300,
+     "costo_mediano": 30.34
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": 450,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 4,
+     "capienza": 381,
+     "presenze": 557,
+     "costo_mediano": 30.47
+    },
+    "sai": {
+     "strutture": 86,
+     "capienza": 595,
+     "presenze": 422
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 4,
+     "capienza": 428,
+     "presenze": 527,
+     "costo_mediano": 27.97
+    },
+    "sai": {
+     "strutture": 93,
+     "capienza": 599,
+     "presenze": 459
+    }
+   }
+  },
+  "CAGLIARI": {
+   "2018": {
+    "cas": {
+     "centri": 73,
+     "capienza": 1749,
+     "presenze": 619,
+     "costo_mediano": 34.99
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 37,
+     "capienza": 664,
+     "presenze": 359,
+     "costo_mediano": 26.13
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 17,
+     "capienza": 317,
+     "presenze": 294,
+     "costo_mediano": 26.22
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 88,
+     "presenze": 48
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 18,
+     "capienza": 286,
+     "presenze": 269,
+     "costo_mediano": 26.22
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 18,
+     "capienza": 281,
+     "presenze": 284,
+     "costo_mediano": 28.99
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 85,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 23,
+     "capienza": 552,
+     "presenze": 543,
+     "costo_mediano": 31.0
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 85,
+     "presenze": 59
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 19,
+     "capienza": 413,
+     "presenze": 404,
+     "costo_mediano": 32.19
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": 63,
+     "presenze": 49
+    }
+   }
+  },
+  "CALTANISSETTA": {
+   "2018": {
+    "cas": {
+     "centri": 5,
+     "capienza": 630,
+     "presenze": 451,
+     "costo_mediano": 35.7
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 1,
+     "capienza": 456,
+     "presenze": 385,
+     "costo_mediano": 25.0
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 1,
+     "capienza": 456,
+     "presenze": 5,
+     "costo_mediano": 23.71
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": 215,
+     "presenze": 138
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 1,
+     "capienza": 456,
+     "presenze": 57,
+     "costo_mediano": 23.71
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 1,
+     "capienza": 456,
+     "presenze": 390,
+     "costo_mediano": 5.55
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 189,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 1,
+     "capienza": 446,
+     "presenze": 442,
+     "costo_mediano": 5.55
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": 247,
+     "presenze": 192
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 2,
+     "capienza": 470,
+     "presenze": 442,
+     "costo_mediano": 32.65
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": 246,
+     "presenze": 214
+    }
+   }
+  },
+  "CAMPOBASSO": {
+   "2018": {
+    "cas": {
+     "centri": 29,
+     "capienza": 1485,
+     "presenze": 933,
+     "costo_mediano": 33.49
+    },
+    "sai": {
+     "strutture": 86,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 17,
+     "capienza": 990,
+     "presenze": 282,
+     "costo_mediano": 25.5
+    },
+    "sai": {
+     "strutture": 87,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 8,
+     "capienza": 302,
+     "presenze": 160,
+     "costo_mediano": 25.15
+    },
+    "sai": {
+     "strutture": 87,
+     "capienza": 561,
+     "presenze": 388
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 8,
+     "capienza": 331,
+     "presenze": 224,
+     "costo_mediano": 26.06
+    },
+    "sai": {
+     "strutture": 82,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 10,
+     "capienza": 487,
+     "presenze": 428,
+     "costo_mediano": 27.54
+    },
+    "sai": {
+     "strutture": 87,
+     "capienza": 549,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 14,
+     "capienza": 655,
+     "presenze": 604,
+     "costo_mediano": 27.54
+    },
+    "sai": {
+     "strutture": 106,
+     "capienza": 651,
+     "presenze": 478
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 12,
+     "capienza": 640,
+     "presenze": 443,
+     "costo_mediano": 29.51
+    },
+    "sai": {
+     "strutture": 108,
+     "capienza": 649,
+     "presenze": 499
+    }
+   }
+  },
+  "CASERTA": {
+   "2018": {
+    "cas": {
+     "centri": 107,
+     "capienza": 2992,
+     "presenze": 1874,
+     "costo_mediano": 31.69
+    },
+    "sai": {
+     "strutture": 53,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 79,
+     "capienza": 2158,
+     "presenze": 1202,
+     "costo_mediano": 31.4
+    },
+    "sai": {
+     "strutture": 58,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 48,
+     "capienza": 939,
+     "presenze": 749,
+     "costo_mediano": 29.85
+    },
+    "sai": {
+     "strutture": 55,
+     "capienza": 430,
+     "presenze": 277
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 25,
+     "capienza": 763,
+     "presenze": 653,
+     "costo_mediano": 19.5
+    },
+    "sai": {
+     "strutture": 56,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 28,
+     "capienza": 928,
+     "presenze": 843,
+     "costo_mediano": 17.89
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": 467,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 46,
+     "capienza": 1825,
+     "presenze": 1730,
+     "costo_mediano": 25.02
+    },
+    "sai": {
+     "strutture": 56,
+     "capienza": 437,
+     "presenze": 216
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 44,
+     "capienza": 1767,
+     "presenze": 1705,
+     "costo_mediano": 26.48
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 251,
+     "presenze": 213
+    }
+   }
+  },
+  "CATANIA": {
+   "2018": {
+    "cas": {
+     "centri": 1,
+     "capienza": 2400,
+     "presenze": 1507,
+     "costo_mediano": 5.14
+    },
+    "sai": {
+     "strutture": 101,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 1,
+     "capienza": 2400,
+     "presenze": 0,
+     "costo_mediano": 5.14
+    },
+    "sai": {
+     "strutture": 108,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 2,
+     "capienza": 37,
+     "presenze": 26,
+     "costo_mediano": 22.99
+    },
+    "sai": {
+     "strutture": 108,
+     "capienza": 1052,
+     "presenze": 796
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 2,
+     "capienza": 37,
+     "presenze": 26,
+     "costo_mediano": 23.56
+    },
+    "sai": {
+     "strutture": 118,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 1,
+     "capienza": 25,
+     "presenze": 25,
+     "costo_mediano": 33.47
+    },
+    "sai": {
+     "strutture": 157,
+     "capienza": 1430,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 6,
+     "capienza": 175,
+     "presenze": 188,
+     "costo_mediano": 33.01
+    },
+    "sai": {
+     "strutture": 207,
+     "capienza": 1842,
+     "presenze": 1362
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 5,
+     "capienza": 764,
+     "presenze": 489,
+     "costo_mediano": 33.14
+    },
+    "sai": {
+     "strutture": 208,
+     "capienza": 1842,
+     "presenze": 1552
+    }
+   }
+  },
+  "CATANZARO": {
+   "2018": {
+    "cas": {
+     "centri": 16,
+     "capienza": 1020,
+     "presenze": 406,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 83,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 16,
+     "capienza": 1058,
+     "presenze": 353,
+     "costo_mediano": 25.99
+    },
+    "sai": {
+     "strutture": 90,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 8,
+     "capienza": 334,
+     "presenze": 307,
+     "costo_mediano": 27.46
+    },
+    "sai": {
+     "strutture": 91,
+     "capienza": 518,
+     "presenze": 256
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 9,
+     "capienza": 437,
+     "presenze": 351,
+     "costo_mediano": 26.1
+    },
+    "sai": {
+     "strutture": 78,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 11,
+     "capienza": 519,
+     "presenze": 482,
+     "costo_mediano": 32.04
+    },
+    "sai": {
+     "strutture": 89,
+     "capienza": 482,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 23,
+     "capienza": 794,
+     "presenze": 860,
+     "costo_mediano": 32.04
+    },
+    "sai": {
+     "strutture": 113,
+     "capienza": 616,
+     "presenze": 453
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 20,
+     "capienza": 856,
+     "presenze": 902,
+     "costo_mediano": 32.04
+    },
+    "sai": {
+     "strutture": 113,
+     "capienza": 617,
+     "presenze": 479
+    }
+   }
+  },
+  "CHIETI": {
+   "2018": {
+    "cas": {
+     "centri": 20,
+     "capienza": 798,
+     "presenze": 503,
+     "costo_mediano": 34.69
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 14,
+     "capienza": 585,
+     "presenze": 277,
+     "costo_mediano": 22.7
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 8,
+     "capienza": 365,
+     "presenze": 249,
+     "costo_mediano": 22.7
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": 265,
+     "presenze": 158
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 8,
+     "capienza": 307,
+     "presenze": 285,
+     "costo_mediano": 30.95
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 11,
+     "capienza": 569,
+     "presenze": 512,
+     "costo_mediano": null
+    },
+    "sai": {
+     "strutture": 29,
+     "capienza": 362,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 17,
+     "capienza": 859,
+     "presenze": 785,
+     "costo_mediano": 30.0
+    },
+    "sai": {
+     "strutture": 43,
+     "capienza": 433,
+     "presenze": 363
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 14,
+     "capienza": 805,
+     "presenze": 700,
+     "costo_mediano": 32.03
+    },
+    "sai": {
+     "strutture": 48,
+     "capienza": 420,
+     "presenze": 377
+    }
+   }
+  },
+  "COMO": {
+   "2018": {
+    "cas": {
+     "centri": 141,
+     "capienza": 2025,
+     "presenze": 1518,
+     "costo_mediano": 34.5
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 159,
+     "capienza": 1779,
+     "presenze": 1000,
+     "costo_mediano": 31.9
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 119,
+     "capienza": 991,
+     "presenze": 827,
+     "costo_mediano": 29.75
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 124,
+     "capienza": 817,
+     "presenze": 755,
+     "costo_mediano": 28.91
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 110,
+     "capienza": 879,
+     "presenze": 841,
+     "costo_mediano": 28.17
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 121,
+     "capienza": 1159,
+     "presenze": 1216,
+     "costo_mediano": 28.17
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 122,
+     "capienza": 1204,
+     "presenze": 1232,
+     "costo_mediano": 27.18
+    }
+   }
+  },
+  "COSENZA": {
+   "2018": {
+    "cas": {
+     "centri": 51,
+     "capienza": 2075,
+     "presenze": 1521,
+     "costo_mediano": 37.95
+    },
+    "sai": {
+     "strutture": 174,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 47,
+     "capienza": 1779,
+     "presenze": 965,
+     "costo_mediano": 38.39
+    },
+    "sai": {
+     "strutture": 207,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 41,
+     "capienza": 923,
+     "presenze": 697,
+     "costo_mediano": 37.95
+    },
+    "sai": {
+     "strutture": 208,
+     "capienza": 1024,
+     "presenze": 535
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 33,
+     "capienza": 708,
+     "presenze": 582,
+     "costo_mediano": 27.8
+    },
+    "sai": {
+     "strutture": 204,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 24,
+     "capienza": 664,
+     "presenze": 632,
+     "costo_mediano": null
+    },
+    "sai": {
+     "strutture": 197,
+     "capienza": 977,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 32,
+     "capienza": 1353,
+     "presenze": 1283,
+     "costo_mediano": 27.76
+    },
+    "sai": {
+     "strutture": 300,
+     "capienza": 1444,
+     "presenze": 915
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 30,
+     "capienza": 1431,
+     "presenze": 1465,
+     "costo_mediano": 28.84
+    },
+    "sai": {
+     "strutture": 302,
+     "capienza": 1451,
+     "presenze": 1075
+    }
+   }
+  },
+  "CREMONA": {
+   "2018": {
+    "cas": {
+     "centri": 133,
+     "capienza": 1277,
+     "presenze": 946,
+     "costo_mediano": 36.7
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 133,
+     "capienza": 1256,
+     "presenze": 637,
+     "costo_mediano": 23.0
+    },
+    "sai": {
+     "strutture": 42,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 63,
+     "capienza": 561,
+     "presenze": 432,
+     "costo_mediano": 18.87
+    },
+    "sai": {
+     "strutture": 42,
+     "capienza": 114,
+     "presenze": 110
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 57,
+     "capienza": 450,
+     "presenze": 410,
+     "costo_mediano": 25.77
+    },
+    "sai": {
+     "strutture": 48,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 49,
+     "capienza": 522,
+     "presenze": 521,
+     "costo_mediano": 25.77
+    },
+    "sai": {
+     "strutture": 53,
+     "capienza": 230,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 76,
+     "capienza": 950,
+     "presenze": 950,
+     "costo_mediano": 28.28
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": 252,
+     "presenze": 223
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 60,
+     "capienza": 948,
+     "presenze": 948,
+     "costo_mediano": 28.28
+    },
+    "sai": {
+     "strutture": 56,
+     "capienza": 242,
+     "presenze": 214
+    }
+   }
+  },
+  "CROTONE": {
+   "2018": {
+    "cas": {
+     "centri": 3,
+     "capienza": 1281,
+     "presenze": 647,
+     "costo_mediano": 45.0
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 1,
+     "capienza": 1216,
+     "presenze": 460,
+     "costo_mediano": 6.8
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 1,
+     "capienza": 740,
+     "presenze": 356,
+     "costo_mediano": 9.3
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": 376,
+     "presenze": 192
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 1,
+     "capienza": 641,
+     "presenze": 641,
+     "costo_mediano": 6.8
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 3,
+     "capienza": 689,
+     "presenze": 795,
+     "costo_mediano": 9.3
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": 323,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 1,
+     "capienza": 832,
+     "presenze": 536,
+     "costo_mediano": 9.3
+    },
+    "sai": {
+     "strutture": 53,
+     "capienza": 388,
+     "presenze": 230
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 2,
+     "capienza": 721,
+     "presenze": 574,
+     "costo_mediano": 12.0
+    },
+    "sai": {
+     "strutture": 56,
+     "capienza": 392,
+     "presenze": 304
+    }
+   }
+  },
+  "CUNEO": {
+   "2018": {
+    "cas": {
+     "centri": 129,
+     "capienza": 2456,
+     "presenze": 1508,
+     "costo_mediano": 36.23
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 113,
+     "capienza": 1978,
+     "presenze": 758,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 78,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 44,
+     "capienza": 794,
+     "presenze": 504,
+     "costo_mediano": 22.63
+    },
+    "sai": {
+     "strutture": 92,
+     "capienza": 412,
+     "presenze": 311
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 47,
+     "capienza": 670,
+     "presenze": 482,
+     "costo_mediano": 30.35
+    },
+    "sai": {
+     "strutture": 91,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 46,
+     "capienza": 867,
+     "presenze": 826,
+     "costo_mediano": 30.36
+    },
+    "sai": {
+     "strutture": 96,
+     "capienza": 438,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 60,
+     "capienza": 1528,
+     "presenze": 1440,
+     "costo_mediano": 32.33
+    },
+    "sai": {
+     "strutture": 116,
+     "capienza": 512,
+     "presenze": 400
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 41,
+     "capienza": 1323,
+     "presenze": 1192,
+     "costo_mediano": 32.3
+    },
+    "sai": {
+     "strutture": 113,
+     "capienza": 512,
+     "presenze": 459
+    }
+   }
+  },
+  "ENNA": {
+   "2018": {
+    "cas": {
+     "centri": 13,
+     "capienza": 507,
+     "presenze": 394,
+     "costo_mediano": 28.86
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 13,
+     "capienza": 340,
+     "presenze": 251,
+     "costo_mediano": 31.79
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 10,
+     "capienza": 311,
+     "presenze": 245,
+     "costo_mediano": 19.96
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 228,
+     "presenze": 166
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 16,
+     "capienza": 349,
+     "presenze": 335,
+     "costo_mediano": 22.42
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 13,
+     "capienza": 353,
+     "presenze": 312,
+     "costo_mediano": 17.98
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 282,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 11,
+     "capienza": 306,
+     "presenze": 297,
+     "costo_mediano": 26.5
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 317,
+     "presenze": 241
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 9,
+     "capienza": 335,
+     "presenze": 331,
+     "costo_mediano": 27.9
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 326,
+     "presenze": 266
+    }
+   }
+  },
+  "FERMO": {
+   "2018": {
+    "cas": {
+     "centri": 61,
+     "capienza": 599,
+     "presenze": 502,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 62,
+     "capienza": 605,
+     "presenze": 311,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 29,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 24,
+     "capienza": 249,
+     "presenze": 183,
+     "costo_mediano": 17.96
+    },
+    "sai": {
+     "strutture": 29,
+     "capienza": 165,
+     "presenze": 93
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 24,
+     "capienza": 232,
+     "presenze": 216,
+     "costo_mediano": 25.96
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 32,
+     "capienza": 308,
+     "presenze": 297,
+     "costo_mediano": 25.96
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": 204,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 36,
+     "capienza": 437,
+     "presenze": 436,
+     "costo_mediano": 25.96
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": 234,
+     "presenze": 187
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 31,
+     "capienza": 465,
+     "presenze": 423,
+     "costo_mediano": 33.68
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": 230,
+     "presenze": 206
+    }
+   }
+  },
+  "FERRARA": {
+   "2018": {
+    "cas": {
+     "centri": 105,
+     "capienza": 1187,
+     "presenze": 859,
+     "costo_mediano": 29.45
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 104,
+     "capienza": 1120,
+     "presenze": 695,
+     "costo_mediano": 26.94
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 90,
+     "capienza": 779,
+     "presenze": 585,
+     "costo_mediano": 29.16
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 171,
+     "presenze": 124
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 75,
+     "capienza": 736,
+     "presenze": 490,
+     "costo_mediano": 25.47
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 79,
+     "capienza": 779,
+     "presenze": 729,
+     "costo_mediano": 27.89
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 214,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 89,
+     "capienza": 935,
+     "presenze": 909,
+     "costo_mediano": 25.4
+    },
+    "sai": {
+     "strutture": 43,
+     "capienza": 258,
+     "presenze": 222
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 91,
+     "capienza": 991,
+     "presenze": 877,
+     "costo_mediano": 39.74
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": 262,
+     "presenze": 250
+    }
+   }
+  },
+  "FIRENZE": {
+   "2018": {
+    "cas": {
+     "centri": 184,
+     "capienza": 2911,
+     "presenze": 1748,
+     "costo_mediano": 33.9
+    },
+    "sai": {
+     "strutture": 61,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 158,
+     "capienza": 2394,
+     "presenze": 991,
+     "costo_mediano": 28.69
+    },
+    "sai": {
+     "strutture": 67,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 85,
+     "capienza": 1083,
+     "presenze": 749,
+     "costo_mediano": 28.44
+    },
+    "sai": {
+     "strutture": 67,
+     "capienza": 707,
+     "presenze": 553
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 77,
+     "capienza": 1046,
+     "presenze": 880,
+     "costo_mediano": 28.31
+    },
+    "sai": {
+     "strutture": 85,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 126,
+     "capienza": 1666,
+     "presenze": 1497,
+     "costo_mediano": 27.06
+    },
+    "sai": {
+     "strutture": 107,
+     "capienza": 908,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 116,
+     "capienza": 2024,
+     "presenze": 2131,
+     "costo_mediano": 27.06
+    },
+    "sai": {
+     "strutture": 133,
+     "capienza": 1078,
+     "presenze": 742
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 113,
+     "capienza": 2039,
+     "presenze": 2109,
+     "costo_mediano": 28.6
+    },
+    "sai": {
+     "strutture": 132,
+     "capienza": 946,
+     "presenze": 796
+    }
+   }
+  },
+  "FOGGIA": {
+   "2018": {
+    "cas": {
+     "centri": 6,
+     "capienza": 971,
+     "presenze": 329,
+     "costo_mediano": 34.88
+    },
+    "sai": {
+     "strutture": 71,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 1,
+     "capienza": 636,
+     "presenze": 56,
+     "costo_mediano": 8.99
+    },
+    "sai": {
+     "strutture": 78,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 1,
+     "capienza": 204,
+     "presenze": 0,
+     "costo_mediano": 25.0
+    },
+    "sai": {
+     "strutture": 83,
+     "capienza": 481,
+     "presenze": 223
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 5,
+     "capienza": 196,
+     "presenze": 124,
+     "costo_mediano": 22.72
+    },
+    "sai": {
+     "strutture": 81,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 4,
+     "capienza": 172,
+     "presenze": 172,
+     "costo_mediano": 22.85
+    },
+    "sai": {
+     "strutture": 93,
+     "capienza": 525,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 8,
+     "capienza": 353,
+     "presenze": 519,
+     "costo_mediano": 32.24
+    },
+    "sai": {
+     "strutture": 120,
+     "capienza": 630,
+     "presenze": 371
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 8,
+     "capienza": 337,
+     "presenze": 444,
+     "costo_mediano": 32.24
+    },
+    "sai": {
+     "strutture": 118,
+     "capienza": 642,
+     "presenze": 420
+    }
+   }
+  },
+  "FORLÌ-CESENA": {
+   "2018": {
+    "cas": {
+     "centri": 121,
+     "capienza": 1070,
+     "presenze": 672,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 97,
+     "capienza": 764,
+     "presenze": 468,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 76,
+     "capienza": 488,
+     "presenze": 361,
+     "costo_mediano": 27.5
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 81,
+     "presenze": 46
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 61,
+     "capienza": 433,
+     "presenze": 370,
+     "costo_mediano": 27.5
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 61,
+     "capienza": 562,
+     "presenze": 550,
+     "costo_mediano": 26.92
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 105,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 62,
+     "capienza": 624,
+     "presenze": 837,
+     "costo_mediano": 30.1
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 105,
+     "presenze": 92
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 69,
+     "capienza": 602,
+     "presenze": 701,
+     "costo_mediano": 30.1
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": 105,
+     "presenze": 91
+    }
+   }
+  },
+  "FROSINONE": {
+   "2018": {
+    "cas": {
+     "centri": 285,
+     "capienza": 2242,
+     "presenze": 1912,
+     "costo_mediano": 35.18
+    },
+    "sai": {
+     "strutture": 64,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 275,
+     "capienza": 2126,
+     "presenze": 1256,
+     "costo_mediano": 23.87
+    },
+    "sai": {
+     "strutture": 65,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 146,
+     "capienza": 1306,
+     "presenze": 1124,
+     "costo_mediano": 21.47
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": 340,
+     "presenze": 234
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 151,
+     "capienza": 1143,
+     "presenze": 930,
+     "costo_mediano": 21.47
+    },
+    "sai": {
+     "strutture": 58,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 134,
+     "capienza": 1132,
+     "presenze": 1000,
+     "costo_mediano": 27.84
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": 347,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 156,
+     "capienza": 1578,
+     "presenze": 1521,
+     "costo_mediano": 28.01
+    },
+    "sai": {
+     "strutture": 68,
+     "capienza": 401,
+     "presenze": 296
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 154,
+     "capienza": 1628,
+     "presenze": 1486,
+     "costo_mediano": 27.84
+    },
+    "sai": {
+     "strutture": 66,
+     "capienza": 392,
+     "presenze": 352
+    }
+   }
+  },
+  "GENOVA": {
+   "2018": {
+    "cas": {
+     "centri": 204,
+     "capienza": 2278,
+     "presenze": 1622,
+     "costo_mediano": 34.9
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 218,
+     "capienza": 2261,
+     "presenze": 1261,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 78,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 148,
+     "capienza": 1169,
+     "presenze": 1038,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 84,
+     "capienza": 524,
+     "presenze": 441
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 152,
+     "capienza": 1095,
+     "presenze": 926,
+     "costo_mediano": 24.55
+    },
+    "sai": {
+     "strutture": 83,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 189,
+     "capienza": 1791,
+     "presenze": 1729,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 92,
+     "capienza": 645,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 122,
+     "capienza": 2157,
+     "presenze": 2140,
+     "costo_mediano": 25.03
+    },
+    "sai": {
+     "strutture": 108,
+     "capienza": 744,
+     "presenze": 659
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 31,
+     "capienza": 2257,
+     "presenze": 2032,
+     "costo_mediano": 25.16
+    },
+    "sai": {
+     "strutture": 101,
+     "capienza": 723,
+     "presenze": 642
+    }
+   }
+  },
+  "GORIZIA": {
+   "2018": {
+    "cas": {
+     "centri": 24,
+     "capienza": 618,
+     "presenze": 557,
+     "costo_mediano": 35.0
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 24,
+     "capienza": 616,
+     "presenze": 283,
+     "costo_mediano": 35.0
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 14,
+     "capienza": 596,
+     "presenze": 446,
+     "costo_mediano": 28.0
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 14,
+     "capienza": 606,
+     "presenze": 375,
+     "costo_mediano": 28.0
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 26,
+     "capienza": 680,
+     "presenze": 1020,
+     "costo_mediano": 33.0
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 25,
+     "capienza": 675,
+     "presenze": 1067,
+     "costo_mediano": 33.0
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 20,
+     "capienza": 661,
+     "presenze": 734,
+     "costo_mediano": 33.47
+    }
+   }
+  },
+  "GROSSETO": {
+   "2018": {
+    "cas": {
+     "centri": 30,
+     "capienza": 916,
+     "presenze": 511,
+     "costo_mediano": 34.65
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 25,
+     "capienza": 759,
+     "presenze": 344,
+     "costo_mediano": 26.31
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 13,
+     "capienza": 411,
+     "presenze": 285,
+     "costo_mediano": 26.35
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 11,
+     "capienza": 302,
+     "presenze": 222,
+     "costo_mediano": 27.66
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 12,
+     "capienza": 345,
+     "presenze": 329,
+     "costo_mediano": 27.66
+    },
+    "sai": {
+     "strutture": 1,
+     "capienza": 12,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 17,
+     "capienza": 601,
+     "presenze": 571,
+     "costo_mediano": 29.69
+    },
+    "sai": {
+     "strutture": 1,
+     "capienza": 12,
+     "presenze": 8
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 19,
+     "capienza": 733,
+     "presenze": 694,
+     "costo_mediano": 29.69
+    },
+    "sai": {
+     "strutture": 2,
+     "capienza": 8,
+     "presenze": 8
+    }
+   }
+  },
+  "IMPERIA": {
+   "2018": {
+    "cas": {
+     "centri": 87,
+     "capienza": 1099,
+     "presenze": 931,
+     "costo_mediano": 36.33
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 88,
+     "capienza": 1007,
+     "presenze": 727,
+     "costo_mediano": 36.33
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 83,
+     "capienza": 825,
+     "presenze": 667,
+     "costo_mediano": 36.33
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 29,
+     "presenze": 25
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 94,
+     "capienza": 823,
+     "presenze": 780,
+     "costo_mediano": 36.33
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 81,
+     "capienza": 759,
+     "presenze": 775,
+     "costo_mediano": 36.33
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": 55,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 71,
+     "capienza": 836,
+     "presenze": 799,
+     "costo_mediano": 36.33
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": 55,
+     "presenze": 49
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 62,
+     "capienza": 830,
+     "presenze": 777,
+     "costo_mediano": 27.51
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": 55,
+     "presenze": 52
+    }
+   }
+  },
+  "ISERNIA": {
+   "2018": {
+    "cas": {
+     "centri": 20,
+     "capienza": 720,
+     "presenze": 495,
+     "costo_mediano": 32.49
+    },
+    "sai": {
+     "strutture": 54,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 10,
+     "capienza": 354,
+     "presenze": 152,
+     "costo_mediano": 35.11
+    },
+    "sai": {
+     "strutture": 61,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 9,
+     "capienza": 164,
+     "presenze": 72,
+     "costo_mediano": 26.0
+    },
+    "sai": {
+     "strutture": 51,
+     "capienza": 299,
+     "presenze": 202
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 11,
+     "capienza": 229,
+     "presenze": 176,
+     "costo_mediano": 22.89
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 8,
+     "capienza": 260,
+     "presenze": 293,
+     "costo_mediano": 22.68
+    },
+    "sai": {
+     "strutture": 42,
+     "capienza": 295,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 10,
+     "capienza": 380,
+     "presenze": 365,
+     "costo_mediano": 27.64
+    },
+    "sai": {
+     "strutture": 53,
+     "capienza": 354,
+     "presenze": 226
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 8,
+     "capienza": 359,
+     "presenze": 264,
+     "costo_mediano": 30.26
+    },
+    "sai": {
+     "strutture": 49,
+     "capienza": 308,
+     "presenze": 238
+    }
+   }
+  },
+  "L'AQUILA": {
+   "2018": {
+    "cas": {
+     "centri": 28,
+     "capienza": 1083,
+     "presenze": 671,
+     "costo_mediano": 32.95
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 25,
+     "capienza": 926,
+     "presenze": 474,
+     "costo_mediano": 29.4
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 17,
+     "capienza": 496,
+     "presenze": 408,
+     "costo_mediano": 22.99
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": 63,
+     "presenze": 27
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 18,
+     "capienza": 570,
+     "presenze": 557,
+     "costo_mediano": 29.71
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 17,
+     "capienza": 648,
+     "presenze": 648,
+     "costo_mediano": 22.88
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": 81,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 37,
+     "capienza": 1195,
+     "presenze": 1164,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 128,
+     "presenze": 116
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 37,
+     "capienza": 1137,
+     "presenze": 1055,
+     "costo_mediano": 28.29
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": 132,
+     "presenze": 121
+    }
+   }
+  },
+  "LA SPEZIA": {
+   "2018": {
+    "cas": {
+     "centri": 62,
+     "capienza": 1136,
+     "presenze": 652,
+     "costo_mediano": 34.99
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 46,
+     "capienza": 1058,
+     "presenze": 431,
+     "costo_mediano": 34.99
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 24,
+     "capienza": 452,
+     "presenze": 311,
+     "costo_mediano": 22.43
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 40,
+     "presenze": 27
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 21,
+     "capienza": 444,
+     "presenze": 340,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 22,
+     "capienza": 505,
+     "presenze": 493,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": 40,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 26,
+     "capienza": 726,
+     "presenze": 773,
+     "costo_mediano": 25.38
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": 40,
+     "presenze": 40
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 24,
+     "capienza": 720,
+     "presenze": 680,
+     "costo_mediano": 25.16
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": 40,
+     "presenze": 41
+    }
+   }
+  },
+  "LATINA": {
+   "2018": {
+    "cas": {
+     "centri": 199,
+     "capienza": 2957,
+     "presenze": 1908,
+     "costo_mediano": 36.02
+    },
+    "sai": {
+     "strutture": 69,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 169,
+     "capienza": 2097,
+     "presenze": 1316,
+     "costo_mediano": 18.9
+    },
+    "sai": {
+     "strutture": 68,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 131,
+     "capienza": 1210,
+     "presenze": 1164,
+     "costo_mediano": 18.9
+    },
+    "sai": {
+     "strutture": 67,
+     "capienza": 335,
+     "presenze": 290
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 94,
+     "capienza": 1086,
+     "presenze": 868,
+     "costo_mediano": 22.29
+    },
+    "sai": {
+     "strutture": 50,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 89,
+     "capienza": 1026,
+     "presenze": 933,
+     "costo_mediano": 18.9
+    },
+    "sai": {
+     "strutture": 65,
+     "capienza": 319,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 102,
+     "capienza": 1243,
+     "presenze": 1640,
+     "costo_mediano": 28.54
+    },
+    "sai": {
+     "strutture": 76,
+     "capienza": 371,
+     "presenze": 305
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 102,
+     "capienza": 1323,
+     "presenze": 1732,
+     "costo_mediano": 40.41
+    },
+    "sai": {
+     "strutture": 77,
+     "capienza": 382,
+     "presenze": 344
+    }
+   }
+  },
+  "LECCE": {
+   "2018": {
+    "cas": {
+     "centri": 124,
+     "capienza": 1280,
+     "presenze": 1273,
+     "costo_mediano": 35.69
+    },
+    "sai": {
+     "strutture": 154,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 129,
+     "capienza": 1353,
+     "presenze": 330,
+     "costo_mediano": 35.69
+    },
+    "sai": {
+     "strutture": 184,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 27,
+     "capienza": 402,
+     "presenze": 219,
+     "costo_mediano": 35.69
+    },
+    "sai": {
+     "strutture": 187,
+     "capienza": 1089,
+     "presenze": 720
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 32,
+     "capienza": 193,
+     "presenze": 172,
+     "costo_mediano": 24.21
+    },
+    "sai": {
+     "strutture": 192,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 28,
+     "capienza": 278,
+     "presenze": 277,
+     "costo_mediano": 24.21
+    },
+    "sai": {
+     "strutture": 168,
+     "capienza": 987,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 31,
+     "capienza": 388,
+     "presenze": 541,
+     "costo_mediano": 24.21
+    },
+    "sai": {
+     "strutture": 219,
+     "capienza": 1305,
+     "presenze": 865
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 40,
+     "capienza": 569,
+     "presenze": 695,
+     "costo_mediano": 24.28
+    },
+    "sai": {
+     "strutture": 222,
+     "capienza": 1321,
+     "presenze": 1007
+    }
+   }
+  },
+  "LECCO": {
+   "2018": {
+    "cas": {
+     "centri": 70,
+     "capienza": 1084,
+     "presenze": 917,
+     "costo_mediano": 34.95
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 42,
+     "capienza": 829,
+     "presenze": 546,
+     "costo_mediano": 35.27
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 22,
+     "capienza": 462,
+     "presenze": 399,
+     "costo_mediano": 21.38
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 91,
+     "presenze": 73
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 23,
+     "capienza": 461,
+     "presenze": 405,
+     "costo_mediano": 21.38
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 21,
+     "capienza": 422,
+     "presenze": 496,
+     "costo_mediano": 24.9
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": 125,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 20,
+     "capienza": 508,
+     "presenze": 686,
+     "costo_mediano": 24.49
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": 168,
+     "presenze": 122
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 20,
+     "capienza": 532,
+     "presenze": 655,
+     "costo_mediano": 25.15
+    },
+    "sai": {
+     "strutture": 29,
+     "capienza": 150,
+     "presenze": 119
+    }
+   }
+  },
+  "LIVORNO": {
+   "2018": {
+    "cas": {
+     "centri": 37,
+     "capienza": 1299,
+     "presenze": 690,
+     "costo_mediano": 35.12
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 29,
+     "capienza": 1067,
+     "presenze": 366,
+     "costo_mediano": 33.85
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 4,
+     "capienza": 424,
+     "presenze": 263,
+     "costo_mediano": 24.95
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 63,
+     "presenze": 59
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 4,
+     "capienza": 350,
+     "presenze": 214,
+     "costo_mediano": 26.0
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 4,
+     "capienza": 565,
+     "presenze": 461,
+     "costo_mediano": 26.52
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 113,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 5,
+     "capienza": 800,
+     "presenze": 688,
+     "costo_mediano": 31.49
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 117,
+     "presenze": 90
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 5,
+     "capienza": 805,
+     "presenze": 697,
+     "costo_mediano": 32.74
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 113,
+     "presenze": 87
+    }
+   }
+  },
+  "LODI": {
+   "2018": {
+    "cas": {
+     "centri": 55,
+     "capienza": 888,
+     "presenze": 520,
+     "costo_mediano": 35.58
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 58,
+     "capienza": 902,
+     "presenze": 386,
+     "costo_mediano": 35.58
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 31,
+     "capienza": 316,
+     "presenze": 265,
+     "costo_mediano": 20.5
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": 87,
+     "presenze": 65
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 32,
+     "capienza": 273,
+     "presenze": 225,
+     "costo_mediano": 24.55
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 26,
+     "capienza": 322,
+     "presenze": 330,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 131,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 26,
+     "capienza": 439,
+     "presenze": 520,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": 141,
+     "presenze": 130
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 19,
+     "capienza": 483,
+     "presenze": 520,
+     "costo_mediano": 33.35
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": 136,
+     "presenze": 116
+    }
+   }
+  },
+  "LUCCA": {
+   "2018": {
+    "cas": {
+     "centri": 115,
+     "capienza": 1297,
+     "presenze": 939,
+     "costo_mediano": 42.03
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 117,
+     "capienza": 1220,
+     "presenze": 535,
+     "costo_mediano": 36.22
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 45,
+     "capienza": 487,
+     "presenze": 381,
+     "costo_mediano": 24.46
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": 192,
+     "presenze": 132
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 42,
+     "capienza": 462,
+     "presenze": 345,
+     "costo_mediano": 21.4
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 42,
+     "capienza": 480,
+     "presenze": 436,
+     "costo_mediano": 28.04
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": 241,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 46,
+     "capienza": 534,
+     "presenze": 618,
+     "costo_mediano": 28.04
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": 306,
+     "presenze": 224
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 44,
+     "capienza": 543,
+     "presenze": 669,
+     "costo_mediano": 27.82
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": 306,
+     "presenze": 235
+    }
+   }
+  },
+  "MACERATA": {
+   "2018": {
+    "cas": {
+     "centri": 64,
+     "capienza": 845,
+     "presenze": 354,
+     "costo_mediano": 34.7
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 40,
+     "capienza": 638,
+     "presenze": 86,
+     "costo_mediano": 34.7
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 5,
+     "capienza": 80,
+     "presenze": 67,
+     "costo_mediano": 20.49
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": 130,
+     "presenze": 36
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 14,
+     "capienza": 244,
+     "presenze": 206,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 3,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 37,
+     "capienza": 421,
+     "presenze": 438,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": 18,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 43,
+     "capienza": 570,
+     "presenze": 638,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": 30,
+     "presenze": 18
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 42,
+     "capienza": 608,
+     "presenze": 602,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": 30,
+     "presenze": 27
+    }
+   }
+  },
+  "MANTOVA": {
+   "2018": {
+    "cas": {
+     "centri": 103,
+     "capienza": 1121,
+     "presenze": 711,
+     "costo_mediano": 34.9
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 72,
+     "capienza": 796,
+     "presenze": 445,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 59,
+     "capienza": 412,
+     "presenze": 344,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 57,
+     "presenze": 48
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 55,
+     "capienza": 402,
+     "presenze": 356,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 72,
+     "capienza": 501,
+     "presenze": 504,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 64,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 79,
+     "capienza": 627,
+     "presenze": 690,
+     "costo_mediano": 24.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 64,
+     "presenze": 53
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 81,
+     "capienza": 653,
+     "presenze": 667,
+     "costo_mediano": 28.88
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": 70,
+     "presenze": 59
+    }
+   }
+  },
+  "MASSA-CARRARA": {
+   "2018": {
+    "cas": {
+     "centri": 52,
+     "capienza": 853,
+     "presenze": 537,
+     "costo_mediano": 34.5
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 41,
+     "capienza": 731,
+     "presenze": 320,
+     "costo_mediano": 25.49
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 20,
+     "capienza": 334,
+     "presenze": 249,
+     "costo_mediano": 20.5
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": 31,
+     "presenze": 49
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 20,
+     "capienza": 257,
+     "presenze": 214,
+     "costo_mediano": 26.92
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 21,
+     "capienza": 334,
+     "presenze": 296,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 26,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 30,
+     "capienza": 542,
+     "presenze": 510,
+     "costo_mediano": 24.35
+    },
+    "sai": {
+     "strutture": 9,
+     "capienza": 47,
+     "presenze": 25
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 28,
+     "capienza": 482,
+     "presenze": 494,
+     "costo_mediano": 24.35
+    },
+    "sai": {
+     "strutture": 9,
+     "capienza": 47,
+     "presenze": 41
+    }
+   }
+  },
+  "MATERA": {
+   "2018": {
+    "cas": {
+     "centri": 15,
+     "capienza": 656,
+     "presenze": 374,
+     "costo_mediano": 34.0
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 6,
+     "capienza": 343,
+     "presenze": 256,
+     "costo_mediano": 25.8
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 5,
+     "capienza": 243,
+     "presenze": 189,
+     "costo_mediano": 21.58
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 138,
+     "presenze": 101
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 5,
+     "capienza": 263,
+     "presenze": 222,
+     "costo_mediano": 31.06
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 7,
+     "capienza": 488,
+     "presenze": 470,
+     "costo_mediano": 28.22
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": 169,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 14,
+     "capienza": 840,
+     "presenze": 743,
+     "costo_mediano": 32.83
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": 232,
+     "presenze": 164
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 15,
+     "capienza": 801,
+     "presenze": 663,
+     "costo_mediano": 33.16
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": 237,
+     "presenze": 210
+    }
+   }
+  },
+  "MESSINA": {
+   "2018": {
+    "cas": {
+     "centri": 20,
+     "capienza": 1075,
+     "presenze": 529,
+     "costo_mediano": 36.47
+    },
+    "sai": {
+     "strutture": 63,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 19,
+     "capienza": 923,
+     "presenze": 485,
+     "costo_mediano": 22.49
+    },
+    "sai": {
+     "strutture": 66,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 14,
+     "capienza": 392,
+     "presenze": 313,
+     "costo_mediano": 22.49
+    },
+    "sai": {
+     "strutture": 65,
+     "capienza": 436,
+     "presenze": 235
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 14,
+     "capienza": 519,
+     "presenze": 391,
+     "costo_mediano": 28.9
+    },
+    "sai": {
+     "strutture": 62,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 19,
+     "capienza": 927,
+     "presenze": 840,
+     "costo_mediano": 26.31
+    },
+    "sai": {
+     "strutture": 65,
+     "capienza": 457,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 20,
+     "capienza": 987,
+     "presenze": 841,
+     "costo_mediano": 27.5
+    },
+    "sai": {
+     "strutture": 94,
+     "capienza": 606,
+     "presenze": 450
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 18,
+     "capienza": 987,
+     "presenze": 724,
+     "costo_mediano": 35.67
+    },
+    "sai": {
+     "strutture": 95,
+     "capienza": 606,
+     "presenze": 494
+    }
+   }
+  },
+  "MILANO": {
+   "2018": {
+    "cas": {
+     "centri": 241,
+     "capienza": 5056,
+     "presenze": 3873,
+     "costo_mediano": 36.1
+    },
+    "sai": {
+     "strutture": 86,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 242,
+     "capienza": 4369,
+     "presenze": 2205,
+     "costo_mediano": 32.03
+    },
+    "sai": {
+     "strutture": 123,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 49,
+     "capienza": 2270,
+     "presenze": 1976,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 129,
+     "capienza": 1021,
+     "presenze": 831
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 56,
+     "capienza": 2343,
+     "presenze": 2177,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 135,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 119,
+     "capienza": 3248,
+     "presenze": 3355,
+     "costo_mediano": 24.56
+    },
+    "sai": {
+     "strutture": 234,
+     "capienza": 1309,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 111,
+     "capienza": 4030,
+     "presenze": 4251,
+     "costo_mediano": 25.8
+    },
+    "sai": {
+     "strutture": 266,
+     "capienza": 1390,
+     "presenze": 1306
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 92,
+     "capienza": 4271,
+     "presenze": 4161,
+     "costo_mediano": 26.79
+    },
+    "sai": {
+     "strutture": 298,
+     "capienza": 1496,
+     "presenze": 1256
+    }
+   }
+  },
+  "MODENA": {
+   "2018": {
+    "cas": {
+     "centri": 290,
+     "capienza": 2435,
+     "presenze": 1611,
+     "costo_mediano": 36.65
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 300,
+     "capienza": 2585,
+     "presenze": 1352,
+     "costo_mediano": 29.82
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 316,
+     "capienza": 1549,
+     "presenze": 1149,
+     "costo_mediano": 29.82
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 179,
+     "presenze": 90
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 325,
+     "capienza": 1286,
+     "presenze": 1037,
+     "costo_mediano": 29.82
+    },
+    "sai": {
+     "strutture": 24,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 171,
+     "capienza": 1591,
+     "presenze": 1144,
+     "costo_mediano": 29.82
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": 177,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 163,
+     "capienza": 1742,
+     "presenze": 1526,
+     "costo_mediano": 29.82
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": 215,
+     "presenze": 185
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 147,
+     "capienza": 1700,
+     "presenze": 1457,
+     "costo_mediano": 46.82
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": 215,
+     "presenze": 172
+    }
+   }
+  },
+  "MONZA E DELLA BRIANZA": {
+   "2018": {
+    "cas": {
+     "centri": 251,
+     "capienza": 2268,
+     "presenze": 1694,
+     "costo_mediano": 35.74
+    },
+    "sai": {
+     "strutture": 29,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 230,
+     "capienza": 2091,
+     "presenze": 1255,
+     "costo_mediano": 29.8
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 223,
+     "capienza": 1066,
+     "presenze": 1045,
+     "costo_mediano": 33.8
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": 144,
+     "presenze": 118
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 144,
+     "capienza": 835,
+     "presenze": 817,
+     "costo_mediano": 33.8
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 99,
+     "capienza": 968,
+     "presenze": 1042,
+     "costo_mediano": 25.64
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": 176,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 100,
+     "capienza": 1316,
+     "presenze": 1303,
+     "costo_mediano": 25.8
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": 183,
+     "presenze": 160
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 96,
+     "capienza": 1377,
+     "presenze": 1369,
+     "costo_mediano": 28.3
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 179,
+     "presenze": 157
+    }
+   }
+  },
+  "NAPOLI": {
+   "2018": {
+    "cas": {
+     "centri": 86,
+     "capienza": 3759,
+     "presenze": 3450,
+     "costo_mediano": 34.02
+    },
+    "sai": {
+     "strutture": 61,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 90,
+     "capienza": 4105,
+     "presenze": 2190,
+     "costo_mediano": 26.35
+    },
+    "sai": {
+     "strutture": 75,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 60,
+     "capienza": 2060,
+     "presenze": 1695,
+     "costo_mediano": 26.35
+    },
+    "sai": {
+     "strutture": 77,
+     "capienza": 594,
+     "presenze": 324
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 58,
+     "capienza": 1694,
+     "presenze": 1299,
+     "costo_mediano": 26.35
+    },
+    "sai": {
+     "strutture": 88,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 20,
+     "capienza": 1186,
+     "presenze": 1100,
+     "costo_mediano": 28.79
+    },
+    "sai": {
+     "strutture": 103,
+     "capienza": 742,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 25,
+     "capienza": 2187,
+     "presenze": 1932,
+     "costo_mediano": 28.91
+    },
+    "sai": {
+     "strutture": 168,
+     "capienza": 1233,
+     "presenze": 935
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 24,
+     "capienza": 2133,
+     "presenze": 1930,
+     "costo_mediano": 31.71
+    },
+    "sai": {
+     "strutture": 166,
+     "capienza": 1211,
+     "presenze": 984
+    }
+   }
+  },
+  "NOVARA": {
+   "2018": {
+    "cas": {
+     "centri": 66,
+     "capienza": 1045,
+     "presenze": 857,
+     "costo_mediano": 34.75
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 74,
+     "capienza": 1095,
+     "presenze": 473,
+     "costo_mediano": 32.28
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 26,
+     "capienza": 441,
+     "presenze": 344,
+     "costo_mediano": 24.18
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 24,
+     "capienza": 358,
+     "presenze": 339,
+     "costo_mediano": 24.18
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 22,
+     "capienza": 315,
+     "presenze": 314,
+     "costo_mediano": 27.81
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 33,
+     "capienza": 602,
+     "presenze": 821,
+     "costo_mediano": 29.04
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 33,
+     "capienza": 723,
+     "presenze": 706,
+     "costo_mediano": 31.58
+    }
+   }
+  },
+  "NUORO": {
+   "2018": {
+    "cas": {
+     "centri": 10,
+     "capienza": 496,
+     "presenze": 215,
+     "costo_mediano": 34.63
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 10,
+     "capienza": 496,
+     "presenze": 85,
+     "costo_mediano": 34.63
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 10,
+     "capienza": 100,
+     "presenze": 51,
+     "costo_mediano": 34.61
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": 48,
+     "presenze": 37
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 3,
+     "capienza": 125,
+     "presenze": 68,
+     "costo_mediano": 22.77
+    },
+    "sai": {
+     "strutture": 9,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 2,
+     "capienza": 100,
+     "presenze": 119,
+     "costo_mediano": 21.89
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": 60,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 4,
+     "capienza": 135,
+     "presenze": 262,
+     "costo_mediano": 29.3
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": 68,
+     "presenze": 51
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 4,
+     "capienza": 150,
+     "presenze": 149,
+     "costo_mediano": 33.76
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": 58,
+     "presenze": 51
+    }
+   }
+  },
+  "ORISTANO": {
+   "2018": {
+    "cas": {
+     "centri": 12,
+     "capienza": 318,
+     "presenze": 111,
+     "costo_mediano": 42.62
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 5,
+     "capienza": 182,
+     "presenze": 44,
+     "costo_mediano": 42.62
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 2,
+     "capienza": 43,
+     "presenze": 35,
+     "costo_mediano": 26.27
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 2,
+     "capienza": 48,
+     "presenze": 42,
+     "costo_mediano": 26.27
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 2,
+     "capienza": 75,
+     "presenze": 75,
+     "costo_mediano": 26.27
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 4,
+     "capienza": 226,
+     "presenze": 216,
+     "costo_mediano": 33.53
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 4,
+     "capienza": 189,
+     "presenze": 183,
+     "costo_mediano": 38.06
+    }
+   }
+  },
+  "PADOVA": {
+   "2018": {
+    "cas": {
+     "centri": 195,
+     "capienza": 2115,
+     "presenze": 1863,
+     "costo_mediano": 36.65
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 210,
+     "capienza": 2222,
+     "presenze": 1259,
+     "costo_mediano": 18.9
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 147,
+     "capienza": 1161,
+     "presenze": 994,
+     "costo_mediano": 18.9
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 206,
+     "presenze": 154
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 138,
+     "capienza": 1218,
+     "presenze": 1033,
+     "costo_mediano": 18.9
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 200,
+     "capienza": 1456,
+     "presenze": 1477,
+     "costo_mediano": 24.2
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 152,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 224,
+     "capienza": 2192,
+     "presenze": 2049,
+     "costo_mediano": 24.2
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 187,
+     "presenze": 166
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 171,
+     "capienza": 2048,
+     "presenze": 1859,
+     "costo_mediano": 28.44
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": 212,
+     "presenze": 155
+    }
+   }
+  },
+  "PALERMO": {
+   "2018": {
+    "cas": {
+     "centri": 48,
+     "capienza": 1807,
+     "presenze": 1304,
+     "costo_mediano": 34.8
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 43,
+     "capienza": 1750,
+     "presenze": 720,
+     "costo_mediano": 32.0
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 19,
+     "capienza": 861,
+     "presenze": 546,
+     "costo_mediano": 22.95
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 397,
+     "presenze": 325
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 9,
+     "capienza": 482,
+     "presenze": 300,
+     "costo_mediano": null
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 10,
+     "capienza": 508,
+     "presenze": 482,
+     "costo_mediano": 23.14
+    },
+    "sai": {
+     "strutture": 48,
+     "capienza": 534,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 13,
+     "capienza": 714,
+     "presenze": 693,
+     "costo_mediano": 26.85
+    },
+    "sai": {
+     "strutture": 76,
+     "capienza": 701,
+     "presenze": 526
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 11,
+     "capienza": 646,
+     "presenze": 562,
+     "costo_mediano": 28.16
+    },
+    "sai": {
+     "strutture": 77,
+     "capienza": 690,
+     "presenze": 564
+    }
+   }
+  },
+  "PARMA": {
+   "2018": {
+    "cas": {
+     "centri": 146,
+     "capienza": 1665,
+     "presenze": 1059,
+     "costo_mediano": 34.0
+    },
+    "sai": {
+     "strutture": 71,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 118,
+     "capienza": 1250,
+     "presenze": 697,
+     "costo_mediano": 21.35
+    },
+    "sai": {
+     "strutture": 72,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 77,
+     "capienza": 824,
+     "presenze": 650,
+     "costo_mediano": 21.35
+    },
+    "sai": {
+     "strutture": 72,
+     "capienza": 304,
+     "presenze": 224
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 84,
+     "capienza": 738,
+     "presenze": 484,
+     "costo_mediano": 21.35
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 64,
+     "capienza": 603,
+     "presenze": 561,
+     "costo_mediano": 21.35
+    },
+    "sai": {
+     "strutture": 78,
+     "capienza": 375,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 54,
+     "capienza": 721,
+     "presenze": 802,
+     "costo_mediano": 24.56
+    },
+    "sai": {
+     "strutture": 87,
+     "capienza": 418,
+     "presenze": 373
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 71,
+     "capienza": 818,
+     "presenze": 774,
+     "costo_mediano": 24.56
+    },
+    "sai": {
+     "strutture": 87,
+     "capienza": 413,
+     "presenze": 388
+    }
+   }
+  },
+  "PAVIA": {
+   "2018": {
+    "cas": {
+     "centri": 83,
+     "capienza": 1788,
+     "presenze": 1250,
+     "costo_mediano": 34.8
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 66,
+     "capienza": 1385,
+     "presenze": 909,
+     "costo_mediano": 23.0
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 38,
+     "capienza": 888,
+     "presenze": 743,
+     "costo_mediano": 25.44
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": 64,
+     "presenze": 69
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 35,
+     "capienza": 806,
+     "presenze": 681,
+     "costo_mediano": 29.0
+    },
+    "sai": {
+     "strutture": 9,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 37,
+     "capienza": 981,
+     "presenze": 957,
+     "costo_mediano": 29.0
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": 75,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 41,
+     "capienza": 1097,
+     "presenze": 1197,
+     "costo_mediano": 29.0
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": 75,
+     "presenze": 48
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 39,
+     "capienza": 1076,
+     "presenze": 1184,
+     "costo_mediano": 29.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 65,
+     "presenze": 52
+    }
+   }
+  },
+  "PERUGIA": {
+   "2018": {
+    "cas": {
+     "centri": 159,
+     "capienza": 1626,
+     "presenze": 1157,
+     "costo_mediano": 31.0
+    },
+    "sai": {
+     "strutture": 42,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 141,
+     "capienza": 1570,
+     "presenze": 761,
+     "costo_mediano": 31.0
+    },
+    "sai": {
+     "strutture": 51,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 61,
+     "capienza": 786,
+     "presenze": 558,
+     "costo_mediano": 25.25
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": 212,
+     "presenze": 168
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 59,
+     "capienza": 805,
+     "presenze": 773,
+     "costo_mediano": 24.39
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 91,
+     "capienza": 1232,
+     "presenze": 1141,
+     "costo_mediano": 24.39
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": 262,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 110,
+     "capienza": 1437,
+     "presenze": 1468,
+     "costo_mediano": 24.55
+    },
+    "sai": {
+     "strutture": 54,
+     "capienza": 294,
+     "presenze": 205
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 24,
+     "capienza": 1405,
+     "presenze": 1565,
+     "costo_mediano": 24.89
+    },
+    "sai": {
+     "strutture": 59,
+     "capienza": 294,
+     "presenze": 267
+    }
+   }
+  },
+  "PESARO E URBINO": {
+   "2018": {
+    "cas": {
+     "centri": 58,
+     "capienza": 836,
+     "presenze": 570,
+     "costo_mediano": 33.68
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 58,
+     "capienza": 851,
+     "presenze": 261,
+     "costo_mediano": 33.68
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 16,
+     "capienza": 261,
+     "presenze": 215,
+     "costo_mediano": 20.49
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 152,
+     "presenze": 77
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 32,
+     "capienza": 365,
+     "presenze": 351,
+     "costo_mediano": 20.49
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 42,
+     "capienza": 531,
+     "presenze": 513,
+     "costo_mediano": 26.82
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": 171,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 63,
+     "capienza": 795,
+     "presenze": 719,
+     "costo_mediano": 24.32
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 222,
+     "presenze": 167
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 54,
+     "capienza": 698,
+     "presenze": 617,
+     "costo_mediano": 24.32
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 221,
+     "presenze": 193
+    }
+   }
+  },
+  "PESCARA": {
+   "2018": {
+    "cas": {
+     "centri": 23,
+     "capienza": 868,
+     "presenze": 544,
+     "costo_mediano": 32.95
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 20,
+     "capienza": 708,
+     "presenze": 181,
+     "costo_mediano": 32.95
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 10,
+     "capienza": 271,
+     "presenze": 164,
+     "costo_mediano": 21.39
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 230,
+     "presenze": 116
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 6,
+     "capienza": 90,
+     "presenze": 88,
+     "costo_mediano": 27.63
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 6,
+     "capienza": 202,
+     "presenze": 195,
+     "costo_mediano": 28.09
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": 182,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 17,
+     "capienza": 516,
+     "presenze": 620,
+     "costo_mediano": 29.3
+    },
+    "sai": {
+     "strutture": 24,
+     "capienza": 140,
+     "presenze": 130
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 17,
+     "capienza": 550,
+     "presenze": 496,
+     "costo_mediano": 28.29
+    },
+    "sai": {
+     "strutture": 24,
+     "capienza": 140,
+     "presenze": 126
+    }
+   }
+  },
+  "PIACENZA": {
+   "2018": {
+    "cas": {
+     "centri": 91,
+     "capienza": 1131,
+     "presenze": 890,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 82,
+     "capienza": 861,
+     "presenze": 638,
+     "costo_mediano": 25.5
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 69,
+     "capienza": 583,
+     "presenze": 483,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 21,
+     "presenze": 18
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 42,
+     "capienza": 461,
+     "presenze": 400,
+     "costo_mediano": 22.8
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 47,
+     "capienza": 479,
+     "presenze": 492,
+     "costo_mediano": 22.8
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 38,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 53,
+     "capienza": 580,
+     "presenze": 643,
+     "costo_mediano": 28.89
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": 34,
+     "presenze": 26
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 47,
+     "capienza": 528,
+     "presenze": 514,
+     "costo_mediano": 26.0
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 36,
+     "presenze": 29
+    }
+   }
+  },
+  "PISA": {
+   "2018": {
+    "cas": {
+     "centri": 116,
+     "capienza": 1435,
+     "presenze": 1101,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 97,
+     "capienza": 1212,
+     "presenze": 773,
+     "costo_mediano": 28.35
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 67,
+     "capienza": 830,
+     "presenze": 592,
+     "costo_mediano": 21.38
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": 70,
+     "presenze": 60
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 56,
+     "capienza": 648,
+     "presenze": 496,
+     "costo_mediano": 29.37
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 54,
+     "capienza": 647,
+     "presenze": 625,
+     "costo_mediano": 29.39
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": 74,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 58,
+     "capienza": 883,
+     "presenze": 971,
+     "costo_mediano": 28.14
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 84,
+     "presenze": 65
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 58,
+     "capienza": 992,
+     "presenze": 969,
+     "costo_mediano": 27.93
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 84,
+     "presenze": 73
+    }
+   }
+  },
+  "PISTOIA": {
+   "2018": {
+    "cas": {
+     "centri": 78,
+     "capienza": 1025,
+     "presenze": 585,
+     "costo_mediano": 36.21
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 58,
+     "capienza": 781,
+     "presenze": 326,
+     "costo_mediano": 28.97
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 32,
+     "capienza": 243,
+     "presenze": 235,
+     "costo_mediano": 28.97
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": 146,
+     "presenze": 105
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 27,
+     "capienza": 207,
+     "presenze": 207,
+     "costo_mediano": 28.97
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 18,
+     "capienza": 187,
+     "presenze": 215,
+     "costo_mediano": 28.97
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 177,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 21,
+     "capienza": 404,
+     "presenze": 481,
+     "costo_mediano": 26.99
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": 184,
+     "presenze": 146
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 21,
+     "capienza": 415,
+     "presenze": 450,
+     "costo_mediano": 26.99
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": 176,
+     "presenze": 154
+    }
+   }
+  },
+  "PORDENONE": {
+   "2018": {
+    "cas": {
+     "centri": 116,
+     "capienza": 987,
+     "presenze": 800,
+     "costo_mediano": 34.49
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 115,
+     "capienza": 986,
+     "presenze": 334,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 96,
+     "capienza": 432,
+     "presenze": 305,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": 94,
+     "presenze": 94
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 50,
+     "capienza": 446,
+     "presenze": 406,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 52,
+     "capienza": 455,
+     "presenze": 440,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 94,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 37,
+     "capienza": 499,
+     "presenze": 495,
+     "costo_mediano": 27.56
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 112,
+     "presenze": 93
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 26,
+     "capienza": 561,
+     "presenze": 553,
+     "costo_mediano": 24.5
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": 113,
+     "presenze": 99
+    }
+   }
+  },
+  "POTENZA": {
+   "2018": {
+    "cas": {
+     "centri": 81,
+     "capienza": 1364,
+     "presenze": 1056,
+     "costo_mediano": 30.8
+    },
+    "sai": {
+     "strutture": 46,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 112,
+     "capienza": 1480,
+     "presenze": 739,
+     "costo_mediano": 20.45
+    },
+    "sai": {
+     "strutture": 52,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 74,
+     "capienza": 639,
+     "presenze": 639,
+     "costo_mediano": 20.4
+    },
+    "sai": {
+     "strutture": 55,
+     "capienza": 477,
+     "presenze": 313
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 80,
+     "capienza": 785,
+     "presenze": 711,
+     "costo_mediano": 20.4
+    },
+    "sai": {
+     "strutture": 58,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 82,
+     "capienza": 910,
+     "presenze": 882,
+     "costo_mediano": null
+    },
+    "sai": {
+     "strutture": 57,
+     "capienza": 521,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 100,
+     "capienza": 1167,
+     "presenze": 1125,
+     "costo_mediano": 28.3
+    },
+    "sai": {
+     "strutture": 91,
+     "capienza": 679,
+     "presenze": 517
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 94,
+     "capienza": 1091,
+     "presenze": 1027,
+     "costo_mediano": 24.75
+    },
+    "sai": {
+     "strutture": 94,
+     "capienza": 679,
+     "presenze": 561
+    }
+   }
+  },
+  "PRATO": {
+   "2018": {
+    "cas": {
+     "centri": 37,
+     "capienza": 702,
+     "presenze": 601,
+     "costo_mediano": 34.33
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 34,
+     "capienza": 675,
+     "presenze": 366,
+     "costo_mediano": 31.34
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 24,
+     "capienza": 327,
+     "presenze": 297,
+     "costo_mediano": 29.85
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": 80,
+     "presenze": 62
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 17,
+     "capienza": 306,
+     "presenze": 240,
+     "costo_mediano": 28.39
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 17,
+     "capienza": 341,
+     "presenze": 329,
+     "costo_mediano": 28.39
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 94,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 16,
+     "capienza": 375,
+     "presenze": 408,
+     "costo_mediano": 29.27
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 100,
+     "presenze": 86
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 13,
+     "capienza": 335,
+     "presenze": 396,
+     "costo_mediano": 35.74
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 100,
+     "presenze": 97
+    }
+   }
+  },
+  "RAGUSA": {
+   "2018": {
+    "cas": {
+     "centri": 29,
+     "capienza": 1146,
+     "presenze": 792,
+     "costo_mediano": 34.0
+    },
+    "sai": {
+     "strutture": 45,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 28,
+     "capienza": 1117,
+     "presenze": 540,
+     "costo_mediano": 34.0
+    },
+    "sai": {
+     "strutture": 45,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 19,
+     "capienza": 692,
+     "presenze": 520,
+     "costo_mediano": 34.5
+    },
+    "sai": {
+     "strutture": 46,
+     "capienza": 439,
+     "presenze": 329
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 18,
+     "capienza": 717,
+     "presenze": 540,
+     "costo_mediano": 29.43
+    },
+    "sai": {
+     "strutture": 56,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 17,
+     "capienza": 788,
+     "presenze": 779,
+     "costo_mediano": 17.14
+    },
+    "sai": {
+     "strutture": 67,
+     "capienza": 619,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 16,
+     "capienza": 779,
+     "presenze": 789,
+     "costo_mediano": 36.8
+    },
+    "sai": {
+     "strutture": 71,
+     "capienza": 635,
+     "presenze": 450
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 17,
+     "capienza": 901,
+     "presenze": 661,
+     "costo_mediano": 35.65
+    },
+    "sai": {
+     "strutture": 65,
+     "capienza": 576,
+     "presenze": 501
+    }
+   }
+  },
+  "RAVENNA": {
+   "2018": {
+    "cas": {
+     "centri": 116,
+     "capienza": 1520,
+     "presenze": 999,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 111,
+     "capienza": 1435,
+     "presenze": 806,
+     "costo_mediano": 18.87
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 75,
+     "capienza": 851,
+     "presenze": 766,
+     "costo_mediano": 18.87
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 102,
+     "presenze": 105
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 76,
+     "capienza": 922,
+     "presenze": 936,
+     "costo_mediano": 25.6
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 90,
+     "capienza": 1349,
+     "presenze": 1289,
+     "costo_mediano": 28.27
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": 179,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 96,
+     "capienza": 1520,
+     "presenze": 1359,
+     "costo_mediano": 30.73
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": 202,
+     "presenze": 168
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 92,
+     "capienza": 1454,
+     "presenze": 1222,
+     "costo_mediano": 30.73
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": 202,
+     "presenze": 160
+    }
+   }
+  },
+  "REGGIO CALABRIA": {
+   "2018": {
+    "cas": {
+     "centri": 14,
+     "capienza": 273,
+     "presenze": 69,
+     "costo_mediano": 36.92
+    },
+    "sai": {
+     "strutture": 170,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 6,
+     "capienza": 132,
+     "presenze": 115,
+     "costo_mediano": 31.29
+    },
+    "sai": {
+     "strutture": 169,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 20,
+     "capienza": 238,
+     "presenze": 143,
+     "costo_mediano": 21.73
+    },
+    "sai": {
+     "strutture": 161,
+     "capienza": 875,
+     "presenze": 386
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 23,
+     "capienza": 343,
+     "presenze": 253,
+     "costo_mediano": 31.92
+    },
+    "sai": {
+     "strutture": 145,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 18,
+     "capienza": 248,
+     "presenze": 225,
+     "costo_mediano": 31.92
+    },
+    "sai": {
+     "strutture": 140,
+     "capienza": 776,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 22,
+     "capienza": 340,
+     "presenze": 291,
+     "costo_mediano": 25.81
+    },
+    "sai": {
+     "strutture": 162,
+     "capienza": 891,
+     "presenze": 622
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 20,
+     "capienza": 793,
+     "presenze": 336,
+     "costo_mediano": 25.81
+    },
+    "sai": {
+     "strutture": 165,
+     "capienza": 928,
+     "presenze": 697
+    }
+   }
+  },
+  "REGGIO NELL'EMILIA": {
+   "2018": {
+    "cas": {
+     "centri": 357,
+     "capienza": 2333,
+     "presenze": 1512,
+     "costo_mediano": 34.8
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 364,
+     "capienza": 2365,
+     "presenze": 1273,
+     "costo_mediano": 29.2
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 378,
+     "capienza": 1396,
+     "presenze": 1154,
+     "costo_mediano": 29.15
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": 120,
+     "presenze": 107
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 396,
+     "capienza": 1122,
+     "presenze": 810,
+     "costo_mediano": 29.15
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 236,
+     "capienza": 1274,
+     "presenze": 1078,
+     "costo_mediano": 29.15
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": 152,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 259,
+     "capienza": 1522,
+     "presenze": 1383,
+     "costo_mediano": 34.1
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 160,
+     "presenze": 132
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 261,
+     "capienza": 1464,
+     "presenze": 1281,
+     "costo_mediano": 34.1
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 151,
+     "presenze": 146
+    }
+   }
+  },
+  "RIETI": {
+   "2018": {
+    "cas": {
+     "centri": 94,
+     "capienza": 571,
+     "presenze": 497,
+     "costo_mediano": 34.58
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 102,
+     "capienza": 619,
+     "presenze": 491,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 41,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 109,
+     "capienza": 502,
+     "presenze": 492,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 177,
+     "presenze": 126
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 102,
+     "capienza": 537,
+     "presenze": 522,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 126,
+     "capienza": 695,
+     "presenze": 697,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": 179,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 147,
+     "capienza": 834,
+     "presenze": 855,
+     "costo_mediano": 24.72
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 186,
+     "presenze": 153
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 158,
+     "capienza": 871,
+     "presenze": 904,
+     "costo_mediano": 24.72
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 172,
+     "presenze": 147
+    }
+   }
+  },
+  "RIMINI": {
+   "2018": {
+    "cas": {
+     "centri": 69,
+     "capienza": 735,
+     "presenze": 548,
+     "costo_mediano": 34.49
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 45,
+     "capienza": 604,
+     "presenze": 445,
+     "costo_mediano": 34.49
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 46,
+     "capienza": 470,
+     "presenze": 396,
+     "costo_mediano": 34.49
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 100,
+     "presenze": 89
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 42,
+     "capienza": 440,
+     "presenze": 412,
+     "costo_mediano": 34.49
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 36,
+     "capienza": 460,
+     "presenze": 423,
+     "costo_mediano": 34.49
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 109,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 50,
+     "capienza": 766,
+     "presenze": 766,
+     "costo_mediano": 27.05
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": 112,
+     "presenze": 89
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 49,
+     "capienza": 762,
+     "presenze": 716,
+     "costo_mediano": 25.62
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": 112,
+     "presenze": 101
+    }
+   }
+  },
+  "ROMA": {
+   "2018": {
+    "cas": {
+     "centri": 74,
+     "capienza": 4212,
+     "presenze": 3619,
+     "costo_mediano": 34.89
+    },
+    "sai": {
+     "strutture": 87,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 72,
+     "capienza": 4997,
+     "presenze": 2249,
+     "costo_mediano": 34.89
+    },
+    "sai": {
+     "strutture": 98,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 38,
+     "capienza": 2629,
+     "presenze": 2204,
+     "costo_mediano": 34.89
+    },
+    "sai": {
+     "strutture": 101,
+     "capienza": 2669,
+     "presenze": 1766
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 38,
+     "capienza": 2024,
+     "presenze": 2227,
+     "costo_mediano": 30.87
+    },
+    "sai": {
+     "strutture": 88,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 58,
+     "capienza": 3443,
+     "presenze": 3460,
+     "costo_mediano": 25.3
+    },
+    "sai": {
+     "strutture": 102,
+     "capienza": 1772,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 50,
+     "capienza": 5002,
+     "presenze": 5188,
+     "costo_mediano": 33.05
+    },
+    "sai": {
+     "strutture": 118,
+     "capienza": 1514,
+     "presenze": 1283
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 50,
+     "capienza": 5226,
+     "presenze": 5565,
+     "costo_mediano": 33.8
+    },
+    "sai": {
+     "strutture": 125,
+     "capienza": 1554,
+     "presenze": 1344
+    }
+   }
+  },
+  "ROVIGO": {
+   "2018": {
+    "cas": {
+     "centri": 49,
+     "capienza": 630,
+     "presenze": 394,
+     "costo_mediano": 36.22
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 40,
+     "capienza": 450,
+     "presenze": 221,
+     "costo_mediano": 36.22
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 27,
+     "capienza": 225,
+     "presenze": 126,
+     "costo_mediano": 22.29
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 35,
+     "presenze": 18
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 14,
+     "capienza": 188,
+     "presenze": 159,
+     "costo_mediano": 23.75
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 12,
+     "capienza": 184,
+     "presenze": 229,
+     "costo_mediano": 28.64
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 35,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 29,
+     "capienza": 347,
+     "presenze": 403,
+     "costo_mediano": 25.64
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 30,
+     "presenze": 28
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 33,
+     "capienza": 379,
+     "presenze": 407,
+     "costo_mediano": 28.92
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 30,
+     "presenze": 25
+    }
+   }
+  },
+  "SALERNO": {
+   "2018": {
+    "cas": {
+     "centri": 54,
+     "capienza": 4298,
+     "presenze": 1955,
+     "costo_mediano": 35.7
+    },
+    "sai": {
+     "strutture": 84,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 47,
+     "capienza": 2454,
+     "presenze": 879,
+     "costo_mediano": 27.8
+    },
+    "sai": {
+     "strutture": 85,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 22,
+     "capienza": 1258,
+     "presenze": 608,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 82,
+     "capienza": 654,
+     "presenze": 411
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 20,
+     "capienza": 968,
+     "presenze": 461,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 81,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 9,
+     "capienza": 937,
+     "presenze": 926,
+     "costo_mediano": 29.88
+    },
+    "sai": {
+     "strutture": 102,
+     "capienza": 782,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 28,
+     "capienza": 1866,
+     "presenze": 1704,
+     "costo_mediano": 30.66
+    },
+    "sai": {
+     "strutture": 145,
+     "capienza": 1083,
+     "presenze": 916
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 28,
+     "capienza": 1820,
+     "presenze": 1671,
+     "costo_mediano": 29.88
+    },
+    "sai": {
+     "strutture": 158,
+     "capienza": 1105,
+     "presenze": 932
+    }
+   }
+  },
+  "SASSARI": {
+   "2018": {
+    "cas": {
+     "centri": 32,
+     "capienza": 2879,
+     "presenze": 1040,
+     "costo_mediano": 36.31
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 25,
+     "capienza": 2641,
+     "presenze": 473,
+     "costo_mediano": 34.65
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 15,
+     "capienza": 620,
+     "presenze": 242,
+     "costo_mediano": 22.98
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": 84,
+     "presenze": 32
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 10,
+     "capienza": 596,
+     "presenze": 201,
+     "costo_mediano": 22.27
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 5,
+     "capienza": 242,
+     "presenze": 304,
+     "costo_mediano": 29.01
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": 67,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 11,
+     "capienza": 733,
+     "presenze": 814,
+     "costo_mediano": 32.09
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": 104,
+     "presenze": 86
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 9,
+     "capienza": 678,
+     "presenze": 640,
+     "costo_mediano": 35.34
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": 104,
+     "presenze": 87
+    }
+   }
+  },
+  "SAVONA": {
+   "2018": {
+    "cas": {
+     "centri": 97,
+     "capienza": 999,
+     "presenze": 767,
+     "costo_mediano": 34.99
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 88,
+     "capienza": 1008,
+     "presenze": 554,
+     "costo_mediano": 29.31
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 42,
+     "capienza": 621,
+     "presenze": 444,
+     "costo_mediano": 29.34
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 245,
+     "presenze": 197
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 50,
+     "capienza": 540,
+     "presenze": 427,
+     "costo_mediano": 28.17
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 92,
+     "capienza": 937,
+     "presenze": 902,
+     "costo_mediano": 28.17
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 234,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 109,
+     "capienza": 1102,
+     "presenze": 1191,
+     "costo_mediano": 27.6
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": 246,
+     "presenze": 216
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 108,
+     "capienza": 1220,
+     "presenze": 1086,
+     "costo_mediano": 28.33
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": 245,
+     "presenze": 232
+    }
+   }
+  },
+  "SIENA": {
+   "2018": {
+    "cas": {
+     "centri": 77,
+     "capienza": 857,
+     "presenze": 679,
+     "costo_mediano": 34.82
+    },
+    "sai": {
+     "strutture": 4,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 62,
+     "capienza": 838,
+     "presenze": 370,
+     "costo_mediano": 25.5
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 42,
+     "capienza": 515,
+     "presenze": 509,
+     "costo_mediano": 26.35
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": 33,
+     "presenze": 32
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 63,
+     "capienza": 655,
+     "presenze": 623,
+     "costo_mediano": 28.74
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 68,
+     "capienza": 1100,
+     "presenze": 1001,
+     "costo_mediano": 28.74
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": 39,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 55,
+     "capienza": 1306,
+     "presenze": 1247,
+     "costo_mediano": 28.74
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 45,
+     "presenze": 42
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 52,
+     "capienza": 1164,
+     "presenze": 1085,
+     "costo_mediano": 27.76
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 45,
+     "presenze": 43
+    }
+   }
+  },
+  "SIRACUSA": {
+   "2018": {
+    "cas": {
+     "centri": 18,
+     "capienza": 950,
+     "presenze": 531,
+     "costo_mediano": 34.5
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 10,
+     "capienza": 749,
+     "presenze": 240,
+     "costo_mediano": 34.58
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 4,
+     "capienza": 384,
+     "presenze": 238,
+     "costo_mediano": 24.76
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 361,
+     "presenze": 210
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 3,
+     "capienza": 252,
+     "presenze": 200,
+     "costo_mediano": 25.13
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 3,
+     "capienza": 252,
+     "presenze": 243,
+     "costo_mediano": 25.13
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": 444,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 4,
+     "capienza": 292,
+     "presenze": 290,
+     "costo_mediano": 28.04
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": 400,
+     "presenze": 291
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 6,
+     "capienza": 902,
+     "presenze": 294,
+     "costo_mediano": 27.55
+    },
+    "sai": {
+     "strutture": 46,
+     "capienza": 366,
+     "presenze": 310
+    }
+   }
+  },
+  "SONDRIO": {
+   "2018": {
+    "cas": {
+     "centri": 68,
+     "capienza": 749,
+     "presenze": 488,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 79,
+     "capienza": 814,
+     "presenze": 337,
+     "costo_mediano": 29.8
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 47,
+     "capienza": 396,
+     "presenze": 294,
+     "costo_mediano": 27.5
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 45,
+     "presenze": 33
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 53,
+     "capienza": 358,
+     "presenze": 327,
+     "costo_mediano": 27.5
+    },
+    "sai": {
+     "strutture": 11,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 81,
+     "capienza": 466,
+     "presenze": 425,
+     "costo_mediano": 23.6
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": 67,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 61,
+     "capienza": 483,
+     "presenze": 449,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": 67,
+     "presenze": 56
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 48,
+     "capienza": 428,
+     "presenze": 458,
+     "costo_mediano": 24.57
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": 67,
+     "presenze": 60
+    }
+   }
+  },
+  "SUD SARDEGNA": {
+   "2018": {
+    "cas": {
+     "centri": 42,
+     "capienza": 1148,
+     "presenze": 533,
+     "costo_mediano": 34.96
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 26,
+     "capienza": 842,
+     "presenze": 221,
+     "costo_mediano": 26.01
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 21,
+     "capienza": 329,
+     "presenze": 262,
+     "costo_mediano": 26.06
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": 35,
+     "presenze": 24
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 5,
+     "capienza": 246,
+     "presenze": 249,
+     "costo_mediano": 26.06
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 12,
+     "capienza": 358,
+     "presenze": 394,
+     "costo_mediano": 28.59
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": 35,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 13,
+     "capienza": 588,
+     "presenze": 767,
+     "costo_mediano": 33.68
+    },
+    "sai": {
+     "strutture": 9,
+     "capienza": 54,
+     "presenze": 50
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 13,
+     "capienza": 587,
+     "presenze": 743,
+     "costo_mediano": 32.66
+    },
+    "sai": {
+     "strutture": 10,
+     "capienza": 70,
+     "presenze": 60
+    }
+   }
+  },
+  "TARANTO": {
+   "2018": {
+    "cas": {
+     "centri": 52,
+     "capienza": 1511,
+     "presenze": 1211,
+     "costo_mediano": 34.4
+    },
+    "sai": {
+     "strutture": 45,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 48,
+     "capienza": 1693,
+     "presenze": 646,
+     "costo_mediano": 34.4
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 32,
+     "capienza": 638,
+     "presenze": 390,
+     "costo_mediano": 29.34
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 243,
+     "presenze": 183
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 19,
+     "capienza": 727,
+     "presenze": 550,
+     "costo_mediano": 26.35
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 14,
+     "capienza": 584,
+     "presenze": 440,
+     "costo_mediano": 26.43
+    },
+    "sai": {
+     "strutture": 38,
+     "capienza": 237,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 22,
+     "capienza": 959,
+     "presenze": 767,
+     "costo_mediano": 30.3
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": 268,
+     "presenze": 165
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 24,
+     "capienza": 691,
+     "presenze": 684,
+     "costo_mediano": 32.52
+    },
+    "sai": {
+     "strutture": 45,
+     "capienza": 268,
+     "presenze": 208
+    }
+   }
+  },
+  "TERAMO": {
+   "2018": {
+    "cas": {
+     "centri": 36,
+     "capienza": 1021,
+     "presenze": 611,
+     "costo_mediano": 34.23
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 34,
+     "capienza": 690,
+     "presenze": 272,
+     "costo_mediano": 17.97
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 31,
+     "capienza": 306,
+     "presenze": 188,
+     "costo_mediano": 17.97
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 166,
+     "presenze": 70
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 11,
+     "capienza": 335,
+     "presenze": 288,
+     "costo_mediano": 20.41
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 15,
+     "capienza": 475,
+     "presenze": 535,
+     "costo_mediano": 21.47
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": 224,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 12,
+     "capienza": 720,
+     "presenze": 936,
+     "costo_mediano": 28.26
+    },
+    "sai": {
+     "strutture": 43,
+     "capienza": 259,
+     "presenze": 229
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 14,
+     "capienza": 842,
+     "presenze": 863,
+     "costo_mediano": 30.62
+    },
+    "sai": {
+     "strutture": 41,
+     "capienza": 240,
+     "presenze": 219
+    }
+   }
+  },
+  "TERNI": {
+   "2018": {
+    "cas": {
+     "centri": 93,
+     "capienza": 762,
+     "presenze": 521,
+     "costo_mediano": 40.26
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 85,
+     "capienza": 712,
+     "presenze": 388,
+     "costo_mediano": 36.54
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 57,
+     "capienza": 506,
+     "presenze": 394,
+     "costo_mediano": 29.95
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": 206,
+     "presenze": 119
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 91,
+     "capienza": 550,
+     "presenze": 421,
+     "costo_mediano": 28.04
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 90,
+     "capienza": 579,
+     "presenze": 522,
+     "costo_mediano": 27.05
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": 171,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 88,
+     "capienza": 694,
+     "presenze": 579,
+     "costo_mediano": 27.05
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": 183,
+     "presenze": 152
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 69,
+     "capienza": 618,
+     "presenze": 596,
+     "costo_mediano": 27.05
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": 183,
+     "presenze": 154
+    }
+   }
+  },
+  "TORINO": {
+   "2018": {
+    "cas": {
+     "centri": 442,
+     "capienza": 4059,
+     "presenze": 3924,
+     "costo_mediano": 36.7
+    },
+    "sai": {
+     "strutture": 142,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 486,
+     "capienza": 4817,
+     "presenze": 3346,
+     "costo_mediano": 36.7
+    },
+    "sai": {
+     "strutture": 148,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 381,
+     "capienza": 3243,
+     "presenze": 2796,
+     "costo_mediano": 35.7
+    },
+    "sai": {
+     "strutture": 159,
+     "capienza": 1008,
+     "presenze": 873
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 390,
+     "capienza": 2857,
+     "presenze": 2457,
+     "costo_mediano": null
+    },
+    "sai": {
+     "strutture": 167,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 298,
+     "capienza": 3078,
+     "presenze": 3126,
+     "costo_mediano": 26.18
+    },
+    "sai": {
+     "strutture": 216,
+     "capienza": 1333,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 212,
+     "capienza": 3962,
+     "presenze": 4122,
+     "costo_mediano": 28.23
+    },
+    "sai": {
+     "strutture": 236,
+     "capienza": 1413,
+     "presenze": 1279
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 209,
+     "capienza": 4164,
+     "presenze": 4051,
+     "costo_mediano": 24.96
+    },
+    "sai": {
+     "strutture": 239,
+     "capienza": 1427,
+     "presenze": 1314
+    }
+   }
+  },
+  "TRAPANI": {
+   "2018": {
+    "cas": {
+     "centri": 20,
+     "capienza": 1537,
+     "presenze": 816,
+     "costo_mediano": 32.99
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 19,
+     "capienza": 1199,
+     "presenze": 458,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 9,
+     "capienza": 473,
+     "presenze": 322,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": 607,
+     "presenze": 281
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 8,
+     "capienza": 356,
+     "presenze": 307,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 47,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 8,
+     "capienza": 398,
+     "presenze": 371,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 62,
+     "capienza": 816,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 6,
+     "capienza": 315,
+     "presenze": 307,
+     "costo_mediano": 26.65
+    },
+    "sai": {
+     "strutture": 72,
+     "capienza": 904,
+     "presenze": 611
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 6,
+     "capienza": 609,
+     "presenze": 247,
+     "costo_mediano": 27.32
+    },
+    "sai": {
+     "strutture": 61,
+     "capienza": 830,
+     "presenze": 721
+    }
+   }
+  },
+  "TRENTO": {
+   "2018": {
+    "cas": {
+     "centri": 208,
+     "capienza": 1768,
+     "presenze": 1225,
+     "costo_mediano": 33.0
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 200,
+     "capienza": 1900,
+     "presenze": 821,
+     "costo_mediano": 26.0
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 191,
+     "capienza": 703,
+     "presenze": 569,
+     "costo_mediano": 26.0
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": 148,
+     "presenze": 125
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 80,
+     "capienza": 576,
+     "presenze": 546,
+     "costo_mediano": 33.0
+    },
+    "sai": {
+     "strutture": 25,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 139,
+     "capienza": 1207,
+     "presenze": 1135,
+     "costo_mediano": 33.0
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": 116,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 116,
+     "capienza": 1036,
+     "presenze": 1018,
+     "costo_mediano": 33.0
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": 142,
+     "presenze": 109
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 107,
+     "capienza": 990,
+     "presenze": 990,
+     "costo_mediano": 36.0
+    },
+    "sai": {
+     "strutture": 32,
+     "capienza": 132,
+     "presenze": 122
+    }
+   }
+  },
+  "TREVISO": {
+   "2018": {
+    "cas": {
+     "centri": 100,
+     "capienza": 2043,
+     "presenze": 1469,
+     "costo_mediano": 34.52
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 77,
+     "capienza": 1606,
+     "presenze": 860,
+     "costo_mediano": 34.49
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 16,
+     "capienza": 875,
+     "presenze": 566,
+     "costo_mediano": 18.0
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 64,
+     "presenze": 57
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 21,
+     "capienza": 1103,
+     "presenze": 832,
+     "costo_mediano": 18.33
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 8,
+     "capienza": 987,
+     "presenze": 926,
+     "costo_mediano": 29.3
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 64,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 14,
+     "capienza": 1471,
+     "presenze": 1503,
+     "costo_mediano": 30.47
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 64,
+     "presenze": 54
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 13,
+     "capienza": 1404,
+     "presenze": 1364,
+     "costo_mediano": 34.18
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 64,
+     "presenze": 48
+    }
+   }
+  },
+  "TRIESTE": {
+   "2018": {
+    "cas": {
+     "centri": 125,
+     "capienza": 1342,
+     "presenze": 1222,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 135,
+     "capienza": 1415,
+     "presenze": 939,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 125,
+     "capienza": 1130,
+     "presenze": 1011,
+     "costo_mediano": 30.11
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 107,
+     "presenze": 87
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 146,
+     "capienza": 1323,
+     "presenze": 989,
+     "costo_mediano": 30.11
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 164,
+     "capienza": 1383,
+     "presenze": 1327,
+     "costo_mediano": 24.55
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": 94,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 181,
+     "capienza": 1306,
+     "presenze": 1271,
+     "costo_mediano": 27.05
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": 90,
+     "presenze": 76
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 173,
+     "capienza": 1250,
+     "presenze": 1208,
+     "costo_mediano": 28.85
+    },
+    "sai": {
+     "strutture": 16,
+     "capienza": 90,
+     "presenze": 86
+    }
+   }
+  },
+  "UDINE": {
+   "2018": {
+    "cas": {
+     "centri": 153,
+     "capienza": 1633,
+     "presenze": 1603,
+     "costo_mediano": 34.85
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 150,
+     "capienza": 1571,
+     "presenze": 846,
+     "costo_mediano": 21.35
+    },
+    "sai": {
+     "strutture": 37,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 109,
+     "capienza": 874,
+     "presenze": 721,
+     "costo_mediano": 23.84
+    },
+    "sai": {
+     "strutture": 27,
+     "capienza": 121,
+     "presenze": 107
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 93,
+     "capienza": 869,
+     "presenze": 802,
+     "costo_mediano": 29.35
+    },
+    "sai": {
+     "strutture": 26,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 158,
+     "capienza": 1618,
+     "presenze": 1409,
+     "costo_mediano": 28.28
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": 60,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 157,
+     "capienza": 1602,
+     "presenze": 1537,
+     "costo_mediano": 28.28
+    },
+    "sai": {
+     "strutture": 15,
+     "capienza": 80,
+     "presenze": 42
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 156,
+     "capienza": 1650,
+     "presenze": 1555,
+     "costo_mediano": 39.37
+    },
+    "sai": {
+     "strutture": 8,
+     "capienza": 50,
+     "presenze": 35
+    }
+   }
+  },
+  "VARESE": {
+   "2018": {
+    "cas": {
+     "centri": 137,
+     "capienza": 1538,
+     "presenze": 1083,
+     "costo_mediano": 36.65
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 130,
+     "capienza": 1417,
+     "presenze": 734,
+     "costo_mediano": 34.0
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 92,
+     "capienza": 700,
+     "presenze": 583,
+     "costo_mediano": 21.4
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 114,
+     "presenze": 82
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 78,
+     "capienza": 585,
+     "presenze": 516,
+     "costo_mediano": 25.61
+    },
+    "sai": {
+     "strutture": 17,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 67,
+     "capienza": 705,
+     "presenze": 686,
+     "costo_mediano": 25.61
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 94,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 83,
+     "capienza": 1015,
+     "presenze": 1165,
+     "costo_mediano": 28.0
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": 110,
+     "presenze": 76
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 95,
+     "capienza": 1239,
+     "presenze": 1199,
+     "costo_mediano": 25.15
+    },
+    "sai": {
+     "strutture": 23,
+     "capienza": 110,
+     "presenze": 80
+    }
+   }
+  },
+  "VENEZIA": {
+   "2018": {
+    "cas": {
+     "centri": 121,
+     "capienza": 4131,
+     "presenze": 1150,
+     "costo_mediano": 36.71
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 79,
+     "capienza": 1025,
+     "presenze": 688,
+     "costo_mediano": 22.41
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 65,
+     "capienza": 668,
+     "presenze": 403,
+     "costo_mediano": 18.88
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 196,
+     "presenze": 115
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 59,
+     "capienza": 511,
+     "presenze": 396,
+     "costo_mediano": 25.79
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 64,
+     "capienza": 843,
+     "presenze": 821,
+     "costo_mediano": 25.41
+    },
+    "sai": {
+     "strutture": 20,
+     "capienza": 161,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 63,
+     "capienza": 1072,
+     "presenze": 1151,
+     "costo_mediano": 25.86
+    },
+    "sai": {
+     "strutture": 22,
+     "capienza": 151,
+     "presenze": 113
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 46,
+     "capienza": 923,
+     "presenze": 800,
+     "costo_mediano": 25.98
+    },
+    "sai": {
+     "strutture": 23,
+     "capienza": 156,
+     "presenze": 139
+    }
+   }
+  },
+  "VERBANO-CUSIO-OSSOLA": {
+   "2018": {
+    "cas": {
+     "centri": 34,
+     "capienza": 497,
+     "presenze": 291,
+     "costo_mediano": 35.0
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 30,
+     "capienza": 399,
+     "presenze": 163,
+     "costo_mediano": 24.27
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 8,
+     "capienza": 183,
+     "presenze": 115,
+     "costo_mediano": 23.79
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 38,
+     "presenze": 20
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 6,
+     "capienza": 164,
+     "presenze": 141,
+     "costo_mediano": 30.48
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 23,
+     "capienza": 371,
+     "presenze": 317,
+     "costo_mediano": 28.42
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 38,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 24,
+     "capienza": 522,
+     "presenze": 480,
+     "costo_mediano": 24.08
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 38,
+     "presenze": 32
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 25,
+     "capienza": 518,
+     "presenze": 456,
+     "costo_mediano": 23.59
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 34,
+     "presenze": 32
+    }
+   }
+  },
+  "VERCELLI": {
+   "2018": {
+    "cas": {
+     "centri": 20,
+     "capienza": 604,
+     "presenze": 440,
+     "costo_mediano": 36.23
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 19,
+     "capienza": 571,
+     "presenze": 216,
+     "costo_mediano": 33.6
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 7,
+     "capienza": 254,
+     "presenze": 226,
+     "costo_mediano": 26.35
+    },
+    "sai": {
+     "strutture": 6,
+     "capienza": 23,
+     "presenze": 22
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 6,
+     "capienza": 254,
+     "presenze": 235,
+     "costo_mediano": 25.98
+    },
+    "sai": {
+     "strutture": 7,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 5,
+     "capienza": 228,
+     "presenze": 228,
+     "costo_mediano": 32.36
+    },
+    "sai": {
+     "strutture": 5,
+     "capienza": 20,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 8,
+     "capienza": 326,
+     "presenze": 396,
+     "costo_mediano": 32.36
+    },
+    "sai": {
+     "strutture": 9,
+     "capienza": 35,
+     "presenze": 23
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 6,
+     "capienza": 380,
+     "presenze": 382,
+     "costo_mediano": 32.36
+    },
+    "sai": {
+     "strutture": 9,
+     "capienza": 35,
+     "presenze": 34
+    }
+   }
+  },
+  "VERONA": {
+   "2018": {
+    "cas": {
+     "centri": 131,
+     "capienza": 2961,
+     "presenze": 1945,
+     "costo_mediano": 34.69
+    },
+    "sai": {
+     "strutture": 14,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 130,
+     "capienza": 2497,
+     "presenze": 1551,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 12,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 114,
+     "capienza": 1433,
+     "presenze": 1398,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": 91,
+     "presenze": 54
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 117,
+     "capienza": 1419,
+     "presenze": 1034,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 13,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 86,
+     "capienza": 1133,
+     "presenze": 1063,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 18,
+     "capienza": 108,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 72,
+     "capienza": 1473,
+     "presenze": 1752,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 21,
+     "capienza": 128,
+     "presenze": 110
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 66,
+     "capienza": 1464,
+     "presenze": 1687,
+     "costo_mediano": 17.99
+    },
+    "sai": {
+     "strutture": 19,
+     "capienza": 122,
+     "presenze": 96
+    }
+   }
+  },
+  "VIBO VALENTIA": {
+   "2018": {
+    "cas": {
+     "centri": 9,
+     "capienza": 693,
+     "presenze": 258,
+     "costo_mediano": 33.67
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 9,
+     "capienza": 358,
+     "presenze": 162,
+     "costo_mediano": 33.67
+    },
+    "sai": {
+     "strutture": 40,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 4,
+     "capienza": 202,
+     "presenze": 121,
+     "costo_mediano": 25.14
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": 179,
+     "presenze": 37
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 3,
+     "capienza": 202,
+     "presenze": 115,
+     "costo_mediano": 24.45
+    },
+    "sai": {
+     "strutture": 33,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 3,
+     "capienza": 198,
+     "presenze": 200,
+     "costo_mediano": 24.45
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": 153,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 4,
+     "capienza": 340,
+     "presenze": 278,
+     "costo_mediano": 24.96
+    },
+    "sai": {
+     "strutture": 45,
+     "capienza": 201,
+     "presenze": 107
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 5,
+     "capienza": 647,
+     "presenze": 333,
+     "costo_mediano": 27.23
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": 201,
+     "presenze": 95
+    }
+   }
+  },
+  "VICENZA": {
+   "2018": {
+    "cas": {
+     "centri": 243,
+     "capienza": 1904,
+     "presenze": 1297,
+     "costo_mediano": 34.99
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 255,
+     "capienza": 1827,
+     "presenze": 647,
+     "costo_mediano": 34.99
+    },
+    "sai": {
+     "strutture": 34,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 122,
+     "capienza": 547,
+     "presenze": 440,
+     "costo_mediano": 22.42
+    },
+    "sai": {
+     "strutture": 35,
+     "capienza": 157,
+     "presenze": 112
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 100,
+     "capienza": 494,
+     "presenze": 380,
+     "costo_mediano": 29.88
+    },
+    "sai": {
+     "strutture": 36,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 169,
+     "capienza": 1105,
+     "presenze": 1073,
+     "costo_mediano": 28.33
+    },
+    "sai": {
+     "strutture": 44,
+     "capienza": 195,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 208,
+     "capienza": 1282,
+     "presenze": 1459,
+     "costo_mediano": 32.5
+    },
+    "sai": {
+     "strutture": 53,
+     "capienza": 234,
+     "presenze": 200
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 198,
+     "capienza": 1237,
+     "presenze": 1339,
+     "costo_mediano": 31.48
+    },
+    "sai": {
+     "strutture": 51,
+     "capienza": 228,
+     "presenze": 188
+    }
+   }
+  },
+  "VITERBO": {
+   "2018": {
+    "cas": {
+     "centri": 85,
+     "capienza": 1680,
+     "presenze": 999,
+     "costo_mediano": 36.75
+    },
+    "sai": {
+     "strutture": 29,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2019": {
+    "cas": {
+     "centri": 75,
+     "capienza": 1108,
+     "presenze": 432,
+     "costo_mediano": 23.66
+    },
+    "sai": {
+     "strutture": 28,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2020": {
+    "cas": {
+     "centri": 20,
+     "capienza": 491,
+     "presenze": 364,
+     "costo_mediano": null
+    },
+    "sai": {
+     "strutture": 30,
+     "capienza": 159,
+     "presenze": 98
+    }
+   },
+   "2021": {
+    "cas": {
+     "centri": 21,
+     "capienza": 523,
+     "presenze": 266,
+     "costo_mediano": null
+    },
+    "sai": {
+     "strutture": 31,
+     "capienza": null,
+     "presenze": null
+    }
+   },
+   "2022": {
+    "cas": {
+     "centri": 18,
+     "capienza": 483,
+     "presenze": 461,
+     "costo_mediano": 25.83
+    },
+    "sai": {
+     "strutture": 39,
+     "capienza": 206,
+     "presenze": null
+    }
+   },
+   "2023": {
+    "cas": {
+     "centri": 33,
+     "capienza": 886,
+     "presenze": 839,
+     "costo_mediano": 25.83
+    },
+    "sai": {
+     "strutture": 49,
+     "capienza": 255,
+     "presenze": 190
+    }
+   },
+   "2024": {
+    "cas": {
+     "centri": 27,
+     "capienza": 886,
+     "presenze": 833,
+     "costo_mediano": 25.83
+    },
+    "sai": {
+     "strutture": 46,
+     "capienza": 229,
+     "presenze": 176
+    }
+   }
+  }
+ }
+}

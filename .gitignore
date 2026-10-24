@@ -14,3 +14,4 @@ sito-dati/
 # dentro output/ versiona solo gli estratti mensili puri
 output/*_completo.csv
 output/accoglienza_2025_ANNO
+dati-centri/
