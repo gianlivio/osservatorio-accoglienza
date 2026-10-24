@@ -26,7 +26,8 @@ VETO = [r"caserm", r"\bcas\.", r"ferrovi", r"\brfi\b", r"binari",
         r"manutenzione impiant", r"energia elettrica", r"fotovoltaic",
         r"segnalament", r"armament", r"\brtb\b", r"\brtf\b", r"tecnologia ducati", r"portierat", r"portineria", r"bancone", r"reception",
         r"foresteria", r"studenti all'estero", r"informazione turistica",
-        r"car rental", r"spettacol"]
+        r"car rental", r"spettacol",
+        r"codice della strada", r"personale (militare )?stranier", r"immigration desk"]
 
 COLONNE = ["cig","cig_accordo_quadro","n_lotti_componenti","oggetto_gara","oggetto_lotto","importo_lotto",
     "importo_complessivo_gara","provincia","luogo_istat","data_pubblicazione",

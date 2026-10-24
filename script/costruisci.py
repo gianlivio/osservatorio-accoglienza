@@ -9,6 +9,7 @@ SOGLIA = 140000
 Z_AGG  = "dati-grezzi/aggiudicazioni_csv.zip"
 Z_VIN  = "dati-grezzi/aggiudicatari_csv.zip"
 OUTJS  = "sito/data/province-lite.json"
+ESCLUSI = "script/esclusi.csv"  # CIG selezionati dal filtro ma estranei all'accoglienza, esclusi a mano
 OUTDIR_PROV = "sito/data/provincia"
 OUTDIR_CSV = "sito/public/dati"
 OUTDIR_ENTI = "sito/data/ente"
@@ -25,12 +26,16 @@ def slug(nome):
     return s
 
 # --- 1. carica gli estratti mensili -----------------------------------------
+esclusi = {r["cig"] for r in csv.DictReader(open(ESCLUSI, encoding="utf-8"))}
+scartati = set()
 righe = []
 visti = set()  # ANAC ripete alcuni CIG negli estratti (stesso CIG con più CPV, o righe identiche): vale la prima riga
 for a in ANNI:
     for f in sorted(glob.glob(f"output/accoglienza_{a}_[01]*.csv")):
         if "_completo" in f: continue
         for r in csv.DictReader(open(f)):
+            if r["cig"] in esclusi:
+                scartati.add(r["cig"]); continue
             if r["cig"] in visti: continue
             visti.add(r["cig"])
             r["anno"] = a
@@ -38,6 +43,7 @@ for a in ANNI:
             r["oggetto_lotto"] = pulisci(r.get("oggetto_lotto"))
             righe.append(r)
 print(f"righe caricate: {len(righe):,}")
+print(f"CIG esclusi a mano: {len(scartati)} di {len(esclusi)}" + (f" (non trovati: {sorted(esclusi - scartati)})" if scartati != esclusi else ""))
 cig = {r["cig"] for r in righe}
 
 # --- 2. una sola passata su ciascun archivio --------------------------------
@@ -267,6 +273,7 @@ dati = {
     ],
     "anni_esito": sorted(ANNI_ESITO),
     "aggiornato": max(data_archivi(arch_agg), data_archivi(arch_vin)),
+    "esclusi_a_mano": len(scartati),
     "amministrazioni": len({r["cf_amministrazione_appaltante"] for r in righe if r["cf_amministrazione_appaltante"]}),
 }
 
