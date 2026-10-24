@@ -326,42 +326,52 @@
  "top_enti": [
   {
    "nome": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04876970486",
    "affidamenti": 3
   },
   {
    "nome": "ISTITUTO DON BOSCO",
+   "cf": "81001070473",
    "affidamenti": 3
   },
   {
    "nome": "GIOVANI E COMUNITA' SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01018520468",
    "affidamenti": 2
   },
   {
    "nome": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "cf": "06515510482",
    "affidamenti": 2
   },
   {
    "nome": "C.A.T. (CENTRO DI ANIMAZIONE TRICCHEBALLACCHE) - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03607960485",
    "affidamenti": 1
   },
   {
    "nome": "OSPITA S.R.L.",
+   "cf": "01592480535",
    "affidamenti": 1
   },
   {
    "nome": "ALI ASSISTENZA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03573110925",
    "affidamenti": 1
   },
   {
    "nome": "ARCI MADIBA ONLUS",
+   "cf": "90052710473",
    "affidamenti": 1
   },
   {
    "nome": "GRUPPO INCONTRO -  SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01576110470",
    "affidamenti": 1
   },
   {
    "nome": "LIPARA                   AGATINO",
+   "cf": "LPRGTN63H24C351Q",
    "affidamenti": 1
   }
  ],

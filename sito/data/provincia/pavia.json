@@ -381,42 +381,52 @@
  "top_enti": [
   {
    "nome": "FINIS TERRAE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02221650183",
    "affidamenti": 3
   },
   {
    "nome": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "cf": "03938000613",
    "affidamenti": 2
   },
   {
    "nome": "INSIEME SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "03603000617",
    "affidamenti": 2
   },
   {
    "nome": "FB - FONDAZIONE BAGLIANI",
+   "cf": "91002350188",
    "affidamenti": 2
   },
   {
    "nome": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "07996650961",
    "affidamenti": 1
   },
   {
    "nome": "MSNA PRESSO FONDAZONE DANIELA E PAOLA",
+   "cf": "90026030750",
    "affidamenti": 1
   },
   {
    "nome": "EURISA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "12071681006",
    "affidamenti": 1
   },
   {
    "nome": "MSNA PRESSO COMUNITÀ ARIES OHANA",
+   "cf": null,
    "affidamenti": 1
   },
   {
    "nome": "VERDI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03056170644",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE UNA CASA ANCHE PER TE ORGANIZZAZIONE NON LUCRATIVA DI UTILITÀ SOCIALE",
+   "cf": "91073620154",
    "affidamenti": 1
   }
  ],

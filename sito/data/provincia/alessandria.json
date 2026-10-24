@@ -185,42 +185,52 @@
  "top_enti": [
   {
    "nome": "MARENOSTRUM - SOCIETA' COOPERATIVA SOCIALE ONLUS E.T.S.",
+   "cf": "02582890063",
    "affidamenti": 3
   },
   {
-   "nome": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
-   "affidamenti": 2
-  },
-  {
    "nome": "ALPI DEL MARE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "03447600044",
    "affidamenti": 2
   },
   {
    "nome": "AZIMUT COOPERATIVA SOCIALE",
+   "cf": "01375190061",
    "affidamenti": 1
   },
   {
    "nome": "LUCII MASSIMO",
+   "cf": "LCUMSM60L17E463R",
+   "affidamenti": 1
+  },
+  {
+   "nome": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
+   "cf": "96050140068",
+   "affidamenti": 1
+  },
+  {
+   "nome": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
+   "cf": "02705660062",
    "affidamenti": 1
   },
   {
    "nome": "NUOVA VITA - SOCIETA' COOPERATIVA SOCIALE SIGLABILE NUOVA VITA -S.C.S.",
+   "cf": "09515800010",
    "affidamenti": 1
   },
   {
    "nome": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02742600063",
    "affidamenti": 1
   },
   {
    "nome": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "cf": "01069810073",
    "affidamenti": 1
   },
   {
    "nome": "CONSORZIO ABC SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
-  },
-  {
-   "nome": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "cf": "02297890069",
    "affidamenti": 1
   }
  ],

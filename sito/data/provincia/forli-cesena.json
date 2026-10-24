@@ -373,42 +373,52 @@
  "top_enti": [
   {
    "nome": "ASSOCIAZIONE DI VOLONTARIATO CROCE D'ORO CESENA",
+   "cf": "90070680401",
    "affidamenti": 20
   },
   {
    "nome": "AMICI DI GIGI SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "03790750404",
    "affidamenti": 4
   },
   {
    "nome": "SI PUO’ FARE SOCIETA’ COOPERATIVA SOCIALE",
+   "cf": "04630770404",
    "affidamenti": 3
   },
   {
    "nome": "ISTITUTO MAESTRE PIE DELL'ADDOLORATA",
+   "cf": "02501340588",
    "affidamenti": 3
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE LA VELA SOC. COOP A.R.L.",
+   "cf": "02303540401",
    "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA DI SOLIDARIETA' SOCIALE  PAOLO  BABINI  SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01876160407",
    "affidamenti": 3
   },
   {
    "nome": "GRAZIA E PACE - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "cf": "02521450409",
    "affidamenti": 3
   },
   {
    "nome": "FONDAZIONE BUON PASTORE - CARITAS FORLI'",
+   "cf": "92074910404",
    "affidamenti": 3
   },
   {
    "nome": "AKKANTO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "00721640407",
    "affidamenti": 2
   },
   {
    "nome": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "cf": "00127690527",
    "affidamenti": 2
   }
  ],

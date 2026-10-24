@@ -446,42 +446,52 @@
  "top_enti": [
   {
    "nome": "L'IMPRONTA - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01927080463",
    "affidamenti": 6
   },
   {
    "nome": "ODISSEA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02095140469",
    "affidamenti": 4
   },
   {
    "nome": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04876970486",
    "affidamenti": 4
   },
   {
    "nome": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01815500465",
    "affidamenti": 4
   },
   {
    "nome": "FONDAZIONE VILLAGGIO FANCIULLO ONLUS",
+   "cf": "92058180461",
    "affidamenti": 2
   },
   {
    "nome": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "cf": "00758240550",
    "affidamenti": 1
   },
   {
    "nome": "A2 SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "02484160466",
    "affidamenti": 1
   },
   {
    "nome": "LUNARDI MOBILI DI LUNARDI GIUSEPPE",
+   "cf": "LNRGPP65L23C996Z",
    "affidamenti": 1
   },
   {
    "nome": "SALVADORI CRISTINA",
+   "cf": "SLVCST71H66A657D",
    "affidamenti": 1
   },
   {
    "nome": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00985350461",
    "affidamenti": 1
   }
  ],

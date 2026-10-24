@@ -496,42 +496,52 @@
  "top_enti": [
   {
    "nome": "CALEIDOS COOPERATIVA SOCIALE ONLUS",
+   "cf": "01663020368",
    "affidamenti": 21
   },
   {
    "nome": "CONSORZIO GRUPPO CEIS COOPERATIVA SOCIALE",
+   "cf": "03228620369",
    "affidamenti": 15
   },
   {
    "nome": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
+   "cf": "02020970360",
    "affidamenti": 7
   },
   {
    "nome": "IL MANTELLO COOPERATIVA SOCIALE ARL",
+   "cf": "02538910361",
    "affidamenti": 4
   },
   {
    "nome": "ASSOCIAZIONE PORTA APERTA",
+   "cf": "94049510368",
    "affidamenti": 4
   },
   {
    "nome": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01193370077",
+   "affidamenti": 3
+  },
+  {
+   "nome": "I VESUVIANI SOC COOP.",
+   "cf": "10419561211",
    "affidamenti": 3
   },
   {
    "nome": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
+   "cf": "01220050395",
    "affidamenti": 3
   },
   {
    "nome": "CENTRO SOCIALE PAPA GIOVANNI XXIII SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S. ABBREVIABILE IN CENTRO SOCIALE PAPA GIOVANNI XXIII SCS - ONLUS",
+   "cf": "80039730355",
    "affidamenti": 2
   },
   {
    "nome": "DOMUS ASSISTENZA SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 1
-  },
-  {
-   "nome": "COOPERATIVA SOCIALE CALEIDOS A R.L.",
+   "cf": "01403100363",
    "affidamenti": 1
   }
  ],

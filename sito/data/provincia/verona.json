@@ -440,42 +440,52 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SOCIALE SERVIZI E ACCOGLIENZA - IL SAMARITANO ONLUS",
+   "cf": "03629530233",
    "affidamenti": 4
   },
   {
    "nome": "FONDAZIONE DON CALABRIA",
+   "cf": "04933260236",
    "affidamenti": 3
   },
   {
    "nome": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04383750231",
    "affidamenti": 2
   },
   {
    "nome": "SAN MARCO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "91006960842",
    "affidamenti": 2
   },
   {
    "nome": "IGEA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02692760024",
    "affidamenti": 1
   },
   {
    "nome": "L'INTRECCIO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04721290239",
    "affidamenti": 1
   },
   {
    "nome": "A.CROSS ONLUS",
+   "cf": "04344290236",
    "affidamenti": 1
   },
   {
    "nome": "A.CROSS IMPRESA SOCIALE",
+   "cf": "93256820239",
    "affidamenti": 1
   },
   {
    "nome": "MANPOWER S.R.L.",
+   "cf": "11947650153",
    "affidamenti": 1
   },
   {
    "nome": "MOBILI DAL DEGAN S.N.C. DI DAL DEGAN SIMONE E DAMIANO",
+   "cf": "03601520236",
    "affidamenti": 1
   }
  ],

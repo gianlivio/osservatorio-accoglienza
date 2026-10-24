@@ -256,42 +256,52 @@
  "top_enti": [
   {
    "nome": "COMUNITA' PER MINORI SANTA LUCIA",
+   "cf": "00435740030",
    "affidamenti": 7
   },
   {
    "nome": "EDUCAMONDO - SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
+   "cf": "07622480015",
    "affidamenti": 6
   },
   {
    "nome": "FRUTTETO A SOCIETA' COOPERATIVA SOCIALE ED IMPRESA SOCIALE ONLUS",
+   "cf": "01633300031",
    "affidamenti": 4
   },
   {
    "nome": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
+   "cf": "16505751004",
    "affidamenti": 2
   },
   {
    "nome": "LA TERRA PROMESSA 2 SOCIET COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS",
+   "cf": "01448260032",
    "affidamenti": 1
   },
   {
    "nome": "VERSOPROBO - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02439320025",
    "affidamenti": 1
   },
   {
    "nome": "LIBERAZIONE E SPERANZA SOCIETA' COOPERATIVA SOCIALE IN BREVE: LIBERAZIONE E SPERANZA S.C.S. O LES S.C.S.",
+   "cf": "94037360032",
    "affidamenti": 1
   },
   {
    "nome": "METROPOLIS CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIV A ONLUS",
+   "cf": "05457290723",
    "affidamenti": 1
   },
   {
    "nome": "NUOVE OPPORTUNITA' SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "17363501002",
    "affidamenti": 1
   },
   {
    "nome": "INVICTUS - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "08141381213",
    "affidamenti": 1
   }
  ],

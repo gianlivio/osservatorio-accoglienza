@@ -312,42 +312,52 @@
  "top_enti": [
   {
    "nome": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03816050128",
    "affidamenti": 6
   },
   {
+   "nome": "IL POLO COOPERATIVA SOCIALE",
+   "cf": "10195821219",
+   "affidamenti": 5
+  },
+  {
    "nome": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "cf": "03991940960",
    "affidamenti": 4
   },
   {
    "nome": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02874570134",
    "affidamenti": 4
   },
   {
    "nome": "ASSOCIAZIONE SOS GIOVANI ONLUS",
+   "cf": "08746180960",
    "affidamenti": 4
   },
   {
    "nome": "IL GIROTONDO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02301780124",
    "affidamenti": 3
   },
   {
    "nome": "FRUTTETO A SOCIETA' COOPERATIVA SOCIALE ED IMPRESA SOCIALE ONLUS",
+   "cf": "01633300031",
    "affidamenti": 3
   },
   {
    "nome": "NEVER LAND SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02889920126",
    "affidamenti": 3
   },
   {
    "nome": "COMUNITA' DI ACCOGLIENZA FONDAZIONE MADRE AMABILE",
+   "cf": "94005110187",
    "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
-   "affidamenti": 3
-  },
-  {
-   "nome": "INTESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03747970014",
    "affidamenti": 3
   }
  ],

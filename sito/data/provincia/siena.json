@@ -362,42 +362,52 @@
  "top_enti": [
   {
    "nome": "CORI S.R.L.",
+   "cf": "06852790481",
    "affidamenti": 4
   },
   {
    "nome": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "cf": "01461840520",
    "affidamenti": 3
   },
   {
    "nome": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
+   "cf": "81001270529",
    "affidamenti": 2
   },
   {
    "nome": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "cf": "00127690527",
    "affidamenti": 2
   },
   {
    "nome": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04516280650",
    "affidamenti": 1
   },
   {
    "nome": "GIULIANA S.R.L.",
+   "cf": "04662790650",
    "affidamenti": 1
   },
   {
    "nome": "CHIARO DI LUNA SNC DI SERIACOPI G. E. C.",
+   "cf": "01039080526",
    "affidamenti": 1
   },
   {
    "nome": "VERDE OASI S.R.L.",
+   "cf": "01593920521",
    "affidamenti": 1
   },
   {
    "nome": "STELLA D'ORO S.R.L.",
+   "cf": "00655750529",
    "affidamenti": 1
   },
   {
    "nome": "ORS ITALIA S.R.L.",
+   "cf": "14875441009",
    "affidamenti": 1
   }
  ],

@@ -579,26 +579,32 @@
  "top_enti": [
   {
    "nome": "HILAL SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03445510260",
    "affidamenti": 25
   },
   {
    "nome": "INTEGRA COOPERATIVA SOCIALE",
+   "cf": "00929870251",
    "affidamenti": 12
   },
   {
    "nome": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02375650260",
    "affidamenti": 10
   },
   {
    "nome": "CIVICO 1 S.R.L.",
+   "cf": "04913820264",
    "affidamenti": 8
   },
   {
    "nome": "CONSORZIO RESTITUIRE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03435430263",
    "affidamenti": 8
   },
   {
    "nome": "NOVA FACILITY S.R.L.",
+   "cf": "03406100275",
    "affidamenti": 2
   }
  ],

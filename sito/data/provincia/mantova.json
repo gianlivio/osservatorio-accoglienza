@@ -165,14 +165,17 @@
  "top_enti": [
   {
    "nome": "OLINDA SOCIETA' COOPERATIVA ONLUS",
+   "cf": "01875990200",
    "affidamenti": 2
   },
   {
    "nome": "ALCE NERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "00624460200",
    "affidamenti": 1
   },
   {
    "nome": "GLI ULTIMI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02680410202",
    "affidamenti": 1
   }
  ],

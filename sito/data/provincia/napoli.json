@@ -482,43 +482,53 @@
  "top_enti": [
   {
    "nome": "IL MIRTO COOPERATIVA SOCIALE",
+   "cf": "07126861215",
    "affidamenti": 10
   },
   {
    "nome": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "06980641218",
    "affidamenti": 8
   },
   {
    "nome": "SERVIZI ALRAIAN S.R.L.",
+   "cf": "04276740612",
    "affidamenti": 6
   },
   {
    "nome": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "cf": "95068820638",
    "affidamenti": 6
   },
   {
    "nome": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "08435881217",
    "affidamenti": 5
   },
   {
    "nome": "LA MANO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "09874611214",
    "affidamenti": 5
   },
   {
    "nome": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "02598210694",
    "affidamenti": 5
   },
   {
+   "nome": "IL SOLE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "06804681218",
+   "affidamenti": 4
+  },
+  {
    "nome": "DEMETRA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "cf": "04846201210",
    "affidamenti": 4
   },
   {
    "nome": "CRESCERE INSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02847631211",
    "affidamenti": 4
-  },
-  {
-   "nome": "AGAPE S.R.L. IMPRESA SOCIALE",
-   "affidamenti": 3
   }
  ],
  "rapporti_ricorrenti": [

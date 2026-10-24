@@ -398,42 +398,52 @@
  "top_enti": [
   {
    "nome": "LA PIETRA ANGOLARE COOPERATIVA SOCIALE",
+   "cf": "02418950743",
    "affidamenti": 2
   },
   {
    "nome": "FRANCESCO ALBERGO",
+   "cf": "LBRFNC67H09A662W",
    "affidamenti": 2
   },
   {
    "nome": "SOLIDARIETA' E RINNOVAMENTO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00617580741",
    "affidamenti": 1
   },
   {
    "nome": "LIPARA                   AGATINO",
+   "cf": "LPRGTN63H24C351Q",
    "affidamenti": 1
   },
   {
    "nome": "ARCI LECCE",
+   "cf": null,
    "affidamenti": 1
   },
   {
    "nome": "ARCI COMITATO TERRITORIALE BRINDISI",
+   "cf": "91024280744",
    "affidamenti": 1
   },
   {
    "nome": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "cf": "16080331008",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE AMICI PER AMORE",
+   "cf": "93314910725",
    "affidamenti": 1
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE OASI ONLUS",
+   "cf": "01313340745",
    "affidamenti": 1
   },
   {
    "nome": "AGAPE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "02252320748",
    "affidamenti": 1
   }
  ],

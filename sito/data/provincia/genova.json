@@ -748,42 +748,52 @@
  "top_enti": [
   {
    "nome": "AGORA' SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03486790102",
    "affidamenti": 11
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE S.A.B.A. ONLUS",
+   "cf": "01062310105",
    "affidamenti": 8
   },
   {
    "nome": "IL CE.STO COOPERATIVA SOCIALE",
+   "cf": "02340800990",
    "affidamenti": 7
   },
   {
    "nome": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "cf": "01860580065",
    "affidamenti": 7
   },
   {
    "nome": "ENTE CHIESA DEL SS.MO NOME DI MARIA E DEGLI ANGELI CUSTODI",
+   "cf": "95025760109",
    "affidamenti": 6
   },
   {
    "nome": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "cf": "80013330107",
    "affidamenti": 4
   },
   {
    "nome": "ARCI SOLIDARIETA' GENOVA ODV",
+   "cf": "95097980106",
    "affidamenti": 3
   },
   {
    "nome": "FEDERAZIONE REGIONALE SOLIDARIETA' LAVORO",
+   "cf": "95011880101",
    "affidamenti": 2
   },
   {
    "nome": "IL MELOGRANO COOPERATIVA SOCIALE - ONLUS",
+   "cf": "01485320996",
    "affidamenti": 2
   },
   {
    "nome": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01810700094",
    "affidamenti": 2
   }
  ],

@@ -368,18 +368,22 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "cf": "01860580065",
    "affidamenti": 3
   },
   {
    "nome": "AUTOLINEE LORENZINI - S.R.L.",
+   "cf": "00739880110",
    "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE MONDO NUOVO CARITAS",
+   "cf": "91070270110",
    "affidamenti": 2
   },
   {
    "nome": "CROCE ROSSA",
+   "cf": "01302080450",
    "affidamenti": 1
   }
  ],

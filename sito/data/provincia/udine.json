@@ -610,42 +610,52 @@
  "top_enti": [
   {
    "nome": "IDEA SOCIETA' COOPERATIVA SOCIALE SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA IN BREVE IDEA SOCIETA' COOPERATIVA SOCIALE S.C.A.R.L.",
+   "cf": "01638130300",
    "affidamenti": 14
   },
   {
    "nome": "COOPERATIVA SOCIALE HANNA HOUSE",
+   "cf": "02874500305",
    "affidamenti": 8
   },
   {
    "nome": "O.I.K.O.S.-ORGANIZATION FOR INTERNATIONAL KOOPERATION AND SOLIDARITY-ONLUS",
+   "cf": "94092400301",
    "affidamenti": 7
   },
   {
    "nome": "ARIES SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "03878930613",
    "affidamenti": 7
   },
   {
    "nome": "ARACON COOPERATIVA SOCIALE ONLUS",
+   "cf": "01992840304",
    "affidamenti": 5
   },
   {
    "nome": "AEDIS SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "02870950306",
    "affidamenti": 5
   },
   {
    "nome": "CROCE ROSSA ITALIANA - COMITATO DI PALMANOVA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "cf": "02760700308",
    "affidamenti": 3
   },
   {
    "nome": "EURO.MED S.R.L.",
+   "cf": "02004800591",
    "affidamenti": 3
   },
   {
    "nome": "NUOVA ARIES - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "05609950653",
    "affidamenti": 3
   },
   {
    "nome": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "cf": "00124780313",
    "affidamenti": 3
   }
  ],

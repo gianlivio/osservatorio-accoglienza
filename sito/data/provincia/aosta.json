@@ -258,22 +258,27 @@
  "top_enti": [
   {
    "nome": "LIBERITUTTI - SOCIETA' COOPERATIVA SOCIALE S.P.A.",
+   "cf": "07820120017",
    "affidamenti": 4
   },
   {
    "nome": "LEONE ROSSO SOCIETA'  COOPERATIVA SOCIALE",
+   "cf": "01154710071",
    "affidamenti": 1
   },
   {
    "nome": "LA SORGENTE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00540380078",
    "affidamenti": 1
   },
   {
    "nome": "ARIANNA BERTI",
+   "cf": "BRTRNN00H70A182Q",
    "affidamenti": 1
   },
   {
    "nome": "L'ESPRIT A' L'ENVERS SOCIETA'  COOPERATIVA SOCIALE SIGLABILE IN L'ESPRIT A' L'ENVERS S.C.S.",
+   "cf": "00603500075",
    "affidamenti": 1
   }
  ],

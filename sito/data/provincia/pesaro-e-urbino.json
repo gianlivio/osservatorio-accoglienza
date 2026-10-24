@@ -313,42 +313,52 @@
  "top_enti": [
   {
    "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02634890418",
    "affidamenti": 7
   },
   {
    "nome": "LABIRINTO COOPERATIVA SOCIALE",
+   "cf": "01204530412",
    "affidamenti": 5
   },
   {
    "nome": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "cf": "92018500410",
    "affidamenti": 2
   },
   {
    "nome": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
+   "cf": "92017960391",
    "affidamenti": 1
   },
   {
    "nome": "INCONTRI PER LA DEMOCRAZIA",
+   "cf": "02189810415",
    "affidamenti": 1
   },
   {
    "nome": "ETS ORGANIZZAZIONE DI VOLONTARIATO SAN PATERNIANO",
+   "cf": "01446530410",
    "affidamenti": 1
   },
   {
    "nome": "PATHOS SOCIETA' COOPERATIVA SOCIALE E.T.S. IMPRESA SOCIALE",
+   "cf": "02704850417",
    "affidamenti": 1
   },
   {
    "nome": "UTOPIA SOCIETA' COOPERATIVA SOCIALE O IN SIGLA UTOPIA S.C.S.",
+   "cf": "02083580411",
    "affidamenti": 1
   },
   {
    "nome": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "cf": "00758240550",
    "affidamenti": 1
   },
   {
    "nome": "SORMANI S.R.L",
+   "cf": "02375420417",
    "affidamenti": 1
   }
  ],

@@ -333,42 +333,52 @@
  "top_enti": [
   {
    "nome": "SIGMATUR S.R.L.",
+   "cf": "02040150878",
    "affidamenti": 2
   },
   {
    "nome": "OASI DON BOSCO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "01070380884",
    "affidamenti": 2
   },
   {
    "nome": "RUSSELLO & PISCOPO TRAVEL S.R.L.",
+   "cf": "02955880840",
    "affidamenti": 1
   },
   {
    "nome": "FILOTEA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01393050883",
    "affidamenti": 1
   },
   {
    "nome": "CALABRIA TRAVEL S.R.L.",
+   "cf": "03475500785",
    "affidamenti": 1
   },
   {
    "nome": "CALACIURA S.R.L.",
+   "cf": "01418070858",
    "affidamenti": 1
   },
   {
    "nome": "AUTOSERVIZI SIBERIANA SOC. COOP. O PER ESTESO AUTOSERVIZI SIBERIANA SOCIETA' COOPERATIVA",
+   "cf": "01632180814",
    "affidamenti": 1
   },
   {
    "nome": "RUSSELLO & PISCOPO TRAVEL S.RL.",
+   "cf": null,
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE CASA FAMIGLIA ROSETTA ONLUS",
+   "cf": null,
    "affidamenti": 1
   },
   {
    "nome": "ADECCO ITALIA SPA",
+   "cf": "13366030156",
    "affidamenti": 1
   }
  ],

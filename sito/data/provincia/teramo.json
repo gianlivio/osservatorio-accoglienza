@@ -221,14 +221,17 @@
  "top_enti": [
   {
    "nome": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01923730673",
    "affidamenti": 2
   },
   {
    "nome": "ARCI APS",
+   "cf": "97054400581",
    "affidamenti": 1
   },
   {
    "nome": "ABRUZZO RENT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "cf": "12850381000",
    "affidamenti": 1
   }
  ],

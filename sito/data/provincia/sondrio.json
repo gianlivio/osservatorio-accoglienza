@@ -220,30 +220,37 @@
  "top_enti": [
   {
    "nome": "OPTIMUS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "cf": "11671980016",
    "affidamenti": 2
   },
   {
    "nome": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "cf": "03991940960",
    "affidamenti": 2
   },
   {
    "nome": "CASA DI ACCOGLIENZA EMPATIA SRL",
+   "cf": "02171540665",
    "affidamenti": 1
   },
   {
    "nome": "ELVIRA PEDRANA",
+   "cf": "PDRLVR88E47F712H",
    "affidamenti": 1
   },
   {
    "nome": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03597230139",
    "affidamenti": 1
   },
   {
    "nome": "CANOVE S.R.L.",
+   "cf": "11071970963",
    "affidamenti": 1
   },
   {
    "nome": "APS CHIESA CRISTIANA EVANGELICA GESU' E' VIVENTE",
+   "cf": "93014980143",
    "affidamenti": 1
   }
  ],

@@ -447,42 +447,52 @@
  "top_enti": [
   {
    "nome": "CONSORZIO SICILIA IN BUS",
+   "cf": "06961920821",
    "affidamenti": 12
   },
   {
    "nome": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "01331190890",
    "affidamenti": 4
   },
   {
    "nome": "CALACIURA S.R.L.",
+   "cf": "01418070858",
+   "affidamenti": 4
+  },
+  {
+   "nome": "ASSOCIAZIONE AQUARIUS",
+   "cf": "02034860896",
    "affidamenti": 4
   },
   {
    "nome": "ASSOCIAZIONE ARCOBALENO I CAVALIERI DI SAN VALENTINO ONLUS",
-   "affidamenti": 3
-  },
-  {
-   "nome": "ASSOCIAZIONE AQUARIUS",
+   "cf": "01304120890",
    "affidamenti": 3
   },
   {
    "nome": "SAN MARCO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02557710841",
    "affidamenti": 2
   },
   {
    "nome": "JR VIAGGI S.R.L.",
+   "cf": "03602330791",
    "affidamenti": 2
   },
   {
    "nome": "LUBERTI BUS S.R.L.",
+   "cf": "01800700443",
    "affidamenti": 2
   },
   {
    "nome": "KYMA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01227200894",
    "affidamenti": 2
   },
   {
    "nome": "FRASCA ALESSANDRO SAS",
+   "cf": "01635440892",
    "affidamenti": 2
   }
  ],

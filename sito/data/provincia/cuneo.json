@@ -294,34 +294,42 @@
  "top_enti": [
   {
    "nome": "GIOTTO S.A.S. DI GIARDINO VALENTINA & C.",
+   "cf": "02505450045",
    "affidamenti": 2
   },
   {
    "nome": "INTEGRA COOPERATIVA SOCIALE",
+   "cf": "00929870251",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE FIORDALISO SOC. COOP. - ONLUS",
+   "cf": "01980590044",
    "affidamenti": 1
   },
   {
    "nome": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+   "cf": "00725940258",
    "affidamenti": 1
   },
   {
    "nome": "SOCIETA'  COOPERATIVA SOCIALE CITTA' SO.LA.RE.",
+   "cf": "02616260283",
    "affidamenti": 1
   },
   {
    "nome": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "01178130256",
    "affidamenti": 1
   },
   {
    "nome": "LAB.IN.S. SOCIETA' COOPERATIVA IMPRESA SOCIALE",
+   "cf": "10850930016",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
+   "cf": "03747970014",
    "affidamenti": 1
   }
  ],

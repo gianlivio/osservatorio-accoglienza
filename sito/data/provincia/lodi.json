@@ -319,30 +319,37 @@
  "top_enti": [
   {
    "nome": "FONDAZIONE BROLETTO",
+   "cf": "02805690183",
    "affidamenti": 2
   },
   {
    "nome": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "cf": "97237140153",
    "affidamenti": 2
   },
   {
    "nome": "TOP SERVICE S.R.L.",
+   "cf": "03158050132",
    "affidamenti": 1
   },
   {
    "nome": "META SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02976240180",
    "affidamenti": 1
   },
   {
    "nome": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "07996650961",
    "affidamenti": 1
   },
   {
    "nome": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "06980641218",
    "affidamenti": 1
   },
   {
    "nome": "SMART SRLS",
+   "cf": "13579050967",
    "affidamenti": 1
   }
  ],

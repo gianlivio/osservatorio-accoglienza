@@ -356,22 +356,27 @@
  "top_enti": [
   {
    "nome": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04229280872",
    "affidamenti": 2
   },
   {
    "nome": "SISTEMIA S.R.L.",
+   "cf": "04555770876",
    "affidamenti": 1
   },
   {
    "nome": "S.I.C.E.I. - IMPIANTI E COSTRUZIONI S.R.L.",
+   "cf": "04591580875",
    "affidamenti": 1
   },
   {
    "nome": "CONFSERVIZI CISPEL SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "16311231001",
    "affidamenti": 1
   },
   {
    "nome": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+   "cf": "04772220879",
    "affidamenti": 1
   }
  ],

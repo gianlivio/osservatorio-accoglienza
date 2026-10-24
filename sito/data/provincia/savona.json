@@ -434,42 +434,52 @@
  "top_enti": [
   {
    "nome": "FONDAZIONE L'ANCORA ONLUS",
+   "cf": "92100690095",
    "affidamenti": 3
   },
   {
    "nome": "PROVINCIA LOMBARDA DELL ORDINE DEI CHIERICI REGOLARI SOMASCHI",
+   "cf": "03145110155",
    "affidamenti": 1
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE IL PERCORSO - ONLUS",
+   "cf": "01413720093",
    "affidamenti": 1
   },
   {
    "nome": "GALLO                    MASSIMO",
+   "cf": "GLLMSM70T24F351V",
    "affidamenti": 1
   },
   {
    "nome": "GIULIA BIASCI",
+   "cf": "BSCGLI73S69I138A",
    "affidamenti": 1
   },
   {
    "nome": "STUDIO MATTEO PENNINO",
+   "cf": "PNNMTT77H19I480O",
    "affidamenti": 1
   },
   {
    "nome": "NINFEA SOCIETA' COOPERATIVA SOCIALE R.L.",
+   "cf": "01491400089",
    "affidamenti": 1
   },
   {
    "nome": "ROMITI GIANCARLO",
+   "cf": "RMTGCR67T16B490E",
    "affidamenti": 1
   },
   {
    "nome": "ALPI DEL MARE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "03447600044",
    "affidamenti": 1
   },
   {
    "nome": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "cf": "92057610096",
    "affidamenti": 1
   }
  ],

@@ -314,22 +314,27 @@
  "top_enti": [
   {
    "nome": "COOP 22 SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "02121700971",
    "affidamenti": 4
   },
   {
    "nome": "PANE&ROSE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "01776930974",
    "affidamenti": 3
   },
   {
    "nome": "ECCOCI COOPERATIVA SOCIALE ONLUS",
+   "cf": "02279400978",
    "affidamenti": 2
   },
   {
    "nome": "L'IMPRONTA - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01927080463",
    "affidamenti": 1
   },
   {
    "nome": "CROCE ROSSA ITALIANA -COMITATO DI PRATO",
+   "cf": "02287440974",
    "affidamenti": 1
   }
  ],

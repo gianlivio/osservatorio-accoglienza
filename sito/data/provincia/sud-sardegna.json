@@ -271,22 +271,27 @@
  "top_enti": [
   {
    "nome": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04042590929",
    "affidamenti": 3
   },
   {
    "nome": "ALESSANDRO PIRINO",
+   "cf": "PRNLSN70T29H856U",
    "affidamenti": 1
   },
   {
    "nome": "AEDIS SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "02870950306",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE PUNTO A CAPO ONLUS",
+   "cf": "02540500929",
    "affidamenti": 1
   },
   {
    "nome": "ALLE SORGENTI PROGETTO A - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03061990929",
    "affidamenti": 1
   }
  ],

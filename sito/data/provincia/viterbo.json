@@ -411,42 +411,52 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SOCIALE ARCADIA",
+   "cf": "02198180560",
    "affidamenti": 13
   },
   {
    "nome": "MIRAVAM COOPERATIVA SOCIALE",
+   "cf": "01824500563",
    "affidamenti": 12
   },
   {
    "nome": "HOSPITALITY MANAGEMENT S.R.L. SEMPLIFICATA",
+   "cf": "02241570569",
    "affidamenti": 11
   },
   {
    "nome": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "cf": "00427050232",
    "affidamenti": 7
   },
   {
    "nome": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "cf": "90073110562",
    "affidamenti": 5
   },
   {
    "nome": "CORTELLINO MIRKO",
+   "cf": "CRTMRK85B03M082T",
    "affidamenti": 2
   },
   {
    "nome": "DIMENSIONE SALUTE",
+   "cf": "97700000587",
    "affidamenti": 2
   },
   {
    "nome": "KALY SRL",
+   "cf": "01250090576",
    "affidamenti": 2
   },
   {
    "nome": "ALICENOVA -  SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "00827070566",
    "affidamenti": 2
   },
   {
    "nome": "ALLREVISION S.R.L.",
+   "cf": "01349810356",
    "affidamenti": 1
   }
  ],

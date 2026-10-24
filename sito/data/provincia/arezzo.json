@@ -411,42 +411,52 @@
  "top_enti": [
   {
    "nome": "ASSOCIAZIONE ORATORIO SACRO CUORE",
+   "cf": "01572780516",
    "affidamenti": 4
   },
   {
    "nome": "CORI S.R.L.",
+   "cf": "06852790481",
    "affidamenti": 3
   },
   {
    "nome": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02460150515",
    "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
+   "cf": "02116720513",
    "affidamenti": 3
   },
   {
    "nome": "ASSOCIAZIONE MANI DI CRISALIDE",
-   "affidamenti": 1
+   "cf": "03345660546",
+   "affidamenti": 2
   },
   {
    "nome": "OFH - OPPORTUNITIES FOR HEALTH - S.R.L.",
-   "affidamenti": 1
-  },
-  {
-   "nome": "MANI DI CRISALIDE IMORESA SOCIALE",
+   "cf": "01525940555",
    "affidamenti": 1
   },
   {
    "nome": "JOBEL SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01385820087",
    "affidamenti": 1
   },
   {
    "nome": "LA CITTA' DEL SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "02249830510",
    "affidamenti": 1
   },
   {
    "nome": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "02246460519",
+   "affidamenti": 1
+  },
+  {
+   "nome": "SICHEM CROCEVIA DEI POPOLI ONLUS",
+   "cf": "92033410512",
    "affidamenti": 1
   }
  ],

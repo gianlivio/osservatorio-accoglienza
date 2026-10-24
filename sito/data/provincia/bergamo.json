@@ -416,38 +416,47 @@
  "top_enti": [
   {
    "nome": "VERSOPROBO - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02439320025",
    "affidamenti": 6
   },
   {
    "nome": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "09580921212",
    "affidamenti": 5
   },
   {
    "nome": "AREA 21 - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "03769220165",
    "affidamenti": 3
   },
   {
    "nome": "PAMIR S.R.L.",
+   "cf": "01251100390",
    "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA SOCIALE PATRONATO SAN VINCENZO",
+   "cf": "03847640160",
    "affidamenti": 2
   },
   {
    "nome": "TURISMO & IMPRESA SOCIALE S.R.L. IMPRESA SOCIALE",
+   "cf": "11083050960",
    "affidamenti": 1
   },
   {
    "nome": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02835640166",
    "affidamenti": 1
   },
   {
    "nome": "PASINETTI CARLO",
+   "cf": "PSNCRL62S27I628Y",
    "affidamenti": 1
   },
   {
    "nome": "IMAGNA BUS S.R.L.",
+   "cf": "03107540167",
    "affidamenti": 1
   }
  ],

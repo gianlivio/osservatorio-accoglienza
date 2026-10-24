@@ -507,42 +507,52 @@
  "top_enti": [
   {
    "nome": "CROCE ROSSA ITALIANA COMIT. LECCE",
+   "cf": "04599400753",
    "affidamenti": 10
   },
   {
    "nome": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+   "cf": "02481880751",
    "affidamenti": 5
   },
   {
    "nome": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "cf": "01662340627",
    "affidamenti": 5
   },
   {
    "nome": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "03587550751",
    "affidamenti": 5
   },
   {
    "nome": "AD MAIORA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02218800742",
    "affidamenti": 4
   },
   {
    "nome": "OTRANTO ZOE' SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "04611120751",
    "affidamenti": 3
   },
   {
    "nome": "KAIROS SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "cf": "04581440759",
    "affidamenti": 3
   },
   {
    "nome": "TORALDO MASSIMILIANO",
+   "cf": "TRLMSM72P20F970A",
    "affidamenti": 3
   },
   {
    "nome": "CRISALIDE COOPERATIVA SOCIALE",
+   "cf": "04231930753",
    "affidamenti": 3
   },
   {
    "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SOUTH EUROPE YOUTH FORUM",
+   "cf": "90036240753",
    "affidamenti": 2
   }
  ],

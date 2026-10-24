@@ -482,42 +482,52 @@
  "top_enti": [
   {
    "nome": "CISME SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "cf": "00578690802",
    "affidamenti": 4
   },
   {
    "nome": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01617330806",
    "affidamenti": 3
   },
   {
    "nome": "EXODUS CALABRIA - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02007230804",
    "affidamenti": 2
   },
   {
    "nome": "MAGRO S.R.L.",
+   "cf": "01985500857",
    "affidamenti": 1
   },
   {
    "nome": "NICITA MAURIZIO S.R.L.",
+   "cf": "03235880808",
    "affidamenti": 1
   },
   {
    "nome": "CALARCO ANTONIO",
+   "cf": "01026420800",
    "affidamenti": 1
   },
   {
    "nome": "WORK - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "01381690807",
    "affidamenti": 1
   },
   {
    "nome": "CAMPELLO S.P.A.",
+   "cf": "00221550288",
    "affidamenti": 1
   },
   {
    "nome": "DR LEONARDO CORBINI",
+   "cf": "CRBLRD59E22M018L",
    "affidamenti": 1
   },
   {
    "nome": "ARCI REGGIO CALABRIA APS",
+   "cf": "92024270800",
    "affidamenti": 1
   }
  ],

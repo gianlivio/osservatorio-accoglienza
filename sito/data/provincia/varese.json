@@ -658,42 +658,52 @@
  "top_enti": [
   {
    "nome": "BALLAFON SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02913790123",
    "affidamenti": 7
   },
   {
    "nome": "NON PIU' SOLI COOPERATIVA SOCIALE",
+   "cf": "03828480123",
    "affidamenti": 6
   },
   {
    "nome": "CROCE ROSSA ITALIANA COMITATO DELL'INSUBRIA A.P.S.",
+   "cf": "03384550129",
    "affidamenti": 4
   },
   {
    "nome": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03816050128",
    "affidamenti": 3
   },
   {
    "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE DI VARESE APS",
+   "cf": "03384890129",
    "affidamenti": 2
   },
   {
    "nome": "TK S.R.L.",
+   "cf": "02460550037",
    "affidamenti": 2
   },
   {
    "nome": "MEDIAZIONE - INTEGRAZIONE SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "cf": "02644200129",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
+   "cf": "03747970014",
    "affidamenti": 1
   },
   {
    "nome": "NEVER LAND SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02889920126",
    "affidamenti": 1
   },
   {
    "nome": "COMBINAZIONE",
+   "cf": "90035090126",
    "affidamenti": 1
   }
  ],

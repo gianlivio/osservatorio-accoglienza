@@ -472,42 +472,52 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "cf": "03910260409",
    "affidamenti": 5
   },
   {
    "nome": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
+   "cf": "92017960391",
    "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "cf": "01088170392",
    "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE ORATORIO SACRO CUORE",
+   "cf": "01572780516",
    "affidamenti": 2
   },
   {
    "nome": "COMUNITA'FAMILIARE I COLORI DI MARZIONI MARCELLA",
+   "cf": "MRZMCL78A56C758T",
    "affidamenti": 2
   },
   {
    "nome": "ZEROCENTO  SOCIETA' COOPERATIVA SOCIALE IN SIGLA ZEROCENTO SOC. COOP. SOCIALE",
+   "cf": "01012750392",
    "affidamenti": 1
   },
   {
    "nome": "SAFETY21 SPA",
+   "cf": "13365760159",
    "affidamenti": 1
   },
   {
    "nome": "FONDAZIONE NUOVO VILLAGGIO DEL FANCIULLO CELSO E ANNA FRASCALI",
+   "cf": "01220050395",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE DI VOLONTARIATO CROCE D'ORO CESENA",
+   "cf": "90070680401",
    "affidamenti": 1
   },
   {
    "nome": "NUOVE ACCOGLIENZE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04290790403",
    "affidamenti": 1
   }
  ],

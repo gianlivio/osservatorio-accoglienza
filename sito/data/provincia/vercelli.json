@@ -308,22 +308,27 @@
  "top_enti": [
   {
    "nome": "MINERVA SOCIETA' COOPERATIVA SOCIALE SIGLABILE MINERVA S.C.S.",
+   "cf": "02374280036",
    "affidamenti": 4
   },
   {
    "nome": "ALESSANDRO BACCHETTA",
+   "cf": "BCCLSN60M25F952X",
    "affidamenti": 1
   },
   {
    "nome": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "cf": "07919480017",
    "affidamenti": 1
   },
   {
    "nome": "CASCINASSA SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "94037800029",
    "affidamenti": 1
   },
   {
    "nome": "AMALTEA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02719280022",
    "affidamenti": 1
   }
  ],

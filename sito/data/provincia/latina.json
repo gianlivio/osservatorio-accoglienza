@@ -465,43 +465,53 @@
  },
  "top_enti": [
   {
+   "nome": "ANTARES GESTIONI COMMERCIALI SRL",
+   "cf": "02919360590",
+   "affidamenti": 3
+  },
+  {
    "nome": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01933190595",
    "affidamenti": 3
   },
   {
    "nome": "LA CASA DEL SOLE ODV",
+   "cf": "91139210594",
    "affidamenti": 2
   },
   {
    "nome": "EURO.MED S.R.L.",
+   "cf": "02004800591",
    "affidamenti": 2
   },
   {
-   "nome": "ANTARES GESTIONI COMMERCIALI SRL",
+   "nome": "LA BOTTEGA DI PELLICCIA ANGELO",
+   "cf": "01960660593",
    "affidamenti": 2
   },
   {
    "nome": "RE.FI.AL. - S.R.L.",
+   "cf": "01961720594",
    "affidamenti": 2
   },
   {
    "nome": "HUSSAIN ATEEQ",
+   "cf": "01248740571",
    "affidamenti": 2
   },
   {
    "nome": "ARFARO' COOPERATIVA SOCIALE",
+   "cf": "02418570608",
    "affidamenti": 2
   },
   {
    "nome": "EUROMED-LA PERGOLA",
+   "cf": "12663891005",
    "affidamenti": 1
   },
   {
    "nome": "E.V.A. SOCIETA' COOPERATIVA SOCIALE ONLUS",
-   "affidamenti": 1
-  },
-  {
-   "nome": "ASSOCIAZIONE COSE DELL'ALTRO MONDO",
+   "cf": "02740950619",
    "affidamenti": 1
   }
  ],

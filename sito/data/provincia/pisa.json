@@ -240,30 +240,37 @@
  "top_enti": [
   {
    "nome": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "cf": "93081060506",
    "affidamenti": 4
   },
   {
    "nome": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
+   "cf": "02020970360",
    "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE ARCISOLIDARIETÀ BASSA VAL DI CECINA",
+   "cf": null,
    "affidamenti": 1
   },
   {
    "nome": "ARCISOLIDARIETA' BASSA VAL DI CECINA APS",
+   "cf": "92056500496",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE ARCI COMITATO DEL LA VALDERA",
+   "cf": "90009850505",
    "affidamenti": 1
   },
   {
    "nome": "IDEALCOOP - SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "cf": "00966230500",
    "affidamenti": 1
   },
   {
    "nome": "OSPITA S.R.L.",
+   "cf": "01592480535",
    "affidamenti": 1
   }
  ],

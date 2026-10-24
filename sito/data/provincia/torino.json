@@ -796,42 +796,52 @@
  "top_enti": [
   {
    "nome": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
+   "cf": "02020970360",
    "affidamenti": 14
   },
   {
    "nome": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
+   "cf": "06078850010",
    "affidamenti": 5
   },
   {
    "nome": "LIBERITUTTI - SOCIETA' COOPERATIVA SOCIALE S.P.A.",
+   "cf": "07820120017",
    "affidamenti": 5
   },
   {
    "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
+   "cf": "03747970014",
    "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA SOCIALE SANITALIA SERVICE",
+   "cf": "11031660019",
    "affidamenti": 3
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "cf": "07789840019",
    "affidamenti": 3
   },
   {
    "nome": "NOE NUOVE OPPORTUNITA' EDUCATIVE - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "11279990011",
    "affidamenti": 2
   },
   {
    "nome": "COMUNITA SILOE ONLUS",
+   "cf": "91023440067",
    "affidamenti": 2
   },
   {
    "nome": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "cf": "01069810073",
    "affidamenti": 2
   },
   {
    "nome": "GLI ARGONAUTI SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE GLI ARGONAUTI S.C.S. ONLUS",
+   "cf": "07781380014",
    "affidamenti": 2
   }
  ],

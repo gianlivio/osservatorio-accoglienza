@@ -330,42 +330,52 @@
  "top_enti": [
   {
    "nome": "NUVOLA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "02596050696",
    "affidamenti": 3
   },
   {
    "nome": "SOC COOP NUVOLA ONLUS",
+   "cf": null,
    "affidamenti": 2
   },
   {
    "nome": "ANTEGI - COOPERATIVA SOCIALE",
+   "cf": "02736460698",
    "affidamenti": 1
   },
   {
    "nome": "L'ABBRACCIO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "02591460692",
    "affidamenti": 1
   },
   {
    "nome": "LAURO FRANCESCHELLI",
+   "cf": "FRNLRA67A30B682V",
    "affidamenti": 1
   },
   {
    "nome": "MARCO MARRA",
+   "cf": "02653350690",
    "affidamenti": 1
   },
   {
    "nome": "FILIPPINI                ANDREA",
+   "cf": "FLPNDR81D23F839S",
    "affidamenti": 1
   },
   {
    "nome": "CONSORZIO MATRIX - COOPERATIVA SOCIALE",
+   "cf": "06390101217",
    "affidamenti": 1
   },
   {
    "nome": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04745431215",
    "affidamenti": 1
   },
   {
    "nome": "CRISTINA ANGELA LELLA",
+   "cf": "LLLNLC70C54E372T",
    "affidamenti": 1
   }
  ],

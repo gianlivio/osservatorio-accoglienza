@@ -398,26 +398,37 @@
  "top_enti": [
   {
    "nome": "PORTO ALEGRE - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "cf": "01196490294",
    "affidamenti": 12
   },
   {
    "nome": "LE ORME COOPERATIVA SOCIALE ONLUS",
+   "cf": "05024230285",
    "affidamenti": 6
   },
   {
    "nome": "PETER PAN GROUP COOPERATIVA SOCIALE",
+   "cf": "01196500290",
    "affidamenti": 4
   },
   {
    "nome": "UNO DI NOI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01647360294",
    "affidamenti": 3
   },
   {
    "nome": "DI TUTTI I COLORI SOCIETA' COOPERATIVA SOCIALE",
-   "affidamenti": 3
+   "cf": "91007370298",
+   "affidamenti": 2
   },
   {
    "nome": "EKENE COOPERATIVA SOCIALE ONLUS",
+   "cf": "05034930288",
+   "affidamenti": 1
+  },
+  {
+   "nome": "DI TUTTI I COLORI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01356800290",
    "affidamenti": 1
   }
  ],

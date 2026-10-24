@@ -152,30 +152,42 @@
  "top_enti": [
   {
    "nome": "NIGHT&DAY SERVIZI ALLA PERSONA - COOPERATIVA SOCIALE",
+   "cf": "01247200957",
    "affidamenti": 6
   },
   {
    "nome": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "cf": "01266570959",
    "affidamenti": 6
   },
   {
    "nome": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01205670951",
    "affidamenti": 5
   },
   {
    "nome": "BIANCO E NERO DI PIRAS VALENTINA",
-   "affidamenti": 4
-  },
-  {
-   "nome": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "PRSVNT82P57E004W",
    "affidamenti": 3
   },
   {
+   "nome": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04042590929",
+   "affidamenti": 3
+  },
+  {
+   "nome": "BIANCO E NERO DI PIRAS VALENTINA",
+   "cf": "01216080950",
+   "affidamenti": 1
+  },
+  {
    "nome": "I MILLE COLORI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03000850929",
    "affidamenti": 1
   },
   {
    "nome": "IL SICOMORO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "03060460924",
    "affidamenti": 1
   }
  ],

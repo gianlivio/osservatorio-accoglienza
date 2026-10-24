@@ -423,43 +423,53 @@
  "top_enti": [
   {
    "nome": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "cf": "01673120380",
    "affidamenti": 5
   },
   {
    "nome": "MEETING POINT - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "cf": "01668190380",
    "affidamenti": 3
   },
   {
    "nome": "ASSOCIAZIONE TAMATA",
+   "cf": "91380540376",
    "affidamenti": 3
   },
   {
    "nome": "C.I.D.A.S. - COOPERATIVA INSERIMENTO DISABILI ASSISTENZA SOLIDARIETA'  - SOC. COOP. A R.L. SOCIETA'  COOPERATIVA SOCIALE - I.S. IN SIGLA C.I.D.A.S., CAMELOT, PERSONE IN MOVIMENTO, LE PAGINE",
+   "cf": "00463980383",
    "affidamenti": 3
   },
   {
    "nome": "SOCIETA'COOPERATIVA BALLARO'",
+   "cf": "05450820823",
+   "affidamenti": 2
+  },
+  {
+   "nome": "SOC COOP ARL OLTRE L' ORIZZONTE",
+   "cf": "09985111211",
    "affidamenti": 2
   },
   {
    "nome": "ECCOCI - SOCIETA' COOPERATIVA",
+   "cf": "01993980380",
    "affidamenti": 2
   },
   {
    "nome": "UN MONDO DI GIOIA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04967470289",
    "affidamenti": 2
   },
   {
    "nome": "IL GIGLIO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "03751630231",
    "affidamenti": 2
   },
   {
    "nome": "VIVERE PER GLI ALTRI S.R.L. SOCIETA' BENEFIT",
+   "cf": "04502700281",
    "affidamenti": 2
-  },
-  {
-   "nome": "IL FARRO DI N. S.R.L.",
-   "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [

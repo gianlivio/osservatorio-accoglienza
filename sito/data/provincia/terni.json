@@ -336,42 +336,52 @@
  "top_enti": [
   {
    "nome": "LABORATORIO I.D.E.A. (INTEGRAZIONE - DONNA - EMARGINAZIONE - ACCOGLIENZA) IMPRESA SOCIALE IN BREVE LABORATORIO I.D.E.A. IMPRESA SOCIALE",
+   "cf": "91042900554",
    "affidamenti": 31
   },
   {
    "nome": "ARCI SOLIDARIETA' TERNI ODV ETS",
-   "affidamenti": 28
+   "cf": "91061260559",
+   "affidamenti": 18
+  },
+  {
+   "nome": "ARCI SOLIDARIETA' TERNI ODV ETS",
+   "cf": "01507500559",
+   "affidamenti": 13
   },
   {
    "nome": "ASSOCIAZIONE SAN MARTINO IMPRESA SOCIALE",
+   "cf": "91002260551",
    "affidamenti": 5
   },
   {
    "nome": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+   "cf": "01561330554",
    "affidamenti": 5
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE ACTL",
-   "affidamenti": 3
-  },
-  {
-   "nome": "ARCI SOLIDARIETA' TERNI",
+   "cf": "00365330554",
    "affidamenti": 3
   },
   {
    "nome": "SOLCO IDAPOLI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03923180370",
    "affidamenti": 3
   },
   {
    "nome": "ZOE' PROGETTAZIONE SOCIALE CONSORZIO COOPERATIVE SOCIALI",
+   "cf": "01620920551",
    "affidamenti": 2
   },
   {
    "nome": "SIRENA SOCIETA' COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "cf": "01603210673",
    "affidamenti": 2
   },
   {
    "nome": "IL CENACOLO DEGLI ANGELI SOCIETA' COOPERATIVA  SOCIALE - ENTE DEL TERZO SETTORE",
+   "cf": "91066960682",
    "affidamenti": 1
   }
  ],

@@ -622,42 +622,52 @@
  "top_enti": [
   {
    "nome": "CONSORZIO DI COOPERATIVE L'ARCOLAIO - COOPERATIVA SOCIALE",
+   "cf": "03003321209",
    "affidamenti": 17
   },
   {
    "nome": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03621921208",
    "affidamenti": 8
   },
   {
    "nome": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03478811205",
    "affidamenti": 7
   },
   {
    "nome": "ASSOCIAZIONE MONDODONNA ONLUS",
-   "affidamenti": 4
+   "cf": "04341370379",
+   "affidamenti": 5
   },
   {
    "nome": "NOVA FACILITY S.R.L.",
+   "cf": "03406100275",
    "affidamenti": 3
   },
   {
    "nome": "ASSOCIAZIONE TRAMA DI TERRE ONLUS",
+   "cf": "03596741201",
    "affidamenti": 3
   },
   {
    "nome": "SOL.CO. CIVITAS CONSORZIO FRA COOPERATIVE SOCIALI DI SOLIDARIETA' SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01768611202",
    "affidamenti": 3
   },
   {
    "nome": "CONSORZIO GRUPPO CEIS COOPERATIVA SOCIALE",
+   "cf": "03228620369",
    "affidamenti": 3
   },
   {
    "nome": "ABANTU SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03279811206",
    "affidamenti": 2
   },
   {
    "nome": "MONDODONNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "03555131204",
    "affidamenti": 2
   }
  ],

@@ -397,42 +397,52 @@
  "top_enti": [
   {
    "nome": "MEDIHOSPES COOPERATIVA SOCIALE",
+   "cf": "01709130767",
    "affidamenti": 3
   },
   {
    "nome": "NET SERVICE S.R.L.",
+   "cf": "03777530878",
    "affidamenti": 2
   },
   {
    "nome": "RED RAION S.R.L.",
+   "cf": "05155680878",
    "affidamenti": 1
   },
   {
    "nome": "GIOVANNI CATANZARO",
+   "cf": "03719990834",
    "affidamenti": 1
   },
   {
    "nome": "UTOPIA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01297110833",
    "affidamenti": 1
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE IL GERANIO A RESPONSABILITA' LIMITATA ONLUS",
+   "cf": "04681550879",
    "affidamenti": 1
   },
   {
    "nome": "CRISAMAR VIAGGI S.A.S DI CRISAFULLI GIUSEPPE & C.",
+   "cf": "02656390834",
    "affidamenti": 1
   },
   {
    "nome": "FRATELLI SCUDERI S.R.L.",
+   "cf": "02853450837",
    "affidamenti": 1
   },
   {
    "nome": "AZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01297770834",
    "affidamenti": 1
   },
   {
    "nome": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04229280872",
    "affidamenti": 1
   }
  ],

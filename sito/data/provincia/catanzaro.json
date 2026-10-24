@@ -452,42 +452,52 @@
  "top_enti": [
   {
    "nome": "CALABRIA FUTURA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03525720797",
    "affidamenti": 4
   },
   {
    "nome": "ERIMA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03466370792",
    "affidamenti": 2
   },
   {
    "nome": "AZZURRA - SOCIETA' SEMPLIFICATA A RESPONSABILITA' LIMITATA",
+   "cf": "01890890765",
    "affidamenti": 1
   },
   {
    "nome": "LIMEN",
+   "cf": "97092220793",
    "affidamenti": 1
   },
   {
    "nome": "R.G. MULTISERVICE DI RASO GIUSI",
+   "cf": "RSAGSI94P62M208Y",
    "affidamenti": 1
   },
   {
    "nome": "MALGRADO TUTTO - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00564360790",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE PROGETTO ENEA",
+   "cf": "03600330793",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE A R.L. VILLA NOVA",
+   "cf": "03446530788",
    "affidamenti": 1
   },
   {
    "nome": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03179070796",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE CARITA' E AMORE",
+   "cf": "97009560794",
    "affidamenti": 1
   }
  ],

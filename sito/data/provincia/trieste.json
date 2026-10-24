@@ -544,42 +544,52 @@
  "top_enti": [
   {
    "nome": "CASA DELLO STUDENTE SLOVENO SRECKO KOSOVEL",
+   "cf": "80014850327",
    "affidamenti": 10
   },
   {
    "nome": "EOS COOPERATIVA SOCIALE ONLUS",
+   "cf": "01163410325",
    "affidamenti": 10
   },
   {
    "nome": "SANTA ANGELA MERICI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02085870307",
    "affidamenti": 9
   },
   {
    "nome": "DUEMILAUNO AGENZIA SOCIALE SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE ONLUS",
+   "cf": "00767240328",
    "affidamenti": 6
   },
   {
    "nome": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
+   "cf": "16505751004",
    "affidamenti": 6
   },
   {
    "nome": "FONDAZIONE DIOCESANA CARITAS TRIESTE - ONLUS",
+   "cf": "90127730324",
    "affidamenti": 6
   },
   {
    "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SI PUO' FARE",
+   "cf": "01172440321",
    "affidamenti": 4
   },
   {
    "nome": "AMICO SOCIETA COOPERTIVA IMPRESA SOCIALE",
+   "cf": "00578130327",
    "affidamenti": 1
   },
   {
    "nome": "L'ASCENSORE SOCIALE",
+   "cf": "NDRFXR80A28Z129L",
    "affidamenti": 1
   },
   {
    "nome": "FONDAZIONE OPERA SACRA FAMIGLIA - IMPRESA SOCIALE",
+   "cf": "91079660931",
    "affidamenti": 1
   }
  ],

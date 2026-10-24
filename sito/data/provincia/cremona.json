@@ -549,42 +549,52 @@
  "top_enti": [
   {
    "nome": "FUORICLASSE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "03751290614",
    "affidamenti": 5
   },
   {
    "nome": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00911390193",
    "affidamenti": 3
   },
   {
    "nome": "ARCI PORTO SICURO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01804150199",
    "affidamenti": 3
   },
   {
    "nome": "ALFA CENTAURI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01621650629",
    "affidamenti": 3
   },
   {
    "nome": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "cf": "03938000613",
    "affidamenti": 3
   },
   {
    "nome": "IL VILLAGGIO DI ESTEBAN - COOPERATIVA SOCIALE",
+   "cf": "03271590659",
    "affidamenti": 3
   },
   {
    "nome": "C.A.O.S. (COSTRUIRE ACCOGLIERE ORIENTARE SOSTENERE) SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02855340614",
    "affidamenti": 2
   },
   {
    "nome": "ARCI OMBRIANO",
+   "cf": "82004110191",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE HANNA HOUSE",
+   "cf": "02874500305",
    "affidamenti": 2
   },
   {
    "nome": "A BRACCIA LARGHE",
+   "cf": "91036800190",
    "affidamenti": 2
   }
  ],

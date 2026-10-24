@@ -369,38 +369,47 @@
  "top_enti": [
   {
    "nome": "UNISOLIDALE S.R.L.S.",
+   "cf": "03153130608",
    "affidamenti": 3
   },
   {
    "nome": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "cf": "02338800606",
    "affidamenti": 3
   },
   {
    "nome": "LA CONCHIGLIA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02614360648",
    "affidamenti": 2
   },
   {
    "nome": "MARE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03042250609",
    "affidamenti": 2
   },
   {
    "nome": "LA ROSA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01130910571",
    "affidamenti": 1
   },
   {
    "nome": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00948750948",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE YOLO",
+   "cf": "17289901005",
    "affidamenti": 1
   },
   {
    "nome": "COLIBRI' SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "cf": "03294720606",
    "affidamenti": 1
   },
   {
    "nome": "RAGGI DI SOLE SOCIETÀ COOPERATIVA SOCIALE",
+   "cf": "02537990604",
    "affidamenti": 1
   }
  ],

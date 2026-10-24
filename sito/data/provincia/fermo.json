@@ -379,38 +379,47 @@
  "top_enti": [
   {
    "nome": "L'ISOLA CHE NON C'E' - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02062450446",
    "affidamenti": 12
   },
   {
    "nome": "SANTA MARTA COOPERATIVA SOCIALE",
+   "cf": "02137700445",
    "affidamenti": 8
   },
   {
    "nome": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "cf": "00474850419",
    "affidamenti": 6
   },
   {
    "nome": "ETS FERMANO SOLIDALE ODV",
+   "cf": "02495220440",
    "affidamenti": 5
   },
   {
    "nome": "COMUNITA' PAPA GIOVANNI XXIII",
+   "cf": "00310810221",
    "affidamenti": 2
   },
   {
    "nome": "NUOVA RICERCA - AGENZIA RES SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "00358530434",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE LELLA 2001",
+   "cf": "01706910443",
    "affidamenti": 2
   },
   {
    "nome": "BERDINI NAZZARENO",
+   "cf": "BRDNZR58S10D477S",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE BETANIA O.D.V. ETS",
+   "cf": "92037740443",
    "affidamenti": 1
   }
  ],

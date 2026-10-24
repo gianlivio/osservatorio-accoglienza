@@ -250,42 +250,52 @@
  "top_enti": [
   {
    "nome": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "cf": "00752930354",
    "affidamenti": 6
   },
   {
    "nome": "CENTRO DI SOLIDARIETA' DI REGGIO EMILIA - ONLUS",
+   "cf": "01134820354",
    "affidamenti": 6
   },
   {
    "nome": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "cf": "03910260409",
    "affidamenti": 3
   },
   {
    "nome": "ASS.NE GIOVANNI DANIELI ONLUS",
+   "cf": "04039480282",
    "affidamenti": 3
   },
   {
    "nome": "S. GIOVANNI BOSCO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00466160355",
    "affidamenti": 3
   },
   {
    "nome": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "cf": "01367610357",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE LE NUVOLE",
+   "cf": "01694920339",
    "affidamenti": 2
   },
   {
    "nome": "CORESS SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01068200359",
    "affidamenti": 1
   },
   {
    "nome": "LABORATORIO LESIGNOLA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02101320353",
    "affidamenti": 1
   },
   {
    "nome": "PANGEA  SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01795950359",
    "affidamenti": 1
   }
  ],

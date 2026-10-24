@@ -350,42 +350,52 @@
  "top_enti": [
   {
    "nome": "AVV. DOMENICO ANTONIO ROVITO",
+   "cf": "RVTDNC84L10F537F",
    "affidamenti": 2
   },
   {
    "nome": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02482430218",
    "affidamenti": 2
   },
   {
    "nome": "JUGENDDIENST MERAN",
+   "cf": "91002690211",
    "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE  VOLONTARIUS",
+   "cf": "94067470214",
+   "affidamenti": 2
+  },
+  {
+   "nome": "REWI BAU SRL",
+   "cf": "02213880210",
    "affidamenti": 2
   },
   {
    "nome": "ARO - STAENDIGES KONSORTIUM",
+   "cf": "03025750211",
    "affidamenti": 2
   },
   {
    "nome": "LEARNING CENTER SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02367920218",
    "affidamenti": 1
   },
   {
    "nome": "XENIA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02526100215",
    "affidamenti": 1
   },
   {
    "nome": "CORAZZA ALESSIA",
+   "cf": "CRZLSS80S42A952B",
    "affidamenti": 1
   },
   {
    "nome": "OSCAR DE IORIO",
-   "affidamenti": 1
-  },
-  {
-   "nome": "ASSOCIAZIONE TRAIT D'UNION",
+   "cf": "DRESCR57L03F132N",
    "affidamenti": 1
   }
  ],

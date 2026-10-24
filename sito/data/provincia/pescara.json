@@ -390,42 +390,52 @@
  "top_enti": [
   {
    "nome": "MARR",
+   "cf": "02686290400",
    "affidamenti": 6
   },
   {
+   "nome": "KAROLA SORGI",
+   "cf": "02050120688",
+   "affidamenti": 4
+  },
+  {
    "nome": "COSMO S.P.A.",
+   "cf": "00653970673",
    "affidamenti": 4
   },
   {
    "nome": "CHIMICA ATERNO S.R.L.",
+   "cf": "01772690689",
    "affidamenti": 3
   },
   {
    "nome": "MEDICAL CENTER S.R.L.",
+   "cf": "01947750681",
    "affidamenti": 3
   },
   {
    "nome": "D.A.M. DI BOCCANERA GIOVANNI & C. S.A.S.",
-   "affidamenti": 3
-  },
-  {
-   "nome": "KAROLA SORGI",
+   "cf": "00084030683",
    "affidamenti": 3
   },
   {
    "nome": "FERSOL SRLS",
+   "cf": "02288020688",
    "affidamenti": 3
   },
   {
    "nome": "PAPER SHOW DI DI BLASIO MAURIZIO",
+   "cf": "01142510682",
    "affidamenti": 2
   },
   {
    "nome": "TRISI SSD A R.L.",
+   "cf": "02385380684",
    "affidamenti": 2
   },
   {
    "nome": "EMMEDUE APS",
+   "cf": "91152480686",
    "affidamenti": 2
   }
  ],

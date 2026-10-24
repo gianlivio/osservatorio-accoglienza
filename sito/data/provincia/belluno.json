@@ -208,42 +208,52 @@
  "top_enti": [
   {
    "nome": "INTEGRA COOPERATIVA SOCIALE",
+   "cf": "00929870251",
    "affidamenti": 10
   },
   {
    "nome": "SOCIETA'  COOPERATIVA SOCIALE CITTA' SO.LA.RE.",
+   "cf": "02616260283",
    "affidamenti": 5
   },
   {
    "nome": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "01178130256",
    "affidamenti": 2
   },
   {
    "nome": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+   "cf": "00725940258",
    "affidamenti": 2
   },
   {
    "nome": "UNICOMM - S.R.L.",
+   "cf": "01274580248",
    "affidamenti": 1
   },
   {
    "nome": "CEIS CENTRO DI SOLIDARIETA' DI BELLUNO",
+   "cf": "00817420250",
    "affidamenti": 1
   },
   {
    "nome": "CO.GE.S. DON LORENZO MILANI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02793590270",
    "affidamenti": 1
   },
   {
    "nome": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02375650260",
    "affidamenti": 1
   },
   {
    "nome": "SOCIETÀ COOPERATIVA SOCIALE ARCOBALENO 86 ONLUS",
+   "cf": "00686770256",
    "affidamenti": 1
   },
   {
    "nome": "MADIA S.P.A.",
+   "cf": "03498110281",
    "affidamenti": 1
   }
  ],

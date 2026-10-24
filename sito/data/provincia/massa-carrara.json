@@ -483,30 +483,37 @@
  "top_enti": [
   {
    "nome": "MONTENERO S.R.L.",
+   "cf": "07078690489",
    "affidamenti": 7
   },
   {
    "nome": "CROCE ROSSA",
+   "cf": "01302080450",
    "affidamenti": 2
   },
   {
    "nome": "OPERA AUXILIUM FRATRUM COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA INSIGLA: OAF COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "cf": "01362490458",
    "affidamenti": 2
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE L'ABBRACCIO",
+   "cf": "01376810451",
    "affidamenti": 2
   },
   {
    "nome": "CASA DI BETANIA",
+   "cf": "91021330450",
    "affidamenti": 2
   },
   {
    "nome": "CASA DI BETANIA SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01370280453",
    "affidamenti": 1
   },
   {
    "nome": "CENTRO LORENZO MORI -  DI INIZIATIVE CULTURALI TRA I GIOVANI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "00252460522",
    "affidamenti": 1
   }
  ],

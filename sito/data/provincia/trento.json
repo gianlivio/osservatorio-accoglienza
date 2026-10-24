@@ -500,42 +500,52 @@
  "top_enti": [
   {
    "nome": "C.R.I. COMITATO PROVINCIALE DI TRENTO",
+   "cf": "02410380220",
    "affidamenti": 11
   },
   {
    "nome": "ASSOCIAZIONE CENTRO ASTALLI TRENTO",
+   "cf": "96072090226",
    "affidamenti": 8
   },
   {
    "nome": "SEVEN S.P.A.",
+   "cf": "00959460221",
    "affidamenti": 7
   },
   {
    "nome": "FONDAZIONE CARITAS DIOCESANA",
+   "cf": "00137280228",
    "affidamenti": 4
   },
   {
    "nome": "PUNTO D'APPRODO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "01447890227",
    "affidamenti": 4
   },
   {
    "nome": "INCONTRA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01368180228",
    "affidamenti": 4
   },
   {
    "nome": "ISTITUTO PACE SVILUPPO INNOVAZIONE ACLI (IPSIA)",
+   "cf": "97043830583",
    "affidamenti": 4
   },
   {
    "nome": "CASA COOPERATIVA SOCIALE - SERVIZI ASSISTENZIALI ED EDUCATIVI PER ANZIANI E GIOVANI - SOCIETA' COOPERATIVA",
+   "cf": "01020810220",
    "affidamenti": 4
   },
   {
    "nome": "NIRCOOP SOCIETA' COOPERATIVA",
+   "cf": "00602180226",
    "affidamenti": 3
   },
   {
    "nome": "SALA BRUNO",
+   "cf": "SLABRN59B15L378W",
    "affidamenti": 2
   }
  ],

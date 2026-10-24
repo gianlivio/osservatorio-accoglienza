@@ -393,42 +393,52 @@
  "top_enti": [
   {
    "nome": "FONDAZIONE DI RELIGIONE SAN PAOLO",
+   "cf": "92043910410",
    "affidamenti": 5
   },
   {
    "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02634890418",
    "affidamenti": 2
   },
   {
    "nome": "CROCE D'ORO CESENA ODV",
+   "cf": "04280550403",
    "affidamenti": 1
   },
   {
    "nome": "NICOLETTA RUSSO",
+   "cf": "04613480401",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE CENTO FIORI A R.L.",
+   "cf": "01297440404",
    "affidamenti": 1
   },
   {
    "nome": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "cf": "04111370401",
    "affidamenti": 1
   },
   {
    "nome": "CONGREGAZIONE DELLE SUORE DI S. GIOVANNI BATTISTA",
+   "cf": "00993241009",
    "affidamenti": 1
   },
   {
    "nome": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "cf": "04383990407",
    "affidamenti": 1
   },
   {
    "nome": "TERRE SOLIDALI SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04332900408",
    "affidamenti": 1
   },
   {
    "nome": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "cf": "00127690527",
    "affidamenti": 1
   }
  ],

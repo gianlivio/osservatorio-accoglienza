@@ -258,42 +258,52 @@
  "top_enti": [
   {
    "nome": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "cf": "93017030433",
    "affidamenti": 8
   },
   {
    "nome": "FUTURAQUILA S.R.L.",
+   "cf": "01760220663",
    "affidamenti": 5
   },
   {
    "nome": "PERSEO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "cf": "02539280418",
    "affidamenti": 3
   },
   {
    "nome": "POLO 9 SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
-   "affidamenti": 3
-  },
-  {
-   "nome": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+   "cf": "00474850419",
    "affidamenti": 3
   },
   {
    "nome": "COMUNITA' PAPA GIOVANNI XXIII",
-   "affidamenti": 2
-  },
-  {
-   "nome": "PACE IN TERRA ONLUS",
+   "cf": "00310810221",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
+   "cf": "93011660433",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE RAPADURA SOCIETA' COOPERATIVA IN SIGLA COOPER ATIVA SOCIALE RAPADURA S.C.",
+   "cf": "01630170437",
    "affidamenti": 2
   },
   {
+   "nome": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+   "cf": "80002750430",
+   "affidamenti": 2
+  },
+  {
+   "nome": "PACE IN TERRA ONLUS",
+   "cf": "90022510425",
+   "affidamenti": 1
+  },
+  {
    "nome": "IL FARO  SOCIETA' COOPERATIVA SOCIALE - IL FARO S.C.S.-",
+   "cf": "01091610434",
    "affidamenti": 1
   }
  ],

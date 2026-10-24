@@ -332,42 +332,52 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SOCIALE LELLA 2001",
+   "cf": "01706910443",
    "affidamenti": 3
   },
   {
    "nome": "AMA - AQUILONE COOPERATIVA SOCIALE",
+   "cf": "01237130446",
    "affidamenti": 2
   },
   {
    "nome": "PIO ISTITUTO DEL SACRO CUORE DI GESU",
+   "cf": "01560760447",
    "affidamenti": 2
   },
   {
    "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02634890418",
    "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE BETANIA O.D.V. ETS",
+   "cf": "92037740443",
    "affidamenti": 1
   },
   {
    "nome": "EDILPRIMAVERA SRL",
+   "cf": "01588800431",
    "affidamenti": 1
   },
   {
    "nome": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "91009900670",
    "affidamenti": 1
   },
   {
    "nome": "LABIRINTO COOPERATIVA SOCIALE",
+   "cf": "01204530412",
    "affidamenti": 1
   },
   {
    "nome": "PIO ISTITUTO SACRO CUORE DI GESU'",
+   "cf": "80001230442",
    "affidamenti": 1
   },
   {
    "nome": "L'ISOLA CHE NON C'E' - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02062450446",
    "affidamenti": 1
   }
  ],

@@ -694,42 +694,52 @@
  "top_enti": [
   {
    "nome": "MEDIHOSPES COOPERATIVA SOCIALE",
+   "cf": "01709130767",
    "affidamenti": 16
   },
   {
    "nome": "DIMENSIONE SALUTE",
+   "cf": "97700000587",
    "affidamenti": 8
   },
   {
    "nome": "PEGASO COOPERATIVA  SOCIALE A RESPONSABILITA' LIMITATA",
+   "cf": "08178001007",
    "affidamenti": 4
   },
   {
    "nome": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "09723061009",
    "affidamenti": 2
   },
   {
    "nome": "OPERA NAZIONALE PER LA CITTA DEI RAGAZZI.",
+   "cf": "80182530586",
    "affidamenti": 2
   },
   {
    "nome": "SEAL SOCIETA' COOPERATIVA SOCIALE ONLUS - ETS",
+   "cf": "16068541008",
    "affidamenti": 2
   },
   {
    "nome": "ARCA DI NOE' SOC. COOP. SOCIALE DI SERVIZI A RESP. LIMITATA",
+   "cf": "04989391000",
    "affidamenti": 2
   },
   {
    "nome": "LA REVISIONE S.R.L.",
+   "cf": "05651160870",
    "affidamenti": 2
   },
   {
    "nome": "ERREBIAN",
+   "cf": "02044501001",
    "affidamenti": 2
   },
   {
    "nome": "LADISA S.R.L.",
+   "cf": "05282230720",
    "affidamenti": 1
   }
  ],

@@ -444,43 +444,53 @@
  },
  "top_enti": [
   {
-   "nome": "JOBEL SOCIETA' COOPERATIVA SOCIALE",
+   "nome": "IL FAGGIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "00620250092",
    "affidamenti": 8
   },
   {
-   "nome": "IL FAGGIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
-   "affidamenti": 7
+   "nome": "JOBEL SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01385820087",
+   "affidamenti": 8
   },
   {
    "nome": "CROCE ROSSA ITALIANA ODV",
+   "cf": "90086060085",
    "affidamenti": 7
   },
   {
    "nome": "ARS ECOLOGIA S.R.L.",
+   "cf": "10185120010",
    "affidamenti": 6
   },
   {
    "nome": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00948750948",
    "affidamenti": 5
   },
   {
    "nome": "SEBACH - SERVIZIO BAGNI CHIMICI - S.P.A. IN FORMA ABBREVIATA SEBACH - S.P.A.",
+   "cf": "03912150483",
    "affidamenti": 4
   },
   {
    "nome": "CENTRO DI SOLIDARIETA' L'ANCORA - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "00835040080",
    "affidamenti": 4
   },
   {
    "nome": "CENTRO ASCOLTO CARITAS SANREMO",
+   "cf": "90034910084",
    "affidamenti": 4
   },
   {
    "nome": "GOCCIA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01531410080",
    "affidamenti": 2
   },
   {
    "nome": "CARITAS INTEMELIA",
+   "cf": "90033450082",
    "affidamenti": 2
   }
  ],

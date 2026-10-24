@@ -343,38 +343,47 @@
  "top_enti": [
   {
    "nome": "AZZURRA - SOCIETA' SEMPLIFICATA A RESPONSABILITA' LIMITATA",
+   "cf": "01890890765",
    "affidamenti": 15
   },
   {
    "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "05022780729",
    "affidamenti": 3
   },
   {
    "nome": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03093910739",
    "affidamenti": 2
   },
   {
    "nome": "ALCANTARA SERVICE SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "04872830759",
    "affidamenti": 2
   },
   {
    "nome": "STUDIO FUSINATO DI FUSINATO ANTONIO",
+   "cf": "FSNNTN71R15D122L",
    "affidamenti": 2
   },
   {
    "nome": "MIGRANTESLIBERI SOC COOP",
+   "cf": "07058670275",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE MIGRANTES",
+   "cf": "07058670725",
    "affidamenti": 1
   },
   {
    "nome": "LINEA SOCIALE - SOCIETA' COOPERATIVA SOCIALE INTEGRATA - ONLUS",
+   "cf": "08926681001",
    "affidamenti": 1
   },
   {
    "nome": "NUOVI ORIZZONTI SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "09082990723",
    "affidamenti": 1
   }
  ],

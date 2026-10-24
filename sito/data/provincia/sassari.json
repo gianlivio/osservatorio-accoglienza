@@ -225,42 +225,52 @@
  "top_enti": [
   {
    "nome": "S.B.M. GESTIONI S.R.L.S.",
+   "cf": "02874830900",
    "affidamenti": 5
   },
   {
    "nome": "CARITAS DIOCESANA DI SASSARI",
+   "cf": "02961670904",
    "affidamenti": 3
   },
   {
    "nome": "AMP IMMOBILIARE S.R.L.",
+   "cf": "01784050906",
    "affidamenti": 3
   },
   {
    "nome": "ORS ITALIA S.R.L.",
+   "cf": "14875441009",
    "affidamenti": 2
   },
   {
    "nome": "GUS GRUPPO UMANA SOLIDARIETA' GUIDO PULETTI",
+   "cf": "92004380439",
    "affidamenti": 2
   },
   {
    "nome": "S.P.E.S. - SOCIETA  COOPERATIVA SOCIALE",
+   "cf": "02157090909",
    "affidamenti": 1
   },
   {
    "nome": "ARCI MEDITERRANEO IMPRESA SOCIALE S.R.L.",
+   "cf": "06320240630",
    "affidamenti": 1
   },
   {
    "nome": "SHARDANA TOURS S.R.L.",
+   "cf": "01720080900",
    "affidamenti": 1
   },
   {
    "nome": "LIPARA                   AGATINO",
+   "cf": "LPRGTN63H24C351Q",
    "affidamenti": 1
   },
   {
    "nome": "DRYWALL EDIL DI GIAN PIETRO SANNA",
+   "cf": "SNNGPT85T07Z112D",
    "affidamenti": 1
   }
  ],

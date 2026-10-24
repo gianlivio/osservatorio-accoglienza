@@ -568,42 +568,52 @@
  "top_enti": [
   {
    "nome": "ING. BOTTAI E ASSOCIATI",
+   "cf": "01411150509",
    "affidamenti": 3
   },
   {
    "nome": "CO.GE.S. DON LORENZO MILANI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02793590270",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE SERVIZI ASSOCIATI C.S.S.A. SOC. COOP. A R. L.",
+   "cf": "01898930274",
    "affidamenti": 2
   },
   {
    "nome": "FONDAZIONE CAV. GUIDO GINI ONLUS",
+   "cf": "93189110237",
    "affidamenti": 2
   },
   {
    "nome": "ART & FOOD S.R.L.",
+   "cf": "03995980277",
    "affidamenti": 2
   },
   {
    "nome": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02976710273",
    "affidamenti": 2
   },
   {
    "nome": "UN MONDO DI GIOIA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04967470289",
    "affidamenti": 2
   },
   {
    "nome": "I.P.M. INTEGRATED PROJECTS MANAGEMENT S.R.L. ABBREVIABILE IN IPM S.R.L.",
+   "cf": "14289711005",
    "affidamenti": 2
   },
   {
    "nome": "VITRE STUDIO SRL",
+   "cf": "03466370248",
    "affidamenti": 1
   },
   {
    "nome": "OPEN SOFTWARE S.R.L.",
+   "cf": "02810000279",
    "affidamenti": 1
   }
  ],

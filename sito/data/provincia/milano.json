@@ -790,42 +790,52 @@
  "top_enti": [
   {
    "nome": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "12706480964",
    "affidamenti": 6
   },
   {
    "nome": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "07996650961",
    "affidamenti": 5
   },
   {
    "nome": "IL GIROTONDO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02301780124",
    "affidamenti": 3
   },
   {
    "nome": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI ONLUS",
+   "cf": "97237140153",
    "affidamenti": 3
   },
   {
    "nome": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "cf": "92020910151",
    "affidamenti": 3
   },
   {
    "nome": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02004970188",
    "affidamenti": 3
   },
   {
    "nome": "R2DT AUDIT S.R.L.",
+   "cf": "15596681005",
    "affidamenti": 2
   },
   {
    "nome": "INTRECCI SOCIETÀ COOPERATIVA SOCIALE",
+   "cf": null,
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE EUREKA SOC. COOP.",
+   "cf": "10864220156",
    "affidamenti": 1
   },
   {
    "nome": "ORS ITALIA S.R.L.",
+   "cf": "14875441009",
    "affidamenti": 1
   }
  ],

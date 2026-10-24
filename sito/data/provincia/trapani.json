@@ -508,18 +508,22 @@
  "top_enti": [
   {
    "nome": "GUZZIO",
+   "cf": "GZZNNN68B16C871U",
    "affidamenti": 2
   },
   {
    "nome": "ELECTRA S.R.L.",
+   "cf": "02087120818",
    "affidamenti": 1
   },
   {
    "nome": "VIVERE CON COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "cf": "01867770818",
    "affidamenti": 1
   },
   {
    "nome": "E3 GREEN S.R.L. SOCIETA' DI INGEGNERIA",
+   "cf": "02868620812",
    "affidamenti": 1
   }
  ],

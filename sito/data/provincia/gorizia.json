@@ -198,10 +198,12 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SOCIALE HANNA HOUSE",
+   "cf": "02874500305",
    "affidamenti": 2
   },
   {
    "nome": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "cf": "00124780313",
    "affidamenti": 1
   }
  ],

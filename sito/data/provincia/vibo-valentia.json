@@ -258,30 +258,37 @@
  "top_enti": [
   {
    "nome": "CALABRIA FUTURA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03525720797",
    "affidamenti": 3
   },
   {
    "nome": "IRIDE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04229280872",
    "affidamenti": 3
   },
   {
    "nome": "STELLA DEL SUD - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03078490798",
    "affidamenti": 2
   },
   {
    "nome": "MURACA SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "03114000791",
    "affidamenti": 1
   },
   {
    "nome": "COOPERATIVA SOCIALE PROGETTO ENEA",
+   "cf": "03600330793",
    "affidamenti": 1
   },
   {
    "nome": "MAIOLO BRUNA",
+   "cf": "MLABRN87R62I639O",
    "affidamenti": 1
   },
   {
    "nome": "LA REVISIONE S.R.L.",
+   "cf": "05651160870",
    "affidamenti": 1
   }
  ],

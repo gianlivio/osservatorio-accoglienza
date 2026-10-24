@@ -295,22 +295,27 @@
  "top_enti": [
   {
    "nome": "C.S.S. COOPERATIVA SERVIZI SANITARI ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00371870940",
    "affidamenti": 1
   },
   {
    "nome": "NUOVASSISTENZA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "00827150947",
    "affidamenti": 1
   },
   {
    "nome": "S.P.M. SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "00398470948",
    "affidamenti": 1
   },
   {
    "nome": "CARANCI ANTONIO",
+   "cf": "CRNNTN68H03Z112E",
    "affidamenti": 1
   },
   {
    "nome": "PETRONI                  LUIGI ANTONIO",
+   "cf": "PTRLNT54M09C002O",
    "affidamenti": 1
   }
  ],

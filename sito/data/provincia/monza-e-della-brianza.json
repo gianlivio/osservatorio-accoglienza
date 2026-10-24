@@ -325,34 +325,42 @@
  "top_enti": [
   {
    "nome": "CSEL CONSORZIO - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02239200963",
    "affidamenti": 2
   },
   {
    "nome": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "cf": "08890720967",
    "affidamenti": 2
   },
   {
    "nome": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "cf": "03991940960",
    "affidamenti": 1
   },
   {
    "nome": "INSIEME SI PUO' - SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "cf": "04023010962",
    "affidamenti": 1
   },
   {
    "nome": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04352990966",
    "affidamenti": 1
   },
   {
    "nome": "CAMEDI S.R.L.",
+   "cf": "05920700969",
    "affidamenti": 1
   },
   {
    "nome": "INTESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02931280131",
    "affidamenti": 1
   },
   {
    "nome": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "cf": "07882420156",
    "affidamenti": 1
   }
  ],

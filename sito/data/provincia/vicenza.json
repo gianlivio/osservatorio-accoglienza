@@ -388,42 +388,52 @@
  "top_enti": [
   {
    "nome": "CASA SERVIZI S.R.L.",
+   "cf": "03232390249",
    "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE MEDITERRANEO",
+   "cf": "04051790246",
    "affidamenti": 2
   },
   {
    "nome": "SAMARCANDA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "cf": "03031900248",
    "affidamenti": 2
   },
   {
    "nome": "TANGRAM APS",
+   "cf": "03333740284",
    "affidamenti": 2
   },
   {
    "nome": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04096290244",
    "affidamenti": 2
   },
   {
    "nome": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "cf": "00758240550",
    "affidamenti": 2
   },
   {
    "nome": "CON TE COOPERATIVA SOCIALE",
+   "cf": "02528180249",
    "affidamenti": 1
   },
   {
    "nome": "COMUNITA PAPA GIOVANNI XXIII",
+   "cf": "01433850409",
    "affidamenti": 1
   },
   {
    "nome": "COSEP - SOCIETA' COOPERATIVA SOCIALE IN SIGLA COOPERATIVA SOCIALE - COSEP",
+   "cf": "01900860287",
    "affidamenti": 1
   },
   {
    "nome": "SERVIZIO DI SAN VINCENZO DE' PAOLI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04796210237",
    "affidamenti": 1
   }
  ],

@@ -357,14 +357,17 @@
  "top_enti": [
   {
    "nome": "ESCARGO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02800780732",
    "affidamenti": 5
   },
   {
    "nome": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03093910739",
    "affidamenti": 1
   },
   {
    "nome": "FRANCESCO ALBERGO",
+   "cf": "LBRFNC67H09A662W",
    "affidamenti": 1
   }
  ],

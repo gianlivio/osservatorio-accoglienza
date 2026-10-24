@@ -386,42 +386,52 @@
  "top_enti": [
   {
    "nome": "NICOLI ALDINA & C. SNC",
+   "cf": "03155840980",
    "affidamenti": 2
   },
   {
    "nome": "TOP SERVICE S.R.L.",
+   "cf": "03158050132",
    "affidamenti": 1
   },
   {
    "nome": "AMBASCIATA DELLA DEMOCRAZIA LOCALE A ZAVIDOVICI ONLUS IMPRESA SOCIALE",
+   "cf": null,
    "affidamenti": 1
   },
   {
    "nome": "LA VELA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "01975600170",
    "affidamenti": 1
   },
   {
    "nome": "DONATI ANDREA",
+   "cf": "DNTNDR73S10B157Y",
    "affidamenti": 1
   },
   {
    "nome": "GIUDICI MATTEO",
+   "cf": "GDCMTT66H24B729C",
    "affidamenti": 1
   },
   {
    "nome": "RISTORANTE BOSCHETTI S.R.L.",
+   "cf": "01425860176",
    "affidamenti": 1
   },
   {
    "nome": "GENESIO LIZZA",
+   "cf": "LZZGNS63S27L494B",
    "affidamenti": 1
   },
   {
    "nome": "GI GROUP S.P.A.",
+   "cf": "11629770154",
    "affidamenti": 1
   },
   {
    "nome": "KEMAY SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03763780982",
    "affidamenti": 1
   }
  ],

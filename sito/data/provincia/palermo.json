@@ -483,42 +483,52 @@
  "top_enti": [
   {
    "nome": "FONDAZIONE REGINA ELENA",
-   "affidamenti": 9
+   "cf": "02885480828",
+   "affidamenti": 12
   },
   {
    "nome": "NUOVA GENERAZIONE COOPERATIVA SOCIALE",
+   "cf": "02732380825",
    "affidamenti": 5
   },
   {
    "nome": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "cf": "01952520813",
    "affidamenti": 3
   },
   {
    "nome": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03126080872",
    "affidamenti": 3
   },
   {
    "nome": "IMPRESA INESISTENTE",
+   "cf": "02102821002",
    "affidamenti": 3
   },
   {
-   "nome": "FONDAZIONE REGINA ELENA CON SEDE IN CEFALÙ, VIA MANDRALISCA N. 76",
-   "affidamenti": 2
-  },
-  {
    "nome": "ASSOCIAZIONE ASANTE ONLUS",
+   "cf": "06396120823",
    "affidamenti": 2
   },
   {
    "nome": "LONGO VITO",
+   "cf": "04764520658",
    "affidamenti": 2
   },
   {
-   "nome": "ORFANOTROFIO REGINA ELENA CON SEDE IN CEFALÙ VIA MANDRALISCA N. 76",
+   "nome": "PARRIVECCHIO S.R.L.",
+   "cf": "03402730828",
    "affidamenti": 1
   },
   {
-   "nome": "PARRIVECCHIO S.R.L.",
+   "nome": "CAMPISI ANGELO",
+   "cf": "06446140821",
+   "affidamenti": 1
+  },
+  {
+   "nome": "NUOVI ORIZZONTI SOCIETA COOPERATIVA SOCIALE",
+   "cf": "04539980823",
    "affidamenti": 1
   }
  ],

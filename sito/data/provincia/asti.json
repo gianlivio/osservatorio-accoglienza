@@ -264,14 +264,17 @@
  "top_enti": [
   {
    "nome": "MIMOSA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01272370055",
    "affidamenti": 3
   },
   {
    "nome": "INFOCERT SPA",
+   "cf": "07945211006",
    "affidamenti": 1
   },
   {
    "nome": "PIAM ONLUS ASTI",
+   "cf": "92040930056",
    "affidamenti": 1
   }
  ],

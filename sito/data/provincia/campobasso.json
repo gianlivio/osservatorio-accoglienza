@@ -349,42 +349,52 @@
  "top_enti": [
   {
    "nome": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01752880706",
    "affidamenti": 8
   },
   {
    "nome": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00948750948",
    "affidamenti": 4
   },
   {
    "nome": "HAYET  SOCIETA'  COOPERATIVA  SOCIALE - ETS",
+   "cf": "01803670700",
    "affidamenti": 3
   },
   {
    "nome": "AURORA - SPES - SOCIETA' COOPERATIVA",
+   "cf": "03909090718",
    "affidamenti": 3
   },
   {
    "nome": "SIRIO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "00895390706",
    "affidamenti": 2
   },
   {
    "nome": "CONTATTO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01771660626",
    "affidamenti": 2
   },
   {
    "nome": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE",
+   "cf": "DLGNRC79M15E716V",
    "affidamenti": 1
   },
   {
    "nome": "MEDIHOSPES COOPERATIVA SOCIALE",
+   "cf": "01709130767",
    "affidamenti": 1
   },
   {
    "nome": "ARCH. RAFFAELE FRATANGELO",
+   "cf": "FRTRFL57L19B519L",
    "affidamenti": 1
   },
   {
    "nome": "IANNETTA ANGELO S.R.L.",
+   "cf": "01541470702",
    "affidamenti": 1
   }
  ],

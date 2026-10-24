@@ -434,42 +434,52 @@
  "top_enti": [
   {
    "nome": "GAMA S.R.L.",
+   "cf": "04048690616",
    "affidamenti": 7
   },
   {
    "nome": "APEIRON - COOPERATIVA SOCIALE",
+   "cf": "03478010618",
    "affidamenti": 6
   },
   {
    "nome": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "08119501214",
    "affidamenti": 5
   },
   {
    "nome": "COOPERATIVA SOCIALE FREEDOM",
+   "cf": "04111510618",
    "affidamenti": 5
   },
   {
    "nome": "HOPE S.R.L.",
+   "cf": "04169050616",
    "affidamenti": 5
   },
   {
    "nome": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01962150668",
    "affidamenti": 4
   },
   {
    "nome": "NUOVA AURORA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "cf": "04113330619",
    "affidamenti": 3
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE VITA NUOVA",
+   "cf": "04020320612",
    "affidamenti": 3
   },
   {
    "nome": "FUORICLASSE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "cf": "03751290614",
    "affidamenti": 2
   },
   {
    "nome": "ARTA S.R.L.",
+   "cf": "10347291212",
    "affidamenti": 2
   }
  ],

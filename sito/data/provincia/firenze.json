@@ -531,42 +531,52 @@
  "top_enti": [
   {
    "nome": "VALORI SOLIDALI SOCIETA' A RESPONSABILITA' LIMITATA IMPRESA SOCIALE  IN SIGLA: VALORI SOLIDALI SRL IMPRESA SOCIALE",
+   "cf": "07118060487",
    "affidamenti": 18
   },
   {
-   "nome": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
+   "nome": "CROCE ROSSA ITALIANA COMITATO DI FIRENZE ODV",
+   "cf": "06418560485",
    "affidamenti": 14
   },
   {
+   "nome": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
+   "cf": "94043850489",
+   "affidamenti": 11
+  },
+  {
    "nome": "CONSORZIO DI COOPERATIVE L'ARCOLAIO - COOPERATIVA SOCIALE",
+   "cf": "03003321209",
    "affidamenti": 10
   },
   {
    "nome": "VENERABILE ARCICONFRATERNITA DELLA MISERICORDIA DI EMPOLI",
+   "cf": "82000770485",
    "affidamenti": 10
   },
   {
    "nome": "VILLA VIVIANA S.R.L.",
+   "cf": "06722530489",
    "affidamenti": 9
   },
   {
    "nome": "MOVIMENTO SHALOM O.N.L.U.S",
+   "cf": "91003210506",
    "affidamenti": 9
   },
   {
    "nome": "CO&SO -CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA'-CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04876970486",
    "affidamenti": 9
   },
   {
-   "nome": "CROCE ROSSA ITALIANA COMITATO DI FIRENZE ODV",
+   "nome": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
+   "cf": "06857110487",
    "affidamenti": 8
   },
   {
    "nome": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
-   "affidamenti": 8
-  },
-  {
-   "nome": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "cf": "01639480852",
    "affidamenti": 8
   }
  ],

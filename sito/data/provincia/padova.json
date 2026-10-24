@@ -380,42 +380,52 @@
  "top_enti": [
   {
    "nome": "COOPERATIVA SOCIALE PERCORSO ALTRO",
+   "cf": "05291700283",
    "affidamenti": 3
   },
   {
    "nome": "UN MONDO DI GIOIA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04967470289",
    "affidamenti": 3
   },
   {
    "nome": "LEVANTE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "05356380286",
    "affidamenti": 3
   },
   {
    "nome": "LA MIA BADANTE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04857780284",
    "affidamenti": 3
   },
   {
    "nome": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03837490287",
    "affidamenti": 2
   },
   {
    "nome": "TANGRAM APS",
+   "cf": "03333740284",
    "affidamenti": 2
   },
   {
    "nome": "TUENDELEE COOPERATIVA SOCIALE",
+   "cf": "05236770284",
    "affidamenti": 2
   },
   {
    "nome": "COOPERATIVA SOCIALE PERCORSO VITA",
+   "cf": "04694740285",
    "affidamenti": 1
   },
   {
    "nome": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02976710273",
    "affidamenti": 1
   },
   {
    "nome": "VENETO INSIEME - SOCIETA' COOPERATIVA SOCIALE CONSORTILE",
+   "cf": "01364040285",
    "affidamenti": 1
   }
  ],

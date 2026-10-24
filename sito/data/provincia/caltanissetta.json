@@ -321,18 +321,22 @@
  "top_enti": [
   {
    "nome": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+   "cf": "04772220879",
    "affidamenti": 2
   },
   {
    "nome": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "01735060855",
    "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "cf": "01709670853",
    "affidamenti": 1
   },
   {
    "nome": "LA REVISIONE S.R.L.",
+   "cf": "05651160870",
    "affidamenti": 1
   }
  ],

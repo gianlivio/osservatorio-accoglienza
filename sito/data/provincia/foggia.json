@@ -415,42 +415,52 @@
  "top_enti": [
   {
    "nome": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "cf": "09342931004",
    "affidamenti": 2
   },
   {
    "nome": "LIPARA                   AGATINO",
+   "cf": "lprgtn63h24c351q",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE SERVIZIO DI VOLONTARIATO SOCIALE - ELPIS",
+   "cf": "92007470716",
    "affidamenti": 1
   },
   {
    "nome": "IMPRESA INESISTENTE",
+   "cf": "00959180712",
    "affidamenti": 1
   },
   {
    "nome": "ASSOCIAZIONE MIGRALAW",
+   "cf": "92101460647",
    "affidamenti": 1
   },
   {
    "nome": "ALCANTARA SERVICE SOCIETA' A RESPONSABILITA' LIMITATA",
+   "cf": "04872830759",
    "affidamenti": 1
   },
   {
    "nome": "ARANEA - CONSORZIO COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "cf": "03058520713",
    "affidamenti": 1
   },
   {
    "nome": "SOCIETA' COOPERATIVA SOCIALE DIBENEDETTO A R.L.",
+   "cf": "03827220710",
    "affidamenti": 1
   },
   {
    "nome": "GLOBAL C@RE COOPERATIVA SOCIALE ONLUS",
+   "cf": "04448650715",
    "affidamenti": 1
   },
   {
    "nome": "CICCONE",
+   "cf": "CCCNTN62C01F631T",
    "affidamenti": 1
   }
  ],

@@ -477,42 +477,52 @@
  "top_enti": [
   {
    "nome": "AL TUO FIANCO SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "05612620657",
    "affidamenti": 15
   },
   {
    "nome": "LA RINASCITA SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "06111670656",
    "affidamenti": 6
   },
   {
    "nome": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "09580921212",
    "affidamenti": 5
   },
   {
    "nome": "LA RADA CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "03665760652",
    "affidamenti": 3
   },
   {
    "nome": "RGC S.R.L.",
+   "cf": "05122640658",
    "affidamenti": 3
   },
   {
    "nome": "ERMES ACCOGLIENZA S.R.L.",
+   "cf": "04207060650",
    "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA SOCIALE GIOVAMENTE A R.L.",
+   "cf": "05335630652",
    "affidamenti": 2
   },
   {
    "nome": "ADELINA DI PIETRO",
+   "cf": "02793410644",
    "affidamenti": 2
   },
   {
    "nome": "IRIS - SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "04926940653",
    "affidamenti": 2
   },
   {
    "nome": "ISKRA COOPERATIVA SOCIALE",
+   "cf": "03281680656",
    "affidamenti": 2
   }
  ],
