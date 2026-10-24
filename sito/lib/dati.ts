@@ -51,7 +51,7 @@ export function nomeProvincia(nome: string) {
   return nome.toLowerCase().replace(/[\p{L}]+/gu, (parola, i: number) =>
     MINUSCOLE.has(parola) && i > 0 ? parola : parola[0].toUpperCase() + parola.slice(1));
 }
-const nProvincia = (nome: string) =>
+export const nProvincia = (nome: string) =>
   nome === "SUD SARDEGNA" ? "nella provincia del Sud Sardegna" : `in provincia di ${nomeProvincia(nome)}`;
 
 export function descrizioneProvincia(p: Provincia) {
