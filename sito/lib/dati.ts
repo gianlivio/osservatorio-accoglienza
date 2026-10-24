@@ -31,6 +31,7 @@ export type ProvinciaDettaglio = {
 
 export const anni = dati.anni as string[];
 export const fonte = dati.fonte;
+export const esclusiAMano = (dati as unknown as { esclusi_a_mano: number }).esclusi_a_mano;
 export const aggiornato = (dati as unknown as { aggiornato: string }).aggiornato;
 export const totale = dati.totale as unknown as Blocco;
 export const perAnno = dati.per_anno as unknown as Record<string, Blocco>;

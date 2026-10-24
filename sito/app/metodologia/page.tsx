@@ -3,7 +3,7 @@ import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { centri } from "@/lib/centri";
 import { breadcrumb } from "@/lib/jsonld";
-import { totale, anni, serieAnni, euro, province, nItal } from "@/lib/dati";
+import { totale, anni, serieAnni, euro, province, nItal, esclusiAMano } from "@/lib/dati";
 
 export const metadata = { title: "Metodologia e limiti · Osservatorio Accoglienza" };
 
@@ -60,6 +60,14 @@ export default function Metodologia() {
           &laquo;accoglienza&raquo; ricorre nel welfare e nel turismo, la sigla SAI indica
           anche impianti ferroviari — e ne lascia fuori altri, scritti in modo insolito. Ogni
           correzione è annotata nel codice pubblico del progetto.
+        </p>
+        <p>
+          Alcuni contratti selezionati dal filtro ma estranei all&apos;accoglienza
+          ({nItal(esclusiAMano)}) sono esclusi a mano: l&apos;elenco, con il motivo di ciascuno,
+          è nel file{" "}
+          <a href="https://github.com/gianlivio/osservatorio-accoglienza/blob/main/script/esclusi.csv"
+            target="_blank" rel="noopener" className="link-interno">script/esclusi.csv</a>{" "}
+          del repository.
         </p>
         <p>
           Una distinzione in particolare: i corsi di formazione professionale rivolti a
