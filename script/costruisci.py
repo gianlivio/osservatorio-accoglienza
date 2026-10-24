@@ -10,6 +10,7 @@ Z_AGG  = "dati-grezzi/aggiudicazioni_csv.zip"
 Z_VIN  = "dati-grezzi/aggiudicatari_csv.zip"
 OUTJS  = "sito/data/province-lite.json"
 OUTDIR_PROV = "sito/data/provincia"
+OUTDIR_CSV = "sito/public/dati"
 CAMPI_ANNO_LITE = ("affidamenti", "quota_diretti", "importo_mediano", "enti_gestori")
 
 def pulisci(v):
@@ -168,19 +169,14 @@ def mesi(rr):
 
 CF_VALIDO = re.compile(r"\d{11}|[A-Za-z0-9]{16}")  # impresa/ente o persona fisica; il resto è testo libero, si conta per nome
 
-per_prov = collections.defaultdict(list)
-for r in righe:
-    per_prov[(r["provincia"] or "NON INDICATA").strip()].append(r)
+CAMPI_CONTRATTO = ("cig", "data", "oggetto", "amministrazione", "ente", "procedura", "diretto",
+                   "modalita", "base", "aggiudicato", "durata_gg", "da_accordo", "confidenza")
 
-province = []
-for p, rr in sorted(per_prov.items()):
-    if p == "NON INDICATA": continue
-    rr_e = [r for r in rr if r["anno"] in ANNI_ESITO]
-    elenco = sorted(rr, key=lambda r: (r["data_pubblicazione"] or ""), reverse=True)
-    contratti = [{
+def contratto(r, oggetto_max=180):
+    return {
         "cig": r["cig"],
         "data": r["data_pubblicazione"],
-        "oggetto": (r["oggetto_lotto"] or r["oggetto_gara"])[:180],
+        "oggetto": (r["oggetto_lotto"] or r["oggetto_gara"])[:oggetto_max],
         "amministrazione": r["denominazione_amministrazione_appaltante"],
         "ente": r["vincitore"] or None,
         "procedura": r["tipo_scelta_contraente"],
@@ -191,7 +187,32 @@ for p, rr in sorted(per_prov.items()):
         "durata_gg": (lambda d: d if d and 25 <= d <= 2000 else None)(num(r["DURATA_PREVISTA"])),
         "da_accordo": bool((r.get("cig_accordo_quadro") or "").strip()),
         "confidenza": r["confidenza"],
-    } for r in elenco]
+    }
+
+def scrivi_csv(percorso, rr, con_provincia=False):
+    """CSV scaricabile: gli stessi campi dell'elenco contratti, oggetto per intero, dal più recente."""
+    os.makedirs(os.path.dirname(percorso), exist_ok=True)
+    elenco = sorted(rr, key=lambda r: (r["data_pubblicazione"] or "", r["cig"]), reverse=True)
+    with open(percorso, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow((("provincia",) if con_provincia else ()) + CAMPI_CONTRATTO)
+        for r in elenco:
+            c = contratto(r, oggetto_max=None)
+            riga = [("true" if v else "false") if isinstance(v, bool) else ("" if v is None else v)
+                    for v in (c[k] for k in CAMPI_CONTRATTO)]
+            w.writerow(([(r["provincia"] or "").strip()] if con_provincia else []) + riga)
+
+per_prov = collections.defaultdict(list)
+for r in righe:
+    per_prov[(r["provincia"] or "NON INDICATA").strip()].append(r)
+
+province = []
+for p, rr in sorted(per_prov.items()):
+    if p == "NON INDICATA": continue
+    rr_e = [r for r in rr if r["anno"] in ANNI_ESITO]
+    elenco = sorted(rr, key=lambda r: (r["data_pubblicazione"] or ""), reverse=True)
+    contratti = [contratto(r) for r in elenco]
+    scrivi_csv(f"{OUTDIR_CSV}/provincia/{slug(p)}.csv", rr)
 
     enti = collections.Counter()
     nomi_cf = collections.defaultdict(collections.Counter)
@@ -267,6 +288,8 @@ for p in province:
     }
     with open(f"{OUTDIR_PROV}/{slug(p['provincia'])}.json", "w", encoding="utf-8") as f:
         json.dump(dettaglio, f, ensure_ascii=False, indent=1)
+
+scrivi_csv(f"{OUTDIR_CSV}/contratti.csv", righe, con_provincia=True)
 
 dati["province"] = province_lite
 json.dump(dati, open(OUTJS, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

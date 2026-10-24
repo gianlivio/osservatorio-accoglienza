@@ -18,3 +18,9 @@ export const breadcrumb = (voci: { nome: string; percorso: string }[]) => ({
     item: `${dominio}${v.percorso === "/" ? "" : v.percorso}`,
   })),
 });
+
+export const distribuzioneCsv = (percorso: string) => ({
+  "@type": "DataDownload",
+  encodingFormat: "text/csv",
+  contentUrl: `${dominio}${percorso}`,
+});

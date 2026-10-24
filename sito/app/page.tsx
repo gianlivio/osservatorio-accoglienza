@@ -2,7 +2,7 @@ import Link from "next/link";
 import TabellaProvince from "./TabellaProvince";
 import JsonLd from "./JsonLd";
 import { anni, province } from "@/lib/dati";
-import { creatore, fonteAnac, licenza } from "@/lib/jsonld";
+import { creatore, distribuzioneCsv, fonteAnac, licenza } from "@/lib/jsonld";
 
 export const metadata = {
   title: "Osservatorio Accoglienza",
@@ -22,6 +22,7 @@ const datasetJsonLd = {
   spatialCoverage: "Italia",
   url: "https://osservatorioaccoglienza.org",
   isBasedOn: fonteAnac,
+  distribution: distribuzioneCsv("/dati/contratti.csv"),
 };
 
 export default function Home() {

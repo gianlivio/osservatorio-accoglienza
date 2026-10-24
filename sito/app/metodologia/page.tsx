@@ -1,5 +1,6 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
+import ScaricaCsv from "@/app/ScaricaCsv";
 import { breadcrumb } from "@/lib/jsonld";
 import { totale, anni, serieAnni, euro } from "@/lib/dati";
 
@@ -108,6 +109,15 @@ export default function Metodologia() {
             ))}
           </tbody>
         </table>
+      </section>
+
+      <section className="sezione">
+        <h2 className="titolo-sezione">I dati</h2>
+        <p className="nota-tabella">
+          Tutti i contratti dell&apos;archivio in un unico file. Ogni provincia ha anche il suo
+          file, nella pagina della provincia.
+        </p>
+        <ScaricaCsv percorso="/dati/contratti.csv" />
       </section>
     </main>
   );

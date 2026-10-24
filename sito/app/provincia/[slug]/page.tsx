@@ -2,7 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
 import JsonLd from "@/app/JsonLd";
-import { creatore, dominio, fonteAnac, licenza, breadcrumb } from "@/lib/jsonld";
+import ScaricaCsv from "@/app/ScaricaCsv";
+import { creatore, dominio, fonteAnac, licenza, breadcrumb, distribuzioneCsv } from "@/lib/jsonld";
 import { regioneDi, regioni } from "@/lib/regioni";
 import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, nomeProvincia, descrizioneProvincia } from "@/lib/dati";
 
@@ -60,6 +61,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     spatialCoverage: { "@type": "Place", name: `${nome}, Italia` },
     temporalCoverage: `${anni[0]}/${anni[anni.length - 1]}`,
     isBasedOn: fonteAnac,
+    distribution: distribuzioneCsv(`/dati/provincia/${slug}.csv`),
     citation: "Autorità Nazionale Anticorruzione (ANAC), Banca Dati Nazionale dei Contratti Pubblici",
   };
 
@@ -142,6 +144,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           In ordine dal più recente. Ogni voce riporta quanto risulta nell&apos;archivio
           pubblico: dove il dato non è stato comunicato, la riga non compare.
         </p>
+        <ScaricaCsv percorso={`/dati/provincia/${slug}.csv`} />
         <ElencoContratti contratti={d.contratti} />
       </section>
 
