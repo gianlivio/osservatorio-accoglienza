@@ -45,6 +45,11 @@ export function slug(nome: string) {
   return nome.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
+const MINUSCOLE = new Set(["e", "della", "nell"]);
+export function nomeProvincia(nome: string) {
+  return nome.toLowerCase().replace(/[\p{L}]+/gu, (parola, i: number) =>
+    MINUSCOLE.has(parola) && i > 0 ? parola : parola[0].toUpperCase() + parola.slice(1));
+}
 export const trovaProvincia = (s: string) => province.find((p) => slug(p.provincia) === s);
 export async function caricaDettaglioProvincia(slug: string): Promise<ProvinciaDettaglio> {
   const mod = await import(`@/data/provincia/${slug}.json`);

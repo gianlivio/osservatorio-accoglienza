@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
-import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal } from "@/lib/dati";
+import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, nomeProvincia } from "@/lib/dati";
 
 const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
 function formatPeriodo(periodo: string) {
@@ -17,7 +17,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const p = trovaProvincia(slug);
   if (!p) return {};
-  return { title: `${p.provincia} · Osservatorio Accoglienza` };
+  return {
+    title: `${nomeProvincia(p.provincia)}: contratti per l'accoglienza dei migranti ${anni[0]}–${anni[anni.length - 1]} · Osservatorio Accoglienza`,
+  };
 }
 
 export default async function Provincia({ params }: { params: Promise<{ slug: string }> }) {
@@ -35,7 +37,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     <main>
       <Link href="/" className="indietro">← tutte le province</Link>
       <p className="occhiello">Provincia · {anni[0]}–{anni[anni.length - 1]}</p>
-      <h1 className="tesi">{p.provincia}</h1>
+      <h1 className="tesi">{nomeProvincia(p.provincia)}</h1>
 
       <section className="sezione">
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
@@ -87,7 +89,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             Ogni barra è un mese: la parte piena indica i contratti assegnati senza gara.
           </p>
           <div className="mesi" role="img"
-            aria-label={`Contratti mese per mese a ${p.provincia}, da ${formatPeriodo(mesiDati[0][0])} a ${formatPeriodo(mesiDati[mesiDati.length - 1][0])}: massimo ${nItal(maxMese)} in un mese`}>
+            aria-label={`Contratti mese per mese a ${nomeProvincia(p.provincia)}, da ${formatPeriodo(mesiDati[0][0])} a ${formatPeriodo(mesiDati[mesiDati.length - 1][0])}: massimo ${nItal(maxMese)} in un mese`}>
             {mesiDati.map(([periodo, m]) => (
               <div key={periodo} className="mese" style={{ height: `${(m.affidamenti / maxMese) * 100}%` }}>
                 <i style={{ height: `${m.quota_diretti}%` }} />
