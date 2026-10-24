@@ -1,0 +1,38 @@
+{
+ "nome": "AR.CO. LAVORI SOCIETA' COOPERATIVA CONSORTILE",
+ "cf": "01468160393",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "63419728D9",
+   "data": "2015-08-11",
+   "oggetto": "LAVORI URGENTI ADEGUAMENTO VILLA PEPI PER ACCOGLIMENTO PROFUGHI",
+   "amministrazione": "AZIENDA OSPEDALIERO UNIVERSITARIA-CAREGGI",
+   "ente": "AR.CO. LAVORI SOCIETA' COOPERATIVA CONSORTILE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 150000.0,
+   "aggiudicato": 150000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "nome": "AQUILONI ONLUS",
+ "cf": "93018990239",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6995436069",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - AQUILONI - SULLE ORME",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "AQUILONI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75600.0,
+   "aggiudicato": 75600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6995419261",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - AQUILONI ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "AQUILONI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86400.0,
+   "aggiudicato": 86400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "695559850C",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PARK HOTEL SRL - AQUILONI ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "AQUILONI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 841050.0,
+   "aggiudicato": 841050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6955414D32",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - AQUILONI ONLUS - SULLE ORME ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "AQUILONI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 252875.0,
+   "aggiudicato": 252875.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

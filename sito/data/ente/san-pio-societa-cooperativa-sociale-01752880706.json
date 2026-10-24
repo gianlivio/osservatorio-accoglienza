@@ -1,0 +1,155 @@
+{
+ "nome": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01752880706",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B656F9C7D4",
+   "data": "2025-04-04",
+   "oggetto": "ACCOGLIENZA MSNA GENNAIO-MARZO 2025 L'ISOLA CHE NON C'È. SAN PIO SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11480.0,
+   "aggiudicato": 11480.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B656E41979",
+   "data": "2025-04-04",
+   "oggetto": "ACCOGLIENZA MSNA GENNAIO-MARZO 2025 PETER PAN. SAN PIO SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13620.0,
+   "aggiudicato": 13620.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B554B8A368",
+   "data": "2025-01-24",
+   "oggetto": "ACCOGLIENZA MINORI MSNA OTTOBRE-DICEMBRE 2024 L'ISOLA CHE NON C'È. SAN PIO SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12880.0,
+   "aggiudicato": 12880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B554B14208",
+   "data": "2025-01-24",
+   "oggetto": "ACCOGLIENZA MINORI MSNA OTTOBRE-DICEMBRE 2024 PETER PAN. SAN PIO SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17480.0,
+   "aggiudicato": 17480.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B4D8721017",
+   "data": "2024-12-17",
+   "oggetto": "INSERIMENTO DI MINORE MSNA 6938 IN COMUNITA' ALLOGGIO",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 35820.0,
+   "aggiudicato": 35820.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B4234809DF",
+   "data": "2024-11-07",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO LUGLIO-AGOSTO-SETTEMBRE 2024 (PETER PAN). COOP. SOC. SAN PIO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9310.0,
+   "aggiudicato": 9310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B41ADE87E2",
+   "data": "2024-11-05",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO LUGLIO-AGOSTO-SETTEMBRE 2024. COOP. SOC. SAN PIO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13930.0,
+   "aggiudicato": 13930.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B2501949B3",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO RETTE MSNA MESE DI APRILE MAGGIO E GIUGNO 2024. COOPERATIVA SOCIALE SAN PIO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14000.0,
+   "aggiudicato": 14000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

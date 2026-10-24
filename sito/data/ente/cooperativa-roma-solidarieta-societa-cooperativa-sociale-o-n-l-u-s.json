@@ -1,0 +1,165 @@
+{
+ "nome": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "05146971006",
+ "affidamenti": 8,
+ "diretti": 4,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "89526421E5",
+   "data": "2021-10-22",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX- SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 809400.0,
+   "aggiudicato": 809400.0,
+   "durata_gg": 426.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "8952638E94",
+   "data": "2021-10-22",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX- SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 809400.0,
+   "aggiudicato": 809400.0,
+   "durata_gg": 426.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7261637C69",
+   "data": "2017-11-02",
+   "oggetto": "PROGETTO CENTRI DI ACCOGLIENZA INTEGRATA PER ADULTI E FAMIGLIE - SPRAR - CRS COOPERATIVA ROMA SOLIDARIETÀ - CENTRO FERRHOTEL",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1944992.0,
+   "aggiudicato": 1944992.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6915981012",
+   "data": "2016-12-19",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR CRS GENNAIO GIUGNO 2017 CENTRO LA PALMA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 152040.0,
+   "aggiudicato": 152040.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "69159706FC",
+   "data": "2016-12-19",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR CRS GENNAIO GIUGNO 2017 CENTRO FERRHOTEL",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 273672.0,
+   "aggiudicato": 273672.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6775019A89",
+   "data": "2016-07-29",
+   "oggetto": "GESTIONE DI UN PRESIDIO UMANITARIO PER L'OSPITALITÀ E L'ASSISTENZA DI PERSONE IMMIGRATE TEMPORANEAMENTE PRESENTI NEL TERRITORIO DI ROMA, TRA IL COMUNE DI ROMA DIPARTIMENTO POLITICH",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 173670.0,
+   "aggiudicato": 173670.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6308142B72",
+   "data": "2015-06-24",
+   "oggetto": "PROSECUZIONE INCARICO ACCOGLIENZA SPRAR ANNO 2015. A. MARTINEZ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 306600.0,
+   "aggiudicato": 306600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6308136680",
+   "data": "2015-06-24",
+   "oggetto": "PROSECUZIONE INCARICO ACCOGLIENZA SPRAR ANNO 2015. FERRHOTEL",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA ROMA SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 551880.0,
+   "aggiudicato": 551880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

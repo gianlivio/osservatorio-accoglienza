@@ -1,0 +1,54 @@
+{
+ "nome": "GRUPPO PAIM IMPRESA SOCIALE  - COOPERATIVA SOCIALE",
+ "cf": "01049580499",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "684306865A",
+   "data": "2016-10-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "GRUPPO PAIM IMPRESA SOCIALE  - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 212000.0,
+   "aggiudicato": 18000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "682990256D",
+   "data": "2016-09-13",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 10.09.2016-31.12.2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "GRUPPO PAIM IMPRESA SOCIALE  - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75710.0,
+   "aggiudicato": 75710.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  }
+ ]
+}

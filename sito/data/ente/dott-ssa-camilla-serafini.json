@@ -1,0 +1,54 @@
+{
+ "nome": "DOTT.SSA CAMILLA SERAFINI",
+ "cf": "02431120688",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8D12D154F",
+   "data": "2025-10-28",
+   "oggetto": "PROG. SAI CAT. MSNA – PROROGA CONTRATTO PROFESSIONALE INSEGNANTE LINGUA ITALIANA L2",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "DOTT.SSA CAMILLA SERAFINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9600.0,
+   "aggiudicato": 9600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B660C0283B",
+   "data": "2025-04-08",
+   "oggetto": "PROG. SAI CAT. MSNA – ATTIVAZIONE CONTRATTO PROFESSIONALE INSEGNANTE LINGUA ITALIANA L2",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "DOTT.SSA CAMILLA SERAFINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7800.0,
+   "aggiudicato": 7800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

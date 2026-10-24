@@ -1,0 +1,59 @@
+{
+ "nome": "APS CHIESA CRISTIANA EVANGELICA GESU' E' VIVENTE",
+ "cf": "93014980143",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SONDRIO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C9808245",
+   "data": "2025-12-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI SONDRIO - U.T.G.",
+   "ente": "APS CHIESA CRISTIANA EVANGELICA GESU' E' VIVENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1790318.87,
+   "aggiudicato": 1790318.87,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "SONDRIO"
+  },
+  {
+   "cig": "9554656F8C",
+   "data": "2022-12-21",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI SONDRIO - U.T.G.",
+   "ente": "APS CHIESA CRISTIANA EVANGELICA GESU' E' VIVENTE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 12483754.5,
+   "aggiudicato": 5300846.22,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SONDRIO"
+  }
+ ]
+}

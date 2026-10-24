@@ -1,0 +1,38 @@
+{
+ "nome": "BOMENUTO VIAGGI",
+ "cf": "02990580793",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B13A4B212D",
+   "data": "2024-04-15",
+   "oggetto": "SERVIZIO DI TRASPORTO DI MINORI STRANIERI NON ACCOMPAGNATI CON CONDUCENTE",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "BOMENUTO VIAGGI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33000.0,
+   "aggiudicato": 33000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

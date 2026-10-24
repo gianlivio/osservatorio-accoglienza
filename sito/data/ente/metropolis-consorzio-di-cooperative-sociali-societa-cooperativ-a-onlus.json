@@ -1,0 +1,63 @@
+{
+ "nome": "METROPOLIS CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIV A ONLUS",
+ "cf": "05457290723",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7D674131C",
+   "data": "2025-08-01",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - SOCIETÀ COOP.SOCIALE METROPOLIS GROUP - COMUNITÀ PHOENIX - MAGGIO-SETTEMBRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "METROPOLIS CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIV A ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9900.0,
+   "aggiudicato": 9900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  },
+  {
+   "cig": "8531466476",
+   "data": "2020-11-23",
+   "oggetto": "AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA L'INTEGRAZIONE A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE ED UMANITARIA NEL QUADRO DEL SISTEMA DI PROTEZIONE PER",
+   "amministrazione": "COMUNE DI MOLFETTA",
+   "ente": "METROPOLIS CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIV A ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4758933.12,
+   "aggiudicato": 4758933.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

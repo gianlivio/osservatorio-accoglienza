@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE OPERA DI MISERICORDIA ONLUS",
+ "cf": "91011310819",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7059644A84",
+   "data": "2017-04-27",
+   "oggetto": "RETTE MSNA C.P.A. ANTARES DELL' ASSOCIAZIONE OPERA DI MISEIRICORDIA - ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "ASSOCIAZIONE OPERA DI MISERICORDIA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 625705.0,
+   "aggiudicato": 625705.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6870039786",
+   "data": "2016-10-26",
+   "oggetto": "ATTIVITÀ ASSISTENZIALE PER RETTE RICOVERO IN FAVORE DI N. 40 MSNA * C.P.A. 'ANTERES' DELLE ASS. OPERA DI MISERICORDIA DI MARSALA- ANNO 2016",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "ASSOCIAZIONE OPERA DI MISERICORDIA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO A SOCIETA' RAGGRUPPATE/CONSORZIATE O CONTROLLATE NELLE CONCESSIONI E NEI PARTENARIATI",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 297000.0,
+   "aggiudicato": 297000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

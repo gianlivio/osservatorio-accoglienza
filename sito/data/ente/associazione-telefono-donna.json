@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE TELEFONO DONNA",
+ "cf": "09444990965",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9249981DC9",
+   "data": "2022-06-20",
+   "oggetto": "SERVIZI ACCOGLIENZA PROFUGHI UCRAINI CAS 1- TD",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE TELEFONO DONNA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 277387.6,
+   "aggiudicato": 277387.6,
+   "durata_gg": 195.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7548311749",
+   "data": "2018-06-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE TELEFONO DONNA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 133630.0,
+   "aggiudicato": 133630.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

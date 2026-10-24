@@ -4,6 +4,8 @@ import ElencoContratti from "@/app/ElencoContratti";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { creatore, dominio, fonteAnac, licenza, breadcrumb, distribuzioneCsv } from "@/lib/jsonld";
+import { metadatiPagina } from "@/lib/metadati";
+import { slugEnteDaCf } from "@/lib/enti";
 import { regioneDi, regioni } from "@/lib/regioni";
 import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, nomeProvincia, descrizioneProvincia } from "@/lib/dati";
 
@@ -23,15 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!p) return {};
   const title = `${nomeProvincia(p.provincia)}: contratti per l'accoglienza dei migranti ${anni[0]}–${anni[anni.length - 1]} · Osservatorio Accoglienza`;
   const description = descrizioneProvincia(p);
-  return {
-    title,
-    description,
-    openGraph: {
-      title, description, type: "website", locale: "it_IT",
-      images: [{ url: "/og.png", width: 1200, height: 630, alt: "Osservatorio Accoglienza" }],
-    },
-    twitter: { card: "summary_large_image", title, description, images: ["/og.png"] },
-  };
+  return metadatiPagina(title, description);
 }
 
 export default async function Provincia({ params }: { params: Promise<{ slug: string }> }) {
@@ -155,7 +149,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             <caption className="sr-only">Enti gestori e numero di contratti ricevuti</caption>
             <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
             <tbody>{d.top_enti.map((e) => (
-              <tr key={e.nome}><td>{e.nome}</td><td className="num">{e.affidamenti}</td></tr>
+              <tr key={e.nome}><td>{e.cf && slugEnteDaCf.has(e.cf)
+                ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} className="link-ente">{e.nome}</Link>
+                : e.nome}</td><td className="num">{e.affidamenti}</td></tr>
             ))}</tbody>
           </table>
         </section>

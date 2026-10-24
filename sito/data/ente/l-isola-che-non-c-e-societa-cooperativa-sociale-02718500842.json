@@ -1,0 +1,128 @@
+{
+ "nome": "L'ISOLA CHE NON C'E' SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02718500842",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7359450A41",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE 'L'ISOLA CHE NON C'È'. EROGAZIONE CONTRIBUTO MINISTERIALE 2^ TRIMESTRE 2017",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "L'ISOLA CHE NON C'E' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 53700.0,
+   "aggiudicato": 53700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "73594255A1",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE 'L'ISOLA CHE NON C'È'. EROGAZIONE CONTRIBUTO MINISTERIALE 3^ TRIMESTRE 2017",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "L'ISOLA CHE NON C'E' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49414.29,
+   "aggiudicato": 49414.29,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "72257659E7",
+   "data": "2017-10-04",
+   "oggetto": ": LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE 'L'ISOLA CHE NON C'È'. EROGAZIONE CONTRIBUTO MINISTERIALE 1^ TRIMESTRE 2017",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "L'ISOLA CHE NON C'E' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47271.43,
+   "aggiudicato": 47271.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7139690293",
+   "data": "2017-07-19",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE 'L'ISOLA CHE NON C'È'. EROGAZIONE CONTRIBUTO MINISTERIALE 4^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "L'ISOLA CHE NON C'E' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45128.57,
+   "aggiudicato": 45128.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "691994466F",
+   "data": "2016-12-20",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE 'L'ISOLA CHE NON C'È' RELATIVA AL 1^E 2^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "L'ISOLA CHE NON C'E' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 64500.0,
+   "aggiudicato": 64500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "65945678D6",
+   "data": "2016-02-16",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERI MSNA 1^ TRIMESTRE 2015 COOPERATIVA SOCIALE L'ISOLA CHE NOIN C'È",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "L'ISOLA CHE NON C'E' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 42345.0,
+   "aggiudicato": 42345.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

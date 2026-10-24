@@ -1,0 +1,96 @@
+{
+ "nome": "NUOVA AURORA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "04113330619",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6FB74B3BD",
+   "data": "2025-05-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRESSO STRUTTURE FINO A 50",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "NUOVA AURORA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 659135.25,
+   "aggiudicato": 659135.25,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B5A59878A0",
+   "data": "2025-02-17",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "NUOVA AURORA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139763.5,
+   "aggiudicato": 139763.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B31228510F",
+   "data": "2024-10-21",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "NUOVA AURORA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139763.5,
+   "aggiudicato": 139763.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "A014117993",
+   "data": "2023-03-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI AFFIDAMENTO DIRETTO NUOVA AURORA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "NUOVA AURORA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 321787.5,
+   "aggiudicato": 24.75,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

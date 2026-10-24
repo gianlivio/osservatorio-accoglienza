@@ -1,0 +1,75 @@
+{
+ "nome": "ECCOCI COOPERATIVA SOCIALE ONLUS",
+ "cf": "02279400978",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PRATO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B706920428",
+   "data": "2025-05-26",
+   "oggetto": "CONTRATTO DI APPALTO PER IL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI DI ACCOGLIENZA STRAORDINARI UBICATI NELL",
+   "amministrazione": "PREFETTURA DI PRATO",
+   "ente": "ECCOCI COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1420580.0,
+   "aggiudicato": 1420580.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PRATO"
+  },
+  {
+   "cig": "B6E8EB96EB",
+   "data": "2025-05-19",
+   "oggetto": "ACCORDO QUADRO PER AFFIDAMENTO DEI SERVIZI ACCOGLIENZA CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE LOTTO 1 ASP 4856510",
+   "amministrazione": "PREFETTURA DI PRATO",
+   "ente": "ECCOCI COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1423135.0,
+   "aggiudicato": 1423135.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PRATO"
+  },
+  {
+   "cig": "9483920A5C",
+   "data": "2022-11-15",
+   "oggetto": "BANDO DI GARA ACCOGLIENZA MIGRANTI PERIODO 01/01/2023 AL 31/12/2023 LOTTO 1",
+   "amministrazione": "PREFETTURA DI PRATO",
+   "ente": "ECCOCI COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1961732.85,
+   "aggiudicato": 24.55,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

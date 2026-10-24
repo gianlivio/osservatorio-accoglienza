@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE CARITAS SENIGALLIA ETS",
+ "cf": "02618400424",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2A0B5B556",
+   "data": "2024-07-30",
+   "oggetto": "ACCOGLIENZA MSNA PROVINCIA DI ANCONA STRUTTURA ALBERICI",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 88320.0,
+   "aggiudicato": 88320.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

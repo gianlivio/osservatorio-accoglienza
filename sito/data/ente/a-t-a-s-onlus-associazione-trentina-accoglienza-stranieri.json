@@ -1,0 +1,186 @@
+{
+ "nome": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+ "cf": "01280230226",
+ "affidamenti": 9,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7803415DC2",
+   "data": "2019-02-22",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO A",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 406934.4,
+   "aggiudicato": 406934.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "74035209F8",
+   "data": "2018-03-01",
+   "oggetto": "RINNOVO AD ATAS ONLUS DEL SERVIZIO DI ACCOGLIENZA STRAORDINARIA DEI CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO AL TRENTINO PRESSO LA",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 284580.0,
+   "aggiudicato": 284580.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7298340CAF",
+   "data": "2017-11-30",
+   "oggetto": "MESSA A DISPOSIZIONE DI N. 45 POSTI LETTO, E RELATIVI SERVIZI DI ACCOGLIENZA INTEGRATA, NELL'AMBITO DEL PROGETTO SPRAR TRENTINO CATEGORIA ORDINARI, DA ASSEGNARE NEL CORSO DEL 2018 ",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 359333.33,
+   "aggiudicato": 351633.34,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "735209765F",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 769500.0,
+   "aggiudicato": 256500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "6984685865",
+   "data": "2017-02-28",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA DEI CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO AL TRENTINO, SUDDIVIS",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 284580.0,
+   "aggiudicato": 284580.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "6907874DF2",
+   "data": "2016-12-20",
+   "oggetto": "CONVENZIONE CON ASSOCIAZIONE ATAS ONLUS TRENTO PE ATTIVITÀ PROGETTO SPRAR 2017",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 220649.0,
+   "aggiudicato": 220649.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "6508102FA7",
+   "data": "2015-12-18",
+   "oggetto": "CONVENZIONE CON ATAS PER L'ANNO 2016 PER IL PROGETTO SPRAR TRENTINO 2016",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 220649.0,
+   "aggiudicato": 220649.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "616639916F",
+   "data": "2015-03-04",
+   "oggetto": "PROSECUZIONE ATTIVITÀ CONVENZIONE ATAS PROGETTO SPRAR 2015",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 110324.5,
+   "aggiudicato": 220649.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "606556783A",
+   "data": "2015-03-04",
+   "oggetto": "RINNOVO CONVENZIONE CON ASSOCIAZIONE ATAS ONLUS PER IL PROGETTO SPRAR TRENTINO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "A.T.A.S.ONLUS ASSOCIAZIONE TRENTINA ACCOGLIENZA STRANIERI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 110324.5,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

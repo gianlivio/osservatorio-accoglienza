@@ -1,0 +1,111 @@
+{
+ "nome": "EURO.MED S.R.L.",
+ "cf": "02004800591",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "LATINA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9B703D9AA",
+   "data": "2025-12-24",
+   "oggetto": "MSNA-OTTOBRE E NOVEMBRE'25",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "EURO.MED S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6100.0,
+   "aggiudicato": 6100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B520B4FC26",
+   "data": "2025-01-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO 01.01.2025 - 01.06.2025",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "EURO.MED S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15200.0,
+   "aggiudicato": 15200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B0BBE03551",
+   "data": "2024-05-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI N. 3 MINORI STRANIERI NON ACCOMPAGNATI COLLOCATI PRESSOLA PERGOLA GESTITA DA EURO.MED. SRL PER IL PERIODO 25 GENNAIO – 29 FEBBRAIO 2024.",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "EURO.MED S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7500.0,
+   "aggiudicato": 7500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B0A7265C90",
+   "data": "2024-05-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI N. 2 MINORI STRANIERI NON ACCOMPAGNATI COLLOCATI PRESSO LA PERGOLA GESTITA DA EURO.MED. SRL PER IL PERIODO 1° MARZO -31 MARZO 2024.",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "EURO.MED S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6200.0,
+   "aggiudicato": 6200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B190454672",
+   "data": "2024-05-08",
+   "oggetto": "INSERIMENTO MSNA IN STRUTTURA",
+   "amministrazione": "COMUNE DI VALMONTONE",
+   "ente": "EURO.MED S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9900.0,
+   "aggiudicato": 9900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

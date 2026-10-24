@@ -1,0 +1,91 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO PROVINCIALE DI CAGLIARI",
+ "cf": "92216150927",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0185BF1C2",
+   "data": "2023-10-02",
+   "oggetto": "CONVENZIONE PER LA GESTIONE DEL CENTRO DI PRIMISSIMA ACCOGLIENZA PER MIGRANTI CROCE ROSSA",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO PROVINCIALE DI CAGLIARI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 99200.0,
+   "aggiudicato": 99200.0,
+   "durata_gg": 40.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "7745802604",
+   "data": "2018-12-21",
+   "oggetto": "SERVIZIO RESIDENZIALE MSNA TRIMESTRE GENNAIO - MARZO 2019 ( CROCE ROSSA ITALIANA)",
+   "amministrazione": "COMUNE DI CAGLIARI",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO PROVINCIALE DI CAGLIARI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 51440.0,
+   "aggiudicato": 51440.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "7632355298",
+   "data": "2018-09-26",
+   "oggetto": "MSNA- SOGGIORNO IN COMUNITA' ( CROCE ROSSA ITALIANA) - 4^ TRIMESTRE 2018",
+   "amministrazione": "COMUNE DI CAGLIARI",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO PROVINCIALE DI CAGLIARI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75120.0,
+   "aggiudicato": 75120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "7551874392",
+   "data": "2018-06-29",
+   "oggetto": "MSNA - SERVIZIO DI ACCOGLIENZA TRIMESTRE LUGLIO SETTEMBRE 2018 ( CROCE ROSSA ITALIANA)",
+   "amministrazione": "COMUNE DI CAGLIARI",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO PROVINCIALE DI CAGLIARI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 56076.19,
+   "aggiudicato": 56076.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

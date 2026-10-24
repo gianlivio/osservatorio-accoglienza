@@ -1,0 +1,38 @@
+{
+ "nome": "RALLYE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "02811300181",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1F2EC47CF",
+   "data": "2024-06-04",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO, PER LA DURATA DI 36 MESI, PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA DI ",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "RALLYE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9523489.0,
+   "aggiudicato": 2272271.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

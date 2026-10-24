@@ -1,0 +1,38 @@
+{
+ "nome": "JOLLY FOTO 1963 SAS DI CRISTINA VERDACCHI",
+ "cf": "02688350996",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1A8F78B03",
+   "data": "2024-05-15",
+   "oggetto": "SPONSORIZZAZIONE AVENTE AD OGGETTO IL SERVIZIO FOTOGRAFICA E LA STAMPA DI N. 1 FOTO RICORDO DA CONSEGNARSI IN OCCASIONE DEI CONFERIMENTI DELLA CITTADINANZA A CITTADINI STRANIERI ED",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "JOLLY FOTO 1963 SAS DI CRISTINA VERDACCHI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8700.0,
+   "aggiudicato": 8700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  }
+ ]
+}

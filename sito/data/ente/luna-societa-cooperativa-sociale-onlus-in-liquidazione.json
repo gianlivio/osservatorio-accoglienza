@@ -1,0 +1,33 @@
+{
+ "nome": "LUNA-SOCIETA' COOPERATIVA SOCIALE-ONLUS IN LIQUIDAZIONE",
+ "cf": "02590280695",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "775237021B",
+   "data": "2018-12-31",
+   "oggetto": "PROCEDURA APERTA VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI NELLA PROVINCIA DI CHIETI PER IL PERIODO 1.5.2019",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO CHIETI",
+   "ente": "LUNA-SOCIETA' COOPERATIVA SOCIALE-ONLUS IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 19645710.0,
+   "aggiudicato": 9802180.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

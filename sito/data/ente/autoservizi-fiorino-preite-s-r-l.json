@@ -1,0 +1,38 @@
+{
+ "nome": "AUTOSERVIZI FIORINO PREITE S.R.L.",
+ "cf": "01961470786",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6798909D2F",
+   "data": "2016-09-12",
+   "oggetto": "SERVIZIO DI TRASPORTO, CON AUTISTA, DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, ASSEGNATI NELLA PROVINCIA DI CATANZARO, DA DESTINARE ALLE IDONEE STRUTTURE DI ACCO",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "AUTOSERVIZI FIORINO PREITE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 40000.0,
+   "aggiudicato": 40000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SOUTH EUROPE YOUTH FORUM",
+ "cf": "90036240753",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B162EDEB19",
+   "data": "2024-04-25",
+   "oggetto": "GARA EUROPEA PER LA CONCLUSIONE DI UN ACCORDO QUADRO TRIENNALE PER L AFFIDAMENTO NEL TERRIORIO DELLA PROV DI LECCE DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA MIGRANTI COSTITU",
+   "amministrazione": "PREFETTURA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SOUTH EUROPE YOUTH FORUM",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 51670312.5,
+   "aggiudicato": 2685432.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B16207AAF7",
+   "data": "2024-04-24",
+   "oggetto": "GARA EUROPEA PER LA CONCLUSIONE DI UN ACCORDO QUADRO TRIENNALE PER L AFFIDAMENTO NEL TERRITORIO PROV DI LECCE DEI SERVIZI DI GESTIONE CENTRI ACCOGLIENZA MIGRANTI COSTITUITI DA CENT",
+   "amministrazione": "PREFETTURA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SOUTH EUROPE YOUTH FORUM",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 55133250.0,
+   "aggiudicato": 3908447.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCE"
+  }
+ ]
+}

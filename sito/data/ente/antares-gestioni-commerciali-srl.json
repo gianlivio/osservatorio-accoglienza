@@ -1,0 +1,75 @@
+{
+ "nome": "ANTARES GESTIONI COMMERCIALI SRL",
+ "cf": "02919360590",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6B5BCB990",
+   "data": "2025-05-06",
+   "oggetto": "FORNITURA GENERI ALIMENTARI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "ANTARES GESTIONI COMMERCIALI SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15000.0,
+   "aggiudicato": 15000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B207703862",
+   "data": "2024-06-10",
+   "oggetto": "FORNITURA GENERI ALIMENTARI A FAVORE DEI BENEFICIARI DEL PROGETTO SAI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "ANTARES GESTIONI COMMERCIALI SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37000.0,
+   "aggiudicato": 37000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B1F7DF1E4F",
+   "data": "2024-06-05",
+   "oggetto": "FORNITURA DI GENERI ALIMENTARI A FAVORE DEI BENEFICIARI DEL PROGETTO SAI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "ANTARES GESTIONI COMMERCIALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37.0,
+   "aggiudicato": 37.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

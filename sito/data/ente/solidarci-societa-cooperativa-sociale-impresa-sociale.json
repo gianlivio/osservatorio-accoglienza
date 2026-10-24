@@ -1,0 +1,80 @@
+{
+ "nome": "SOLIDARCI SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+ "cf": "93045010613",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9715375513",
+   "data": "2023-03-16",
+   "oggetto": "SERVIZIO ACCOGLIENZA INTEGRATA (S.A.I) PER IMMIGRATI COMUNE DI SANTA MARIA CAPUA VETERE",
+   "amministrazione": "COMUNE DI SANTA MARIA CAPUA VETERE",
+   "ente": "SOLIDARCI SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 123922.05,
+   "aggiudicato": 118021.0,
+   "durata_gg": 91.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "9544805E3F",
+   "data": "2022-12-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA INTEGRATA (S.A.I) PER IMMIGRATI COMUNE DI SANTA MARIA CAPUA VETERE",
+   "amministrazione": "COMUNE DI SANTA MARIA CAPUA VETERE",
+   "ente": "SOLIDARCI SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 122520.0,
+   "aggiudicato": 116742.85,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "84720783EF",
+   "data": "2020-10-23",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO 'ENTE ATTUATORE' PER L'AFFIDAMENTO IN PROSECUZIONE PROGETTO SPRAR DEL COMUNE DI S.MARIA C.V. - CATEGORIA 'ORDINARI' UOMINI E DO",
+   "amministrazione": "COMUNE DI SANTA MARIA CAPUA VETERE",
+   "ente": "SOLIDARCI SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1073100.0,
+   "aggiudicato": 1073100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

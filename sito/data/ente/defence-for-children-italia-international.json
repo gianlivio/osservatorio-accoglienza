@@ -1,0 +1,38 @@
+{
+ "nome": "DEFENCE FOR CHILDREN ITALIA INTERNATIONAL",
+ "cf": "97457060586",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B341A49B86",
+   "data": "2024-10-14",
+   "oggetto": "SERVIZIO DI MENTORING MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "DIPARTIMENTO GIUSTIZIA MINORILE E DI COMUNITA'",
+   "ente": "DEFENCE FOR CHILDREN ITALIA INTERNATIONAL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8500.0,
+   "aggiudicato": 8500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

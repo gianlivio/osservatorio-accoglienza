@@ -1,0 +1,59 @@
+{
+ "nome": "ARCI N.A.COMITATO PROVINCIALE FOGGIA",
+ "cf": "94048950714",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "85368195E5",
+   "data": "2020-12-14",
+   "oggetto": "PROCEDURA APERTA PER SERVIZIO DI ACCOGLIENZA, INTEGRAZIONE E TUTELA IN FORMA INTEGRATA DI 20 RICHIEDENTI ASILO E RIFUGIATI, IN PROSECUZIONE DEL PROGETTO SIPROIMI 'CASALNUOVO WELCOM",
+   "amministrazione": "COMUNE DI CASALNUOVO MONTEROTARO -FG-",
+   "ente": "ARCI N.A.COMITATO PROVINCIALE FOGGIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 255191.54,
+   "aggiudicato": 255191.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "6785994B64",
+   "data": "2016-08-29",
+   "oggetto": "FONDI SPRAR - LUCERA WELCOMING- ANNO 2016",
+   "amministrazione": "COMUNE DI LUCERA",
+   "ente": "ARCI N.A.COMITATO PROVINCIALE FOGGIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 163717.5,
+   "aggiudicato": 163717.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

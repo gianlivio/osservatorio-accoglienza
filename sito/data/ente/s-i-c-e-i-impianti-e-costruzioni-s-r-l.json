@@ -1,0 +1,38 @@
+{
+ "nome": "S.I.C.E.I. - IMPIANTI E COSTRUZIONI S.R.L.",
+ "cf": "04591580875",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1B16E6D99",
+   "data": "2024-05-17",
+   "oggetto": "LAVORI",
+   "amministrazione": "PREFETTURA DI CATANIA",
+   "ente": "S.I.C.E.I. - IMPIANTI E COSTRUZIONI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8030.0,
+   "aggiudicato": 8030.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CATANIA"
+  }
+ ]
+}

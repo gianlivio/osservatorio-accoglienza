@@ -1,0 +1,59 @@
+{
+ "nome": "KANTARA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "10426590153",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MANTOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8244535582",
+   "data": "2020-03-23",
+   "oggetto": "LOTTO 2 - SOSTEGNO PSICOLOGICO, TRANSCULTURALE E LINGUISTICO",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "KANTARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 196500.0,
+   "aggiudicato": 131000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7164888C9C",
+   "data": "2017-07-28",
+   "oggetto": "ALFABETIZZAZIONE E SUPPORTO TRANSUCULTARE",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "KANTARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 262500.0,
+   "aggiudicato": 112500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  }
+ ]
+}

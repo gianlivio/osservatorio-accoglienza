@@ -1,0 +1,33 @@
+{
+ "nome": "L.A.P. ARCHITETTURA S.R.L. S.T.P.",
+ "cf": "02113610667",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A036F6C99E",
+   "data": "2023-12-04",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI DIREZIONE LAVORI E COORD. SICUREZZA IN FASE DI ESECUZIONE E ADEGUAMENTO PROGETTO ALLE DISPOSIZIONI NORMATIVE SOPRAGGIUNTE LAVORI DI PNRR M5C3 - INV. 1.1.1 -",
+   "amministrazione": "COMUNE DI ATESSA",
+   "ente": "L.A.P. ARCHITETTURA S.R.L. S.T.P.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 107191.0,
+   "aggiudicato": 106119.09,
+   "durata_gg": 363.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

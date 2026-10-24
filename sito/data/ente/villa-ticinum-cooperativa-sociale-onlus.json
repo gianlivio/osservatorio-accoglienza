@@ -1,0 +1,181 @@
+{
+ "nome": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+ "cf": "96019270188",
+ "affidamenti": 9,
+ "diretti": 5,
+ "quota_diretti": 55.6,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ALESSANDRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B60B67EC49",
+   "data": "2025-03-13",
+   "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1296735.5,
+   "aggiudicato": 1296735.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "97205313F1",
+   "data": "2023-02-20",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E STRANIERA DI CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "9660106BA5",
+   "data": "2023-02-01",
+   "oggetto": "CONVENZIONE SERVIZI ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI PRESSO CENTRI COLLETTIVI -- ANNUALITÀ 20223-2024 - N. 4",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1375189.0,
+   "aggiudicato": 1375189.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "96116096A9",
+   "data": "2022-11-01",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E STRANIERA DI CITTADINI STRANIERI ANCHE UCRAINI PRESSO STRUTTURE A RETE",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 238.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "917255797C",
+   "data": "2022-03-14",
+   "oggetto": "SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI UCRAINI PRESSO STRUTTURE A RETE",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 238.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "79807860F4",
+   "data": "2019-06-24",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - AGHATON S.R.L.",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 870986.0,
+   "aggiudicato": 870986.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7980784F49",
+   "data": "2019-06-24",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - COOP. SOC. QUADRIFOGLIO",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 411056.0,
+   "aggiudicato": 411056.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7980768219",
+   "data": "2019-06-24",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - COOP. SOC. VILLA TICINUM",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 679245.0,
+   "aggiudicato": 679245.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "784728586F",
+   "data": "2019-04-03",
+   "oggetto": "GARA PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI)",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "VILLA TICINUM COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7694000.0,
+   "aggiudicato": 4117920.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

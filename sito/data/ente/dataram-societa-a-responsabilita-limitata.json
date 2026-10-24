@@ -1,0 +1,33 @@
+{
+ "nome": "DATARAM - SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "12331611009",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8896926797",
+   "data": "2021-09-06",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI FRONT END E BACK OFFICENELL'AMBITO DEL PROGETTO 'SERVIZIO CENTRALE DEL SISTEMA DI ACCOGLIENZA E INTEGRAZIONE SAI/SIPROIMI ANNUALITÀ",
+   "amministrazione": "CITTALIA FONDAZIONE RICERCHE DELL'ANCI",
+   "ente": "DATARAM - SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": 485.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

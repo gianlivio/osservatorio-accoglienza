@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE CANTE DI MONTEVECHIO-ONLUS",
+ "cf": "00824500417",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A044433085",
+   "data": "2023-12-28",
+   "oggetto": "PROSECUZIONE ANNO 2024 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI, MADRI CON FIGLI E PER VITTIME DELLA VIOLENZA DI GENERE GIA' INSERITI IN STRUTTURA R",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "ASSOCIAZIONE CANTE DI MONTEVECHIO-ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 225882.0,
+   "aggiudicato": 225882.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  }
+ ]
+}

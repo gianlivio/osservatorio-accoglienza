@@ -1,0 +1,38 @@
+{
+ "nome": "BURRATA BAR S.R.L.",
+ "cf": "08364160724",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9169813113",
+   "data": "2022-04-04",
+   "oggetto": "OSPITALITA' PROFUGHI UCRAINI PRESSO STRUTTURA DI ACCOGLIENZA TEMPORANEA ALLEGRO ITALIA SILVER PALACE IN TORINO",
+   "amministrazione": "REGIONE PIEMONTE",
+   "ente": "BURRATA BAR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 191000.0,
+   "aggiudicato": 210040.0,
+   "durata_gg": 49.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

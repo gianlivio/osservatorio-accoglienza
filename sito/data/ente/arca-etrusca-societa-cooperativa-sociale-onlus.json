@@ -1,0 +1,122 @@
+{
+ "nome": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02246460519",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B33CC632E0",
+   "data": "2024-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5346308.98,
+   "aggiudicato": 5346308.98,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "A01E5F02F3",
+   "data": "2023-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI SECONDO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2023 AL 31 OTTOBRE 2024 (COOPERATIVA SOCIALE ARCA ETRUSCA ONLUS)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2098081.0,
+   "aggiudicato": 2098081.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9418286779",
+   "data": "2022-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRIMO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2022 AL 31 OTTOBRE 2023 (COOPERATIVA SOCIALE ARCA ETRUSCA ONLUS)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1048900.5,
+   "aggiudicato": 1048900.5,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "8452352D83",
+   "data": "2020-10-23",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) COOPERATIVA ARCA ETRUSCA",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 933367.05,
+   "aggiudicato": 933367.05,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6951769D3F",
+   "data": "2016-10-04",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI COOP. ARCA ETRUSCA FEBBRAIO GIUGNO 2017",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 81000.0,
+   "aggiudicato": 81000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

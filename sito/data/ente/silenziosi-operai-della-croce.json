@@ -1,0 +1,59 @@
+{
+ "nome": "SILENZIOSI OPERAI DELLA CROCE",
+ "cf": "80159770587",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERBANO-CUSIO-OSSOLA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B768977051",
+   "data": "2025-06-26",
+   "oggetto": "ACCOGLIENZA PROFUGHI PROVENIENTI UCRAINA",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI",
+   "ente": "SILENZIOSI OPERAI DELLA CROCE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 131983.2,
+   "aggiudicato": 131983.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  },
+  {
+   "cig": "B231B3E368",
+   "data": "2024-06-24",
+   "oggetto": "ACCOGLIENZA PROFUGHI PROVENIENTI UCRAINA DAL 01/07/2024 AL 31/12/2024",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI",
+   "ente": "SILENZIOSI OPERAI DELLA CROCE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 131983.2,
+   "aggiudicato": 131983.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "nome": "EURISA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "12071681006",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C5AF4B06",
+   "data": "2025-12-24",
+   "oggetto": "MSNA-OTTOBRE E NOVEMBRE'25",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "EURISA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6710.0,
+   "aggiudicato": 6710.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B0301EF031",
+   "data": "2024-01-31",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "EURISA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14380.95,
+   "aggiudicato": 14380.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "7041611937",
+   "data": "2017-04-10",
+   "oggetto": "CONNVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA IMMIGRATI 2017 SPLENDID SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "EURISA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1466298.0,
+   "aggiudicato": 1466298.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  }
+ ]
+}

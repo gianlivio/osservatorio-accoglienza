@@ -1,0 +1,38 @@
+{
+ "nome": "EUROMENSE - S.R.L.",
+ "cf": "01910150695",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1E07242B4",
+   "data": "2024-05-29",
+   "oggetto": "GESTIONE DI UN SISTEMA DI ACCOGLIENZA INTEGRATA DI SECONDO LIVELLO IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI SAI MSNA CIVITAQUANA.AFFIDAMENTO DEL SERVIZIO DI SOMMINISTRAZIONE ",
+   "amministrazione": "AZIENDA PUBBLICA DI SERVIZI ALLA PERSONA ASP2 L'AQUILA",
+   "ente": "EUROMENSE - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 100831.25,
+   "aggiudicato": 100831.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

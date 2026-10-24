@@ -1,0 +1,59 @@
+{
+ "nome": "IST.SAL. BORGO RAGAZZI DON BOSCO",
+ "cf": "02230700581",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71632168D6",
+   "data": "2017-07-27",
+   "oggetto": "AVVISO PUBBLICO PER INDIVIDUAZIONE SOGGETTO IN QUALITÀ DI ENTE ATTUATORE PER CO PROGETTAZIONE E GESTIONE PROGETTI SPRAR - D.M. 10/08/2016 - PERIODO: TRIENNIO 2017/2019 - PER N. 62 ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IST.SAL. BORGO RAGAZZI DON BOSCO",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 210654.0,
+   "aggiudicato": 210654.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "65394046E4",
+   "data": "2015-12-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IST.SAL. BORGO RAGAZZI DON BOSCO",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 64314.0,
+   "aggiudicato": 64324.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

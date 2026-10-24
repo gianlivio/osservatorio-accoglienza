@@ -1,0 +1,75 @@
+{
+ "nome": "PUBBLICA ASSISTENZA LUNI",
+ "cf": "00816720114",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7158922153",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "PUBBLICA ASSISTENZA LUNI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 69595.11,
+   "aggiudicato": 69595.11,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "70292142E5",
+   "data": "2017-03-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 APRILE - 31 AGOSTO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "PUBBLICA ASSISTENZA LUNI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 69595.11,
+   "aggiudicato": 55494.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "6857039F93",
+   "data": "2016-10-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 31 OTTOBRE 2016 -31 MARZO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "PUBBLICA ASSISTENZA LUNI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 53184.8,
+   "aggiudicato": 53184.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

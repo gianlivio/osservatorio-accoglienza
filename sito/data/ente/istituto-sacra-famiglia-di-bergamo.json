@@ -1,0 +1,38 @@
+{
+ "nome": "ISTITUTO SACRA FAMIGLIA DI BERGAMO",
+ "cf": "00657080164",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9306192096",
+   "data": "2022-08-04",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITA TEMPORANEA PROFUGHI UCRAINI SANREMO",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ISTITUTO SACRA FAMIGLIA DI BERGAMO",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": 62.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

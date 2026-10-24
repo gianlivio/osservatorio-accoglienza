@@ -1,0 +1,91 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO DI LEGNANO - ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "08466220962",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B703547AEC",
+   "data": "2025-05-28",
+   "oggetto": "LOTTO 2: GESTIONE CENTRI COLLETTIVI DI ACCOGLIENZA CON CAPACITÀ RICETTIVA FINO A 50 POSTI, PER IL PERIODO DECORRENTE INDICATIVAMENTE DAL 01.07.2025 AL 31.12.2025 EVENTUALMENTE PROR",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "CROCE ROSSA ITALIANA COMITATO DI LEGNANO - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1064256.0,
+   "aggiudicato": 332563.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "A03A910AA7",
+   "data": "2023-12-07",
+   "oggetto": "PROCEDURA PER L'AFFIDAMENTO DIRETTO IN APPALTO - AI SENSI DELL'ART. 50 COMMA 1 LETT. B) DEL D.LGS. 36/2023 - DELLA GESTIONE ED EROGAZIONE DEI SERVIZI DI ACCOGLIENZA IN FAVORE DEI P",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "CROCE ROSSA ITALIANA COMITATO DI LEGNANO - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 136001.45,
+   "aggiudicato": 113334.54,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "A0092A7648",
+   "data": "2023-08-30",
+   "oggetto": "PROCEDURA PER L'AFFIDAMENTO DIRETTO - AI SENSI DELL'ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023 - DELL'EROGAZIONE E GESTIONE DEL SERVIZIO DI ACCOGLIENZA DEI PROFUGHI CITTADINI ",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "CROCE ROSSA ITALIANA COMITATO DI LEGNANO - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 108786.72,
+   "aggiudicato": 108786.72,
+   "durata_gg": 112.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "98816199F5",
+   "data": "2023-06-14",
+   "oggetto": "GESTIONE ED EROGAZIONE DEI SERVIZI DI ACCOGLIENZA IN FAVORE DEI PROFUGHI UCRAINI PRESSO I CENTRI DI ACCOGLIENZA STRAORDINARIA (CAS) DI CUI ALL'ART. 1, COMMA 2, LETTERA B) DEL CSA C",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "CROCE ROSSA ITALIANA COMITATO DI LEGNANO - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 129561.76,
+   "aggiudicato": 129560.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

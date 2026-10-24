@@ -1,0 +1,38 @@
+{
+ "nome": "CAMEDI S.R.L.",
+ "cf": "05920700969",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5C18B4E07",
+   "data": "2025-02-21",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CAMEDI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1401965.0,
+   "aggiudicato": 1401965.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  }
+ ]
+}

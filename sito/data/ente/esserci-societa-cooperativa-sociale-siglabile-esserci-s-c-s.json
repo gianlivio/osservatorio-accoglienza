@@ -1,0 +1,101 @@
+{
+ "nome": "ESSERCI - SOCIETA' COOPERATIVA SOCIALE SIGLABILE ESSERCI - S.C.S",
+ "cf": "97519050013",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B50D2B43CA",
+   "data": "2024-12-31",
+   "oggetto": "CON DETERMINA A CONTRARRE N. 345 DEL 20-12-2024, QUESTA AMMINISTRAZIONE HA DECISO DI AFFIDARE IN APPALTO IL SERVIZIO DI CUI IN EPIGRAFE MEGLIO DESCRITTO NEL CAPITOLATO SPECIALE D’A",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DI SERVIZI",
+   "ente": "ESSERCI - SOCIETA' COOPERATIVA SOCIALE SIGLABILE ESSERCI - S.C.S",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3847396.0,
+   "aggiudicato": 1570651.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "766316971B",
+   "data": "2018-10-22",
+   "oggetto": "ACCOGLIENZA RESIDENZIALE RIFUGIATI",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ESSERCI - SOCIETA' COOPERATIVA SOCIALE SIGLABILE ESSERCI - S.C.S",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 408690.0,
+   "aggiudicato": 405587.78,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7144043AC6",
+   "data": "2017-07-28",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER RIFUGIATI E/O RICHIEDENTI PROTEZIONE INTERNAZIONALE O UMANITARIA CON DISAGIO MENTALE",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ESSERCI - SOCIETA' COOPERATIVA SOCIALE SIGLABILE ESSERCI - S.C.S",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 790500.0,
+   "aggiudicato": 775661.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6372879A1C",
+   "data": "2015-11-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PER RIFUGIATI",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ESSERCI - SOCIETA' COOPERATIVA SOCIALE SIGLABILE ESSERCI - S.C.S",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 76820.4,
+   "aggiudicato": 76820.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  }
+ ]
+}

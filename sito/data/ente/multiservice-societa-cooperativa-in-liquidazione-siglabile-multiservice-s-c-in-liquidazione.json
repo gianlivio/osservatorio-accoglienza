@@ -1,0 +1,38 @@
+{
+ "nome": "MULTISERVICE SOCIETA' COOPERATIVA IN LIQUIDAZIONE SIGLABILE MULTISERVICE S.C. IN LIQUIDAZIONE",
+ "cf": "01202320071",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "78578864A9",
+   "data": "2019-01-15",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SUL TERRITORIO DEL CONSORZIO IN.RE.TE. - ESER",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "MULTISERVICE SOCIETA' COOPERATIVA IN LIQUIDAZIONE SIGLABILE MULTISERVICE S.C. IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 436649.5,
+   "aggiudicato": 436649.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

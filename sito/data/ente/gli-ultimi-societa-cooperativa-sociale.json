@@ -1,0 +1,38 @@
+{
+ "nome": "GLI ULTIMI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02680410202",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MANTOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8BD4F67D5",
+   "data": "2025-10-23",
+   "oggetto": "RETTA COMUNITA' EDUCATIVA PER MINORI STRANIERI NON ACCOMPAGNATI - MSNA F.O.",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI",
+   "ente": "GLI ULTIMI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12800.0,
+   "aggiudicato": 12800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  }
+ ]
+}

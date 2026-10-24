@@ -1,0 +1,75 @@
+{
+ "nome": "FINIS TERRAE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02221650183",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B98A3D358D",
+   "data": "2025-12-12",
+   "oggetto": "SPORTELLOSTRANIERIPDZ",
+   "amministrazione": "COMUNE DI CASTEGGIO",
+   "ente": "FINIS TERRAE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16457.24,
+   "aggiudicato": 16457.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "B43EDA76C9",
+   "data": "2025-01-10",
+   "oggetto": "SPORTELLOSTRANIERIPDZ",
+   "amministrazione": "COMUNE DI CASTEGGIO",
+   "ente": "FINIS TERRAE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15979.0,
+   "aggiudicato": 15979.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "B01F64A22C",
+   "data": "2024-01-26",
+   "oggetto": "PROSECUZIONE PROGETTO ACCOGLIENZA SAI - 2024",
+   "amministrazione": "COMUNE DI CASTEGGIO",
+   "ente": "FINIS TERRAE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36000.0,
+   "aggiudicato": 36000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

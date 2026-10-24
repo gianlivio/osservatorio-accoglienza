@@ -1,0 +1,38 @@
+{
+ "nome": "DIOCESI DI ASTI",
+ "cf": "92014840059",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASTI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7825516C15",
+   "data": "2019-04-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLA PROVINCIA DI ASTI PER UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "DIOCESI DI ASTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3074400.0,
+   "aggiudicato": 186606.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  }
+ ]
+}

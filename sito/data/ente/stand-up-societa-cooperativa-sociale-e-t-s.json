@@ -1,0 +1,38 @@
+{
+ "nome": "STAND UP SOCIETA' COOPERATIVA SOCIALE E.T.S.",
+ "cf": "09374461003",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6625782845",
+   "data": "2016-03-17",
+   "oggetto": "PROCEDURA APERTA VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO CON PIU' SOGGETTI ECONOMICI, PER IL PERIODO 01/05/2016-31/12/2016, PER ASSICURARE I SERVIZI DI ACCOGLIENZA, E DEI SERVI",
+   "amministrazione": "PREFETTURA RIETI",
+   "ente": "STAND UP SOCIETA' COOPERATIVA SOCIALE E.T.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2143750.0,
+   "aggiudicato": 2082438.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIETI"
+  }
+ ]
+}

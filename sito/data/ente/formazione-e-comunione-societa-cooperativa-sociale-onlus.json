@@ -1,0 +1,59 @@
+{
+ "nome": "FORMAZIONE E COMUNIONE SOCIETA' COOPERATIVA SOCIALE-ONLUS",
+ "cf": "01495820886",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8500980E9B",
+   "data": "2020-11-20",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PETROSINO",
+   "ente": "FORMAZIONE E COMUNIONE SOCIETA' COOPERATIVA SOCIALE-ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 807064.06,
+   "aggiudicato": 807064.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "71355000E1",
+   "data": "2017-09-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA FRA I COMUNI DI PETROSINO, FAVIGNANA E SALAPARUTA",
+   "ente": "FORMAZIONE E COMUNIONE SOCIETA' COOPERATIVA SOCIALE-ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 573561.0,
+   "aggiudicato": 573561.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

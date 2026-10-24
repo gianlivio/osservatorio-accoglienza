@@ -1,0 +1,38 @@
+{
+ "nome": "EQUIPE SOCIETA' COOPERATIVA SOCIALE A R.L. - ONLUS",
+ "cf": "02179070020",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "783436200C",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/1/2019 - 31/5/2019.",
+   "amministrazione": "PREFETTURA",
+   "ente": "EQUIPE SOCIETA' COOPERATIVA SOCIALE A R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119556.96,
+   "aggiudicato": 119556.96,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  }
+ ]
+}

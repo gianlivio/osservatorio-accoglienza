@@ -1,0 +1,180 @@
+{
+ "nome": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "02598210694",
+ "affidamenti": 9,
+ "diretti": 6,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 8
+  },
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D09D0773",
+   "data": "2025-12-29",
+   "oggetto": "ACCORDO QUADRO, AI SENSI DELLART. 54 COMMA 3 DEL D.LGS. 50/2016, PER L'AFFIDAMENTO DELLE ATTIVITÀ NELL'AMBITO DEL PROGETTO DENOMINATO: SISTEMA DI ACCOGLIENZA IN FAVORE DI MINORI ST",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 442817.27,
+   "aggiudicato": 442817.27,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B9BC1E29B7",
+   "data": "2025-12-19",
+   "oggetto": "ACCORDO QUADRO GARA N. 4500149 - CIG B267CF5C7B SERVIZIO DI ACCOGLIENZA IN FAVORE DI MSNA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60.0,
+   "aggiudicato": 60.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B8C0454E84",
+   "data": "2025-10-22",
+   "oggetto": "ACCORDO QUADRO, AI SENSI DELLART. 54 COMMA 3 DEL D.LGS. 50/2016, PER L'AFFIDAMENTO DELLE ATTIVITÀ NELLAMBITO DEL PROGETTO DENOMINATO: SISTEMA DI ACCOGLIENZA IN FAVORE DI MINORI STR",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57516.9,
+   "aggiudicato": 57516.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B82482D7B2",
+   "data": "2025-09-05",
+   "oggetto": "SISTEMA DI ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI DEL PRIMO OTTOBRE 2024. AUTORIZZAZIONE ALLA STIPULA DEL PRIMO CONTRATTO ESECUTIVO PER IL PERIODO DAL 16 SETTEM",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43373.47,
+   "aggiudicato": 43373.47,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B701541DB7",
+   "data": "2025-05-23",
+   "oggetto": "SISTEMA DI ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 129177.3,
+   "aggiudicato": 129177.3,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B1F003C1B9",
+   "data": "2024-05-31",
+   "oggetto": "HOUSING LED PER PERSONE MIGRANTI LGNET 3",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 523147.2,
+   "aggiudicato": 523147.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "A05BE1CD01",
+   "data": "2023-07-03",
+   "oggetto": "HOUSING TEMPORANEO PER LE PERSONE MIGRANTI - LGNET 3",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 821863.2,
+   "aggiudicato": 784720.8,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "98785071DD",
+   "data": "2023-06-29",
+   "oggetto": "SISTEMA DI ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 951044.0,
+   "aggiudicato": 917756.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "9878500C13",
+   "data": "2023-06-29",
+   "oggetto": "HOUSING LED PER PERSONE MIGRANTI MAGGIORENNI REGOLARMENTE SOGGIORNANTI SUL TERRITORIO DI NAPOLI",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "RADICI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 821863.2,
+   "aggiudicato": 784720.8,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

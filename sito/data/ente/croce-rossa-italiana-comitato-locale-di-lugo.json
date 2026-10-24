@@ -1,0 +1,118 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE DI LUGO",
+ "cf": "91020090394",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 6,
+   "diretti": 5,
+   "quota_diretti": 83.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "80262227EB",
+   "data": "2019-06-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI LUGO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 526671.75,
+   "aggiudicato": 526671.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8026215226",
+   "data": "2019-06-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI LUGO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 470333.85,
+   "aggiudicato": 470333.85,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "802620276A",
+   "data": "2019-06-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI LUGO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 794803.85,
+   "aggiudicato": 794803.85,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "80261940D2",
+   "data": "2019-06-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI LUGO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 315379.68,
+   "aggiudicato": 315379.68,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8026179470",
+   "data": "2019-06-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI LUGO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 99097.35,
+   "aggiudicato": 99097.35,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7784217B12",
+   "data": "2019-02-08",
+   "oggetto": "ACCORDO QUADRO SERVIZI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI LUGO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11540160.0,
+   "aggiudicato": 4412572.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

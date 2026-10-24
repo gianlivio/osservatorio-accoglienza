@@ -1,0 +1,38 @@
+{
+ "nome": "AGH RESORT S.R.L.",
+ "cf": "02377120742",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A01626ECE0",
+   "data": "2023-10-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MSNA PROVINCIA DI FOGGIA. PERIODO 7 MESI PROCEDURA ASP CONSIP",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AGH RESORT S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 721513.8,
+   "aggiudicato": 544530.0,
+   "durata_gg": 210.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

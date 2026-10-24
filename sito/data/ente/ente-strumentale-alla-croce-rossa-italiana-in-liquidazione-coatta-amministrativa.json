@@ -1,0 +1,143 @@
+{
+ "nome": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+ "cf": "01906810583",
+ "affidamenti": 7,
+ "diretti": 7,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6582721935",
+   "data": "2016-02-04",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA - GENNAIO 2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 99428.0,
+   "aggiudicato": 99428.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6571072C25",
+   "data": "2016-01-27",
+   "oggetto": "ACOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - COMITATO PROVINCIALE CROCE ROSSA ITALIANA APS DI PADOVA - 1/2 - 14/3/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 144050.0,
+   "aggiudicato": 144050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "64248176B5",
+   "data": "2015-10-08",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CROCE ROSSA ITALIANA - PROROGA AL 31/12/2015 - JESOLO",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 716900.0,
+   "aggiudicato": 716900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6419145E04",
+   "data": "2015-10-05",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CROCE ROSSA ITALIANA JESOLO - SETTEMBRE 2015 - CENTRO ACCOGLIENZA CRI",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 97652.5,
+   "aggiudicato": 97652.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6385950CA3",
+   "data": "2015-09-03",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CROCE ROSSA ITALIANA - AGOSTO 2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 98523.5,
+   "aggiudicato": 98523.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6365299AE5",
+   "data": "2015-08-07",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CROCE ROSSA ITALIANA - LUGLIO 2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 93699.5,
+   "aggiudicato": 93699.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6241881326",
+   "data": "2015-05-04",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE CROCE ROSSA ITALIANA - 18/4 - 30/06/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ENTE STRUMENTALE ALLA CROCE ROSSA ITALIANA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 111555.0,
+   "aggiudicato": 111555.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

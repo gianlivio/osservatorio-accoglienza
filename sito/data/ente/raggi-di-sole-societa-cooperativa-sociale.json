@@ -1,0 +1,58 @@
+{
+ "nome": "RAGGI DI SOLE SOCIETÀ COOPERATIVA SOCIALE",
+ "cf": "02537990604",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8C00F7801",
+   "data": "2025-10-23",
+   "oggetto": "ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO PRESSO STRUTTURA TO FLY DI PONTECORVO (FR). PERIODO: NOVEMBRE E DICEMBRE 2025",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "RAGGI DI SOLE SOCIETÀ COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6100.0,
+   "aggiudicato": 6100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "B8022601F4",
+   "data": "2025-08-22",
+   "oggetto": "NUOVO INSERIMENTO IN STRUTTURA MINORE STRANIERO NON ACCOMPAGNATO.",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "RAGGI DI SOLE SOCIETÀ COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13300.0,
+   "aggiudicato": 13300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

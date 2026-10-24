@@ -1,0 +1,63 @@
+{
+ "nome": "MAGRO S.R.L.",
+ "cf": "01985500857",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B07371EBB4",
+   "data": "2024-02-20",
+   "oggetto": "FORNITURA DI KIT DI ABBIGLIAMENTO E COPERTE IN PILE DA DISTRIBUIRE AI MIGRANTI IN OCCASIONE DEGLI SBARCHI",
+   "amministrazione": "PREFETTURA DI REGGIO CALABRIA",
+   "ente": "MAGRO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 137486.0,
+   "aggiudicato": 137486.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "7372568394",
+   "data": "2018-02-02",
+   "oggetto": "FORNITURA DI EFFETTI LETTERECCI, VESTIARIO, PRODOTTI PER L'IGIENE, POCKET MONEY E SCHEDE TELEFONICHE PER IL FUNZIONAMENTO DEL CENTRO DI ACCOGLIENZA PER RICHIEDENTI ASILO C.A.R.A. D",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "MAGRO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2664903.09,
+   "aggiudicato": 2622261.45,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "nome": "SEVEN S.P.A.",
+ "cf": "00959460221",
+ "affidamenti": 7,
+ "diretti": 7,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 7,
+   "diretti": 7,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B41CD9D240",
+   "data": "2024-11-05",
+   "oggetto": "TESSERE PER ACQUISTO DI GENERI ALIMENTARI ED EXTRALIMENTARI VALIDE A PARTIRE DAL 1 NOVEMBRE 2024 NELL'AMBITO DEL PROGETTO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNA",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SEVEN S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26000.0,
+   "aggiudicato": 26000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B22C789F9F",
+   "data": "2024-06-21",
+   "oggetto": "TESSERE PER ACQUISTO DI GENERI ALIMENTARI ED EXTRALIMENTARI VALIDE A PARTIRE DAL 1 LUGLIO 2024, DA UTILIZZARE NELL'AMBITO DEL PROGETTO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE TEMPORA",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SEVEN S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50000.0,
+   "aggiudicato": 50000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B1F10047A1",
+   "data": "2024-06-04",
+   "oggetto": "TESSERE PER ACQUISTO DI GENERI ALIMENTARI ED EXTRALIMENTARI VALIDE DAL 1 GIUGNO 2024, DA UTILIZZARE NELL'AMBITO DEL PROGETTO DI ACCOGLIENZA STRAORDINARIA PER RICHIEDENTI ASILO E PR",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SEVEN S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12697.0,
+   "aggiudicato": 12697.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B15C2CEE0A",
+   "data": "2024-04-24",
+   "oggetto": "TESSERE PER ACQUISTO DI GENERI ALIMENTARI ED EXTRALIMENTARI VALIDE DAL 1 MAGGIO 2024 DA UTILIZZARE NELL'AMBITO DEL PROGETTO DI ACCOGLIENZA STRAORDINARIA PER RICHIEDENTI ASILO E PRO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SEVEN S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9729.0,
+   "aggiudicato": 9729.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B0FF0BA74C",
+   "data": "2024-03-27",
+   "oggetto": "TESSERE GENERI ALIMENTARI ED EXTRALIMENTARI DA UTILIZZARE A PARTIRE DA 1 APRILE 2024 NELL'AMBITO DEL PROGETTO DI ACCOGLIENZA STRAORDINARIA RICHIEDENTI PROTEZIONE TEMPORANEA ED INTE",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SEVEN S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12483.5,
+   "aggiudicato": 12483.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B0FF0ACBBD",
+   "data": "2024-03-27",
+   "oggetto": "TESSERE PER ACQUISTO DI GENERI ALIMENTARI ED EXTRALIMENTARI VALIDE DAL 1 FEBBRAIO 2024 DA UTILIZZARE NELL'AMBITO DEL PROGETTO DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE TEMPORANEA E",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SEVEN S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12812.5,
+   "aggiudicato": 12812.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B0B1A39B94",
+   "data": "2024-03-06",
+   "oggetto": "TESSERE PER L'ACQUISTO DI GENERI ALIMENTARI ED EXTRALIMENTARI CON VALIDITÀ DAL 1 MARZO 2024, UTILIZZATE NELL'AMBITO DEL PROGETTO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE TEMPORANEA ED",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SEVEN S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13008.2,
+   "aggiudicato": 13008.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE UNA CASA PER TUTTI",
+ "cf": "93044700206",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MANTOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7164871E94",
+   "data": "2017-07-28",
+   "oggetto": "GESTIONE ALLOGGI E AUTONOMIA ABITATIVA",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "ASSOCIAZIONE UNA CASA PER TUTTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 502687.5,
+   "aggiudicato": 215437.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  }
+ ]
+}

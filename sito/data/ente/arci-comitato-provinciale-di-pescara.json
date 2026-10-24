@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI COMITATO PROVINCIALE DI PESCARA",
+ "cf": "91017810689",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73847139F1",
+   "data": "2018-03-01",
+   "oggetto": "INDIVIDUAZIONE DEL SOGGETTO CO-PROGETTATORE ED ATTUATORE DEL PROGETTO SPRAR",
+   "amministrazione": "CUC.COMUNE DI LANCIANO-COMUNE DI ORTONA",
+   "ente": "ARCI COMITATO PROVINCIALE DI PESCARA",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 737416.8,
+   "aggiudicato": 737416.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

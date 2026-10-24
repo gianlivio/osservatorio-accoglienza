@@ -1,0 +1,38 @@
+{
+ "nome": "FELSINEA EVENTI S.R.L.",
+ "cf": "03075411201",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9141048770",
+   "data": "2022-03-18",
+   "oggetto": "NOLEGGIO TENSOSTRUTTURA PER ACCOGLIENZA E GESTIONE PROFUGHI - EMERGENZA UCRAINA",
+   "amministrazione": "COMUNE DI BOLOGNA",
+   "ente": "FELSINEA EVENTI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 58010.0,
+   "aggiudicato": 58010.0,
+   "durata_gg": 210.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "nome": "ASSOCIAZIONE DI VOLONTARIATO ECCLESIALE - ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "90009490542",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "735174758B",
+   "data": "2017-11-21",
+   "oggetto": "CONVENZIONE SERVIZIO ACCOGLIENZA CITTADINI STRANIERI ASSOCIAZIONE AVE",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "ASSOCIAZIONE DI VOLONTARIATO ECCLESIALE - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 291000.0,
+   "aggiudicato": 291000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

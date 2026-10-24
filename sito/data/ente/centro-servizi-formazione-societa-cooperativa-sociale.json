@@ -1,0 +1,38 @@
+{
+ "nome": "CENTRO SERVIZI FORMAZIONE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02026370185",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9654738DD4",
+   "data": "2023-02-22",
+   "oggetto": "PROCEDURA RISERVATA, AI SENSI DELL'ART. 143 DEL D.LGS 50/2016, PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE NELL'AMBITO DEL PROGETTO SAI PAVIA, ADERENTE ALLA RETE SISTEMA ACCOGLIENZ",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "CENTRO SERVIZI FORMAZIONE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO RISERVATO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 1873576.78,
+   "aggiudicato": 1873576.78,
+   "durata_gg": 1006.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

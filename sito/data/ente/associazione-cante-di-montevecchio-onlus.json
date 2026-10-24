@@ -1,0 +1,63 @@
+{
+ "nome": "ASSOCIAZIONE CANTE DI MONTEVECCHIO ONLUS",
+ "cf": "81003300415",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E511CE0A",
+   "data": "2024-12-19",
+   "oggetto": "AFFIDAMENTI DIRETTI - PROSECUZIONE ANNO 2025 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI (MSNA), MADRI CON FIGLI MINORI E VITTIME DELLA VIOLENZA DI GEN",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "ASSOCIAZIONE CANTE DI MONTEVECCHIO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 85847.0,
+   "aggiudicato": 85847.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "95917090AB",
+   "data": "2023-01-11",
+   "oggetto": "SERVIZI DI ASSISTENZA MINORI, MSNA E DI CONTRASTO ALLA VIOLENZA DI GENERE PRESSO LE STRUTTURE RESIDENZIALI - 2023",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "ASSOCIAZIONE CANTE DI MONTEVECCHIO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 127020.0,
+   "aggiudicato": 127020.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  }
+ ]
+}

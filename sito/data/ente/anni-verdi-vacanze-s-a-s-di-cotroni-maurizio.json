@@ -1,0 +1,38 @@
+{
+ "nome": "ANNI VERDI VACANZE S.A.S. DI COTRONI MAURIZIO",
+ "cf": "01207290188",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6616425E9F",
+   "data": "2016-02-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI - AFFIDAM. IN URGENZA - PERIODO DAL 25 FEBBRAIO 2016 AL 15 MAGGIO 2016- ANNI VERDI VACANZE SNC - C.F. 01207290188",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "ANNI VERDI VACANZE S.A.S. DI COTRONI MAURIZIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69267.5,
+   "aggiudicato": 69257.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

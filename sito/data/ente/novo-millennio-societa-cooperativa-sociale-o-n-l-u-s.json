@@ -1,0 +1,168 @@
+{
+ "nome": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+ "cf": "03991940960",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "SONDRIO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B78EC8B761",
+   "data": "2025-07-08",
+   "oggetto": "SERVIZI ACCOGLIENZA DIFFUSA DAL 1° LUGLIO AL 31 AGOSTO 2025",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15588.57,
+   "aggiudicato": 15588.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B272C48B1B",
+   "data": "2025-01-02",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40792.86,
+   "aggiudicato": 40792.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B272C48B1B",
+   "data": "2025-01-02",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40792.86,
+   "aggiudicato": 40792.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B247CAEDDA",
+   "data": "2024-07-01",
+   "oggetto": "INSERIMENTO IN COMUNITÀ MSNA K.D. - CODICE 101032",
+   "amministrazione": "COMUNE DI CLUSONE",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15920.0,
+   "aggiudicato": 15920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "B10F1078DB",
+   "data": "2024-04-03",
+   "oggetto": "PAGAMENTO RETTA INSERIMENTO MINORE STRANIERO NON ACCOMPAGNATO PRESSO SERVIZIO DELTAPLANO - PERIODO 29/02/2024 - 31/12/2024",
+   "amministrazione": "COMUNE DI SONDRIO",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19018.65,
+   "aggiudicato": 19018.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SONDRIO"
+  },
+  {
+   "cig": "B07D423F50",
+   "data": "2024-02-21",
+   "oggetto": "INSERIMENTO DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITA' SIRIO E SERVIZIO DELTAPLANO - 1 SEMESTRE 2024",
+   "amministrazione": "COMUNE DI SONDRIO",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16158.35,
+   "aggiudicato": 16158.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SONDRIO"
+  },
+  {
+   "cig": "B04F8FE348",
+   "data": "2024-02-08",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20086.0,
+   "aggiudicato": 20086.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "96349471CB",
+   "data": "2023-02-09",
+   "oggetto": "INSERIMENTO MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITÀ SIRIO E SERVIZIO DELTAPLANO - ANNO 2023",
+   "amministrazione": "COMUNE DI SONDRIO",
+   "ente": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 90000.0,
+   "aggiudicato": 90000.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  }
+ ]
+}

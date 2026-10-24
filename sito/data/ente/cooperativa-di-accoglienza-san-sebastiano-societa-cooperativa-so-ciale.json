@@ -1,0 +1,117 @@
+{
+ "nome": "COOPERATIVA DI ACCOGLIENZA SAN SEBASTIANO SOCIETA' COOPERATIVA SO CIALE",
+ "cf": "03265200729",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A01626771B",
+   "data": "2023-09-27",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DA SVOLGERSI PRESSO IDONEE STRUTTURE DA ADIBIRE A CENTRI DI CUI AL",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COOPERATIVA DI ACCOGLIENZA SAN SEBASTIANO SOCIETA' COOPERATIVA SO CIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 394345.8,
+   "aggiudicato": 232906.5,
+   "durata_gg": 545.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "9146408EA4",
+   "data": "2022-03-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART.11 D.LGS. 142/2015 UBICATI NEL TERRITORIO DELLA CIT",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COOPERATIVA DI ACCOGLIENZA SAN SEBASTIANO SOCIETA' COOPERATIVA SO CIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 219897.9,
+   "aggiudicato": 219897.9,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "6955004ADB",
+   "data": "2017-01-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE BITONTO PALO DEL COLLE",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COOPERATIVA DI ACCOGLIENZA SAN SEBASTIANO SOCIETA' COOPERATIVA SO CIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2463300.0,
+   "aggiudicato": 30164.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "6350100C48",
+   "data": "2015-07-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - AMBITO TERRITORIALE BITONTO-PALO DEL COLLE",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COOPERATIVA DI ACCOGLIENZA SAN SEBASTIANO SOCIETA' COOPERATIVA SO CIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 483000.0,
+   "aggiudicato": 30.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "63816743FB",
+   "data": "2015-07-16",
+   "oggetto": "PROCEDURA PER AFFIDAMENTO SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COOPERATIVA DI ACCOGLIENZA SAN SEBASTIANO SOCIETA' COOPERATIVA SO CIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 80900.0,
+   "aggiudicato": 31.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

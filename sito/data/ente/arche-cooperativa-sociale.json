@@ -1,0 +1,96 @@
+{
+ "nome": "ARCHE' - COOPERATIVA SOCIALE",
+ "cf": "04048370615",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B831C09CA7",
+   "data": "2025-09-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ARCHE' - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 637574.7,
+   "aggiudicato": 637574.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B16BAA9778",
+   "data": "2024-04-26",
+   "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONEINTERNAZIONALE -ART 11 D LGS.18 -08 -2015 N 142 E SS.MM IN CENTRI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ARCHE' - COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A PIU' FASI",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 115799945.63,
+   "aggiudicato": 3617368.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "994030465B",
+   "data": "2023-07-04",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI FINO A 50 POSTI - COOP.SOCIALE NUOVA AURORA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ARCHE' - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 472331.25,
+   "aggiudicato": 472331.25,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "99382539D0",
+   "data": "2023-07-04",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI FINO A 50 POSTI COOP.ARCHÈ",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ARCHE' - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 173240.44,
+   "aggiudicato": 173240.44,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

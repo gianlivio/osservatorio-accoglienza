@@ -1,0 +1,38 @@
+{
+ "nome": "COOP. SOCIALE IL GIRASOLE ONLUS",
+ "cf": "04991520489",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9598211648",
+   "data": "2023-01-11",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA PER MINORI STRANIERI NON ACCOMPAGNATI DI CUI ALL'ACCORDO TRA PREFETTURA UTG DI FIRENZE E COMUNE DI FIRENZE - RIPETIZIONE PER 62 GIORNI",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "COOP. SOCIALE IL GIRASOLE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 216065.66,
+   "aggiudicato": 216065.66,
+   "durata_gg": 62.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

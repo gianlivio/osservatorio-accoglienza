@@ -1,0 +1,38 @@
+{
+ "nome": "SILVA S.R.L.",
+ "cf": "03575190487",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9139388D8E",
+   "data": "2022-03-14",
+   "oggetto": "SERVIZIO DI PULIZIA URGENTE DEGLI UFFICI, E SERVIZI IGIENICI COLLEGATI, ADIBITI A PUNTO DI PRIMA ACCOGLIENZA DEI PROFUGHI PROVENIENTI DA UCRAINA IN PIAZZA ARTOM C/O LOCALI IN COMOD",
+   "amministrazione": "REGIONE TOSCANA",
+   "ente": "SILVA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3720.0,
+   "aggiudicato": 3700.0,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

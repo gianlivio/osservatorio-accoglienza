@@ -1,0 +1,38 @@
+{
+ "nome": "PIRCHER ERWIN S.R.L.",
+ "cf": "02296360213",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6FB8C4AD7",
+   "data": "2025-05-23",
+   "oggetto": "06.04_051.092_RR_VB - SISTEMAZIONE RICHIEDENTI ASILO PRESSO L'EX HOTEL ARNIKA - MERANO - VIA ROMA 292 - FORNITURA E MONTAGGIO DI UNA CALDAIA NUOVA COMPRESI LAVORI COMPLEMENTARI",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "PIRCHER ERWIN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22713.22,
+   "aggiudicato": 22713.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

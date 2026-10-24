@@ -1,0 +1,54 @@
+{
+ "nome": "SAYONARA S.R.L.",
+ "cf": "00333740942",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A03FC12AB5",
+   "data": "2023-12-21",
+   "oggetto": "RINNOVO CONVENZIONE SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI SAYONARA VIA IOVINE 10",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "SAYONARA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 226579.0,
+   "aggiudicato": 226579.0,
+   "durata_gg": 283.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "A031C250A2",
+   "data": "2023-12-19",
+   "oggetto": "RINNOVO CONVENZIONE SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI- SAYONARA SRL",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "SAYONARA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 895531.6,
+   "aggiudicato": 895531.6,
+   "durata_gg": 328.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

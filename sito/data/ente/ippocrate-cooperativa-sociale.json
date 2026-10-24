@@ -1,0 +1,164 @@
+{
+ "nome": "IPPOCRATE COOPERATIVA SOCIALE",
+ "cf": "00496720863",
+ "affidamenti": 8,
+ "diretti": 7,
+ "quota_diretti": 87.5,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "ENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "786193847A",
+   "data": "2019-04-04",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1046331.0,
+   "aggiudicato": 1046331.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "7861929D0A",
+   "data": "2019-04-04",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119782.0,
+   "aggiudicato": 119782.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "7799889007",
+   "data": "2019-02-13",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 656880.0,
+   "aggiudicato": 656880.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "7799885CB6",
+   "data": "2019-02-13",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1666350.0,
+   "aggiudicato": 1666350.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "7799880897",
+   "data": "2019-02-13",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 759713.92,
+   "aggiudicato": 759713.92,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "779987654B",
+   "data": "2019-02-13",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 699867.0,
+   "aggiudicato": 699867.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "7367765803",
+   "data": "2018-01-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI ENNA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 422357.14,
+   "aggiudicato": 46414.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "7149122A19",
+   "data": "2017-07-24",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "IPPOCRATE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 23046100.0,
+   "aggiudicato": 20922938.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

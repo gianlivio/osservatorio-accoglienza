@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE - ARCHE'",
+ "cf": "02960790794",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6142660B61",
+   "data": "2015-02-27",
+   "oggetto": "INDIVIDUAZIONE CENTRI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE - AMBITO TERRITORIALE ISOLA CAPO RIZZUTO (KR) POSTI 46",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE - ARCHE'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 442750.0,
+   "aggiudicato": 412896.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

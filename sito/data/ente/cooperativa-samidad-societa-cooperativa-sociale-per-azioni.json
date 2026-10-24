@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SAMIDAD SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+ "cf": "01687900694",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B839632BF3",
+   "data": "2025-09-15",
+   "oggetto": "COMUNITA' RESIDENZIALE PER MINORI STRANIERI NON ACCOMPAGNATI LUGLIO DICEMBRE 2025 PEGASO SAMIDAD",
+   "amministrazione": "COMUNE DI LANCIANO",
+   "ente": "COOPERATIVA SAMIDAD SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15619.05,
+   "aggiudicato": 15619.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

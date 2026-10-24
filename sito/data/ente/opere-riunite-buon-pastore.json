@@ -1,0 +1,147 @@
+{
+ "nome": "OPERE RIUNITE BUON PASTORE",
+ "cf": "94020070275",
+ "affidamenti": 6,
+ "diretti": 3,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "93088967FD",
+   "data": "2022-07-04",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MSNA 2022",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "OPERE RIUNITE BUON PASTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 130000.0,
+   "aggiudicato": 126114.0,
+   "durata_gg": 1096.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "8718710B17",
+   "data": "2021-04-20",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "OPERE RIUNITE BUON PASTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73593.0,
+   "aggiudicato": 73367.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "8496998890",
+   "data": "2020-11-02",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "UNIONE TERRITORIALE INTERCOMUNALE DELL'AGRO AQUILEIESE",
+   "ente": "OPERE RIUNITE BUON PASTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60939.0,
+   "aggiudicato": 60939.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "8205806D51",
+   "data": "2019-11-11",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "OPERE RIUNITE BUON PASTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 20000.0,
+   "aggiudicato": 20000.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "7064730F9C",
+   "data": "2017-05-17",
+   "oggetto": "ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE, SUSSIDIARIA E UMANITARIA NEL COMUNE DI VENEZIA IN CENTRO STORICO E ISOLE N. 41 POSTI IN ACCOGLIENZA, ADULTI MASCHI",
+   "amministrazione": "COMUNE DI VENEZIA",
+   "ente": "OPERE RIUNITE BUON PASTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1461486.0,
+   "aggiudicato": 1389811.13,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6928338562",
+   "data": "2016-12-27",
+   "oggetto": "AREA TERRITORIALE DI VENEZIA CENTRO STORICO E ISOLE, SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A N^ 41 BENEFICIARI, ADULTI MASCHI E FEMMINE. SPRAR FONTEGO, 1 SEMESTRE 2",
+   "amministrazione": "COMUNE DI VENEZIA",
+   "ente": "OPERE RIUNITE BUON PASTORE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 270866.5,
+   "aggiudicato": 267156.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

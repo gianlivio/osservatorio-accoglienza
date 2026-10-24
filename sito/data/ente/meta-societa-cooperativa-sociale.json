@@ -1,0 +1,78 @@
+{
+ "nome": "META SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02976240180",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B75B9FC86C",
+   "data": "2025-06-23",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI INSERIMENTO COMUNITÀ DI N. 3 MSNA A FAVORE DI META SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "META SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 93000.0,
+   "aggiudicato": 93000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "B7374EC664",
+   "data": "2025-06-11",
+   "oggetto": "ASSUNZIONE ONERI PER COLLOCAMENTO A FAVORE DEL MINORE A.M.M.K.A MSNA - COMUNE DI RHO",
+   "amministrazione": "AZIENDA SERVIZI COMUNALI ALLA PERSONA IN BREVE SER.CO.P",
+   "ente": "META SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13250.0,
+   "aggiudicato": 13250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B6DD0B2625",
+   "data": "2025-05-15",
+   "oggetto": "INSERIMENTO MSNA PRESSO ACCOGLIENZA COMUNITARIA RESIDENZIALE META SOCIETA' COOPERATIVA SOCIALE - PRESSO ALLOGGIO ORCHIDEA - II TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "META SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8700.0,
+   "aggiudicato": 8700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "A.CROSS ONLUS",
+ "cf": "04344290236",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B55FE46274",
+   "data": "2025-01-29",
+   "oggetto": "GESTIONE AREA DI ACCOGLIENZA PROFUGHI UCRAINI PERIODO 15.02.2025/18.04.2025 - PROROGA TECNICA",
+   "amministrazione": "COMUNE DI LAZISE",
+   "ente": "A.CROSS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37798.11,
+   "aggiudicato": 37798.11,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

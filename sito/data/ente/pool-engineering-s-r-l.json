@@ -1,0 +1,33 @@
+{
+ "nome": "POOL ENGINEERING S.R.L.",
+ "cf": "02354480267",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "84074016C8",
+   "data": "2020-08-19",
+   "oggetto": "PROCEDURA APERTA TRAMITE PIATTAFORMA ME.PA. PER L'AFFIDAMENTO DI SERVIZI SAI PER INCARICO DI PROGETTAZIONE DEFINITIVA ED ESECUTIVA E COORDINAMENTO SICUREZZA IN PROGETTAZIONE RELATI",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "POOL ENGINEERING S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 148938.15,
+   "aggiudicato": 87873.509,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

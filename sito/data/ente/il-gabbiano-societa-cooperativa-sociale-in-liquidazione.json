@@ -1,0 +1,38 @@
+{
+ "nome": "IL GABBIANO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "01055210577",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7313275173",
+   "data": "2017-12-12",
+   "oggetto": "ACCOGLIENZA RIFUGIATI",
+   "amministrazione": "UNIONE DEI COMUNI DELL ALTA SABINA",
+   "ente": "IL GABBIANO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1457358.0,
+   "aggiudicato": 1457358.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RIETI"
+  }
+ ]
+}

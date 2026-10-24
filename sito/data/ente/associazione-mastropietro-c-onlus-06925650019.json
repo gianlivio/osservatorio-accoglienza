@@ -1,0 +1,160 @@
+{
+ "nome": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+ "cf": "06925650019",
+ "affidamenti": 8,
+ "diretti": 6,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A024E7FBC4",
+   "data": "2023-06-06",
+   "oggetto": "CO-PROGETTAZIONE DI AZIONI DI MEDIAZIONE CULTURALE E DI ACCOGLIENZA MIGRANTI E PROFUGHI DI GUERRA DEI COMUNI DELLE AREE INTERNE (INTERMEDI, PERIFERICI E ULTRAPERIFERICI) DEL C.I.S.",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIO-ASSISTENZIALI",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 62352.0,
+   "aggiudicato": 62352.0,
+   "durata_gg": 511.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "78574783F8",
+   "data": "2019-01-23",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SUL TERRITORIO DEL CONSORZIO IN.RE.TE. - ESER",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 260610.0,
+   "aggiudicato": 260610.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "785657177C",
+   "data": "2019-01-18",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SUL TERRITORIO DEL CONSORZIO IN.RE.TE. - ESER",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74788.5,
+   "aggiudicato": 74788.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "78577260A1",
+   "data": "2019-01-16",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SUL TERRITORIO DEL CONSORZIO IN.RE.TE. - ESER",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1528437.5,
+   "aggiudicato": 1528437.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7858725905",
+   "data": "2019-01-15",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SUL TERRITORIO DEL CONSORZIO IN.RE.TE. - ESER",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 611667.0,
+   "aggiudicato": 611667.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7858694F6E",
+   "data": "2019-01-15",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SUL TERRITORIO DEL CONSORZIO IN.RE.TE. - ESER",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 286269.5,
+   "aggiudicato": 286269.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7857338071",
+   "data": "2019-01-15",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SUL TERRITORIO DEL CONSORZIO IN.RE.TE. - ESER",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 886033.85,
+   "aggiudicato": 886033.85,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7025377480",
+   "data": "2017-03-23",
+   "oggetto": "AFFIDAMENTO MEDIANTE ACCORDO QUADRO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZINALE",
+   "amministrazione": "CONSORZIO SERVIZI SOCIALI IN.RE.TE.",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8930611.8,
+   "aggiudicato": 5245217.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "BRUNO CARPENITO SERVIZI S.R.L.",
+ "cf": "02832570648",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8059561024",
+   "data": "2019-11-18",
+   "oggetto": "SERVIZIO DI PULIZIA DEGLI UFFICI DELLA PREFETTURA DI CASERTA, DELLO SPORTELLO UNICO IMMIGRAZIONE E DELLA COMMISSIONE TERRITORIALE PER IL RICONSCOMENTO PROTEZIONE INTERNAZIONALE DAL",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "BRUNO CARPENITO SERVIZI S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 269495.55,
+   "aggiudicato": 206934.83,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

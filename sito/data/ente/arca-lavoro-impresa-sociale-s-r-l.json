@@ -1,0 +1,59 @@
+{
+ "nome": "ARCA LAVORO - IMPRESA SOCIALE S.R.L.",
+ "cf": "03808090363",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9475899F37",
+   "data": "2022-11-23",
+   "oggetto": "SERVIZIO PER LA GESTIONE DI AZIONI DI SISTEMA PER LA PRESA IN CARICO, LA TUTELA E L'INTEGRAZIONE A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI DAL 01/02/2023 AL 31/01/2026",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "ARCA LAVORO - IMPRESA SOCIALE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 981333.33,
+   "aggiudicato": 548488.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "8469099994",
+   "data": "2020-10-23",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "ARCA LAVORO - IMPRESA SOCIALE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 260000.0,
+   "aggiudicato": 129953.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

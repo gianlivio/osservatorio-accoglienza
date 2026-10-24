@@ -1,0 +1,96 @@
+{
+ "nome": "ACISEL ASSOCIAZIONE COOPERAZIONE INTERNAZIONALE STUDI E LAVORO",
+ "cf": "05322921007",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "89145149AA",
+   "data": "2021-10-01",
+   "oggetto": "CIG N.868905315F 'N. 3 CENTRI DI ACCOGLIENZA PER UOMINI SINGOLI' CON UNA CAPACITÀ RICETTIVA FINO A N. 40 POSTI CIASCUNO; IMPORTO A BASE DI GARA QUOTA PRO DIE PRO CAPITE ? 30,00, DI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ACISEL ASSOCIAZIONE COOPERAZIONE INTERNAZIONALE STUDI E LAVORO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1311254.4,
+   "aggiudicato": 1311254.4,
+   "durata_gg": 1096.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6932046951",
+   "data": "2016-12-28",
+   "oggetto": "PROCEDURA DI GARA APERTA 6 LOTTI AFFIDAMENTO SERVIZIO DI ACCOGLIENZA IMMIGRATI CIRCUITO NO SPRAR LUGLIO DICEMBRE 2017 (LOTTO 2)",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ACISEL ASSOCIAZIONE COOPERAZIONE INTERNAZIONALE STUDI E LAVORO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 320068.0,
+   "aggiudicato": 318780.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "632968092B",
+   "data": "2015-07-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IMMIGRATI SISTEMA SPRAR ANNO 2015, A.T.I. ACISEL / IN MIGRAZIONE",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ACISEL ASSOCIAZIONE COOPERAZIONE INTERNAZIONALE STUDI E LAVORO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 196539.0,
+   "aggiudicato": 196539.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7473129D21",
+   "data": "2015-03-27",
+   "oggetto": "CENTRO DI ACCOGLIENZA H24 PER UOMINI SINGOLI CON RECETTIVITÀ FINO A N. 70 OSPITI - AGGIUDICAZIONE ACISEL",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ACISEL ASSOCIAZIONE COOPERAZIONE INTERNAZIONALE STUDI E LAVORO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2292393.6,
+   "aggiudicato": 2292393.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

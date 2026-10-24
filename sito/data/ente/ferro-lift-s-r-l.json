@@ -1,0 +1,38 @@
+{
+ "nome": "FERRO LIFT S.R.L.",
+ "cf": "01858340225",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6983426CA",
+   "data": "2025-04-24",
+   "oggetto": "FORNITURA E POSA DI UNA RECINZIONE PER IL DEPOSITO BICI PER LA RESIDENZA BRENNERO SITA A TRENTO IN VIA BRENNERO N. 154 DESTINATA ALLE PERSONE INSERITE NEL PROGETTO DI ACCOGLIENZA S",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "FERRO LIFT S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6900.0,
+   "aggiudicato": 6900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

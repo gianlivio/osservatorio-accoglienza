@@ -1,0 +1,38 @@
+{
+ "nome": "BOSSO & ROTA - CONSULENZE GEOLOGICHE ASSOCIAZIONE PROFESSIONALE",
+ "cf": "00989720321",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B231982501",
+   "data": "2024-07-18",
+   "oggetto": "CAMPO PROFUGHI - OSTELLO SCOUT ALPE ADRIA CAMPO SACRO SITO A PROSECCO N. 381 - ADEGUAMENTO DELL'IMPIANTO FOGNARIO - AFFIDAMENTO DEL SERVIZIO DI ESECUZIONE DI INDAGINE GEOLOGICA E R",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "BOSSO & ROTA - CONSULENZE GEOLOGICHE ASSOCIAZIONE PROFESSIONALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 0.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

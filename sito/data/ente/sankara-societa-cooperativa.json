@@ -1,0 +1,58 @@
+{
+ "nome": "SANKARA SOCIETA'  COOPERATIVA",
+ "cf": "90032470800",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B99D1CD87A",
+   "data": "2025-12-16",
+   "oggetto": "P.A. PER CONTO DEL COMUNE DI CINQUEFRONDI. AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA ED INTEGRAZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE PROGETTO SAI CAT. ORDINARI PROG-228-PR-",
+   "amministrazione": "COMUNE DI CINQUEFRONDI",
+   "ente": "SANKARA SOCIETA'  COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 376401.28,
+   "aggiudicato": 360000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "B8DE29489B",
+   "data": "2025-10-31",
+   "oggetto": "APPALTO PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEI SERVIZI DI ACCOGLIENZA ED INTEGRAZIONE (SAI) PER TITOLARI DI PROTEZIONE INTERNAZIONALE CATEGORIA ORDINARI PROG-1287-PR-3 TRIE",
+   "amministrazione": "COMUNE DI CITTANOVA",
+   "ente": "SANKARA SOCIETA'  COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 419102.94,
+   "aggiudicato": 400000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

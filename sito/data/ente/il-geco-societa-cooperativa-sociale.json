@@ -1,0 +1,38 @@
+{
+ "nome": "IL GECO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00940470941",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "90115885AB",
+   "data": "2019-04-03",
+   "oggetto": "AFFIDAMENTO SOCIETÀ COOPERATIVA IL GECO SERVIZIO ACCOGLIENZA MIGRANTI ANNO 2021 E PROROGA TECNICA ANNO 2022",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "IL GECO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 900000.0,
+   "aggiudicato": 900000.0,
+   "durata_gg": 225.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

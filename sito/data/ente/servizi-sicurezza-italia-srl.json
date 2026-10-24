@@ -1,0 +1,38 @@
+{
+ "nome": "SERVIZI SICUREZZA ITALIA SRL",
+ "cf": "02253870352",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B12ECC4892",
+   "data": "2024-04-11",
+   "oggetto": "VIGILANZA MSNA 2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "SERVIZI SICUREZZA ITALIA SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10000.0,
+   "aggiudicato": 10000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

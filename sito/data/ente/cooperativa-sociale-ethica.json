@@ -1,0 +1,75 @@
+{
+ "nome": "COOPERATIVA SOCIALE ETHICA",
+ "cf": "02516570609",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9490866E60",
+   "data": "2022-12-05",
+   "oggetto": "AFFIDAMENTO SERVIZIO SAI ANNI 2023 - 2025",
+   "amministrazione": "COMUNE DI ARCE",
+   "ente": "COOPERATIVA SOCIALE ETHICA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2436375.0,
+   "aggiudicato": 2436375.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "9509392686",
+   "data": "2022-11-29",
+   "oggetto": "PROSECUZIONE PROGETTO SAI PER IL TRIENNIO 01/01/2023 - 31/12/2025 - SISTEMA DI ACCOGLIENZA E INTEGRAZIONE",
+   "amministrazione": "COMUNE DI AQUINO",
+   "ente": "COOPERATIVA SOCIALE ETHICA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2436375.0,
+   "aggiudicato": 2424253.73,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "8513791A95",
+   "data": "2020-11-16",
+   "oggetto": "SERVIZIO SIPROIMI ANNI 2021 - 2022",
+   "amministrazione": "COMUNE DI ARCE",
+   "ente": "COOPERATIVA SOCIALE ETHICA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1606000.0,
+   "aggiudicato": 1606000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

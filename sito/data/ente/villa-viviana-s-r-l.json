@@ -1,0 +1,171 @@
+{
+ "nome": "VILLA VIVIANA S.R.L.",
+ "cf": "06722530489",
+ "affidamenti": 9,
+ "diretti": 9,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B79A6EA3BF",
+   "data": "2025-07-10",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5435021.55,
+   "aggiudicato": 5435021.55,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B799977A7C",
+   "data": "2025-07-10",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3119928.75,
+   "aggiudicato": 3119928.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B600FA8EE0",
+   "data": "2025-03-12",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 319806.0,
+   "aggiudicato": 319806.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B5FDE31D0A",
+   "data": "2025-03-12",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 603379.0,
+   "aggiudicato": 603379.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B44D84DA1D",
+   "data": "2024-11-18",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 266570.92,
+   "aggiudicato": 266570.92,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B430B98A1F",
+   "data": "2024-11-11",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 473239.2,
+   "aggiudicato": 473239.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B199A03C47",
+   "data": "2024-05-10",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 670422.2,
+   "aggiudicato": 670422.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B1999E103C",
+   "data": "2024-05-10",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 427519.4,
+   "aggiudicato": 427519.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B081A5A0C5",
+   "data": "2024-02-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "VILLA VIVIANA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 313385.82,
+   "aggiudicato": 313385.82,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

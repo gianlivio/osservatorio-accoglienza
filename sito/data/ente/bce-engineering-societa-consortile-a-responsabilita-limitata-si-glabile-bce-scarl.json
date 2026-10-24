@@ -1,0 +1,38 @@
+{
+ "nome": "BCE ENGINEERING SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA SI GLABILE BCE SCARL",
+ "cf": "06282670485",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8523330A6A",
+   "data": "2020-12-18",
+   "oggetto": "LAVORI DI MANUTENZIONE STRAORDINARIA DEI COPERTI DEL CENTRO ACCOGLIENZA E SPRAR SIPROIMI ZACCARELLI E DEGLI ALLOGGI DESTINATI ALLA TRANSIZIONE ABITATIVA SITUATI NELL'AREA DI VIA LA",
+   "amministrazione": "COMUNE DI BOLOGNA",
+   "ente": "BCE ENGINEERING SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA SI GLABILE BCE SCARL",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 410531.07,
+   "aggiudicato": 312240.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

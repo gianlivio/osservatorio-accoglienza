@@ -1,0 +1,54 @@
+{
+ "nome": "SIAMO SOCIETA' COOPERATIVA SOCIALE ONLUS IN LIQUIDAZIONE",
+ "cf": "04965380282",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROVIGO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7228805698",
+   "data": "2017-10-13",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "SIAMO SOCIETA' COOPERATIVA SOCIALE ONLUS IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62464.0,
+   "aggiudicato": 62464.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "705548633C",
+   "data": "2017-04-24",
+   "oggetto": "SERVIZII ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "SIAMO SOCIETA' COOPERATIVA SOCIALE ONLUS IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78080.0,
+   "aggiudicato": 78080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "S.C.M. S.R.L.S.",
+ "cf": "01337080327",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9396046672",
+   "data": "2022-09-08",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI ASILO",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "S.C.M. S.R.L.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69000.0,
+   "aggiudicato": 69000.0,
+   "durata_gg": 115.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

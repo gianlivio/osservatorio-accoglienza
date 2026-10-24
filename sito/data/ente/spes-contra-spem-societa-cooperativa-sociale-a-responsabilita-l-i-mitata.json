@@ -1,0 +1,38 @@
+{
+ "nome": "SPES CONTRA SPEM - SOCIETA COOPERATIVA SOCIALE A RESPONSABILITA L I MITATA",
+ "cf": "04201901008",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4DE0298A2",
+   "data": "2024-12-19",
+   "oggetto": "CENTRO DI PRONTA ACCOGLIENZA E PRESA IN CARICO, SU RICHIESTA DELLA STAZIONE APPALTANTE, DI MINORI, INCLUSI MINORI STRANIERI NON ACCOMPAGNATI DA ADULTI DI RIFERIMENTO (ANCHE TITOLAR",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "SPES CONTRA SPEM - SOCIETA COOPERATIVA SOCIALE A RESPONSABILITA L I MITATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5882150.04,
+   "aggiudicato": 4914782.0,
+   "durata_gg": 1461.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

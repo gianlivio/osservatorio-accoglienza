@@ -1,0 +1,38 @@
+{
+ "nome": "PAOLO CIAVIRELLA S.R.L.",
+ "cf": "02580700835",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A002D1EC2C",
+   "data": "2023-09-19",
+   "oggetto": "AFFIDAMENTO DEI LAVORI DI ADEGUAMENTO DELL'EDIFICIO COMUNALE SITO IN VIA PACINI PER LA CREAZIONE DI SERVIZI PER GLI ANZIANI E PER L'ACCOGLIENZA DI MIGRANTI PROFUGHI DI GUERRA - COM",
+   "amministrazione": "COMUNE DI CASTEL DI LUCIO",
+   "ente": "PAOLO CIAVIRELLA S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 203500.77,
+   "aggiudicato": 187341.59,
+   "durata_gg": 149.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

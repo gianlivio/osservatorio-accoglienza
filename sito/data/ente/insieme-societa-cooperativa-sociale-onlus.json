@@ -1,0 +1,54 @@
+{
+ "nome": "INSIEME SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03603000617",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B039E4D9FB",
+   "data": "2024-02-02",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "INSIEME SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 612.0,
+   "aggiudicato": 612.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "B02C2A2366",
+   "data": "2024-01-30",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "INSIEME SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12240.0,
+   "aggiudicato": 12240.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

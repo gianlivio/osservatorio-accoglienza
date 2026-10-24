@@ -1,0 +1,38 @@
+{
+ "nome": "LA RICERCA ASSOCIAZIONE",
+ "cf": "00861180339",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7696301480",
+   "data": "2018-02-26",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI GESTORE RTI MONDI APERTI MANDATARIA ARCOLAIO MANDANTE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA RICERCA ASSOCIAZIONE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 444372.6,
+   "aggiudicato": 444372.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

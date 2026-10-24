@@ -1,0 +1,38 @@
+{
+ "nome": "PROGETTI ALTERNATIVI 2000 SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02563190830",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7393948EE6",
+   "data": "2017-05-31",
+   "oggetto": "ATTIVAZIONE E GESTIONE PROGETTO DI ACCOGLIENZA PER RICHIEDENTI O TITOLARI DI PROTEZIONE INTERNAZIONALE - TRIENNIO 2018/2020",
+   "amministrazione": "COMUNE DI CITTANOVA",
+   "ente": "PROGETTI ALTERNATIVI 2000 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 850000.0,
+   "aggiudicato": 850000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

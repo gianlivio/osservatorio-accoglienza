@@ -1,0 +1,58 @@
+{
+ "nome": "CENTRO LORENZO MORI -  DI INIZIATIVE CULTURALI TRA I GIOVANI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "00252460522",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SIENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9320CA93F",
+   "data": "2025-11-21",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023, DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - COOPERATIVA SOCIALE CEN",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CENTRO LORENZO MORI -  DI INIZIATIVE CULTURALI TRA I GIOVANI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15048.0,
+   "aggiudicato": 15048.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B8FD2C0CD2",
+   "data": "2025-11-07",
+   "oggetto": "INSERIMENTO N.1 MSNA PRESSO CENTRO LORENZO MORI",
+   "amministrazione": "COMUNE DI MASSA",
+   "ente": "CENTRO LORENZO MORI -  DI INIZIATIVE CULTURALI TRA I GIOVANI - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10000.0,
+   "aggiudicato": 10000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

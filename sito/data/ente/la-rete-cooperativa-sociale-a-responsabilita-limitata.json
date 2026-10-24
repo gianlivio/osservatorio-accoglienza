@@ -1,0 +1,38 @@
+{
+ "nome": "LA RETE - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "03993571219",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8DCCCF1A1",
+   "data": "2025-10-29",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTA DINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE UNITÀ ABITATIVE CAPIENZA MAX 50 POSTI",
+   "amministrazione": "PREFETTURA",
+   "ente": "LA RETE - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1287063.0,
+   "aggiudicato": 1287063.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

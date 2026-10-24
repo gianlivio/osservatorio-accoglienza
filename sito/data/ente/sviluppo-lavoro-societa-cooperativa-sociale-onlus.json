@@ -1,0 +1,141 @@
+{
+ "nome": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "01178130256",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BELLUNO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "PORDENONE",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CUNEO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B88083276D",
+   "data": "2025-10-03",
+   "oggetto": "CONTRATTO PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE,IN SINGOLE UNITÀ ABITATIVE, PER COMPLESSI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI PORDENONE",
+   "ente": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4559872.0,
+   "aggiudicato": 4559872.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PORDENONE"
+  },
+  {
+   "cig": "B3E90C781E",
+   "data": "2024-10-22",
+   "oggetto": "ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 42625.0,
+   "aggiudicato": 42625.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CUNEO"
+  },
+  {
+   "cig": "B2A174AE64",
+   "data": "2024-07-30",
+   "oggetto": "GESTIONE STRUTTURE PROVVISORIE DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 83875.0,
+   "aggiudicato": 83875.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BELLUNO"
+  },
+  {
+   "cig": "B09C5BBFEA",
+   "data": "2024-02-29",
+   "oggetto": "GESTIONE STRUTTURE PROVVISORIE DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 113850.01,
+   "aggiudicato": 113850.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BELLUNO"
+  },
+  {
+   "cig": "66639999EF",
+   "data": "2016-04-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3252372.0,
+   "aggiudicato": 3193310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "643202421E",
+   "data": "2015-10-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI PORDENONE",
+   "ente": "SVILUPPO & LAVORO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 258000.0,
+   "aggiudicato": 258000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PORDENONE"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE ITALIANA CULTURA SPORT",
+ "cf": "06856181216",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5EE3F7EB4",
+   "data": "2025-03-07",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 C. 1 LETT. B) D.LGS. N. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ASSOCIAZIONE ITALIANA CULTURA SPORT",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138302.0,
+   "aggiudicato": 138302.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

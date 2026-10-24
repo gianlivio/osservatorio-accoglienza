@@ -1,0 +1,38 @@
+{
+ "nome": "FIRE GROUP ANTINCENDIO S.A.S. DI DI FRANCESCO GIANLUCA & C.",
+ "cf": "01902160686",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B90625CF6E",
+   "data": "2025-11-11",
+   "oggetto": "QUESTURA DI PESCARA POLIZIA STRADALE UFFICIO PAS UPG E SP",
+   "amministrazione": "PREFETTURA DI PESCARA",
+   "ente": "FIRE GROUP ANTINCENDIO S.A.S. DI DI FRANCESCO GIANLUCA & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22140.0,
+   "aggiudicato": 22140.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

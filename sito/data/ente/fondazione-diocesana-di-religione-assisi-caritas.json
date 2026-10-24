@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE DIOCESANA DI RELIGIONE ASSISI CARITAS",
+ "cf": "94162390549",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A00AA6E56F",
+   "data": "2023-07-01",
+   "oggetto": "AFFIDAMENTO DIRETTO ALLA FONDAZIONE DIOCESANA DI RELIGIONE - CARITAS DI ASSISI (PG) 15 MIGRANTI DA 01.07.2023 AL 31.07.2023",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "FONDAZIONE DIOCESANA DI RELIGIONE ASSISI CARITAS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101610.0,
+   "aggiudicato": 101610.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

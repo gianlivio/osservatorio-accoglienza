@@ -1,0 +1,143 @@
+{
+ "nome": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+ "cf": "94502230157",
+ "affidamenti": 7,
+ "diretti": 4,
+ "quota_diretti": 57.1,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 6,
+   "diretti": 4,
+   "quota_diretti": 66.7
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71186385E9",
+   "data": "2017-06-27",
+   "oggetto": "ACCORDO QUADRO PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENT",
+   "amministrazione": "COMUNI INSIEME PER LO SVILUPPO SOCIALE AZ.SPEC.CONSORTILE",
+   "ente": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2759400.0,
+   "aggiudicato": 2704487.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "65603013A5",
+   "data": "2015-12-02",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PROROGA.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 503230.0,
+   "aggiudicato": 503230.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6561849119",
+   "data": "2015-09-23",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PROROGA.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63681.8,
+   "aggiudicato": 63681.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6371031519",
+   "data": "2015-08-18",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PERIODO 1/10/2015 - 31/12/2015.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 966000.0,
+   "aggiudicato": 966000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6405114348",
+   "data": "2015-07-10",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DI VARESE E PROVINCIA. DELLA GESTIONE DEI SERVIZI CONNESSI E LA MES",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 107069.4,
+   "aggiudicato": 107069.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6342221655",
+   "data": "2015-07-02",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PERIODO 2/7/2015 - 31/12/2015.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 108573.9,
+   "aggiudicato": 60342.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6113061186",
+   "data": "2015-02-02",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 2015",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "COOP. LOTTA CONTRO L'EMARGINAZIONE COOP. SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5145000.0,
+   "aggiudicato": 5145000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

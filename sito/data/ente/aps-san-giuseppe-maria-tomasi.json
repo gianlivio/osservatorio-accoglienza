@@ -1,0 +1,133 @@
+{
+ "nome": "APS SAN GIUSEPPE MARIA TOMASI",
+ "cf": "93038250846",
+ "affidamenti": 6,
+ "diretti": 1,
+ "quota_diretti": 16.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "94702433C0",
+   "data": "2022-11-18",
+   "oggetto": "INDIZIONE PROCEDURA DI GARA APERTA SU PIATTAFORMA SITAS E-PROCUREMENT PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE DI N. 24 POSTI DELLA RETE SAI PROG 663-PR-3 ",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "APS SAN GIUSEPPE MARIA TOMASI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2001755.24,
+   "aggiudicato": 2101843.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "84867049AF",
+   "data": "2020-11-06",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE DEL PROG. 663-PR-2 INTERVENTI DI ACCOGLIENZA INTEGRATA ATTIVI E FINANZIATI SUL FNPSA PER TITOLARI DI PROTEZIONE INTERNAZ",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "APS SAN GIUSEPPE MARIA TOMASI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 990000.0,
+   "aggiudicato": 929461.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6876405CE8",
+   "data": "2016-11-21",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR DM/DS ANNI 2017 - 2018 - 2019",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "APS SAN GIUSEPPE MARIA TOMASI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1240116.0,
+   "aggiudicato": 1240116.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6875125C9E",
+   "data": "2016-11-18",
+   "oggetto": "PROGETTO SPRAR N. 8 POSTI AGGIUNTIVI CONTRATTO REP. 7966/20014 CATEGORIA DM/DS",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "APS SAN GIUSEPPE MARIA TOMASI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 102480.0,
+   "aggiudicato": 102480.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6580546658",
+   "data": "2016-02-04",
+   "oggetto": "PRESA ATTO ASSEGNAZIONE DI N. 8 POSTI AGGIUNTIVI SPRAR IN FAVORE DEL CENTRO DI ASCOLTO E DI ACCOGLIENZA S.G.M. TOMASI ONLUS. TIFINANZIAMENTO ANNO 2015. PROGETTO DI ACCOGLIENZA, INT",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "APS SAN GIUSEPPE MARIA TOMASI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 102200.0,
+   "aggiudicato": 102200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "608566841A",
+   "data": "2015-01-09",
+   "oggetto": "N. 8 POSTI AGGIUNTIVI RETE SPRAR CATEGORIA DM DECORRENZA 01/07/2014 E CON SCADENZA 31/12/2014 IN FAVORE AL CENTRO DI ASCOLTO E DI ACCOGLIENZA S.G.M. TOMASI ONLUS",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "APS SAN GIUSEPPE MARIA TOMASI",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 51520.0,
+   "aggiudicato": 51520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

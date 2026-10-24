@@ -1,0 +1,38 @@
+{
+ "nome": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01950290674",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASCOLI PICENO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8640252183",
+   "data": "2021-02-24",
+   "oggetto": "INDIVIDUAZIONE DELL'ENTE ATTUATORE PER GLI ANNI 2021/2023 DEL PROGETTO SAI (EX SIPROIMI)",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE",
+   "ente": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 603413.46,
+   "aggiudicato": 603413.46,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  }
+ ]
+}

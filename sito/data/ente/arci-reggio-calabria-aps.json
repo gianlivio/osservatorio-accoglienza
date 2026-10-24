@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI REGGIO CALABRIA APS",
+ "cf": "92024270800",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6BDF5563B",
+   "data": "2025-05-08",
+   "oggetto": "SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO RELATIVA AL FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO, PERIODO 01/06/2025 - 31/12/2025 (PRO",
+   "amministrazione": "COMUNE DI SEMINARA",
+   "ente": "ARCI REGGIO CALABRIA APS",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 152833.31,
+   "aggiudicato": 150833.31,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "REST S.R.L.",
+ "cf": "01599760335",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6247637127",
+   "data": "2015-05-11",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "REST S.R.L.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1932000.0,
+   "aggiudicato": 1830326.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

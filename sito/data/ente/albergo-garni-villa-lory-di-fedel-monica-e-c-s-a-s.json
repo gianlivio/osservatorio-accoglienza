@@ -1,0 +1,38 @@
+{
+ "nome": "ALBERGO GARNI' VILLA LORY DI FEDEL MONICA E C. S.A.S.",
+ "cf": "01943210227",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6977837540",
+   "data": "2017-03-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. AGGIUDICAZIONE A GARNI' VILLA LORY DEL SERVIZIO DI VITTO, DIVISO IN TRE TURNI (COLAZIONE, PRANZO E CENA) E ALLOGGIO, CON UN PROGETTO DI COINVOLGIMENTO DEL",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ALBERGO GARNI' VILLA LORY DI FEDEL MONICA E C. S.A.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 247908.0,
+   "aggiudicato": 247908.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "nome": "PETER PAN COOPERATIVA SOCIALE",
+ "cf": "02595180817",
+ "affidamenti": 7,
+ "diretti": 7,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7394156A8D",
+   "data": "2018-02-20",
+   "oggetto": "RETTE RICOVERO N.15 MSNA PER LA STRUTTURA DI II LIVELLO DENOMINATA 'TRILLY' DELLA SOC.COOP.SOCIALE PETER PAN DI MARSALA - ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "PETER PAN COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 235000.0,
+   "aggiudicato": 235000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "7394124028",
+   "data": "2018-02-20",
+   "oggetto": "RETTE RICOVERO N.15 MSNA PRESSO LA STRUTTURA DI II LIVELLO DENOMINATA 'WENDY BIS' DELLA SOC COOP. SOCIALE PETER PAN DI MARSALA - ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "PETER PAN COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 235000.0,
+   "aggiudicato": 235000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "7240978413",
+   "data": "2017-10-27",
+   "oggetto": "RETTE ACCOGLIENZA N.15 MSNA PRESSO LA STRUTTURA WENDY BIS DI MARSALA DELLA SOC.COOP. SOCIALE PETER PAN ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "PETER PAN COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74572.0,
+   "aggiudicato": 74572.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "69615569BD",
+   "data": "2017-01-30",
+   "oggetto": "RETTE RICOVERO N.12 MSNA C.A. WENDY SOC.COOP. SOCIALE PETER PAN ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "PETER PAN COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 187715.0,
+   "aggiudicato": 187715.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6961408F99",
+   "data": "2017-01-30",
+   "oggetto": "RETTE RICOVERO N.15 MSNA C. A. TRILLY DELLA SOC.COOP. SOCIALE PETER PAN ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "PETER PAN COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 234645.0,
+   "aggiudicato": 234645.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6675899621",
+   "data": "2016-04-20",
+   "oggetto": "RETTE RICOVERO N.11 MSNA SOC. COOP. SOCIALE PETER PAN C. A. TRILLY PRIMO SEMESTRE 2016",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "PETER PAN COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 189450.0,
+   "aggiudicato": 193395.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "66758047BB",
+   "data": "2016-04-20",
+   "oggetto": "RETTE DI RICOVERO N.12 MSNA SOC. COOP. SOCIALE PETER PAN C. A. WENDY ANNO 2016",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "PETER PAN COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 197640.0,
+   "aggiudicato": 197640.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

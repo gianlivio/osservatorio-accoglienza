@@ -1,0 +1,165 @@
+{
+ "nome": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "01331190890",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B609271C46",
+   "data": "2025-03-14",
+   "oggetto": "AFFIDAMENTO IN VIA DIRETTA AI SENSI DELL'ART.50 COMMA 1 LETT. B) DEL D. LGS. N.36/2023 E S.M.I. FINALIZZATO ALL'ACQUISIZIONE DEL SERVIZIO DI GESTIONE DELL'OSTELLO COMUNALE PER LAVO",
+   "amministrazione": "COMUNE DI SIRACUSA",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61850.0,
+   "aggiudicato": 61850.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1AA0BFCFC",
+   "data": "2024-05-15",
+   "oggetto": "GESTIONE OSTELLO CASSIBILE PER LAVORATORI STAGIONALI MIGRANTI",
+   "amministrazione": "COMUNE DI SIRACUSA",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61773.03,
+   "aggiudicato": 61773.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B19C012477",
+   "data": "2024-05-13",
+   "oggetto": "GESTIONE OSTELLO COMUNALE PER LAVORATORI STAGIONALI MIGRANTI",
+   "amministrazione": "COMUNE DI SIRACUSA",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61773.03,
+   "aggiudicato": 61773.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B09C542C11",
+   "data": "2024-02-29",
+   "oggetto": "ACQUISIZIONE DEL SERVIZIO DI GESTIONE DELL’OSTELLO COMUNALE PER LAVORATORI STAGIONALI MIGRANTI - FRAZ. CASSIBILE IN SIRACUSA.",
+   "amministrazione": "COMUNE DI SIRACUSA",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16000.0,
+   "aggiudicato": 16000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "7167429D82",
+   "data": "2017-07-31",
+   "oggetto": "ACCOGLIENZA DI MSNA DI GENERE FEMMINILE PRESSO LA STRUTTURA CAPOCORSO - SR GESTITA DA PASSWORK SOC COOP SOCIALE ONLUS 2^TRIM 2017",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 83511.0,
+   "aggiudicato": 83511.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "705591988D",
+   "data": "2017-04-21",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO LA STRUTTURA EMERGENZIALE CAPOCORSO - SIRACUSA 1^ TRIM. 2017",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 118786.5,
+   "aggiudicato": 118786.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6895725449",
+   "data": "2016-12-05",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO LA STRUTTURA CAPOCORSO 4 TRIMESTRE 2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 243000.0,
+   "aggiudicato": 243000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6890318649",
+   "data": "2016-11-30",
+   "oggetto": "AFFIDAMENTO MSNA CENTRO CAPOCORSO III TRIMESTRE 2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "PASSWORK - IMPRESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 65417.15,
+   "aggiudicato": 65417.15,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

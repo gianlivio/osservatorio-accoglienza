@@ -1,0 +1,54 @@
+{
+ "nome": "COMUNITÀ LIBANESE IN SARDEGNA-CENTRO SERVIZI INTERCULTURALE FAIRUZ",
+ "cf": "92036060926",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B591A2AC9C",
+   "data": "2025-02-11",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "COMUNITÀ LIBANESE IN SARDEGNA-CENTRO SERVIZI INTERCULTURALE FAIRUZ",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 533520.0,
+   "aggiudicato": 533520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "B57070D2C1",
+   "data": "2025-02-03",
+   "oggetto": "GESTIONE CENTRO COLLETTIVO MIGRANTI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "COMUNITÀ LIBANESE IN SARDEGNA-CENTRO SERVIZI INTERCULTURALE FAIRUZ",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 31.54,
+   "aggiudicato": 31.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

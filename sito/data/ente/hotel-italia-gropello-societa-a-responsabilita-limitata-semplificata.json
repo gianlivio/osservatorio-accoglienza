@@ -1,0 +1,38 @@
+{
+ "nome": "HOTEL ITALIA GROPELLO società a responsabilità limitata semplificata",
+ "cf": "02874120187",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1B52645CD",
+   "data": "2024-05-21",
+   "oggetto": "CAS 2 - PROCEDURA APERTA AFFIDAMNETO SERVIZIO ACCOGLIENZA",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "HOTEL ITALIA GROPELLO società a responsabilità limitata semplificata",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 44106600.0,
+   "aggiudicato": 5513325.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

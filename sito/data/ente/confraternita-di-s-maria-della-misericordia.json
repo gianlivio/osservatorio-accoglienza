@@ -1,0 +1,80 @@
+{
+ "nome": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
+ "cf": "81001270529",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7FD3CEB58",
+   "data": "2025-08-19",
+   "oggetto": "SERVIZI DI ACCOGLIENZA RICHIEDENTI ASILO IN UNITA ABITATIVE GESTITE IN RETE",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1353244.8,
+   "aggiudicato": 1353244.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B2258F9270",
+   "data": "2024-06-19",
+   "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE O TEMPORANEA",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 12686670.0,
+   "aggiudicato": 2368178.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "8712055737",
+   "data": "2021-06-14",
+   "oggetto": "ACCOGLIENZA MIGRANTI IN SINGOLE UNITA",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "CONFRATERNITA DI S. MARIA DELLA MISERICORDIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4196220.0,
+   "aggiudicato": 1055332.8,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "RISTORANTE ALBERGO LA ZONA DI MEGGIORINI PIA & C. -  S.N.C.",
+ "cf": "01807330236",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7003842940",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ALBERGO LA ZONA - SPAZIO APERTO",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "RISTORANTE ALBERGO LA ZONA DI MEGGIORINI PIA & C. -  S.N.C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 378000.0,
+   "aggiudicato": 378000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "72361579A7",
+   "data": "2016-12-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ALBERGO LA ZONA - SPAZIO APERTO",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "RISTORANTE ALBERGO LA ZONA DI MEGGIORINI PIA & C. -  S.N.C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 638754.16,
+   "aggiudicato": 638754.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

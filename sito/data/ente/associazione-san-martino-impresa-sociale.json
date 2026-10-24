@@ -1,0 +1,107 @@
+{
+ "nome": "ASSOCIAZIONE SAN MARTINO IMPRESA SOCIALE",
+ "cf": "91002260551",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B67B4ECEAB",
+   "data": "2025-04-15",
+   "oggetto": "SERVIZI ACCOGLIENZA MSNA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "ASSOCIAZIONE SAN MARTINO IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135900.0,
+   "aggiudicato": 135900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B6717D7DDA",
+   "data": "2025-04-11",
+   "oggetto": "SERVIZI ACCOGLIENZA MSNA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "ASSOCIAZIONE SAN MARTINO IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137700.0,
+   "aggiudicato": 137700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B4F4B7FE35",
+   "data": "2024-12-24",
+   "oggetto": "SERVIZI ACCOGLIENZA MSNA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "ASSOCIAZIONE SAN MARTINO IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39000.0,
+   "aggiudicato": 39000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B2F7C4E4D7",
+   "data": "2024-09-10",
+   "oggetto": "SERVIZI ACCOGLIENZA MSNA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "ASSOCIAZIONE SAN MARTINO IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 109800.0,
+   "aggiudicato": 109800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B166A85522",
+   "data": "2024-04-24",
+   "oggetto": "SERVIZI ACCOGLIENZA MSNA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "ASSOCIAZIONE SAN MARTINO IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 109800.0,
+   "aggiudicato": 109800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

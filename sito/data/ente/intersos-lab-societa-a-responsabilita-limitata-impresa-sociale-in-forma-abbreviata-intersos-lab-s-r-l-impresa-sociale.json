@@ -1,0 +1,38 @@
+{
+ "nome": "INTERSOS LAB SOCIETA' A RESPONSABILITA' LIMITATA IMPRESA SOCIALE  in forma abbreviata: INTERSOS LAB S.R.L. IMPRESA SOCIALE",
+ "cf": "16126591003",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B73237E3BB",
+   "data": "2025-06-10",
+   "oggetto": "SERVIZIO ATTIVITÀ ORIENTAMENTO E POTENZIAMENTO DIDATTICO",
+   "amministrazione": "ISTITUTO COMPRENSIVO VIA MAZZATINTI ",
+   "ente": "INTERSOS LAB SOCIETA' A RESPONSABILITA' LIMITATA IMPRESA SOCIALE  in forma abbreviata: INTERSOS LAB S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10000.0,
+   "aggiudicato": 10000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  }
+ ]
+}

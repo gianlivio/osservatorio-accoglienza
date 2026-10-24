@@ -1,0 +1,75 @@
+{
+ "nome": "ASSOCIAZIONE VIRTUS PONTE MAMMOLO ONLUS",
+ "cf": "04699181006",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6722158444",
+   "data": "2016-06-13",
+   "oggetto": "AFFIDAMENTO DI N. 42+18 PROGETTI DI ACCOGLIENZA MSNA COLOMBI - VIRTUS SCUOLA DI VOLO - PERIODO 01.07.2016 - 31.09.2016",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE VIRTUS PONTE MAMMOLO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 296424.0,
+   "aggiudicato": 296424.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "65178002B6",
+   "data": "2015-12-15",
+   "oggetto": "PROSECUZIONE DI N. 42+18 PROGETTI DI ACCOGLIENZA MSNA COLOMBI - SCUOLA DI VOLO - PERIODO: 01.01.2016 - 31.03.2016",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE VIRTUS PONTE MAMMOLO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 293202.0,
+   "aggiudicato": 293202.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6509477E57",
+   "data": "2015-12-10",
+   "oggetto": "PROSECUZIONE SERVIZIO MSNA PERIODO 09.01.2016 - 08.05.2016",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE VIRTUS PONTE MAMMOLO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 76296.0,
+   "aggiudicato": 76296.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

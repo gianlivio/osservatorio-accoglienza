@@ -1,0 +1,38 @@
+{
+ "nome": "I MILLE COLORI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03000850929",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ORISTANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B54EDED2DD",
+   "data": "2025-10-24",
+   "oggetto": "PERMANENZA MSNA IN COMUNITÀ RESIDENZIALE 07DMSB",
+   "amministrazione": "COMUNE DI CABRAS",
+   "ente": "I MILLE COLORI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6490.0,
+   "aggiudicato": 6490.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  }
+ ]
+}

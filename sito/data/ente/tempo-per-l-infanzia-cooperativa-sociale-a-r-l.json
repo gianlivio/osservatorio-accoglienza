@@ -1,0 +1,38 @@
+{
+ "nome": "TEMPO PER L'INFANZIA COOPERATIVA SOCIALE A R .L.",
+ "cf": "10989730154",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8009437C7E",
+   "data": "2019-08-28",
+   "oggetto": "APPALTO 46/2019 AFFIDAMENTO DEI SERVIZI PER L'INTEGRAZIONE DEI CITTADINI STRANIERI RESIDENTI A MILANO NELL'AMBITO DEI PROGRAMMI DEL FAMI CON CAPOFILA REGIONE LOMBARDIA - INFORMAZIO",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "TEMPO PER L'INFANZIA COOPERATIVA SOCIALE A R .L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 167326.18,
+   "aggiudicato": 152250.09,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

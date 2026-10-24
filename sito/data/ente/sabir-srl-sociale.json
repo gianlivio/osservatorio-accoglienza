@@ -1,0 +1,38 @@
+{
+ "nome": "SABIR SRL SOCIALE",
+ "cf": "91057010794",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7283CCAD4",
+   "data": "2025-06-10",
+   "oggetto": "ACCORDO QUADRO AI SENSI DELL’ART. 59 DEL D.LGS. 36/2023 PER L’AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E GESTIONE DEI SERVIZI CONNESSI IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "SABIR SRL SOCIALE",
+   "procedura": "ND P1_20",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 4169979.0,
+   "aggiudicato": 1249797.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

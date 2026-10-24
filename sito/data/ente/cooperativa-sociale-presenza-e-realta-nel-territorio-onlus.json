@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE PRESENZA E REALTA' NEL TERRITORIO ONLUS",
+ "cf": "00850530767",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "921090359C",
+   "data": "2022-04-27",
+   "oggetto": "AFFIDAMENTO PRESENZA E REALTA' NEL TERRITORIO N.23 MIGRANTI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COOPERATIVA SOCIALE PRESENZA E REALTA' NEL TERRITORIO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 467769.4,
+   "aggiudicato": 467769.4,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

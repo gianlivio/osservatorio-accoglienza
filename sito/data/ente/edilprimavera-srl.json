@@ -1,0 +1,38 @@
+{
+ "nome": "EDILPRIMAVERA SRL",
+ "cf": "01588800431",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASCOLI PICENO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B3315563F4",
+   "data": "2024-09-26",
+   "oggetto": "SUA P/C COMUNE DI CARASSAI (AP). PNRR M5 C3 I1-1.1.1. PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DEI LAVORI DI RISTRUTTURAZIONE LOCALI DI PROPRIETÀ COMUNALE PER LA REALIZZAZIONE DI N. 3",
+   "amministrazione": "PROVINCIA DI FERMO",
+   "ente": "EDILPRIMAVERA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 222611.57,
+   "aggiudicato": 215318.339,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  }
+ ]
+}

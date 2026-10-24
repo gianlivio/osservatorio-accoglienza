@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO LOCALE DI BRESCIA",
+ "cf": "03579860986",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B886875779",
+   "data": "2025-10-08",
+   "oggetto": "TRASPORTO MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO LOCALE DI BRESCIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "PACE IN TERRA ONLUS",
+ "cf": "90022510425",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B131168532",
+   "data": "2024-04-10",
+   "oggetto": "AFFIDAMENTO SERVIZI ACCOGLIENZA MIGRANTI UNITA' ABITATIVE ASSOCIAIZONE PACE IN TERRA ENTE DEL TERZO SETTORE",
+   "amministrazione": "PREFETTURA DI MACERATA",
+   "ente": "PACE IN TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 395572.4,
+   "aggiudicato": 395572.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MACERATA"
+  }
+ ]
+}

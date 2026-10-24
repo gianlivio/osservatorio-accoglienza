@@ -1,0 +1,38 @@
+{
+ "nome": "C.S.S. COOPERATIVA SERVIZI SANITARI ONLUS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00371870940",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2E10391A5",
+   "data": "2024-08-30",
+   "oggetto": "AFFIDAMENTO MINORE STRANIERO NON ACCOMPAGNATO IN COMUNITA' ALLOGGIO",
+   "amministrazione": "COMUNE DI VENAFRO",
+   "ente": "C.S.S. COOPERATIVA SERVIZI SANITARI ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17238.0,
+   "aggiudicato": 17238.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

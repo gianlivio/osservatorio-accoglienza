@@ -1,0 +1,59 @@
+{
+ "nome": "CROCE BIANCA RIGUTINO - - ODV",
+ "cf": "01373210515",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "84523170A5",
+   "data": "2020-10-27",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) LA CROCE BIANCA DI RIGUTINO",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CROCE BIANCA RIGUTINO - - ODV",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 272692.96,
+   "aggiudicato": 272692.96,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6951785A74",
+   "data": "2016-10-04",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI CROCE BIANCA RIGUTINO FEBBRAIO GIUGNO 2017",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CROCE BIANCA RIGUTINO - - ODV",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 45000.0,
+   "aggiudicato": 45000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

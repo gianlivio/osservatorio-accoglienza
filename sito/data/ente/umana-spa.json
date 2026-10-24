@@ -1,0 +1,38 @@
+{
+ "nome": "UMANA SPA",
+ "cf": "04681350270",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6972354AE",
+   "data": "2025-04-23",
+   "oggetto": "SOMMINISTRAZIONE LAVORATORE AMMINISTRATIVO COMMISSIONE TERITORIALE",
+   "amministrazione": "PREFETTURA DI UDINE",
+   "ente": "UMANA SPA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34781.54,
+   "aggiudicato": 34781.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

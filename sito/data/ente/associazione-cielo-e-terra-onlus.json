@@ -1,0 +1,196 @@
+{
+ "nome": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+ "cf": "92020910151",
+ "affidamenti": 9,
+ "diretti": 7,
+ "quota_diretti": 77.8,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B703546A19",
+   "data": "2025-05-28",
+   "oggetto": "LOTTO 1: GESTIONE STRUTTURE DI ACCOGLIENZA COSTITUITI DA UNITÀ ABITATIVE CON CAPACITÀ RICETTIVA FINO A 38 POSTI, PER IL PERIODO DECORRENTE INDICATIVAMENTE DAL 01.07.2025 AL 31.12.2",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 844633.6,
+   "aggiudicato": 263948.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B32F7CC398",
+   "data": "2024-10-14",
+   "oggetto": "AFFIDAMENTO DIRETTO IN APPALTO – AI SENSI DELL'ART. 50COMMA 1 LETT. B) DEL D.LGS. 36/2023 - DELLA GESTIONE ED EROGAZIONE DEISERVIZI DI ACCOGLIENZA IN FAVORE DEI PROFUGHI CITTADINI ",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 131974.0,
+   "aggiudicato": 131974.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B1CC21B875",
+   "data": "2024-05-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1017112.5,
+   "aggiudicato": 1017112.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "A03A474CE2",
+   "data": "2023-12-07",
+   "oggetto": "PROCEDURA PER L'AFFIDAMENTO DIRETTO IN APPALTO - AI SENSI DELL'ART. 50 COMMA 1 LETT. B) DEL D.LGS. 36/2023 - DELLA GESTIONE ED EROGAZIONE DEI SERVIZI DI ACCOGLIENZA IN FAVORE DEI P",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 128459.17,
+   "aggiudicato": 75287.42,
+   "durata_gg": 91.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "98799443B6",
+   "data": "2023-06-14",
+   "oggetto": "GESTIONE ED EROGAZIONE DEI SERVIZI DI ACCOGLIENZA IN FAVORE DEI PROFUGHI UCRAINI PRESSO I CENTRI DI ACCOGLIENZA STRAORDINARIA (CAS) DI CUI ALL'ART. 1, COMMA 2, LETTERA A) DEL CSA C",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 118922.33,
+   "aggiudicato": 118922.33,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "9138266FA6",
+   "data": "2022-03-11",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36, C. 2, LETT. A) DEL D.LGS. N. 50/2016 COME DEROGATO DALL'OCDPC N. 872 DEL 4/3/22 DELL'EROGAZIONE E GESTIONE DEL SERVIZIO DI ACCOGLIENZA DE",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 210498.53,
+   "aggiudicato": 138666.9,
+   "durata_gg": 292.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "87483842DC",
+   "data": "2021-05-13",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI PRESSO CENTRI (UNITÀ ABITATIVE) SINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7133574.0,
+   "aggiudicato": 5253757.32,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8381261360",
+   "data": "2020-07-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO STRUTTURE INDIVIDUALI FINO A 50 POSTI/ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 535814.16,
+   "aggiudicato": 535814.16,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8032391ABC",
+   "data": "2019-10-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO STRUTTURE INDIVIDUALI FINO A 50 POSTI - ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE CIELO E TERRA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1071628.32,
+   "aggiudicato": 1071628.32,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

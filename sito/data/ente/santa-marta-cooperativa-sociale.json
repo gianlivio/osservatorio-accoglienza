@@ -1,0 +1,176 @@
+{
+ "nome": "SANTA MARTA COOPERATIVA SOCIALE",
+ "cf": "02137700445",
+ "affidamenti": 9,
+ "diretti": 8,
+ "quota_diretti": 88.9,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 7,
+   "diretti": 6,
+   "quota_diretti": 85.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERMO",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9DA7D4D7D",
+   "data": "2025-12-31",
+   "oggetto": "PREFETTURA DI FERMO: ADESIONE ACCORDO QUADRO - 135 POSTI",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6144143.98,
+   "aggiudicato": 6144143.98,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B9DA7D4D7D",
+   "data": "2025-12-31",
+   "oggetto": "PREFETTURA DI FERMO: ADESIONE ACCORDO QUADRO - 135 POSTI",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6144143.98,
+   "aggiudicato": 6144143.98,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B9DA7D4D7D",
+   "data": "2025-12-31",
+   "oggetto": "PREFETTURA DI FERMO: ADESIONE ACCORDO QUADRO - 135 POSTI",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6144143.98,
+   "aggiudicato": 6144143.98,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B9DA7041DB",
+   "data": "2025-12-31",
+   "oggetto": "PREFETTURA DI FERMO: ADESIONE ACCORDO QUADRO PER I SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA ED ASSISTENZA IN SINGOLE UNITÀ ABITATIVE DEI RICHIEDENTI LA PROTEZIONE INTERNAZIONAL",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2129712.37,
+   "aggiudicato": 2129712.37,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B94A432BDE",
+   "data": "2025-11-28",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE IN CENTRI STRAORDINARI COSTITUITI DA CENTRI COLLETTIVI CON CAPACITA' RICETTIV",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 352380.0,
+   "aggiudicato": 352380.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B76248A6F1",
+   "data": "2025-06-25",
+   "oggetto": "SUA P/C DELLA PREFETTURA DI FERMO: AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA ED ASSISTENZA IN CENTRI COLLETTIVI DEI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE UBIC",
+   "amministrazione": "PROVINCIA DI FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17225718.0,
+   "aggiudicato": 4593143.141,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B60FD63D50",
+   "data": "2025-03-17",
+   "oggetto": "AFFIDAMENTO DIRETTO DEI SERVIZI DI ACCOGLIENZA IN CENTRI COLLETTIVI PER STRANIERI RICHIEDENTI PROTEZIONE DAL 18.3.2025 AL 23.07.2025",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 747622.4,
+   "aggiudicato": 747622.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B42D30F2A2",
+   "data": "2024-11-08",
+   "oggetto": "SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 775971.84,
+   "aggiudicato": 775971.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "96383119D8",
+   "data": "2023-02-03",
+   "oggetto": "SERVIZIO DI GESTIONE DEL CENTRO DI ACCOGLIENZA PER STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE COSTITUITO DA UN CENTRO COLLETTIVO CON CAPACITÀ RICETTIVA DI N. 32 POSTI,",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138164.16,
+   "aggiudicato": 138122.88,
+   "durata_gg": 129.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

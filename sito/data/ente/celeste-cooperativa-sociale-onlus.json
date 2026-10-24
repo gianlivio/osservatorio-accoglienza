@@ -1,0 +1,54 @@
+{
+ "nome": "CELESTE COOPERATIVA SOCIALE ONLUS",
+ "cf": "02428120030",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERBANO-CUSIO-OSSOLA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B83A4FBF6D",
+   "data": "2025-09-15",
+   "oggetto": "RETTA COMUNITA' EDUCATIVA - MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI",
+   "ente": "CELESTE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15600.0,
+   "aggiudicato": 15600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  },
+  {
+   "cig": "B83A4A9BC3",
+   "data": "2025-09-15",
+   "oggetto": "RETTA COMUNITA' EDUCATIVA - MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI",
+   "ente": "CELESTE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15600.0,
+   "aggiudicato": 15600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  }
+ ]
+}

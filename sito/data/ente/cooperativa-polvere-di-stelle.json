@@ -1,0 +1,170 @@
+{
+ "nome": "COOPERATIVA POLVERE DI STELLE",
+ "cf": "03782930758",
+ "affidamenti": 8,
+ "diretti": 2,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B68789BA60",
+   "data": "2025-04-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA PER TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL PROGETTO SAI – SISTEMA DI ACCOGLIENZA E INTEGRAZIONE DI CUI AL D.M. 18 NOVEMBRE 2019 – A",
+   "amministrazione": "COMUNE DI CALIMERA",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66200.0,
+   "aggiudicato": 66200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B589C938C5",
+   "data": "2025-02-10",
+   "oggetto": "PROCEDURA APERTA, AI SENSI DEGLI ARTT. 71 E 108, COMMI 2 E 5, D.LGS. N. 36/2023, PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE PER LA GESTIONE, IN PROSECUZIONE PER IL TRIENNIO 2025 -",
+   "amministrazione": "AMMINISTRAZIONE COMUNALE DI ALEZIO",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 450954.49,
+   "aggiudicato": 450954.49,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "95766895C4",
+   "data": "2023-11-02",
+   "oggetto": "SISTEMA DI ACCOGLIENZA ED INTEGRAZIONE A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI-SAI MSNA - INDIVIDUAZIONE DI UN ENTE ATTUATORE DI SERVIZI SPECIALISTICI",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA DEI CAMPI LATINI",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4028595.64,
+   "aggiudicato": 2989426.68,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "95144715D9",
+   "data": "2022-12-05",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI ENTE ATTUATORE DEL PROGETTO DI ACCOGLIENZA E INTEGRAZIONE DEL COMUNE DI ALEZIO IN FAVORE DI N.1O RICHIEDENTI ASILO CAT. ORDINARI FINO AL 31",
+   "amministrazione": "AMMINISTRAZIONE COMUNALE DI ALEZIO",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 330310.5,
+   "aggiudicato": 330310.5,
+   "durata_gg": 761.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9520336DCA",
+   "data": "2022-11-30",
+   "oggetto": "PROGETTO DI ACCOGLIENZA SAI ORDINARIO",
+   "amministrazione": "COMUNE DI CALIMERA",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 71810.0,
+   "aggiudicato": 71810.0,
+   "durata_gg": 1050.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "8918961F70",
+   "data": "2021-10-06",
+   "oggetto": "ATTUAZIONE PROGETTO SAI - AFFIDAMENTO SERVIZI DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI CUTROFIANO",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 324558.0,
+   "aggiudicato": 324558.0,
+   "durata_gg": 396.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "89126875FB",
+   "data": "2021-09-27",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI ENTE ATTUATORE DEL PROGETTO DI ACCOGLIENZA INTEGRATA DEL COMUNE DI ALEZIO IN FAVORE DI N.12 MINORI STRANIERI NON ACCOMPAGNATI (MSNA) DI CUI",
+   "amministrazione": "AMMINISTRAZIONE COMUNALE DI ALEZIO",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 292592.0,
+   "aggiudicato": 292592.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "8491030B9C",
+   "data": "2020-11-04",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI GALATINA",
+   "ente": "COOPERATIVA POLVERE DI STELLE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1516368.68,
+   "aggiudicato": 1516368.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

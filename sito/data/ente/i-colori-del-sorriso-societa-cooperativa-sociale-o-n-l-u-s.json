@@ -1,0 +1,80 @@
+{
+ "nome": "I COLORI DEL SORRISO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+ "cf": "02593150028",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7753408AAE",
+   "data": "2019-02-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITA' ABITATIVE SINGOLE MAGGI 2019/ APRILE 2021",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "I COLORI DEL SORRISO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10597800.0,
+   "aggiudicato": 2354080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "7586932658",
+   "data": "2018-07-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI DAL 01/08/2018 AL 31/12/2018 AZ. S. ANDREA",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "I COLORI DEL SORRISO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 133110.0,
+   "aggiudicato": 133110.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "7129820198",
+   "data": "2017-07-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 16 LUGLIO 2017 - 31-12-2017 L'ALTERNATIVA COOP. SOCIALE",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "I COLORI DEL SORRISO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 114840.0,
+   "aggiudicato": 114840.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "VILLA BIANCA DI FINOCCHI CORRADO & C.S.A.S.",
+ "cf": "00265830349",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "80739756F1",
+   "data": "2019-10-22",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE VILLA BIANCA DI FINOCCHI CORRADO & C.",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "VILLA BIANCA DI FINOCCHI CORRADO & C.S.A.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 770181.6,
+   "aggiudicato": 331849.49,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6846317F80",
+   "data": "2016-12-02",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA CON IL CRITERIO DELL'OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA PER CONCLUSIONE ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI OPERANTI IN PROVINCIA DI PARM",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "VILLA BIANCA DI FINOCCHI CORRADO & C.S.A.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 23443000.0,
+   "aggiudicato": 14152520.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

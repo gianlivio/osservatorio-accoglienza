@@ -1,0 +1,38 @@
+{
+ "nome": "PROGRAMMA SVILUPPO",
+ "cf": "90133200734",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9506635361",
+   "data": "2022-11-29",
+   "oggetto": "SERVIZI DI WELFARE D'ACCESSO DELL'AMBITO TERRITORIALE BR2 (PUA DISTRETTUALE E PUA COMUNALE, SEGRETARIATO SOCIALE, SPORTELLO IMMIGRATI, CENTRO SERVIZI PER LE FAMIGLIE, SERVIZIO AFFI",
+   "amministrazione": "CONSORZIO PER L'INTEGRAZIONE E L'INCLUSIONE SOCIALE DELL'AMBITO TERRITORIALE SOCIALE DI CISTERNINO FASANO OSTUNI",
+   "ente": "PROGRAMMA SVILUPPO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 730614.5,
+   "aggiudicato": 670000.0,
+   "durata_gg": 455.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

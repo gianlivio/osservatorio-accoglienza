@@ -1,0 +1,38 @@
+{
+ "nome": "ISTITUTO GESU' E MARIA CITTADELLA DELLA CARITA'",
+ "cf": "91003060703",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71995275A0",
+   "data": "2017-09-22",
+   "oggetto": "SELEZIONE COMPARATIVA DI UN PARTNER DEL TERZO SETTORE PER LA CO-PROGETTAZIONE E LA SUCCESSIVA GESTIONE DI UN PROGETTO FACENTE CAPO ALLA RETE NAZIONALE SPRAR, RIVOLTO A N. 30 ADULTI",
+   "amministrazione": "C.U.C. SANTA CROCE DI MAGLIANO / BONEFRO",
+   "ente": "ISTITUTO GESU' E MARIA CITTADELLA DELLA CARITA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1296000.0,
+   "aggiudicato": 1231200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

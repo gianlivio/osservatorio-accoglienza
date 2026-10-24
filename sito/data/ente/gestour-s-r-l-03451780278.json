@@ -1,0 +1,59 @@
+{
+ "nome": "GESTOUR S.R.L.",
+ "cf": "03451780278",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6666496687",
+   "data": "2016-04-14",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GESTOUR SRL E S.AR.HA. - MIRA - 15/3 - 31/12/2016 - 13 -",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GESTOUR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 127166.0,
+   "aggiudicato": 127166.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6536856039",
+   "data": "2015-12-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GESTUR MIRA - PROROGA DAL 01/01 AL 14/03/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GESTOUR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 184772.82,
+   "aggiudicato": 184772.82,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

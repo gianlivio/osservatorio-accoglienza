@@ -1,0 +1,100 @@
+{
+ "nome": "COOPERATIVA SOCIALE PRASSI E RICERCA - ENTE DEL TERZO SETTORE IN BREVE COOPERATIVA SOCIALE PRASSI E RICERCA - ETS",
+ "cf": "03786700587",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9841683DB9",
+   "data": "2023-05-23",
+   "oggetto": "PROGETTO DI ACCOGLIENZA E INTEGRAZIONE IN FAVORE DI ADULTI, FAMIGLIE E FAMIGLIE-MONOPARENTALI TITOLARI DI ACCOGLIENZA 'SAI' IN ACCOGLIENZA DIFFUSA, CON CAPIENZA MASSIMA DI 10 POSTI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA SOCIALE PRASSI E RICERCA - ENTE DEL TERZO SETTORE IN BREVE COOPERATIVA SOCIALE PRASSI E RICERCA - ETS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4209975.0,
+   "aggiudicato": 4209975.0,
+   "durata_gg": 945.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "9887190F49",
+   "data": "2023-05-12",
+   "oggetto": "APPALTO SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI PROGETTO SAI MSNA 2023/2025",
+   "amministrazione": "COMUNE DI BOSCO CHIESANUOVA",
+   "ente": "COOPERATIVA SOCIALE PRASSI E RICERCA - ENTE DEL TERZO SETTORE IN BREVE COOPERATIVA SOCIALE PRASSI E RICERCA - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 654241.8,
+   "aggiudicato": 759525.0,
+   "durata_gg": 840.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8585474D43",
+   "data": "2021-01-11",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "C.U.C. BOSCO CHIESANUOVA - CERRO VERONESE",
+   "ente": "COOPERATIVA SOCIALE PRASSI E RICERCA - ENTE DEL TERZO SETTORE IN BREVE COOPERATIVA SOCIALE PRASSI E RICERCA - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 654241.8,
+   "aggiudicato": 654241.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "708020305A",
+   "data": "2017-04-14",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BOSCO CHIESANUOVA",
+   "ente": "COOPERATIVA SOCIALE PRASSI E RICERCA - ENTE DEL TERZO SETTORE IN BREVE COOPERATIVA SOCIALE PRASSI E RICERCA - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1455364.7,
+   "aggiudicato": 963042.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

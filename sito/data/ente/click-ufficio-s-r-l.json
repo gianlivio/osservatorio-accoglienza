@@ -1,0 +1,38 @@
+{
+ "nome": "CLICK UFFICIO - S.R.L.",
+ "cf": "06067681004",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B662F8DCF5",
+   "data": "2025-04-08",
+   "oggetto": "FORNITURA DI CARTA IN RISME PER LE ESIGENZE DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI ROMA E DELLO SPORTELLO UNICO IMMIGRAZIONE (SUI)",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "CLICK UFFICIO - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7999.55,
+   "aggiudicato": 7999.55,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

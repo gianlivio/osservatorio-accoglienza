@@ -1,0 +1,38 @@
+{
+ "nome": "COMUNITA' EDUCATIVA GIOVANILE SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
+ "cf": "00865830038",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9337280735",
+   "data": "2022-07-26",
+   "oggetto": "ACCOGLIENZA DI MINORI, MINORI CON MADRE, MSNA E NEOMAGGIORENNI PRESSO COMUNITA' RESIDENZIALE E SPAZIO ABITAZIONE - COMUNITÀ EDUCATIVA GIOVANILE COOP.SOCIALE A R.L. - LUGLIO-SETTEMB",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "COMUNITA' EDUCATIVA GIOVANILE SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 111000.0,
+   "aggiudicato": 111000.0,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  }
+ ]
+}

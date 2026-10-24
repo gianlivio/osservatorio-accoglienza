@@ -1,0 +1,54 @@
+{
+ "nome": "L'OLIVASTRO ASSOCIAZIONE ONLUS",
+ "cf": "91004150917",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NUORO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71106738FB",
+   "data": "2017-05-15",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERTENIA",
+   "ente": "L'OLIVASTRO ASSOCIAZIONE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 80000.0,
+   "aggiudicato": 80000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NUORO"
+  },
+  {
+   "cig": "693506008F",
+   "data": "2017-03-31",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CAGLIARI",
+   "ente": "L'OLIVASTRO ASSOCIAZIONE ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 40500.0,
+   "aggiudicato": 40500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NUORO"
+  }
+ ]
+}

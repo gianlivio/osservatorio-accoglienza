@@ -1,0 +1,38 @@
+{
+ "nome": "FRATELLI SCUDERI S.R.L.",
+ "cf": "02853450837",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B570BA8FAE",
+   "data": "2025-02-03",
+   "oggetto": "LAVORI DI MANUTENZIONE SOLAIO PRESSO LA STRUTTURA COMUNALE EX CENTRO DIURNO PER ANZIANI ADIBITA A PROGETTO SAI SITA IN VIA LIBERTA'",
+   "amministrazione": "COMUNE DI RODI MILICI",
+   "ente": "FRATELLI SCUDERI S.R.L.",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7991.67,
+   "aggiudicato": 7991.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

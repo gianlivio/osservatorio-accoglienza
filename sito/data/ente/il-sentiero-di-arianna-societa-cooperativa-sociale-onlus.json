@@ -1,0 +1,38 @@
+{
+ "nome": "IL SENTIERO DI ARIANNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "01089500993",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "70749701F1",
+   "data": "2017-05-11",
+   "oggetto": "SERV. ACCOGLIENZA CITTADINI STRANIERI RICH. PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "IL SENTIERO DI ARIANNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 314937.6,
+   "aggiudicato": 314937.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

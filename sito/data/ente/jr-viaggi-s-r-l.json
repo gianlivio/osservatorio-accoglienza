@@ -1,0 +1,54 @@
+{
+ "nome": "JR VIAGGI S.R.L.",
+ "cf": "03602330791",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1A3A92B8C",
+   "data": "2024-05-14",
+   "oggetto": "JR VIAGGI SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUS",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "JR VIAGGI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19688.83,
+   "aggiudicato": 19688.83,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1A37A624A",
+   "data": "2024-05-14",
+   "oggetto": "JR VIAGGI SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUS",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "JR VIAGGI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27695.72,
+   "aggiudicato": 27695.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

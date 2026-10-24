@@ -1,0 +1,80 @@
+{
+ "nome": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02578370278",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8B0EA60C3",
+   "data": "2025-10-17",
+   "oggetto": "STIPULA CONVENZIONE CON LA AGGIUDICATARIA L'ARCO SOC. COOP.SOCIALE RELATIVA ALL'ACCORDO QUADRO DI CUI ALLA GARA N° 4611023 - PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI ACCO",
+   "amministrazione": "PREFETTURA DI VENEZIA",
+   "ente": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 877095.0,
+   "aggiudicato": 877095.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "8789601035",
+   "data": "2021-06-30",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI TERRITORIO VENEZIA - UNITÀ ABITATIVE FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI VENEZIA",
+   "ente": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 14686770.0,
+   "aggiudicato": 6794373.61,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "63805081C5",
+   "data": "2015-08-31",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - L'ARCO SOCIETA' COOP. SOC. - PORTOGRUARO - 1/8 - 31/12/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41004.0,
+   "aggiudicato": 41004.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

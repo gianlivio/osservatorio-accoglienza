@@ -1,0 +1,38 @@
+{
+ "nome": "CALIFEL - S.R.L.",
+ "cf": "00789280708",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "737945139C",
+   "data": "2018-03-07",
+   "oggetto": "FE 9997/9 - LAVORI DI MANUTENZIONE STRAORDINARIA DA REALIZZARSI SU IMMOBILI DEMANIALI SITI NELLA PROVINCIA DI FERRARA DA DESTINARSI AD ALLOGGIAMENTO DI PROFUGHI RICHIEDENTI ASILO.",
+   "amministrazione": "MINISTERO INFRASTRUTTURE E TRASPORTI - PROVVEDITORATO INTERREGIONALE PER LE OO.PP. LOMBARDIA - EMILIA ROMAGNA",
+   "ente": "CALIFEL - S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 660000.0,
+   "aggiudicato": 420410.816,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

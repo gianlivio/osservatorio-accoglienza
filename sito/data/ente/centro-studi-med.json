@@ -1,0 +1,38 @@
+{
+ "nome": "CENTRO STUDI MED?",
+ "cf": "95116540105",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8612333206",
+   "data": "2021-03-12",
+   "oggetto": "SERVIZIO PER LA REALIZZAZIONE DI 5 SPORTELLI INFORMATIVI E DI SUPPORTO ED UN PUNTO DI ACCESSO CENTRALE CON FUNZIONI DI COORDINAMENTO E FUNZIONI DI OSSERVATORIO TECNICO",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "CENTRO STUDI MED?",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 510986.91,
+   "aggiudicato": 509536.9,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "nome": "SOCIALSERVICE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03256320718",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9456933BFB",
+   "data": "2022-10-20",
+   "oggetto": "PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO DELL'AMPLIAMENTO DEL PROGETTO SIPROIMI/SAI PROG-625-PR-2 'CITTÀCCOGLIENZA' CAT. ORDINARI PER N. 76 POSTI AGGIUNTIVI",
+   "amministrazione": "COMUNE DI CERIGNOLA",
+   "ente": "SOCIALSERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 456352.5,
+   "aggiudicato": 479170.12,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

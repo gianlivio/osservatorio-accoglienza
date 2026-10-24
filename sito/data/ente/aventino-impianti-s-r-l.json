@@ -1,0 +1,38 @@
+{
+ "nome": "AVENTINO IMPIANTI S.R.L.",
+ "cf": "02378660696",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B763AA119A",
+   "data": "2025-06-25",
+   "oggetto": "E559 COMUNE DI LETTOPALENA - DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 17 DICEMBRE 2021 INTERVENTO DI 'EMERGENZA ABITATIVA PER PROFUGHI IN GUERRA' . CUP: I62D22000170006. A",
+   "amministrazione": "UNIONE DEI COMUNI MONTANI MAIELLA ORIENTALE - VERDE AVENTINO",
+   "ente": "AVENTINO IMPIANTI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8404.54,
+   "aggiudicato": 8404.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

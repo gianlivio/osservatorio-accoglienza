@@ -1,0 +1,38 @@
+{
+ "nome": "IL PICCOLO PRINCIPE - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "05172970484",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9216EE45D",
+   "data": "2025-11-18",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - CORA",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "IL PICCOLO PRINCIPE - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23805.0,
+   "aggiudicato": 23805.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

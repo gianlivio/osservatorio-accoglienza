@@ -1,0 +1,137 @@
+{
+ "nome": "EKENE COOPERATIVA SOCIALE ONLUS",
+ "cf": "05034930288",
+ "affidamenti": 6,
+ "diretti": 4,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROVIGO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6F48A97AE",
+   "data": "2025-05-21",
+   "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "EKENE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 376178.49,
+   "aggiudicato": 376178.49,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "B0B49E1F55",
+   "data": "2024-03-07",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA IN SINGOLE UN ABITATIVE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "EKENE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30766.0,
+   "aggiudicato": 30766.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "A02BD2E28F",
+   "data": "2023-12-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "EKENE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 444941.82,
+   "aggiudicato": 444941.82,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "99473973B0",
+   "data": "2023-07-14",
+   "oggetto": "AFFIDAMENTO DIRETTO MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "EKENE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 89679.75,
+   "aggiudicato": 89679.75,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8891950D42",
+   "data": "2021-10-06",
+   "oggetto": "ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA COLLETTIVI SINO MASSIMO 50 POSTI PER CITTADINISTRANIERI RICHIEDENTI LA PROT. INT.LE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "EKENE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4153780.0,
+   "aggiudicato": 2443400.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "8891947AC9",
+   "data": "2021-10-06",
+   "oggetto": "ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINISTRANIERI RICHIEDENTI LA PROT. INT.LE COSTITUITI DA SINGOLE UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "EKENE COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4280144.4,
+   "aggiudicato": 2509162.46,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROVIGO"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "nome": "RIGHT - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03096640218",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9333795B4A",
+   "data": "2022-07-21",
+   "oggetto": "SERVIZIO DI CALL CENTER PER LA PROTEZIONE CIVILE (COVID-19 & PROFUGHI UCRAINA)",
+   "amministrazione": "AGENTUR FUER BEVOELKERUNGSSCHUTZ",
+   "ente": "RIGHT - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 149900.0,
+   "aggiudicato": 149900.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

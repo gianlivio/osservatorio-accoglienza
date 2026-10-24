@@ -1,0 +1,38 @@
+{
+ "nome": "LAB.IN.S. SOCIETA' COOPERATIVA IMPRESA SOCIALE",
+ "cf": "10850930016",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CUNEO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B70332BD4C",
+   "data": "2025-05-27",
+   "oggetto": "SERVIZIO DI CONSULENZA E DI DIREZIONE DEI LAVORI DEL SEMINARIO REALIZZATO NELL'AMBITO DEL PERCORSO TATI GENERALI DELL'ABITARE",
+   "amministrazione": "COMUNE DI CUNEO",
+   "ente": "LAB.IN.S. SOCIETA' COOPERATIVA IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8197.0,
+   "aggiudicato": 8197.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CUNEO"
+  }
+ ]
+}

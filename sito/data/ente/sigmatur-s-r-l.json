@@ -1,0 +1,54 @@
+{
+ "nome": "SIGMATUR S.R.L.",
+ "cf": "02040150878",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1C6A9F6B2",
+   "data": "2024-05-22",
+   "oggetto": "NOLEGGIO PULLMAN CON CONDUCENTE PER TRASP. MIGRANTI",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "SIGMATUR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15135.19,
+   "aggiudicato": 15135.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "B0C0247AF6",
+   "data": "2024-03-11",
+   "oggetto": "SERVIZIO DI NOLEGGIO PULLAMN CON CONDUCENTE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "SIGMATUR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17836.91,
+   "aggiudicato": 17836.91,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

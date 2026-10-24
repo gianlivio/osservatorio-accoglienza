@@ -1,0 +1,84 @@
+{
+ "nome": "ASSOCIAZIONE L.E.S.S. ONLUS",
+ "cf": "05478121212",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B53B6AE9AA",
+   "data": "2025-01-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA PER I RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE AMBITO SAI PROG. 2105",
+   "amministrazione": "COMUNE DI MONTEMILETTO",
+   "ente": "LESS COOPERATIVA SOCIALE AR.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 129622.5,
+   "aggiudicato": 129622.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "9489411DAC",
+   "data": "2022-11-15",
+   "oggetto": "COOPROGETTAZIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA PER I RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE - AMBITO SAI",
+   "amministrazione": "COMUNE DI MONTEMILETTO",
+   "ente": "ASSOCIAZIONE L.E.S.S. ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 525691.25,
+   "aggiudicato": 525691.25,
+   "durata_gg": 45.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "7156336B47",
+   "data": "2017-08-04",
+   "oggetto": "COPROGETTAZIONE E GESTIONE SERVIZI SPRAR",
+   "amministrazione": "COMUNE DI PROCIDA",
+   "ente": "ASSOCIAZIONE L.E.S.S. ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1470000.0,
+   "aggiudicato": 1470000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

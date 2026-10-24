@@ -1,0 +1,54 @@
+{
+ "nome": "NIBIRU ONLUS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04185110618",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7599893E17",
+   "data": "2018-08-10",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP. COSMEA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "NIBIRU ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 140529.6,
+   "aggiudicato": 140529.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7599880360",
+   "data": "2018-08-10",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - AL RAIAN",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "NIBIRU ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 421588.8,
+   "aggiudicato": 421588.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

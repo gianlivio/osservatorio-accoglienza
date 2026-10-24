@@ -1,0 +1,54 @@
+{
+ "nome": "AUTOLINEE LORENZINI - S.R.L.",
+ "cf": "00739880110",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0E54042DD",
+   "data": "2024-03-20",
+   "oggetto": "TRASPORTO MIGRANTI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AUTOLINEE LORENZINI - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9500.0,
+   "aggiudicato": 9500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "B0E2A87622",
+   "data": "2024-03-19",
+   "oggetto": "TRASPORTO MIGRANTI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AUTOLINEE LORENZINI - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12500.0,
+   "aggiudicato": 12500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

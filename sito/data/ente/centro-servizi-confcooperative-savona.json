@@ -1,0 +1,38 @@
+{
+ "nome": "CENTRO SERVIZI CONFCOOPERATIVE SAVONA",
+ "cf": "01342590096",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A05EEB6879",
+   "data": "2024-04-02",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO SERVIZI CONFCOOPERATIVE SAVONA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32400424.1,
+   "aggiudicato": 32400424.1,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "nome": "DIFFERENZE CULTURALI - SOCIETA' COOPERATIVA SOCIALE - ETS",
+ "cf": "06716450488",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B79AA8E4DB",
+   "data": "2025-07-10",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "DIFFERENZE CULTURALI - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1129766.25,
+   "aggiudicato": 1129766.25,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B0E34D898D",
+   "data": "2024-03-19",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI ACCOGLIENZA COLLETTIVI CON CAP",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "DIFFERENZE CULTURALI - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2761535.26,
+   "aggiudicato": 2761535.26,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "A03CFDF149",
+   "data": "2023-03-13",
+   "oggetto": "PROVVEDIMENTO DI ESECUZIONE DEL CONTRATTO IN VIA D'URGENZA PER AFFIDAMENTO DIRETTO PER LA PRESTAZIONE DEI SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PRO",
+   "amministrazione": "PREFETTURA DI PISTOIA",
+   "ente": "DIFFERENZE CULTURALI - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 241447.5,
+   "aggiudicato": 241447.5,
+   "durata_gg": 294.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

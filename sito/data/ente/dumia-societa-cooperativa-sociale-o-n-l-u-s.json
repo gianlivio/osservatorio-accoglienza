@@ -1,0 +1,111 @@
+{
+ "nome": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+ "cf": "00725940258",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BELLUNO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CUNEO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B3E9885BB6",
+   "data": "2024-10-22",
+   "oggetto": "ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43892.28,
+   "aggiudicato": 43892.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CUNEO"
+  },
+  {
+   "cig": "B2A96B97C0",
+   "data": "2024-08-01",
+   "oggetto": "GESTIONE STRUTTURE DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86368.68,
+   "aggiudicato": 86368.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BELLUNO"
+  },
+  {
+   "cig": "B2A1C19641",
+   "data": "2024-07-30",
+   "oggetto": "GESTIONE STRUTTURE DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86368.68,
+   "aggiudicato": 86368.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BELLUNO"
+  },
+  {
+   "cig": "6541943624",
+   "data": "2015-12-14",
+   "oggetto": "SERVIZIO DI OSPITALITA' E PRIMA ACCOGLIENZA MIGRANTI - PERIODO 1/1/2016 - 30/4/2016 -ACCORDO QUADRO",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 447796.8,
+   "aggiudicato": 30.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6112938C02",
+   "data": "2015-01-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO-PERIODO 1/2/2015-31/3/2015",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "DUMIA SOCIETA' COOPERATIVA SOCIALE  O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 51000.0,
+   "aggiudicato": 29.99,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

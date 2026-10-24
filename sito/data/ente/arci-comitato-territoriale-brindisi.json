@@ -1,0 +1,80 @@
+{
+ "nome": "ARCI COMITATO TERRITORIALE BRINDISI",
+ "cf": "91024280744",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4793555FB",
+   "data": "2024-11-28",
+   "oggetto": "IL SOGGETTO ATTUATORE DEVE GARANTIRE A TUTTI I BENEFICIARI (MASSIMO NUMERO 25 SOGGETTI) MEDESIMI STANDARD QUALITATIVI DI ACCOGLIENZA, MEDIANTE UN’éQUIPE MULTIDISCIPLINARE CHE COORD",
+   "amministrazione": "COMUNE DI SAN PIETRO VERNOTICO",
+   "ente": "ARCI COMITATO TERRITORIALE BRINDISI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 774896.94,
+   "aggiudicato": 774896.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  },
+  {
+   "cig": "85030689AF",
+   "data": "2020-11-13",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI SAN PANCRAZIO SALENTINO",
+   "ente": "ARCI COMITATO TERRITORIALE BRINDISI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1002158.73,
+   "aggiudicato": 1002158.73,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  },
+  {
+   "cig": "7136362837",
+   "data": "2017-07-12",
+   "oggetto": "DETERMINA A CONTRARRE PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L'ORGANIZZAZIONE E GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTEMA DI PR",
+   "amministrazione": "COMUNE DI SAN PANCRAZIO SALENTINO",
+   "ente": "ARCI COMITATO TERRITORIALE BRINDISI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1070370.0,
+   "aggiudicato": 1070370.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

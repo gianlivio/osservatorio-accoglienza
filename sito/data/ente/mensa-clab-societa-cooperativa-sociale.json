@@ -1,0 +1,38 @@
+{
+ "nome": "MENSA CLAB - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02259500219",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B75D10177B",
+   "data": "2025-11-28",
+   "oggetto": "AFFIDAMENTO PER IL SERVIZIO DI DISTRIBUZIONE PASTI A PRANZO AI PROFUGHI UCRAINI PER FAR FRONTE ALL'EMERGENZA UMANITARIA.",
+   "amministrazione": "AZIENDA SERVIZI SOCIALI DI BOLZANO",
+   "ente": "MENSA CLAB - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

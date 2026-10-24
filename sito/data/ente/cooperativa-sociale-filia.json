@@ -1,0 +1,79 @@
+{
+ "nome": "COOPERATIVA SOCIALE FILIA",
+ "cf": "10250451217",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7A8AA1E4A",
+   "data": "2025-07-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO 16.07.2025 - 31.01.2026",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "FILIA SOC. COOP. SOC",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24000.0,
+   "aggiudicato": 24000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B7583386C1",
+   "data": "2025-06-20",
+   "oggetto": "SERVIZO RESIDENZIALE MINORE",
+   "amministrazione": "COMUNE DI GRUMO NEVANO",
+   "ente": "COOPERATIVA SOCIALE FILIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9790.0,
+   "aggiudicato": 9790.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B282CCCA0E",
+   "data": "2024-07-19",
+   "oggetto": "COLLOCAMENTO 2 MINORI STRANIERI IN COMUNITÀ ALLOGGIO",
+   "amministrazione": "COMUNE DI FRATTAMAGGIORE",
+   "ente": "COOPERATIVA SOCIALE FILIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5520.0,
+   "aggiudicato": 5520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

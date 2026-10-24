@@ -1,0 +1,38 @@
+{
+ "nome": "OFFICINE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01981560855",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9512929D57",
+   "data": "2022-12-12",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'AFFIDAMENTO BIENNALE DEI SERVIZI DI GESTIONE DEL CENTRO COLLETTIVO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZION",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "OFFICINE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3304161.0,
+   "aggiudicato": 2862949.6,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO DI SAN VINCENZO",
+ "cf": "01774990491",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6792511D63",
+   "data": "2017-09-08",
+   "oggetto": "ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "CROCE ROSSA ITALIANA COMITATO DI SAN VINCENZO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 394541.75,
+   "aggiudicato": 394541.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LA FENICE",
+ "cf": "90243180735",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7360657E4C",
+   "data": "2018-01-22",
+   "oggetto": "AFFIDAMENTO DIRETTO ALL'ASSOCIAZIONE LA FENICE PER LA GESTIONE DEI SERVIZI DI ACCOGLIENZA N. 9 MIGRANTI - PERIODO 01/10/2018-31/12/2018",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LA FENICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 98550.0,
+   "aggiudicato": 98550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

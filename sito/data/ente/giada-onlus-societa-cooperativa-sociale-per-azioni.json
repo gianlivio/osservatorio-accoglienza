@@ -1,0 +1,239 @@
+{
+ "nome": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+ "cf": "01088990625",
+ "affidamenti": 12,
+ "diretti": 2,
+ "quota_diretti": 16.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 10
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6E5B1AD8C",
+   "data": "2025-05-19",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI SVOLGIMENTO RUOLO DI SOGGETTO ATTUATORE DI UN PROGETTO SAI – SISTEMA DI ACCOGLIENZA E INTEGRAZIONE (CODICE N. PROG-950-PR-2), PER LA GESTIONE DI UN CENTRO D",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 427858.0,
+   "aggiudicato": 386859.63,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "A0028E1CCD",
+   "data": "2023-10-03",
+   "oggetto": "GARA APERTA PER UN ACCORDO QUADRO MSNA - 50 POSTI PER 12 MESI +12 MESI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO DI BN",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3923353.25,
+   "aggiudicato": 837966.64,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "98311612B5",
+   "data": "2023-05-24",
+   "oggetto": "AFFIDAMENTO, IN PROSECUZIONE, DELLLE ATTIVITA' RELATIVE AL 'PROGETTO SAI (EX SPRAR/SIPROIMI)' DA REALIZZARSI NEL COMUNE DI CASTELPAGANO PER GESTANTI E MADRI CON FIGLI MINORI PER N.",
+   "amministrazione": "COMUNE DI CASTELPAGANO",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 913400.01,
+   "aggiudicato": 913400.01,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "9784166534",
+   "data": "2023-05-08",
+   "oggetto": "PROGETTO SAI PER ACCOGLIENZA DI CARATTERE ORDINARIO D.M. 10019 DEL 15/03/2023",
+   "amministrazione": "COMUNE DI CAUTANO",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 204400.81,
+   "aggiudicato": 0.0,
+   "durata_gg": 210.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "9792663925",
+   "data": "2023-05-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "COMUNE DI MORCONE",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1669358.9,
+   "aggiudicato": 1666011.81,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "9461687F1A",
+   "data": "2022-11-04",
+   "oggetto": "PROGETTO SAI MSNA PERIODO 2023/2025",
+   "amministrazione": "COMUNE DI FRAGNETO MONFORTE",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1048237.26,
+   "aggiudicato": 1047189.02,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "88597121A2",
+   "data": "2021-09-01",
+   "oggetto": "SERVIZIO GESTIONE CENTRO DI ACCOGLIENZA INSERITO NEL PROGETTO SAI COD. PROG-950",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 464457.95,
+   "aggiudicato": 409694.67,
+   "durata_gg": 635.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "858059964B",
+   "data": "2020-12-31",
+   "oggetto": "AFFIDAMENTO SERVIZIO GESTIONE SPRAR I TRIMESTRE 2021",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66312.56,
+   "aggiudicato": 66315.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "8463952226",
+   "data": "2020-11-20",
+   "oggetto": "AFFIDAMENTO IN PROSECUZIONE DELLE ATTIVITA' RELATIVE AL PROGETTO DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTEMA SPRAR/SIPROIMI DA REALIZZARSI NEL COMUNE DI CASTELPAGANO (BN) RIVOLTO",
+   "amministrazione": "COMUNE DI CASTELPAGANO",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 460968.27,
+   "aggiudicato": 423758.15,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "8464679A14",
+   "data": "2020-11-04",
+   "oggetto": "PROSECUZIONE PROGETTO DI ACCOGLIENZA INTEGRATA SIPROIMI MSNA - BIENNIO 2021/2022",
+   "amministrazione": "COMUNE DI FRAGNETO MONFORTE",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 655478.24,
+   "aggiudicato": 654822.762,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "841859190F",
+   "data": "2020-09-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO GESTIONE SPRAR III TRIMESTRE 2020",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 149000.0,
+   "aggiudicato": 147510.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "7034242820",
+   "data": "2017-04-24",
+   "oggetto": "GESTIONE DEGLI INTERVENTI DI ACCOGLIENZA INTEGRATA DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (SPRAR) IN FAVORE DEI TITOLARI DI PROTEZIONE INTERNAZIONALE ED ALTRES",
+   "amministrazione": "COMUNE DI PONTE",
+   "ente": "GIADA ONLUS SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 606812.49,
+   "aggiudicato": 606812.49,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "nome": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+ "cf": "01367610357",
+ "affidamenti": 8,
+ "diretti": 2,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "PARMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6BA6BE32F",
+   "data": "2025-05-07",
+   "oggetto": "SERVIZI PER LA PROMOZIONE DELLA MEDIAZIONE INTERCULTURALE - PROT. .0420942.U - CCM 2022_ LINEA PROGETTUALE 29/04/2025 7 - RICHIESTA -IMPLEMENTAZIONE DI UN MODELLO INNOVATIVO NEI PE",
+   "amministrazione": "AZIENDA USL DI PARMA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21072.87,
+   "aggiudicato": 21072.87,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "B41CDC20C9",
+   "data": "2024-11-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA SAI",
+   "amministrazione": "UNIONE TRESINARO SECCHIA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 619382.47,
+   "aggiudicato": 516152.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B3FE8C572E",
+   "data": "2024-10-28",
+   "oggetto": "PROGETTO CCM 2022 IMPLEMENTAZIONE DI UN MODELLOINNOVATIVO NEI PERCORSI DI ACCOGLIENZA, DIAGNOSI PREVENZIONE E CURA, DEI MINORISTRANIERI E MINORI STRANIERI NON ACCOMPAGNATI (MSNA) N",
+   "amministrazione": "AZIENDA USL DI PARMA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21072.87,
+   "aggiudicato": 21072.87,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "B30958DC49",
+   "data": "2024-09-16",
+   "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A TITOLARI DI PROTEZIONE INTERNAZIONALE. BIENNIO 2025-2026. PROGETTO TERRITORIALE SAI (",
+   "amministrazione": "COMUNE DI GUASTALLA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1541832.66,
+   "aggiudicato": 1063332.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "862691644B",
+   "data": "2021-02-12",
+   "oggetto": "PROCEDURA APERTA TELEMATICA PER AFFIDAMENTO SERVIZIO DI ACCOGLIENZA INTEGRATA PER IL PROGETTO SIPROIMI AFFERENTE AL PROGETTO TERRITORIALE DELL'UNIONE TRESINARO SECCHIA",
+   "amministrazione": "UNIONE TRESINARO SECCHIA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 538853.0,
+   "aggiudicato": 389959.0,
+   "durata_gg": 990.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "85371696B9",
+   "data": "2020-12-02",
+   "oggetto": "APPALTO DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A TITOLARI DI PROTEZIONE INTERNAZIONALE DEL COMUNE DI GAUSTALLA (RE)",
+   "amministrazione": "UNIONE DEI COMUNI BASSA REGGIANA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1601534.0,
+   "aggiudicato": 1372743.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8482030894",
+   "data": "2020-10-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI REGGIO EMILIA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2775500.0,
+   "aggiudicato": 854000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "848200759A",
+   "data": "2020-10-30",
+   "oggetto": "ORDINARI",
+   "amministrazione": "COMUNE DI REGGIO EMILIA",
+   "ente": "DIMORA D'ABRAMO COOPERATIVA SOCIALE E DI SOLIDARIETA' - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4758000.0,
+   "aggiudicato": 1464000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

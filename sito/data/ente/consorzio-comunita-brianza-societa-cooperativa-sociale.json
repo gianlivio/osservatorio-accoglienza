@@ -1,0 +1,195 @@
+{
+ "nome": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04352990966",
+ "affidamenti": 9,
+ "diretti": 4,
+ "quota_diretti": 44.4,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5C1E6D6FE",
+   "data": "2025-02-21",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20123435.5,
+   "aggiudicato": 20123435.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "89384290F5",
+   "data": "2021-10-15",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO AVENTE AD OGGETTO L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI ",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17323935.0,
+   "aggiudicato": 5849154.71,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8784701498",
+   "data": "2021-06-29",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO AVENTE AD OGGETTO L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI ",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8026618.0,
+   "aggiudicato": 28.96,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8784689AAF",
+   "data": "2021-06-29",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO AVENTE AD OGGETTO L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI ",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4051780.0,
+   "aggiudicato": 2026677.95,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7792271174",
+   "data": "2019-02-08",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNI INSIEME PER LO SVILUPPO SOCIALE AZ.SPEC.CONSORTILE",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 744600.0,
+   "aggiudicato": 666723.81,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "7135321D26",
+   "data": "2017-07-06",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI - CONSORZIO -STRUTTURA VIA SPALLANZANI PERIODO 1 LUGLIO - 31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 430560.0,
+   "aggiudicato": 235766.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "6559520F21",
+   "data": "2016-02-02",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 GIUGNO -31 DICEMBRE 2016",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 14577500.0,
+   "aggiudicato": 14577500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "6280723893",
+   "data": "2015-06-05",
+   "oggetto": "ACCOGLLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 189144.7,
+   "aggiudicato": 189144.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "6240945EB9",
+   "data": "2015-04-30",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CONSORZIO COMUNITA' BRIANZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4996675.8,
+   "aggiudicato": 4996675.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  }
+ ]
+}

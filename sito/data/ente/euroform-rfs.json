@@ -1,0 +1,38 @@
+{
+ "nome": "EUROFORM RFS",
+ "cf": "98030530780",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7731112B70",
+   "data": "2018-12-19",
+   "oggetto": "ACQUISIZIONE DI MODULI FORMATIVI PER DOTARE ASSOCIAZIONI STRANIERE E MEDIATORI LINGUISTICO CULTURALI DI STRUMENTI ATTI AD ATTIVARE PROGETTI DI VOLONTARIATO CON CITTADINI STRANIERI ",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "EUROFORM RFS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 98360.66,
+   "aggiudicato": 83104.922,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

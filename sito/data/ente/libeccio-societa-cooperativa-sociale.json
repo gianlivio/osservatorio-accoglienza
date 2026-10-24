@@ -1,0 +1,38 @@
+{
+ "nome": "LIBECCIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01573390885",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "786189402C",
+   "data": "2019-04-04",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "LIBECCIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 127099.0,
+   "aggiudicato": 127099.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

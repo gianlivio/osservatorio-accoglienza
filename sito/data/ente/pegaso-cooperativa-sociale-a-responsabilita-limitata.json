@@ -1,0 +1,86 @@
+{
+ "nome": "PEGASO COOPERATIVA  SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "08178001007",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B47D7D2AAA",
+   "data": "2024-11-28",
+   "oggetto": "RETTA ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO. IMPEGNO DI SPESA IN FAVORE DI PEGASO COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA - GRUPPO APPARTAMENTO USCITA DI SICUREZZA.,",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "PEGASO COOPERATIVA  SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12000.0,
+   "aggiudicato": 12000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B30D09B80F",
+   "data": "2024-09-17",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI, PERIODO OTTOBRE-DICEMBRE 2024 - PEGASO COOPERATIVA SOCIALE A R.L.",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "PEGASO COOPERATIVA  SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9200.0,
+   "aggiudicato": 9200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B10A5A3200",
+   "data": "2024-03-29",
+   "oggetto": "PROSEGUIMENTO PERIODO DI ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO- PERIODO: APRILE/SETTEMBRE 2024.",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "PEGASO COOPERATIVA  SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18300.0,
+   "aggiudicato": 18300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B0F24CDE5C",
+   "data": "2024-03-25",
+   "oggetto": "PROSEGUIMENTO PERIODO DI ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO - PERIODO: APRILE/SETTEMBRE 2024.",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "PEGASO COOPERATIVA  SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18300.0,
+   "aggiudicato": 18300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "nome": "MAC S.R.L.",
+ "cf": "07640301219",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "95612419AB",
+   "data": "2022-12-22",
+   "oggetto": "II^ CONTRATTO ATTUATIVO DELL'ACCORDO QUADRO AVENTE AD OGGETTO IL SERVIZIO DI VERIFICA AMMINISTRATIVO-CONTABILE DI II LIVELLO DELLE RENDICONTAZIONI DEI PROGETTI SAI (DM 18/11/2019)",
+   "amministrazione": "CITTALIA FONDAZIONE RICERCHE DELL'ANCI",
+   "ente": "MAC S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 117400.0,
+   "aggiudicato": 117400.0,
+   "durata_gg": 223.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9337229D1D",
+   "data": "2022-07-22",
+   "oggetto": "I^ CONTRATTO ATTUATIVO DELL'ACCORDO QUADRO AVENTE AD OGGETTO IL SERVIZIO DI VERIFICA AMMINISTRATIVO-CONTABILE DI II LIVELLO DELLE RENDICONTAZIONI DEI PROGETTI SAI (DM 18/11/2019)",
+   "amministrazione": "CITTALIA FONDAZIONE RICERCHE DELL'ANCI",
+   "ente": "MAC S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": 70.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "92981471A4",
+   "data": "2022-06-27",
+   "oggetto": "SERVIZIO DI VERIFICA AMMINISTRATIVO-CONTABILE DI II LIVELLO DELLE RENDICONTAZIONI DEI PROGETTI SAI (DM 18/11/2019)",
+   "amministrazione": "CITTALIA FONDAZIONE RICERCHE DELL'ANCI",
+   "ente": "MAC S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138800.0,
+   "aggiudicato": 138800.0,
+   "durata_gg": 187.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

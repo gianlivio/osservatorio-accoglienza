@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE MEDITERRANEO",
+ "cf": "95124100249",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9594948193",
+   "data": "2022-04-29",
+   "oggetto": "ACCOGLIENZA MIGRANTI IN UNITA' ABITATIVE ANNO 2023 - CASA SERVIZI",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "ASSOCIAZIONE MEDITERRANEO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2000000.0,
+   "aggiudicato": 2000000.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8934764081",
+   "data": "2021-10-22",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE ACCORDO QUADRO SERVIZIO DI ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHIEDENTE PROTEZIONE INTERNAZIONALE PRESSO UNITA' ABITA",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "ASSOCIAZIONE MEDITERRANEO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17323935.0,
+   "aggiudicato": 17323935.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

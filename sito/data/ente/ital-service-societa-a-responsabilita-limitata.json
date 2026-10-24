@@ -1,0 +1,38 @@
+{
+ "nome": "ITAL SERVICE - SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "03787660715",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "82700293D3",
+   "data": "2020-02-01",
+   "oggetto": "4/19407 - ABITATI DELLA PROVINCIA DI FOGGIA - FORNITURA ACQUA POTABILE SITI PROFUGHI E MIGRANTI",
+   "amministrazione": "ACQUEDOTTO PUGLIESE SPA",
+   "ente": "ITAL SERVICE - SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75655.04,
+   "aggiudicato": 75655.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "NINFEA SOCIETA' COOPERATIVA SOCIALE R.L.",
+ "cf": "01491400089",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B62A057878",
+   "data": "2025-03-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NINFEA SOCIETA' COOPERATIVA SOCIALE R.L.",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 221578.72,
+   "aggiudicato": 221578.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "80162681A0",
+   "data": "2019-09-03",
+   "oggetto": "AVVISO MANIFESTAZIONE DI INTERESSE SERVIZIO DI GESTIONE CENTRI COLLETTIVI DI ACCOLGIENZA CITTADINI STRANIERI - PERIODO PRES. DAL 1^ OTTOBRE 2019",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NINFEA SOCIETA' COOPERATIVA SOCIALE R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 13079800.0,
+   "aggiudicato": 346097.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

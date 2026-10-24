@@ -1,0 +1,54 @@
+{
+ "nome": "ERMES COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "09111831005",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIETI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "72957378A0",
+   "data": "2017-11-22",
+   "oggetto": "ACCORDO QUADRO PER AFFIDAMENTO SERVIZI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA RIETI",
+   "ente": "ERMES COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 488160.0,
+   "aggiudicato": 488160.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RIETI"
+  },
+  {
+   "cig": "7295725EB7",
+   "data": "2017-11-22",
+   "oggetto": "ACCORDO QUADRO PER AFFIDAMENTO SERVIZI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA RIETI",
+   "ente": "ERMES COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 236160.0,
+   "aggiudicato": 236160.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RIETI"
+  }
+ ]
+}

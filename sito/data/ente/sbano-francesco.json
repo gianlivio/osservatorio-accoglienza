@@ -1,0 +1,54 @@
+{
+ "nome": "SBANO FRANCESCO",
+ "cf": "03181930789",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B69979F4B2",
+   "data": "2025-04-24",
+   "oggetto": "NOMINA REVISORE CONTABILE INDIPENDENTE ANNUALITÀ 2024/2025/2026 - PROGETTO SAI CORIGLIANO-ROSSANO PROG 200-PR2 E PROG 200-PR3",
+   "amministrazione": "COMUNE DI CORIGLIANO-ROSSANO",
+   "ente": "SBANO FRANCESCO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13524.59,
+   "aggiudicato": 13524.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "B68E9DE1D1",
+   "data": "2025-04-18",
+   "oggetto": "NOMINA REVISORE CONTABILE INDIPENDENTE ANNUALITÀ 2024 - PROGETTO SAI CORIGLIANO-ROSSANO PROG 200-PR2 E PROG 200- PR3",
+   "amministrazione": "COMUNE DI CORIGLIANO-ROSSANO",
+   "ente": "SBANO FRANCESCO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4508.2,
+   "aggiudicato": 4508.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

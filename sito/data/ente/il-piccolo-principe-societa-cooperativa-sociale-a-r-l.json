@@ -1,0 +1,59 @@
+{
+ "nome": "IL PICCOLO PRINCIPE - SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "01600990905",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9684983CCB",
+   "data": "2023-04-05",
+   "oggetto": "SISTEMA DI PROTEZIONE RICHIEDENTI ASILO E RIFUGIATI (SAI) - AVVIO PROCEDURA NEGOZIATA PER L'INDIVIDUAZIONE DI OPERATORI ECONOMICI DISPONIBILI A GESTIRE IL SERVIZIO PRESSO LA COMUNI",
+   "amministrazione": "COMUNE DI CALANGIANUS",
+   "ente": "IL PICCOLO PRINCIPE - SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 635294.0,
+   "aggiudicato": 635294.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "755435856E",
+   "data": "2018-08-31",
+   "oggetto": "SISTEMA DI PROTEZIONE RICHIEDENTI ASILO E RIFUGIATI (SPRAR) - AVVIO PROCEDURA NEGOZIATA PER L'INDIVIDUAZIONE DI OPERATORI ECONOMICI DISPONIBILI A REALIZZARE E ATTUARE UN PROGETTO D",
+   "amministrazione": "COMUNE DI CALANGIANUS",
+   "ente": "IL PICCOLO PRINCIPE - SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 750000.0,
+   "aggiudicato": 750000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  }
+ ]
+}

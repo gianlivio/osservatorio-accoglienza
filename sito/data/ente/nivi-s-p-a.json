@@ -1,0 +1,58 @@
+{
+ "nome": "NIVI S.P.A.",
+ "cf": "04105740486",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1E90753E0",
+   "data": "2024-05-30",
+   "oggetto": "SERVIZIO DI RECUPERO STRAGIUDIZIALE ALL'ESTERO DEI CREDITI RELATIVI ALLE PRESTAZIONI SANITARIE EROGATE A CITTADINI STRANIERI E CITTADINI ITALIANI RESIDENTI ALL'ESTERO",
+   "amministrazione": "AZIENDA OSPEDALIERO UNIVERSITARIA A. MEYER",
+   "ente": "NIVI S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 143076.63,
+   "aggiudicato": 143076.63,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B114B3C9CD",
+   "data": "2024-04-04",
+   "oggetto": "GESTIONE VERBALI DI VIOLAZIONE AL CODICE DELLA STRADA A CITTADINI STRANIERI",
+   "amministrazione": "COMUNE DI SESTRI LEVANTE",
+   "ente": "NIVI S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  }
+ ]
+}

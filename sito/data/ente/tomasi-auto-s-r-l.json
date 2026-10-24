@@ -1,0 +1,38 @@
+{
+ "nome": "TOMASI AUTO S.R.L.",
+ "cf": "01821270202",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D28A8B6E",
+   "data": "2025-12-30",
+   "oggetto": "ACQUISTO AUTO PER PROGETTO SAI",
+   "amministrazione": "COMUNE DI PIADENA DRIZZONA",
+   "ente": "TOMASI AUTO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20696.72,
+   "aggiudicato": 20696.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

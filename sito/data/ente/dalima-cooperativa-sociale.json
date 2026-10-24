@@ -1,0 +1,59 @@
+{
+ "nome": "DALIMA COOPERATIVA SOCIALE",
+ "cf": "93099740727",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7599784427",
+   "data": "2018-08-28",
+   "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO DELL'AMPLIAMENTO PROGETTO 'SPRAR CAT. ORDINARI', 2017-2019",
+   "amministrazione": "UNIONE DEI COMUNI MONTEDORO",
+   "ente": "DALIMA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1350591.25,
+   "aggiudicato": 630275.92,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6527312C40",
+   "data": "2015-12-21",
+   "oggetto": "SPRAR 2016/2017 AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO COLLABORATORE",
+   "amministrazione": "COMUNE DI TORITTO",
+   "ente": "DALIMA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 300000.0,
+   "aggiudicato": 303106.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

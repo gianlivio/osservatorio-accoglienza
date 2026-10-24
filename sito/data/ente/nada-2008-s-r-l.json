@@ -1,0 +1,38 @@
+{
+ "nome": "NADA 2008 S.R.L.",
+ "cf": "09234221001",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9AFD63260",
+   "data": "2025-12-24",
+   "oggetto": "ACQUISTO BICICLETTE PROGETTO SAI MINORI 552",
+   "amministrazione": "COMUNE DI ANCONA",
+   "ente": "NADA 2008 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14591.32,
+   "aggiudicato": 14591.32,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "nome": "OLINDA SOCIETA' COOPERATIVA ONLUS",
+ "cf": "01875990200",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MANTOVA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8324522F8",
+   "data": "2025-09-11",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE DI UN CENTRO DI ACCOGLIENZA, NELLA PROVINCIA DI MANTOVA PER MINORI STRANIERI NON ACCOMPAGNATI SINO AL 31 DICEMBRE 2025",
+   "amministrazione": "PREFETTURA DI MANTOVA",
+   "ente": "OLINDA SOCIETA' COOPERATIVA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57.14,
+   "aggiudicato": 57.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  },
+  {
+   "cig": "B36E8D84B3",
+   "data": "2024-10-15",
+   "oggetto": "SERVIZIO DI GESTIONE DI UN CENTRO DI ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI MANTOVA",
+   "ente": "OLINDA SOCIETA' COOPERATIVA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19.0,
+   "aggiudicato": 19.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  },
+  {
+   "cig": "71648594B0",
+   "data": "2017-07-28",
+   "oggetto": "PRESA IN CARICO INTEGRATA",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "OLINDA SOCIETA' COOPERATIVA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 672000.0,
+   "aggiudicato": 288000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  },
+  {
+   "cig": "7003845BB9",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - OLINDA",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "OLINDA SOCIETA' COOPERATIVA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 333900.0,
+   "aggiudicato": 333900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "nome": "FILOTEA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01393050883",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0D3150D86",
+   "data": "2024-03-14",
+   "oggetto": "SERVIZIO DI GESTIONE E ATTUAZIONE DEL PROGETTO SAI PER MINORI STRANIERI NON ACCOMPAGNATI N. 1905.",
+   "amministrazione": "COMUNE DI RAGUSA",
+   "ente": "FILOTEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 577343.02,
+   "aggiudicato": 571569.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "846418526D",
+   "data": "2020-10-16",
+   "oggetto": "PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN SOGGETTO 'ENTE ATTUATORE' PER L'AFFIDAMENTO PROGETTO S.P.R.A.R. 'IUVENES' CATEGORIA STRANIERI MINORI NON ACCO",
+   "amministrazione": "PROVINCIA REGIONALE DI RAGUSA",
+   "ente": "FILOTEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1396500.0,
+   "aggiudicato": 958989.38,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7799894426",
+   "data": "2019-02-13",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "FILOTEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 277725.0,
+   "aggiudicato": 277725.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "7031007A84",
+   "data": "2017-04-14",
+   "oggetto": "PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN SOGGETTO 'ENTE ATTUATORE' PER L'AFFIDAMENTO PROGETTO S.P.R.A.R. 'IUVENES' CATEGORIA MINORI STRANIERI NON ACCO",
+   "amministrazione": "PROVINCIA REGIONALE DI RAGUSA",
+   "ente": "FILOTEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 711750.0,
+   "aggiudicato": 711750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

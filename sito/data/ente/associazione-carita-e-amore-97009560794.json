@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE CARITA' E AMORE",
+ "cf": "97009560794",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B523CB4F21",
+   "data": "2025-01-10",
+   "oggetto": "SERVIZI ACCOGLIENZA IMMIGRATI ADULTI LOTTO 2 CARITA' E AMORE",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "ASSOCIAZIONE CARITA' E AMORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 684436.32,
+   "aggiudicato": 684436.32,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

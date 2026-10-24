@@ -1,0 +1,158 @@
+{
+ "nome": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+ "cf": "07919480017",
+ "affidamenti": 7,
+ "diretti": 1,
+ "quota_diretti": 14.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2EB40E473",
+   "data": "2024-09-04",
+   "oggetto": "PROCEDURA NEGOZIATA TELEMATICA EX ART 50, COMMA 1, LETT. E) DEL D.LGS. N. 36/2023 AFFIDAMENTO NEL TERRITORIO DEL COMUNE DI VAL DI CHY DELLE ATTIVITA' DI GESTIONE DEI SERVIZI DI ACC",
+   "amministrazione": "UNIONE COMUNI MONTANI VALCHIUSELLA",
+   "ente": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 730299.1,
+   "aggiudicato": 730299.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B26EE01688",
+   "data": "2024-07-12",
+   "oggetto": "AFFIDAMENTO SERVIZI ACCOGLIENZA, INTEGRAZIONE E TUTELA NELL'AMBITO DEL SISTEMA SAI PER IL PERIODO AGOSTO - DICEMBRE 2024",
+   "amministrazione": "COMUNE DI TRONZANO VERCELLESE",
+   "ente": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "95288553E7",
+   "data": "2022-12-16",
+   "oggetto": "GESTIONE DEL SISTEMA DI ACCOGLIENZA E INTEGRAZIONE - PROGETTO SAI - PERIODO (01/04/2023 - 31/12/2025)",
+   "amministrazione": "COMUNE DI CHIVASSO",
+   "ente": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1326896.09,
+   "aggiudicato": 1122758.23,
+   "durata_gg": 1036.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "853470555E",
+   "data": "2020-11-26",
+   "oggetto": "ORGANIZZAZIONE E GESTIONE PROGETTO SERVIZI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA SIPROIMI PERIL PERIODO 1.1.2021 - 31.12.2023",
+   "amministrazione": "COMUNE DI TRONZANO VERCELLESE",
+   "ente": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 653559.0,
+   "aggiudicato": 653559.42,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "8386375F91",
+   "data": "2020-07-28",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 192888.0,
+   "aggiudicato": 192888.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "76204198B0",
+   "data": "2018-10-05",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PROFUGHI PRESSO LA CASA DELLA LEGALITÀ",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 178000.0,
+   "aggiudicato": 177946.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "70616902F0",
+   "data": "2017-05-16",
+   "oggetto": "INDIVIDUAZIONE DI SOGGETTO PARTNER AD ENTE ATTUATORE PER LA CO-PROGETTAZIONE, L'ORGANIZZAZIONE E LA GESTIONE DI PROGETTO RELATIVO AI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE A TUTELA D",
+   "amministrazione": "COMUNE DI TRONZANO VERCELLESE",
+   "ente": "MARYPOPPINS - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 985000.0,
+   "aggiudicato": 608867.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  }
+ ]
+}

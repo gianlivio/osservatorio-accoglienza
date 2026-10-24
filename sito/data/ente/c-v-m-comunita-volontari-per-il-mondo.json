@@ -1,0 +1,38 @@
+{
+ "nome": "C.V.M. - COMUNITA' VOLONTARI PER IL MONDO",
+ "cf": "00316140433",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "72586771C1",
+   "data": "2017-11-06",
+   "oggetto": "PC COMUNE DI PORTO SAN GIORGIO: INDIVIDUAZIONE PARTNER DEL COMUNE DI PORTO S. GIORGIO PER LA GESTIONE E LA COPROGETTAZIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, TUTELA E INTEGRAZ",
+   "amministrazione": "PROVINCIA DI FERMO",
+   "ente": "C.V.M. - COMUNITA' VOLONTARI PER IL MONDO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 814500.0,
+   "aggiudicato": 814500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  }
+ ]
+}

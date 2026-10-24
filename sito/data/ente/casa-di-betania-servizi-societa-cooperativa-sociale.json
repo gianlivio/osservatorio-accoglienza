@@ -1,0 +1,38 @@
+{
+ "nome": "CASA DI BETANIA SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01370280453",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B71710384D",
+   "data": "2025-05-30",
+   "oggetto": "ACCORDO QUADRO PER L'ACQUISIZIONE DI 50 POSTI DI ACCOGLIENZA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) DI ETA' NON INFERIORE A 14 ANNI IN CENTRI COLLETTIVI - CASA BETANIA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CASA DI BETANIA SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 568624.38,
+   "aggiudicato": 568624.38,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

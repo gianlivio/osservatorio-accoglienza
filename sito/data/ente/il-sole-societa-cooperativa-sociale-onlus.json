@@ -1,0 +1,91 @@
+{
+ "nome": "IL SOLE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "06804681218",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5B5182C73",
+   "data": "2025-02-21",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN REGIME RESIDENZIALE MSNA ANNO 2025",
+   "amministrazione": "COMUNE DI AFRAGOLA",
+   "ente": "SOLE SOCIETÀ COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36120.4,
+   "aggiudicato": 36120.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B173447410",
+   "data": "2024-04-30",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN REGIME RESIDENZIALE MSNA ANNO 2024",
+   "amministrazione": "COMUNE DI AFRAGOLA",
+   "ente": "IL SOLE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31865.12,
+   "aggiudicato": 31865.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B160121C86",
+   "data": "2024-04-24",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN REGIME RESIDENZIALE MSNA ANNO 2024",
+   "amministrazione": "COMUNE DI AFRAGOLA",
+   "ente": "IL SOLE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31865.12,
+   "aggiudicato": 31865.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B0EEB3DDD4",
+   "data": "2024-03-21",
+   "oggetto": "ACCOGLIENZA MINORI FUORI FAMIGLIA",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "COOPERATIVA SOCIALE IL SOLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72167.8,
+   "aggiudicato": 72167.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

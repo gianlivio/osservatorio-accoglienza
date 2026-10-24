@@ -1,0 +1,38 @@
+{
+ "nome": "OPENJOBMETIS SPA AGENZIA PER IL LAVORO",
+ "cf": "13343690155",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7956062F7",
+   "data": "2025-07-10",
+   "oggetto": "SERVIZIO SOMMINISTRAZIONE PRESTAZIONI LAVORATIVE A FAVORE DELLA COMMISSIONE TERRIRORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "OPENJOBMETIS SPA AGENZIA PER IL LAVORO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16017.64,
+   "aggiudicato": 16017.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

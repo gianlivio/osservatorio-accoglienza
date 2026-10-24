@@ -1,0 +1,153 @@
+{
+ "nome": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+ "cf": "04383990407",
+ "affidamenti": 7,
+ "diretti": 5,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B646451416",
+   "data": "2025-04-01",
+   "oggetto": "SERVIZIO DI SPORTELLO IMMIGRATI E PERCORSI D'INTEGRAZIONE NELLE SCUOLE",
+   "amministrazione": "UNIONE DI COMUNI VALMARECCHIA",
+   "ente": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 137322.87,
+   "aggiudicato": 91539.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9751254D5A",
+   "data": "2023-03-31",
+   "oggetto": "AFFIDAMENTO GESTIONE DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI NEL TERRITORIO DELL'UNIONE RUBICONE ",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 70455.0,
+   "aggiudicato": 70455.0,
+   "durata_gg": 183.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "A0173813F3",
+   "data": "2023-03-28",
+   "oggetto": "AFFIDAMENTO GESTIONE DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI NEL TERRITORIO DELL'UNIONE RUBICONE ",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 90585.0,
+   "aggiudicato": 90585.0,
+   "durata_gg": 183.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9680954FF4",
+   "data": "2023-03-06",
+   "oggetto": "AFFIDAMENTO, COME ENTE PROMOTORE, DEL SERVIZIO DI MEDIAZIONE LINGUISTICO CULTURALE RIVOLTO AD UTENTI PROGETTO SAI",
+   "amministrazione": "AZIENDA PUBBLICA DI SERVIZI ALLA PERSONA DEL DISTRETTO CESENA VALLE SAVIO",
+   "ente": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60000.0,
+   "aggiudicato": 59625.0,
+   "durata_gg": 1014.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "91657231E6",
+   "data": "2022-03-31",
+   "oggetto": "GESTIONE DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI NEL TERRITORIO DELL`UNIONE RUBICONE E MARE (FC)",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135877.5,
+   "aggiudicato": 135877.5,
+   "durata_gg": 183.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "787952126E",
+   "data": "2019-04-19",
+   "oggetto": "PROCEDURA NEGOZIATA PER LA GESTIONE DEI SERVIZI 'SPORTELLO IMMIGRATI' E 'MEDIAZIONE CULTURALE E LINGUISTICA NELLE SCUOLE' TRIENNIO 2019/2022 CON OPZIONE RINNOVO TRIENNIO SUCCESSIVO",
+   "amministrazione": "CENTRALE UNICA COMMITTENZA DISTRETTO RIMINI",
+   "ente": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 95893.0,
+   "aggiudicato": 95893.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7829824F27",
+   "data": "2019-03-13",
+   "oggetto": "PROCEDURA NEGOZIATA PER LA GESTIONE DEI SERVIZI 'SPORTELLO IMMIGRATI' E 'MEDIAZIONE CULTURALE E LINGUISTICA NELLE SCUOLE' TRIENNIO 2019/2022 CON OPZIONE RINNOVO TRIENNIO SUCCESSIVO",
+   "amministrazione": "CENTRALE UNICA COMMITTENZA DISTRETTO RIMINI",
+   "ente": "BETWEEN SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 95893.0,
+   "aggiudicato": 36840.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RIMINI"
+  }
+ ]
+}

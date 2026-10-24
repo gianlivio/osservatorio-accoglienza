@@ -1,0 +1,38 @@
+{
+ "nome": "GAY CENTER",
+ "cf": "97461360584",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E87789E4",
+   "data": "2025-04-07",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MSNA",
+   "amministrazione": "COMUNE DI SETTIMO SAN PIETRO",
+   "ente": "GAY CENTER",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6600.0,
+   "aggiudicato": 6600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

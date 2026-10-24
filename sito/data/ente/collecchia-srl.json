@@ -1,0 +1,123 @@
+{
+ "nome": "COLLECCHIA SRL",
+ "cf": "01355070457",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 5,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73361438B6",
+   "data": "2017-12-21",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI COLLECCHIA SRL GENNAIO FEBBRAIO 2018",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COLLECCHIA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 58105.33,
+   "aggiudicato": 58105.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "72610117D3",
+   "data": "2017-10-30",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI COLLECCHIA NOVEMBRE DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COLLECCHIA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60075.0,
+   "aggiudicato": 60075.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7187354825",
+   "data": "2017-07-31",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI COLLECCHIA DI FIVIZZANO AGOSTO SETTEMBRE",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COLLECCHIA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60150.0,
+   "aggiudicato": 60150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "712046271F",
+   "data": "2017-06-08",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI GIUGNO LUGLIO 2017 COLLECCHIA SRL",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COLLECCHIA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 50150.0,
+   "aggiudicato": 50150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7002788378",
+   "data": "2017-02-28",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI MARZO MAGGIO 2017 DITTA COLLECCHIA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COLLECCHIA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 70380.0,
+   "aggiudicato": 70380.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6905800E6D",
+   "data": "2016-11-14",
+   "oggetto": "COLLECCHIA SRL DI FIVIZZANO ACCOGLIENZA MIGRANTI 15 NOVEMBRE 31 DICEMBRE 2016 PROROGABILE GENN FEBBR 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COLLECCHIA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 65433.6,
+   "aggiudicato": 65433.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

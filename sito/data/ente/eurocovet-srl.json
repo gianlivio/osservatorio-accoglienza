@@ -1,0 +1,78 @@
+{
+ "nome": "EUROCOVET SRL",
+ "cf": "03248810263",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7318644017",
+   "data": "2017-11-29",
+   "oggetto": "SERVIZIO DI TRASPORTO CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ANNO 2018",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "EUROCOVET SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 72000.0,
+   "aggiudicato": 72000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "7002017737",
+   "data": "2017-03-06",
+   "oggetto": "SERVIZIO TRASPORTO CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VENEZIA",
+   "ente": "EUROCOVET SRL",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 75000.0,
+   "aggiudicato": 1160.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "700057406C",
+   "data": "2017-03-03",
+   "oggetto": "SERVIZIO DI TRASPORTO CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "EUROCOVET SRL",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 80000.0,
+   "aggiudicato": 80000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "nome": "AURORA - SPES - SOCIETA' COOPERATIVA",
+ "cf": "03909090718",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B670D7C231",
+   "data": "2025-04-11",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO GENNAIO-MARZO 2025. SOC. COOP. AURORA SPES",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "AURORA - SPES - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15720.0,
+   "aggiudicato": 15720.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B570755E28",
+   "data": "2025-02-03",
+   "oggetto": "ACCOGLIENZA MINORI MSNA OTTOBRE-DICEMBRE 2024. AURORA SPES COOPERATIVA SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "AURORA - SPES - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21910.0,
+   "aggiudicato": 21910.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B41A58B115",
+   "data": "2024-11-05",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO LUGLIO-AGOSTO 2024. AURORA SPES SOC. COOP.",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "AURORA - SPES - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 35160.0,
+   "aggiudicato": 35160.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

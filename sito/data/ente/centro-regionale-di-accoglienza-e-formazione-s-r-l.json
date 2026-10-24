@@ -1,0 +1,59 @@
+{
+ "nome": "CENTRO REGIONALE DI ACCOGLIENZA E FORMAZIONE S.R.L.",
+ "cf": "08582151216",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7387C9768",
+   "data": "2025-06-11",
+   "oggetto": "GARA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PIÙ OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CENTRO REGIONALE DI ACCOGLIENZA E FORMAZIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3987208.23,
+   "aggiudicato": 3987208.23,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "926185113C",
+   "data": "2022-06-10",
+   "oggetto": "PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA MIGRANTI CON CAPACITÀ RICETTIVA DA 5",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CENTRO REGIONALE DI ACCOGLIENZA E FORMAZIONE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 40133090.0,
+   "aggiudicato": 15385833.12,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "nome": "LA REVISIONE S.R.L.",
+ "cf": "05651160870",
+ "affidamenti": 7,
+ "diretti": 6,
+ "quota_diretti": 85.7,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CALTANISSETTA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VIBO VALENTIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B860399819",
+   "data": "2025-09-25",
+   "oggetto": "CONFERIMENTO DI UN INCARICO DI REVISORE CONTABILE INDIPENDENTE PER IL PROGETTO SAI SISTEMA DI ACCOGLIENZA E INTEGRAZIONE DEL COMUNE DI MILETO PER IL BIENNIO 2025-2026",
+   "amministrazione": "COMUNE DI MILETO",
+   "ente": "LA REVISIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8196.72,
+   "aggiudicato": 8196.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VIBO VALENTIA"
+  },
+  {
+   "cig": "B532FD2F8D",
+   "data": "2025-01-16",
+   "oggetto": "INCARICO BIENNALE COME REVISORE INDIPENDENTE PER PROG.N.1661 MSNA NISCEMI.ANNI 2025-2026 BIENNALE",
+   "amministrazione": "COMUNE DI NISCEMI",
+   "ente": "LA REVISIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8196.72,
+   "aggiudicato": 8196.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "B465B85522",
+   "data": "2024-11-26",
+   "oggetto": "SERVIZIO DI VERIFICA E CERTIFICAZIONE DELLE SPESE SOSTENUTE NELL'AMBITO DEL PROGETTO SAI (IN PRECEDENZA SPRAR – SIPROIMI) - DI CUI AL D.M. 18.11.2019- TRIENNIO 2024-2026",
+   "amministrazione": "COMUNE DI BOVINO",
+   "ente": "LA REVISIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12295.08,
+   "aggiudicato": 12295.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "B282485568",
+   "data": "2024-07-19",
+   "oggetto": "INCARICO REVISORE CONTABILE INDIPENDENTE PROGETTO SAI N. 993 ORD PR-2",
+   "amministrazione": "COMUNE DI CAPENA",
+   "ente": "LA REVISIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9836.06,
+   "aggiudicato": 9836.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B28219265C",
+   "data": "2024-07-19",
+   "oggetto": "INCARICO REVISORE CONTABILE INDIPENDENTE PROGETTO SAI N. 993 ORD PR-2",
+   "amministrazione": "COMUNE DI CAPENA",
+   "ente": "LA REVISIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9836.06,
+   "aggiudicato": 9836.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B00586320A",
+   "data": "2024-01-17",
+   "oggetto": "AFFIDAMENTO REVISORE CONTABILE INDIPENDENTE PROGETTO SAI 2023/2025",
+   "amministrazione": "COMUNE DI SANTA MARIA CAPUA VETERE",
+   "ente": "LA REVISIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14754.1,
+   "aggiudicato": 14754.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "A00F19F52E",
+   "data": "2023-06-26",
+   "oggetto": "INCARICO REVISORE CONTABILE PROGETTO SAI BRONTE 2023/2025",
+   "amministrazione": "COMUNE DI BRONTE",
+   "ente": "LA REVISIONE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 42132.89,
+   "aggiudicato": 42132.89,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  }
+ ]
+}

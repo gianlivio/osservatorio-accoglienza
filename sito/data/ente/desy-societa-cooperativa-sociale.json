@@ -1,0 +1,292 @@
+{
+ "nome": "DESY SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04516280650",
+ "affidamenti": 14,
+ "diretti": 7,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2023": {
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SIENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B638BDC3D5",
+   "data": "2025-03-26",
+   "oggetto": "OPERATORI ECONOMICI VOLTO AD ASSICURARE I SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO STRUTTURE COSTITUITE DA ",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5222205.0,
+   "aggiudicato": 5222205.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "B281739C54",
+   "data": "2024-07-19",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI UN CENTRO DI ACCOGLIENZA UBICATO NEL TERRITORIO DEL COMUNE DI SIENA, PER UN TOTALE DI 24 POSTI DI ACCOGLIENZA DESTINATI A CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 361262.4,
+   "aggiudicato": 351714.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "A042E5EC51",
+   "data": "2023-12-22",
+   "oggetto": "SOCIETA' COOPERATIVA 'DESY' CAS DI MONTORO-AFFIDAMENTO SERVIZIO DI PRIMA ACCOGLIENZA RICHIEDENTI ASILO PR4OVINCIA DI AVELLINO 01.10.2023-31.12.2023",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 119309.47,
+   "aggiudicato": 119309.47,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "A00F49CC78",
+   "data": "2023-05-16",
+   "oggetto": "AFFIDAMENTO URGENTE SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (DESY)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 83768.74,
+   "aggiudicato": 83768.74,
+   "durata_gg": 123.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "98974924C7",
+   "data": "2023-05-16",
+   "oggetto": "AFFIDAMENTO URGENTE SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SINO A SETTEMBRE 2023",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62663.04,
+   "aggiudicato": 62663.04,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9762404E9F",
+   "data": "2023-03-17",
+   "oggetto": "CONVENZIONE PER LA GESTIONE DEL SERVIZIO DL ACCOGLIENZA E GESTIONE DEI SERVIZI CONNESSI IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA), DI ETA' NON INFERIORE A QUATTORDICI A",
+   "amministrazione": "PREFETTURA",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 259200.0,
+   "aggiudicato": 259200.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "9730041BD5",
+   "data": "2023-03-15",
+   "oggetto": "AFFIDAMENTO URGENTE SINO AL 30 GIUGNO 2023 SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45984.0,
+   "aggiudicato": 59489.83,
+   "durata_gg": 80.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "8848498B89",
+   "data": "2021-07-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 717905.0,
+   "aggiudicato": 183960.0,
+   "durata_gg": 670.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "872957947B",
+   "data": "2021-05-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI IN UNITA ABITATIVE PERIODO 1 AGOSTO 2021 - 31 LUGLIO 2023",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8916967.5,
+   "aggiudicato": 411988.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8452256E4A",
+   "data": "2020-10-21",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) COOPERATIVA DESY",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 202767.72,
+   "aggiudicato": 202767.72,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "83636259AE",
+   "data": "2020-07-01",
+   "oggetto": "PROROGA AFFIDAMENTO RICHIEDENTI ASILO GESTORE SOC. COOP. DESY DI CASTEL SAN GIORGIO (SA) - DALL",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 207368.0,
+   "aggiudicato": 207368.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8156054CAB",
+   "data": "2019-12-23",
+   "oggetto": "PROROGA AFFIDAMENTO RICHIEDENTI ASILO GESTORE SOC. COOP. DESY DI CASTEL SAN GIORGIO (SA) - DALL'1.1.2020 AL 30.6.2020",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 205114.0,
+   "aggiudicato": 205114.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7952843DA5",
+   "data": "2019-07-01",
+   "oggetto": "PROROGA AFFIDAMENTO ACCOGLIENZA RICHIEDENTI ASILO GESTORE COOP. DESY PERIODO 01.07 - 31.12.2019",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 207368.0,
+   "aggiudicato": 207368.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6256658583",
+   "data": "2015-05-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI MIGRANTI RICHIEDENTI ASILO - PERIODO GENNAIO/MARZO 2015 - COOP. DESY",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "DESY SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 97110.0,
+   "aggiudicato": 97110.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

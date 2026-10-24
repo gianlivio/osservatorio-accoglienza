@@ -1,0 +1,59 @@
+{
+ "nome": "FONDAZIONE DOMENICO ED ANTONIA SINISCALCO-CECI -ENTE MORALE-",
+ "cf": "00167090711",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9655607AF4",
+   "data": "2023-02-13",
+   "oggetto": "ADESIONE AD AQ CIG 9406030581 ACCOGLIENZA IMMIGRATI DA 20 A 50 SINISCALCO 32 POSTI",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE DOMENICO ED ANTONIA SINISCALCO-CECI -ENTE MORALE-",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 763840.0,
+   "aggiudicato": 763840.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "704548889E",
+   "data": "2017-04-13",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTAD. EXTRACOM. RICHIEDENTI ASILO PRESSO PROVINCIA FOGGIA. ANNO 2017 E EVENTUALE OPZIONE PROROGA",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE DOMENICO ED ANTONIA SINISCALCO-CECI -ENTE MORALE-",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 24360000.0,
+   "aggiudicato": 24360000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

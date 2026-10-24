@@ -1,0 +1,38 @@
+{
+ "nome": "CASCINASSA SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "94037800029",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B78B849781",
+   "data": "2025-07-08",
+   "oggetto": "PROCEDURA APERTA, AI SENSI DEGLI ARTT 70 E 71 DEL DECRETO LEGISLATIVO N. 362023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE E FUNZIONAMENTO DE",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "CASCINASSA SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9628335.0,
+   "aggiudicato": 5349075.0,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  }
+ ]
+}

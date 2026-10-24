@@ -1,0 +1,175 @@
+{
+ "nome": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+ "cf": "92057610096",
+ "affidamenti": 8,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D11A6ED8",
+   "data": "2025-12-30",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEL PROGETTO SISTEMA ACCOGLIENZA ED INTEGRAZIONE - SAI (EX SIPROIMI) - ACCOGLIENZA DI CARATTERE ORDINARIO - PROSECUZIONE TRIENNIO 2026-2028",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI SAVONA",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2555911.35,
+   "aggiudicato": 2555911.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "9507115F79",
+   "data": "2022-12-07",
+   "oggetto": "APPALTO 2094 - SERVIZIO DI GESTIONE DEL PROGETTO SISTEMA DI ACCOGLIENZA E INTEGRAZIONE - SAI (EX SIPROIMI) - ACCOGLIENZA DI CARATTERE ORDINARIO - PROSECUZIONE TRIENNIO 2023 - 2025",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI SAVONA",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2566410.0,
+   "aggiudicato": 2566410.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "852526680E",
+   "data": "2020-11-24",
+   "oggetto": "LOTTO 1 SERVIZIO DI ACCOGLIENZA INTEGRATA DI N. 10 CITTADINI EXTRACOMUNITARI TITOLARI DI PROTEZIONE INTERNAZIONALE ED UMANITARIA (PROGETTO SIPROMI ORDINARIO)",
+   "amministrazione": "COMUNE DI SAVONA",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 378761.28,
+   "aggiudicato": 399521.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "8477906D57",
+   "data": "2020-11-18",
+   "oggetto": "ID 57-2020 PROCEDURA TELEMATICA APERTA SOPRA SOGLIA COMUNITARIA PER AFFIDAMENTO SIPROIMI ADULTI/ORDINARI PROGETTO RESETTLEMENT - COMUNE DI CELLE LIGURE.",
+   "amministrazione": "ASSOCIAZIONE CONSORTILE (EX ART. 30 TUEL) TRA I COMUNI DI ALBISOLA SUPERIORE (ENTE CAPOFILA), ALBISSOLA MARINA E CELLE LIGURE",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 829099.0,
+   "aggiudicato": 710656.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "76060929AC",
+   "data": "2018-08-29",
+   "oggetto": "SERVIZIO DI COPROGETTAZIONE E GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'INTEGRAZIONE A FAVORE DI RICHIEDENTI ASILO E RIFUGIATI - SPRAR (D.M. 10 AGOSTO 2016, AR",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI SAVONA",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 593929.0,
+   "aggiudicato": 475143.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "7282713CE0",
+   "data": "2017-11-20",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO COLLABORATORE PER LA PROSECUZIONE DEGLI INTERVENTI DI ACCOGLIENZA INTEGRATA SPRAR PER IL TRIENNIO 2018/2020",
+   "amministrazione": "COMUNE DI SAVONA",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 382500.0,
+   "aggiudicato": 363336.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "704674451B",
+   "data": "2017-04-28",
+   "oggetto": "APPALTO PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA COPROGETTAZIONE E GESTIONE DI AZIONI DI SISTEMA DEL PROGETTO SPRAR CATEGORIA ORDINARIA (ADULTI) NEL TRIENNIO 20",
+   "amministrazione": "ASSOCIAZIONE CONSORTILE (EX ART. 30 TUEL) TRA I COMUNI DI ALBISOLA SUPERIORE (ENTE CAPOFILA), ALBISSOLA MARINA E CELLE LIGURE",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 693500.0,
+   "aggiudicato": 693500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "6518931809",
+   "data": "2015-12-15",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO COLLABORATORE PER LA PREDISPOSIZIONE, L'ORGANIZZAZIONE E LA GESTIONE DI UN PROGETTO RELATIVO AI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI ",
+   "amministrazione": "COMUNE DI SAVONA",
+   "ente": "FONDAZIONE DIOCESANA COMUNITA' SERVIZI ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 255500.0,
+   "aggiudicato": 202253.42,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

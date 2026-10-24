@@ -1,0 +1,194 @@
+{
+ "nome": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "96070180763",
+ "affidamenti": 9,
+ "diretti": 6,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "MATERA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7C6691FD6",
+   "data": "2025-07-28",
+   "oggetto": "AFFIDAMENTO DIRETTO DEI SERVIZI DI ACCOGLIENZA ALLA FILEF BASILICATA COOP. SOC. DEI SERIVIZI DI ACCOGLIENZA DI N. 44 MIGRANTI RICHIEDENTI ASILO PRESSO LE PROPRIE UNITA' ABITATIVE N",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 88714.56,
+   "aggiudicato": 88714.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B605F7054E",
+   "data": "2025-03-14",
+   "oggetto": "CENTRI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11045894.4,
+   "aggiudicato": 521192.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "9817308AD7",
+   "data": "2023-05-26",
+   "oggetto": "ACCORDO QUADRO PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE CENTRI COLLETTIVI - FABBISOGNO 500 POSTI",
+   "amministrazione": "PREFETTURA DI MATERA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 20768900.0,
+   "aggiudicato": 11273807.56,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MATERA"
+  },
+  {
+   "cig": "92109658C5",
+   "data": "2022-04-27",
+   "oggetto": "AFFIDAMENTO FILEF BASILICATA N.168 MIGRANTI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3305148.0,
+   "aggiudicato": 3305148.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "A06CE584AC",
+   "data": "2021-05-14",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRAZIONE MINORI STRANIERI NON ACCOMPAGNATI(S.I.P.R.O.I.M.I) 2021/2022",
+   "amministrazione": "COMUNE DI PIETRAGALLA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 646711.78,
+   "aggiudicato": 646711.78,
+   "durata_gg": 90.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "A06CE238EE",
+   "data": "2021-03-10",
+   "oggetto": "PROCEDURA APERTA PER SERVIZIO DI ACCOGLIENZA INTEGRAZIONE MINORI STRANIERI NON ACCOMPAGNATI (S.I.P.R.O.I.M.I) 2021/2022",
+   "amministrazione": "COMUNE DI PIETRAGALLA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 646711.78,
+   "aggiudicato": 646711.78,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "92254981CA",
+   "data": "2021-02-09",
+   "oggetto": "COPROGETTAZIONE E GESTIONE SAI MSNA FONDI FAMI- FINANZIAMENTO D.M. 23420 DEL 10/08/2021",
+   "amministrazione": "COMUNE DI PESCOPAGANO",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 348820.0,
+   "aggiudicato": 348820.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "8129338DED",
+   "data": "2019-11-17",
+   "oggetto": "AFFIDAMENTO ALLA SOC. COOP. SOC- FILEF BASILICATA DI N. 99 MIGRANTI DAL 1^ DICEMBRE 2019 PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 786658.95,
+   "aggiudicato": 786658.95,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "8069737DA0",
+   "data": "2019-09-06",
+   "oggetto": "AFFIDAMENTO ALLA COOPERATIVA FILEF BASILICATA DI N. 86 MIGRANTI PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "FILEF BASILICATA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 622149.8,
+   "aggiudicato": 622149.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

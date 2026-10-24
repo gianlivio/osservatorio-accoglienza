@@ -1,0 +1,59 @@
+{
+ "nome": "PROCIV ARCI ISOLA CAPO RIZZUTO",
+ "cf": "91020820790",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5A0D271D0",
+   "data": "2025-02-14",
+   "oggetto": "INDIVIDUAZIONE DI UN ENTE ATTUATORE PER L'ESPLETAMENTO DEI SERVIZI DI ACCOGLIENZA INTEGRATA PER N. 25 SOGGETTI NELL'AMBITO DEL FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASI",
+   "amministrazione": "COMUNE DI ISOLA CAPO RIZZUTO",
+   "ente": "PROCIV ARCI ISOLA CAPO RIZZUTO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 633829.91,
+   "aggiudicato": 633829.91,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  },
+  {
+   "cig": "8509541760",
+   "data": "2020-11-18",
+   "oggetto": "L'INDIVIDUAZIONE DI UN ENTE ATTUATORE PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA A FAVORE DI N. 70 TITOLARI DI PROTEZIONE INTERNAZIONALE CATEGORIA ORDINARIA NELL'AMBITO DEL SISTE",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI CROTONE",
+   "ente": "PROCIV ARCI ISOLA CAPO RIZZUTO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2012268.07,
+   "aggiudicato": 1857762.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

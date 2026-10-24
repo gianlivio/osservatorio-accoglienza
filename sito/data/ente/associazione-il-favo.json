@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE IL FAVO",
+ "cf": "91008930876",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6764723A02",
+   "data": "2016-07-25",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO L'ASSOCIAZIONE IL FAVO DI CALTAGIRONE GENNAIO -DICEMBRE2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "ASSOCIAZIONE IL FAVO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 84100.0,
+   "aggiudicato": 84100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

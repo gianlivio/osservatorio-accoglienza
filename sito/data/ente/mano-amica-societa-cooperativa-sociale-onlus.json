@@ -1,0 +1,59 @@
+{
+ "nome": "MANO AMICA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "01372590248",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9599240770",
+   "data": "2023-01-13",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DEI PROFUGHI PROVENIENTI DALL'UCRAINA",
+   "amministrazione": "COMUNE DI SCHIO",
+   "ente": "MANO AMICA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 65000.0,
+   "aggiudicato": 64584.8,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "92914803DB",
+   "data": "2022-06-23",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DEI PROFUGHI PROVENIENTI DALL'UCRAINA",
+   "amministrazione": "COMUNE DI SCHIO",
+   "ente": "MANO AMICA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 54000.0,
+   "aggiudicato": 35549.68,
+   "durata_gg": 274.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  }
+ ]
+}

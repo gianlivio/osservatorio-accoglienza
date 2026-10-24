@@ -1,0 +1,165 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+ "cf": "07789840019",
+ "affidamenti": 8,
+ "diretti": 2,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B850D2DD87",
+   "data": "2025-09-19",
+   "oggetto": "PROCEDURA NEGOZIATA G00858 - SERVIZIO DI ACCOGLIENZA RESIDENZIALE SUPPORTATA A VALENZA SOCIOSANITARIA PER 10 MIGRANTI, DESTINATARI DELLE PRESTAZIONI DEL PROGETTO PROGETTO 993 LGNET",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 423808.0,
+   "aggiudicato": 272427.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B850D2DD87",
+   "data": "2025-09-19",
+   "oggetto": "PROCEDURA NEGOZIATA G00858 - SERVIZIO DI ACCOGLIENZA RESIDENZIALE SUPPORTATA A VALENZA SOCIOSANITARIA PER 10 MIGRANTI, DESTINATARI DELLE PRESTAZIONI DEL PROGETTO PROGETTO 993 LGNET",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 423808.0,
+   "aggiudicato": 272427.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B64AA11353",
+   "data": "2025-05-07",
+   "oggetto": "PA N. 10/2025 - LOTTO 5 - ACCOGLIENZA ED ACCOMPAGNAMENTO ALL'INCLUSIONE SOCIALE RIVOLTI A 8 PERSONE VITTIME DI TRATTA DESTINATARIE DELLE PRESTAZIONI DEL PROGETTO L'ANELLO FORTE 5 -",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 380419.2,
+   "aggiudicato": 182839.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7144086E41",
+   "data": "2017-09-01",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER RIFUGIATI E/O RICHIEDENTI PROTEZIONE INTERNAZIONALE O UMANITARIA",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3837894.75,
+   "aggiudicato": 3577722.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "70703372AB",
+   "data": "2017-05-25",
+   "oggetto": "ACCOGLIENZA RESIDENZIALE PER RIFUGIATI",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 40000.0,
+   "aggiudicato": 39830.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "66382010C3",
+   "data": "2016-06-24",
+   "oggetto": "ACCOGLIENZA INTEGRATA PER RICHIEDENTI ASILO E TITOLARI DI PROTEZUIONE UMANITARIA",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 42282.0,
+   "aggiudicato": 42282.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "647831282D",
+   "data": "2015-11-26",
+   "oggetto": "PROGETTO 'HOPELAND'. SERVIZIO SOSTEGNO PER RICHIEDENTI ASILO E RIFUGIATI. FONDO EROGAZIONE INTERVENTI ECONOMICI.",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 160000.0,
+   "aggiudicato": 160000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "637290820D",
+   "data": "2015-08-18",
+   "oggetto": "PROGETTO 'HOPELAND'. SERVIZIO SOSTEGNO PER RICHIEDENTI ASILO E RIFUGIATI. FONDO EROGAZIONE INTERVENTI ECONOMICI.",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 200000.0,
+   "aggiudicato": 200000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

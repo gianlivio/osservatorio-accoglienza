@@ -1,0 +1,33 @@
+{
+ "nome": "CEAS CENTRO AMBROSIANO DI SOLIDARIETA' ONLUS",
+ "cf": "11420250158",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8589588042",
+   "data": "2019-12-03",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CEAS CENTRO AMBROSIANO DI SOLIDARIETA' ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 366861.04,
+   "aggiudicato": 366861.04,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

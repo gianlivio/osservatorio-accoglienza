@@ -1,0 +1,144 @@
+{
+ "nome": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+ "cf": "00752930354",
+ "affidamenti": 7,
+ "diretti": 3,
+ "quota_diretti": 42.9,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B954EEAD8C",
+   "data": "2025-12-01",
+   "oggetto": "CONTRATTO ATTUATIVO DEL SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE OSPITATI PRESSO STRUTTURE COSTITUITE DA SINGOLE U",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48727500.0,
+   "aggiudicato": 48727500.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B89EEC0BEF",
+   "data": "2025-10-15",
+   "oggetto": "SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 168176625.0,
+   "aggiudicato": 48678772.5,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B69D015C81",
+   "data": "2025-04-28",
+   "oggetto": "SERVIZIO ASSISTENZA E ACCOGLIENZA MIGRANTI PROROGA 3 MESI",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 4235220.0,
+   "aggiudicato": 4235220.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B52EF503C8",
+   "data": "2025-01-28",
+   "oggetto": "SERVIZIO ASSISTENZA E ACCOGLIENZA MIGRANTI PROROGA 3 MESI",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 4143150.0,
+   "aggiudicato": 4143150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B3959D6739",
+   "data": "2024-10-18",
+   "oggetto": "RINNOVO E ACCORDO INTEGRATIVO DEL CONTRATTO PER LA GESTIONE DI SERVIZI RIVOLTI ALL'INTEGRAZIONE DEI CITTADINI STRANIERI DEL COMUNE DI FABBRICO: SPORTELLO IMMIGRATI E COORDINAMENTO ",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25917.39,
+   "aggiudicato": 25917.39,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "A03D8EDA26",
+   "data": "2024-01-17",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI DI ACCOGLIENZA STRAORDINARIA, DI C",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16848810.0,
+   "aggiudicato": 34.1,
+   "durata_gg": 366.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "936240877D",
+   "data": "2022-08-22",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI IN SINGOLE UNITÀ ABITATIVE DALL'1/1/2023 AL 31/12/2024",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "CONSORZIO SOLIDARIETA' SOCIALE OSCAR ROMERO. CONSORZIO COOPERATI VE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 37351800.0,
+   "aggiudicato": 27382300.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

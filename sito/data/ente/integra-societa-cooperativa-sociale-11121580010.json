@@ -1,0 +1,38 @@
+{
+ "nome": "INTEGRA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "11121580010",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "994504813C",
+   "data": "2023-07-09",
+   "oggetto": "GESTIONE SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI ASILO IN RIVAROLO CANAVESE",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "INTEGRA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 132615.0,
+   "aggiudicato": 132615.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

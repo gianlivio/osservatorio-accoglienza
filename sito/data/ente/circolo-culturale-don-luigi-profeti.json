@@ -1,0 +1,38 @@
+{
+ "nome": "CIRCOLO CULTURALE DON LUIGI PROFETI",
+ "cf": "92008640523",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6316152D81",
+   "data": "2015-07-01",
+   "oggetto": "ASSISTENZA IMMIGRATI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "CIRCOLO CULTURALE DON LUIGI PROFETI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73440.0,
+   "aggiudicato": 73440.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "IMAGNA BUS S.R.L.",
+ "cf": "03107540167",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B872230876",
+   "data": "2025-10-01",
+   "oggetto": "SERVIZIO DI TRASPORTO SCOLASTICOMATTUTINO PER MSNA ALLE SCUOLE PRIMARIE DI SANT'OMOBONO TERME NELL'AMBITO DELLE ATTIVITA DI ACCOGLIENZA ANNI SCOLASTICI2025/2026 E 2024/2025",
+   "amministrazione": "COMUNE DI BEDULITA",
+   "ente": "IMAGNA BUS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29216.0,
+   "aggiudicato": 29216.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

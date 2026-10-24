@@ -1,0 +1,59 @@
+{
+ "nome": "CIES ONLUS CENTRO INFORMAZIONE EDUCAZIONE ALLO SVILUPPO",
+ "cf": "04028791004",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8649676271",
+   "data": "2021-02-26",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE/SEZIONE DI BARI",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "CIES ONLUS CENTRO INFORMAZIONE EDUCAZIONE ALLO SVILUPPO",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 440000.0,
+   "aggiudicato": 433840.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "7298370573",
+   "data": "2017-11-30",
+   "oggetto": "INTERPRETARIATO RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "CIES ONLUS CENTRO INFORMAZIONE EDUCAZIONE ALLO SVILUPPO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 304062.0,
+   "aggiudicato": 69628.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

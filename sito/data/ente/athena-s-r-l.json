@@ -1,0 +1,38 @@
+{
+ "nome": "ATHENA S.R.L.",
+ "cf": "03389500541",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B68D9D77E8",
+   "data": "2025-04-18",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA EX ART. 50, COMMA 1, LETT. B), ART. 11 D.LGS. 142/2015 DEL",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "ATHENA S.R.L.",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 339206.0,
+   "aggiudicato": 339206.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

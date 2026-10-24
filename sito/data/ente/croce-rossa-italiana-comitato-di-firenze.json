@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO DI FIRENZE",
+ "cf": "94233670481",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B17E5DBED4",
+   "data": "2024-05-03",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "CROCE ROSSA ITALIANA COMITATO DI FIRENZE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 312120.0,
+   "aggiudicato": 312120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

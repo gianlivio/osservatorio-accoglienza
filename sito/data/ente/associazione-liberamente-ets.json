@@ -1,0 +1,107 @@
+{
+ "nome": "ASSOCIAZIONE LIBERAMENTE ETS",
+ "cf": "97037370786",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7F6B0637D",
+   "data": "2025-08-13",
+   "oggetto": "PROGETTO AMPLIAMENTO DELLA CAPACITÀ DI ACCOGLIENZA DELLA RETE SAI PROG-254-PR-3 CATEGORIA ORDINARI - POSTI 20 – DEL COMUNE DI SAN GIORGIO ALBANESE DA REALIZZARSI SUL TERRITORIO DEL",
+   "amministrazione": "COMUNE DI SAN GIORGIO ALBANESE",
+   "ente": "ASSOCIAZIONE LIBERAMENTE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 99955.51,
+   "aggiudicato": 99955.51,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "B7AA48C1AE",
+   "data": "2025-07-17",
+   "oggetto": "AFFIDAMENTO DIRETTO PER L'ATTUAZIONE DEGLI INTERVENTI PREVISTI DAL PROGETTO AMPLIAMENTO DELLA CAPACITÀ DI ACCOGLIENZA DELLA RETE SAI PROG 1023-PR 2 CATEGORIA ORDINARI- POSTI 20 DEL",
+   "amministrazione": "COMUNE DI SAN COSMO ALBANESE",
+   "ente": "ASSOCIAZIONE LIBERAMENTE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138904.11,
+   "aggiudicato": 138904.11,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "B7A14B80DB",
+   "data": "2025-07-15",
+   "oggetto": "GESTIONE N.10 UTENTI AGGIUNTIVI PROGETTO SAI",
+   "amministrazione": "COMUNE DI ACRI",
+   "ente": "ASSOCIAZIONE LIBERAMENTE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72811.67,
+   "aggiudicato": 72811.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "B5CEE3B360",
+   "data": "2025-02-27",
+   "oggetto": "PROCEDURA PER L'INDIVIDUAZIONE DI UN SOGGETTO GESTORE DEI SERVIZI DI ACCOGLIENZA ED INTEGRAZIONE, NELL'AMBITO DEL PROGETTO SAI - CAT. ORDINARI IN PROSECUZIONE PER IL TRIENNIO 2025/",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA ARBERIA",
+   "ente": "ASSOCIAZIONE LIBERAMENTE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 777500.0,
+   "aggiudicato": 0.0,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "B2E5036FA8",
+   "data": "2024-09-03",
+   "oggetto": "APPALTO PER LAFFIDAMENTO DEL SERVIZIO DI GESTIONE, DEL PROGETTO SAI ORDINARI PER LACCOGLIENZA, LA TUTELA E LINTEGRAZIONE A FAVORE DI N. 21 UTENTI (D.M. 18/11/2019 E LINEE GUIDA ALL",
+   "amministrazione": "COMUNE DI ACRI",
+   "ente": "ASSOCIAZIONE LIBERAMENTE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 625815.52,
+   "aggiudicato": 625815.51,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "SIMURG CONSULENZE E SERVIZI DI MIRANI DANIELE, SALVUCCI CLAUDIO E TOIGO MORENO  S.N.C",
+ "cf": "01387870494",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GROSSETO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A018A74427",
+   "data": "2023-10-03",
+   "oggetto": "AFFIDAMENTO DI SERVIZI DI INFORMAZIONE, INTEGRAZIONE E PROGETTAZIONE RIVOLTI A STRANIERI E MIGRANTI",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SIMURG CONSULENZE E SERVIZI DI MIRANI DANIELE, SALVUCCI CLAUDIO E TOIGO MORENO  S.N.C",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49340.0,
+   "aggiudicato": 49340.0,
+   "durata_gg": 183.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7969839732",
+   "data": "2019-07-15",
+   "oggetto": "SERVIZI DI INFORMAZIONE, ACCOGLIENZA, MEDIAZIONE E INTEGRAZIONE RIVOLTI A STRANIERI E MIGRANTI",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SIMURG CONSULENZE E SERVIZI DI MIRANI DANIELE, SALVUCCI CLAUDIO E TOIGO MORENO  S.N.C",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 624354.0,
+   "aggiudicato": 309095.81,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GROSSETO"
+  }
+ ]
+}

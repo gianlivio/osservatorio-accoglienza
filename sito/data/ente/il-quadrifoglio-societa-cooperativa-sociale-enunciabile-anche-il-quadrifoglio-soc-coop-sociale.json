@@ -1,0 +1,80 @@
+{
+ "nome": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE ENUNCIABILE ANCHE IL QUADRIFOGLIO SOC. COOP. SOCIALE",
+ "cf": "01685130336",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2285A8233",
+   "data": "2025-08-29",
+   "oggetto": "AFFIDAMENTO SERVIZIO GESTIONE CENTRI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE ENUNCIABILE ANCHE IL QUADRIFOGLIO SOC. COOP. SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 284509.0,
+   "aggiudicato": 284509.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "92945991BD",
+   "data": "2022-06-23",
+   "oggetto": "CONVENZIONE ACCOGLIENZA CITTADINI STRANIERI RICHIEENTI ASILO - IL QUADRIFOGLIO",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE ENUNCIABILE ANCHE IL QUADRIFOGLIO SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 491655.0,
+   "aggiudicato": 491655.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "7696852B31",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZI ACCOGLIENZA CITTADINI STRANIERI GESTORE EKOPRA",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE ENUNCIABILE ANCHE IL QUADRIFOGLIO SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86940.0,
+   "aggiudicato": 86940.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

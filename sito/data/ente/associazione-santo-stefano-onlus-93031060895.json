@@ -1,0 +1,75 @@
+{
+ "nome": "ASSOCIAZIONE SANTO STEFANO ONLUS",
+ "cf": "93031060895",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7379713BCF",
+   "data": "2017-12-28",
+   "oggetto": "SPRAR SERVIZI DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "COMUNE DI SOLARINO",
+   "ente": "ASSOCIAZIONE SANTO STEFANO ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 114257.01,
+   "aggiudicato": 114257.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "7307218B0B",
+   "data": "2017-05-06",
+   "oggetto": "AFFIDAMENTO CON MANIFESTAZIONE DI INTERESSE DELLA GESTIONE IN CONVENZIONE DEL SERVIZIO SPRAR DI ACCOGLIENZA INTEGRATA PER PROFUGHI ED EXTRACOMUNITARI RICHIEDENTI ASILO 2017/2019",
+   "amministrazione": "COMUNE DI AVOLA",
+   "ente": "ASSOCIAZIONE SANTO STEFANO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO EX ART.5 DELLA LEGGE N.381/91",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1612125.0,
+   "aggiudicato": 1323872.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "634511280F",
+   "data": "2015-04-01",
+   "oggetto": "SERVIZIO RICOVERO RIFUGIATI POSTI AGGIUNTIVI E ULTERIORI POSTI AGGIUNTIVI",
+   "amministrazione": "COMUNE DI SOLARINO",
+   "ente": "ASSOCIAZIONE SANTO STEFANO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 319514.3,
+   "aggiudicato": 319514.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

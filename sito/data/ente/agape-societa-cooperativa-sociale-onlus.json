@@ -1,0 +1,38 @@
+{
+ "nome": "AGAPE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02252320748",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B74CA12CAE",
+   "data": "2025-06-18",
+   "oggetto": "RICOVERO MSNA IN STRUTTURA",
+   "amministrazione": "COMUNE DI SAN PANCRAZIO SALENTINO",
+   "ente": "AGAPE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12060.0,
+   "aggiudicato": 12060.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

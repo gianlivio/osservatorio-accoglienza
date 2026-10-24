@@ -1,0 +1,70 @@
+{
+ "nome": "ASSOCIAZIONE ARCOBALENO I CAVALIERI DI SAN VALENTINO ONLUS",
+ "cf": "01304120890",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5041789E0",
+   "data": "2024-12-30",
+   "oggetto": "OSPITALITÀ MSNA DI GENERE FEMMINILE PRESSO ASS. ARCOBALENO I CCAVALIERI DI SAN VALENTINO",
+   "amministrazione": "COMUNE DI ROSOLINI",
+   "ente": "ASSOCIAZIONE ARCOBALENO I CAVALIERI DI SAN VALENTINO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 55200.0,
+   "aggiudicato": 55200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B451AD408D",
+   "data": "2024-11-19",
+   "oggetto": "RICOVERO DI MSNA PRESSO LA STRUTTURA GESTITA DALL'ASSOCIAZIONE ARBOBALENO I CAVALIERI DI SAN VALENTINO PERIODO 01/04/2024 AL 30/06/2024",
+   "amministrazione": "COMUNE DI ROSOLINI",
+   "ente": "ASSOCIAZIONE ARCOBALENO I CAVALIERI DI SAN VALENTINO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 27300.0,
+   "aggiudicato": 27300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1EF5F34E6",
+   "data": "2024-06-03",
+   "oggetto": "INSERIMENTO NUMERO 3 MINORI STRANIERI NON ACCOMPAGNATI DI SESSO FEMMINILE PRESSO LA STRUTTURA GESTITA DALLA ASSOCIAZIONE ARCOBALENO /I CAVALIERI DI SAN VALENTINO ONLUS PERIODO 1 TR",
+   "amministrazione": "COMUNE DI ROSOLINI",
+   "ente": "ASSOCIAZIONE ARCOBALENO I CAVALIERI DI SAN VALENTINO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 27300.0,
+   "aggiudicato": 27300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

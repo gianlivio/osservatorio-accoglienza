@@ -1,0 +1,128 @@
+{
+ "nome": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01205670951",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ORISTANO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B98B35A5D3",
+   "data": "2025-12-11",
+   "oggetto": "SERVIZIO DI GESTIONE DEI CENTRI DI ACCOGLIENZA STRAORDINARIA (CAS) DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, CON CAPIENZA DA 51 A 100 POSTI IN PROVINCIA DI ORIS",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 419580.0,
+   "aggiudicato": 722092.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B8697CB388",
+   "data": "2025-09-26",
+   "oggetto": "1021736,61",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 510600.0,
+   "aggiudicato": 510334.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B861CC1A8D",
+   "data": "2025-09-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 215873.65,
+   "aggiudicato": 215873.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B51C1E7881",
+   "data": "2025-01-09",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI PRESSO STRUTTURE RICETTIVE TEMPORANEE (CENTRI COLLETT",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 700000.0,
+   "aggiudicato": 700000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B4E298B755",
+   "data": "2024-12-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI PRESSO STRUTTURE RICETTIVE TEMPORANEE (CENTRI COLLETT",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 700000.0,
+   "aggiudicato": 700000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "9392372E8E",
+   "data": "2022-12-29",
+   "oggetto": "GARA COMUNITARIA SERVIZI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IMPARIS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4766800.0,
+   "aggiudicato": 1315095.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ORISTANO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "NUOVA ASSISTENZA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "06902520011",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9994164509",
+   "data": "2023-08-02",
+   "oggetto": "ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITÀ EDUCATIVA RESIDENZIALE - NUOVA ASSISTENZA SOC. COOP. SOC. ONLUS - LUGLIO-SETTEMBRE 2023",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "NUOVA ASSISTENZA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125000.0,
+   "aggiudicato": 125000.0,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  },
+  {
+   "cig": "96461330C6",
+   "data": "2023-02-14",
+   "oggetto": "ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITÀ EDUCATIVA RESIDENZIALE - NUOVA ASSISTENZA SOC. COOP. SOC. ONLUS - GENNAIO-MARZO 2023",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "NUOVA ASSISTENZA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 140000.0,
+   "aggiudicato": 140952.38,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  }
+ ]
+}

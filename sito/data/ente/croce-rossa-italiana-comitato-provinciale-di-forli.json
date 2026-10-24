@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI FORLI'",
+ "cf": "04114840400",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7126481E26",
+   "data": "2017-04-19",
+   "oggetto": "ALLOGGIAMENTO PROFUGHI",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI FORLI'",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 51104.0,
+   "aggiudicato": 51104.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

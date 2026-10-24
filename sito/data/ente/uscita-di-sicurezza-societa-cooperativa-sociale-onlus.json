@@ -1,0 +1,128 @@
+{
+ "nome": "USCITA DI SICUREZZA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "00309470532",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "GROSSETO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7992418FF7",
+   "data": "2019-07-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI DI ACCOGLIENZA COSTITUITI DA CENTRI COLLETTIVI FINO A UN MASSIMO DI 50 POSTI",
+   "amministrazione": "PREFETTURA",
+   "ente": "USCITA DI SICUREZZA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 151660.8,
+   "aggiudicato": 151660.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7992395CFD",
+   "data": "2019-07-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI DI ACCOGLIENZA COSTITUITI DA CENTRI COLLETTIVI FINO A UN MASSIMO DI 50 POSTI",
+   "amministrazione": "PREFETTURA",
+   "ente": "USCITA DI SICUREZZA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 107344.8,
+   "aggiudicato": 107344.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7782030E4C",
+   "data": "2019-01-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/02-31/03/2019-USCITA DI SICUREZZA SOC.COOP.SOCIALE ONLUS-P.I.003094",
+   "amministrazione": "PREFETTURA",
+   "ente": "USCITA DI SICUREZZA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 113832.0,
+   "aggiudicato": 113832.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7403062007",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/03-31/07/2018-USCITA DI SICUREZZA-P.I.00309470532-STRUTTURA'FRAZ.RI",
+   "amministrazione": "PREFETTURA",
+   "ente": "USCITA DI SICUREZZA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 118800.0,
+   "aggiudicato": 118800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7402638221",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/03-31/05/2018-USCITA DI SICUREZZA-P.I.00309470532-STRUTTURE'1)STRAD",
+   "amministrazione": "PREFETTURA",
+   "ente": "USCITA DI SICUREZZA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 178200.0,
+   "aggiudicato": 178200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "68907846D7",
+   "data": "2016-11-17",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01/12/2016-28/02/2017 - USCITA DI SICUREZZA",
+   "amministrazione": "PREFETTURA",
+   "ente": "USCITA DI SICUREZZA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 178200.0,
+   "aggiudicato": 178200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  }
+ ]
+}

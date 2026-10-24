@@ -1,0 +1,33 @@
+{
+ "nome": "HIKE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA ONLUS",
+ "cf": "01654490208",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8244527EE5",
+   "data": "2020-03-23",
+   "oggetto": "LOTTO 1 - PRESA IN CARICO E GESTIONE ALLOGGI",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "HIKE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1314000.0,
+   "aggiudicato": 850143.26,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

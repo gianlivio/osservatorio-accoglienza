@@ -1,0 +1,38 @@
+{
+ "nome": "FERRARI GIUSEPPE SRL",
+ "cf": "01421860337",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6475393F55",
+   "data": "2015-11-19",
+   "oggetto": "SERVIZIO TRASPORTO, CON AUTISTA, DEI MIGRANTI (RICHIEDENTI PROTEZIONE INTERNAZIONALE). ANNO 2016.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "FERRARI GIUSEPPE SRL",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 92000.0,
+   "aggiudicato": 79000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

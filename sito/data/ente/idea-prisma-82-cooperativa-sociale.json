@@ -1,0 +1,80 @@
+{
+ "nome": "IDEA PRISMA 82 COOPERATIVA SOCIALE",
+ "cf": "05522590586",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7261620E61",
+   "data": "2017-11-02",
+   "oggetto": "PROGETTO CENTRI DI ACCOGLIENZA INTEGRATA PER ADULTI E FAMIGLIE - SPRAR - COOP. IDEA PRISMA 82I - CENTRO WEL@HOME",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IDEA PRISMA 82 COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 425467.0,
+   "aggiudicato": 425467.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "691615607C",
+   "data": "2016-12-19",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR IDEA PRISMA 82 GENNAIO GIUGNO 2017 CENTRO CASA CLAUDIA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IDEA PRISMA 82 COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 76020.8,
+   "aggiudicato": 76020.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6308190311",
+   "data": "2015-06-24",
+   "oggetto": "PROSECUZIONE INCARICO SPRAR ANNO 2015. IDEA PRISMA 82",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IDEA PRISMA 82 COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 102200.0,
+   "aggiudicato": 102200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

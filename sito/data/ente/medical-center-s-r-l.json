@@ -1,0 +1,75 @@
+{
+ "nome": "MEDICAL CENTER S.R.L.",
+ "cf": "01947750681",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B613FCA956",
+   "data": "2025-03-18",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO N. 14 VISITE MEDICHE PER ATTIVITÀ SPORTIVA A LIVELLO NON AGONISTICO",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MEDICAL CENTER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 560.0,
+   "aggiudicato": 560.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B4346682BC",
+   "data": "2024-11-12",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO VISITE MEDICHE PER ATTIVITÀ SPORTIVA A LIVELLO NON AGONISTICO",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MEDICAL CENTER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 400.0,
+   "aggiudicato": 400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B14BE50705",
+   "data": "2024-04-18",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO VISITE MEDICHE PER ATTIVITÀ SPORTIVA A LIVELLO AGONISTICO",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MEDICAL CENTER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 360.0,
+   "aggiudicato": 360.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

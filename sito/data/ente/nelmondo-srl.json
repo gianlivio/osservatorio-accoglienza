@@ -1,0 +1,123 @@
+{
+ "nome": "NELMONDO SRL",
+ "cf": "01353050451",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73361205BC",
+   "data": "2017-12-21",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI NEL MONDO GENNAIO FEBBRAIO 2018",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NELMONDO SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 54163.94,
+   "aggiudicato": 54163.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7260968458",
+   "data": "2017-10-30",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI NEL MONDO NOVEMBRE DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NELMONDO SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56000.0,
+   "aggiudicato": 56000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "718730608B",
+   "data": "2017-07-31",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI NEL MONDO AGOSTO SETTEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NELMONDO SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56000.0,
+   "aggiudicato": 56000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7120391C86",
+   "data": "2017-06-08",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI GIUGNO LUGLIO 2017 NEL MONDO SRL",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NELMONDO SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 90000.0,
+   "aggiudicato": 90000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "69702754E4",
+   "data": "2016-12-16",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI SOCIETÀ NEL MONDO GENNAIO-FEBBRAIO E MARZO-APRILE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NELMONDO SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 180964.0,
+   "aggiudicato": 180964.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6870437FF4",
+   "data": "2016-08-09",
+   "oggetto": "ACCOGLIENZA MIGRANTI DA OTTOBRE 2016 NEL MONDO",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NELMONDO SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 141091.2,
+   "aggiudicato": 141091.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

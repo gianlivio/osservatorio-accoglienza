@@ -1,0 +1,128 @@
+{
+ "nome": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "08119501214",
+ "affidamenti": 6,
+ "diretti": 6,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B831A02060",
+   "data": "2025-09-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4598264.16,
+   "aggiudicato": 4598264.16,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B4A33ECFE0",
+   "data": "2024-12-06",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139449.0,
+   "aggiudicato": 139449.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B332064358",
+   "data": "2024-09-27",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139790.0,
+   "aggiudicato": 139790.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B2738BF469",
+   "data": "2024-07-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139055.0,
+   "aggiudicato": 139055.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B19D86EE90",
+   "data": "2024-05-13",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25.27,
+   "aggiudicato": 25.27,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "97754772D1",
+   "data": "2023-04-14",
+   "oggetto": "AFFIDAMENTO DIRETTO SERVIZIO DI ACCOGLIENZA MIGRANTI SOCIETÀ COOPERATIVA INSIEME PER LA VITA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "INSIEME PER LA VITA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 591350.0,
+   "aggiudicato": 27.28,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "nome": "COOPERATIVA SOCIALE MONDO APERTO",
+ "cf": "01165410117",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8047334618",
+   "data": "2019-03-06",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "COOPERATIVA SOCIALE MONDO APERTO",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 103224.0,
+   "aggiudicato": 103224.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "7156921E08",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "COOPERATIVA SOCIALE MONDO APERTO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 107069.4,
+   "aggiudicato": 107069.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "7065036C22",
+   "data": "2016-12-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "COOPERATIVA SOCIALE MONDO APERTO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 4496800.0,
+   "aggiudicato": 4496800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "6857035C47",
+   "data": "2016-10-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 31 OTTOBRE - 31 MARZO 2016",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "COOPERATIVA SOCIALE MONDO APERTO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 126803.76,
+   "aggiudicato": 126803.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

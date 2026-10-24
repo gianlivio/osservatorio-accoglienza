@@ -1,0 +1,91 @@
+{
+ "nome": "UNO DI NOI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01647360294",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROVIGO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2C965E0B3",
+   "data": "2024-08-16",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA IN IN SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "UNO DI NOI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 123608.0,
+   "aggiudicato": 123608.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "B254683C76",
+   "data": "2024-07-04",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA IN SINGOLE UN ABITATIVE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "UNO DI NOI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 135968.0,
+   "aggiudicato": 135968.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "B1E89B62B6",
+   "data": "2024-05-31",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA IN SINGOLE UN ABITATIVE",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "UNO DI NOI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 142149.0,
+   "aggiudicato": 142149.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "999255446C",
+   "data": "2023-09-21",
+   "oggetto": "CONVENZIONE PER I SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA IN SINGOLE UNITÀ ABITATIVE CON CAPIENZA MASSIMA COMPLESSIVA DI 50 POSTI PER I CITTADINI STRANIERI RICHIEDENTI LA PROT",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "UNO DI NOI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57429.12,
+   "aggiudicato": 57429.12,
+   "durata_gg": 70.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROVIGO"
+  }
+ ]
+}

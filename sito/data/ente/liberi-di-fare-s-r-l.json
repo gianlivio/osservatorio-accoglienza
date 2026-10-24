@@ -1,0 +1,38 @@
+{
+ "nome": "LIBERI DI FARE - S.R.L.",
+ "cf": "02923310805",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71089879A6",
+   "data": "2017-06-05",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI REGGIO CALABRIA",
+   "ente": "LIBERI DI FARE - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52655.23,
+   "aggiudicato": 52655.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

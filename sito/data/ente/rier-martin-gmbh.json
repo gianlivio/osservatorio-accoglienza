@@ -1,0 +1,38 @@
+{
+ "nome": "RIER MARTIN GMBH",
+ "cf": "02872650219",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B93C9DDF80",
+   "data": "2025-11-26",
+   "oggetto": "06.04_008.234_IS_VB - CENTRO PROFUGHI GENERALMARKET - BOLZANO - VIA PIETRO GOBETTI 8 10 - FORNITURA E MONTAGGIO DI AEROTERMI",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "RIER MARTIN GMBH",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25961.1,
+   "aggiudicato": 25961.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

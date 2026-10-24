@@ -1,0 +1,186 @@
+{
+ "nome": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+ "cf": "90073110562",
+ "affidamenti": 9,
+ "diretti": 7,
+ "quota_diretti": 77.8,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7751F3238",
+   "data": "2025-06-30",
+   "oggetto": "PROGETTO SAI - POSTI AGGIUNTIVI",
+   "amministrazione": "COMUNE DI VALLERANO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 132300.0,
+   "aggiudicato": 132300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B67D447EC2",
+   "data": "2025-04-15",
+   "oggetto": "PROGETTO SAI 2025",
+   "amministrazione": "COMUNE DI BASSANO ROMANO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 487750.0,
+   "aggiudicato": 487750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B36783514F",
+   "data": "2024-10-14",
+   "oggetto": "PROGETTO SAI",
+   "amministrazione": "COMUNE DI BASSANO ROMANO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 104286.0,
+   "aggiudicato": 104286.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B14E1298DC",
+   "data": "2024-04-18",
+   "oggetto": "PROGETTO SAI RIFUGIATI",
+   "amministrazione": "COMUNE DI BASSANO ROMANO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 264000.0,
+   "aggiudicato": 264000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B073B4E05C",
+   "data": "2024-02-20",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE NELLA RETE SAI - AMPLIAMENTO CATEGORIA ORDIANRI",
+   "amministrazione": "COMUNE DI CELLENO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 35549.19,
+   "aggiudicato": 35549.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "A0285518FE",
+   "data": "2023-11-08",
+   "oggetto": "ACCOGLIENZA NELLA RETE SAI - CATEGORIA ORDINARI 2023/2025. AFFIDAMENTO 01/11/2023 - 31/12/2023",
+   "amministrazione": "COMUNE DI CELLENO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 103503.16,
+   "aggiudicato": 103503.16,
+   "durata_gg": 61.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "A01BF308B3",
+   "data": "2023-10-10",
+   "oggetto": "ACCOGLIENZA NELLA RETE SAI - AMPLIAMENTO POSTI CATEGORIA 'ORDINARI' PROFUGHI PROVENIENTI DALL'UCRAINA 01/09/2023 - 31/12/2023. AFFIDAMENTO DIRETTO",
+   "amministrazione": "COMUNE DI CELLENO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 103379.43,
+   "aggiudicato": 103379.43,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "9461993BA0",
+   "data": "2022-10-27",
+   "oggetto": "ACCOGLIENZA NELLA RETE SAI - AMPLIAMENTO POSTI CATEGORIA 'ORDINARI' PROFUGHI PROVENIENTI DALL'UCRAINA",
+   "amministrazione": "COMUNE DI CELLENO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 112604.32,
+   "aggiudicato": 112604.32,
+   "durata_gg": 68.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "85348469B8",
+   "data": "2020-12-23",
+   "oggetto": "ACCOGLIENZA RIFUGIATI",
+   "amministrazione": "COMUNE DI VALLERANO",
+   "ente": "ARCI SOLIDARIETA' VITERBO SRL IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 614886.0,
+   "aggiudicato": 614886.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  }
+ ]
+}

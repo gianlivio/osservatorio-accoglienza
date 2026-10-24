@@ -1,0 +1,38 @@
+{
+ "nome": "CIVICOZERO - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+ "cf": "11419871006",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "97267922AF",
+   "data": "2023-03-31",
+   "oggetto": "SERVIZIO DI MEDIAZIONE CULTURALE E INTERPRETARIATO RIVOLTO A PERSONE DI MINORE ETÀ E NEOMAGGIORENNI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "CIVICOZERO - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56100.0,
+   "aggiudicato": 46915.55,
+   "durata_gg": 915.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

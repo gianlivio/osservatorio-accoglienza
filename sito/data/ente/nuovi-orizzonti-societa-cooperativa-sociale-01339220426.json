@@ -1,0 +1,58 @@
+{
+ "nome": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01339220426",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B66E03442B",
+   "data": "2025-04-10",
+   "oggetto": "PROCEDURA AFFIDAMENTO SERVIZI DI ACCOGLIENZA MINORI, MSNA, MADRI CON FIGLI MINORI, VITTIME DELLA VIOLENZA DI GENERE, PRESSO LE STRUTTURE RESIDENZIALI - 2025",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16400.0,
+   "aggiudicato": 16400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B59E28C910",
+   "data": "2025-02-13",
+   "oggetto": "COLLOCAZIONE MINORI STRANIERI NON ACCOMPAGNATI IN COMUNITÀ EDUCATIVA",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30931.05,
+   "aggiudicato": 30931.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

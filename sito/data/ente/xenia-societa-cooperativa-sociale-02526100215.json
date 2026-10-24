@@ -1,0 +1,38 @@
+{
+ "nome": "XENIA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02526100215",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B14F5A3EB0",
+   "data": "2024-04-18",
+   "oggetto": "PROGETTO SAI - SERVIZIO DI MEDIAZIONE INTERCULTURALE A FAVORE DEI RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE - PERIODO 01.03.2024 – 31.12.2026",
+   "amministrazione": "COMUNITA COMPRENSORIALE BURGRAVIATO",
+   "ente": "XENIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10920.0,
+   "aggiudicato": 10920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

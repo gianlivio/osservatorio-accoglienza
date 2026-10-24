@@ -1,0 +1,75 @@
+{
+ "nome": "4 ESSE S.R.L.",
+ "cf": "02625970906",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "982315866B",
+   "data": "2023-04-01",
+   "oggetto": "4 ESSE SRL ATTO AGGIUNTIVO PER INCREMENTO 50% PRESTAZIONI SU CONVENZIONE SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "4 ESSE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 229444.87,
+   "aggiudicato": 229444.87,
+   "durata_gg": 122.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "96651405D7",
+   "data": "2022-11-09",
+   "oggetto": "4 ESSE SRL ATTO AGGIUNTIVO QUINTO D'OBBLIGO SU CONVENZIONE PER SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAP",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "4 ESSE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 174076.83,
+   "aggiudicato": 174076.83,
+   "durata_gg": 265.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8993159D91",
+   "data": "2021-12-23",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAPIENZA DA 51 A 100 POSTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "4 ESSE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10081340.85,
+   "aggiudicato": 6615940.5,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

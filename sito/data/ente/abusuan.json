@@ -1,0 +1,38 @@
+{
+ "nome": "ABUSUAN",
+ "cf": "05165170720",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4A602A267",
+   "data": "2024-12-05",
+   "oggetto": "SAI MSNA ATS CAPS ABUSUAN CONTRATTO ORDINATIVO ATTUATIVO PROG-598-PR-3 RELATIVO ALLA PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE TRIENNALE DEL SERVIZIO DENOMINATO SAI - SISTE",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "ABUSUAN",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1436401.36,
+   "aggiudicato": 1436401.36,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

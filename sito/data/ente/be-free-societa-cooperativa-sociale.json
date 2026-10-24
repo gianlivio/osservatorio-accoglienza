@@ -1,0 +1,38 @@
+{
+ "nome": "BE FREE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "09390571009",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "984066667A",
+   "data": "2023-05-23",
+   "oggetto": "PROGETTO DI ACCOGLIENZA INTEGRATA IN FAVORE DI DONNE SINGOLE O CON FIGLI MINORI, VITTIME DI VIOLENZA DI GENERE E/O TRATTA E GRAVE SFRUTTAMENTO, TITOLARI DI ACCOGLIENZA 'SAI' IN ACC",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "BE FREE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 425250.0,
+   "aggiudicato": 425250.0,
+   "durata_gg": 945.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

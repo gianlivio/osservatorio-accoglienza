@@ -1,0 +1,80 @@
+{
+ "nome": "LIBERAZIONE E SPERANZA SOCIETA' COOPERATIVA SOCIALE IN BREVE: LIBERAZIONE E SPERANZA S.C.S. O LES S.C.S.",
+ "cf": "94037360032",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5CD56FCD4",
+   "data": "2025-02-25",
+   "oggetto": "20 POSTI IN CENTRI DI ACCOGLIENZA STRAORDINARIA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "LIBERAZIONE E SPERANZA SOCIETA' COOPERATIVA SOCIALE IN BREVE: LIBERAZIONE E SPERANZA S.C.S. O LES S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 880095.0,
+   "aggiudicato": 880095.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  },
+  {
+   "cig": "7179334DD3",
+   "data": "2017-07-12",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "LIBERAZIONE E SPERANZA SOCIETA' COOPERATIVA SOCIALE IN BREVE: LIBERAZIONE E SPERANZA S.C.S. O LES S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 91035.0,
+   "aggiudicato": 91035.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6716567E6A",
+   "data": "2016-06-13",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA ED ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "LIBERAZIONE E SPERANZA SOCIETA' COOPERATIVA SOCIALE IN BREVE: LIBERAZIONE E SPERANZA S.C.S. O LES S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 535500.0,
+   "aggiudicato": 509490.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SE.RE.NA",
+ "cf": "01362880450",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7643389423",
+   "data": "2018-10-03",
+   "oggetto": "CIG DERIVATO IN ADESIONE ACCORDO QUADRO ASSISTENZA MIGRANTI AGOSTO DICEMBRE 2018- ASSOCIAZIONE SERENA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SE.RE.NA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57132.0,
+   "aggiudicato": 57132.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7637158E24",
+   "data": "2018-10-01",
+   "oggetto": "CIG DERIVATO IN ADESIONE ACCORDO QUADRO ASSISTENZA MIGRANTI OTTOBRE DICEMBRE 2018- HOTEL VALENTINA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SE.RE.NA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 142830.0,
+   "aggiudicato": 142830.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7156817837",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SE.RE.NA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 79177.5,
+   "aggiudicato": 79177.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

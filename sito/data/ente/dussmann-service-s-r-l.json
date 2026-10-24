@@ -1,0 +1,63 @@
+{
+ "nome": "DUSSMANN SERVICE S.R.L.",
+ "cf": "00124140211",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1AFD06350",
+   "data": "2024-05-15",
+   "oggetto": "SERVIZIO DI PULIZIA DEGLI STABILI ADIBITI AD UFFICI E MAGAZZINI DELLA PREFETTURA DI AGRIGENTO",
+   "amministrazione": "PREFETTURA DI AGRIGENTO",
+   "ente": "DUSSMANN SERVICE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 151196.63,
+   "aggiudicato": 151196.63,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7092624A79",
+   "data": "2017-05-26",
+   "oggetto": "PROCEDURA NEGOZIATA, EX ART. 62 DEL D.LGS. 50/2016 DEL SERVIZIO DI SOMMINISTRAZIONE DEI PASTI, SUDDIVISO IN TRE TURNI (COLAZIONE, PRANZO E CENA), DA DESTINARSI ALLE PERSONE RICHIED",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "DUSSMANN SERVICE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3541230.0,
+   "aggiudicato": 3541230.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

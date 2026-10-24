@@ -1,0 +1,38 @@
+{
+ "nome": "ESA SERVICE S.R.L.",
+ "cf": "01225890688",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B67B28A74A",
+   "data": "2025-04-15",
+   "oggetto": "PROG. SAI CAT. MSNA - AFFIDAMENTO SERVIZIO MANUTENZIONE CALDAIE",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "ESA SERVICE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3000.0,
+   "aggiudicato": 3000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

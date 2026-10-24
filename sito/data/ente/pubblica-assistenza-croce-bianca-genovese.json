@@ -1,0 +1,154 @@
+{
+ "nome": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+ "cf": "80013330107",
+ "affidamenti": 7,
+ "diretti": 4,
+ "quota_diretti": 57.1,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5E1B2235E",
+   "data": "2025-03-04",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA MSNA",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 649152.0,
+   "aggiudicato": 649152.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B2CA57CA50",
+   "data": "2024-08-19",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA PER MSNA",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 649152.0,
+   "aggiudicato": 649152.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B0CEA22045",
+   "data": "2024-03-13",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE IN FAVORE DI PROFUGHI UCRAINI - 7",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 118946.57,
+   "aggiudicato": 118946.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B002B28EBB",
+   "data": "2024-01-15",
+   "oggetto": "NOME LOTTO",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 642096.0,
+   "aggiudicato": 642096.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "765544945D",
+   "data": "2018-12-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CROCE BIANCA LOTTO 2 - GIUGNO DICEMBRE 2018",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 433178.8,
+   "aggiudicato": 433178.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7051298330",
+   "data": "2017-04-18",
+   "oggetto": "SERV. PRIMA ACCOGLIENZA CITTADINI STRANIERI RICH. PROT. INTERNAZIONALE E SERV. CONNESSI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 757436.4,
+   "aggiudicato": 757436.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6911462EDB",
+   "data": "2016-12-20",
+   "oggetto": "SERVIZI DI PRIMA ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E SERVIZI CONNESSI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "PUBBLICA ASSISTENZA CROCE BIANCA GENOVESE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 115500.0,
+   "aggiudicato": 115500.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

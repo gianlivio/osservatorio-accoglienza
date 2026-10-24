@@ -1,0 +1,75 @@
+{
+ "nome": "IMPRESA INESISTENTE",
+ "cf": "01242191003",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9348099754",
+   "data": "2022-07-26",
+   "oggetto": "PROSECUZIONE TECNICA DELL'AFFIDAMENTO AI SENSI ART. 36, C. 2, LETT. A) DEL D.LGS. 50/2016 50/2016, COSÌ COME MODIFICATO DALL'ART. 51, C. 1, LETT. A), PUNTO 2.1. DEL D.L. N. 77/2021",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 185895.0,
+   "aggiudicato": 185895.0,
+   "durata_gg": 153.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9138484390",
+   "data": "2022-03-09",
+   "oggetto": "AFFIDAMENTO AI SENSI ART. 36, C. 2, LETT. A) DEL D.LGS 50/2016 E ORDINANZA PROTEZIONE CIVILE N. 872 DEL 04/03/2022 ALL'ORGANISMO RTI ARCI SOLIDARIETÀ ONLUS - COOPERATIVA SOCIALE PR",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 168885.0,
+   "aggiudicato": 168885.0,
+   "durata_gg": 139.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "8971601F57",
+   "data": "2021-11-08",
+   "oggetto": "PROGETTO DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI, FAMIGLIE E FAMIGLIE-MONOPARENTALI TITOLARI DI ACCOGLIENZA 'SIPROIMI' IN ACCOGLIENZA DIFFUSA, IN STRUTTURE CON CAPIENZA MASSIM",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 191700.0,
+   "aggiudicato": 185400.0,
+   "durata_gg": 426.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

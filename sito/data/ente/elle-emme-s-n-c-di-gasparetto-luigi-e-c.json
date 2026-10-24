@@ -1,0 +1,54 @@
+{
+ "nome": "ELLE-EMME S.N.C. DI GASPARETTO LUIGI E C.",
+ "cf": "04770900266",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7750836036",
+   "data": "2018-12-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PROROGA - LUNAZZURRA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ELLE-EMME S.N.C. DI GASPARETTO LUIGI E C.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 65520.0,
+   "aggiudicato": 65520.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "7527363075",
+   "data": "2018-06-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 2018",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ELLE-EMME S.N.C. DI GASPARETTO LUIGI E C.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 241705.92,
+   "aggiudicato": 241705.92,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

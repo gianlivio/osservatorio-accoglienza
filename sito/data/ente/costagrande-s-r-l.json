@@ -1,0 +1,54 @@
+{
+ "nome": "COSTAGRANDE S.R.L.",
+ "cf": "04098710231",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6995592125",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - COSTAGRANDE",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "COSTAGRANDE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3150000.0,
+   "aggiudicato": 3150000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6955857AC6",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - COSTAGRANDE S.R.L. - COOP. SOC. TINLÈ",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "COSTAGRANDE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5897500.0,
+   "aggiudicato": 5897500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "nome": "ARCI LECCE COOPERATIVA SOCIALE",
+ "cf": "93053770751",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "90116687AF",
+   "data": "2021-03-26",
+   "oggetto": "PROGETTO FAMI SAI MSNA - SERVIZIO GESTIONE SECONDA ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI MINERVINO DI LECCE",
+   "ente": "ARCI LECCE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 249550.0,
+   "aggiudicato": 249550.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "853778965D",
+   "data": "2020-12-03",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DELL'ENTE ATTUATORE DEL PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE) PROSECUZIONE SERVIZIO DI ACCOGLIEN",
+   "amministrazione": "COMUNE DI PATU'",
+   "ente": "ARCI LECCE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1040664.54,
+   "aggiudicato": 991109.09,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7100957716",
+   "data": "2017-07-07",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA COPROGETTAZIONE, L'ORGANIZZAZIONE E LA GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'I",
+   "amministrazione": "UNIONE DEI COMUNI DELLA GRECIA SALENTINA",
+   "ente": "ARCI LECCE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2767917.0,
+   "aggiudicato": 2767917.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "6936148267",
+   "data": "2017-01-02",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO PER LA CO-PROGETTAZIONE, L'ORGANIZZAZIONE E LA GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTEMA DI PROTEZIONE PER R",
+   "amministrazione": "COMUNE DI CAMPI SALENTINA",
+   "ente": "ARCI LECCE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1208595.0,
+   "aggiudicato": 1208595.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "6923344C32",
+   "data": "2016-12-20",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO PER LA CO-PROGETTAZIONE, L'ORGANIZZAZIONE E LA GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTE",
+   "amministrazione": "COMUNE DI CAVALLINO",
+   "ente": "ARCI LECCE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 584800.0,
+   "aggiudicato": 554800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

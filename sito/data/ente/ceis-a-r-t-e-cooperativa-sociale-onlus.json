@@ -1,0 +1,63 @@
+{
+ "nome": "CEIS A.R.T.E. COOPERATIVA SOCIALE ONLUS",
+ "cf": "01753850369",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B36FDA70AF",
+   "data": "2024-10-15",
+   "oggetto": "INSERIMENTO MSNA ID 300752561 DAL 21/10/2024 AL 05/09/2025 - GARA UTDA",
+   "amministrazione": "UNIONE DELLE TERRE D ARGINE",
+   "ente": "CEIS A.R.T.E. COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47414.4,
+   "aggiudicato": 47414.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "7823488289",
+   "data": "2019-03-14",
+   "oggetto": "SPRAR 2019 - AREA 11.3 ACCOGLIENZA MSNA CON CEIS ARTE",
+   "amministrazione": "ASP CITTA' DI BOLOGNA",
+   "ente": "CEIS A.R.T.E. COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1407050.4,
+   "aggiudicato": 1407050.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

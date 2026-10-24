@@ -1,0 +1,38 @@
+{
+ "nome": "INRETE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02361540798",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7054517397",
+   "data": "2017-04-27",
+   "oggetto": "PROGETTO SPRAR",
+   "amministrazione": "UNIONE DEI COMUNI DI MONTE CONTESSA",
+   "ente": "INRETE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 93620.07,
+   "aggiudicato": 93620.07,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

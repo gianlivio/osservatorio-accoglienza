@@ -1,0 +1,112 @@
+{
+ "nome": "FONDAZIONE PROTETTORATO SAN GIUSEPPE",
+ "cf": "80089070587",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0233F5530",
+   "data": "2023-10-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA VOLTO A FAVORIRE IL PERSEGUIMENTO DELL'AUTONOMIA INDIVIDUALE E A SUPPORTARE I PERCORSI DI INTEGRAZIONE E DI INCLUSIONE SOCIALE DI M.S.N.A. E NEOMA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "FONDAZIONE PROTETTORATO SAN GIUSEPPE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 948046.4,
+   "aggiudicato": 948046.4,
+   "durata_gg": 427.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "A06576D251",
+   "data": "2023-10-30",
+   "oggetto": "SOTTOSCRIZIONE CONTRATTO APPLICATIVO LOTTO 1 SERVIZIO DI ACCOGLIENZA INTEGRATA MSNA E NEOMAGGIORENNI ANNO 2025",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "FONDAZIONE PROTETTORATO SAN GIUSEPPE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 436933.0,
+   "aggiudicato": 436933.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "9726707C87",
+   "data": "2023-03-31",
+   "oggetto": "N. 40 POSTI PER MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURE DI SECONDA ACCOGLIENZA, AUTORIZZATE AI SENSI DELL'ART. 6, COMMA 1 LETTERA A) O LETTERA B) DELLA L. R. LAZIO N. 41/200",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "FONDAZIONE PROTETTORATO SAN GIUSEPPE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4404972.0,
+   "aggiudicato": 948046.4,
+   "durata_gg": 915.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "71632282BF",
+   "data": "2017-07-27",
+   "oggetto": "AVVISO PUBBLICO PER INDIVIDUAZIONE SOGGETTO IN QUALITÀ DI ENTE ATTUATORE PER CO PROGETTAZIONE E GESTIONE PROGETTI SPRAR - D.M. 10/08/2016 - PERIODO: TRIENNIO 2017/2019 - PER N. 62 ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "FONDAZIONE PROTETTORATO SAN GIUSEPPE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 631962.0,
+   "aggiudicato": 631962.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6539625D42",
+   "data": "2015-12-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "FONDAZIONE PROTETTORATO SAN GIUSEPPE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 128628.0,
+   "aggiudicato": 128628.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "SOLIDARIETA' E SVILUPPO SOCIETA' COOPERATIVA ED IMPRESA SOCIALE",
+ "cf": "02459090466",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9838756E49",
+   "data": "2023-05-12",
+   "oggetto": "CO- PROGETTAZIONE E LA GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI PER FAMIGLIE MONO/BI PARENTALI O PER SINGOLI RICHIEDENTI ASILO O TITOLARI DI PROTEZIONE",
+   "amministrazione": "COMUNE DI BAGNI DI LUCCA",
+   "ente": "SOLIDARIETA' E SVILUPPO SOCIETA' COOPERATIVA ED IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 224146.0,
+   "aggiudicato": 224146.5,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  }
+ ]
+}

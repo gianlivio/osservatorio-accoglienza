@@ -1,0 +1,70 @@
+{
+ "nome": "S. GIOVANNI BOSCO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00466160355",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B769864181",
+   "data": "2025-06-26",
+   "oggetto": "SERVIZIO ASSISTENZA E ACCOGLIENZA MIGRANTI PERIODO MAGGIO-DICEMBRE 2025",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "S. GIOVANNI BOSCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 750000.0,
+   "aggiudicato": 750000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B614FAE65C",
+   "data": "2025-03-18",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA PER UN TOTALE DI N. 50 POSTI IN FAVORE DI CITTADINI STRANIERI EXTRA-COMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO STR",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "S. GIOVANNI BOSCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101016.0,
+   "aggiudicato": 101016.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B55B1B6405",
+   "data": "2025-01-28",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA PER UN TOTALE DI N. 50 POSTI IN FAVORE DI CITTADINI STRANIERI EXTRA-COMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO STR",
+   "amministrazione": "PREFETTURA DI REGGIO EMILIA",
+   "ente": "S. GIOVANNI BOSCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 97704.0,
+   "aggiudicato": 97704.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "S. LUCIA SOCIETA' COOPERATIVA SOCIALE DI SOLIDARIETA'",
+ "cf": "01520030204",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B3EC5D71FF",
+   "data": "2024-10-23",
+   "oggetto": "DIREZIONE E RENDICONTAZIONE PROGETTO SAI",
+   "amministrazione": "COMUNE DI PIADENA DRIZZONA",
+   "ente": "S. LUCIA SOCIETA' COOPERATIVA SOCIALE DI SOLIDARIETA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 164040.0,
+   "aggiudicato": 164040.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "8559027C82",
+   "data": "2020-12-16",
+   "oggetto": "SERVIZIO DI DIREZIONE E COORDINAMENTO OPERATIVO DEL PROGETTO SIPROIMI PER IL TRIENNIO 2021/2023",
+   "amministrazione": "COMUNE DI PIADENA DRIZZONA",
+   "ente": "S. LUCIA SOCIETA' COOPERATIVA SOCIALE DI SOLIDARIETA'",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 192150.0,
+   "aggiudicato": 191850.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE MINERVA",
+ "cf": "01902290202",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7064073174",
+   "data": "2016-12-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "COOPERATIVA SOCIALE MINERVA",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2468375.0,
+   "aggiudicato": 2468375.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

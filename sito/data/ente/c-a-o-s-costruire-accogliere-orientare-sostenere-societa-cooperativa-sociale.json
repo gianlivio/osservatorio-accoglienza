@@ -1,0 +1,54 @@
+{
+ "nome": "C.A.O.S. (COSTRUIRE ACCOGLIERE ORIENTARE SOSTENERE) SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02855340614",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0E6A136E9",
+   "data": "2024-03-20",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI ALLA STRUTTURA C.A.O.S. SOCIETA' COOPERATIVA SOCIALE. IMPEGNO DI SPESA PRESUNTO",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "C.A.O.S. (COSTRUIRE ACCOGLIERE ORIENTARE SOSTENERE) SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52000.0,
+   "aggiudicato": 52000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B01BB3B593",
+   "data": "2024-01-25",
+   "oggetto": "MSNA EXTRASAI",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "C.A.O.S. (COSTRUIRE ACCOGLIERE ORIENTARE SOSTENERE) SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17304.76,
+   "aggiudicato": 17304.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

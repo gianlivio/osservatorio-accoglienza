@@ -1,0 +1,95 @@
+{
+ "nome": "SOLCO IDAPOLI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03923180370",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5CFD31BFB",
+   "data": "2025-02-27",
+   "oggetto": "RETTA STRUTTURA RESIDENZIALE MSNA PROT. 12189/2024 DAL 1/1/25 AL 31/12/25",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SOLCO IDAPOLI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 58400.0,
+   "aggiudicato": 58400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B0E38873BF",
+   "data": "2024-03-19",
+   "oggetto": "COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO ID 10023",
+   "amministrazione": "ASP CARLO SARTORI",
+   "ente": "SOLCO IDAPOLI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 44698.8,
+   "aggiudicato": 44698.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B0D2325C6E",
+   "data": "2024-03-15",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SOLCO IDAPOLI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48450.0,
+   "aggiudicato": 48450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B0D1B5E16B",
+   "data": "2024-03-14",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SOLCO IDAPOLI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48450.0,
+   "aggiudicato": 48450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

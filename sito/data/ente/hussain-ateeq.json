@@ -1,0 +1,59 @@
+{
+ "nome": "HUSSAIN ATEEQ",
+ "cf": "01248740571",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6CE7C7065",
+   "data": "2025-05-13",
+   "oggetto": "FORNITURA DI GENERI ALIMENTARI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "HUSSAIN ATEEQ",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10000.0,
+   "aggiudicato": 10000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B49429DD89",
+   "data": "2024-12-04",
+   "oggetto": "FORNITURA DI GENERI ALIMENTARI A FAVORE DEI BENEFICIARI DEL PROGETTO SAI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "HUSSAIN ATEEQ",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12000.0,
+   "aggiudicato": 12000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

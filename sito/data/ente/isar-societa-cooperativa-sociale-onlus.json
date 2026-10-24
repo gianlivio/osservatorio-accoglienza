@@ -1,0 +1,38 @@
+{
+ "nome": "ISAR SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02788510929",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SUD SARDEGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9602262546",
+   "data": "2023-01-13",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA STRAORDINARIA PER MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "ISAR SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68304.6,
+   "aggiudicato": 68304.6,
+   "durata_gg": 139.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  }
+ ]
+}

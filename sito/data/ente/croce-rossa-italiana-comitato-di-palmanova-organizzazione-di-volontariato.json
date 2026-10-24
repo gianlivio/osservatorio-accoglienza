@@ -1,0 +1,96 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO DI PALMANOVA - ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "02760700308",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B62F2C91B3",
+   "data": "2025-04-30",
+   "oggetto": "SECONDA - SERVIZIO DI ACCOGLIENZA PROFUGHI UCRAINI PERIODO 01.04.2025-31.12.2025",
+   "amministrazione": "COMUNE DI PALMANOVA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PALMANOVA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 113921.5,
+   "aggiudicato": 113921.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B4ECD3CC6D",
+   "data": "2024-12-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PROFUGHI UCRAINI PERIODO 01.01.2025-31.03.2025",
+   "amministrazione": "COMUNE DI PALMANOVA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PALMANOVA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37283.4,
+   "aggiudicato": 37283.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B0E9F20E4C",
+   "data": "2024-03-21",
+   "oggetto": "2024 SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PALMANOVA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9200.0,
+   "aggiudicato": 9200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "92175345AF",
+   "data": "2022-05-04",
+   "oggetto": "SERVIZIO DI GESTIONE DELL'ACCOGLIENZA, SECONDO LA DISCIPLINA DEL SISTEMA CAS, DI PROFUGHI UCRAINI IN FUGA DAL CONFLITTO BELLICO",
+   "amministrazione": "COMUNE DI PALMANOVA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PALMANOVA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 89668.8,
+   "aggiudicato": 89668.8,
+   "durata_gg": 245.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

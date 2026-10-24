@@ -1,0 +1,80 @@
+{
+ "nome": "LULE SOC. COOP. SOCIALE ONLUS",
+ "cf": "90016220155",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9844552D4C",
+   "data": "2023-02-17",
+   "oggetto": "AFFIDAMENTO SERVIZIO SPORTELLO STRANIERI PER L'AMBITO DEL MAGENTINO",
+   "amministrazione": "COMUNE DI MAGENTA",
+   "ente": "LULE SOC. COOP. SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74700.0,
+   "aggiudicato": 68000.01,
+   "durata_gg": 548.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8425697120",
+   "data": "2020-09-08",
+   "oggetto": "AFFIDAMENTO DELLA GESTIONE DEI SERVIZI: SPORTELLO STRANIERI, SPORTELLO ASSISTENTI FAMILIARI E FACILITAZIONE LINGUISTICA E MEDIAZIONE CULTURALE - PERIODO 01/01/2021-31/12/2024",
+   "amministrazione": "AZIENDA SOCIALE-AZIENDA CONSORTILE PER I SERVIZI ALLA PERSONA",
+   "ente": "LULE SOC. COOP. SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 403976.0,
+   "aggiudicato": 391452.78,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7693257483",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZIO 'SPORTELLO STRANIERI'",
+   "amministrazione": "COMUNE DI MAGENTA",
+   "ente": "LULE SOC. COOP. SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 42000.0,
+   "aggiudicato": 37002.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

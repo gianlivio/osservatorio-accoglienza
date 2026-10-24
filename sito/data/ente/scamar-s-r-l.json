@@ -1,0 +1,38 @@
+{
+ "nome": "SCAMAR S.R.L.",
+ "cf": "02459910796",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "92844190F0",
+   "data": "2022-06-24",
+   "oggetto": "SERVIZIO DI FORNITURA PASTI AI CITTADINI STRANIERI IMMIGRATI PRESSO LE AREE DI SOCCORSO UBICATE NEI PORTI E NEL TERRITORIO DELLA CITTÀ METROPOLITANA DI REGGIO CALABRIA",
+   "amministrazione": "PREFETTURA DI REGGIO CALABRIA",
+   "ente": "SCAMAR S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 610000.0,
+   "aggiudicato": 602000.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "nome": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+ "cf": "09342931004",
+ "affidamenti": 9,
+ "diretti": 1,
+ "quota_diretti": 11.1,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9AAB5C174",
+   "data": "2025-12-18",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO ANNUALE, PROROGABILE PER ULTERIORI 12 MESI, DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMIS",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 837084.99,
+   "aggiudicato": 35.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "B6903B0090",
+   "data": "2025-05-22",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI CAGLIARI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 381267.76,
+   "aggiudicato": 25.69,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "B5C315A537",
+   "data": "2025-02-24",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 330000.0,
+   "aggiudicato": 330000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B59225BF1B",
+   "data": "2025-02-11",
+   "oggetto": "INTERPRETARIATO 2025",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 133400.0,
+   "aggiudicato": 133400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "B346649322",
+   "data": "2024-10-02",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 619439.0,
+   "aggiudicato": 27.49,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "A04492CB05",
+   "data": "2023-12-29",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI PADOVA",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 742000.0,
+   "aggiudicato": 396000.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "90027811E8",
+   "data": "2022-01-12",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE 2022-2023",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 742500.0,
+   "aggiudicato": 339300.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8105470D6E",
+   "data": "2019-11-18",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA SEZIONE DI FORLI' DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE. ",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 165000.0,
+   "aggiudicato": 90510.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "77580143AE",
+   "data": "2019-01-11",
+   "oggetto": "SERVIZIO INTERPRETARIATO IN CONSECUTIVA COMMISSIONE TERRITORIALE RICHIEDENTI ASILO SEZIONE DI UDINE",
+   "amministrazione": "PREFETTURA DI UDINE",
+   "ente": "AUTHENTIC ENTERPRISE SOLUTIONS S.R.L.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 82500.0,
+   "aggiudicato": 67250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

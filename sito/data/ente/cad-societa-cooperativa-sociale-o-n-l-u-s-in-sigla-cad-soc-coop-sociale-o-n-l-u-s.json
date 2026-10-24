@@ -1,0 +1,54 @@
+{
+ "nome": "CAD SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S. IN SIGLA CAD SOC. COOP. SOCIALE O.N.L.U.S.",
+ "cf": "00699780409",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7137574066",
+   "data": "2017-07-11",
+   "oggetto": "AFFIDAMENTO GESTIONE PRIMA ACCOGLIENZA CITTADINI STRANIERI IMMOBILE GAMBETTOLA VIA BRANCHISE",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "CAD SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S. IN SIGLA CAD SOC. COOP. SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 100320.0,
+   "aggiudicato": 50471.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "69776223D4",
+   "data": "2017-02-20",
+   "oggetto": "GESTIONE DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO DELL'UNIONE RUBICONE E MARE",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "CAD SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S. IN SIGLA CAD SOC. COOP. SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4851033.0,
+   "aggiudicato": 567718.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "LA BORGATA DI SAGGINARA S.R.L.",
+ "cf": "05489580653",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6639E562A",
+   "data": "2025-04-08",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DA EROGARSI A MINORI STRANIERI NON ACCOMPAGNATI (MSNA) DI ETÀ NON INFERIORE AI QUATTORDICI ANNI E GESTIONE DEI SERVIZI CONNESSI,",
+   "amministrazione": "PREFETTURA",
+   "ente": "LA BORGATA DI SAGGINARA S.R.L.",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 137710.0,
+   "aggiudicato": 137710.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

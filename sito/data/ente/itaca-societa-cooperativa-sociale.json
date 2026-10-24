@@ -1,0 +1,54 @@
+{
+ "nome": "ITACA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01658090624",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "972777912F",
+   "data": "2023-06-20",
+   "oggetto": "GARA EUROPEA PER IL SERVIZIO DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE CON CAPIENZA FINO A 50 POSTI PER N. 200 POSTI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO DI BN",
+   "ente": "ITACA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3386506.5,
+   "aggiudicato": 675549.9,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9485568A55",
+   "data": "2022-12-02",
+   "oggetto": "GARA EUROPEA PER IL SERVIZIO DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE CON CAPIENZA FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO DI BN",
+   "ente": "ITACA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3566261.7,
+   "aggiudicato": 434325.41,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

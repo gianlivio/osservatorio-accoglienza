@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE DONATELLA LELLA MOLTANI",
+ "cf": "97749440158",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B90D56E4F4",
+   "data": "2025-11-11",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA COLLETTIVI CON CAPIENZA FINO A 50 POSTI A FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "ASSOCIAZIONE DONATELLA LELLA MOLTANI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 810910.0,
+   "aggiudicato": 810910.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B6765D5A52",
+   "data": "2025-05-14",
+   "oggetto": "LOTTO 2: SERVIZI DI ACCOGLIENZA RELATIVI A CENTRI COLLETTIVI CON CAPIENZA FINO A 50 POSTI PER UN FABBISOGNO DI MAX 100 POSTI.",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "ASSOCIAZIONE DONATELLA LELLA MOLTANI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11420850.0,
+   "aggiudicato": 4307944.62,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "COMO"
+  }
+ ]
+}

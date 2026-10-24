@@ -1,0 +1,59 @@
+{
+ "nome": "SANTA FRANCESCA CABRINI SRL SOCIETA' BENEFIT IN BREVE SFC SRL SOC IETA' BENEFIT",
+ "cf": "09608450962",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "77898378D8",
+   "data": "2019-02-19",
+   "oggetto": "ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA MIGRANTI COSTITUITI DA CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "SANTA FRANCESCA CABRINI SRL SOCIETA' BENEFIT IN BREVE SFC SRL SOC IETA' BENEFIT",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6539900.0,
+   "aggiudicato": 769400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "68546002DD",
+   "data": "2016-08-11",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "SANTA FRANCESCA CABRINI SRL SOCIETA' BENEFIT IN BREVE SFC SRL SOC IETA' BENEFIT",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 136100.0,
+   "aggiudicato": 136100.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  }
+ ]
+}

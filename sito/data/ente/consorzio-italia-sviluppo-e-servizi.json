@@ -1,0 +1,49 @@
+{
+ "nome": "CONSORZIO ITALIA SVILUPPO E SERVIZI",
+ "cf": "02345740977",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "69550733CE",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 -POLLICINO",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "CONSORZIO ITALIA SVILUPPO E SERVIZI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 163426.2,
+   "aggiudicato": 163426.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6954983987",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - ASS MULTIETNICA DEI MEDIATORI INTERCULTURALI",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "CONSORZIO ITALIA SVILUPPO E SERVIZI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 339010.0,
+   "aggiudicato": 339010.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

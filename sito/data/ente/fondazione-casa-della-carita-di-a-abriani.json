@@ -1,0 +1,133 @@
+{
+ "nome": "FONDAZIONE CASA DELLA CARITA' DI A. ABRIANI",
+ "cf": "97316770151",
+ "affidamenti": 6,
+ "diretti": 1,
+ "quota_diretti": 16.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9886336E8B",
+   "data": "2023-06-14",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI CDC",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' DI A. ABRIANI",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 109257.0,
+   "aggiudicato": 88504.0,
+   "durata_gg": 120.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "9624987689",
+   "data": "2023-01-23",
+   "oggetto": "SERVIZI ACCOGLIENZA PROFUGHI UCRAINI CDC",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' DI A. ABRIANI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 133893.0,
+   "aggiudicato": 133893.0,
+   "durata_gg": 150.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "83596433A3",
+   "data": "2020-06-29",
+   "oggetto": "RIPETIZIONE SERVIZIO DI ACCOGLIENZA A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE O TITOLARI DI PROTEZIONE UMANITARIA CON DISAGIO MENTALE E/O PSICOLOGICO NELL'AMBITO DEL PROG",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' DI A. ABRIANI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 68050.56,
+   "aggiudicato": 68050.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "81881589BB",
+   "data": "2020-03-20",
+   "oggetto": "RIPETIZIONE SERVIZIO DI ACCOGLIENZA A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE O TITOLARI DI PROTEZIONE UMANITARIA CON DISAGIO MENTALE E/O PSICOLOGICO NELL'AMBITO DEL PROG",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' DI A. ABRIANI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 67310.88,
+   "aggiudicato": 67310.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "7219622C89",
+   "data": "2017-10-04",
+   "oggetto": "APPALTO N. 60/2017 - AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE O TITOLARI DI PROTEZIONE UMANITARIA NELL'AMBITO DEL PROGETTO SPRAR -",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' DI A. ABRIANI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 409266.0,
+   "aggiudicato": 269979.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6336460435",
+   "data": "2015-07-16",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER RIFUGIATI VULNERABILI - 90 GIORNI",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' DI A. ABRIANI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 67500.0,
+   "aggiudicato": 67500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

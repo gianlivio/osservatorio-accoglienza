@@ -1,0 +1,70 @@
+{
+ "nome": "GLI AMICI DI ELSA",
+ "cf": "01184660452",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7068823147",
+   "data": "2017-03-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 9 MAGGIO 31 AGOSTO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "GLI AMICI DI ELSA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 95220.0,
+   "aggiudicato": 69552.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "702914491F",
+   "data": "2017-03-27",
+   "oggetto": "SSERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 APRILE - 31 AGOSTO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "GLI AMICI DI ELSA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 68620.5,
+   "aggiudicato": 12420.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "7029130D90",
+   "data": "2017-03-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 APRILE - 31 AGOSTO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "GLI AMICI DI ELSA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 72828.0,
+   "aggiudicato": 58072.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

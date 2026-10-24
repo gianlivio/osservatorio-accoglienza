@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE LA SORGENTE ONLUS",
+ "cf": "90005390886",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7180464258",
+   "data": "2017-06-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "ASSOCIAZIONE LA SORGENTE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 67599.0,
+   "aggiudicato": 67599.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

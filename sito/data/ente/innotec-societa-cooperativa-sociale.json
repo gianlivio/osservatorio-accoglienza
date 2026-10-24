@@ -1,0 +1,74 @@
+{
+ "nome": "INNOTEC SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "06428030727",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B321B96A4A",
+   "data": "2024-09-24",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE AI SENSI DEL DM 18 NOVEMBRE 2019, DEI PROGETTI SAI MSNA FINO AL 31/10/2025 PROG-1935- PR-2",
+   "amministrazione": "UNIONE DEI COMUNI MONTEDORO",
+   "ente": "INNOTEC SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 286358.66,
+   "aggiudicato": 287358.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B18F6165AC",
+   "data": "2024-05-08",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI INNOTEC SOCIETA' COOPERATIVA SOCIALE. IMPEGNO DI SPESA PRESUNTO PER",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "INNOTEC SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11880.0,
+   "aggiudicato": 11880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B17977086C",
+   "data": "2024-05-02",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI INNOTEC SOCIETA' COOPERATIVA SOCIALE. IMPEGNO DI SPESA PRESUNTO PER",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "INNOTEC SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11880.0,
+   "aggiudicato": 11880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

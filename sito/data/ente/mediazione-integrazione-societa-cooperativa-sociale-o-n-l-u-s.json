@@ -1,0 +1,38 @@
+{
+ "nome": "MEDIAZIONE - INTEGRAZIONE SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "02644200129",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0932E6481",
+   "data": "2024-02-27",
+   "oggetto": "GESTIONE SPORTELLI IMMIGRATI DISTRETTUALI 2024-2025",
+   "amministrazione": "COMUNE DI LUINO",
+   "ente": "MEDIAZIONE - INTEGRAZIONE SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31680.0,
+   "aggiudicato": 31680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  }
+ ]
+}

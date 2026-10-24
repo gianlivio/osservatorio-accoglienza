@@ -1,0 +1,33 @@
+{
+ "nome": "TEMPUS SOCIETA' COOPERATIVA SOCIALE ONLUS - IN LIQUIDAZIONE",
+ "cf": "01174800258",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "68438267DF",
+   "data": "2016-10-05",
+   "oggetto": "ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "TEMPUS SOCIETA' COOPERATIVA SOCIALE ONLUS - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA RISTRETTA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 103700.0,
+   "aggiudicato": 17289.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

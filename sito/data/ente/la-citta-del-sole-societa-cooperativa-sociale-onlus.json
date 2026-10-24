@@ -1,0 +1,101 @@
+{
+ "nome": "LA CITTA' DEL SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02249830510",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B33CA8EFD4",
+   "data": "2024-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "LA CITTA' DEL SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4925214.83,
+   "aggiudicato": 4925214.83,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "A01E5DA0CC",
+   "data": "2023-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI SECONDO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2023 AL 31 OTTOBRE 2024 (COOPERATIVA LA CITTÀ DEL SOLE ONLUS)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "LA CITTA' DEL SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2133211.03,
+   "aggiudicato": 2133211.03,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9418132863",
+   "data": "2022-10-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRIMO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2022 AL 31 OTTOBRE 2023 (COOPERATIVA LA CITTÀ DEL SOLE ONLUS)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "LA CITTA' DEL SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2133353.83,
+   "aggiudicato": 2133353.83,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "8452283495",
+   "data": "2020-10-28",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) COOPERATIVA LA CITTA",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "LA CITTA' DEL SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 900974.03,
+   "aggiudicato": 900974.03,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "CANCELLONI FOOD SERVICE S.P.A",
+ "cf": "00506790542",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7108430DFE",
+   "data": "2017-06-16",
+   "oggetto": "FORNITURA DERRATE ALIMENTARI PER PREPARAZIONE PASTI (AUTO-CUCINA) OSPITI CENTRI ACCOGLIENZA VIALE BELFIORE (VILLA CARMEN) FIRENZE MINORI STRANIERI NON ACCOMPAGNATI PROG-1215 GULLIV",
+   "amministrazione": "IL CENACOLO COOP. SOCIALE ONLUS",
+   "ente": "CANCELLONI FOOD SERVICE S.P.A",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 61897.5,
+   "aggiudicato": 61897.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

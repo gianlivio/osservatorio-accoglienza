@@ -1,0 +1,38 @@
+{
+ "nome": "DOMINA MARIO WALTER",
+ "cf": "01669940882",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2A70B155A",
+   "data": "2024-08-01",
+   "oggetto": "AFFIDAMENTO DI SERVIZIO SAI",
+   "amministrazione": "COMUNE DI PETRALIA SOPRANA",
+   "ente": "DOMINA MARIO WALTER",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16106.08,
+   "aggiudicato": 16106.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

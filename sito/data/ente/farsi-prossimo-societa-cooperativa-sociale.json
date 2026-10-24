@@ -1,0 +1,38 @@
+{
+ "nome": "FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01208760866",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7367751C74",
+   "data": "2018-01-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI ENNA",
+   "ente": "FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 234642.85,
+   "aggiudicato": 234642.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  }
+ ]
+}

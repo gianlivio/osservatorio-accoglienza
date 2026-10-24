@@ -1,0 +1,213 @@
+{
+ "nome": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01227430228",
+ "affidamenti": 11,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "80862600DA",
+   "data": "2019-10-31",
+   "oggetto": "RINNOVO SERVIZIO DI SUPPORTO SOCIALE AGLI ADULTI SINGOLI E AI NUCLEI FAMILIARI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE INSERITI NELL'ACCOGLIENZA STRAORDINARIA PREVISTA DA",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 61327.2,
+   "aggiudicato": 61327.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "78041257AD",
+   "data": "2019-02-22",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO A",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 118689.2,
+   "aggiudicato": 124267.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7436773B36",
+   "data": "2018-03-30",
+   "oggetto": "D.LGS. 142/2015. RINNOVO DEL CONTRATTO CON L'ATI ARCOBALENO SOCIETÀ COOPERATIVA (MANDATARIA) E PUNTO D'APPRODO S.C.S. ONLUS (MANDANTE), AVENTE AD OGGETTO IL SERVIZIO DI ACCOGLIENZA",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 401247.0,
+   "aggiudicato": 401247.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7372757F88",
+   "data": "2018-01-26",
+   "oggetto": "DETERMINAZIONE N. 19 DEL 26/01/2018. CONFRONTO CONCORRENZIALE, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETTERA B, DEL DECRETO LEGISLATIVO N. 50/2016, PER L'EFFETTUAZIONE DEL SERVIZIO D",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 559360.0,
+   "aggiudicato": 269587.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7372576A2C",
+   "data": "2018-01-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 69920.0,
+   "aggiudicato": 33774.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "737240905F",
+   "data": "2018-01-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139840.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7355191F9C",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 162773.76,
+   "aggiudicato": 54257.92,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7352315A44",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 691788.48,
+   "aggiudicato": 230596.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7352162C01",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 763002.0,
+   "aggiudicato": 254334.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "70308676FD",
+   "data": "2017-03-31",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA DEI CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO AL TRENTINO. AGGIUDIC",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 360732.0,
+   "aggiudicato": 360732.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6760955490",
+   "data": "2016-07-29",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI INSEGNAMENTO DELLA LINGUA E CULTURA ITALIANA RIVOLTO ALLE PERSONE RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO AL TR",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1018608.0,
+   "aggiudicato": 763945.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

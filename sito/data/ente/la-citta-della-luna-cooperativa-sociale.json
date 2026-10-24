@@ -1,0 +1,63 @@
+{
+ "nome": "LA CITTA' DELLA LUNA COOPERATIVA SOCIALE",
+ "cf": "03783230653",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B86F91194E",
+   "data": "2025-10-29",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI DUE MINORI STRANIERI NON ACCOMPAGNATI A CITTÀ DELLA LUNA COOP. SOC. PERIODO 01.10.2025 - 30.04.2027",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "LA CITTA' DELLA LUNA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86991.3,
+   "aggiudicato": 86991.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "8466877FEB",
+   "data": "2020-10-23",
+   "oggetto": "INDIVIDUAZIONE DI UN ENTE ATTUATORE PER LA PROSECUZIONE DEI SERVIZI PREVISTI DAL PROGETTO DI ACCOGLIENZA INTEGRATA NEL QUADRO DEL SISTEMA SIPROIMI DI CUI E",
+   "amministrazione": "COMUNE DI LACEDONIA",
+   "ente": "LA CITTA' DELLA LUNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1095000.0,
+   "aggiudicato": 973333.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

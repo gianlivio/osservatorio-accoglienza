@@ -1,0 +1,59 @@
+{
+ "nome": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03179070796",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B42B6B8F9A",
+   "data": "2024-11-07",
+   "oggetto": "SERVIZI ACCOGLIENZA IMMIGRATI ADULTI LOTTO 2 NUOVI ORIZZONTI",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4384686.6,
+   "aggiudicato": 4384686.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "6570895A15",
+   "data": "2016-02-03",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA, PRESSO STRUTTURE TEMPORANEE DA INDIVIDUARSI NELLA PROVINCIA DI CATANZARO AI SENSI DELL'ART. 11 DEL D. LGS. N. 142/2015, IN FAVORE DI CITTADIN",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5670000.0,
+   "aggiudicato": 5670000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

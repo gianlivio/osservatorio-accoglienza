@@ -1,0 +1,38 @@
+{
+ "nome": "MOBILI MARTINO S.R.L.",
+ "cf": "04377610656",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B00AFDB081",
+   "data": "2024-01-19",
+   "oggetto": "FORNITURA (COMPRENSIVA DI TRASPORTO E MONTAGGIO) DI ARMADI DA DESTINARE ALLE COMUNITA` PER MINORI STRANIERI NON ACCOMPAGNATI DENOMINATE ALBATROS 1 E 2 E N. 2 TAVOLI A FAVORE DEL CE",
+   "amministrazione": "ASP CITTA DI PIACENZA",
+   "ente": "MOBILI MARTINO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12370.0,
+   "aggiudicato": 12370.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

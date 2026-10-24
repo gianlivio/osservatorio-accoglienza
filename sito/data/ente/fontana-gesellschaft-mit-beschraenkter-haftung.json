@@ -1,0 +1,38 @@
+{
+ "nome": "FONTANA GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG",
+ "cf": "02965400217",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B320AF1DFF",
+   "data": "2024-09-23",
+   "oggetto": "PROGETTO SAI - ACQUISTO DI UN CONGELATORE",
+   "amministrazione": "COMUNITA COMPRENSORIALE BURGRAVIATO",
+   "ente": "FONTANA GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG",
+   "procedura": "AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 245.08,
+   "aggiudicato": 245.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

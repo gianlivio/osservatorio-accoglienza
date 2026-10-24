@@ -1,0 +1,107 @@
+{
+ "nome": "NUOVE FRONTIERE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "04069090167",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7312619419",
+   "data": "2017-12-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZ. INTERNAZ. - COOPSSE - LOTTO 1",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "NUOVE FRONTIERE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 381717.0,
+   "aggiudicato": 381717.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7311342648",
+   "data": "2016-12-21",
+   "oggetto": "SERVIZI DI ASSISTENZA E DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "NUOVE FRONTIERE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 24809758.1,
+   "aggiudicato": 6252279.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6786542F9C",
+   "data": "2016-08-26",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E SERVIZI CONNESSI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "NUOVE FRONTIERE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 64241.64,
+   "aggiudicato": 64241.64,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6786539D23",
+   "data": "2016-08-26",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E SERVIZI CONNESSI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "NUOVE FRONTIERE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 266602.5,
+   "aggiudicato": 266602.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "678653275E",
+   "data": "2016-08-26",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E SERVIZI CONNESSI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "NUOVE FRONTIERE SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74755.8,
+   "aggiudicato": 74755.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

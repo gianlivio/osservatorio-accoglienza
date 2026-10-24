@@ -1,0 +1,123 @@
+{
+ "nome": "ARDEA",
+ "cf": "91130800401",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A035DB17EB",
+   "data": "2023-11-30",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ARDEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 195140.0,
+   "aggiudicato": 195140.0,
+   "durata_gg": 132.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "A035C46C5B",
+   "data": "2023-11-30",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ARDEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 67954.0,
+   "aggiudicato": 67954.0,
+   "durata_gg": 132.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "A01E2EC5DF",
+   "data": "2023-10-11",
+   "oggetto": "OSPITALITÀ MIGRANTI UNITA ABITATIVE DAL 11/10/2023 AL 30/11/2023",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ARDEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 80000.0,
+   "aggiudicato": 80000.0,
+   "durata_gg": 51.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "A018651A3B",
+   "data": "2023-10-02",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE -",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ARDEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 140000.0,
+   "aggiudicato": 140000.0,
+   "durata_gg": 71.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "A0001F3C99",
+   "data": "2023-07-31",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ARDEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "6668093C68",
+   "data": "2016-04-15",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL TERRITORIO DELLA PROVINCIA DI RIMINI ANNO 2016",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ARDEA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4000000.0,
+   "aggiudicato": 4000000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

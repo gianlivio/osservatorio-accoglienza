@@ -1,0 +1,38 @@
+{
+ "nome": "GRP SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "16337261008",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9B4A67089",
+   "data": "2025-12-19",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "GRP SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139999.0,
+   "aggiudicato": 139999.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

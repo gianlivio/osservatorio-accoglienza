@@ -1,0 +1,38 @@
+{
+ "nome": "VIALE K ODV",
+ "cf": "93018890389",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B19DE27787",
+   "data": "2024-05-13",
+   "oggetto": "ACCOGLIENZA PROFUGHI UCRAINI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "VIALE K ODV",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 749000.0,
+   "aggiudicato": 749000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

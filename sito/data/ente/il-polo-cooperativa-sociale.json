@@ -1,0 +1,102 @@
+{
+ "nome": "IL POLO COOPERATIVA SOCIALE",
+ "cf": "10195821219",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2500DE384",
+   "data": "2024-07-03",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "IL POLO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 132500.0,
+   "aggiudicato": 132500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B2500DE384",
+   "data": "2024-07-03",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "IL POLO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 132500.0,
+   "aggiudicato": 132500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B24ED532E9",
+   "data": "2024-07-03",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "ALMA SOCIETA' COOPERATIVA SOCIALE SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12400.0,
+   "aggiudicato": 12400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B24ED532E9",
+   "data": "2024-07-03",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "ALMA SOCIETA' COOPERATIVA SOCIALE SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12400.0,
+   "aggiudicato": 12400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B05CF29FF0",
+   "data": "2024-02-13",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "ALMA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24200.0,
+   "aggiudicato": 24200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

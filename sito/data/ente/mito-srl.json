@@ -1,0 +1,38 @@
+{
+ "nome": "MITO SRL",
+ "cf": "08214980966",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9162228DB8",
+   "data": "2022-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO A MITO SRL PER EMERGENZA PROFUGHI UCRAINI COME DA OCDPC 872/2022",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "MITO SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 286.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

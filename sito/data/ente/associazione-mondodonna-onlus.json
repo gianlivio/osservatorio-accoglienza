@@ -1,0 +1,107 @@
+{
+ "nome": "ASSOCIAZIONE MONDODONNA ONLUS",
+ "cf": "04341370379",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7956D9117",
+   "data": "2025-07-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MSNA LUG - DIC 25",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASSOCIAZIONE MONDODONNA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 552000.0,
+   "aggiudicato": 552000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B78A58E28D",
+   "data": "2025-07-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASSOCIAZIONE MONDODONNA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 702587.0,
+   "aggiudicato": 702587.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B696EAB905",
+   "data": "2025-04-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASSOCIAZIONE MONDODONNA ONLUS",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 348883.94,
+   "aggiudicato": 348883.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B4E1BFA553",
+   "data": "2024-12-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASSOCIAZIONE MONDODONNA ONLUS",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 685450.7,
+   "aggiudicato": 685450.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B128979826",
+   "data": "2024-04-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASSOCIAZIONE MONDODONNA ONLUS",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 597000.0,
+   "aggiudicato": 597000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

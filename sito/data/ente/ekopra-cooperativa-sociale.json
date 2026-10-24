@@ -1,0 +1,213 @@
+{
+ "nome": "EKOPRA COOPERATIVA SOCIALE",
+ "cf": "03141100986",
+ "affidamenti": 11,
+ "diretti": 9,
+ "quota_diretti": 81.8,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 8,
+   "diretti": 7,
+   "quota_diretti": 87.5
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 11
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "946514980B",
+   "data": "2022-10-20",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2022-2023 EKOPRA SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 891171.17,
+   "aggiudicato": 891171.17,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "8930813408",
+   "data": "2021-11-01",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2021-2022 - EKOPRA SOC.COOP.SOCIALE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 891171.17,
+   "aggiudicato": 891171.17,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "8299812588",
+   "data": "2020-04-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DEI MIGRANTI IN CENTRI COSTITUITI DA SINGOLE UNITÀ ABITATIVE. DAL 1^.4.2020 AL 31.3.2021. EKOPRA.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 388942.5,
+   "aggiudicato": 388942.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "790182369E",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020 (EMERGENCY TRANSPORT).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 303907.5,
+   "aggiudicato": 303907.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7901796058",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020 (DHARMA SOC. COOP. SOCIALE).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 264945.0,
+   "aggiudicato": 264945.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "79017770AA",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020 (BENTABIB NAJAT).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 233775.0,
+   "aggiudicato": 233775.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7901712B03",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020 (TECNOPROGET SOC. COOPERATIVA).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 311700.0,
+   "aggiudicato": 311700.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7901689809",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020 (L'IPPOGRIFO SOC. COOP. SOC.).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 366247.5,
+   "aggiudicato": 366247.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7901659F45",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020 (KOALA SOC. COOP. SOCIALE).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 233775.0,
+   "aggiudicato": 233775.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "79016220C1",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020 (FONDAZIONE DON A. MADEO CARITAS CREMA).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 389625.0,
+   "aggiudicato": 389625.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7779983512",
+   "data": "2019-01-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. ACCORDEO QUADRO BIENNALE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "EKOPRA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 29143950.0,
+   "aggiudicato": 7011279.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

@@ -11,6 +11,8 @@ Z_VIN  = "dati-grezzi/aggiudicatari_csv.zip"
 OUTJS  = "sito/data/province-lite.json"
 OUTDIR_PROV = "sito/data/provincia"
 OUTDIR_CSV = "sito/public/dati"
+OUTDIR_ENTI = "sito/data/ente"
+OUTENTI = "sito/data/enti.json"
 CAMPI_ANNO_LITE = ("affidamenti", "quota_diretti", "importo_mediano", "enti_gestori")
 
 def pulisci(v):
@@ -293,6 +295,50 @@ scrivi_csv(f"{OUTDIR_CSV}/contratti.csv", righe, con_provincia=True)
 
 dati["province"] = province_lite
 json.dump(dati, open(OUTJS, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+# --- 6. enti gestori: una pagina per codice fiscale di 11 cifre (le persone fisiche e i record senza cf restano fuori)
+CF_ENTE = re.compile(r"\d{11}")
+per_cf = collections.defaultdict(list)
+for r in righe:
+    if r["vincitore"] and CF_ENTE.fullmatch(r["cf_vincitore"]):
+        per_cf[r["cf_vincitore"]].append(r)
+
+def nome_ente(rr):
+    return collections.Counter(r["vincitore"] for r in rr).most_common(1)[0][0]
+
+nomi = {cf: nome_ente(rr) for cf, rr in per_cf.items()}
+usati = collections.Counter(slug(n) or cf for cf, n in nomi.items())  # omonimi: lo slug porta anche il cf
+slug_ente = {cf: (slug(n) or cf) if usati[slug(n) or cf] == 1 else f"{slug(n)}-{cf}" for cf, n in nomi.items()}
+
+os.makedirs(OUTDIR_ENTI, exist_ok=True)
+for vecchio in glob.glob(f"{OUTDIR_ENTI}/*.json"):
+    os.remove(vecchio)
+indice_enti = []
+for cf, rr in per_cf.items():
+    elenco = sorted(rr, key=lambda r: (r["data_pubblicazione"] or "", r["cig"]), reverse=True)
+    per_anno_e = {}
+    for a in sorted({r["anno"] for r in rr}):
+        ra = [r for r in rr if r["anno"] == a]
+        d = sum(1 for r in ra if diretto(r))
+        per_anno_e[a] = {"affidamenti": len(ra), "diretti": d, "quota_diretti": round(d / len(ra) * 100, 1)}
+    d_tot = sum(1 for r in rr if diretto(r))
+    prov_e = collections.Counter((r["provincia"] or "").strip() for r in rr if (r["provincia"] or "").strip())
+    dettaglio_e = {
+        "nome": nomi[cf],
+        "cf": cf,
+        "affidamenti": len(rr),
+        "diretti": d_tot,
+        "quota_diretti": round(d_tot / len(rr) * 100, 1),
+        "per_anno": per_anno_e,
+        "province": [{"provincia": k, "affidamenti": v} for k, v in sorted(prov_e.items(), key=lambda kv: (-kv[1], kv[0]))],
+        "contratti": [dict(contratto(r), provincia=(r["provincia"] or "").strip() or None) for r in elenco],
+    }
+    with open(f"{OUTDIR_ENTI}/{slug_ente[cf]}.json", "w", encoding="utf-8") as f:
+        json.dump(dettaglio_e, f, ensure_ascii=False, indent=1)
+    indice_enti.append({"nome": nomi[cf], "slug": slug_ente[cf], "cf": cf, "affidamenti": len(rr)})
+indice_enti.sort(key=lambda e: (-e["affidamenti"], e["nome"]))
+json.dump(indice_enti, open(OUTENTI, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print(f"enti: {len(indice_enti)}  ->  {OUTENTI}, {OUTDIR_ENTI}/")
 
 for a in ANNI:
     b = dati["per_anno"][a]

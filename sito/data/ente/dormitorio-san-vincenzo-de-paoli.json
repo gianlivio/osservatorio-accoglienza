@@ -1,0 +1,54 @@
+{
+ "nome": "DORMITORIO SAN VINCENZO DE PAOLI",
+ "cf": "98058870175",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7372048675",
+   "data": "2017-06-21",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "DORMITORIO SAN VINCENZO DE PAOLI",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "7785015D99",
+   "data": "2017-02-01",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "DORMITORIO SAN VINCENZO DE PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 65000.0,
+   "aggiudicato": 65000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

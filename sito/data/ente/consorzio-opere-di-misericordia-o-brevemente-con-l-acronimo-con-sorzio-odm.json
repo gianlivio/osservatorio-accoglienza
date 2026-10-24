@@ -1,0 +1,303 @@
+{
+ "nome": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+ "cf": "06515510482",
+ "affidamenti": 15,
+ "diretti": 12,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 10,
+   "diretti": 8,
+   "quota_diretti": 80.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "PISTOIA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B99E36909B",
+   "data": "2025-12-17",
+   "oggetto": "OVER QUOTA PER SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO PER LE STRUTTURE IN SINGOLE UNITA' ABITATIVE SITE IN PISTOIA, SAMBUCA P.SE, PESCIA, LAMPORECCHIO - SETTEMBRE 2023 DICEMBRE ",
+   "amministrazione": "PREFETTURA DI PISTOIA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 117445.03,
+   "aggiudicato": 117445.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  },
+  {
+   "cig": "B17AEA70C0",
+   "data": "2024-05-03",
+   "oggetto": "SERVIZI DI ACCOGLIENZA DEI MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE PER VARIE STRUTTURE.",
+   "amministrazione": "PREFETTURA DI PISTOIA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72138.5,
+   "aggiudicato": 72138.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  },
+  {
+   "cig": "84899944AF",
+   "data": "2020-10-30",
+   "oggetto": "RINNOVO CONVENZIONE PER L'AFFIDAMENTO DEL SERIVZIO GESTIONE DEI CENTRI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE OSPITATI PRESSO STRUTTURE COSTITU",
+   "amministrazione": "PREFETTURA DI PISTOIA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 389491.5,
+   "aggiudicato": 389491.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  },
+  {
+   "cig": "7886615096",
+   "data": "2019-04-30",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE OSPITATIIN CENTRI COLLETTIVI CON CAPACITÀ INFERIORE A 50 UNITÀ",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 961775.0,
+   "aggiudicato": 961775.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  },
+  {
+   "cig": "7324965058",
+   "data": "2017-12-22",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO NELLA CITTÀ METROPOLITANA DI BARI",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 84958168.4,
+   "aggiudicato": 238893.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "73261989D6",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1455933.9,
+   "aggiudicato": 1455933.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7325912DD1",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4856544.0,
+   "aggiudicato": 4856544.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7325815DC5",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1715328.45,
+   "aggiudicato": 1715328.45,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7325754B6F",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018-31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3141752.1,
+   "aggiudicato": 3141752.1,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7320851D59",
+   "data": "2017-12-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 476730.15,
+   "aggiudicato": 476730.15,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7320500BB2",
+   "data": "2017-12-18",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13826565.0,
+   "aggiudicato": 13826565.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7212781F29",
+   "data": "2017-07-01",
+   "oggetto": "GESTIONE CAS MIGRANTI OLTREILMARE - 2^CONVENZIONE 2017",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 510720.0,
+   "aggiudicato": 510720.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7126960970",
+   "data": "2017-07-01",
+   "oggetto": "CONVENZIONE CAS MIGRANTI IL CAMMINO GARA 2017",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 320416.0,
+   "aggiudicato": 320416.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "71051825AB",
+   "data": "2017-07-01",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA MIGRANTI AGAPE 1 GARA 2017",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 251712.0,
+   "aggiudicato": 251712.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "67246046C4",
+   "data": "2016-06-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "CONSORZIO OPERE DI MISERICORDIA O, BREVEMENTE, CON L'ACRONIMO CON SORZIO ODM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 673750.0,
+   "aggiudicato": 673750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

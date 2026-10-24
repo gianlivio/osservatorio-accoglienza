@@ -1,0 +1,38 @@
+{
+ "nome": "ABIGAIL SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03584940799",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VIBO VALENTIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "75656170A8",
+   "data": "2018-07-30",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA , INTEGRAZIONE A FAVORE DEI RICHIEDENTI ASILO E RIFUGIATI SPRAR",
+   "amministrazione": "COMUNE DI MILETO",
+   "ente": "ABIGAIL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 665371.43,
+   "aggiudicato": 648331.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VIBO VALENTIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "IL MONDO DI WINNIE SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+ "cf": "02618630608",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "79952343D1",
+   "data": "2019-07-03",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI PROVINCIA FROSINONE",
+   "amministrazione": "PREFETTURA DI FROSINONE",
+   "ente": "IL MONDO DI WINNIE SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 283575.0,
+   "aggiudicato": 283575.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

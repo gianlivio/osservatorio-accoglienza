@@ -1,0 +1,59 @@
+{
+ "nome": "MONDO SOLIDALE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03229710615",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B831B293D0",
+   "data": "2025-09-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "MONDO SOLIDALE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3708602.94,
+   "aggiudicato": 3708602.94,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "98561120ED",
+   "data": "2023-06-14",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COSTITUITI DA UNITÀ ABITATIVE FINO A 50 POSTI COOPERATIVA MONDO SOLIDALE",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "MONDO SOLIDALE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2110240.38,
+   "aggiudicato": 2110240.38,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

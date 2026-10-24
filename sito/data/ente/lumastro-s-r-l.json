@@ -1,0 +1,38 @@
+{
+ "nome": "LUMASTRO S.R.L.",
+ "cf": "03251360792",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A00298C9EB",
+   "data": "2023-08-09",
+   "oggetto": "COMPLETAMENTO LAVORI NON ULTIMATI CENTRO ACCOGLIENZA DA DESTINARE A PROFUGHI IN FUGA DALLE GUERRE (NUCLEIFAMILIARI, DONNE,BAMBINI)",
+   "amministrazione": "COMUNE DI VERZINO",
+   "ente": "LUMASTRO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60950.99,
+   "aggiudicato": 59711.99,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

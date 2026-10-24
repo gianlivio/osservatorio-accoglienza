@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE LA SALUTE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01508690466",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73263810DD",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "COOPERATIVA SOCIALE LA SALUTE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1116900.0,
+   "aggiudicato": 1116900.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  }
+ ]
+}

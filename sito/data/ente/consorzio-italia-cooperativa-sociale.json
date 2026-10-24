@@ -1,0 +1,33 @@
+{
+ "nome": "CONSORZIO ITALIA COOPERATIVA SOCIALE",
+ "cf": "06936861217",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "70701410ED",
+   "data": "2017-05-23",
+   "oggetto": "SPORTELLO PER L'INTEGRAZIONE SOCIO SANITARIA CULTURALE DEGLI IMMIGRATI",
+   "amministrazione": "COMUNE DI MANDURIA",
+   "ente": "CONSORZIO ITALIA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 123200.0,
+   "aggiudicato": 98560.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

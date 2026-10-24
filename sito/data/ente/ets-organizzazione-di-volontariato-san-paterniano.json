@@ -1,0 +1,75 @@
+{
+ "nome": "ETS ORGANIZZAZIONE DI VOLONTARIATO SAN PATERNIANO",
+ "cf": "01446530410",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B190780488",
+   "data": "2024-05-08",
+   "oggetto": "SERVIZI DI GESTIONE DI CENTRI DI PRIMA ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE CENTRI COLLETTIVI ENTRO 50 POSTI",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "ETS ORGANIZZAZIONE DI VOLONTARIATO SAN PATERNIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 130507.2,
+   "aggiudicato": 130507.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  },
+  {
+   "cig": "9628354114",
+   "data": "2022-12-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI UCRAINA DAL 1/02/2023 AL 4/03/2023 - SAN PATERNIANO",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "ETS ORGANIZZAZIONE DI VOLONTARIATO SAN PATERNIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50426.17,
+   "aggiudicato": 50426.5,
+   "durata_gg": 32.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9227531F75",
+   "data": "2022-03-07",
+   "oggetto": "SERVIZIO GESTIONE POSTI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (UCRAINI) TERZA CONVENZIONE",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "ETS ORGANIZZAZIONE DI VOLONTARIATO SAN PATERNIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 268998.39,
+   "aggiudicato": 147602.7,
+   "durata_gg": 245.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  }
+ ]
+}

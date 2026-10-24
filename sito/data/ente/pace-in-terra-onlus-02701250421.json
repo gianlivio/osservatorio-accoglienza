@@ -1,0 +1,38 @@
+{
+ "nome": "PACE IN TERRA ONLUS",
+ "cf": "02701250421",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B56C02A360",
+   "data": "2025-01-31",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI MACERATA",
+   "ente": "PACE IN TERRA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56071.92,
+   "aggiudicato": 56071.92,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MACERATA"
+  }
+ ]
+}

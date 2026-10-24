@@ -1,0 +1,38 @@
+{
+ "nome": "CONFRATERNITA DELLA MISERICORDIA",
+ "cf": "00364130468",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6829928AE0",
+   "data": "2016-10-06",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 7.10.2016 - 31.12.2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CONFRATERNITA DELLA MISERICORDIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 59923.08,
+   "aggiudicato": 59923.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  }
+ ]
+}

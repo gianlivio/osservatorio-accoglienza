@@ -1,0 +1,91 @@
+{
+ "nome": "LA VELA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "01975600170",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B3255C7FAD",
+   "data": "2024-09-24",
+   "oggetto": "INTEGRAZIONE PER CITTADINI STRANIERI NELL'AMBITO 24_25",
+   "amministrazione": "COMUNE DI MONTICHIARI",
+   "ente": "LA VELA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20799.39,
+   "aggiudicato": 20799.39,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "7372387E33",
+   "data": "2017-06-21",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "LA VELA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 50000.0,
+   "aggiudicato": 50000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "81949720D5",
+   "data": "2017-03-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "LA VELA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55000.0,
+   "aggiudicato": 55000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "7785063538",
+   "data": "2017-02-01",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "LA VELA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52380.95,
+   "aggiudicato": 52380.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

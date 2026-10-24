@@ -1,0 +1,63 @@
+{
+ "nome": "ASSOCIAZIONE BETANIA O.D.V.",
+ "cf": "02206130235",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "81910750ED",
+   "data": "2019-11-11",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "ASSOCIAZIONE BETANIA O.D.V.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39000.0,
+   "aggiudicato": 39000.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "7003780617",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ASS. BETANIA",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "ASSOCIAZIONE BETANIA O.D.V.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 795528.0,
+   "aggiudicato": 795528.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

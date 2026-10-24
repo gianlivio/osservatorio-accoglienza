@@ -1,0 +1,38 @@
+{
+ "nome": "ING. CICINELLI VALERIA",
+ "cf": "07999510725",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A03A326943",
+   "data": "2023-12-07",
+   "oggetto": "P23-460 - BARI PALESE - SERVIZI VARI DI INGEGNERIA PROGETTO DI SOSTITUZIONE DEI MODULI ABITATIVI IN DISUSO DEL CENTRO ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A.) E.F 2023",
+   "amministrazione": "3 REPARTO GENIO A.M.BARI",
+   "ente": "ING. CICINELLI VALERIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52083.89,
+   "aggiudicato": 51042.21,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

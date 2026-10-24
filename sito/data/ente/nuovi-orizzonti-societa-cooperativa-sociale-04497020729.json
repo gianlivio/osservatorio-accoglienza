@@ -1,0 +1,59 @@
+{
+ "nome": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04497020729",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "69550153F1",
+   "data": "2017-01-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ALTAMURA GRAVINA POGGIORSINI SANTERAMO",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3748500.0,
+   "aggiudicato": 77579.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "6708765802",
+   "data": "2016-06-04",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-AMBITO TERRITORIALE ALTAMURA-GRAVINA IN PUGLIA-POGGIORSINI-SANTERAMO IN CO",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "NUOVI ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2380000.0,
+   "aggiudicato": 124807.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

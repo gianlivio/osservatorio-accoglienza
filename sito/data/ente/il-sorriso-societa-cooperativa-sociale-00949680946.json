@@ -1,0 +1,54 @@
+{
+ "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00949680946",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A04283EE5C",
+   "data": "2023-12-21",
+   "oggetto": "RINNOVO CONVENZIONE SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI- L.C. STRUTTURA DI VIA TAVERNA 32",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 91390.01,
+   "aggiudicato": 91390.01,
+   "durata_gg": 283.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "A0427F2FA4",
+   "data": "2023-12-21",
+   "oggetto": "RINNOVO CONVENZIONE SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI- DUELLE SRL",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 386894.2,
+   "aggiudicato": 386894.2,
+   "durata_gg": 283.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

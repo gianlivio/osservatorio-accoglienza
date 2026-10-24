@@ -1,0 +1,59 @@
+{
+ "nome": "IMPRESA SOCIALE OPERA TRINITARIA S.R.L.",
+ "cf": "01092340312",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "92580386A4",
+   "data": "2022-05-02",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE COSTITUITI CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "IMPRESA SOCIALE OPERA TRINITARIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1210230.5,
+   "aggiudicato": 1210230.5,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  },
+  {
+   "cig": "8667873B12",
+   "data": "2021-04-06",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE COSTITUITI COME CENTRI COLLETTIVI TRA 50 E 100 POSTI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "IMPRESA SOCIALE OPERA TRINITARIA S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8229567.4,
+   "aggiudicato": 4114783.7,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

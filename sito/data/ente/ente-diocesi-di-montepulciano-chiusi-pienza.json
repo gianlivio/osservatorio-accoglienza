@@ -1,0 +1,38 @@
+{
+ "nome": "ENTE DIOCESI DI MONTEPULCIANO - CHIUSI - PIENZA",
+ "cf": "90003090520",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6183879A60",
+   "data": "2015-03-19",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "ENTE DIOCESI DI MONTEPULCIANO - CHIUSI - PIENZA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 920000.0,
+   "aggiudicato": 828000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE ACTL",
+ "cf": "00365330554",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0AB47F90B",
+   "data": "2024-03-05",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE ACTL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28720.0,
+   "aggiudicato": 28720.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B09947AAA5",
+   "data": "2024-02-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE ACTL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25620.0,
+   "aggiudicato": 25620.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B098411FDD",
+   "data": "2024-02-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE ACTL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27440.0,
+   "aggiudicato": 27440.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

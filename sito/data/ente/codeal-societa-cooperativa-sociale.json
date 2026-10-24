@@ -1,0 +1,402 @@
+{
+ "nome": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01193370077",
+ "affidamenti": 20,
+ "diretti": 7,
+ "quota_diretti": 35.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2019": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "ASTI",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "MODENA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8B7F08E80",
+   "data": "2025-10-20",
+   "oggetto": "AFFIDAMENTO A CODEAL S.C.S. DEL SERVIZIO DI ACCOGLIENZA AI SENSI DELL'ARTICOLO 76, COMMA 2, LETTERA A) DEL D.LGS. 36/2023,",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1368745.75,
+   "aggiudicato": 1368745.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B5B7B59375",
+   "data": "2025-02-19",
+   "oggetto": "CODEAL - SERVIZIO ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN STRUTTURE COSTITUITE DA SINGOLE UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12503831.28,
+   "aggiudicato": 12503831.28,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B3752AA812",
+   "data": "2024-10-15",
+   "oggetto": "PROROGA SERVIZIO ACCOGLIENZA MIGRANTI - 1.10.2024 - 30.11.2024 - CODEAL",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 249777.68,
+   "aggiudicato": 249777.68,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B1EF9B9212",
+   "data": "2024-05-31",
+   "oggetto": "PROROGA TECNICA SERVIZIO ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CODEAL",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 850594.25,
+   "aggiudicato": 850594.25,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "9768110360",
+   "data": "2023-04-12",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 375891.6,
+   "aggiudicato": 375891.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "976647916F",
+   "data": "2023-04-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 874950.0,
+   "aggiudicato": 874950.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "9291111359",
+   "data": "2022-07-12",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4196040.0,
+   "aggiudicato": 4196040.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "8074119DC4",
+   "data": "2019-10-22",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE CODEAL SOC. COOP. SOCIALE",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 770474.0,
+   "aggiudicato": 360569.03,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8045946CAC",
+   "data": "2019-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CODEAL S.C.S.",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 920804.15,
+   "aggiudicato": 437856.92,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7753660AA3",
+   "data": "2019-01-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 298080.0,
+   "aggiudicato": 298080.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "7588082B59",
+   "data": "2018-09-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 228140.0,
+   "aggiudicato": 228140.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "7441002D17",
+   "data": "2018-02-01",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI - COOP. SOCIALE BIRICCA PARMA PERIODO 01.2/2018 -30.06.2018",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 207000.0,
+   "aggiudicato": 207000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7238872A24",
+   "data": "2017-10-30",
+   "oggetto": "PROGETTAZIONE E REALIZZAZIONE DI UN SISTEMA INTEGRATO DI ACCOGLIENZA DI SECONDO LIVELLO A FAVORE DEI TITOLARI DEL DIRITTO DI PROTEZIONE INTERNAZIONALE E UMANITARIO",
+   "amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 179016.3,
+   "aggiudicato": 163315.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "71612892A2",
+   "data": "2017-07-13",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO LA STRUTTURA DI MINERBIO E MONTE SAN PIETRO (BO). PERIODO 3-31AGO2017.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 46214.4,
+   "aggiudicato": 46214.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "6681053359",
+   "data": "2016-04-30",
+   "oggetto": "GESTIONE DI UN CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 126000.0,
+   "aggiudicato": 126000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6681052286",
+   "data": "2016-04-30",
+   "oggetto": "GESTIONE DI UN CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 74550.0,
+   "aggiudicato": 74550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6535037322",
+   "data": "2015-12-23",
+   "oggetto": "GESTIONE DI CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 51750.0,
+   "aggiudicato": 51750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6535030D58",
+   "data": "2015-12-23",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 219420.0,
+   "aggiudicato": 219420.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6534682E2A",
+   "data": "2015-12-23",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 114240.0,
+   "aggiudicato": 114240.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "61994457D9",
+   "data": "2015-03-30",
+   "oggetto": "ACCOGLIENZA RICHIEDENTI ASILO IN ALICE SUPERIORE",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CODEAL SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 204000.0,
+   "aggiudicato": 204000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

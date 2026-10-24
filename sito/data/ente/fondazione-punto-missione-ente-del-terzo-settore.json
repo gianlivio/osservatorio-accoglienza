@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE PUNTO MISSIONE ENTE DEL TERZO SETTORE",
+ "cf": "03533010173",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B82C0716C2",
+   "data": "2025-09-09",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "FONDAZIONE PUNTO MISSIONE ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 898184.7,
+   "aggiudicato": 898184.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

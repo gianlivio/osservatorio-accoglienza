@@ -1,0 +1,91 @@
+{
+ "nome": "LA MIA BADANTE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04857780284",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B76EE2BAA2",
+   "data": "2025-06-27",
+   "oggetto": "ACCOGLIENZA 44 MIGRANTI C/O CAS ALLEGRI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "LA MIA BADANTE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 152714.0,
+   "aggiudicato": 152714.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "B524044FBC",
+   "data": "2025-01-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "LA MIA BADANTE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 733423.12,
+   "aggiudicato": 733423.12,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "B522FC52D2",
+   "data": "2025-01-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "LA MIA BADANTE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2288530.77,
+   "aggiudicato": 2288530.77,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "A02203BDC9",
+   "data": "2023-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN MODULI ABITATIVI C/O COMPENDIO 'ALLEGRI'",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "LA MIA BADANTE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 99629.2,
+   "aggiudicato": 99629.2,
+   "durata_gg": 68.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

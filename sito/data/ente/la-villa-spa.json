@@ -1,0 +1,38 @@
+{
+ "nome": "LA VILLA SPA",
+ "cf": "05548060481",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "92164349EE",
+   "data": "2022-05-03",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI DA ADIBIRE AD AREA DI ACCOGLIENZA TEMPORANEA PROFUGHI UCRAINI SAVONA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "LA VILLA SPA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 226000.0,
+   "aggiudicato": 226000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

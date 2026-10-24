@@ -1,0 +1,86 @@
+{
+ "nome": "GMH S.R.L.",
+ "cf": "11468210965",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "948118488B",
+   "data": "2022-11-08",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITA TEMPORANEA PROFUGHI UCRAINI PIETRA LIGURE",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "GMH S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 55000.0,
+   "aggiudicato": 55000.0,
+   "durata_gg": 49.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "938423862D",
+   "data": "2022-08-31",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITA TEMPORANEA PROFUGHI UCRAINI PIETRA LIGURE",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "GMH S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 80700.0,
+   "aggiudicato": 80700.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "9306147B70",
+   "data": "2022-08-04",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITA TEMPORANEA PROFUGHI UCRAINI PIETRA LIGURE",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "GMH S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 167000.0,
+   "aggiudicato": 167000.0,
+   "durata_gg": 62.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "92005863C1",
+   "data": "2022-04-21",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITA TEMPORANEA PROFUGHI UCRAINI PIETRA LIGURE",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "GMH S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 175000.0,
+   "aggiudicato": 175000.0,
+   "durata_gg": 66.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

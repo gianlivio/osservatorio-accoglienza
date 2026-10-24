@@ -1,0 +1,127 @@
+{
+ "nome": "INOPERA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "10150371002",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "657329891A",
+   "data": "2016-01-29",
+   "oggetto": "ACCOGLIENZA IMMIGRATI SPRAR ORDINARIO ANNO 2016 COOP. INOPERA CENTRO BEST - HOUSE",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "INOPERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 715400.0,
+   "aggiudicato": 715400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "651520553F",
+   "data": "2015-12-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA IMMIGRATI SISTEMA SPRAR AGGIUNTIVI 1FEBBRAIO / 20 OTT.. 2015 CENTRO CAVALLARI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "INOPERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 705384.61,
+   "aggiudicato": 705384.61,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6346966209",
+   "data": "2015-10-01",
+   "oggetto": "3^ ACCORDO QUADRO SERVIZIO DI ACCOGLIENZA DEI RICHIEDENTI ASILO - PROROGHE AL30/9/2015 E 31/3/2016",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "INOPERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6500000.0,
+   "aggiudicato": 1429962.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6388629F6A",
+   "data": "2015-09-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA SPRAR AGGIUNTIVI CENTRO CAVALLARI 1 - 31 GENNAIO 2015",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "INOPERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 83461.54,
+   "aggiudicato": 83461.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6329578500",
+   "data": "2015-07-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IMMIGRATI SISTEMA SPRAR ANNO 2015, COOP. SOC.INOPERA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "INOPERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 715400.0,
+   "aggiudicato": 715400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6257097FC6",
+   "data": "2015-05-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI MIGRANTI RICHIEDENTI ASILO -PERIODO GENNAIO/MARZO 2015 - COOP.INOPERA",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "INOPERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 74646.0,
+   "aggiudicato": 74646.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

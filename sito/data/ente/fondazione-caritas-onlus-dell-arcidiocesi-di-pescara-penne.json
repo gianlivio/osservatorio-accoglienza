@@ -1,0 +1,75 @@
+{
+ "nome": "FONDAZIONE CARITAS ONLUS DELL'ARCIDIOCESI DI PESCARA-PENNE",
+ "cf": "91054310684",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9468021A17",
+   "data": "2022-11-16",
+   "oggetto": "INDIVIDUAZIONE DI UN 'SOGGETTO ATTUATORE' PER L'ORGANIZZAZIONE E LA GESTIONE DEI SERVIZI DELLA RETE SAI - SISTEMA ACCOGLIENZA E INTEGRAZIONE - CATEGORIA ADULTI ORDINARI - PER IL TR",
+   "amministrazione": "COMUNE DI PESCARA",
+   "ente": "FONDAZIONE CARITAS ONLUS DELL'ARCIDIOCESI DI PESCARA-PENNE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1667035.19,
+   "aggiudicato": 1428887.31,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "91124496CC",
+   "data": "2022-02-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE BIENNIO 2022-2024",
+   "amministrazione": "PREFETTURA DI PESCARA",
+   "ente": "FONDAZIONE CARITAS ONLUS DELL'ARCIDIOCESI DI PESCARA-PENNE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10129450.0,
+   "aggiudicato": 26.7,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "74092323AB",
+   "data": "2018-04-20",
+   "oggetto": "ORGANIZZAZIONE E GESTIONE DEI SERVIZI DELLO SPRAR",
+   "amministrazione": "COMUNE DI PESCARA",
+   "ente": "FONDAZIONE CARITAS ONLUS DELL'ARCIDIOCESI DI PESCARA-PENNE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1034280.98,
+   "aggiudicato": 509406.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

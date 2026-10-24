@@ -1,0 +1,59 @@
+{
+ "nome": "CIESSE & B. S.R.L.",
+ "cf": "01586690339",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4868734AB",
+   "data": "2024-12-02",
+   "oggetto": "AFFIDAMENTO DI UN SERVIZIO DI PRIMA ACCOGLIENZA A CARATTERE TEMPORANEO IN AMBIENTE PROTETTO, PRESSO UNA STRUTTURA RICETTIVA, DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) AFFIDATI AL",
+   "amministrazione": "COMUNE DI PIACENZA",
+   "ente": "CIESSE & B. S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 115834.1,
+   "aggiudicato": 115834.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "A0052A75C7",
+   "data": "2023-09-28",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI PRIMA ACCOGLIENZA A CARATTERE TEMPORANEO PRESSO UNA STRUTTURA RICETTIVA DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI PIACENZA",
+   "ente": "CIESSE & B. S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 475800.0,
+   "aggiudicato": 475432.2,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

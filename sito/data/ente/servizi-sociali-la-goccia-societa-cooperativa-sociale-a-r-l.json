@@ -1,0 +1,75 @@
+{
+ "nome": "SERVIZI SOCIALI LA GOCCIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "00882110240",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "77508034F9",
+   "data": "2018-12-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PROROGA - LA GOCCIA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI SOCIALI LA GOCCIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50385.6,
+   "aggiudicato": 50385.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "7750566166",
+   "data": "2018-06-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PROROGA CARITAS TV",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI SOCIALI LA GOCCIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 149472.0,
+   "aggiudicato": 149472.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "7169221453",
+   "data": "2017-08-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 11 OSPITI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI SOCIALI LA GOCCIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57222.0,
+   "aggiudicato": 57222.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

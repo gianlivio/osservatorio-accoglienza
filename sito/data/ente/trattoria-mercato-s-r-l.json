@@ -1,0 +1,54 @@
+{
+ "nome": "TRATTORIA MERCATO S.R.L.",
+ "cf": "02931300962",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "64522515F6",
+   "data": "2015-11-03",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 01/11/2015 - 31/12/2015",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "TRATTORIA MERCATO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 398104.3,
+   "aggiudicato": 398104.3,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "63717251CF",
+   "data": "2015-08-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 01/11/2015 - 31/12/2015",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "TRATTORIA MERCATO S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 960750.0,
+   "aggiudicato": 960750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  }
+ ]
+}

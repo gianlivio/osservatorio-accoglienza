@@ -1,0 +1,54 @@
+{
+ "nome": "VOLKSWAGEN LEASING GMBH",
+ "cf": "12549080153",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7CFBB4229",
+   "data": "2025-07-30",
+   "oggetto": "PROG. SAI CAT. MSNA - PROROGA CONTRATTO NOLEGGIO AUTOMEZZO AZIENDALE - TARGA GH578NS",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "VOLKSWAGEN LEASING GMBH",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2025.4,
+   "aggiudicato": 2025.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B65375DD64",
+   "data": "2025-04-03",
+   "oggetto": "PROG. SAI CAT. MSNA - PROROGA CONTRATTO NOLEGGIO AUTOMEZZO AZIENDALE - TARGA GH712NR",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "VOLKSWAGEN LEASING GMBH",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1620.32,
+   "aggiudicato": 1620.32,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

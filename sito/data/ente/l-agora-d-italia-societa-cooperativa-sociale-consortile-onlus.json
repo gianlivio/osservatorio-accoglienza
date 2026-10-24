@@ -1,0 +1,38 @@
+{
+ "nome": "L'AGORA' D'ITALIA SOCIETA' COOPERATIVA SOCIALE CONSORTILE ONLUS",
+ "cf": "02095680514",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6950471E1A",
+   "data": "2017-01-31",
+   "oggetto": "PROCEDURA APERTA PER LA CONCLUSIONE DI ACCORDO QUADRO CON PIU' OPERATORI SUL QUALE BASARE GLI AFFIDAMENTI SPECIFICI PER LO SVOLGIMENTO DEL SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADIN",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "L'AGORA' D'ITALIA SOCIETA' COOPERATIVA SOCIALE CONSORTILE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 22139075.0,
+   "aggiudicato": 21007943.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  }
+ ]
+}

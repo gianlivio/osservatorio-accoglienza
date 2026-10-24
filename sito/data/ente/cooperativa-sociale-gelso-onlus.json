@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE GELSO ONLUS",
+ "cf": "01670170198",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7757403B75",
+   "data": "2019-01-07",
+   "oggetto": "COOP. GELSO PROROGA CONEVNZIONE ACCOGLIENZA MIGRANTI I TRI,ESTRE 2019",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "COOPERATIVA SOCIALE GELSO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 157050.0,
+   "aggiudicato": 157050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "nome": "TAHOMA APS",
+ "cf": "92084350518",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8E4581B74",
+   "data": "2025-11-03",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) PROSECUZIONE PROGETTO FINO AL 31 12 2025.",
+   "amministrazione": "COMUNE DI BIBBIENA",
+   "ente": "TAHOMA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 71835.12,
+   "aggiudicato": 71835.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "A0209F083A",
+   "data": "2023-10-25",
+   "oggetto": "APPALTO SERVIZIO DI ACCOGLIENZA INTEGRATA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA).",
+   "amministrazione": "COMUNE DI BIBBIENA",
+   "ente": "TAHOMA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2628000.0,
+   "aggiudicato": 1034491.18,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9925884A97",
+   "data": "2023-06-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI BIBBIENA",
+   "ente": "TAHOMA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52941.6,
+   "aggiudicato": 52941.6,
+   "durata_gg": 43.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "695179203E",
+   "data": "2016-10-04",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI TAHOMÀ FEBBRAIO GIUGNO 2017",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "TAHOMA APS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 49500.0,
+   "aggiudicato": 49500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

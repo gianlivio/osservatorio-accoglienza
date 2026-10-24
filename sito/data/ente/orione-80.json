@@ -1,0 +1,38 @@
+{
+ "nome": "ORIONE 80",
+ "cf": "02804690366",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B562B8F14D",
+   "data": "2025-01-29",
+   "oggetto": "INSERIMENTO MSNA PRESSO COMUNITÀ DELLA FONDAZIONE ORIONE80 - MODENA",
+   "amministrazione": "ASP CENTRO SERVIZI ALLA PERSONA",
+   "ente": "ORIONE 80",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39900.0,
+   "aggiudicato": 39900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

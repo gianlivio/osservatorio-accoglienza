@@ -1,0 +1,33 @@
+{
+ "nome": "PRO VITA COOPERATIVA SOCIALE A R L",
+ "cf": "07090780631",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "926183218E",
+   "data": "2022-06-10",
+   "oggetto": "PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA MIGRANTI CON CAPACITÀ RICETTIVA DA 2",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "PRO VITA COOPERATIVA SOCIALE A R L",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 81035600.0,
+   "aggiudicato": 1122585.62,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

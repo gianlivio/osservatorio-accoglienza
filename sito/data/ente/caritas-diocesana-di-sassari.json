@@ -1,0 +1,70 @@
+{
+ "nome": "CARITAS DIOCESANA DI SASSARI",
+ "cf": "02961670904",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B47F0B21B7",
+   "data": "2024-11-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO PRESSO CENTRI COLLETTIVI FINO A 45 POSTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "CARITAS DIOCESANA DI SASSARI",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 114465.33,
+   "aggiudicato": 114465.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "B284CBC51C",
+   "data": "2024-07-19",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "CARITAS DIOCESANA DI SASSARI",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 223353.9,
+   "aggiudicato": 223353.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "B0DCEEAC19",
+   "data": "2024-03-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "CARITAS DIOCESANA DI SASSARI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 116010.0,
+   "aggiudicato": 116010.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  }
+ ]
+}

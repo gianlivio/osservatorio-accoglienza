@@ -1,0 +1,148 @@
+{
+ "nome": "MINERVA S.R.L.",
+ "cf": "04107780167",
+ "affidamenti": 7,
+ "diretti": 4,
+ "quota_diretti": 57.1,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "LECCO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "77573618CD",
+   "data": "2019-01-07",
+   "oggetto": "MINERVA S.R.L. PROROGA CONVENZIONE ACCOGÒLIENZA MIGRANTI I TRIMESTRE 2019",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "MINERVA S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 469800.0,
+   "aggiudicato": 469800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7436531384",
+   "data": "2018-04-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI ANNO 2018 - EMERGENCY TRANSPORT",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "MINERVA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 514080.0,
+   "aggiudicato": 514080.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "74363405E5",
+   "data": "2018-04-13",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI ANNO 2018 - SENTIERO COOP. SOCIALE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "MINERVA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1281528.0,
+   "aggiudicato": 1281528.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "731986822A",
+   "data": "2017-12-15",
+   "oggetto": "MINERVA SRL PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI I BIMESTRE 2018",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "MINERVA S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 516250.0,
+   "aggiudicato": 516250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7260611DBA",
+   "data": "2017-06-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA E SERVIZI PER RICHIEDENTI ASILO - OTTOBRE DICEMBRE 2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "MINERVA S.R.L.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 43792.0,
+   "aggiudicato": 43792.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "7128782900",
+   "data": "2017-02-28",
+   "oggetto": "CONVENZIONE N. 15 POSTI ACCOGLIENZA MIGRANTI ASSOCIAZIONE FREEDOM DECORRENZA 29-6-2017",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "MINERVA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 97231.5,
+   "aggiudicato": 97231.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "704492365E",
+   "data": "2017-02-28",
+   "oggetto": "CONVENZIONE SERVIZIO ACCOGLIENZA MIGRANTI NR. 150 POSTI SERVIZI PER L'ACCOGLIENZA (1.4.2017/31.12.2017)",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "MINERVA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1443750.0,
+   "aggiudicato": 1443750.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

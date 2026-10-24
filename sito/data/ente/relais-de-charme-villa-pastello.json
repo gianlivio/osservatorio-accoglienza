@@ -1,0 +1,59 @@
+{
+ "nome": "RELAIS DE CHARME VILLA PASTELLO",
+ "cf": "01300190236",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "699571891D",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - VILLA PASTELLO - SPAZIO APERTO",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "RELAIS DE CHARME VILLA PASTELLO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 220500.0,
+   "aggiudicato": 220500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "69558347CC",
+   "data": "2016-01-02",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - RELAIS DE CHARME VILLA PASTELLO - SPAZIO APERTO ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "RELAIS DE CHARME VILLA PASTELLO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 703255.0,
+   "aggiudicato": 703255.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

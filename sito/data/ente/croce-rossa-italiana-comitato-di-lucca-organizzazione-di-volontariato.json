@@ -1,0 +1,176 @@
+{
+ "nome": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "92057070465",
+ "affidamenti": 9,
+ "diretti": 3,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7666871618",
+   "data": "2018-08-14",
+   "oggetto": "SERVIZIO DI ^ ACCOGLIENZA CITTADINI STRANIERI PERIODO 1/10/2018 - 31/12/2018",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 158056.0,
+   "aggiudicato": 158056.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7563798391",
+   "data": "2018-05-02",
+   "oggetto": "SERVIZIO DI ^ ACCOGLIENZA CITTADINI STRANIERI PERIODO 1/7/2018 - 31/12/2018",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 379334.4,
+   "aggiudicato": 379334.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7419601071",
+   "data": "2017-10-26",
+   "oggetto": "SERVIZIO DI I ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTEERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 746299.2,
+   "aggiudicato": 746299.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7149323FF6",
+   "data": "2017-06-30",
+   "oggetto": "SERVIZIO DI I ACCOGLIENZA MIGRANTI PERIODO 1 LUGLIO - 30 SETTEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 731952.0,
+   "aggiudicato": 731952.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7224955D77",
+   "data": "2017-01-02",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PERIODO 1/10/17-31/12/17",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 670956.0,
+   "aggiudicato": 670956.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "6935681106",
+   "data": "2016-10-31",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA MIGRANTI PERIODO 1/1/2017-31/3/2017",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 626535.0,
+   "aggiudicato": 626535.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "6880982DF7",
+   "data": "2016-09-19",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA IMMIGRATI PERIODO 1/10-31/12/2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 610512.0,
+   "aggiudicato": 610512.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "6786280769",
+   "data": "2016-06-28",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE.PERIODO 1/7/16-30/9/16",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 518935.2,
+   "aggiudicato": 518935.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "67790129AA",
+   "data": "2016-04-01",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI. PERIODO 1/04/2016-30/06/2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 510200.6,
+   "aggiudicato": 510200.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  }
+ ]
+}

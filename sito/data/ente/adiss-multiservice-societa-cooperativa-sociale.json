@@ -1,0 +1,38 @@
+{
+ "nome": "ADISS MULTISERVICE -  SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02699110785",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71691043C6",
+   "data": "2017-08-04",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L`ORGANIZZAZIONE E GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASI",
+   "amministrazione": "COMUNE DI SAN PIETRO IN AMANTEA",
+   "ente": "ADISS MULTISERVICE -  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 787704.0,
+   "aggiudicato": 786916.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

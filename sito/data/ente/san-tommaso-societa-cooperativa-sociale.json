@@ -1,0 +1,38 @@
+{
+ "nome": "SAN TOMMASO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "10650201212",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B76D873E5F",
+   "data": "2025-06-27",
+   "oggetto": "PROCEDURA DI GARA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS. N. 36 2023, FINALIZZATA ALLA SELEZIONE DI PIU' OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO TRIENNALE PER L'",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SAN TOMMASO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 45943200.0,
+   "aggiudicato": 2294167.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

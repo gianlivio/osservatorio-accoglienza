@@ -1,0 +1,58 @@
+{
+ "nome": "APS PICCOLI PASSI GRANDI SOGNI",
+ "cf": "05789371217",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2EBB9F2EA",
+   "data": "2024-09-05",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI IN STRUTTURE DI ACCOGLIENZA. RIDETERMINAZIONE DELLA SPESA DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 817 DEL 16/05/2024 IN FAVORE ",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ASSOCIAZIONE PICCOLI PASSI GRANDI SOGNI APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26950.0,
+   "aggiudicato": 26950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B0932DBB6B",
+   "data": "2024-02-27",
+   "oggetto": "OSPITALITÀ DEL MSNA MS C/O COMUNITÀ CASAGIO DELLA APS PICCOLI PASSI GRANDI SOGNI DAL 01/01 AL 31/05/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "APS PICCOLI PASSI GRANDI SOGNI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16000.0,
+   "aggiudicato": 16000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

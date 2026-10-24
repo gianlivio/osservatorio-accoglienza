@@ -1,0 +1,38 @@
+{
+ "nome": "RED RAION S.R.L.",
+ "cf": "05155680878",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B00586EB1B",
+   "data": "2024-01-17",
+   "oggetto": "PROGETTAZIONE E SVILUPPO DI NUOVI ITINERARI DA FRUIRE ATTRAVERSO PERCORSI CICLABILI E/O PEDONALI IN AR/VR ANCHE PER L?ACCOGLIENZA DI PROFUGHI CHE SCAPPANO DALLE GUERRE E SERVIZI DI",
+   "amministrazione": "COMUNE DI SAN MARCO D'ALUNZIO",
+   "ente": "RED RAION S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 109200.0,
+   "aggiudicato": 109200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

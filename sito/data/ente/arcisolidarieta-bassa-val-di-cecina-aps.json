@@ -1,0 +1,38 @@
+{
+ "nome": "ARCISOLIDARIETA' BASSA VAL DI CECINA APS",
+ "cf": "92056500496",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B300C6E462",
+   "data": "2024-09-12",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER MIGRANTI COSTITUITI DA SINGOLE UNITÀ ",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "ARCISOLIDARIETA' BASSA VAL DI CECINA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 95150025.0,
+   "aggiudicato": 10568478.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  }
+ ]
+}

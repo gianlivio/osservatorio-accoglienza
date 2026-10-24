@@ -1,0 +1,59 @@
+{
+ "nome": "TERRE SOLIDALI SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04332900408",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6DB8A4C65",
+   "data": "2025-05-15",
+   "oggetto": "GARA CENTRI COLLETTIVI PER MIGRANTI RIMINI",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "TERRE SOLIDALI SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56574882.0,
+   "aggiudicato": 447880.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9622907212",
+   "data": "2023-01-30",
+   "oggetto": "ACCORDO QUADRO SERVIZI ACCOGLIENZA MIGRANTI CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "TERRE SOLIDALI SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10970822.5,
+   "aggiudicato": 10909850.37,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

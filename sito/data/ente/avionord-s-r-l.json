@@ -1,0 +1,38 @@
+{
+ "nome": "AVIONORD S.R.L.",
+ "cf": "09790770151",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9126797724",
+   "data": "2022-02-21",
+   "oggetto": "VOLI SANITARI PER ESPATRIO PROFUGHI DI GUERRA DALL'UCRAINA",
+   "amministrazione": "AGENZIA REGIONALE EMERGENZA URGENZA",
+   "ente": "AVIONORD S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46000.0,
+   "aggiudicato": 46000.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

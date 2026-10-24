@@ -1,0 +1,54 @@
+{
+ "nome": "FULL TIME S.R.L.",
+ "cf": "13322390157",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6995621911",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - HOTEL DEL BALDO - SPAZIO APERTO",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "FULL TIME S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 315000.0,
+   "aggiudicato": 315000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6955648E4C",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - HOTEL DEL BALDO FULL TIME S.R.L. - SPAZIO APERTO ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "FULL TIME S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 295750.0,
+   "aggiudicato": 295750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "nome": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+ "cf": "91019030864",
+ "affidamenti": 9,
+ "diretti": 7,
+ "quota_diretti": 77.8,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ENNA",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8504725118",
+   "data": "2020-11-27",
+   "oggetto": "PROGETTO 'VIVERE LA VITA'",
+   "amministrazione": "COMUNE DI RAGUSA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 692000.0,
+   "aggiudicato": 662714.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "771704422B",
+   "data": "2018-12-05",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI ENNA",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 161670.0,
+   "aggiudicato": 161670.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "77166984A3",
+   "data": "2018-12-04",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI ENNA",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3891096.0,
+   "aggiudicato": 3891096.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7716694157",
+   "data": "2018-12-04",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI ENNA",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1485961.5,
+   "aggiudicato": 1485961.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "7716691ED9",
+   "data": "2018-12-04",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 936933.75,
+   "aggiudicato": 936933.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "7716690E06",
+   "data": "2018-12-04",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLA PROVINCIA DI ENNA DICEMBRE 2018 FEBBRAIO 2020",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 410499.0,
+   "aggiudicato": 410499.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "729988687D",
+   "data": "2017-12-01",
+   "oggetto": "SERVIZI DI ACCOGLIENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 23111143.0,
+   "aggiudicato": 20933842.218,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "614296356E",
+   "data": "2015-02-19",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE STRUTTURA DON BOSCO 2000 COMUNE AIDONE FEBBRAIO - APRILE 2015 - PROROGA TECNICA",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 106500.0,
+   "aggiudicato": 106500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "6142954DFE",
+   "data": "2015-02-19",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE STRUTTURA DON BOSCO 2000 COMUNE DI PIAZZA ARMERINA FEBBRAIO - APRILE 2015 - PROROGA TECNI",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125000.0,
+   "aggiudicato": 125000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  }
+ ]
+}

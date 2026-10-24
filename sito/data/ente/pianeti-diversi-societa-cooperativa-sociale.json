@@ -1,0 +1,142 @@
+{
+ "nome": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04745431215",
+ "affidamenti": 6,
+ "diretti": 1,
+ "quota_diretti": 16.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B74319DCEE",
+   "data": "2025-06-16",
+   "oggetto": "PROCEDURA APERTA, AI SENSI DEGLI ARTT. 14, 71 E 108 DEL D.LGS. N.36/2023, TRAMITE PIATTAFORMA TELEMATICA PER L'AFFIDAMENTO DEL <<SERVIZIO DI ACCOGLIENZA PRESSO IL COMUNE DI TORRE L",
+   "amministrazione": "COMUNE DI TORRE LE NOCELLE",
+   "ente": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1604000.75,
+   "aggiudicato": 901185.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B47B471898",
+   "data": "2024-11-29",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE DEI SERVIZI FINALIZZATI ALL'ACCOGLIENZA DEI RICHIEDENTI ASILO E DEI TITOLARI DI PROTEZIONE INTERNAZION",
+   "amministrazione": "UNIONE DEI MIRACOLI",
+   "ente": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2412861.76,
+   "aggiudicato": 2412861.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  },
+  {
+   "cig": "B219BF4691",
+   "data": "2024-06-17",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA PRESSO IL COMUNE DI TORRE LE NOCELLE IN SENO AL SAI - SIPROIMI (EX SPRAR) A FAVORE DI RICHIEDE",
+   "amministrazione": "COMUNE DI TORRE LE NOCELLE",
+   "ente": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 134942.47,
+   "aggiudicato": 134942.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "A01433ACF8",
+   "data": "2023-09-22",
+   "oggetto": "GESTIONE NUOVA STRUTTURA PER MIGRANTI VIA BRIGATA RE 60",
+   "amministrazione": "PREFETTURA DI UDINE",
+   "ente": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139500.0,
+   "aggiudicato": 31.46,
+   "durata_gg": 61.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "88827136A7",
+   "data": "2021-09-02",
+   "oggetto": "RAFFORZAMENTO DELLA CAPACITA' DI ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO DELL'AUTONOMIA DEI MSNA NELLA RTE SIPROIMI",
+   "amministrazione": "COMUNE DI CARPINETO SINELLO",
+   "ente": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 249648.28,
+   "aggiudicato": 249648.28,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6989337759",
+   "data": "2017-02-27",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO PER LA PROGETTAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA NELL'AMBITO DELLO SPRAR DEL COMUNE DI VASTO",
+   "amministrazione": "ASSOCIAZIONE DEI COMUNI DEL PATTO TERRITORIALE TRIGNO SINELLO",
+   "ente": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1599500.0,
+   "aggiudicato": 1599500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

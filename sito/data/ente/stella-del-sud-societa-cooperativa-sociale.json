@@ -1,0 +1,54 @@
+{
+ "nome": "STELLA DEL SUD - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03078490798",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VIBO VALENTIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6B4C4AE3C",
+   "data": "2025-05-07",
+   "oggetto": "LOTTO 2 -CENTRI COLLETTIVI CON CAPIENZA FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI VIBO VALENTIA",
+   "ente": "STELLA DEL SUD - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5896550.0,
+   "aggiudicato": 5892050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VIBO VALENTIA"
+  },
+  {
+   "cig": "B6B4C49D69",
+   "data": "2025-05-07",
+   "oggetto": "LOTTO 1-UNITÀ ABITATIVE CON CAPIENZA FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI VIBO VALENTIA",
+   "ente": "STELLA DEL SUD - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5630395.0,
+   "aggiudicato": 4600825.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VIBO VALENTIA"
+  }
+ ]
+}

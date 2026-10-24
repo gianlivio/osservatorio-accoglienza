@@ -1,0 +1,200 @@
+{
+ "nome": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+ "cf": "04842311211",
+ "affidamenti": 10,
+ "diretti": 8,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "UDINE",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B82A82168D",
+   "data": "2025-09-08",
+   "oggetto": "XXIV ACCORDO QUADRO GESTIONE CENTRI COLLETTIVI FINO A 50 ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 272468.97,
+   "aggiudicato": 272468.97,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B73861E709",
+   "data": "2025-06-11",
+   "oggetto": "GARA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PIÙ OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2280564.3,
+   "aggiudicato": 2280564.3,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B6835E2AB0",
+   "data": "2025-04-16",
+   "oggetto": "GESTIONE CAS VIA BRIGATA RE",
+   "amministrazione": "PREFETTURA DI UDINE",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12122.46,
+   "aggiudicato": 12122.46,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B67BE050A3",
+   "data": "2025-04-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, NELLA PROVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13.0,
+   "aggiudicato": 13.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B589E44E16",
+   "data": "2025-02-07",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA STRAORDINARIA RIFUGIATI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 516548.03,
+   "aggiudicato": 516548.03,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B430C12ECB",
+   "data": "2024-11-11",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA STRAORDINARIA RIFUGIATI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 157897.09,
+   "aggiudicato": 157897.09,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B227DCF850",
+   "data": "2024-06-19",
+   "oggetto": "SERVIZIO ACCOGLIENZA STRANIERI",
+   "amministrazione": "PREFETTURA DI UDINE",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 371396.8,
+   "aggiudicato": 371396.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B1AF13315B",
+   "data": "2024-05-16",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA STRAORDINARIO RIFUGIATI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27348.84,
+   "aggiudicato": 27348.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B02B286829",
+   "data": "2024-01-31",
+   "oggetto": "IL SERVIZIO OGGETTO DI APPALTO, MEGLIO DESCRITTO NEGLI ELABORATI PROGETTUALI ALLEGATI AL PRESENTE, IN PARTICOLARE NEL CAPITOLATO SPECIALE DI APPALTO, NELLE LINEE GUIDA PER IL FUNZI",
+   "amministrazione": "COMUNE DI MERCOGLIANO",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "ND P1_20",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 3371931.85,
+   "aggiudicato": 1840997.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "72257941D8",
+   "data": "2017-10-27",
+   "oggetto": "GESTIONE E ORGANIZZAZIONE SERVIZI ACCOGLIENZA SPRAR",
+   "amministrazione": "COMUNE DI S.ANGELO A SCALA",
+   "ente": "COOPERATIVA DI SOLIDARIETA' SOCIALE MARINELLA - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1938996.0,
+   "aggiudicato": 1835751.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

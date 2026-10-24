@@ -1,0 +1,91 @@
+{
+ "nome": "ITACA SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+ "cf": "06829130969",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7275474712",
+   "data": "2017-10-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA E SERVIZI PER RICHIEDENTI ASILO - OTTOBRE DICEMBRE 2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ITACA SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO PER VARIANTE SUPERIORE AL 20% DELL'IMPORTO CONTRATTUALE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 331470.48,
+   "aggiudicato": 331470.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "7108799E80",
+   "data": "2017-06-13",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI ASILO GIUGNO-AGOSTO 2017 - POSTI EXTRA",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ITACA SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO PER VARIANTE SUPERIORE AL 20% DELL'IMPORTO CONTRATTUALE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 223634.52,
+   "aggiudicato": 223634.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "6993731166",
+   "data": "2017-02-15",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DICEMBRE 2016 - MARZO 2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ITACA SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 147537.18,
+   "aggiudicato": 147537.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "6859186B57",
+   "data": "2016-07-20",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - 01.11.2016 - 31.12.2016",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ITACA SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 426403.42,
+   "aggiudicato": 426403.42,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  }
+ ]
+}

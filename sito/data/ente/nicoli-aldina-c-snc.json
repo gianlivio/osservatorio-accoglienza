@@ -1,0 +1,54 @@
+{
+ "nome": "NICOLI ALDINA & C. SNC",
+ "cf": "03155840980",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B854D332FF",
+   "data": "2025-09-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "NICOLI ALDINA & C. SNC",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6799243.69,
+   "aggiudicato": 6799243.69,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "B7674BE67C",
+   "data": "2025-06-26",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "NICOLI ALDINA & C. SNC",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119152.32,
+   "aggiudicato": 119152.32,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

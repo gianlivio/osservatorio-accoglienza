@@ -1,0 +1,38 @@
+{
+ "nome": "ISTITUTO ITALIANO DI VALUTAZIONE S.R.L.",
+ "cf": "13340630154",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9463707213",
+   "data": "2022-10-10",
+   "oggetto": "SERVIZI FINALIZZATI AL MONITORAGGIO, ALLA VALUTAZIONE DEI PROGETTI E DELLE UNITÀ DI ACCOGLIENZA DEL SAI (SISTEMA ACCOGLIENZA E INTEGRAZIONE) DEL COMUNE DI MILANO",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "ISTITUTO ITALIANO DI VALUTAZIONE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74432.17,
+   "aggiudicato": 74432.17,
+   "durata_gg": 249.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

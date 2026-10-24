@@ -1,0 +1,84 @@
+{
+ "nome": "GEMONASERVIZI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "02249510302",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8D07A2AAE",
+   "data": "2025-10-29",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO A COOPERATIVA GEMONA SERVIZI.",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "GEMONASERVIZI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5160.0,
+   "aggiudicato": 5160.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B13A383720",
+   "data": "2024-04-12",
+   "oggetto": "FV- PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "GEMONASERVIZI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 465432.0,
+   "aggiudicato": 134640.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "8417286425",
+   "data": "2020-08-25",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "GEMONASERVIZI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50560.0,
+   "aggiudicato": 50560.0,
+   "durata_gg": 632.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

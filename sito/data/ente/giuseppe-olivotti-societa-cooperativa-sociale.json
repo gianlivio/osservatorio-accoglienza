@@ -1,0 +1,165 @@
+{
+ "nome": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01514790276",
+ "affidamenti": 8,
+ "diretti": 5,
+ "quota_diretti": 62.5,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8890187E62",
+   "data": "2021-09-06",
+   "oggetto": "GESTIONE DEGLI INTERVENTI PREVISTI DAL PROGETTO IMMIGRATI DEL PIANO DI ZONA - DISTRETTO DI MIRANO-DOLO",
+   "amministrazione": "AZIENDA ULSS N. 3 SERENISSIMA",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135042.0,
+   "aggiudicato": 134899.35,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "7922453708",
+   "data": "2019-06-10",
+   "oggetto": "PROCEDURA APERTA ACCOGLIENZA MIGRANTI TERRITORIO VENEZIA - CENTRI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10015460.0,
+   "aggiudicato": 901083.53,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6690989AC9",
+   "data": "2016-05-11",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI LO STATUS DI RIFUGIATO OLIVOTTI - PERIODO 16/4 - 30/6/2016 - TIP.3 -",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 100000.0,
+   "aggiudicato": 100000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6690953D13",
+   "data": "2016-05-11",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - 15/3 - 31/12/2016 X 6 OSPITI - OLIVOTTI",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 58692.0,
+   "aggiudicato": 58692.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6621760138",
+   "data": "2016-03-10",
+   "oggetto": "SERVIZIO DI PRIMA ASSISTENZA IN FAVORE DI CITTADINI RICHIEDENTI LO STATUS DI RIFUGIATO DA 01/02/2016 A 15/04/2016 -",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 100000.0,
+   "aggiudicato": 100000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6536964956",
+   "data": "2015-12-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GIUSEPPE OLIVOTTI - MIRA - PROROGA DAL 01/01 AL 14/03/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 77633.4,
+   "aggiudicato": 77633.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "63973414CC",
+   "data": "2015-09-16",
+   "oggetto": "GESTIONE DEGLI INTERVENTI PREVISTI DAI PROGETTI AREA IMMIGRATI DEL PIANO DI ZONA: PTI 2014 E MEDIAZIONE A SCUOLA.",
+   "amministrazione": "AZIENDA ULSS N. 3 SERENISSIMA",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 58435.32,
+   "aggiudicato": 56187.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6327048D2B",
+   "data": "2015-07-08",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 15/9 - 31/12/2015 -",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "GIUSEPPE OLIVOTTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3780000.0,
+   "aggiudicato": 479685.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

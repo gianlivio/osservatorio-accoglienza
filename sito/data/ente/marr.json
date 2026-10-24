@@ -1,0 +1,123 @@
+{
+ "nome": "MARR",
+ "cf": "02686290400",
+ "affidamenti": 6,
+ "diretti": 6,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B821807BF4",
+   "data": "2025-09-05",
+   "oggetto": "PROG. SAI CAT. MSNA – PROROGA AFFIDAMENTO SERVIZIO DI FORNITURA DERRATE ALIMENTARI",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MARR",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B71ECFB5AE",
+   "data": "2025-06-04",
+   "oggetto": "PROG. SAI CAT. MSNA – PROROGA AFFIDAMENTO SERVIZIO DI FORNITURA DERRATE ALIMENTARI",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MARR",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B52182DA72",
+   "data": "2025-01-10",
+   "oggetto": "PROG. SAI CAT. MSNA – PROROGA AFFIDAMENTO SERVIZIO DI FORNITURA DERRATE ALIMENTARI",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MARR",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B40657B15B",
+   "data": "2024-10-29",
+   "oggetto": "PROG. SAI CAT. MSNA – PROROGA AFFIDAMENTO SERVIZIO DI FORNITURA DERRATE ALIMENTARI",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MARR",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15000.0,
+   "aggiudicato": 15000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B256A53A23",
+   "data": "2024-07-05",
+   "oggetto": "PROG. SAI CAT. MSNA – PROROGA AFFIDAMENTO SERVIZIO DI FORNITURA DERRATE ALIMENTARI",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MARR",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B07622B288",
+   "data": "2024-02-20",
+   "oggetto": "PROG. SAI CAT. MSNA – PROROGA AFFIDAMENTO SERVIZIO DI FORNITURA DERRATE ALIMENTARI",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "MARR",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "DPS INFORMATICA S.N.C. DI PRESELLO GIANNI &AMP; C.",
+ "cf": "01486330309",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "77988040A8",
+   "data": "2019-02-14",
+   "oggetto": "FORNITURA DI ATTREZZATURE INFORMATICHE PER LA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "DPS INFORMATICA S.N.C. DI PRESELLO GIANNI &AMP; C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25704.65,
+   "aggiudicato": 25683.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

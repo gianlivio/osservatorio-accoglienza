@@ -1,0 +1,191 @@
+{
+ "nome": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+ "cf": "01860580065",
+ "affidamenti": 10,
+ "diretti": 2,
+ "quota_diretti": 20.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2025": {
+   "affidamenti": 7,
+   "diretti": 1,
+   "quota_diretti": 14.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9766A245E",
+   "data": "2025-12-09",
+   "oggetto": "SERVIZIO DI GESTIONE DEI CENTRI DI ACCOGLIENZA DI MSNA",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 54.6,
+   "aggiudicato": 54.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "B9042D4A36",
+   "data": "2025-11-11",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 493467.45,
+   "aggiudicato": 493467.45,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B7F7DCD25A",
+   "data": "2025-08-13",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 743095.28,
+   "aggiudicato": 743095.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B72BCB0D6B",
+   "data": "2025-06-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 740585.12,
+   "aggiudicato": 740585.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B62BFA8051",
+   "data": "2025-03-25",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE IN FAVORE DI PROFUGHI UCRAINI PRINCIPALMENTE CON DISABILITÀ UDITIVE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 740585.12,
+   "aggiudicato": 740585.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B616F60E3C",
+   "data": "2025-03-19",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE STRUTTURA TEMPORANEA DI ACCOGLIENZA PER MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 331144.8,
+   "aggiudicato": 331144.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B5FBEFBB7C",
+   "data": "2025-03-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 204239.75,
+   "aggiudicato": 204239.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "B411A5B49F",
+   "data": "2024-10-31",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 545854.94,
+   "aggiudicato": 545854.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B355592A00",
+   "data": "2024-10-09",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 164534.0,
+   "aggiudicato": 164534.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "B316A36A6C",
+   "data": "2024-09-19",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA MSNA",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA SAN CARLO ONLUS - SOCIETA' COOPERATIVA SOCIALE VALIDAMENTE IDENTIFICABILE IN SIGLA CON LA DENOMINAZIONE COOPERATIVA SAN CARLO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 322802.64,
+   "aggiudicato": 322802.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

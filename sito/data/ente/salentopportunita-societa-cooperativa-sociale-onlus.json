@@ -1,0 +1,107 @@
+{
+ "nome": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03587550751",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B89FA45D86",
+   "data": "2025-10-15",
+   "oggetto": "ISTITUZIONALIZZAZIONE NUCLEO FAMILIARE PRESSO COMUNITÀ CHIARA LUCE. SERVIZIO SAI IL SALENTO ACCOGLIE ORDINARI. AUTORIZZAZIONE ALLA SPESA DA PARTE DEL SERVIZIO CENTRALE PER PROROGA ",
+   "amministrazione": "TERRE DI ACAYA E DI ROCA",
+   "ente": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18300.0,
+   "aggiudicato": 18300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B7E72D20A0",
+   "data": "2025-08-07",
+   "oggetto": "ISTITUZIONALIZZAZIONE NUCLEO FAMILIARE PRESSO COMUNITÀ CHIARA LUCE. SERVIZIO SAI IL SALENTO ACCOGLIE ORDINARI. AUTORIZZAZIONE ALLA SPESA DA PARTE DEL SERVIZIO CENTRALE PER PROROGA ",
+   "amministrazione": "TERRE DI ACAYA E DI ROCA",
+   "ente": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34800.0,
+   "aggiudicato": 34800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B625A38AD5",
+   "data": "2025-03-21",
+   "oggetto": "ISTITUZIONALIZZAZIONE NUCLEO FAMILIARE PRESSO COMUNITÀ CHIARA LUCE. SERVIZIO SAI IL SALENTO ACCOGLIE ORDINARI. AUTORIZZAZIONE ALLA SPESA DA PARTE DEL SERVIZIO CENTRALE PER PROROGA ",
+   "amministrazione": "TERRE DI ACAYA E DI ROCA",
+   "ente": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36000.0,
+   "aggiudicato": 36000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B5A8F6085E",
+   "data": "2025-02-18",
+   "oggetto": "ISTITUZIONALIZZAZIONE NUCLEO FAMILIARE PRESSO COMUNITÀ CHIARA LUCE. SERVIZIO SAI IL SALENTO ACCOGLIE ORDINARI. AUTORIZZAZIONE ALLA SPESA DA PARTE DEL SERVIZIO CENTRALE PER PROROGA ",
+   "amministrazione": "TERRE DI ACAYA E DI ROCA",
+   "ente": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18300.0,
+   "aggiudicato": 18300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B4948150DE",
+   "data": "2024-12-04",
+   "oggetto": "ISTITUZIONALIZZAZIONE NUCLEO FAMILIARE PRESSO COMUNITÀ CHIARA LUCE. SERVIZIO SAI IL SALENTO ACCOGLIE ORDINARI",
+   "amministrazione": "TERRE DI ACAYA E DI ROCA",
+   "ente": "SALENTOPPORTUNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25300.0,
+   "aggiudicato": 25300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

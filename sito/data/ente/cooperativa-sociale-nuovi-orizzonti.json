@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE NUOVI ORIZZONTI",
+ "cf": "00766110241",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6904708949",
+   "data": "2016-12-12",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA RELATIVO AL I E SECONDO TRIMESTRE 2016 ASSOCIAZIONE NUOVI ORIZZONTI",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "COOPERATIVA SOCIALE NUOVI ORIZZONTI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74571.43,
+   "aggiudicato": 74571.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

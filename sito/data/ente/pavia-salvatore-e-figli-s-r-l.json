@@ -1,0 +1,54 @@
+{
+ "nome": "PAVIA SALVATORE E FIGLI S.R.L.",
+ "cf": "01091150092",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9384276589",
+   "data": "2022-08-31",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITA TEMPORANEA PROFUGHI UCRAINI VARAZZE",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "PAVIA SALVATORE E FIGLI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 85000.0,
+   "aggiudicato": 85000.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "92375993D9",
+   "data": "2022-05-16",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITÀ TEMPORANEA PROFUGHI UCRAINI SANREMO",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "PAVIA SALVATORE E FIGLI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 275000.0,
+   "aggiudicato": 275000.0,
+   "durata_gg": 106.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

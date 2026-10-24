@@ -1,0 +1,54 @@
+{
+ "nome": "ALBERGO RISTORANTE MARINO SNC DI PEROLI AGOSTINO & C.",
+ "cf": "02402990234",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6995391B43",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ALBERGO MARINO - SPAZIO APERTO",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "ALBERGO RISTORANTE MARINO SNC DI PEROLI AGOSTINO & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 252000.0,
+   "aggiudicato": 252000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "695565868F",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ALBERGO RISTORANTE MARINO S.N.C. - SPAZIO APERTO ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "ALBERGO RISTORANTE MARINO SNC DI PEROLI AGOSTINO & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 471800.0,
+   "aggiudicato": 471800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

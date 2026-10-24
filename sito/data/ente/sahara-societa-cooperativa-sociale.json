@@ -1,0 +1,155 @@
+{
+ "nome": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02436150466",
+ "affidamenti": 8,
+ "diretti": 7,
+ "quota_diretti": 87.5,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 7,
+   "diretti": 6,
+   "quota_diretti": 85.7
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "742956924B",
+   "data": "2018-03-20",
+   "oggetto": "SERVIZIO DI I^ ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 20/03/2018 - 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 454444.0,
+   "aggiudicato": 454444.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7326282F26",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 766281.0,
+   "aggiudicato": 766281.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "732598386A",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1856025.0,
+   "aggiudicato": 1856025.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "73210490C2",
+   "data": "2017-12-20",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 607068.0,
+   "aggiudicato": 607068.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "73210777DB",
+   "data": "2017-12-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 726094.5,
+   "aggiudicato": 726094.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "73208783A4",
+   "data": "2017-12-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2795535.0,
+   "aggiudicato": 2795535.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7320584107",
+   "data": "2017-12-18",
+   "oggetto": "SEWRVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 981120.0,
+   "aggiudicato": 981120.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7248494E76",
+   "data": "2017-10-26",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI.PERIODO 01/01/2018-31/12/2019.",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SAHARA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 72970800.0,
+   "aggiudicato": 71635434.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  }
+ ]
+}

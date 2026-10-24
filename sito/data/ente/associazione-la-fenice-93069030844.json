@@ -1,0 +1,112 @@
+{
+ "nome": "ASSOCIAZIONE  LA FENICE",
+ "cf": "93069030844",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7359395CDD",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALL'ASSOCIAZIONE 'LA FENICE' . EROGAZIONE CONTRIBUTO MINISTERIALE 3^ TRIMESTRE 2017",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE  LA FENICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43280.95,
+   "aggiudicato": 43280.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7218883AB2",
+   "data": "2017-09-27",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALL'ASSOCIAZIONE 'LA FENICE' . EROGAZIONE CONTRIBUTO MINISTERIALE 1^ TRIMESTRE 2017.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE  LA FENICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43328.57,
+   "aggiudicato": 43328.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "71403291E5",
+   "data": "2017-07-11",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALL'ASSOCIAZIONE 'LA FENICE' . EROGAZIONE CONTRIBUTO MINISTERIALE 4^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE  LA FENICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46114.29,
+   "aggiudicato": 46114.29,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6904907D80",
+   "data": "2016-12-12",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALL'ASSOCIAZIONE 'LA FENICE' RELATIVE AL 1^ E 2^ TRIMESTRE DEL 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE  LA FENICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87428.57,
+   "aggiudicato": 87428.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "67043669D6",
+   "data": "2016-05-26",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERI MSNA 3^TRIMESTRE 2015 COOP. SOC. LA FENICE",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE  LA FENICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46384.62,
+   "aggiudicato": 46384.62,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

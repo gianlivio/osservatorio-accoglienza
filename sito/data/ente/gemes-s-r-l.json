@@ -1,0 +1,38 @@
+{
+ "nome": "GEMES S.R.L.",
+ "cf": "03123700795",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6843035B1D",
+   "data": "2016-10-31",
+   "oggetto": "AFFIDAMENTO MEDIANTE ACCORDO QUADRO-CONVENZIONE DEI SERVIZI DI ACCOGLIENZA A FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, GIÀ ASSEGNATI ED IN ARRIVO NEL TER",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "GEMES S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10092250.0,
+   "aggiudicato": 10092250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

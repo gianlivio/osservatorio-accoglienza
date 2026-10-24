@@ -1,0 +1,38 @@
+{
+ "nome": "SAREPTA ONLUS",
+ "cf": "97102330152",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "62448927E6",
+   "data": "2015-06-23",
+   "oggetto": "PROROGA DELLA CONVENZIONE CON L'ASSOCIAZIONE SAREPTA DI MILANO PER L'ACCOGLIENZA PRESSO LA 'CASA DI ACCOGLIENZA CARDINAL GIOVANNI COLOMBO' DI CITTADINI STRANIERI PORTATORI DI VARIE",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "SAREPTA ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 41310.0,
+   "aggiudicato": 41310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

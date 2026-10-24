@@ -1,0 +1,38 @@
+{
+ "nome": "PRESUTTI IMPIANTI TECNOLOGICI S.R.L.",
+ "cf": "02045340664",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9140D2412",
+   "data": "2025-11-14",
+   "oggetto": "LAVORI DI RISTRUTTURAZIONE",
+   "amministrazione": "COMUNE DI SECINARO",
+   "ente": "PRESUTTI IMPIANTI TECNOLOGICI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 140855.25,
+   "aggiudicato": 140855.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

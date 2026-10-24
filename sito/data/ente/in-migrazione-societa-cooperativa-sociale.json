@@ -1,0 +1,80 @@
+{
+ "nome": "IN MIGRAZIONE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "13260001006",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9841670302",
+   "data": "2023-05-23",
+   "oggetto": "PROGETTO DI ACCOGLIENZA E INTEGRAZIONE IN FAVORE DI ADULTI, FAMIGLIE E FAMIGLIE-MONOPARENTALI TITOLARI DI ACCOGLIENZA 'SAI' IN ACCOGLIENZA DIFFUSA, CON CAPIENZA MASSIMA DI 10 POSTI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IN MIGRAZIONE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 425250.0,
+   "aggiudicato": 425250.0,
+   "durata_gg": 945.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "9141484F3A",
+   "data": "2022-03-09",
+   "oggetto": "AFFIDAMENTO AI SENSI ART. 36, C. 2, LETT. A) DEL D.LGS 50/2016 E ORDINANZA PROTEZIONE CIVILE N. 872 DEL 04/03/2022 ALL'ORGANISMO RTI BERENICE APS - IN MIGRAZIONE SOC. COOP. SOC DEL",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IN MIGRAZIONE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 128700.0,
+   "aggiudicato": 128700.0,
+   "durata_gg": 286.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "9107825EF1",
+   "data": "2020-10-08",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI, SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IN MIGRAZIONE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 342720.0,
+   "aggiudicato": 342720.0,
+   "durata_gg": 306.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

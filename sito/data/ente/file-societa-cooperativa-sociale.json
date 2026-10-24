@@ -1,0 +1,54 @@
+{
+ "nome": "FILE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01969770765",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0051715F5",
+   "data": "2023-08-14",
+   "oggetto": "AFFIDAMENTO DIRETTO 4 MSNA 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "FILE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 210240.0,
+   "aggiudicato": 210240.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "A004F44A4D",
+   "data": "2023-08-14",
+   "oggetto": "AFFIDAMENTO DIRETTO 12 MSNA 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "FILE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 630720.0,
+   "aggiudicato": 630720.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

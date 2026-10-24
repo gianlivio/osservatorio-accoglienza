@@ -1,0 +1,38 @@
+{
+ "nome": "EXPO 2000 SRL",
+ "cf": "00250140670",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0708452C7",
+   "data": "2024-02-19",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO FORNITURA ARREDI CUCINA VIA LAZIO",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "EXPO 2000 SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2690.0,
+   "aggiudicato": 2690.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

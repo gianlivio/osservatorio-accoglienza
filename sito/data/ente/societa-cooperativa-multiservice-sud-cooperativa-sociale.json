@@ -1,0 +1,170 @@
+{
+ "nome": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+ "cf": "01650770769",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9210856ED0",
+   "data": "2022-04-27",
+   "oggetto": "AFFIDAMENTO MULTISERVICE N.113 MIGRANTI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2327042.9,
+   "aggiudicato": 2327042.9,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "80364700D8",
+   "data": "2019-09-04",
+   "oggetto": "AFFIDAMENTO ALLA SOCIETÀ MULTISERVICE SUD DI N. 111 MIGRANTI PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 841901.7,
+   "aggiudicato": 841901.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "78568605FA",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 174 MIGRANTI ALLA SOCIETÀ MULTISERVICE SUD PER IL PERIODO 1^ APRILE/31 DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1059399.0,
+   "aggiudicato": 1059399.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7382858F24",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO DIRETTO N. 52 MIGRANTI ALLA SOCIETÀ COOP. SOCIALE MULTISERVICE SUD - PERIODO 1^ GENNAIO 2018/31 DICEMBRE 2018",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 569400.0,
+   "aggiudicato": 569400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "706831915D",
+   "data": "2017-05-08",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA N. 163 MIGRANTI SOC. COOP.VA SOCIALE MULTISERVICE SUD - PROROGA TECNICA 1^ MAGGIO 2017 / 31 LUGLIO 2017 - (ACCORDO QUADRO DI RIFERIMENTO PROT. 2792",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 434884.0,
+   "aggiudicato": 434884.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "666366457D",
+   "data": "2015-12-30",
+   "oggetto": "AFFIDAMENTO ALL'ATI MULTISERVICE SUD - CAPOGRUPPO P.I.01650770769 - E ASSOCIAZIONE LE ROSE DI ATACAMA - SERVIZIO ACCOGLIENZA MIGRANTI A SEGUITO ACCORDO QUADRO - III PROROGA TECNICA",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 142912.0,
+   "aggiudicato": 142912.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "66635707EA",
+   "data": "2015-12-30",
+   "oggetto": "AFFIDAMENTO ALLA SOC.COOP.VA SOCIALE SOLIDARIETA' - P.I. 04753020728 - SERVIZIO ACCOGLIENZA MIGRANTI A SEGUITO ACCORDO QUADRO - III PROROGA TECNICA - PERIODO 15 APRILE 2016 /30 GIU",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57565.2,
+   "aggiudicato": 57565.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6610339050",
+   "data": "2015-12-30",
+   "oggetto": "AFFIDAMENTO ALLA SOC.COOP.VA OPERA - P.I.01156280768 - SERVIZIO ACCOGLIENZA MIGRANTI A SEGUITO ACCORDO QUADRO - II PROROGA TECNICA - PERIODO 1^ MARZO 2016 / 14 APRILE 2016",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "SOCIETA' COOPERATIVA MULTISERVICE SUD - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61776.0,
+   "aggiudicato": 61776.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

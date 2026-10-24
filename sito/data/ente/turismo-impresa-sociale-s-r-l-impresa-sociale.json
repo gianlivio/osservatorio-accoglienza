@@ -1,0 +1,79 @@
+{
+ "nome": "TURISMO & IMPRESA SOCIALE S.R.L. IMPRESA SOCIALE",
+ "cf": "11083050960",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0E48A93EE",
+   "data": "2024-03-25",
+   "oggetto": "SERVIZIO DI ALLOGGIAMENTO TEMPORANEO DA SVOLGERSI IN STRUTTURA RICETTIVA A FAVORE DEI PROFUGHI DI GUERRA PRESENTI SUL TERRITORIO DI ROTA D'IMAGNA",
+   "amministrazione": "COMUNE DI ROTA D'IMAGNA",
+   "ente": "TURISMO & IMPRESA SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139500.0,
+   "aggiudicato": 139500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "94223576F8",
+   "data": "2022-09-27",
+   "oggetto": "SERVIZIO DI ALLOGGIAMENTO DA SVOLGERSI IN STRUTTURA RICETTIVA A FAVORE DEI PROFUGHI DI GUERRA PRESENTI SUL TERRITORIO DI ROTA D'IMAGNA (BG)",
+   "amministrazione": "COMUNE DI ROTA D'IMAGNA",
+   "ente": "TURISMO & IMPRESA SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "91507730C5",
+   "data": "2022-03-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI UCRAINI",
+   "amministrazione": "REGIONE PIEMONTE",
+   "ente": "TURISMO & IMPRESA SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 150000.0,
+   "aggiudicato": 150000.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  }
+ ]
+}

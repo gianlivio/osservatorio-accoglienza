@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI FIRENZE APS",
+ "cf": "03923680486",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B51E5D5EED",
+   "data": "2025-01-09",
+   "oggetto": "PROGETTO MIGRANTI ZONA FIORENTINA SUD EST",
+   "amministrazione": "SOCIETA' DELLA SALUTE FIORENTINA SUD EST",
+   "ente": "ARCI FIRENZE APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 94976.84,
+   "aggiudicato": 94976.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

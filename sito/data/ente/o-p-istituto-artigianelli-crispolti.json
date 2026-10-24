@@ -1,0 +1,96 @@
+{
+ "nome": "O.P. ISTITUTO ARTIGIANELLI CRISPOLTI",
+ "cf": "00474200540",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7086247C01",
+   "data": "2017-05-23",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO PER LA COOPROGETTAZIONE E GESTIONE DEL PROGETTO SPRAR, NELL'AMBITO DELLA PROSECUZIONE DELLE PROGETTAZIONE SPRAR - TRIENNIO 2017/2019",
+   "amministrazione": "COMUNE DI MARSCIANO",
+   "ente": "O.P. ISTITUTO ARTIGIANELLI CRISPOLTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 856187.5,
+   "aggiudicato": 856187.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "7132286499",
+   "data": "2017-02-28",
+   "oggetto": "SISTEMA DI ACCOGLIENZA SPRAR . PROGETTO MARSCIANO ORD E AGGIUNTIVI I SEMESTRE 2017",
+   "amministrazione": "COMUNE DI MARSCIANO",
+   "ente": "O.P. ISTITUTO ARTIGIANELLI CRISPOLTI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 143431.0,
+   "aggiudicato": 143431.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "68797082A4",
+   "data": "2016-10-26",
+   "oggetto": "PROGETTO CENTRO ACCOGLIENZA SPRAR ANNO 2014/2016 - RIFINANZIAMENTO AGGIUNTIVI ANNO 2016",
+   "amministrazione": "COMUNE DI MARSCIANO",
+   "ente": "O.P. ISTITUTO ARTIGIANELLI CRISPOLTI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 92232.0,
+   "aggiudicato": 92232.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "6384458D66",
+   "data": "2015-09-03",
+   "oggetto": "RIFINANZIAMENTO 9 POSTI RETE SPRAR 2015",
+   "amministrazione": "COMUNE DI MARSCIANO",
+   "ente": "O.P. ISTITUTO ARTIGIANELLI CRISPOLTI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 65520.0,
+   "aggiudicato": 65520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

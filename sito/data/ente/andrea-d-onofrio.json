@@ -1,0 +1,38 @@
+{
+ "nome": "ANDREA D'ONOFRIO",
+ "cf": "00579390774",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MATERA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B06A1B5FA0",
+   "data": "2024-02-16",
+   "oggetto": "CONFERIMENTO DI UN INCARICO PROFESSIONALE DI REVISORE CONTABILE INDIPENDENTE PER LA VERIFICA E CERTIFICAZIONE DELLE SPESE SOSTENUTE NELL’AMBITO DEL PROGETTO SAI/MSNA (EX SIPROIMI) ",
+   "amministrazione": "COMUNE DI SALANDRA",
+   "ente": "ANDREA D'ONOFRIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9221.31,
+   "aggiudicato": 9221.31,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MATERA"
+  }
+ ]
+}

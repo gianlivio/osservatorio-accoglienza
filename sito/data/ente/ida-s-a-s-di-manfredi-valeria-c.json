@@ -1,0 +1,107 @@
+{
+ "nome": "IDA S.A.S. DI MANFREDI VALERIA & C.",
+ "cf": "00269190450",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7336082660",
+   "data": "2017-12-21",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI HOTEL IDA GENNAIO FEBBRAIO 2018",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IDA S.A.S. DI MANFREDI VALERIA & C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 58292.0,
+   "aggiudicato": 58292.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7260947304",
+   "data": "2017-10-30",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI IDA NOVEMBRE DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IDA S.A.S. DI MANFREDI VALERIA & C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60268.0,
+   "aggiudicato": 60268.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7187289283",
+   "data": "2017-07-31",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI HOTEL IDA AGOSTO SETTEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IDA S.A.S. DI MANFREDI VALERIA & C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60268.0,
+   "aggiudicato": 60268.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "69753175AE",
+   "data": "2016-12-16",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI HOTEL VALENTINA DI MASSA GENNAIO/FEBBRAIO E MARZO/APRILE 2016",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IDA S.A.S. DI MANFREDI VALERIA & C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 100536.0,
+   "aggiudicato": 100536.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6975295387",
+   "data": "2016-12-16",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI HOTEL IDA DI MASSA GENNAIO/FEBBRAIO E MARZO/APRILE",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IDA S.A.S. DI MANFREDI VALERIA & C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 92493.12,
+   "aggiudicato": 92493.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

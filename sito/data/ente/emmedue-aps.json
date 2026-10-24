@@ -1,0 +1,79 @@
+{
+ "nome": "EMMEDUE APS",
+ "cf": "91152480686",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B32EBEE88D",
+   "data": "2024-09-26",
+   "oggetto": "AUTORIZZAZIONE SPESA COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO T.A. IN COMUNITÀ EDUCATIVA",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "EMMEDUE APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20350.0,
+   "aggiudicato": 20350.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B32E9BD999",
+   "data": "2024-09-26",
+   "oggetto": "AUTORIZZAZIONE SPESA COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO S.F. IN COMUNITÀ EDUCATIVA",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "EMMEDUE APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10450.0,
+   "aggiudicato": 10450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "A00613ACB0",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO PRESUNTO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO E RIDETERMINAZIONE CONTESTU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "EMMEDUE APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41925.0,
+   "aggiudicato": 41925.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

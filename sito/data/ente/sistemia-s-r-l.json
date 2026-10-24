@@ -1,0 +1,38 @@
+{
+ "nome": "SISTEMIA S.R.L.",
+ "cf": "04555770876",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1B244023C",
+   "data": "2024-05-17",
+   "oggetto": "ADEGUAMENTO IMPIANTO ELETTRICO PRESSO NUOVA SEDE COMMISSIONE TERRITORIALE PER I RIFUGIATI",
+   "amministrazione": "PREFETTURA DI CATANIA",
+   "ente": "SISTEMIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13340.0,
+   "aggiudicato": 13340.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CATANIA"
+  }
+ ]
+}

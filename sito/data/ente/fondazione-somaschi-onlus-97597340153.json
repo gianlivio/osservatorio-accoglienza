@@ -1,0 +1,153 @@
+{
+ "nome": "FONDAZIONE SOMASCHI ONLUS",
+ "cf": "97597340153",
+ "affidamenti": 7,
+ "diretti": 1,
+ "quota_diretti": 14.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "COMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9833692B58",
+   "data": "2023-07-17",
+   "oggetto": "ACCORDO QUADRO MONOLOTTO CON PIU' OPERATORI ECONOMICI AI SENSI DELL'ART.54, COMMA 4, LETT. A) DEL D.LGS. 50/2016 SS.MM.II PER LA GESTIONE DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRA",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1839600.0,
+   "aggiudicato": 1839600.0,
+   "durata_gg": 1461.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "85592959AC",
+   "data": "2020-12-21",
+   "oggetto": "RINNOVO AFFIDAMENTO PROGETTO SPRAR IL SOLE CHE ACCOGLIE 'CATEGORIA ORDINARI' CON CAPOFILA COMUNE DI LEGNANO PERIODO 1/1/2021 -30/9/2023",
+   "amministrazione": "COMUNE DI LEGNANO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 830031.84,
+   "aggiudicato": 829031.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "852820730D",
+   "data": "2020-12-04",
+   "oggetto": "AMBITO TERRITORIALE DI TREZZO SULL'ADDA",
+   "amministrazione": "OFFERTA SOCIALE AZIENDA SPECIALE CONSORTILE",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 371637.91,
+   "aggiudicato": 371637.91,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8567426F94",
+   "data": "2020-11-27",
+   "oggetto": "AFFIDAMENTO GESTIONE SERVIZI SIPROIMI AMBITO DI TREZZO SULL'ADDA",
+   "amministrazione": "OFFERTA SOCIALE AZIENDA SPECIALE CONSORTILE",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46000.0,
+   "aggiudicato": 46000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "872122133E",
+   "data": "2020-11-19",
+   "oggetto": "CO-PROGETTAZIONE DEL SISTEMA DI ACCOGLIENZA INTEGRATO DI TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA SIPROIMI 2021/2023",
+   "amministrazione": "COMUNE DI GORGONZOLA",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 435000.0,
+   "aggiudicato": 435000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "7577353581",
+   "data": "2018-08-04",
+   "oggetto": "MANIFESTAZIONE DI INTERESSE FINALIZZATA ALLA CO-PROGETTAZIONE DI SERVIZI DI ACCOGLIENZA PER RICHIEDENTI ASILO E RIFUGIATI POLITICI IN AMBITO S.P.R.A.R. (SISTEMA DI PROTEZIONE RICHI",
+   "amministrazione": "COMUNE DI CERNUSCO SUL NAVIGLIO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 460000.0,
+   "aggiudicato": 460000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "7303801740",
+   "data": "2017-12-05",
+   "oggetto": "AFFIDAMENTO DELLA GESTIONE DEL PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI GORGONZOLA",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 422857.14,
+   "aggiudicato": 422857.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

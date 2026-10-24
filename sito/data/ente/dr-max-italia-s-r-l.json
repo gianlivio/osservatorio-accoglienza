@@ -1,0 +1,38 @@
+{
+ "nome": "DR MAX ITALIA S.R.L.",
+ "cf": "03664141201",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2EFD8112E",
+   "data": "2024-09-06",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO FORNITURA DI PRODOTTI FARMACEUTICI E PARAFARMACEUTICI",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "DR MAX ITALIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4000.0,
+   "aggiudicato": 4000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

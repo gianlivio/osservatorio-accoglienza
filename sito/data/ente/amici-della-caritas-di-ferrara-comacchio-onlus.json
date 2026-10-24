@@ -1,0 +1,59 @@
+{
+ "nome": "AMICI DELLA CARITAS DI FERRARA-COMACCHIO ONLUS",
+ "cf": "93080120384",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B35B611B8F",
+   "data": "2024-10-08",
+   "oggetto": "ACCOGLIENZA RICHIEDENTI ASILO IN CAS COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "AMICI DELLA CARITAS DI FERRARA-COMACCHIO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2819260.0,
+   "aggiudicato": 2819260.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "89139074C2",
+   "data": "2021-10-05",
+   "oggetto": "PROCEDURA APERTA -ACCOGLIENZA CITTADINI STRANIERI -SINGOLE UNITA' ABITATIVE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "AMICI DELLA CARITAS DI FERRARA-COMACCHIO ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 20054161.0,
+   "aggiudicato": 1982461.6,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FERRARA"
+  }
+ ]
+}

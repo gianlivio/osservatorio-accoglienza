@@ -1,0 +1,38 @@
+{
+ "nome": "FRANCESCO D'ASSISI",
+ "cf": "02216670816",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7224245391",
+   "data": "2017-10-03",
+   "oggetto": "RETTE MSNA OSPITI DEL C.P.A. DOMENICO SAVIO DELL'ENTE FONDAZIONE FRANCESCO D'ASSISI DI MARSALA ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "FRANCESCO D'ASSISI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 590000.0,
+   "aggiudicato": 590000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

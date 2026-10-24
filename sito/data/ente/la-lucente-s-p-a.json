@@ -1,0 +1,33 @@
+{
+ "nome": "LA LUCENTE S.P.A.",
+ "cf": "00252370721",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8934877DBD",
+   "data": "2021-11-19",
+   "oggetto": "SERVIZIO DI PULIZIA ED IGIENE AMBIENTALE",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "LA LUCENTE S.P.A.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1781903.79,
+   "aggiudicato": 503047.3,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

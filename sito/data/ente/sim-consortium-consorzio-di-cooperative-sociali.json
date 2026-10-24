@@ -1,0 +1,38 @@
+{
+ "nome": "SIM CONSORTIUM CONSORZIO DI COOPERATIVE SOCIALI",
+ "cf": "09177551216",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A00B986A1A",
+   "data": "2023-09-27",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO DEFINITO 'ENTE ATTUATORE' PER L'AFFIDAMENTO IN PROSECUZIONE DEL PROGETTO 'SAI' DEL COMUNE DI GRICIGNANO DI AVERSA - CATEGORIA 'ORDINARI', GIÀ ATTIVO P",
+   "amministrazione": "COMUNE DI GRICIGNANO D'AVERSA",
+   "ente": "SIM CONSORTIUM CONSORZIO DI COOPERATIVE SOCIALI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2306825.33,
+   "aggiudicato": 1987495.31,
+   "durata_gg": 787.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

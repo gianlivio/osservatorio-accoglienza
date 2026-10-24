@@ -1,0 +1,164 @@
+{
+ "nome": "HOPE S.R.L.",
+ "cf": "04169050616",
+ "affidamenti": 8,
+ "diretti": 7,
+ "quota_diretti": 87.5,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6FB5C738D",
+   "data": "2025-05-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRESSO STRUTTURE DA 51 A 100 POSTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "HOPE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 965592.9,
+   "aggiudicato": 965592.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B6451D8597",
+   "data": "2025-04-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "HOPE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139691.52,
+   "aggiudicato": 139691.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B4F08E4749",
+   "data": "2024-12-23",
+   "oggetto": "CENTRO ACCOGLIENZA MIGRANTI E SERVIZI CONNESSI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "HOPE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135835.2,
+   "aggiudicato": 135835.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B46BCF800E",
+   "data": "2024-11-22",
+   "oggetto": "NEGOZIATA CENTRI DI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "HOPE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 6976475.0,
+   "aggiudicato": 13514764.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B31125CB16",
+   "data": "2024-09-18",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "HOPE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139790.0,
+   "aggiudicato": 139790.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B2CB3CFC6A",
+   "data": "2024-08-20",
+   "oggetto": "AFFIDAMENTO ALLA HOPE S.R.L. - AI SENSI DELL'ART. 50 COMMA 1 – LETTERA B DEL D.LGS. 36/2023 – DI SERVIZI DI PRIMA ACCOGLIENZA D'URGENZA AGLI MSNA IN ESECUZIONE DELL'AVVISO PUBBLICO",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "HOPE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12000.0,
+   "aggiudicato": 12000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B07E2ABD28",
+   "data": "2024-02-21",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA D'URGENZA E TEMPORANEA PER MSNA DAL 22/2/2024 AL 7/3/2024",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "HOPE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12000.0,
+   "aggiudicato": 12000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "A01461DECF",
+   "data": "2023-09-04",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI AFFIDAMENTO DIRETTO HOPE SRL",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "HOPE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 422100.0,
+   "aggiudicato": 27.5,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

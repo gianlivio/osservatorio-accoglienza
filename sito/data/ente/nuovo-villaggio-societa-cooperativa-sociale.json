@@ -1,0 +1,38 @@
+{
+ "nome": "NUOVO VILLAGGIO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01440110284",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "75471129D6",
+   "data": "2018-07-23",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE E DI PERMESSO UMANITARIO, NELL'AMBITO DEL PROGETTO TERRITORIALE ADERENTE AL SISTEMA DI PROTEZIONE PER",
+   "amministrazione": "ACCORDO CONSORTILE PER LO SVOLGIMENTO DI STAZIONE APPALTANTE",
+   "ente": "NUOVO VILLAGGIO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1780559.0,
+   "aggiudicato": 1456821.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  }
+ ]
+}

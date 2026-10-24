@@ -1,0 +1,97 @@
+{
+ "nome": "AZIENDA AGRICOLA GASTALDI MASSIMILIANO",
+ "cf": "02814910044",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6955048F29",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - ALPIMARE SRL",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "AZIENDA AGRICOLA GASTALDI MASSIMILIANO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 748160.0,
+   "aggiudicato": 748160.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6955036545",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - ISOLAAGRICOLA DI ANSELMO MIRCO",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "AZIENDA AGRICOLA GASTALDI MASSIMILIANO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 291665.5,
+   "aggiudicato": 291665.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "695499429D",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - DIMORA CASTELLO CONTI",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "AZIENDA AGRICOLA GASTALDI MASSIMILIANO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 479290.0,
+   "aggiudicato": 479290.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6954058E30",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - CASA DELL'IMMACOLATA S.C.S.",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "AZIENDA AGRICOLA GASTALDI MASSIMILIANO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1224026.5,
+   "aggiudicato": 1224026.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "694975928E",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - ASS. PAPA GIOVANNI XXIII",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "AZIENDA AGRICOLA GASTALDI MASSIMILIANO",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 584500.0,
+   "aggiudicato": 584500.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

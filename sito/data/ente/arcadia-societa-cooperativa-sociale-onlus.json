@@ -1,0 +1,38 @@
+{
+ "nome": "ARCADIA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03765640366",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "985972781C",
+   "data": "2023-06-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI PROFUGHI UCRAINI E GESTIONE DEI SERVIZI CONNESSI PRESSO 3 UNITA' IMMOBILIARI MESSE A DISPOSIZIONE DAL COMUNE DI BERGAMO",
+   "amministrazione": "COMUNE DI BERGAMO",
+   "ente": "ARCADIA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74430.48,
+   "aggiudicato": 74430.48,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

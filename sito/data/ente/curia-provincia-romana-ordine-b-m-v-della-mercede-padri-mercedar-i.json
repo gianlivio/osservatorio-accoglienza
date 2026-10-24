@@ -1,0 +1,75 @@
+{
+ "nome": "CURIA PROVINCIA ROMANA ORDINE B.M.V. DELLA MERCEDE PADRI MERCEDAR I",
+ "cf": "02563500582",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B78394FEB2",
+   "data": "2025-07-04",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023, PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA CASA DON ZENO - PADRI M",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CURIA PROVINCIA ROMANA ORDINE B.M.V. DELLA MERCEDE PADRI MERCEDAR I",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47450.0,
+   "aggiudicato": 47450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B3FFDDE03C",
+   "data": "2024-10-28",
+   "oggetto": "ACCOGLIENZA RESIDENZIALE MINORE STRANIERO NON ACCOMPAGNATO - PROVINCIA ROMANA ORDINE B.M.V DELLA MERCEDE PADRI MERCEDARI",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CURIA PROVINCIA ROMANA ORDINE B.M.V. DELLA MERCEDE PADRI MERCEDAR I",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B3FFDDE03C",
+   "data": "2024-10-28",
+   "oggetto": "ACCOGLIENZA RESIDENZIALE MINORE STRANIERO NON ACCOMPAGNATO - PROVINCIA ROMANA ORDINE B.M.V DELLA MERCEDE PADRI MERCEDARI",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CURIA PROVINCIA ROMANA ORDINE B.M.V. DELLA MERCEDE PADRI MERCEDAR I",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

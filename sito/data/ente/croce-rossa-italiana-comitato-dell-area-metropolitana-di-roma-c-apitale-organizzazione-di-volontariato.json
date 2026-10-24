@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO DELL'AREA METROPOLITANA DI ROMA C APITALE - ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "12658311001",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "687036006E",
+   "data": "2016-11-16",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA, AI SENSI DELL'ART. 59 E 60 DEL D. LGS. N. 50/2016, VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO CON PIU' SOGGETTI ECONOMICI PER L'AFFIDAMENTO DEI SE",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DELL'AREA METROPOLITANA DI ROMA C APITALE - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3308725.0,
+   "aggiudicato": 3011386.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

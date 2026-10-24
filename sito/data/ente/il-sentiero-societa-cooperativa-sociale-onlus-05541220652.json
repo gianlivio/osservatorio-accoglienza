@@ -1,0 +1,59 @@
+{
+ "nome": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "05541220652",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A02D513A75",
+   "data": "2023-11-17",
+   "oggetto": "PER LA SELEZIONE DEL SOGGETTO ATTUATORE PER L'ESECUZIONE, IN PROSECUZIONE, DELLE ATTIVITÀ RELATIVE AI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA DI TITOLARI DI PROTEZIONE INTERN",
+   "amministrazione": "UNIONE DEI COMUNI VELINI",
+   "ente": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3925275.18,
+   "aggiudicato": 3925275.18,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "857772743F",
+   "data": "2021-01-15",
+   "oggetto": "PROCEDURA APERTA, AI SENSI DELL'ART. 60 D. LGS. 50/2016 DI SELEZIONE DEL SOGGETTO ATTUATORE PER L'ESECUZIONE, IN PROSECUZIONE, DELLE ATTIVITÀ RELATIVE AI SERVIZI DI ACCOGLIENZA, IN",
+   "amministrazione": "COMUNE DI BELLOSGUARDO",
+   "ente": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2600464.29,
+   "aggiudicato": 2600464.29,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

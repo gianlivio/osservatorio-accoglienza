@@ -1,0 +1,79 @@
+{
+ "nome": "COOPERATIVA SOCIALE PROGETTO ENEA",
+ "cf": "03600330793",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VIBO VALENTIA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B40B3DD058",
+   "data": "2024-10-30",
+   "oggetto": "L'APPALTO CONSISTE NEI SERVIZI RIGUARDANTI IL PROGETTO SOCIALE DI ACCOGLIENZA INTEGRATA PER RIFUGIATI E/O RICHIEDENTI ASILO, PROPONENDOSI DI ATTIVARE SERVIZI DI ACCOGLIENZA, INTEGR",
+   "amministrazione": "COMUNE DI FILADELFIA",
+   "ente": "COOPERATIVA SOCIALE PROGETTO ENEA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4068907.5,
+   "aggiudicato": 4068907.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VIBO VALENTIA"
+  },
+  {
+   "cig": "B40656C4F9",
+   "data": "2024-10-28",
+   "oggetto": "SERVIZI ACCOGLIENZA IMMIGRATI ADULTI LOTTO 2",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "COOPERATIVA SOCIALE PROGETTO ENEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1470394.47,
+   "aggiudicato": 1470394.47,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "736134346A",
+   "data": "2018-01-24",
+   "oggetto": "PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA COPROGETTAZIONE E SUCCESSIVA GESTIONE DI AZIONI DI SISTEMA DEL PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI FILADELFIA",
+   "ente": "COOPERATIVA SOCIALE PROGETTO ENEA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1182000.0,
+   "aggiudicato": 1182000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VIBO VALENTIA"
+  }
+ ]
+}

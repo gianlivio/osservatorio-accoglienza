@@ -1,0 +1,59 @@
+{
+ "nome": "IL SOGNO DI DON BOSCO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03529540712",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9CE8D60E6",
+   "data": "2025-12-30",
+   "oggetto": "LOTTO DI GARA N. 2: CATEGORIA MSNA",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "IL SOGNO DI DON BOSCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 15212938.0,
+   "aggiudicato": 12677448.36,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B1297C7621",
+   "data": "2024-04-09",
+   "oggetto": "SAI MSNA FINANZIAMENTO 2023-2025 CONTRATTO ORDINATIVO ATTUATIVO ATS SOGNO DI DON BOSCO 2024",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "IL SOGNO DI DON BOSCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1815720.37,
+   "aggiudicato": 1815720.37,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

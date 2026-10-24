@@ -1,0 +1,75 @@
+{
+ "nome": "ASSOCIAZIONE ASANTE ONLUS",
+ "cf": "06396120823",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B21B92E4E9",
+   "data": "2024-06-14",
+   "oggetto": "SSOCIAZIONE ASANTE ONLUS - CAS ELOM - AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (ART. 11 DEL D. LGS",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "ASSOCIAZIONE ASANTE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2473068.0,
+   "aggiudicato": 2473068.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B21B7E5569",
+   "data": "2024-06-14",
+   "oggetto": "ASSOCIAZIONE ASANTE ONLUS - CAS AZAD - AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (ART. 11 DEL D. LG",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "ASSOCIAZIONE ASANTE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1656955.56,
+   "aggiudicato": 1656955.56,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "A0218186D9",
+   "data": "2023-10-30",
+   "oggetto": "FORNITURA DI BENI ED EROGAZIONE DEI SERVIZI DI ACCOGLIENZA PER COMPLESSIVI 500 POSTI PRESSO I CENTRI, SITI NEL COMUNE DI PALERMO, COSTITUITI DA CENTRI COLLETTIVI MESSI A DISPOSIZIO",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "ASSOCIAZIONE ASANTE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 18764685.0,
+   "aggiudicato": 6625686.59,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

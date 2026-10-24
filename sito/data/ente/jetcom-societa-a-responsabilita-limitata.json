@@ -1,0 +1,54 @@
+{
+ "nome": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "09723061009",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B063D46E3D",
+   "data": "2024-02-14",
+   "oggetto": "SERVIZIO TRASPORTO AEREO IMMIGRATI IRREGOLARI 28.02.2024",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 35000.0,
+   "aggiudicato": 35000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B00674E194",
+   "data": "2024-01-17",
+   "oggetto": "SERVIZI TRASPORTO AEREO PER RIMPATRIO MIGRANTI IRREGOLARI",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 140000.0,
+   "aggiudicato": 140000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "nome": "FONDAZIONE L'ALBERO DELLA VITA ENTE DEL TERZO SETTORE",
+ "cf": "04504550965",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "702663851C",
+   "data": "2017-05-24",
+   "oggetto": "AFFIDAMENTO ALL'ATI FONDAZIONE PROGETTO ARCA ONLUS (CAPOGRUPPO) E FONDAZIONE L'ALBERO DELLA VITA (MANDANTE) DELL'ESECUZIONE DI ULTERIORI PRESTAZIONI PER IL SERVIZIO DI ACCOGLIENZA ",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE L'ALBERO DELLA VITA ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 293220.0,
+   "aggiudicato": 293220.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "679227282A",
+   "data": "2016-09-01",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE L'ALBERO DELLA VITA ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 273600.0,
+   "aggiudicato": 254961.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6752838A32",
+   "data": "2016-07-15",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE L'ALBERO DELLA VITA ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 49600.0,
+   "aggiudicato": 49522.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6731358C56",
+   "data": "2016-06-21",
+   "oggetto": "SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI TEMPORANEMANTE PRESENTI MASSIMO 50 PRESENZE AL GIORNO (UOMINI)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE L'ALBERO DELLA VITA ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 49600.0,
+   "aggiudicato": 49522.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6440016552",
+   "data": "2016-04-20",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE L'ALBERO DELLA VITA ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 553500.0,
+   "aggiudicato": 474994.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "SMILE SOCIETA' COOPERTIVA SOCIALE ONLUS",
+ "cf": "03472270617",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B11F195011",
+   "data": "2024-04-08",
+   "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L'INDIVIDUAZIONE DELL'ENTE ATTUATORE A CUI AFFIDARE LA GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA PER MINORI STRANIERI NON ACCOMPA",
+   "amministrazione": "COMUNE CANCELLO ED ARNONE",
+   "ente": "SMILE SOCIETA' COOPERTIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 945689.9,
+   "aggiudicato": 945689.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

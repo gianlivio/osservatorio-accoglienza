@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO CAMPANIA SOLIDARIETA' SOCIALE - CONSORZIO DI COOPERATIV E SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "06386131210",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0099EF953",
+   "data": "2024-01-19",
+   "oggetto": "ENTE ATTUATORE PROGETTO SAI",
+   "amministrazione": "COMUNE DI GRICIGNANO D'AVERSA",
+   "ente": "CONSORZIO CAMPANIA SOLIDARIETA' SOCIALE - CONSORZIO DI COOPERATIV E SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 126.19,
+   "aggiudicato": 126.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

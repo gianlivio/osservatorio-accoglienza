@@ -1,0 +1,38 @@
+{
+ "nome": "TERMODINE",
+ "cf": "00108060682",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B46A523558",
+   "data": "2024-11-25",
+   "oggetto": "GESTIONE DI UN SISTEMA DI ACCOGLIENZA INTEGRATA DI SECONDO LIVELLO IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI SAI MSNA CIVITAQUANA. AFFIDAMENTO DELLA FORNITURA DI N. 5 RADIATOR",
+   "amministrazione": "COMUNE DI CIVITAQUANA",
+   "ente": "TERMODINE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8500.0,
+   "aggiudicato": 8500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

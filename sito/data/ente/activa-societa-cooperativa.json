@@ -1,0 +1,59 @@
+{
+ "nome": "ACTIVA SOCIETA' COOPERATIVA",
+ "cf": "01852650223",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7221220342",
+   "data": "2017-09-29",
+   "oggetto": "RINNOVO DEL SERVIZIO DI ASSISTENZA GENERICA NOTTURNA AD ACTIVA SOC. COOP. RIVOLTO ALLE PERSONE RICHIEDENTI PROTEZIONE INTERNAZIONALE, SUDDIVISO IN TRE LOTTI, PRESSO LE SEGUENTI STR",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ACTIVA SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 205870.95,
+   "aggiudicato": 205870.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "68161576B1",
+   "data": "2016-09-30",
+   "oggetto": "AFFIDAMENTO AD ACTIVA SERVIZI & AMBIENTE DEL SERVIZIO DI PRIMA ASSISTENZA GENERICA NOTTURNA RIVOLTO ALLE PERSONE RICHIEDENTI PROTEZIONE INTERNAZIONALE, SUDDIVISO IN TRE LOTTI, PRES",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ACTIVA SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 205870.95,
+   "aggiudicato": 205870.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

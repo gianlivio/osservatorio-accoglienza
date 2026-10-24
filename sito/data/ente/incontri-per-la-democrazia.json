@@ -1,0 +1,191 @@
+{
+ "nome": "INCONTRI PER LA DEMOCRAZIA",
+ "cf": "02189810415",
+ "affidamenti": 9,
+ "diretti": 5,
+ "quota_diretti": 55.6,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B12A668899",
+   "data": "2024-04-10",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO STRUTTURE SITE IN PERGOLA E PESARO PERIODO DAL 1/04/2024 AL 30/06/2024",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57.14,
+   "aggiudicato": 57.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  },
+  {
+   "cig": "A045F4EEBF",
+   "data": "2023-12-21",
+   "oggetto": "SERVIZIO ACCOGLIENZA MSNA - 1/1/2024 -31/03/2024 EUROLEX",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 120120.0,
+   "aggiudicato": 120120.0,
+   "durata_gg": 91.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "A004DE155A",
+   "data": "2023-07-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MSNA - PRIMO AFFIDAMENTO DIRETTO",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 120960.0,
+   "aggiudicato": 120960.0,
+   "durata_gg": 144.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  },
+  {
+   "cig": "9730370B55",
+   "data": "2023-03-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI UCRAINA DAL 5/04/2023 AL 31/12/2023 - UNITÀ ABITATIVE EUROLEX",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 423081.54,
+   "aggiudicato": 423081.54,
+   "durata_gg": 271.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9178015194",
+   "data": "2022-04-07",
+   "oggetto": "SERVIZIO GESTIONE POSTI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (SECONDO AFFIDAMENTO DIRETTO UCRAINI)",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 543329.7,
+   "aggiudicato": 537896.403,
+   "durata_gg": 280.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "897069862C",
+   "data": "2021-12-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART. 11 DEL D.LGS. 142/2015 UBICATI NEL TERRITORIO DELL",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 14267148.0,
+   "aggiudicato": 12299209.59,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8329193B7E",
+   "data": "2020-06-08",
+   "oggetto": "ACCOGLIENZA MIGRANTI STRUTTURE COLLETTIVE FINO A 50",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 832426.0,
+   "aggiudicato": 666534.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "81474543BC",
+   "data": "2019-12-19",
+   "oggetto": "AFFIDAMENTOO ACCOGLIENZA MIGRANTI STRUTTURE FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1442625.0,
+   "aggiudicato": 511674.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "781843697C",
+   "data": "2019-03-13",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CIVILI ABITAZIONI ANNO 2019",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "INCONTRI PER LA DEMOCRAZIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6622906.75,
+   "aggiudicato": 2008646.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

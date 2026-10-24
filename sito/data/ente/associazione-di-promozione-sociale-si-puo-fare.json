@@ -1,0 +1,86 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SI PUO' FARE",
+ "cf": "01172440321",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B77AECD1D8",
+   "data": "2025-08-05",
+   "oggetto": "ACCOGLIENZA MSNA PER IL MESE DI MAGGIO 2025; NS. CASO N. 6.",
+   "amministrazione": "COMUNE DI MUGGIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SI PUO' FARE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5160.92,
+   "aggiudicato": 5160.92,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "B606295D9A",
+   "data": "2025-08-05",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO FEBBRAIO 2025 - CASO N° 6;",
+   "amministrazione": "COMUNE DI MUGGIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SI PUO' FARE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5733.28,
+   "aggiudicato": 5733.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "B7402B0380",
+   "data": "2025-07-01",
+   "oggetto": "ACCOGLIENZA MSNA PER IL MESE DI APRILE 2025. NS. CASO N. 6.",
+   "amministrazione": "COMUNE DI MUGGIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SI PUO' FARE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6142.8,
+   "aggiudicato": 6142.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "B5B85DBF4D",
+   "data": "2025-07-01",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO GENNAIO 2025 - CASO N. 6",
+   "amministrazione": "COMUNE DI MUGGIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE SI PUO' FARE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6347.56,
+   "aggiudicato": 6347.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

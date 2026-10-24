@@ -1,0 +1,118 @@
+{
+ "nome": "SVILUPPO SOCIALE S.R.L. IMPRESA SOCIALE",
+ "cf": "09542980967",
+ "affidamenti": 6,
+ "diretti": 6,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "733770628C",
+   "data": "2017-12-28",
+   "oggetto": "ACCOGLIENZA IMMIGRATI 2018 FOGGIA. FASANO POTENZA",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 267804.0,
+   "aggiudicato": 267804.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "7337680D14",
+   "data": "2017-12-28",
+   "oggetto": "ACCOGLIENZA IMMIGRATI 2018 FOGGIA. A.S.C.S.",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 247970.25,
+   "aggiudicato": 247970.25,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "7337626088",
+   "data": "2017-12-28",
+   "oggetto": "ACCOGLIENZA IMMIGRATI 2018 FOGGIA. CONSORZIO ARETE'",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1125525.0,
+   "aggiudicato": 1125525.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "73376070DA",
+   "data": "2017-12-28",
+   "oggetto": "ACCOGLIENZA IMMIGRATI 2018 FOGGIA. SVILUPPO SOCIALE",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 144050.0,
+   "aggiudicato": 144050.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "733755451C",
+   "data": "2017-12-28",
+   "oggetto": "ACCOGLIENZA IMMIGRATI 2018 FOGGIA.",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 375820.0,
+   "aggiudicato": 375820.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "7337489F75",
+   "data": "2017-12-28",
+   "oggetto": "ACCORDO QUADRO ACCOGLIENZA IMMIGRATI FOGGIA 2018- CONSORZIO MATRIX.",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SVILUPPO SOCIALE S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 637249.25,
+   "aggiudicato": 637249.25,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

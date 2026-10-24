@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE TERRE DES HOMMES ITALIA",
+ "cf": "97149300150",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8F25FB9E6",
+   "data": "2025-11-05",
+   "oggetto": "SERVIZIO DI FORMAZIONE DI PRIVATI CITTADINI ASPIRANTI AD ASSUMERE LA TUTELA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) PRESENTI NELLA REGIONE LOMBARDIA E DEL SERVIZIO DI FORMAZION",
+   "amministrazione": "REGIONE LOMBARDIA CONSIGLIO REGIONALE",
+   "ente": "FONDAZIONE TERRE DES HOMMES ITALIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 116916.0,
+   "aggiudicato": 116916.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

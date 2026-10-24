@@ -1,0 +1,95 @@
+{
+ "nome": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
+ "cf": "01220050395",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B74EAC7A4D",
+   "data": "2025-06-18",
+   "oggetto": "PROSECUZIONE COLLOCAMENTO MSNA D.M. E J.A. PRESSO LA STRUTTURA NUOVO VILLAGGIO DEL FANCIULLO. PERIODO DAL 01/03/2025 AL 31/12/2025 D.M. E PERIODO DAL 01.07.25 AL 31.12.25 J.A. AFFI",
+   "amministrazione": "UNIONE COMUNI MODENESI AREA NORD",
+   "ente": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49000.0,
+   "aggiudicato": 49000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B55AA028AB",
+   "data": "2025-01-28",
+   "oggetto": "PROSECUZIONE COLLOCAMENTO MSNA D.M. E J.A. PRESSO LA STRUTTURA NUOVO VILLAGGIO DEL FANCIULLO PERIODO DAL 01/01/2025 AL 28/02/2025 D.M. E PERIODO DAL 01.01.25 AL 30.06.25 J.A.",
+   "amministrazione": "UNIONE COMUNI MODENESI AREA NORD",
+   "ente": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24000.0,
+   "aggiudicato": 24000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B4B3E8B5B2",
+   "data": "2024-12-10",
+   "oggetto": "COLLOCAMENTO IN EMERGENZA MSNA I.M.T. PRESSO LA STRUTTURA IL NUOVO VILLAGGIO DEL FANCIULLO PERIODO DAL 07.10.2024 AL 06.08.2025",
+   "amministrazione": "UNIONE COMUNI MODENESI AREA NORD",
+   "ente": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26752.0,
+   "aggiudicato": 26752.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B116B5CC75",
+   "data": "2024-04-04",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "FONDAZIONE NUOVO VILLAGGIO DEL FANCIULLO CELSO E ANNA FRASCALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

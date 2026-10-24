@@ -1,0 +1,38 @@
+{
+ "nome": "SELAM-PACE PER IL CORNO D'AFRICA",
+ "cf": "92069200530",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GROSSETO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "74030359BC",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/03-31/07/2018-SELAM-PACE PER IL CORNO AFRICA-P.I.92069200530-STRUTT",
+   "amministrazione": "PREFETTURA",
+   "ente": "SELAM-PACE PER IL CORNO D'AFRICA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 49500.0,
+   "aggiudicato": 49500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  }
+ ]
+}

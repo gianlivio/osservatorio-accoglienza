@@ -1,0 +1,38 @@
+{
+ "nome": "TELECO S.R.L.",
+ "cf": "02856220922",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6914308B74",
+   "data": "2016-12-16",
+   "oggetto": "LAVORI URGENTI INSTALLAZIONE IMPIANTO VIDEOSORVEGLIANZA PRESSO IL CENTRO GOVERNATIVO PER MIGRANTI DI MONASTIR",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "TELECO S.R.L.",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 90000.0,
+   "aggiudicato": 59382.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "IL SOLLIEVO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02673420358",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0CE7091DD",
+   "data": "2024-03-13",
+   "oggetto": "SERVIZIO DI VIGILANZA MSNA",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "IL SOLLIEVO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45714.28,
+   "aggiudicato": 45714.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

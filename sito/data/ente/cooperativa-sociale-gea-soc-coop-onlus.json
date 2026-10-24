@@ -1,0 +1,75 @@
+{
+ "nome": "COOPERATIVA SOCIALE GEA  SOC. COOP. ONLUS",
+ "cf": "01582190565",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7469641EBD",
+   "data": "2018-04-30",
+   "oggetto": "RIPETIZIONE SERVIZIO ANALOGO PRIMA ACCOGLIENZA IMMIGRATI PERIODO MAGGIO - DICEMBRE 2018",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "COOPERATIVA SOCIALE GEA  SOC. COOP. ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 212231.25,
+   "aggiudicato": 212231.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7349087272",
+   "data": "2017-12-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA IMMIGRATI RIPETIZIONE DI SERVIZIO ANALOGO GEN - APR 2018",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "COOPERATIVA SOCIALE GEA  SOC. COOP. ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 124740.0,
+   "aggiudicato": 124740.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7190173E73",
+   "data": "2017-07-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA IMMIGRATI AGOSTO DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "COOPERATIVA SOCIALE GEA  SOC. COOP. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 130000.0,
+   "aggiudicato": 104160.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  }
+ ]
+}

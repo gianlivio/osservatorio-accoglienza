@@ -1,0 +1,38 @@
+{
+ "nome": "ITALO0109 - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04685970610",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B902E50C1F",
+   "data": "2025-11-11",
+   "oggetto": "ACCOGLIENZA MNORI",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "ITALO0109 - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17992.52,
+   "aggiudicato": 17992.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

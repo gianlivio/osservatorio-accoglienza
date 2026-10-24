@@ -1,0 +1,38 @@
+{
+ "nome": "IL GABBIANO SOCIETA' COOPERATIVA SOCIALE DI SOLIDARIETA' IN SIGLA IL GABBIANO COOPERATIVA SOCIALE",
+ "cf": "01198620229",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9BDB46DAE",
+   "data": "2025-12-23",
+   "oggetto": "INTERVENTI DI MANUTENZIONE ORDINARIA DA SVOLGERSI NEGLI APPARTAMENTI E RESIDENZE DESTINATI AI MIGRANTI FACENTI PARTE DEL PROGETTO DI ACCOGLIENZA STRAORDINARIA DEI RICHIEDENTI PROTE",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "IL GABBIANO SOCIETA' COOPERATIVA SOCIALE DI SOLIDARIETA' IN SIGLA IL GABBIANO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21000.0,
+   "aggiudicato": 21000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

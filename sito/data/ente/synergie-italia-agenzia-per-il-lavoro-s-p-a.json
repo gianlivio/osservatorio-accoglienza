@@ -1,0 +1,74 @@
+{
+ "nome": "SYNERGIE ITALIA - AGENZIA PER IL LAVORO - S.P.A.",
+ "cf": "07704310015",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B286F573CA",
+   "data": "2024-07-22",
+   "oggetto": "FORNITURA PERSONALE PROGETTO SAI",
+   "amministrazione": "COMUNE DI COLLERETTO CASTELNUOVO",
+   "ente": "SYNERGIE ITALIA - AGENZIA PER IL LAVORO - S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27778.86,
+   "aggiudicato": 27778.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B0F979FF0E",
+   "data": "2024-03-27",
+   "oggetto": "FORNITURA PERSONALE PROGETTO SAI N.1098 COMUNE DI SESTRI LEVANTE",
+   "amministrazione": "COMUNE DI SESTRI LEVANTE",
+   "ente": "SYNERGIE ITALIA - AGENZIA PER IL LAVORO - S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2844.82,
+   "aggiudicato": 2844.82,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B0F979EE3B",
+   "data": "2024-03-27",
+   "oggetto": "FORNITURA PERSONALE PROGETTO SAI N.1098 COMUNE DI SESTRI LEVANTE",
+   "amministrazione": "COMUNE DI SESTRI LEVANTE",
+   "ente": "SYNERGIE ITALIA - AGENZIA PER IL LAVORO - S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2844.82,
+   "aggiudicato": 2844.82,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

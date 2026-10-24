@@ -1,0 +1,128 @@
+{
+ "nome": "VITRE STUDIO SRL",
+ "cf": "03466370248",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A02085985C",
+   "data": "2024-01-12",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI DIREZIONE LAVORI, COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE, DIAGNOSI ENERGETICA EDIFICI ESISTENTI, SCIA ANTINCE",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "VITRE STUDIO SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 281161.94,
+   "aggiudicato": 281161.94,
+   "durata_gg": 840.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "A0209088C6",
+   "data": "2023-11-28",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI DIREZIONE LAVORI, COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE, DIAGNOSI ENERGETICA EDIFICI ESISTENTI, SCIA ANTINCE",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "VITRE STUDIO SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 192079.82,
+   "aggiudicato": 192079.82,
+   "durata_gg": 540.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "A0208EC1AD",
+   "data": "2023-11-24",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI DIRETTORE OPERATIVO IN AFFIANCAMENTO ALLA DD.L., COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE, DIAGNOSI ENERGETICA ",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "VITRE STUDIO SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 195462.36,
+   "aggiudicato": 195462.36,
+   "durata_gg": 790.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "A0212A252F",
+   "data": "2023-11-22",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE, DIAGNOSI ENERGETICA EDIFICI ESISTENTI, SCIA ANTINCENDIO E PRATICHE CO",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "VITRE STUDIO SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 97115.3,
+   "aggiudicato": 97115.3,
+   "durata_gg": 460.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "A0207335BF",
+   "data": "2023-10-25",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI DIREZIONE LAVORI, COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE, SCIA ANTINCENDIO E PRATICHE CONNESSE AI LAVORI INER",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "VITRE STUDIO SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 256154.0,
+   "aggiudicato": 256154.0,
+   "durata_gg": 720.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "83107621C3",
+   "data": "2020-06-12",
+   "oggetto": "LOTTO FUNZIONALE NR. 02 - OSPEDALE DI PORTOGRUARO (VE)",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "VITRE STUDIO SRL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 257632.43,
+   "aggiudicato": 152003.134,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

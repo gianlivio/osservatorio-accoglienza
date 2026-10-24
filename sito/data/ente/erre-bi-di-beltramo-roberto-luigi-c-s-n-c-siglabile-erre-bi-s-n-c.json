@@ -1,0 +1,33 @@
+{
+ "nome": "ERRE.BI DI BELTRAMO ROBERTO LUIGI & C. S.N.C. SIGLABILE ERRE.BI. S.N.C.",
+ "cf": "02930210048",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A044D732A7",
+   "data": "2023-12-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "ERRE.BI DI BELTRAMO ROBERTO LUIGI & C. S.N.C. SIGLABILE ERRE.BI. S.N.C.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1166598.0,
+   "aggiudicato": 1166598.0,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

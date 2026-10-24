@@ -1,0 +1,91 @@
+{
+ "nome": "FIGLI DELLE STELLE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "02573770696",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERAMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7615047793",
+   "data": "2018-09-05",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FIGLI DELLE STELLE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138240.0,
+   "aggiudicato": 138240.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "73849025EA",
+   "data": "2018-02-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FIGLI DELLE STELLE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 4614326.75,
+   "aggiudicato": 1539648.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7222661867",
+   "data": "2017-10-13",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI TERAMO",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "FIGLI DELLE STELLE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 850500.0,
+   "aggiudicato": 850500.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  },
+  {
+   "cig": "7222651029",
+   "data": "2017-10-13",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI TERAMO",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "FIGLI DELLE STELLE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 155250.0,
+   "aggiudicato": 155250.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  }
+ ]
+}

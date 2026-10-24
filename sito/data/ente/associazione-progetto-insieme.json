@@ -1,0 +1,33 @@
+{
+ "nome": "ASSOCIAZIONE PROGETTO INSIEME",
+ "cf": "92512140150",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "84645206DF",
+   "data": "2020-10-16",
+   "oggetto": "GARA EUROPEA MEDIANTE PROCEDURA APERTA FINALIZZATA ALLA INDIVIDUAZIONE DI UN SOGGETTO GESTORE COPROGETTANTE PER LA PROSECUZIONE DEL SERVIZIO DI PROTEZIONE PER I TITOLARI DI PROTEZI",
+   "amministrazione": "COMUNE DI LODI",
+   "ente": "ASSOCIAZIONE PROGETTO INSIEME",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3078623.63,
+   "aggiudicato": 3078623.63,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

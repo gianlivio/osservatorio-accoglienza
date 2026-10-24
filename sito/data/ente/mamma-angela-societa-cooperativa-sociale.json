@@ -1,0 +1,38 @@
+{
+ "nome": "MAMMA ANGELA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02643250810",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7070405AC6",
+   "data": "2017-05-09",
+   "oggetto": "RETTE MSNA PRESSO STRUTTURA FIGLI DEL SOLE DELLA DELLA SOC. COOP. SOCIALE MAMMA ANGELA DI MARSALA",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "MAMMA ANGELA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 189000.0,
+   "aggiudicato": 189000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "nome": "ASSOCIAZIONE TRAMA DI TERRE ONLUS",
+ "cf": "03596741201",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B33D654712",
+   "data": "2024-10-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASSOCIAZIONE TRAMA DI TERRE ONLUS",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 520259.0,
+   "aggiudicato": 520259.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B338A3AA03",
+   "data": "2024-09-30",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "TRAMA DI TERRE ONLUS",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 238879.0,
+   "aggiudicato": 238879.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B103350A19",
+   "data": "2024-03-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASSOCIAZIONE TRAMA DI TERRE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78769.0,
+   "aggiudicato": 78769.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

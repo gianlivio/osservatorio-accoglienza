@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE MANI DI CRISALIDE",
+ "cf": "03345660546",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2CBF18C7E",
+   "data": "2024-08-20",
+   "oggetto": "IMPEGNO PER INSERIMENTO MSNA IN STRUTTURA",
+   "amministrazione": "UNIONE MONTANA DEI COMUNI DELLA VALTIBERINA TOSCANA",
+   "ente": "MANI DI CRISALIDE IMORESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10120.0,
+   "aggiudicato": 10120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "B1ABA122F0",
+   "data": "2024-05-15",
+   "oggetto": "IMPEGNO DI SPESA PER INSERIMENTO MINORE STRANIERO IN STRUTTURA",
+   "amministrazione": "UNIONE MONTANA DEI COMUNI DELLA VALTIBERINA TOSCANA",
+   "ente": "ASSOCIAZIONE MANI DI CRISALIDE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20020.0,
+   "aggiudicato": 20020.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  }
+ ]
+}

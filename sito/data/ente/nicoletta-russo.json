@@ -1,0 +1,38 @@
+{
+ "nome": "NICOLETTA RUSSO",
+ "cf": "04613480401",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B154744B71",
+   "data": "2024-04-19",
+   "oggetto": "FORNITURA DEL SERVIZIO DI ETNOPSICOTERAPIA PER IL PROGETTO SAI MSNA",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "NICOLETTA RUSSO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15504.0,
+   "aggiudicato": 15504.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

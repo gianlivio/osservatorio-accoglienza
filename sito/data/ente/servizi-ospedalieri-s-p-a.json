@@ -1,0 +1,38 @@
+{
+ "nome": "SERVIZI OSPEDALIERI S.P.A.",
+ "cf": "00615530672",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6935678E88",
+   "data": "2016-12-30",
+   "oggetto": "LOTTO A) SERVIZIO DI LAVANOLO BIANCHERIA PIANA E DIVISE OPERATORI CASA RESIDENZA ANZIANI E CENTRO DIURNO - LAVAGGIO BIANCHERIA, DIVISE PERSONALE ED INDUMENTI OSPITI",
+   "amministrazione": "ASP CENTRO SERVIZI ALLA PERSONA",
+   "ente": "SERVIZI OSPEDALIERI S.P.A.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 162220.04,
+   "aggiudicato": 110267.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

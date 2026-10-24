@@ -1,0 +1,38 @@
+{
+ "nome": "SPRINT ITALIA SRL",
+ "cf": "02976010211",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7F172D203",
+   "data": "2025-08-11",
+   "oggetto": "06.04_008.234_IS_VB - CENTRO PROFUGHI GENERALMARKET - BOLZANO - VIA PIETRO GOBETTI 8 10 - RIFACIMENTO DEI CONTAINER ESTERNI",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "SPRINT ITALIA SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39171.25,
+   "aggiudicato": 39171.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

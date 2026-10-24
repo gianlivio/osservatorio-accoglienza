@@ -1,0 +1,54 @@
+{
+ "nome": "ASP CITTA' DI BOLOGNA",
+ "cf": "03337111201",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6548929B2A",
+   "data": "2015-12-29",
+   "oggetto": "EMERGENZA SBARCHI - AFFIDAMENTO SERVIZIO DI ACCOGLIENZA CITTADINI MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASP CITTA' DI BOLOGNA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 180000.0,
+   "aggiudicato": 180000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "63824146A5",
+   "data": "2015-05-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO LA PROVINCIA DI BOLOGNA",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ASP CITTA' DI BOLOGNA",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 126960.0,
+   "aggiudicato": 126960.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

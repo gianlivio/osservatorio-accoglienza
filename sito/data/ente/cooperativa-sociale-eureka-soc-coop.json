@@ -1,0 +1,100 @@
+{
+ "nome": "COOPERATIVA SOCIALE EUREKA SOC. COOP.",
+ "cf": "10864220156",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B107E15DBF",
+   "data": "2024-03-29",
+   "oggetto": "AMPLIAMENTO SISTEMA SAI 10 POSTI",
+   "amministrazione": "AZIENDA SOCIALE SUD EST MILANO",
+   "ente": "COOPERATIVA SOCIALE EUREKA SOC. COOP.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 38980.0,
+   "aggiudicato": 38980.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "9682452428",
+   "data": "2023-02-28",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE - PROG 1181",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "COOPERATIVA SOCIALE EUREKA SOC. COOP.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 600000.0,
+   "aggiudicato": 600000.0,
+   "durata_gg": 305.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "9670964BF3",
+   "data": "2023-02-21",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE E PER MSNA (SAI) - PROG 530 - PR 3",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "COOPERATIVA SOCIALE EUREKA SOC. COOP.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2100000.0,
+   "aggiudicato": 2100000.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "9414934950",
+   "data": "2022-09-22",
+   "oggetto": "SISTEMA DI ACCOGLIENZA E INTEGRAZIONE (SAI, GIÀ SIPROIMI)",
+   "amministrazione": "AZIENDA SOCIALE SUD EST MILANO",
+   "ente": "COOPERATIVA SOCIALE EUREKA SOC. COOP.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 377386.23,
+   "aggiudicato": 205938.74,
+   "durata_gg": 441.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

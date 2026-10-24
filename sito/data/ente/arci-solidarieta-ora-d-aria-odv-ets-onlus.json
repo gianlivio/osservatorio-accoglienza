@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI SOLIDARIETÀ ORA D'ARIA ODV ETS ONLUS",
+ "cf": "03675300549",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0478620B7",
+   "data": "2023-12-30",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA ARCI SOLIDARIETA N. 30 MSNA 25/07/2023 - 25/08/2023",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "ARCI SOLIDARIETÀ ORA D'ARIA ODV ETS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 53373.9,
+   "aggiudicato": 53373.9,
+   "durata_gg": 31.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

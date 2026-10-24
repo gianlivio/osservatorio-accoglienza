@@ -1,0 +1,91 @@
+{
+ "nome": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01815500465",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B73541D352",
+   "data": "2025-06-11",
+   "oggetto": "PROLUNGAMENTO OSPITALITÀ MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA PROTETTA",
+   "amministrazione": "COMUNE DI FORTE DEI MARMI",
+   "ente": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15300.0,
+   "aggiudicato": 15300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "B565474098",
+   "data": "2025-01-30",
+   "oggetto": "INSERIMENTO MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA- PRIMO SEMESTRE 2025",
+   "amministrazione": "COMUNE DI FORTE DEI MARMI",
+   "ente": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18100.0,
+   "aggiudicato": 18100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "B3E83AF9F5",
+   "data": "2024-10-23",
+   "oggetto": "INSERIMENTO IN STRUTTURA MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI FORTE DEI MARMI",
+   "ente": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9200.0,
+   "aggiudicato": 9200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "B2F36140EE",
+   "data": "2024-09-09",
+   "oggetto": "INSERIMENTO IN STRUTTURA DI MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI FORTE DEI MARMI",
+   "ente": "RADIUS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5352.38,
+   "aggiudicato": 5352.38,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  }
+ ]
+}

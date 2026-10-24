@@ -1,0 +1,54 @@
+{
+ "nome": "FONDAZIONE SAN GIUSEPPE",
+ "cf": "82002010401",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2BEE5886A",
+   "data": "2024-08-09",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "FONDAZIONE SAN GIUSEPPE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31726.12,
+   "aggiudicato": 31726.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B29E4F87D6",
+   "data": "2024-07-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "FONDAZIONE SAN GIUSEPPE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31726.12,
+   "aggiudicato": 31726.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

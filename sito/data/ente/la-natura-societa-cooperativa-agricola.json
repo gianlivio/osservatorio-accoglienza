@@ -1,0 +1,107 @@
+{
+ "nome": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+ "cf": "02481880751",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9B39F5E51",
+   "data": "2025-12-18",
+   "oggetto": "RTI LA NATURA FIA PUGLIA CAS MSNA PROROGA 12 MESI 06/11/2025 AL 05/11/2026",
+   "amministrazione": "PREFETTURA",
+   "ente": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 229859.0,
+   "aggiudicato": 229859.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B752ECDCC9",
+   "data": "2025-06-19",
+   "oggetto": "INDAGINE DI MERCATO PER L'ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZ",
+   "amministrazione": "PREFETTURA",
+   "ente": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 725040.0,
+   "aggiudicato": 130442.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B752D653B7",
+   "data": "2025-06-19",
+   "oggetto": "INDAGINE DI MERCATO PER L'ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZ",
+   "amministrazione": "PREFETTURA",
+   "ente": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 679500.0,
+   "aggiudicato": 54244.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B603D2CE69",
+   "data": "2025-03-12",
+   "oggetto": "GESTIONE CENTRI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI LECCE - RTI LA NATURA FIA PUGLIA DAL 06/11/2024 AL 05/11/2025",
+   "amministrazione": "PREFETTURA",
+   "ente": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 229858.0,
+   "aggiudicato": 229858.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B1CA04A07C",
+   "data": "2024-05-23",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO BIENNALE PER LA GESTIONE DI STRUTTURE TEMPORANEE DEDICATE ALL'ACCOGLIENZA DEI MINORI STRANIERI NON ACCOMPAGN",
+   "amministrazione": "PREFETTURA",
+   "ente": "LA NATURA - SOCIETA' COOPERATIVA AGRICOLA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4179980.0,
+   "aggiudicato": 919435.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

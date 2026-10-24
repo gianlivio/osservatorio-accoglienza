@@ -1,0 +1,38 @@
+{
+ "nome": "IMPREL S.R.L.",
+ "cf": "03077210841",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B49BFD422C",
+   "data": "2024-12-05",
+   "oggetto": "MANUTENZIONE LASTRICO SOLARE VIA VENEZUELA",
+   "amministrazione": "PREFETTURA DI AGRIGENTO",
+   "ente": "IMPREL S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12367.6,
+   "aggiudicato": 12367.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA PROSPETTIVA SOC. COOP. SOCIALE",
+ "cf": "00856400874",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "84669869E0",
+   "data": "2020-12-15",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA ART.95 D.LGS. 50/216 PER LA SELEZIONE DI UN ENTE ATTUATORE IL PROGETTO SIPROIMI TRIENNIO 2020-2022 IMPORTO A BASE D",
+   "amministrazione": "COMUNE DI CATANIA",
+   "ente": "COOPERATIVA PROSPETTIVA SOC. COOP. SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3208360.02,
+   "aggiudicato": 3064856.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8161222572",
+   "data": "2019-12-30",
+   "oggetto": "PROROGA PER MESI 6 PROGETTO S.P.R.A.R. MSNA",
+   "amministrazione": "COMUNE DI CATANIA",
+   "ente": "COOPERATIVA PROSPETTIVA SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 761983.0,
+   "aggiudicato": 761983.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  }
+ ]
+}

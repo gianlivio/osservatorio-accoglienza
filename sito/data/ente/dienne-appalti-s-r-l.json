@@ -1,0 +1,38 @@
+{
+ "nome": "DIENNE APPALTI S.R.L.",
+ "cf": "01467710891",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A00215634D",
+   "data": "2023-08-04",
+   "oggetto": "ALLESTIMENTO DI UNA STRUTTURA DI PRIMISSIMA ACCOGLIENZA PER 180 MINORI STRANIERI NON ACCOMPAGNATI DI GENERE MASCHILE, PRESSO IL COMUNE DI ROSOLINI, IN VIA DOMENICO MARINA N. 1.",
+   "amministrazione": "REGIONE SICILIANA",
+   "ente": "DIENNE APPALTI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 159800.0,
+   "aggiudicato": 159800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

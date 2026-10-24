@@ -1,0 +1,38 @@
+{
+ "nome": "JOHAR SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA IN LIQUIDAZIONE",
+ "cf": "10787960011",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7560746CF7",
+   "data": "2018-06-05",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PER RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "JOHAR SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 50048.0,
+   "aggiudicato": 50048.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

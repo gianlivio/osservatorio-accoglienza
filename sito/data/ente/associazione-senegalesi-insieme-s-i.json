@@ -1,0 +1,101 @@
+{
+ "nome": "ASSOCIAZIONE SENEGALESI INSIEME (S.I.)",
+ "cf": "90023700397",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7862392B1F",
+   "data": "2019-03-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI RIF. MARZO/GIUGNO 2019 - 14 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "ASSOCIAZIONE SENEGALESI INSIEME (S.I.)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52948.0,
+   "aggiudicato": 52948.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "7439648FBB",
+   "data": "2018-03-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI RIF. ANNO 2018 - 14 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "ASSOCIAZIONE SENEGALESI INSIEME (S.I.)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 158410.0,
+   "aggiudicato": 204600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "7334508379",
+   "data": "2017-05-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI - INTEGRAZIONE PER N. 8 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "ASSOCIAZIONE SENEGALESI INSIEME (S.I.)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 54281.0,
+   "aggiudicato": 54281.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6986408643",
+   "data": "2016-12-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI - 6 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "ASSOCIAZIONE SENEGALESI INSIEME (S.I.)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 67890.0,
+   "aggiudicato": 67890.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

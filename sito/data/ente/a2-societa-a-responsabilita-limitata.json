@@ -1,0 +1,38 @@
+{
+ "nome": "A2 SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "02484160466",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6E476AE68",
+   "data": "2025-05-19",
+   "oggetto": "LAVORI DI MANUTENZIONE STRAORDINARIA PER UN INTERVENTO RIVOLTO ALL'ACCOGLIENZA DI PROFUGHI IN FUGA DALLA GUERRA NEL COMUNE DI FABBRICHE DI VERGEMOLI, GIÀ TITOLARE DI PROGETTO SAI -",
+   "amministrazione": "COMUNE DI FABBRICHE DI VERGEMOLI",
+   "ente": "A2 SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 70300.0,
+   "aggiudicato": 70300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  }
+ ]
+}

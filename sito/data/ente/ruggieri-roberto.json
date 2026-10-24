@@ -1,0 +1,38 @@
+{
+ "nome": "RUGGIERI ROBERTO",
+ "cf": "02774900597",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2929FFC62",
+   "data": "2024-07-25",
+   "oggetto": "PROGETTO SAI COMUNE DI ITRI - AFFIDAMENTO OPERE DI PICCOLA MANUTENZIONE E RELATIVI MATERIALE",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "RUGGIERI ROBERTO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6240.0,
+   "aggiudicato": 6240.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

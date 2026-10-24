@@ -1,0 +1,59 @@
+{
+ "nome": "RICERCAZIONE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMIT ATA",
+ "cf": "01046090393",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7416759724",
+   "data": "2018-03-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI RIF. ANNO 2018 - 7 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "RICERCAZIONE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMIT ATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 79083.33,
+   "aggiudicato": 62562.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6985835D66",
+   "data": "2016-12-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI - 7 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "RICERCAZIONE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMIT ATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 79083.33,
+   "aggiudicato": 79083.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

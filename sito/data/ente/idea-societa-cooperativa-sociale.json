@@ -1,0 +1,38 @@
+{
+ "nome": "IDEA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "09701231210",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B72584602C",
+   "data": "2025-06-06",
+   "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L’AFFIDAMENTO DELLA GESTIONE ED ORGANIZZAZIONE DEI SERVIZI PER L’ACCOGLIENZA DI CITTADINI STRANIERI DELLA TIPOLOGIA “ACCOGLIENZA DI C",
+   "amministrazione": "COMUNE DI PAGO DEL VALLO DI LAURO",
+   "ente": "IDEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1194144.19,
+   "aggiudicato": 796096.13,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

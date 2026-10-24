@@ -1,0 +1,38 @@
+{
+ "nome": "CANOVE S.R.L.",
+ "cf": "11071970963",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SONDRIO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C965F38C",
+   "data": "2025-12-23",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI SONDRIO - U.T.G.",
+   "ente": "CANOVE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2544173.69,
+   "aggiudicato": 2544173.69,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "SONDRIO"
+  }
+ ]
+}

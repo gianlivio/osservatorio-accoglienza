@@ -1,0 +1,144 @@
+{
+ "nome": "CENTRO ASCOLTO CARITAS SANREMO",
+ "cf": "90034910084",
+ "affidamenti": 7,
+ "diretti": 2,
+ "quota_diretti": 28.6,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1A0847AC3",
+   "data": "2024-05-13",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE RELATIVAMENTE AL PERIODO: 1° GENNAIO – 31 MARZO 2024.",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO ASCOLTO CARITAS SANREMO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 112473.9,
+   "aggiudicato": 112473.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B1A07D1963",
+   "data": "2024-05-13",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE RELATIVAMENTE AL PERIODO: 15 SETTEMBRE – 31 DICEMBRE 2023",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO ASCOLTO CARITAS SANREMO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 133263.9,
+   "aggiudicato": 133263.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "A05EEAC03B",
+   "data": "2024-04-02",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO ASCOLTO CARITAS SANREMO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1711772.82,
+   "aggiudicato": 1711772.82,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "A05E2CB2B7",
+   "data": "2024-04-02",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO ASCOLTO CARITAS SANREMO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1720248.0,
+   "aggiudicato": 1720248.0,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "7095177548",
+   "data": "2017-05-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CARITAS ONLUS",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO ASCOLTO CARITAS SANREMO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 149000.0,
+   "aggiudicato": 149000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "709366016B",
+   "data": "2017-05-26",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CARITAS ONLUS",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO ASCOLTO CARITAS SANREMO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 149000.0,
+   "aggiudicato": 149000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "69688962E8",
+   "data": "2016-12-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CARITAS ONLUS",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CENTRO ASCOLTO CARITAS SANREMO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 100000.0,
+   "aggiudicato": 100000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

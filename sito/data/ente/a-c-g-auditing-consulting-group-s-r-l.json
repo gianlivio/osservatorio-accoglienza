@@ -1,0 +1,337 @@
+{
+ "nome": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+ "cf": "00758240550",
+ "affidamenti": 16,
+ "diretti": 13,
+ "quota_diretti": 81.2,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 8,
+   "diretti": 7,
+   "quota_diretti": 87.5
+  },
+  "2025": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9BE6AF82C",
+   "data": "2025-12-23",
+   "oggetto": "INCARICO DI REVISORE INDIPENDENTE PER IL SAI MSNA",
+   "amministrazione": "CISA CONSORZIO INTERCOMUNALE SOCIO ASSISTENZIALE",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6147.54,
+   "aggiudicato": 6147.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B9968B3CF0",
+   "data": "2025-12-16",
+   "oggetto": "REVISORE CONTI PROGETTO SAI",
+   "amministrazione": "COMUNE DI GUASTALLA",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8196.72,
+   "aggiudicato": 8196.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B954351B74",
+   "data": "2025-12-02",
+   "oggetto": "REVISORE DEI CONTI INDIPENDENTE CON RIF. ALLA RENDICONTAZIONE DEL PROGETTO SAI MSNA PROG 1411 PR 1 PERIODO 01.07.2025 - 30.06.2028",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12295.08,
+   "aggiudicato": 12295.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B82B9E7156",
+   "data": "2025-09-10",
+   "oggetto": "AFFIDAMENTO SERVIZIO REVISIONE LEGALE PROGETTO SAI MOSAICO 2025-2027",
+   "amministrazione": "AMMINISTRAZIONE COMUNALE DI MARANO VICENTINO",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8852.46,
+   "aggiudicato": 8852.46,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "B76400FCA7",
+   "data": "2025-06-25",
+   "oggetto": "REVISORE INDIPENDENTE PER LA RENDICONTAZIONE PROGETTO SAI ANNI 2024, 2025 E 2026",
+   "amministrazione": "COMUNE DI POGGIO IMPERIALE",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11885.25,
+   "aggiudicato": 11885.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "B5A71BF508",
+   "data": "2025-02-17",
+   "oggetto": "INCARICO DI REVISORE CONTABILE INDIPENDENTE 2025-2026",
+   "amministrazione": "COMUNE DI MONTEGROTTO TERME",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9839.0,
+   "aggiudicato": 9839.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "B501A1DFB7",
+   "data": "2024-12-27",
+   "oggetto": "INCARICO REVISORE INDIPENDENTE SAI CODICE PROGETTO 1115-PR-2",
+   "amministrazione": "COMUNE DI PIAGGINE",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6147.54,
+   "aggiudicato": 6147.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B4F8AE92F1",
+   "data": "2024-12-24",
+   "oggetto": "SERVIZIO DI SUPPORTO TECNICO ALLE ATTIVITÀ DI GESTIONE, MONITORAGGIO E RENDICONTAZIONE DEL PROGETTO SAI 2024/2026 AI SENSI DEL D.LGS. 36/2023",
+   "amministrazione": "COMUNE DI CAMPOMORONE PROVINCIA DI GENOVA",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18000.0,
+   "aggiudicato": 18000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B4D0D3A740",
+   "data": "2024-12-16",
+   "oggetto": "INCARICO DI REVISORE DEI CONTI INDIPENDENTE CON RIFERIMENTO ALLA RENDICONTAZIONE DEL PROGETTO SAI PROG 128 PR 3 PERIODO 01.01.2024-31.12.2026.",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9000.0,
+   "aggiudicato": 9000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B2D9EEB123",
+   "data": "2024-08-28",
+   "oggetto": "SERVIZIO DI REVISIONE CONTABILE PROGETTO SAI 2024-2026",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14196.72,
+   "aggiudicato": 14196.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "B29CA6CF97",
+   "data": "2024-08-08",
+   "oggetto": "S 02 24 SOC - SELEZIONE MEDIANTE PROCEDURA COMPARATIVA PER SOLI TITOLI DI UN REVISORE CONTABILE PER LA VERIFICA E CERTIFICAZIONE DELLE SPESE SOSTENUTE NELL'AMBITO DEL PROGETTO SAI ",
+   "amministrazione": "UNIONE DEI COMUNI CIRCONDARIO DELL'EMPOLESE VALDELSA",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15837.58,
+   "aggiudicato": 15837.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B2A92D1E84",
+   "data": "2024-08-01",
+   "oggetto": "RINNOVO AFFIDAMENTO SERVIZIO DI REVISIONE CONTABILE PROG.1658-PR-1 SECONDA ACCOGLIENZA MSNA RETE SAI- PERIODO AGOSTO 2024-SETTEMBRE 2025",
+   "amministrazione": "COMUNE DI FANO",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 6315.17,
+   "aggiudicato": 6315.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  },
+  {
+   "cig": "B2A8683710",
+   "data": "2024-08-01",
+   "oggetto": "REVISORE CONTABILE INDIPENDENTE PER LA VERIFICA E CERTIFICAZIONE DELLE SPESE SOSTENUTE NELL'AMBITO DEL PROGETTO SAI EX SPRAR SIPROIMI PROG-1333-PR-2 DEL COMUNE DI GALLICANO - TRIEN",
+   "amministrazione": "COMUNE DI GALLICANO",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6602.88,
+   "aggiudicato": 6602.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "B090CB5046",
+   "data": "2024-02-27",
+   "oggetto": "INCARICO DI REVISORE DEI CONTI INDIPENDENTE CON RIFERIMENTO ALLA RENDICONTAZIONE DEL PROGETTO SAI MSNA PROG 1411 PR 1 PERIODO 01.01.2023 – 30.06.2025 PER GLI ANNI 2023/2024/2025",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8750.0,
+   "aggiudicato": 8750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "84840424F0",
+   "data": "2020-11-05",
+   "oggetto": "REVISIONE CONTABILE SIPROIMI",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 87000.0,
+   "aggiudicato": 58200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6962407802",
+   "data": "2017-01-30",
+   "oggetto": "INDIZIONE PROCEDURA DI GARA APERTA PER AFFIDAMENTO DEL SERVIZIO DI SUPPORTO A RENDICONTAZIONE SPRAR DA 1 LUGLIO 2017 A 31 DICEMBRE 2019 (30 MESI)",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 500000.0,
+   "aggiudicato": 500000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

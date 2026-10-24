@@ -1,0 +1,63 @@
+{
+ "nome": "GINESTRA SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "03812040610",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7576588E32",
+   "data": "2018-06-22",
+   "oggetto": "AFFIDAMENTO PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA NEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI.",
+   "amministrazione": "COMUNE DI ROCCA D'EVANDRO",
+   "ente": "GINESTRA SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 516459.94,
+   "aggiudicato": 537114.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "71929122C2",
+   "data": "2017-09-27",
+   "oggetto": "AVVIO PROCEDURA PER LA PARTECIPAZIONE A SELEZIONI COMPARATIVE PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA COPROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DI UN PROGRAMM",
+   "amministrazione": "C.U.C. COMUNI DI SAN GIORGIO A LIRI E PIGNATARO INTERAMNA",
+   "ente": "GINESTRA SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1241244.0,
+   "aggiudicato": 1093328.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

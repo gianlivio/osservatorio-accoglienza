@@ -1,0 +1,38 @@
+{
+ "nome": "PAN SOCIETA' A RESPONSABILITA' LIMITATA DA INDICARE ANCHE COME PA N S.R.L.",
+ "cf": "01121780421",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9778754315",
+   "data": "2023-03-01",
+   "oggetto": "AFFIDAMENTO DIRETTO NOLEGGIO A LUNGO TERMINE DI N. 3 AUTOVETTURE DI CUI N. 2 AD UTILIZZO DELL'U.O. IMMIGRAZIONE NELL'AMBITO DEL PROGETTO SAI COD. 554 CATEGORIA ORDINARI 'ANCONA PRO",
+   "amministrazione": "ASP AMBITO IX",
+   "ente": "PAN SOCIETA' A RESPONSABILITA' LIMITATA DA INDICARE ANCHE COME PA N S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 44000.0,
+   "aggiudicato": 44000.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

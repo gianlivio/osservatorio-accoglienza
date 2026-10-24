@@ -1,0 +1,95 @@
+{
+ "nome": "INTESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02931280131",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B90D49A601",
+   "data": "2025-11-11",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE FINO A 50 POSTI E ORGANIZZAZIONE DEI SERVIZI IN RETE A FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE IN",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "INTESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39147972.0,
+   "aggiudicato": 39147972.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B7DA6A420E",
+   "data": "2025-08-04",
+   "oggetto": "SAP COMO-UTG PREFETTURA DI COMO. PROCEDURA DI GARA PER L'AFFIDAMENTO DIRETTO DEL SERVIZIO DI PRIMA ACCOGLIENZA DEI MINORI STRANIERI NON ACCOMPAGNATI PRESSO LA STRUTTURA DI ACCOGLIE",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "INTESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 292947.26,
+   "aggiudicato": 292947.26,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B5C0CF7E39",
+   "data": "2025-02-21",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "INTESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14019650.0,
+   "aggiudicato": 14019650.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "B18E5249D6",
+   "data": "2024-05-08",
+   "oggetto": "SAP COMO - PREFETTURA- UFFICIO TERRITORIALE DEL GOVERNO DI COMO. AFFIDAMENTO DIRETTO AI SENSI DEL COMBINATO DISPOSTO DELLART. 11 COMMA 2 DEL D.LGS. 142/2015 E DELLART. 14 COMMA 1, ",
+   "amministrazione": "STAZIONE APPALTANTE PROVINCIALE DI COMO",
+   "ente": "INTESA SOCIALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 602841.09,
+   "aggiudicato": 602841.09,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

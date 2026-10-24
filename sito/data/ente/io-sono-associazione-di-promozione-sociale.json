@@ -1,0 +1,38 @@
+{
+ "nome": "IO SONO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+ "cf": "91046300082",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B18AB0427B",
+   "data": "2024-05-08",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE RELATIVAMENTE AL PERIODO: 14 APRILE – 31 DICEMBRE 2023.",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "IO SONO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 78000.0,
+   "aggiudicato": 78000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ARBOTEAM S.R.L.",
+ "cf": "02247720218",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1B1CAAFA1",
+   "data": "2024-05-17",
+   "oggetto": "06.04_099.002_RR_VB - CENTRO DI TERAPIA RIABILITATIVA EX-PARKHOTEL - CASA NOAH (CENTRO PER RICHIEDENTI ASILO) - TESIMO - PRISSIANO 108 B - LAVORI D' ARBORICOLTURA NELL'AMBITO DELL'",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "ARBOTEAM S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5840.0,
+   "aggiudicato": 5840.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

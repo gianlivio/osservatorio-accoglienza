@@ -1,0 +1,38 @@
+{
+ "nome": "PROGETTO INTEGRAZIONE COOPERATIVA SOCIALE - ONLUS",
+ "cf": "04063970372",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6792275AA3",
+   "data": "2016-09-01",
+   "oggetto": "ACCOGLIENZA PRESSO STRTTURE DELL'ENTE FINO A 50 CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO (FAMIGLIE E UOMINI)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "PROGETTO INTEGRAZIONE COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 182400.0,
+   "aggiudicato": 112734.51,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "SECUR SERVICE TECHNOLOGY DI PRENCIPE GIUSEPPE",
+ "cf": "03664190711",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B77CD6B5F6",
+   "data": "2025-07-02",
+   "oggetto": "FORNITURA, POSA IN OPERA E MANUTENZIONE DI ALCUNI CLIMATIZZATORI PRESENTI PRESSO IL CENTRO DI ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A.) DI BORGO MEZZANONE (FG).",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SECUR SERVICE TECHNOLOGY DI PRENCIPE GIUSEPPE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6400.0,
+   "aggiudicato": 6400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

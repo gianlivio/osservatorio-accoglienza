@@ -1,0 +1,38 @@
+{
+ "nome": "MARTA SOCIETA' COOPERATIVA SOCIALE - ONLUS IN SIGLAMARTA S.C.S.",
+ "cf": "01341140182",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "849136935F",
+   "data": "2020-11-23",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE NELL'AMBITO DEL PROGETTO SIPROIMI PAVIA, ADERENTE AL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E ",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "MARTA SOCIETA' COOPERATIVA SOCIALE - ONLUS IN SIGLAMARTA S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 923632.78,
+   "aggiudicato": 923632.78,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

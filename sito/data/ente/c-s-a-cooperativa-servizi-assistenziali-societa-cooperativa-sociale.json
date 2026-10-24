@@ -1,0 +1,59 @@
+{
+ "nome": "C.S.A. COOPERATIVA SERVIZI ASSISTENZIALI - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01697440202",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9643223F59",
+   "data": "2023-02-24",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E INTEGRAZIONE DEGLI IMMIGRATI STRANIERI NELL'AMBITO DEL SISTEMA S.A.I.",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "C.S.A. COOPERATIVA SERVIZI ASSISTENZIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3067629.5,
+   "aggiudicato": 3067629.5,
+   "durata_gg": 1005.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "86367496BD",
+   "data": "2021-02-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE DEGLI IMMIGRATI STRANIERI NELL'AMBITO DEL SISTEMA SIPROIMI - I^ LOTTO 'ACCOGLIENZA MATERIALE E GESTIONE ALLOGGI' DAL 01/04/2021 AL 31/12/2023",
+   "amministrazione": "COMUNE DI PIADENA DRIZZONA",
+   "ente": "C.S.A. COOPERATIVA SERVIZI ASSISTENZIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 287496.28,
+   "aggiudicato": 287496.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

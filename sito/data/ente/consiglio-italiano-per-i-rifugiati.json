@@ -1,0 +1,58 @@
+{
+ "nome": "CONSIGLIO ITALIANO PER I RIFUGIATI",
+ "cf": "04132611007",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8487250C41",
+   "data": "2020-11-13",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA SIPROIMI CATEGORIA MSNA",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3430081.95,
+   "aggiudicato": 1400033.45,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "8475841542",
+   "data": "2020-10-26",
+   "oggetto": "INDIVIDUAZIONE DELL'ENTE ATTUATORE CUI AFFIDARE LA GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA SIPRIMI (SPRAR)",
+   "amministrazione": "UNIONE DEI COMUNI DEL VERSANTE IONICO",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 772941.18,
+   "aggiudicato": 772941.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

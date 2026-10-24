@@ -1,0 +1,154 @@
+{
+ "nome": "ASSOCIAZIONE I GIRASOLI ONLUS",
+ "cf": "01709670853",
+ "affidamenti": 7,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CALTANISSETTA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B45EA3D992",
+   "data": "2024-11-21",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DEL PROGETTO DI SECONDA ACCOGLIENZA NELLA RETE SIPROIMI – CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI (MSNA) – COMUNE DI MILENA (CL).PROSECUZIONE SIPROIMI/",
+   "amministrazione": "COMUNE DI MILENA",
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 777392.66,
+   "aggiudicato": 777392.66,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "9711158D16",
+   "data": "2023-05-22",
+   "oggetto": "AFFIDAMENTO DEL 'SERVIZIO DI ACCOGLIENZA INTEGRATA DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE - PROSECUZIONE DEL PROGETTO SAI PER MSNA N. PROG-691-PR-3 PER",
+   "amministrazione": "TIRRENO ECOSVILUPPO 2OOO SOCIETA' CONSORTILE A R.L.",
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1185908.82,
+   "aggiudicato": 1185908.82,
+   "durata_gg": 1080.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "8934433F56",
+   "data": "2021-12-01",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI RIESI",
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 339275.0,
+   "aggiudicato": 339275.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "85488405F0",
+   "data": "2020-11-25",
+   "oggetto": "AFFIDAMENTI INTERVENTI SPRAR- PROG-1304-PR-1",
+   "amministrazione": "COMUNE DI MILENA",
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 354860.0,
+   "aggiudicato": 337117.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "8468425D5F",
+   "data": "2020-11-05",
+   "oggetto": "PROSECUZIONE PROGETTO SIPROIMI N. PROG -691-PR-2 2021/22 - DETERMINA A CONTRARRE",
+   "amministrazione": "COMUNE DI RIESI",
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 739796.02,
+   "aggiudicato": 739796.02,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "8461755D1D",
+   "data": "2020-11-02",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CALTANISSETTA",
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1095000.0,
+   "aggiudicato": 821250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "69815025B4",
+   "data": "2017-03-07",
+   "oggetto": "SELEZIONE SOGGETTO ATTUATORE PER LA PROSECUZIONE DEL PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI CALTANISSETTA",
+   "ente": "ASSOCIAZIONE I GIRASOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1642500.0,
+   "aggiudicato": 1642500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  }
+ ]
+}

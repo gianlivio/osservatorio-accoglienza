@@ -1,0 +1,33 @@
+{
+ "nome": "ASSOCIAZIONE ME.DIA.RE.  MEDIAZIONE DIALOGO RELAZIONE SIGLABILE M E.DIA.RE.",
+ "cf": "08273720014",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "84703111C3",
+   "data": "2020-10-25",
+   "oggetto": "PROCEDURA NEGOZIATA AI SENSI ART. 63 COMMA 5 DEL D.LGS. 50/2016 PER IL SERVIZIO DI ACCOGLIENZA RESIDENZIALE RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE INTERNAZIONALE O UMANITARIA C",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ASSOCIAZIONE ME.DIA.RE.  MEDIAZIONE DIALOGO RELAZIONE SIGLABILE M E.DIA.RE.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 701327.46,
+   "aggiudicato": 667930.91,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

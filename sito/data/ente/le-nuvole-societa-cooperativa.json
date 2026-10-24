@@ -1,0 +1,38 @@
+{
+ "nome": "LE NUVOLE SOCIETA' COOPERATIVA",
+ "cf": "04749040632",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A006420105",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO PRESUNTO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO E RIDETERMINAZIONE CONTESTU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "LE NUVOLE SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 111906.88,
+   "aggiudicato": 111906.88,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

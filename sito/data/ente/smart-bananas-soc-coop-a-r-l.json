@@ -1,0 +1,38 @@
+{
+ "nome": "SMART BANANAS SOC. COOP. A.R.L.",
+ "cf": "02714160351",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B3EBC71081",
+   "data": "2024-10-22",
+   "oggetto": "SERVIZIO DI SUPPORTO ALLA RENDICONTAZIONE, FORMAZIONE TECNICA E SUPERVISIONE PROGETTI SAI PROG 528-PR-3 E PROG 527-PR-3",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SMART BANANAS SOC. COOP. A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40100.0,
+   "aggiudicato": 40100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

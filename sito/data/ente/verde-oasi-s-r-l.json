@@ -1,0 +1,38 @@
+{
+ "nome": "VERDE OASI S.R.L.",
+ "cf": "01593920521",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7B4F0D5F8",
+   "data": "2025-07-21",
+   "oggetto": "SERVIZI DI ACCOGLIENZA RICHIEDENTI ASILO IN CENTRI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "VERDE OASI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 866276.4,
+   "aggiudicato": 866276.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  }
+ ]
+}

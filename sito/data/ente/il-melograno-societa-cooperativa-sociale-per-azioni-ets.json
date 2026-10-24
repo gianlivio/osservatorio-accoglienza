@@ -1,0 +1,104 @@
+{
+ "nome": "IL  MELOGRANO -  SOCIETA'  COOPERATIVA  SOCIALE  PER  AZIONI  ETS",
+ "cf": "01510890625",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6158E945F",
+   "data": "2025-03-18",
+   "oggetto": "BANDO DI GARA PER L'AFFIDAMENTO MEDIANTE PROCEDURA APERTA PER L'INDIVIDUAZIONE DELL'ENTE ATTUATORE DEL PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZI",
+   "amministrazione": "UNIONE DEI COMUNI TERRA DI LEUCA ",
+   "ente": "IL  MELOGRANO -  SOCIETA'  COOPERATIVA  SOCIALE  PER  AZIONI  ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 615320.71,
+   "aggiudicato": 615320.71,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "877819185E",
+   "data": "2021-06-16",
+   "oggetto": "SERVIZI ACCOGLIENZA INTEGRATA SIPROIMI/SAI CATEGORIA ORDINARI-TRIENNIO 2021-2023",
+   "amministrazione": "COMUNE DI PIETRELCINA",
+   "ente": "IL  MELOGRANO -  SOCIETA'  COOPERATIVA  SOCIALE  PER  AZIONI  ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1104860.2,
+   "aggiudicato": 1104860.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "725054395B",
+   "data": "2017-10-30",
+   "oggetto": "SERVIZIO DI GESTIONE ED ORGANIZZAZIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E",
+   "amministrazione": "COMUNE DI ROCCABASCERANA",
+   "ente": "IL  MELOGRANO -  SOCIETA'  COOPERATIVA  SOCIALE  PER  AZIONI  ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 774606.18,
+   "aggiudicato": 735875.87,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "710149423D",
+   "data": "2017-06-23",
+   "oggetto": "ACCORDO QUADRO CON UNICO OPERATORE INDIVIDUAZIONE SOGGETTO ATTUATORE SERVIZI ACCOGLIENZA INTEGRATA IN AMBITO SPRAR",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA TRA I COMUNI DI PIETRELCINA PADULI PAGO VEIANO E PESCO SANNITA",
+   "ente": "IL  MELOGRANO -  SOCIETA'  COOPERATIVA  SOCIALE  PER  AZIONI  ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1205070.0,
+   "aggiudicato": 1035300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

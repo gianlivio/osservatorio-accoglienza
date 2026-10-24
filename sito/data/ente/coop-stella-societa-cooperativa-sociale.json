@@ -1,0 +1,86 @@
+{
+ "nome": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02874570134",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2559E6C0F",
+   "data": "2024-07-04",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 132500.0,
+   "aggiudicato": 132500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B2559E6C0F",
+   "data": "2024-07-04",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 132500.0,
+   "aggiudicato": 132500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B064E5FA42",
+   "data": "2024-02-15",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 105875.0,
+   "aggiudicato": 105875.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B064E5FA42",
+   "data": "2024-02-15",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 105875.0,
+   "aggiudicato": 105875.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

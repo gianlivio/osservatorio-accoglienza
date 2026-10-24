@@ -1,0 +1,38 @@
+{
+ "nome": "SPILLER GIACOMO",
+ "cf": "08269010016",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6B8E8344E",
+   "data": "2025-05-07",
+   "oggetto": "INCARICO DI REVISORE DEI CONTI NELL'AMBITO DELLE ATTIVITA' DI GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI BENEFICIARI DEL PROGETTO TERRITORIALE ADERENTE A",
+   "amministrazione": "COMUNE DI VAL DI CHY",
+   "ente": "SPILLER GIACOMO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8400.0,
+   "aggiudicato": 8400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

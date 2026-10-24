@@ -1,0 +1,54 @@
+{
+ "nome": "MAOMETTO - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "02841920842",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7359961FF0",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA CPA 'MAOMETTO'. EROGAZIONE CONTRIBUTO MINISTERIALE 3^ TRIMESTRE 2017.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "MAOMETTO - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78985.46,
+   "aggiudicato": 78985.46,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7359920E1B",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA CPA 'MAOMETTO'. EROGAZIONE CONTRIBUTO MINISTERIALE 2^ TRIMESTRE 2017.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "MAOMETTO - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 80185.45,
+   "aggiudicato": 80185.45,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

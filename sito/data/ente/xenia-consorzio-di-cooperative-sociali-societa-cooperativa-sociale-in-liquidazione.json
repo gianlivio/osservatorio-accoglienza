@@ -1,0 +1,38 @@
+{
+ "nome": "XENIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "05420430877",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "76160470CF",
+   "data": "2017-05-03",
+   "oggetto": "INDIVIDUAZIONE SOGGETTI DEL TERZO SETTORE PER LA CO-PROGETTAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, TUTELA E INTEGRAZIONE IN FAVORE DEI RICHIEDENTI ASILO E RIFUGIATI SPRAR-DI ",
+   "amministrazione": "AMMINISTRAZIONE COMUNALE TERME VIGLIATORE",
+   "ente": "XENIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1330670.52,
+   "aggiudicato": 1330670.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

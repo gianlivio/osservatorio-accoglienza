@@ -1,0 +1,38 @@
+{
+ "nome": "SAVE LIFE ONLUS - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04175430612",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7599952EC7",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - ARCHÈ",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "SAVE LIFE ONLUS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 401184.0,
+   "aggiudicato": 401184.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

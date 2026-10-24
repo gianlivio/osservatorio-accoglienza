@@ -1,0 +1,70 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE VITA NUOVA",
+ "cf": "04020320612",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B902E474B4",
+   "data": "2025-11-11",
+   "oggetto": "COLLOCAMENTO MINORI",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VITA NUOVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10980.0,
+   "aggiudicato": 10980.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B7021A0338",
+   "data": "2025-05-27",
+   "oggetto": "COLLOCAMENTO MINORI",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VITA NUOVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17550.0,
+   "aggiudicato": 17550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B70219E192",
+   "data": "2025-05-27",
+   "oggetto": "COLLOCAMENTO MINORI",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VITA NUOVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17550.0,
+   "aggiudicato": 17550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "nome": "SOL.MED. SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01232710861",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ENNA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "893970806C",
+   "data": "2021-10-13",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "SOL.MED. SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 108496.5,
+   "aggiudicato": 108496.5,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "893969340A",
+   "data": "2021-10-13",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "SOL.MED. SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 182911.64,
+   "aggiudicato": 182911.64,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "8939667E92",
+   "data": "2021-10-12",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "SOL.MED. SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 572431.86,
+   "aggiudicato": 572431.86,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "8734465489",
+   "data": "2021-05-11",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "SOL.MED. SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 663840.0,
+   "aggiudicato": 36.33,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  }
+ ]
+}

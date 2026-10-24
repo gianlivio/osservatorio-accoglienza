@@ -1,0 +1,38 @@
+{
+ "nome": "B&B HOTELS ITALIA SOCIETA' PER AZIONI",
+ "cf": "06291950969",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9144001C53",
+   "data": "2022-03-16",
+   "oggetto": "ESTENSIONE IN VIA D'URGENZA DEL SERVIZIO C.D. 'COVID HOTEL' NELLA PROVINCIA DI VERONA A FAVORE DELL'ULSS 9 SCALIGERA PER L'ANNO 2022 (EMERGENZA COVID/PROFUGHI UCRAINA)",
+   "amministrazione": "AZIENDA ULSS 9 SCALIGERA",
+   "ente": "B&B HOTELS ITALIA SOCIETA' PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 91.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

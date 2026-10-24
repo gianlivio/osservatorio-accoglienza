@@ -1,0 +1,38 @@
+{
+ "nome": "CREATIV CISE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01248590356",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0898513D5",
+   "data": "2024-02-26",
+   "oggetto": "SERVIZIO EDUCATIVO DI PRIMA ACCOGLIENZA PER MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "ASP CARLO SARTORI",
+   "ente": "CREATIV CISE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

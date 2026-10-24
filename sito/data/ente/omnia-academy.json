@@ -1,0 +1,100 @@
+{
+ "nome": "OMNIA ACADEMY",
+ "cf": "02447260841",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7050492A0C",
+   "data": "2017-05-05",
+   "oggetto": "AFFIDAMENTO BIENNALE SERVIZIO DI ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALEPROVINCIA DI SIRACUSA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE CENTRO SPES",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 30353400.0,
+   "aggiudicato": 6179327.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6902512518",
+   "data": "2016-12-16",
+   "oggetto": "SELEZIONE COMPARATIVA PER L'INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE PER I SERVIZI DI ACCOGLIENZA E BENEFICIARI DI PROTEZIONE INTERNAZIONALE E PER I TITOLARI DI PERMESSO UMANIT",
+   "amministrazione": "COMUNE DI SANT'ANGELO MUXARO",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE CENTRO SPES",
+   "procedura": "PROCEDURA SELETTIVA EX ART. 238 C.7, D.LGS. 163/2006",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 1256700.0,
+   "aggiudicato": 1189466.55,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "67321867A1",
+   "data": "2016-06-23",
+   "oggetto": "GESTIONE POSTI AGGIUNTIVI ANNI 2015 DEL SEVIZIO DI ACCOGLIENZA INTEGRATA A FAVORE DI RICHIEDENTI ASILO E/O RIFUGIATI - CATEGORIE ORDINARIE - FAMIGLIE SPRAR 2014/2016",
+   "amministrazione": "COMUNE DI SANT'ANGELO MUXARO",
+   "ente": "OMNIA ACADEMY",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 96950.0,
+   "aggiudicato": 96950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6166136864",
+   "data": "2015-03-07",
+   "oggetto": "GESTIONE POSTI AGGIUNTIVI ANNO 2014 DEL SERVIZIO DI ACCOGLIENZA INTEGRATA A FAVORE DI RICHIEDENTI ASILO E/O RIFUGIATI - CATEGORIE ORDINARIE - FAMIGLIE - SPRARA 2014/2016",
+   "amministrazione": "COMUNE DI SANT'ANGELO MUXARO",
+   "ente": "OMNIA ACADEMY",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119210.0,
+   "aggiudicato": 119210.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

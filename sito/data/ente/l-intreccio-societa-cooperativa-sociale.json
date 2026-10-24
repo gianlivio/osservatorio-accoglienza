@@ -1,0 +1,38 @@
+{
+ "nome": "L'INTRECCIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04721290239",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2DDDE7B12",
+   "data": "2024-08-29",
+   "oggetto": "SERVIZIO GESTIONE PROGETTO SAI FINO AL 31/12/2024",
+   "amministrazione": "COMUNE DI FUMANE",
+   "ente": "L'INTRECCIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87923.0,
+   "aggiudicato": 87923.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "nome": "ENTE CONVITTO SALESIANO SAN LUIGI",
+ "cf": "00124780313",
+ "affidamenti": 8,
+ "diretti": 6,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "GORIZIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B95DFFA328",
+   "data": "2025-12-18",
+   "oggetto": "2026 - SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9500.0,
+   "aggiudicato": 9500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B89F751DA7",
+   "data": "2025-10-14",
+   "oggetto": "2025 - SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10400.0,
+   "aggiudicato": 10400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B2F598D6CD",
+   "data": "2025-06-06",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO 09.09.2024 - 24.06.2025",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28900.0,
+   "aggiudicato": 28900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B348441E41",
+   "data": "2024-10-03",
+   "oggetto": "ACCOGLIENZA MIGRANTI UCRAINI PROVINCIA DI GORIZIA 1.9.2024 - 30.11.2024",
+   "amministrazione": "PREFETTURA DI GORIZIA",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 136352.58,
+   "aggiudicato": 136352.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GORIZIA"
+  },
+  {
+   "cig": "B13A5BFF25",
+   "data": "2024-04-12",
+   "oggetto": "FV- PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 380000.0,
+   "aggiudicato": 107100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "89032488AB",
+   "data": "2021-09-15",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138295.0,
+   "aggiudicato": 138295.0,
+   "durata_gg": 634.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "7116240B03",
+   "data": "2017-06-20",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI SAN STINO DI LIVENZA",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68340.0,
+   "aggiudicato": 68340.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "64709794CC",
+   "data": "2015-10-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ENTE CONVITTO SALESIANO SAN LUIGI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 512650.0,
+   "aggiudicato": 512650.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

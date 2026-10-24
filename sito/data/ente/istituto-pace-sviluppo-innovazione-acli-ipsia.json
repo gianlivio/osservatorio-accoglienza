@@ -1,0 +1,91 @@
+{
+ "nome": "ISTITUTO PACE SVILUPPO INNOVAZIONE ACLI (IPSIA)",
+ "cf": "97043830583",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B79BA4D358",
+   "data": "2025-07-11",
+   "oggetto": "RINNOVO DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 30 GIUGNO 2025, AI SENSI DELL'ARTICO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ISTITUTO PACE SVILUPPO INNOVAZIONE ACLI (IPSIA)",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 152054.05,
+   "aggiudicato": 152054.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B6C55F6B84",
+   "data": "2025-05-09",
+   "oggetto": "RINNOVO PER TRE MESI DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 31 MARZO 2025, AI SENSI",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ISTITUTO PACE SVILUPPO INNOVAZIONE ACLI (IPSIA)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63598.08,
+   "aggiudicato": 63598.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B5AA9ED170",
+   "data": "2025-02-18",
+   "oggetto": "RINNOVO DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 31 DICEMBRE 2024",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ISTITUTO PACE SVILUPPO INNOVAZIONE ACLI (IPSIA)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62899.2,
+   "aggiudicato": 62899.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B3611BE2CD",
+   "data": "2024-10-10",
+   "oggetto": "L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZASTRAORDINARIA DEI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE, DA SVOLGERSI, DAL 1°APRILE AL 31 DICEMBRE 2024, NEI CONFRONTI DI UN N",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ISTITUTO PACE SVILUPPO INNOVAZIONE ACLI (IPSIA)",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 192192.0,
+   "aggiudicato": 192192.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

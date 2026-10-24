@@ -1,0 +1,59 @@
+{
+ "nome": "S.G. MARSALA - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02640520819",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7401116A20",
+   "data": "2018-02-27",
+   "oggetto": "RETTE RICOVERO N. 15 MSNA PRESSO LA STRUTTURA 'S:G. MARSALA' DELLA SOC. COOP. SOCIALE S.G. MARSALA DI MARSALA -ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "S.G. MARSALA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 235000.0,
+   "aggiudicato": 235000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "71634677F8",
+   "data": "2017-07-27",
+   "oggetto": "RETTE RICOVERO N.15 MSNA PRESSO STRUTTURA DI II LIVELLO S.G. MARSALA DELLA SOC.COOP. SOCIALE S.G. MARSALA - ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "S.G. MARSALA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 174125.0,
+   "aggiudicato": 174125.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

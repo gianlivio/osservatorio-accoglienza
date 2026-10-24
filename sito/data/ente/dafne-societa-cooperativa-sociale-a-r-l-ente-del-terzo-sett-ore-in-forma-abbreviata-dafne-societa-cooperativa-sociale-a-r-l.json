@@ -1,0 +1,38 @@
+{
+ "nome": "DAFNE - SOCIETA' COOPERATIVA SOCIALE A R.L. - ENTE DEL TERZO SETT ORE IN FORMA ABBREVIATA DAFNE SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "04495081210",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B35537E2FD",
+   "data": "2024-10-09",
+   "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA SELEZIONE DEL SOGGETTO ATTUATORE AI FINI DELL’AFFIDAMENTO, PER LA PROSECUZIONE, DEI SERVIZI DI ACCOGLIENZA, TUTELA, INTEGRAZIONE D",
+   "amministrazione": "COMUNE DI PROCIDA",
+   "ente": "DAFNE - SOCIETA' COOPERATIVA SOCIALE A R.L. - ENTE DEL TERZO SETT ORE IN FORMA ABBREVIATA DAFNE SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1103458.13,
+   "aggiudicato": 1015181.36,
+   "durata_gg": 25.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "CHESTANZE S.R.L.",
+ "cf": "12028530017",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9212287BB7",
+   "data": "2022-04-29",
+   "oggetto": "OSPITALITA' PROFUGHI UCRAINI PRESSO STRUTTURA 'CHE STANZE' - GRUGLIASCO (TO)",
+   "amministrazione": "REGIONE PIEMONTE",
+   "ente": "CHESTANZE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 98200.0,
+   "aggiudicato": 98181.82,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

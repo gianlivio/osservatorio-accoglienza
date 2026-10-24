@@ -1,0 +1,70 @@
+{
+ "nome": "NOVASS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01142200771",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "MATERA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A05E7DC109",
+   "data": "2021-03-16",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI TURSI",
+   "ente": "NOVASS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 211994.14,
+   "aggiudicato": 211994.14,
+   "durata_gg": 240.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MATERA"
+  },
+  {
+   "cig": "88822020F8",
+   "data": "2021-02-15",
+   "oggetto": "RAFFORZAMENTO DELLA CAPACITÀ DI ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO ALL'AUTONOMIA DEI MSNA NELLA RETE SIPROIMI. D.M. 18/11/2019. AFFIDAMENTO CO-PROGETTAZIONE E GESTIONE SERVI",
+   "amministrazione": "COMUNE DI COLOBRARO",
+   "ente": "NOVASS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 249660.0,
+   "aggiudicato": 249660.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MATERA"
+  },
+  {
+   "cig": "A05E828FBC",
+   "data": "2021-02-10",
+   "oggetto": "RAFFORZAMENTO DELLA CAPACITÀ DI ACCOGLIENZA, INCLUSIONE E ACCOMPGNAMENTO ALL'AUTONOMIA DEI MSNA NELLA RETE SIPROIMI PROGETTO 1744-PR-2",
+   "amministrazione": "COMUNE DI COLOBRARO",
+   "ente": "NOVASS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 119732.77,
+   "aggiudicato": 119732.77,
+   "durata_gg": 151.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MATERA"
+  }
+ ]
+}

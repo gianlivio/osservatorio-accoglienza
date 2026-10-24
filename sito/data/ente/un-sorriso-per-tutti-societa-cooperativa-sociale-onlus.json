@@ -1,0 +1,59 @@
+{
+ "nome": "UN SORRISO PER TUTTI - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03830360719",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B497B5AFF1",
+   "data": "2024-12-03",
+   "oggetto": "GESTIONE CENTRO SERVIZI PER IL CONTRASTO ALLA POVERTA', ALL'EMARGINAZIONE SOCIALE E PER L'ACCOGLIENZA E L'ORIENTAMENTO DEI SENZA FISSA DIMORA E DEGLI IMMIGRATI COMPRENSIVO DEL SERV",
+   "amministrazione": "COMUNE DI CERIGNOLA",
+   "ente": "UN SORRISO PER TUTTI - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 395567.15,
+   "aggiudicato": 395567.15,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "95054197E6",
+   "data": "2022-12-12",
+   "oggetto": "PROSECUZIONE DEL PROGETTO 'CASA FUTURA' - FONDO NAZIONALE PER LE POLITICHE ED I SERVIZI DELL'ASILO ED IL FUNZIONAMENTO DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZ",
+   "amministrazione": "COMUNE DI CERIGNOLA",
+   "ente": "UN SORRISO PER TUTTI - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 744800.0,
+   "aggiudicato": 744800.0,
+   "durata_gg": 1064.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

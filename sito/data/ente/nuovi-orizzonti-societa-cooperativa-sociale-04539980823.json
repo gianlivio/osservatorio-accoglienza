@@ -1,0 +1,38 @@
+{
+ "nome": "NUOVI ORIZZONTI SOCIETA COOPERATIVA SOCIALE",
+ "cf": "04539980823",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2196C0B5C",
+   "data": "2024-06-13",
+   "oggetto": "SOCIETÀ COOP. SOCIALE NUOVI ORIZZONTI . CAS BORGO AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (ART. 1",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "NUOVI ORIZZONTI SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1371809.0,
+   "aggiudicato": 1371809.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

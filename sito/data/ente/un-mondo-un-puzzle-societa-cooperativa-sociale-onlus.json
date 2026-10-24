@@ -1,0 +1,38 @@
+{
+ "nome": "UN MONDO UN PUZZLE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03936990989",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B83D57A49F",
+   "data": "2025-09-15",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "UN MONDO UN PUZZLE - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5995627.2,
+   "aggiudicato": 5995627.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

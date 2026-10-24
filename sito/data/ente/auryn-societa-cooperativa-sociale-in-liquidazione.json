@@ -1,0 +1,70 @@
+{
+ "nome": "AURYN SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "04836850265",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7156507865",
+   "data": "2017-07-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 16 OSPITI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AURYN SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73440.0,
+   "aggiudicato": 73440.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "70699871D7",
+   "data": "2017-05-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AURYN SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43200.0,
+   "aggiudicato": 43200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "73452346D8",
+   "data": "2017-01-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 16 OSPITI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AURYN SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43200.0,
+   "aggiudicato": 43200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ALI SPIEGATE ODV",
+ "cf": "91022750045",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0008E2562",
+   "data": "2023-08-01",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "ALI SPIEGATE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27600.0,
+   "aggiudicato": 27600.0,
+   "durata_gg": 123.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

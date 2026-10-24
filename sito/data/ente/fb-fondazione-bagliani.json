@@ -1,0 +1,59 @@
+{
+ "nome": "FB - FONDAZIONE BAGLIANI",
+ "cf": "91002350188",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5CDE24C42",
+   "data": "2025-02-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE EX MSNA NEOMAGGIORENNE (RAGAZZI FASCIA 18-21 ANNI) - FONDAZIONE BAGLIANI I TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "FB - FONDAZIONE BAGLIANI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12000.0,
+   "aggiudicato": 12000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "B09E196C9B",
+   "data": "2024-02-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE EX MSNA NEOMAGGIORENNE (RAGAZZI FASCIA 18-21 ANNI) - FONDAZIONE BAGLIANI ANNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "FB - FONDAZIONE BAGLIANI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52000.0,
+   "aggiudicato": 52000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

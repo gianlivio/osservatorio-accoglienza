@@ -1,0 +1,38 @@
+{
+ "nome": "ISTITUTO MAESTRE PIE DELL’ADDOLORATA",
+ "cf": "02501340558",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4B2A98F41",
+   "data": "2024-12-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "ISTITUTO MAESTRE PIE DELL’ADDOLORATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 120450.0,
+   "aggiudicato": 120450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

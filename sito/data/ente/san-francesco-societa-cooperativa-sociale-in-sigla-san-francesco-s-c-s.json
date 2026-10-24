@@ -1,0 +1,120 @@
+{
+ "nome": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+ "cf": "04772220879",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CALTANISSETTA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B91BCE57B9",
+   "data": "2025-11-17",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI SECONDA ACCOGLIENZA PROGETTO SAI PROG- 1641-PR-2 (MSNA) – COMUNE DI RADDUSA (CT).",
+   "amministrazione": "COMUNE DI RADDUSA",
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1143618.65,
+   "aggiudicato": 1143618.65,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "B7787AB6B9",
+   "data": "2025-07-01",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DEL PROGETTO DI SECONDA ACCOGLIENZA NELLA RETE SIPROIMI – CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI (MSNA) – COMUNE DI NISCEMI (CL).AMPLIAMENTO POSTI MSN",
+   "amministrazione": "COMUNE DI NISCEMI",
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 762872.42,
+   "aggiudicato": 762872.42,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "B58CE6BAA7",
+   "data": "2025-02-10",
+   "oggetto": "S.U.A. PER LA PREFETTURA - U.T.G. DI MACERATA. PROCEDURA APERTA PER L'AFFIDAMENTO MEDIANTE ACCORDO QUADRO CON PIÃÃÃÂ¹ OPERATORI ECONOMICI, SENZA SUCCESSIVO CONFRONTO COMPETIT",
+   "amministrazione": "PREFETTURA DI MACERATA",
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 34451437.5,
+   "aggiudicato": 13197159.0,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B4A53D010A",
+   "data": "2024-12-24",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DEL PROGETTO DI SECONDA ACCOGLIENZA NELLA RETE SIPROIMI – CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI (MSNA) – COMUNE DI NISCEMI (CL).PROSECUZIONE DEL PROG",
+   "amministrazione": "COMUNE DI NISCEMI",
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 854080.0,
+   "aggiudicato": 854080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "9535072E52",
+   "data": "2023-02-15",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA)",
+   "amministrazione": "COMUNE DI VIZZINI",
+   "ente": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE IN SIGLA SAN FRANCESCO S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1285035.0,
+   "aggiudicato": 1285035.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  }
+ ]
+}

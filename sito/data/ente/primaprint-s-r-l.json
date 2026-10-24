@@ -1,0 +1,38 @@
+{
+ "nome": "PRIMAPRINT S.R.L.",
+ "cf": "00835510561",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B51C9E1D9C",
+   "data": "2025-01-30",
+   "oggetto": "ACQUISIZIONE DEL SERVIZIO DI STAMPA DI N. 44.838 COPIE DI VOLANTINI INFORMATIVI SULLA PROCEDURA DI PROTEZIONE INTERNAZIONALE, CON SPEDIZIONE DEGLI STESSI AGLI UFFICI IMMIGRAZIONE D",
+   "amministrazione": "MINISTERO DELL INTERNO - DIPARTIMENTO PER LE LIBERTA CIVILI E L IMMIGRAZIONE",
+   "ente": "PRIMAPRINT S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14000.0,
+   "aggiudicato": 14000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  }
+ ]
+}

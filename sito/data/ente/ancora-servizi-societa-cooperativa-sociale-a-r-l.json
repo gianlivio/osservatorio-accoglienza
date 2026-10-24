@@ -1,0 +1,38 @@
+{
+ "nome": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "04201270370",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "782212099E",
+   "data": "2019-01-01",
+   "oggetto": "ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE PER IL MESE DI GENNAIO 2019",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 121757.4,
+   "aggiudicato": 121757.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

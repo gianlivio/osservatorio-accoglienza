@@ -1,0 +1,38 @@
+{
+ "nome": "PIANETA COSPEA S.R.L.",
+ "cf": "01967130541",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B65546FABA",
+   "data": "2025-04-04",
+   "oggetto": "SPESA ALIMENTARE SAI DM",
+   "amministrazione": "ISTITUTO ASSISTENZA INFANZIA BEATA LUCIA ",
+   "ente": "PIANETA COSPEA S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 12000.0,
+   "aggiudicato": 12000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

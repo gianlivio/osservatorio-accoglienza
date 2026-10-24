@@ -1,0 +1,112 @@
+{
+ "nome": "CSEL CONSORZIO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02239200963",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B359B9D722",
+   "data": "2024-10-09",
+   "oggetto": "PROCEDURA APERTAPER L'AFFIDAMENTO DEL SERVIZIO DELLA GESTIONE E ORGANIZZAZIONEDEI SERVIZI DI ACCOGLIENZA EACCOMPAGNAMENTO ALL'INCLUSIONE SOCIALERIVOLTI A PERSONE DESTINATARIE DEGLI",
+   "amministrazione": "OFFERTA SOCIALE AZIENDA SPECIALE CONSORTILE",
+   "ente": "CSEL CONSORZIO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1769394.98,
+   "aggiudicato": 1769394.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "B12B3ADBE3",
+   "data": "2024-04-11",
+   "oggetto": "AFFIDAMENTO DELLA GESTIONE E ORGANIZZAZIONE DEI SERVIZI DI ACCOGLIENZA E ACCOMPAGNAMENTO ALL'INCLUSIONE SOCIALE RIVOLTI A PERSONE DESTINATARIE DEGLI INTERVENTI DEL SISTEMA SIPROIMI",
+   "amministrazione": "OFFERTA SOCIALE AZIENDA SPECIALE CONSORTILE",
+   "ente": "CSEL CONSORZIO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 615000.0,
+   "aggiudicato": 615000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "8528160C41",
+   "data": "2020-12-04",
+   "oggetto": "AMBITO TERRITORIALE DI VIMERCATE",
+   "amministrazione": "OFFERTA SOCIALE AZIENDA SPECIALE CONSORTILE",
+   "ente": "CSEL CONSORZIO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1486511.64,
+   "aggiudicato": 1486551.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8438685F25",
+   "data": "2020-09-30",
+   "oggetto": "PROCEDURA APERTA PER APPALTO DEL SERVIZIO DI PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA A FAVORE DI PERSONE TITOLARI DI PROTEZIONE I",
+   "amministrazione": "COMUNE DI MONZA",
+   "ente": "CSEL CONSORZIO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1700801.63,
+   "aggiudicato": 1360420.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "6153348F64",
+   "data": "2015-02-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 MAGGIO /31 DICEMBRE 2015",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CSEL CONSORZIO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5185820.5,
+   "aggiudicato": 5185820.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  }
+ ]
+}

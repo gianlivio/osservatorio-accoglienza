@@ -1,0 +1,38 @@
+{
+ "nome": "UNICOMM - S.R.L.",
+ "cf": "01274580248",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BELLUNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B05EDD3DF7",
+   "data": "2024-02-13",
+   "oggetto": "FORNITURA GENERI ALIMENTARI PER MIGRANTI RICHIEDENTI ASILO OSPITATI NEL COMUNE DI BORGO VALBELLUNA",
+   "amministrazione": "COMUNE DI BORGO VALBELLUNA",
+   "ente": "UNICOMM - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7377.05,
+   "aggiudicato": 7377.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BELLUNO"
+  }
+ ]
+}

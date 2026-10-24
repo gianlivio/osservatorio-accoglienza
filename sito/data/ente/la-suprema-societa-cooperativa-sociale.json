@@ -1,0 +1,38 @@
+{
+ "nome": "LA SUPREMA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02657560815",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7623548ED0",
+   "data": "2018-09-27",
+   "oggetto": "RETTE RICOVERO MSNA PRESSO LA STRUTTURA DI II LIVELLO TRILLY DELLA SOC COOP. LA SUPREMA DI MARSALA - ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "LA SUPREMA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 98360.0,
+   "aggiudicato": 98360.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

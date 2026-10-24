@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE YOLO",
+ "cf": "17289901005",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B73FD012CC",
+   "data": "2025-06-13",
+   "oggetto": "RETTA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI PONTECORVO",
+   "ente": "COOPERATIVA SOCIALE YOLO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15000.0,
+   "aggiudicato": 15000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

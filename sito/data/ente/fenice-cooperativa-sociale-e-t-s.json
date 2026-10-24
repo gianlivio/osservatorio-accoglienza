@@ -1,0 +1,38 @@
+{
+ "nome": "FENICE COOPERATIVA SOCIALE - E.T.S.",
+ "cf": "01733450058",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASTI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9989795F9C",
+   "data": "2023-06-30",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "FENICE COOPERATIVA SOCIALE - E.T.S.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 541562.5,
+   "aggiudicato": 498237.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  }
+ ]
+}

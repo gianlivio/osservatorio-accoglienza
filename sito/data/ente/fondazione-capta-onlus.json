@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE CAPTA ONLUS",
+ "cf": "90002450279",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9A189840E",
+   "data": "2025-12-17",
+   "oggetto": "SERVIZIO DI INGAGGIO, AFFIANCAMENTO, FORMAZIONE E FACILITAZIONE/MODERAZIONE DELLA CONSULTA DELLE PERSONE STRANIERE, MIGRANTI E APOLIDI DEL COMUNE DI VICENZA",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "FONDAZIONE CAPTA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8146.5,
+   "aggiudicato": 8146.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VICENZA"
+  }
+ ]
+}

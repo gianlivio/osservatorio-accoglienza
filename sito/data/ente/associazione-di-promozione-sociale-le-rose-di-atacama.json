@@ -1,0 +1,105 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LE ROSE DI ATACAMA",
+ "cf": "01897300768",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "COMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B05CB92990",
+   "data": "2024-02-13",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LE ROSE DI ATACAMA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18437.98,
+   "aggiudicato": 18437.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "7856687736",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 50 MIGRANTI ALLA'ASSOCIAZIONE LE ROSE DI ATACAMA PER IL PERIODO 1^ APRILE/31 DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LE ROSE DI ATACAMA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 304425.0,
+   "aggiudicato": 304425.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "70683971BB",
+   "data": "2017-05-08",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA N. 67 MIGRANTI ASSOCIAZIONE LE ROSE DI ATACAMA - PROROGA TECNICA 1^ MAGGIO 2017 / 31 LUGLIO 2017 - (ACCORDO QUADRO DI RIFERIMENTO PROT. 27929 DEL 1",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LE ROSE DI ATACAMA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 197248.0,
+   "aggiudicato": 197248.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "68070245E7",
+   "data": "2016-09-20",
+   "oggetto": "PROCEDURA NEGOZIATA, DI CUI ALL'ART. 63 DEL D.LGS. 50/2016, PER ASSICURARE IL SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE SA",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LE ROSE DI ATACAMA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 936960.0,
+   "aggiudicato": 936000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

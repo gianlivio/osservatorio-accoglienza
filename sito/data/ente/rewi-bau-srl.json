@@ -1,0 +1,59 @@
+{
+ "nome": "REWI BAU SRL",
+ "cf": "02213880210",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B63134D6E0",
+   "data": "2025-03-26",
+   "oggetto": "06.04_099.002_RR_VB - CENTRO DI TERAPIA RIABILITATIVA EX-PARKHOTEL - CASA NOAH (CENTRO PER RICHIEDENTI ASILO) - TESIMO - PRISSIANO 108 B - SPOSTAMENTO DELLA CONDOTTA PRINCIPALE ACQ",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "REWI BAU SAS DI WINDEGGER ERWIN & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16051.86,
+   "aggiudicato": 16051.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  },
+  {
+   "cig": "B349048B21",
+   "data": "2024-10-04",
+   "oggetto": "06.04_099.002_RR_VB - CENTRO DI TERAPIA RIABILITATIVA EX-PARKHOTEL - CASA NOAH (CENTRO PER RICHIEDENTI ASILO) - TESIMO - PRISSIANO 108 B - SPOSTAMENTO DELLA CONDOTTA PRINCIPALE ACQ",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "REWI BAU SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27842.36,
+   "aggiudicato": 27842.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

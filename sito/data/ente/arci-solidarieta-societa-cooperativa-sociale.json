@@ -1,0 +1,101 @@
+{
+ "nome": "ARCI SOLIDARIETA' SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "97117730586",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0532BC8F1",
+   "data": "2024-03-07",
+   "oggetto": "LOTTO 3 ARCI IL CAMMINO N. 24 POSTI PER NEOMAGGIORENNI TITOLARI DI ACCOGLIENZA SAI (EX-SIPROIMI) IN STRUTTURE DI ACCOGLIENZA CON CAPIENZA FINO A 12 POSTI, RISPONDENTI AI REQUISITI ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ARCI SOLIDARIETA' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 675381.12,
+   "aggiudicato": 675381.12,
+   "durata_gg": 275.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "9726750007",
+   "data": "2023-03-31",
+   "oggetto": "N. 24 POSTI PER NEOMAGGIORENNI TITOLARI DI ACCOGLIENZA SAI (EX-SIPROIMI) IN STRUTTURE DI ACCOGLIENZA CON CAPIENZA FINO A 12 POSTI, RISPONDENTI AI REQUISITI PREVISTI ALL'ART. 19 DEC",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ARCI SOLIDARIETA' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1574848.8,
+   "aggiudicato": 1125635.2,
+   "durata_gg": 915.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7353980845",
+   "data": "2018-01-26",
+   "oggetto": "ACCODO QUADRO AI SENSI DELL'ART. 54, COMMA 4, LETT. A) DEL D.LGS. 50/2016 PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI SINGOLI IN CENTRI SPRAR PER ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ARCI SOLIDARIETA' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 14311332.0,
+   "aggiudicato": 791017.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7261578BB9",
+   "data": "2017-11-02",
+   "oggetto": "PROGETTO CENTRI DI ACCOGLIENZA INTEGRATA PER ADULTI E FAMIGLIE SPRAR - CRS COOPERATIVA ROAM SOLIDARIETÀ CENTRO BAKHITA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ARCI SOLIDARIETA' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1519525.0,
+   "aggiudicato": 1519525.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

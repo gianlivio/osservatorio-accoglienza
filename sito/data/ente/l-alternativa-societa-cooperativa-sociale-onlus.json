@@ -1,0 +1,86 @@
+{
+ "nome": "L'ALTERNATIVA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03138900984",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "95800993CA",
+   "data": "2022-12-30",
+   "oggetto": "APPROVAZIONE DELLA SPESA PER GLI INSERIMENTI DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA ANNO - OTTAVA QUOTA ANNO 2022. L'ALTERNATIVA",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "L'ALTERNATIVA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 97280.46,
+   "aggiudicato": 97280.46,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9408385CE7",
+   "data": "2022-11-29",
+   "oggetto": "APPROVAZIONE DELLA SPESA PER GLI INSERIMENTI DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA - QUINTA QUOTA ANNO 2022.",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "L'ALTERNATIVA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 100000.0,
+   "aggiudicato": 100000.0,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9234938FE8",
+   "data": "2022-05-17",
+   "oggetto": "ACCOGLIENZA MSNA EXTRA SAI",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "L'ALTERNATIVA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 85714.28,
+   "aggiudicato": 85714.28,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9203917096",
+   "data": "2022-04-29",
+   "oggetto": "ACCOGLIENZA MSNA EXTRA SAI",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "L'ALTERNATIVA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41024.19,
+   "aggiudicato": 41024.19,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

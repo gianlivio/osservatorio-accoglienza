@@ -1,0 +1,59 @@
+{
+ "nome": "CARITAS SAN SATURNINO FONDAZIO NE ONLUS",
+ "cf": "92139240920",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71228791B3",
+   "data": "2017-06-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA STRAORDINARIA E TEMPORANEA DEI MIGRANTI RICHIEDENTI ASILO ART.11 D.LGS. 142/20015-BIENNIO 2017-2019",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "CARITAS SAN SATURNINO FONDAZIO NE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 100695000.0,
+   "aggiudicato": 4803238.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "69298748ED",
+   "data": "2016-12-31",
+   "oggetto": "INDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEL PROGETTO SPRAR (SERVIZIO PER RICHIEDENTI ASILO E RIFUGIATI) TRIENNIO 2017/2019 A VALERE SUI FINANZIAMENTI DI CUI AL DECRETO DEL MINISTERO ",
+   "amministrazione": "COMUNE DI QUARTU SANT ELENA",
+   "ente": "CARITAS SAN SATURNINO FONDAZIO NE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1061700.0,
+   "aggiudicato": 1042700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

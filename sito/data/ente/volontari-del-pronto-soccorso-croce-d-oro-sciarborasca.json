@@ -1,0 +1,38 @@
+{
+ "nome": "VOLONTARI DEL PRONTO SOCCORSO CROCE D'ORO SCIARBORASCA",
+ "cf": "01200120994",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8861241F63",
+   "data": "2021-08-13",
+   "oggetto": "PROCEDURA APERTA TELEMATICA PER L'ATTIVITA' DI ORGANIZZAZIONE E GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA PER LE PERSONE AVENTI TITOLO AD ESSERE ACCOLTE NELL'A",
+   "amministrazione": "COMUNE DI COGOLETO",
+   "ente": "VOLONTARI DEL PRONTO SOCCORSO CROCE D'ORO SCIARBORASCA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 979238.1,
+   "aggiudicato": 795630.95,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

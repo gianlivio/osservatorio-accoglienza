@@ -1,0 +1,154 @@
+{
+ "nome": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01933190595",
+ "affidamenti": 7,
+ "diretti": 4,
+ "quota_diretti": 57.1,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8A3442803",
+   "data": "2025-10-15",
+   "oggetto": "INTERVENTI IN FAVORE DEI RICHIEDENTI ASILO, RIFUGIATI E BENEFICIARI DI ALTRE FORME DI PROTEZIONE IN CONDIZIONI DI VULNERABILITÀ O FRAGILITÀ SOCIALE, IN USCITA DAL SISTEMA DI ACCOGL",
+   "amministrazione": "COMUNE DI LATINA",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21496.41,
+   "aggiudicato": 21496.41,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B346EF4A4D",
+   "data": "2024-10-03",
+   "oggetto": "SERVIZIO DI COPROGETTAZIONE SERVIZIO SAI",
+   "amministrazione": "COMUNE DI CORI",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 396068.75,
+   "aggiudicato": 396068.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B346B53BAA",
+   "data": "2024-10-03",
+   "oggetto": "COPROGETTAZIONE SERVIZIO SAI",
+   "amministrazione": "COMUNE DI CORI",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 131062.75,
+   "aggiudicato": 131062.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "7670150802",
+   "data": "2018-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 29/10/2018 - 31/12/2018 - SOC. COOP. SOCIALE ARTEINSIEME",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 627827.2,
+   "aggiudicato": 627827.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "7144878BD6",
+   "data": "2017-07-24",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL PROGETTO SPRAR DEL COMUNE DI LATINA. TRIENNIO 2017 - 2019 - DET. 1047/17",
+   "amministrazione": "COMUNE DI LATINA",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6276342.94,
+   "aggiudicato": 2418259.315,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "71205954E1",
+   "data": "2017-05-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 776100.0,
+   "aggiudicato": 776100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "66493018C3",
+   "data": "2016-04-06",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA INTEGRATA RICHIEDENTI ASILO E RIFUGIATI NEL QUADRO DELLO SPRAR DET.N.228/2016",
+   "amministrazione": "COMUNE DI LATINA",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 204560.0,
+   "aggiudicato": 204560.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

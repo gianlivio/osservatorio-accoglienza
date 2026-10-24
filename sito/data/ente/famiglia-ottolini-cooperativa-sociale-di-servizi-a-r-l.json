@@ -1,0 +1,38 @@
+{
+ "nome": "FAMIGLIA OTTOLINI COOPERATIVA SOCIALE DI SERVIZI A R.L.",
+ "cf": "01970160188",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B284C5F85C",
+   "data": "2024-12-12",
+   "oggetto": "COLLOCAMENTO MSNA IN STRUTTURA COMUNITARIA 2 SEMESTRE 2024",
+   "amministrazione": "COMUNE DI ABBIATEGRASSO",
+   "ente": "FAMIGLIA OTTOLINI COOPERATIVA SOCIALE DI SERVIZI A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22080.0,
+   "aggiudicato": 22080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

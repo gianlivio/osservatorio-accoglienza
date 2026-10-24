@@ -1,0 +1,106 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOLE FUORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "10400811211",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8D8B53788",
+   "data": "2025-10-30",
+   "oggetto": "ACCOGLIENZA MNORI",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "SOCIETA' COOPERATIVA SOLE FUORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13090.81,
+   "aggiudicato": 13090.81,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B8270D115B",
+   "data": "2025-09-09",
+   "oggetto": "COLLOCAMENTO MINORI",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "SOCIETA' COOPERATIVA SOLE FUORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23814.0,
+   "aggiudicato": 23814.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B7FA5D0723",
+   "data": "2025-08-18",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI INSERIMENTO COMUNITÀ DI N. 1 MSNA A FAVORE DI SOC. COOP. SOLE FUORI COOP. SOC. A RL",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "SOCIETA' COOPERATIVA SOLE FUORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20000.0,
+   "aggiudicato": 20000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B6909A7CAB",
+   "data": "2025-04-22",
+   "oggetto": "INSERIMENTO MSNA PRESSO ACCOGLIENZA COMUNITARIA RESIDENZIALE SOLE FUORI SOCIETA' COOPERATIVA SOCIALE II TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "SOCIETA' COOPERATIVA SOLE FUORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28000.0,
+   "aggiudicato": 28000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B601A65B6D",
+   "data": "2025-03-13",
+   "oggetto": "INSERIMENTO MSNA PRESSO ACCOGLIENZA COMUNITARIA RESIDENZIALE SOLE FUORI SOCIETA' COOPERATIVA SOCIALE I TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "SOCIETA' COOPERATIVA SOLE FUORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18000.0,
+   "aggiudicato": 18000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

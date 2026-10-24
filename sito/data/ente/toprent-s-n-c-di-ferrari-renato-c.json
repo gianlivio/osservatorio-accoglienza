@@ -1,0 +1,38 @@
+{
+ "nome": "TOPRENT S.N.C. DI FERRARI RENATO & C.",
+ "cf": "01365920998",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6329A13DF",
+   "data": "2025-03-26",
+   "oggetto": "TRASPORTO MIGRANTI VEICOLI A NOLEGGIO CON CONDUCENTE",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "TOPRENT S.N.C. DI FERRARI RENATO & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "nome": "COOPERATIVA SOCIALE SERVIZI ASSOCIATI C.S.S.A. SOC. COOP. A R. L.",
+ "cf": "01898930274",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5C1EE278B",
+   "data": "2025-02-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA STRAORDINARIA DI MINORI STRANIERI NON ACCOMPAGNATI ASSEGNATI ALL'IPAB DALLA PREFETTURA DI VENEZIA PRESSO LE COMUNITÀ EDUCATIVE PER MINORI CON P.A.",
+   "amministrazione": "OPERE RIUNITE BUON PASTORE",
+   "ente": "COOPERATIVA SOCIALE SERVIZI ASSOCIATI C.S.S.A. SOC. COOP. A R. L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 124972.35,
+   "aggiudicato": 124972.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B2D8EA6411",
+   "data": "2024-08-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI ASSEGNATI ALL'IPAB DALLA PREFETTURA DI VENEZIA",
+   "amministrazione": "OPERE RIUNITE BUON PASTORE",
+   "ente": "COOPERATIVA SOCIALE SERVIZI ASSOCIATI C.S.S.A. SOC. COOP. A R. L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75478.35,
+   "aggiudicato": 75478.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6662375DC3",
+   "data": "2016-04-12",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - C.S.S.A. - 15/3 - 31/12/2016 ANNONE VENETO VIA SVEVO 1 - 8 POSTI -",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "COOPERATIVA SOCIALE SERVIZI ASSOCIATI C.S.S.A. SOC. COOP. A R. L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78256.0,
+   "aggiudicato": 78256.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "65371502D6",
+   "data": "2015-12-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - C.S.S.A. COOP.SOC.SERVIZI ASSOCIATI - SPINEA - PROROGA DAL 01/01 AL 14/03/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "COOPERATIVA SOCIALE SERVIZI ASSOCIATI C.S.S.A. SOC. COOP. A R. L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86765.0,
+   "aggiudicato": 86765.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "64593074C2",
+   "data": "2015-11-03",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - C.S.S.A. COOPERATIVA SOCIALE SERVIZI ASSOCIATI - SPINEA - DAL 9/11 AL 31/12/2015 PORTOGRUARO VIA CAMUCINA, 1",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "COOPERATIVA SOCIALE SERVIZI ASSOCIATI C.S.S.A. SOC. COOP. A R. L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62142.5,
+   "aggiudicato": 62142.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

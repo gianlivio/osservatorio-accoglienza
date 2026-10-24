@@ -1,0 +1,158 @@
+{
+ "nome": "CIDIS ONLUS",
+ "cf": "94015970547",
+ "affidamenti": 7,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8540660796",
+   "data": "2021-04-14",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA E INTEGRAZIONE PREVISTI NELL'AMBITO DELLA RETE SIPROIMI (EX SPRAR) PER IL TRIENNIO 2021/2023 DM 01 OTTOBRE 2020",
+   "amministrazione": "COMUNE DI CASTROVILLARI",
+   "ente": "CIDIS ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1798637.87,
+   "aggiudicato": 1798637.87,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "8584610447",
+   "data": "2021-02-17",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER I TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA SIPROIMI - CATEGORIA ORDINARI - 1.5.2021-31.12.2022",
+   "amministrazione": "COMUNE DI FOLIGNO",
+   "ente": "CIDIS ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2585987.7,
+   "aggiudicato": 1034394.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "83746671D6",
+   "data": "2020-06-19",
+   "oggetto": "PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E PER MINORI STRANIERI). ANNO 2020",
+   "amministrazione": "COMUNE DI FOLIGNO",
+   "ente": "CIDIS ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 546708.06,
+   "aggiudicato": 546708.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "76632401B4",
+   "data": "2018-09-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA TITOLARI PROTEZIONE INTERNAZIONALE SPRAR",
+   "amministrazione": "COMUNE DI MASSA MARTANA",
+   "ente": "CIDIS ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 285535.5,
+   "aggiudicato": 262516.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "7285891B72",
+   "data": "2017-12-13",
+   "oggetto": "AFFIDAMENTO A SOGGETTI DEL TERZO SETTORE DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA A FAVORE DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE E DEI LORO FAMILIARI, NON",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI COSENZA",
+   "ente": "CIDIS ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1137393.0,
+   "aggiudicato": 1137393.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "6986196750",
+   "data": "2017-02-17",
+   "oggetto": "PROGETO SPRAR PER GLI INTERVENTI IN FAVORE DEI RIFUGIATI E RICHIEDENTI ASILO",
+   "amministrazione": "COMUNE DI CASTROVILLARI",
+   "ente": "CIDIS ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 404668.65,
+   "aggiudicato": 406668.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "6579071523",
+   "data": "2016-02-03",
+   "oggetto": "MANIFESTAZIONI D'INTERESSE PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE DI PROGETTI RELATIVI ALL'ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE E DEI LORO FAMILI",
+   "amministrazione": "COMUNE DI CORIGLIANO CALABRO",
+   "ente": "CIDIS ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 383250.0,
+   "aggiudicato": 393250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

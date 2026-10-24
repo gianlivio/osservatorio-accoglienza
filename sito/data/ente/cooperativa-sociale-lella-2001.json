@@ -1,0 +1,111 @@
+{
+ "nome": "COOPERATIVA SOCIALE LELLA 2001",
+ "cf": "01706910443",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASCOLI PICENO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "FERMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5BEEBBAFA",
+   "data": "2025-02-21",
+   "oggetto": "PREFETTURA DI ASCOLI PICENO - ADESIONE ACCORDO QUADRO PER I SERVIZI DI: GESTIONE DI CENTRI DI ACCOGLIENZA ED ASSISTENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE COSTITUITI DA CENT",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE LELLA 2001",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1222286.0,
+   "aggiudicato": 1222286.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B5BED25BEF",
+   "data": "2025-02-21",
+   "oggetto": "PREFETTURA DI ASCOLI PICENO - ADESIONE ACCORDO QUADRO PER I SERVIZI DI: GESTIONE DI CENTRI DI ACCOGLIENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE OSPITATI NELLA PROVINCIA DI ASCO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE LELLA 2001",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1403257.0,
+   "aggiudicato": 1403257.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B1DFAA1F7D",
+   "data": "2024-05-29",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE LELLA 2001",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 154900.0,
+   "aggiudicato": 154900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "B1DE081065",
+   "data": "2024-05-29",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE LELLA 2001",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 366778.0,
+   "aggiudicato": 366778.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "B1C3FD4658",
+   "data": "2024-05-22",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE LELLA 2001",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 142242.24,
+   "aggiudicato": 142242.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "nome": "ALTAIR SOCIETA' AGRICOLA SOCIETA' SEMPLICE DI LOFFREDO PAOLO",
+ "cf": "01592510539",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GROSSETO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "799242990D",
+   "data": "2019-07-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI DI ACCOGLIENZA COSTITUITI DA CENTRI COLLETTIVI FINO A UN MASSIMO DI 50 POSTI",
+   "amministrazione": "PREFETTURA",
+   "ente": "ALTAIR SOCIETA' AGRICOLA SOCIETA' SEMPLICE DI LOFFREDO PAOLO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 316200.0,
+   "aggiudicato": 316200.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7781943683",
+   "data": "2019-01-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/02-31/03/2019-ALTAIR S.A.S.S.-P.I.01592510539-CENTRO COLLETTIVO",
+   "amministrazione": "PREFETTURA",
+   "ente": "ALTAIR SOCIETA' AGRICOLA SOCIETA' SEMPLICE DI LOFFREDO PAOLO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 53756.0,
+   "aggiudicato": 53756.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7402501113",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE -PERIODO 01/03-31/05/2018-ALTAIR S.A.S.S.-P.I.01592510539-STRUTTURA 'STRADA MA",
+   "amministrazione": "PREFETTURA",
+   "ente": "ALTAIR SOCIETA' AGRICOLA SOCIETA' SEMPLICE DI LOFFREDO PAOLO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 100980.0,
+   "aggiudicato": 100980.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  }
+ ]
+}

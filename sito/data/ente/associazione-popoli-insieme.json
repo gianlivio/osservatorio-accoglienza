@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE  POPOLI INSIEME",
+ "cf": "92049690289",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B520273C89",
+   "data": "2025-01-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "ASSOCIAZIONE  POPOLI INSIEME",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1998951.23,
+   "aggiudicato": 1998951.23,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  }
+ ]
+}

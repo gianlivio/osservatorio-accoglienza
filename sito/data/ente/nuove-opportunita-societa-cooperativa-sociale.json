@@ -1,0 +1,38 @@
+{
+ "nome": "NUOVE OPPORTUNITA' SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "17363501002",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9080528EC",
+   "data": "2025-11-14",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - NUOVE OPPORTUNITA' -CEM VILLA VANDA - IV TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "NUOVE OPPORTUNITA' SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "GRUPPO INCONTRO -  SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01576110470",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISTOIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7AB4F9FBD",
+   "data": "2025-07-17",
+   "oggetto": "SERVIZIO DI SEGRETARIATO SOCIALE PER MIGRANTI NEL TERRITORIO DELLA VALDINIEVOLE - RICHIESTA OFFERTA",
+   "amministrazione": "SOCIETA DELLA SALUTE DELLA VALDINIEVOLE",
+   "ente": "GRUPPO INCONTRO -  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29590.08,
+   "aggiudicato": 29590.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PISTOIA"
+  }
+ ]
+}

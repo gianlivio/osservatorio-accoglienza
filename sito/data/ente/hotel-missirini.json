@@ -1,0 +1,75 @@
+{
+ "nome": "HOTEL MISSIRINI",
+ "cf": "04166540403",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71266265D1",
+   "data": "2017-04-08",
+   "oggetto": "ALLOGGIAMENTO PROFUGHI",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "HOTEL MISSIRINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 152832.0,
+   "aggiudicato": 152832.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "71266097C9",
+   "data": "2017-04-01",
+   "oggetto": "ALLOGGIAMENTO PROFUGHI",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "HOTEL MISSIRINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 115008.0,
+   "aggiudicato": 115008.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "6871264A6C",
+   "data": "2016-11-16",
+   "oggetto": "ALLOGGIAMENTO PROFUGHI",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "HOTEL MISSIRINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 65088.0,
+   "aggiudicato": 47808.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

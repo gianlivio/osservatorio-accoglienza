@@ -1,0 +1,38 @@
+{
+ "nome": "SIKANIA GROUP S.R.L.",
+ "cf": "02113070854",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8162636F2",
+   "data": "2025-09-02",
+   "oggetto": "S",
+   "amministrazione": "PREFETTURA DI AGRIGENTO",
+   "ente": "SIKANIA GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28676.0,
+   "aggiudicato": 28676.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

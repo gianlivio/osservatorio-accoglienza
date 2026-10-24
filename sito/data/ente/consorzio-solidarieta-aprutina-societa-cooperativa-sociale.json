@@ -1,0 +1,133 @@
+{
+ "nome": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01923730673",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERAMO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B81BBF5163",
+   "data": "2025-09-04",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIER",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 62076955.5,
+   "aggiudicato": 52739156.4,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  },
+  {
+   "cig": "B6E9356583",
+   "data": "2025-05-20",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MSNA",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 709070.16,
+   "aggiudicato": 708946.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  },
+  {
+   "cig": "9964550EC7",
+   "data": "2023-07-14",
+   "oggetto": "SERVIZI DI ACCOGLIENZA DI CITTADINI EXTRACOMUNITARI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1037204.0,
+   "aggiudicato": 1037100.28,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  },
+  {
+   "cig": "7386248CA9",
+   "data": "2018-01-01",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI TERAMO",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 385638.02,
+   "aggiudicato": 385638.02,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  },
+  {
+   "cig": "722263314E",
+   "data": "2017-10-13",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI TERAMO",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 141375.0,
+   "aggiudicato": 141375.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  },
+  {
+   "cig": "7068708260",
+   "data": "2017-05-18",
+   "oggetto": "GARA EUROPEA APERTA, AI SENSI DEGLI ARTT. 59 E 60 DEL D. L.VO 18/04/2016, N. 50, VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO PER L' AFFIDAMENTO DEL SERVIZIO DI TEMPORANEA ACCOGLIEN",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "CONSORZIO SOLIDARIETA' APRUTINA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 16625185.83,
+   "aggiudicato": 1918433.897,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  }
+ ]
+}

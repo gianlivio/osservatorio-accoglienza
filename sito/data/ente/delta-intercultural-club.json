@@ -1,0 +1,117 @@
+{
+ "nome": "DELTA INTERCULTURAL CLUB",
+ "cf": "90026880113",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7890015659",
+   "data": "2019-03-06",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "DELTA INTERCULTURAL CLUB",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 71668.0,
+   "aggiudicato": 71668.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "7706451C89",
+   "data": "2018-12-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "DELTA INTERCULTURAL CLUB",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 415960.16,
+   "aggiudicato": 415960.16,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "758027834B",
+   "data": "2018-07-16",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI - ASSOCIAZIONE CULTURALE DELTA INTERCULTURAL CLUB",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "DELTA INTERCULTURAL CLUB",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40448.44,
+   "aggiudicato": 40448.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "71569104F7",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "DELTA INTERCULTURAL CLUB",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 58888.17,
+   "aggiudicato": 58888.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "6843247A10",
+   "data": "2016-10-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRIODO 1 NOVEMBRE 2016 - 31 MARZO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "DELTA INTERCULTURAL CLUB",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 58118.39,
+   "aggiudicato": 58118.39,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

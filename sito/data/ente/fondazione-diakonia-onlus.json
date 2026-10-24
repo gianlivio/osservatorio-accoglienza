@@ -1,0 +1,128 @@
+{
+ "nome": "FONDAZIONE DIAKONIA - ONLUS",
+ "cf": "95019860162",
+ "affidamenti": 6,
+ "diretti": 1,
+ "quota_diretti": 16.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7432527B4D",
+   "data": "2018-03-27",
+   "oggetto": "CONVENZIONE CON L'ATI CON CAPOFILA CONSORZIO SOLCO CITTÀ APERTA PER L'ATTUAZIONE DEL PROGETTO SPRAR FINALIZZATO ALL'ACCOGLIENZA, INTEGRAZIONE E TUTELA A FAVORE DI RICHIEDENTI ASILO",
+   "amministrazione": "COMUNE DI BERGAMO",
+   "ente": "FONDAZIONE DIAKONIA - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 410186.0,
+   "aggiudicato": 410180.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "6701421B8B",
+   "data": "2016-05-24",
+   "oggetto": "SERVIZI DI ACCOGLIENZA A FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PROCEDURA NEGOZIATA IN VIA D'URGENZA ART. 63 COMMA 2 LETT. C) D LGS 50/2016",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "FONDAZIONE DIAKONIA - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1831200.0,
+   "aggiudicato": 549979.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "66002846A8",
+   "data": "2016-02-19",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PROROGA TECNICA DIAKONIA",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "FONDAZIONE DIAKONIA - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 223510.0,
+   "aggiudicato": 223510.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "660028035C",
+   "data": "2016-02-19",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PROROGA TECNICA DIAKONIA",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "FONDAZIONE DIAKONIA - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 308140.0,
+   "aggiudicato": 308140.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "66002770E3",
+   "data": "2016-02-19",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 2016",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "FONDAZIONE DIAKONIA - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 515775.0,
+   "aggiudicato": 515775.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "6371332D7B",
+   "data": "2015-02-27",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "FONDAZIONE DIAKONIA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 335000.0,
+   "aggiudicato": 335000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

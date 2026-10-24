@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE DI VENTIMIGLIA",
+ "cf": "01611650084",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6A03BEE1E",
+   "data": "2025-04-28",
+   "oggetto": "SERVIZIO DI MESSA IN SICUREZZA IN ESTREMA EMERGENZA DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI VENTIMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11250.0,
+   "aggiudicato": 11250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

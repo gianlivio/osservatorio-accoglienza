@@ -1,0 +1,38 @@
+{
+ "nome": "S & N IMPIANTISTICA ELETTRICA SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "05984710722",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9789589069",
+   "data": "2023-04-28",
+   "oggetto": "LOTTO 1 - MANUTENZIONE ORDINARIA DELL' IMPIANTO CONDIZIONAMENTO, IMPIANTI ELETTRICI E SPECIALI, IMPIANTI TECNOLOGICI ED OPERE EDILI ANNESSE",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "S & N IMPIANTISTICA ELETTRICA SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 435152.89,
+   "aggiudicato": 147567.71,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "nome": "LA CONCHIGLIA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02614360648",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B77A132793",
+   "data": "2025-07-02",
+   "oggetto": "ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO BANCE YAHAYA DA GENNAIO 2025 A GIUGNO 2025",
+   "amministrazione": "COMUNE DI TORRICE",
+   "ente": "LA CONCHIGLIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17958.0,
+   "aggiudicato": 17958.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "B27E881E9F",
+   "data": "2024-07-18",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI IN STRUTTURE DI ACCOGLIENZA. RIDETERMINAZIONE DELLA SPESA DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 724 DEL 08/05/2024 - LA CONCH",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "LA CONCHIGLIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19890.0,
+   "aggiudicato": 19890.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B169B973A0",
+   "data": "2024-04-26",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI SOCIETA' COOPERATIVA LA CONCHIGLIA. IMPEGNO DI SPESA PRESUNTO PER L",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "LA CONCHIGLIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8190.0,
+   "aggiudicato": 8190.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B10BF67530",
+   "data": "2024-04-02",
+   "oggetto": "OSPITALITÀ MSNA B.A.A.A.L. ANNO 2024",
+   "amministrazione": "COMUNE DI CASSINO",
+   "ente": "LA CONCHIGLIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25020.0,
+   "aggiudicato": 25020.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

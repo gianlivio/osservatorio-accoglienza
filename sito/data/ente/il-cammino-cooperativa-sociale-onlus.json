@@ -1,0 +1,80 @@
+{
+ "nome": "IL CAMMINO COOPERATIVA SOCIALE ONLUS",
+ "cf": "07139380583",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4376A94C0",
+   "data": "2024-11-14",
+   "oggetto": "L’ATTIVITà OGGETTO DEL SERVIZIO SI RIFERISCE ALL’ACCOGLIENZA E ALLA PRESA IN CARICO DI MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURE RESIDENZIALI AUTORIZZATE - 4 GRUPPI APPARTAMEN",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IL CAMMINO COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4083274.88,
+   "aggiudicato": 872758.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "71631946AF",
+   "data": "2017-07-27",
+   "oggetto": "AVVISO PUBBLICO PER INDIVIDUAZIONE SOGGETTO IN QUALITÀ DI ENTE ATTUATORE PER CO PROGETTAZIONE E GESTIONE PROGETTI SPRAR - D.M. 10/08/2016 - PERIODO: TRIENNIO2017/2019 - PER N. 62 P",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IL CAMMINO COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 561744.0,
+   "aggiudicato": 589862.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6539609012",
+   "data": "2015-12-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "IL CAMMINO COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 164907.69,
+   "aggiudicato": 171504.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

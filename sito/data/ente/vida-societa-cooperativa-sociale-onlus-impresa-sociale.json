@@ -1,0 +1,38 @@
+{
+ "nome": "VIDA - SOCIETA' COOPERATIVA SOCIALE - ONLUS - IMPRESA SOCIALE",
+ "cf": "01995210760",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A02D833EA2",
+   "data": "2023-11-21",
+   "oggetto": "CO-PROGETTAZIONE E SUCCESSIVA GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO ALL'AUTONOMIA DEI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) NELLA RE",
+   "amministrazione": "COMUNE DI RIPACANDIDA",
+   "ente": "VIDA - SOCIETA' COOPERATIVA SOCIALE - ONLUS - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 64260.45,
+   "aggiudicato": 64260.45,
+   "durata_gg": 61.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

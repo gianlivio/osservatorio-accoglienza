@@ -1,0 +1,54 @@
+{
+ "nome": "MICHEA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03561290135",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8F1008CF3",
+   "data": "2025-11-05",
+   "oggetto": "LOTTO 1: SERVIZI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNIT ABITATIVE CON CAPIENZA FINO A 50 POSTI PER UN FABBISOGNO DI MAX 100 POSTI.",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "MICHEA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10747425.0,
+   "aggiudicato": 4294671.03,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B7A79C97EC",
+   "data": "2025-07-16",
+   "oggetto": "SERVIZI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DAL 31.07.2025 AL 31.12.2025",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "MICHEA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138208.84,
+   "aggiudicato": 138208.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

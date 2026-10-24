@@ -1,0 +1,196 @@
+{
+ "nome": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+ "cf": "02312660364",
+ "affidamenti": 9,
+ "diretti": 3,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9208090440",
+   "data": "2022-06-07",
+   "oggetto": "AFFIDAMENTO DI INTERVENTI PER FAVORIRE L'INTEGRAZIONE DEI CITTADINI STRANIERI IMMIGRATI E GLI INTERVENTI VOLTI A FAVORIRE L'INCLUSIONE SOCIALE DELLA POPOLAZIONE",
+   "amministrazione": "UNIONE COMUNI DEL SORBARA",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 440600.0,
+   "aggiudicato": 145275.0,
+   "durata_gg": 518.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "8968676192",
+   "data": "2021-12-27",
+   "oggetto": "RINNOVO DELL' AFFIDAMENTO DI SERVIZI E PROGETTI RIVOLTI ALL'INTEGRAZIONE DEI CITTADINI STRANIERI DAL 01/01/2022 AL 31/12/2023",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1269269.93,
+   "aggiudicato": 1269269.93,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "878563140E",
+   "data": "2021-06-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA E INTEGRAZIONE DEGLI IMMIGRATI STRANIERI",
+   "amministrazione": "UNIONE COMUNI MODENESI AREA NORD",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 281327.4,
+   "aggiudicato": 281327.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "8470635D1F",
+   "data": "2020-10-23",
+   "oggetto": "LOTTO 1 GESTIONE DELLA PRESA IN CARICO INTEGRATA E DELLA PROGETTAZIONE INDIVIDUALIZZATA - BIENNIO 2021-2022",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2406500.0,
+   "aggiudicato": 962600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "7999964323",
+   "data": "2019-09-03",
+   "oggetto": "AFFIDAMENTO DI SERVIZI E PROGETTI RIVOLTI ALL'INTEGRAZIONE DEI CITTADINI STRANIERI DAL 01-01-2020 AL 31-12-2021",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2902500.0,
+   "aggiudicato": 1269269.93,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "7550844197",
+   "data": "2018-06-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA E INTEGRAZIONE DEGLI IMMIGRATI STRANIERI",
+   "amministrazione": "UNIONE COMUNI MODENESI AREA NORD",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 422625.0,
+   "aggiudicato": 422625.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "69507081B2",
+   "data": "2016-12-21",
+   "oggetto": "PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DI SERVIZI PER FAVORIRE L'ACCOGLIENZA E L'INTEGRAZIONE DEGLI IMMIGRATI STRANIERI",
+   "amministrazione": "UNIONE COMUNI DEL SORBARA",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 231000.0,
+   "aggiudicato": 231000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "6717920AF3",
+   "data": "2016-09-29",
+   "oggetto": "SERVIZI PER FAVORIRE L'ACCOGLIENZA E L'INTEGRAZIONE DEGLI IMMIGRATI STRANIERI",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA C/O COMUNE DI CASTELFRANCO EMILIA",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 231000.0,
+   "aggiudicato": 222554.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "6155454953",
+   "data": "2015-03-09",
+   "oggetto": "GESTIONE DI ATTIVITÀ E PROGETTI RIVOLTI ALL'INTEGRAZIONE DEI CITTADINI STRANIERI",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "CONSORZIO DI SOLIDARIETA' SOCIALE DI MODENA - SOCIETA' COOPERATIV A SOCIALE.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3421488.0,
+   "aggiudicato": 2689722.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+ "cf": "04269990729",
+ "affidamenti": 11,
+ "diretti": 4,
+ "quota_diretti": 36.4,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 9
+  },
+  {
+   "provincia": "BARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B18AA8ADCA",
+   "data": "2024-05-08",
+   "oggetto": "GARA APERTA PER L'AGGIUDICAZIONE DEGLI INTERVENTI S.A.I. (SERVIZI DI ACCOGLIENZA E INTEGRAZIONE) IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI, AI SENSI DEL D.M. 18.11.2019, INDET",
+   "amministrazione": "COMUNE DI CORATO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 754065.09,
+   "aggiudicato": 754065.09,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "A00EE10566",
+   "data": "2023-09-21",
+   "oggetto": "SERVIZIO SAI - SISTEMA ACCOGLIENZA INTEGRAZIONE N. 612 - PR - 3, TRIENNIO 2023-2025 - CATEGORIA ORDINARI BARLETTA, PER N. 36 POSTI- AFFIDAMENTO DAL 1.10.2023 AL 31.12.2023",
+   "amministrazione": "COMUNE DI BARLETTA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119081.52,
+   "aggiudicato": 119081.52,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "989836338D",
+   "data": "2023-06-21",
+   "oggetto": "SERVIZIO SAI - SISTEMA ACCOGLIENZA INTEGRAZIONE N. 612 - PR - 3, TRIENNIO 2023-2025 - CATEGORIA ORDINARI BARLETTA, PER N. 36 POSTI- AFFIDAMENTO DEL SERVIZIO DAL 1 LUGLIO 2023 AL 30",
+   "amministrazione": "COMUNE DI BARLETTA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119081.52,
+   "aggiudicato": 119081.52,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "9536814BDE",
+   "data": "2023-02-06",
+   "oggetto": "PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN SOGGETTO ECONOMICO PER LA GESTIONE DEI SERVIZI DI ACCOGLIENZA, TUTELA E INTEGRAZIONE RIVOLTI AI RICHIEDENTI E",
+   "amministrazione": "COMUNE DI CORATO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1607571.43,
+   "aggiudicato": 1607571.43,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "953069959E",
+   "data": "2023-01-13",
+   "oggetto": "PROGETTO TRIENNALE DI ACCOGLIENZA PRESSO IL COMUNE DI BARLETTA NELL'AMBITO SAI - SISTEMA DI ACCOGLIENZA E DI INTEGRAZIONE",
+   "amministrazione": "COMUNE DI BARLETTA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 237476.84,
+   "aggiudicato": 237476.84,
+   "durata_gg": 181.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "94365138DE",
+   "data": "2022-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED INTEGRAZIONE DELLE PERSONE STRANIERE NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E PER MINORI STRANIERI NON ACCOMPAGN",
+   "amministrazione": "COMUNE DI TRANI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 657353.19,
+   "aggiudicato": 657353.19,
+   "durata_gg": 457.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "9145878947",
+   "data": "2022-03-24",
+   "oggetto": "GESTIONE DEI SERVIZI DI ASILO ACCOGLIENZA TUTELA E INTEGRAZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE- IMPLEMANTAZIONE DI N 15 POSTI ORDINARI PER L'ANNO 2022",
+   "amministrazione": "COMUNE DI BARLETTA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 210292.23,
+   "aggiudicato": 210292.23,
+   "durata_gg": 360.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "8576574CC0",
+   "data": "2021-03-30",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E INTEGRAZIONE DELLE PERSONE STRANIERE (SIPROIMI)",
+   "amministrazione": "COMUNE DI TRANI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2067240.0,
+   "aggiudicato": 1722200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "8576713F74",
+   "data": "2020-12-31",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E INTEGRAZIONE DELLE PERSONE STRANIERE (SIPROIMI)",
+   "amministrazione": "COMUNE DI TRANI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 342040.0,
+   "aggiudicato": 342040.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "84742135CA",
+   "data": "2020-12-30",
+   "oggetto": "GESTIONE DEI SERVIZI DI ASILO, ACCOGLIENZA, TUTELA E INTEGRAZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE - SIPROIMI PER N.21 POSTI ORDINARI",
+   "amministrazione": "COMUNE DI BARLETTA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 560779.28,
+   "aggiudicato": 289409.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "775398787D",
+   "data": "2018-12-31",
+   "oggetto": "SPRAR",
+   "amministrazione": "COMUNE DI TRANI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE COMUNITA' OASI 2 SAN FRANCESCO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 310514.29,
+   "aggiudicato": 326040.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

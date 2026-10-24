@@ -1,0 +1,153 @@
+{
+ "nome": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02764000101",
+ "affidamenti": 7,
+ "diretti": 3,
+ "quota_diretti": 42.9,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "87814211DB",
+   "data": "2021-05-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA PROGETTO SIPROIMI - 2",
+   "amministrazione": "COMUNE DI CAMOGLI",
+   "ente": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 350027.64,
+   "aggiudicato": 350027.64,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "72026105CC",
+   "data": "2017-11-01",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI SEGRATE",
+   "ente": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40260.0,
+   "aggiudicato": 40260.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "7178410354",
+   "data": "2017-08-09",
+   "oggetto": "SISTEMA DI PROTEZIONE RICHIEDENTI ASILO E RIFUGIATI SPRAR",
+   "amministrazione": "COMUNE DI BORZONASCA",
+   "ente": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 476925.0,
+   "aggiudicato": 475064.99,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6880183A9D",
+   "data": "2016-12-14",
+   "oggetto": "GESTIONE DI 4 POSTI AGGIUNTIVI PROGETTI ORDINARI NELL'AMBITO DEL PROGRAMMA NAZIONALE PER L'ACCOGLIENZA E L'ASSISTENZA A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONAL",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 43000.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6786549566",
+   "data": "2016-08-26",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E SERVIZI CONNESSI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 267597.0,
+   "aggiudicato": 267597.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6665589A0B",
+   "data": "2016-06-15",
+   "oggetto": "SPRAR - PROSECUZIONE DEL PROGRAMMA NAZIONALE PER L'ACCOGLIENZA E L'ASSISTENZA A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE E UMANITARIA - LANZA DEL VASTO",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 59904.29,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6478276A77",
+   "data": "2015-12-29",
+   "oggetto": "SPRAR - PRESA D'ATTO E MODALITA' DI UTILIZZO DEI FONDI ASSEGNATI AL COMUNE DI GENOVA PER LA GESTIONE DI N. 46 POSTI AGGIUNTIVI PROGETTI ORDINARI NELL'AMBITO DEL PROGRAMMA NAZIONALE",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "LANZA DEL VASTO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 49134.62,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

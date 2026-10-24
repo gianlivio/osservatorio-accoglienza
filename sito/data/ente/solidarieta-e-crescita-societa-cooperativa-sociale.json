@@ -1,0 +1,207 @@
+{
+ "nome": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01171320532",
+ "affidamenti": 10,
+ "diretti": 1,
+ "quota_diretti": 10.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GROSSETO",
+   "affidamenti": 10
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "92814227BA",
+   "data": "2022-06-22",
+   "oggetto": "AFFIDAMENTO DI SERVIZI DI ACCOGLIENZA RIVOLTI A MIGRANTI IN GROSSETO, LOC. RUGGINOSA, TRAMITE ACCORDO QUADRO",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 593700.0,
+   "aggiudicato": 295000.62,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "77820151EF",
+   "data": "2019-01-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/02-31/03/2019-SOLIDARIETA' E' CRESCITA SOC.COOP.IMPR.SCOC.E.T.S.-P.",
+   "amministrazione": "PREFETTURA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 222921.0,
+   "aggiudicato": 222921.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "740290701E",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/03-31/07/2018-SOLIDARIETA' E' CRESCITA-P.I.01171320532-STRUTTURA'CI",
+   "amministrazione": "PREFETTURA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 99000.0,
+   "aggiudicato": 99000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7402614E4F",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/03-31/05/2018-SOLIDARIETA' E' CRESCITA-P.I.01171320532-STRUTTURE '1",
+   "amministrazione": "PREFETTURA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 219780.0,
+   "aggiudicato": 219780.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7402547707",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE-PERIODO 01/03-31/05/2018-SOLIDARIETA' E' CRESCITA-P.I.01171320532-STRUTTURA 'L",
+   "amministrazione": "PREFETTURA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 112860.0,
+   "aggiudicato": 112860.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "7021527B5F",
+   "data": "2017-03-24",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI PRONTO INTERVENTO SOCIO-SANITARIO IN FAVORE DEI MIGRANTI RICHIEDENTI ASILO (GIUGNO 2017-MAGGIO 2018)",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 315300.0,
+   "aggiudicato": 201925.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "6750764AAD",
+   "data": "2016-07-14",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 201480.0,
+   "aggiudicato": 201480.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "6669185191",
+   "data": "2016-04-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 201480.0,
+   "aggiudicato": 201480.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "64254121B9",
+   "data": "2015-10-09",
+   "oggetto": "AFFIDAMENTO SERVIZI DI PRONTO INTERVENTO SOCIO-SANITARIO IN FAVORE DEI MIGRANTI RICHIEDENTI ASILO 2015-2016",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 199564.62,
+   "aggiudicato": 171930.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  },
+  {
+   "cig": "614462729C",
+   "data": "2015-02-24",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E CONNESSI IN FAVORE DEI MIGRANTI RICHIEDENTI ASILO 2015-2016",
+   "amministrazione": "COESO-SOC.DELLA SALUTE AREA SOCIO SANIT. GROSSETANA",
+   "ente": "SOLIDARIETA' E' CRESCITA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 110390.0,
+   "aggiudicato": 87856.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  }
+ ]
+}

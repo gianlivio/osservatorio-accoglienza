@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE O.N.L.U.S. VITA NUOVA",
+ "cf": "93050650840",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "67647586E5",
+   "data": "2016-07-25",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO L'ASS. ONLUS VITA NUOVA DI FAVARA AG- GENNAIO-DICEMBRE 2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "ASSOCIAZIONE O.N.L.U.S. VITA NUOVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49100.0,
+   "aggiudicato": 49100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

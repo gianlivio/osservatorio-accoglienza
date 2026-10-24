@@ -1,0 +1,38 @@
+{
+ "nome": "SPM GREEN POWER S.R.L.",
+ "cf": "03727870788",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A04459871E",
+   "data": "2023-12-29",
+   "oggetto": "AFFIDAMENTO LAVORI CENTRO DI ACCOGLIENZA DESTINATO AI PROFUGHI DI GUERRA E MIGLIORAMENTO ACCESSI ALL'AREA SCOLASTICA E AL POLIAMBULATORIO LIMITROFI'",
+   "amministrazione": "COMUNE DI CROSIA",
+   "ente": "SPM GREEN POWER S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 910370.97,
+   "aggiudicato": 830424.29,
+   "durata_gg": 360.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

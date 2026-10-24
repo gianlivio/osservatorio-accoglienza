@@ -1,0 +1,38 @@
+{
+ "nome": "AREA SOLIDALE ONLUS",
+ "cf": "08779630964",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "62713165AD",
+   "data": "2015-05-26",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "AREA SOLIDALE ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 126000.0,
+   "aggiudicato": 126000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "VERBANIA HOSTEL APS",
+ "cf": "02382950034",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERBANO-CUSIO-OSSOLA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B27018E8C9",
+   "data": "2024-07-12",
+   "oggetto": "SERVIZI OSPITALITA' MIGRANTI",
+   "amministrazione": "PREFETTURA DEL VERBANO - CUSIO - OSSOLA -",
+   "ente": "VERBANIA HOSTEL APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66849.94,
+   "aggiudicato": 66849.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  },
+  {
+   "cig": "B15D6F5F61",
+   "data": "2024-04-24",
+   "oggetto": "SERVIZI OSPITALITA' MIGRANTI",
+   "amministrazione": "PREFETTURA DEL VERBANO - CUSIO - OSSOLA -",
+   "ente": "VERBANIA HOSTEL APS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 69316.0,
+   "aggiudicato": 69316.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  }
+ ]
+}

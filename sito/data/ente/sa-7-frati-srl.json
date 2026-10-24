@@ -1,0 +1,63 @@
+{
+ "nome": "SA 7 FRATI SRL",
+ "cf": "02706640204",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MANTOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B842468723",
+   "data": "2025-09-16",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "SA 7 FRATI SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6522531.75,
+   "aggiudicato": 6522531.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "A02F6A0A53",
+   "data": "2023-10-13",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA PROVVISORIA (CAP), CON CAPACITÀ RICETTIVA MASSIMA FINO A N. 50 PERSONE, PER N. 200 POSTI, NEL TERRITORIO DE",
+   "amministrazione": "PREFETTURA DI MANTOVA",
+   "ente": "SA 7 FRATI SRL",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 648882.0,
+   "aggiudicato": 648882.0,
+   "durata_gg": 181.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  }
+ ]
+}

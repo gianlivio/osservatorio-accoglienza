@@ -1,0 +1,75 @@
+{
+ "nome": "HAYET  SOCIETA'  COOPERATIVA  SOCIALE - ETS",
+ "cf": "01803670700",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6572054FF",
+   "data": "2025-04-04",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO GENNAIO- MARZO 2025 . COOPERATIVA SOCIALE HAYET ETS",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "HAYET  SOCIETA'  COOPERATIVA  SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8550.0,
+   "aggiudicato": 8550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B52CACAFE7",
+   "data": "2025-01-15",
+   "oggetto": "ACCOGLIENZA MINORI STRANIERI PERIODO DICEMBRE 2024. HAYET SOC. COOP. SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "HAYET  SOCIETA'  COOPERATIVA  SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8740.0,
+   "aggiudicato": 8740.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B41AFA02FD",
+   "data": "2024-11-05",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO LUGLIO-AGOSTO-SETTEMBRE 2024. COOP. SOC. HAYET",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "HAYET  SOCIETA'  COOPERATIVA  SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8740.0,
+   "aggiudicato": 8740.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "nome": "UNITY AND FRIENDSHIP",
+ "cf": "93102590614",
+ "affidamenti": 7,
+ "diretti": 6,
+ "quota_diretti": 85.7,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9CB01E29D",
+   "data": "2025-12-29",
+   "oggetto": "OSPITALITÀ MSNA 5552 C/O COMUNITÀ CASA DI POLLON DELLA COOP SOC UNITY & FRIENDSHIP DAL 01/01 AL 21/05/26",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNITY AND FRIENDSHIP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14725.0,
+   "aggiudicato": 14725.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B9CAFFB5BA",
+   "data": "2025-12-29",
+   "oggetto": "OSPITALITÀ MSNA 5540 C/O COMUNITÀ CASA DI POLLON DELLA COOP SOC UNITY & FRIENDSHIP DAL 01/01 AL 06/06/26",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNITY AND FRIENDSHIP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16625.0,
+   "aggiudicato": 16625.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B9CAFDCC23",
+   "data": "2025-12-29",
+   "oggetto": "OSPITALITÀ MSNA 5524 C/O COMUNITÀ CASA DI POLLON DELLA COOP SOC UNITY & FRIENDSHIP DAL 01/01 AL 10/08/26",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNITY AND FRIENDSHIP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23275.0,
+   "aggiudicato": 23275.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B918C1715B",
+   "data": "2025-11-14",
+   "oggetto": "OSPITALITÀ DEI MSNA 5524 E 5540 C/O COMUNITÀ CASA DI POLLON DELLA COOP SOC UNITY & FRIENDSHIP DAL 13/11 AL 31/12/25 E DEL MSNA IMA DAL 27/11 AL 31/12/25",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNITY AND FRIENDSHIP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13809.52,
+   "aggiudicato": 13809.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B81059F979",
+   "data": "2025-08-29",
+   "oggetto": "GESTIONE CENTRI IN RETE ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "UNITY AND FRIENDSHIP",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 140000.0,
+   "aggiudicato": 140000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B2498A734F",
+   "data": "2024-07-01",
+   "oggetto": "INSERIMENTO IN COMUNITÀ MSNA M.S. - CODICE 101033",
+   "amministrazione": "COMUNE DI CLUSONE",
+   "ente": "UNITY AND FRIENDSHIP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18834.53,
+   "aggiudicato": 18834.53,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B14FA47312",
+   "data": "2024-04-19",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA STRAORDINARIO RIFUGIATI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "UNITY AND FRIENDSHIP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69113.02,
+   "aggiudicato": 69113.02,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

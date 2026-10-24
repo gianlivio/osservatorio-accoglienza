@@ -1,0 +1,33 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE LA LUNA",
+ "cf": "01762960902",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "728520662C",
+   "data": "2017-12-01",
+   "oggetto": "PROCEDURA APERTA TELEMATICA, NEL SISTEMA SARDEGNA CAT, PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA INTEGRATA DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (SPRAR) -",
+   "amministrazione": "COMUNE DI NUORO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LA LUNA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 847558.83,
+   "aggiudicato": 839083.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

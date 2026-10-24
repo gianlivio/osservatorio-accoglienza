@@ -1,0 +1,38 @@
+{
+ "nome": "DALLA STESSA PARTE SOCIETA' COOPERATIVA SOCIALE SIGLABILE DSP - S.C.S.",
+ "cf": "04435240017",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B28BE4FE8C",
+   "data": "2024-07-24",
+   "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA SELEZIONE DEL SOGGETTO ATTUATORE PER L'AFFIDAMENTO DELLE ATTIVITÀ RELATIVE AL SISTEMA DI ACCOGLIENZA PER I TITOLARI DI PROTEZIONE ",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIO ASSISTENZIALI",
+   "ente": "DALLA STESSA PARTE SOCIETA' COOPERATIVA SOCIALE SIGLABILE DSP - S.C.S.",
+   "procedura": "ND P1_20",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 4001570.17,
+   "aggiudicato": 1793815.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

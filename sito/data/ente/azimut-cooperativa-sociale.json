@@ -1,0 +1,38 @@
+{
+ "nome": "AZIMUT COOPERATIVA SOCIALE",
+ "cf": "01375190061",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ALESSANDRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B21A05EB11",
+   "data": "2024-06-17",
+   "oggetto": "EDUCATIVA SPECIALISTICA PER MINORI STRANIERI",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEL NOVESE DEI SERVIZI ALLA PERSONA",
+   "ente": "AZIMUT COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8000.0,
+   "aggiudicato": 8000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ALESSANDRIA"
+  }
+ ]
+}

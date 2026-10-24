@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI RIETI APS",
+ "cf": "90036900570",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6896084C88",
+   "data": "2017-01-11",
+   "oggetto": "'PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA INTEGRATA E PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI",
+   "amministrazione": "COMUNE DI FARA IN SABINA",
+   "ente": "ARCI RIETI APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 700868.0,
+   "aggiudicato": 943729.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIETI"
+  }
+ ]
+}

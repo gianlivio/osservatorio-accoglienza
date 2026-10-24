@@ -1,0 +1,247 @@
+{
+ "nome": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+ "cf": "02041250842",
+ "affidamenti": 12,
+ "diretti": 4,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "874844445F",
+   "data": "2021-05-13",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRESSO CENTRI COLLETTIVI DA 101 A 300 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 48134871.0,
+   "aggiudicato": 45518443.5,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "84867331A0",
+   "data": "2020-11-06",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3898526.0,
+   "aggiudicato": 3898526.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "803764065A",
+   "data": "2019-10-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO LE STRUTTURE COLLETTIVE TRA I 51 E I 300 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5581397.5,
+   "aggiudicato": 5581397.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "717426244A",
+   "data": "2017-02-06",
+   "oggetto": "CONVENZIONE N. 35 POSTI AGGIUNTIVI SPRAR",
+   "amministrazione": "COMUNE DI RACALMUTO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "AFFIDAMENTO DIRETTO EX ART.5 DELLA LEGGE N.381/91",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 225400.0,
+   "aggiudicato": 225400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "694256845A",
+   "data": "2017-01-11",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 129232.0,
+   "aggiudicato": 129232.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6912335F47",
+   "data": "2017-01-04",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE, AI SENSI DELL'ART. 14 DEL D.M. 10/08/2016, DEGLI INTERVENTI DI ACCOGLIENZA INTEGRATA ATTIVI E FINANZIATI CON IL PROGETT",
+   "amministrazione": "COMUNE DI RAFFADALI",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1296795.0,
+   "aggiudicato": 1152706.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6876398723",
+   "data": "2016-11-21",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR CATEGORIA ORDINARI ANNI 2017 - 2018 - 2019",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6285039.0,
+   "aggiudicato": 6285039.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6875241C58",
+   "data": "2016-11-18",
+   "oggetto": "N. 100 POSTI AGGIUNTIVI PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1270500.0,
+   "aggiudicato": 1270500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6818334B34",
+   "data": "2016-09-20",
+   "oggetto": "PROSECUZIONE DEL CONTRATTO DI AFFIDAMENTO AL RTI GEPSA S.A. (MANDATARIA) E ASSOCIAZIONE CULTURALE ACUARINTO (MANDANTE) DELLA GESTIONE DI UN CENTRO, PRESSO L'IMMOBILE SITO IN VIA CO",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1465100.0,
+   "aggiudicato": 1465100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6095544A07",
+   "data": "2015-01-20",
+   "oggetto": "AFFIDAMENTO AL RTI GEPSA S.A. (MANDATARIA) E ASSOCIAZIONE CULTURALE ACUARINTO (MANDANTE) DEL SERVIZIO RELATIVO ALL'ALLESTIMENTO E GESTIONE DI UN 'HUB'- PUNTO DI RICEVIMENTO, ORIENT",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 59065.5,
+   "aggiudicato": 59065.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6085718D5A",
+   "data": "2015-01-09",
+   "oggetto": "NR. 100 POSTI AGGIUNTIVI RETE SPRAR CATEGORIA ORDINARI DECORRENZA 01/10/2014 AL 31/12/2014IN FAVORE DELL'ASSOCIAZIONE CULTURALE ACUARINTO",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 322000.0,
+   "aggiudicato": 322000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6085543CF0",
+   "data": "2015-01-09",
+   "oggetto": "PROGETTO SPRAR CATEGORIA ORDINARI AMPLIAMENTO NR. 6 POSTI CON DECORRENZA 31/05/2014 E NR. 26 POSTI CON DECORRENZA 01/07/2014 ASSOCIAZIONE CULTURALE ACUARINTO",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE CULTURALE ACUARINTO ETS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 212950.0,
+   "aggiudicato": 212590.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

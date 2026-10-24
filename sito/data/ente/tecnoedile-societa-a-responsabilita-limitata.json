@@ -1,0 +1,38 @@
+{
+ "nome": "TECNOEDILE - SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "00441350105",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7156393A51",
+   "data": "2017-07-25",
+   "oggetto": "LAVORI URGENTI DI REALIZZAZIONE DI UN CAS PER RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AREA DEL DEMANIO MARITTIMO EX BOCCIODROMO A GENOVA",
+   "amministrazione": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI PROVVEDITORATO INTER.ALE PER LE OPERE PUBBLICHE DEL PIEMONTE E VALLE D'AOSTA",
+   "ente": "TECNOEDILE - SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 650000.0,
+   "aggiudicato": 465373.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

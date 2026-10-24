@@ -1,0 +1,80 @@
+{
+ "nome": "ASSOCIAZIONE CULTURALE SENEGALESI IN ITALIA - ONLUS",
+ "cf": "94042480262",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7163494E3E",
+   "data": "2017-08-02",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 11 OSPITI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ASSOCIAZIONE CULTURALE SENEGALESI IN ITALIA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50490.0,
+   "aggiudicato": 50490.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "67087370E9",
+   "data": "2016-06-08",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NR. 12 OSPITI",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "ASSOCIAZIONE CULTURALE SENEGALESI IN ITALIA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43920.0,
+   "aggiudicato": 43920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "6309577BA5",
+   "data": "2015-06-26",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - NR. 12 POSTI IN TREVISO",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "ASSOCIAZIONE CULTURALE SENEGALESI IN ITALIA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69120.0,
+   "aggiudicato": 69120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

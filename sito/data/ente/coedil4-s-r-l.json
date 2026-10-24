@@ -1,0 +1,38 @@
+{
+ "nome": "COEDIL4 S.R.L.",
+ "cf": "02269330698",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "99303575D5",
+   "data": "2023-06-30",
+   "oggetto": "LAVORI DI RISTRUTTURAZIONE DI EDIFICIO DA DESTINARE AD ACCOGLIENZA DI MIGRANTI E PROFUGHI DI GUERRA. LAVORI EDILI",
+   "amministrazione": "COMUNE DI ROSELLO",
+   "ente": "COEDIL4 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 149500.0,
+   "aggiudicato": 149500.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

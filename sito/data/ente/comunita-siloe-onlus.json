@@ -1,0 +1,54 @@
+{
+ "nome": "COMUNITA SILOE ONLUS",
+ "cf": "91023440067",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B255E41432",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAPACITA' RECETTIVA MASSIMA DI 50 POSTI ",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "COMUNITA SILOE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 815370.8,
+   "aggiudicato": 815370.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B107DEBB17",
+   "data": "2024-03-29",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "COMUNITA SILOE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 388850.11,
+   "aggiudicato": 388850.11,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  }
+ ]
+}

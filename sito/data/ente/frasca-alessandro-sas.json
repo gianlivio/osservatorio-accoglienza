@@ -1,0 +1,54 @@
+{
+ "nome": "FRASCA ALESSANDRO SAS",
+ "cf": "01635440892",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B20BED904D",
+   "data": "2024-07-04",
+   "oggetto": "AFFIDAMENTO DIRETTO DI UN SERVIZIO DI MEDIAZIONE CULTURALE ED OPERATORE DIURNO/NOTTURNO A CHIAMATA, PER ESIGENZE CONNESSE AGLI SBARCHI DI MIGRANTI PRESSO IL PORTO COMMERCIALE DI AU",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "FRASCA ALESSANDRO SAS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1957E0861",
+   "data": "2024-05-09",
+   "oggetto": "FORNITURE ALIMENTARI AI MIGRANTI EROGATE AD AGOSTO A DICEMBRE 2023 PRESSO PORTO COMMERCIALE DI AUGUSTA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "FRASCA ALESSANDRO SAS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 231386.73,
+   "aggiudicato": 231386.73,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

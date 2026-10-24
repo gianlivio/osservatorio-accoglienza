@@ -1,0 +1,100 @@
+{
+ "nome": "CONSORZIO HERA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02433480817",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "97093855F8",
+   "data": "2023-03-16",
+   "oggetto": "ORGANIZZAZIONE E GESTIONE PROGRAMMA SERVIZIO DELL'ASILO E DI FUNZI0NAMENTO DEL SISTEMA DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE TRIENNIO 2023/2025",
+   "amministrazione": "COMUNE DI ROCCAMENA",
+   "ente": "CONSORZIO HERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1980748.35,
+   "aggiudicato": 1980778.35,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "77410146D5",
+   "data": "2018-12-24",
+   "oggetto": "PROGETTO TERRITORIALE DI ACCOGLIENZA INTEGRATA IN SENO ALLO SPRAR (SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI)",
+   "amministrazione": "COMUNE DI BRINDISI",
+   "ente": "CONSORZIO HERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 426666.67,
+   "aggiudicato": 426666.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  },
+  {
+   "cig": "7672345B60",
+   "data": "2018-11-07",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA CO.PROGETTAZIONE E LA GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI BENEFICIARI",
+   "amministrazione": "COMUNE DI VILLA CASTELLI",
+   "ente": "CONSORZIO HERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1277080.0,
+   "aggiudicato": 1241080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  },
+  {
+   "cig": "7277955675",
+   "data": "2017-12-29",
+   "oggetto": "PROGETTO SPRAR-ORDINARIO DAL 01/07/2017 AL 30/06/2020",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "CONSORZIO HERA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2425924.66,
+   "aggiudicato": 2425924.66,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

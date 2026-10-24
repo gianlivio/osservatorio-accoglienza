@@ -1,0 +1,59 @@
+{
+ "nome": "SEAL SOCIETA' COOPERATIVA SOCIALE ONLUS - ETS",
+ "cf": "16068541008",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6FC80F99A",
+   "data": "2025-05-23",
+   "oggetto": "ACCOGLIENZA STRAORDINARIA DI 48 MIGRANTI RICHIEDENTI ASILO PRESSO IL CAS LICENZA AI SENSI DELLO ARTICOLO 140 DEL DLGS 36 DEL 2023 IN CONSEGUENZA DEL OCDPC 984 DEL 2023",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "SEAL SOCIETA' COOPERATIVA SOCIALE ONLUS - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 275000.0,
+   "aggiudicato": 275000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B1C9AFBEFC",
+   "data": "2024-05-23",
+   "oggetto": "SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "SEAL SOCIETA' COOPERATIVA SOCIALE ONLUS - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 329847.6,
+   "aggiudicato": 329847.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

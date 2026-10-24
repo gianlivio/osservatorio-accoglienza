@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE CENTRO ASTALLI VICENZA",
+ "cf": "95111650248",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B167FE47F1",
+   "data": "2024-04-29",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITA' ABITATIVE 2024",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "ASSOCIAZIONE CENTRO ASTALLI VICENZA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 632000.0,
+   "aggiudicato": 632000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "6520527D17",
+   "data": "2015-12-17",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO COLLABORATORE /ATTUATORE PER PARTECIPARE ALLA COPROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA DA INSE",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "ASSOCIAZIONE CENTRO ASTALLI VICENZA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1317105.26,
+   "aggiudicato": 1212860.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  }
+ ]
+}

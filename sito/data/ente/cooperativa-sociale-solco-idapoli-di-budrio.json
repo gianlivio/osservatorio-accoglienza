@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE SOLCO IDAPOLI DI BUDRIO",
+ "cf": "00677221202",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0A89C785F",
+   "data": "2024-03-05",
+   "oggetto": "COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO ID 10022",
+   "amministrazione": "ASP CARLO SARTORI",
+   "ente": "COOPERATIVA SOCIALE SOLCO IDAPOLI DI BUDRIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33338.4,
+   "aggiudicato": 33338.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

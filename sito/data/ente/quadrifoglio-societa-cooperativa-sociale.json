@@ -1,0 +1,91 @@
+{
+ "nome": "QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01694340843",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A040F2AC69",
+   "data": "2023-12-20",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MSNA PRESSO STRUTTURE DI SECONDO LIVELLO GESTIRE DALLA SOC.COOP. SOC. QUADRIFOGLIO E L'ALBERO DELLE IDEE- RENDICONTAZIONE III TRIMESTRE 2023",
+   "amministrazione": "COMUNE DI MONTEVAGO",
+   "ente": "QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139657.14,
+   "aggiudicato": 139657.14,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "A040DE503A",
+   "data": "2023-12-20",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MSNA PRESSO STRUTTURE DI SECONDO LIVELLO GESTIRE DALLA SOC.COOP. SOC. QUADRIFOGLIO E L'ALBERO DELLE IDEE- RENDICONTAZIONE II TRIMESTRE 2023",
+   "amministrazione": "COMUNE DI MONTEVAGO",
+   "ente": "QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 136800.0,
+   "aggiudicato": 136800.0,
+   "durata_gg": 91.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "A017713634",
+   "data": "2023-10-19",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MSNA PRESSO STRUTTURE DI SECONDO LIVELLO GESTIRE DALLA SOC.COOP. SOC. QUADRIFOGLIO E L'ALBERO DELLE IDEE- RENDICONTAZIONE I TRIMESTRE 2023",
+   "amministrazione": "COMUNE DI MONTEVAGO",
+   "ente": "QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 130400.0,
+   "aggiudicato": 130400.0,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6393276A3F",
+   "data": "2015-09-18",
+   "oggetto": "AFFIDAMENTO SERVIZIO PER RICHIEDENTI ASILO E RIFIGIATICAT. ORDINARI E POSTI AGGIUNTIVI SPRAR 2014/2016 - ULTERIORE RIFINANZIAMENTO POSTI AGGIUNTIVI ANNO 2015",
+   "amministrazione": "COMUNE DI PORTO EMPEDOCLE",
+   "ente": "QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 385000.0,
+   "aggiudicato": 385000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

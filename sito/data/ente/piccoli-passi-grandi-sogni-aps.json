@@ -1,0 +1,84 @@
+{
+ "nome": "PICCOLI PASSI GRANDI SOGNI - APS",
+ "cf": "90061050630",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7CADD9294",
+   "data": "2025-07-29",
+   "oggetto": "ASSUNZIONE IMPEGNO DI SPESA RELATIVO A 1 MINORE STRANIERO NON ACCOMPAGNATO OSPITE PRESSO L'ASSOCIAZIONE PICCOLI PASSI, GRANDI SOGNI, PER IL PERIODO II SEMESTRE 2025. IMPORTO DI EUR",
+   "amministrazione": "CONSORZIO PER L'INTEGRAZIONE E L'INCLUSIONE SOCIALE DELL'AMBITO TERRITORIALE SOCIALE DI CISTERNINO FASANO OSTUNI",
+   "ente": "PICCOLI PASSI GRANDI SOGNI - APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18032.0,
+   "aggiudicato": 18032.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  },
+  {
+   "cig": "B19DC0CABA",
+   "data": "2024-05-13",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI ASSOCIAZIONE PICCOLI PASSI GRANDI SOGNI APS. IMPEGNO DI SPESA PRESU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "PICCOLI PASSI GRANDI SOGNI - APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14308.0,
+   "aggiudicato": 14308.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "A005FD8890",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO PRESUNTO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO E RIDETERMINAZIONE CONTESTU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "PICCOLI PASSI GRANDI SOGNI - APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72520.0,
+   "aggiudicato": 72520.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

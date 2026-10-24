@@ -1,0 +1,74 @@
+{
+ "nome": "UN SORRISO - ONLUS - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "06374691001",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VARESE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6329599654",
+   "data": "2015-07-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IMMIGRATI SISTEMA SPRAR ANNO 2015, COOP. SOC. UN SORRISO",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "UN SORRISO - ONLUS - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 306600.0,
+   "aggiudicato": 306600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6561435B71",
+   "data": "2015-06-15",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PROROGA.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "UN SORRISO - ONLUS - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 104085.8,
+   "aggiudicato": 104085.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6291934C2E",
+   "data": "2015-03-09",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PERIODO 1/6/2015 - 31/12/2015.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "UN SORRISO - ONLUS - SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 253376.0,
+   "aggiudicato": 253376.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

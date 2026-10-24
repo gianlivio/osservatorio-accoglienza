@@ -1,0 +1,107 @@
+{
+ "nome": "DON BOSCO FORMAZIONE E LAVORO,SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02827020617",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7599968BFC",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP. NUOVA AURORA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "DON BOSCO FORMAZIONE E LAVORO,SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 322380.0,
+   "aggiudicato": 322380.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7599936197",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP. LA RINASCENTE",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "DON BOSCO FORMAZIONE E LAVORO,SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1203552.0,
+   "aggiudicato": 1203552.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7599930CA0",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP. ALBA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "DON BOSCO FORMAZIONE E LAVORO,SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 780876.0,
+   "aggiudicato": 780876.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "75997865CD",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - B.F.L.",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "DON BOSCO FORMAZIONE E LAVORO,SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 204249.6,
+   "aggiudicato": 204249.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "73275895BB",
+   "data": "2017-12-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA N. 530 CITTADINI STRANIERI RICHIEDENTI ASILO LOTTO N. 3",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "DON BOSCO FORMAZIONE E LAVORO,SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4266288.0,
+   "aggiudicato": 324.79,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

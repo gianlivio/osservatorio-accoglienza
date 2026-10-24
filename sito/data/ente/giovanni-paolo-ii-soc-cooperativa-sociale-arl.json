@@ -1,0 +1,38 @@
+{
+ "nome": "GIOVANNI PAOLO II SOC COOPERATIVA SOCIALE ARL",
+ "cf": "01909160739",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TARANTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7477455F0E",
+   "data": "2018-06-11",
+   "oggetto": "AFFIDO GESTIONE PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI TARANTO",
+   "ente": "GIOVANNI PAOLO II SOC COOPERATIVA SOCIALE ARL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1390500.0,
+   "aggiudicato": 899000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  }
+ ]
+}

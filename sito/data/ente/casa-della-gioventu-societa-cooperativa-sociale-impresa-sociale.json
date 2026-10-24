@@ -1,0 +1,59 @@
+{
+ "nome": "CASA DELLA GIOVENTU' SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
+ "cf": "00991590423",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B24630F933",
+   "data": "2024-07-04",
+   "oggetto": "MSNA 37_2024CASA DELLA GIOVENTU PI 00991590423 COMUNITA L'ORIZZONTE",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CASA DELLA GIOVENTU' SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 35310.0,
+   "aggiudicato": 35310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "9631450BF7",
+   "data": "2023-02-09",
+   "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI MINORI STRANIERI NON ACCOMPAGNATI E/O RICHIEDENTI /TITOLARI PROTEZIONE INTERNAZIONAL",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "CASA DELLA GIOVENTU' SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5763148.24,
+   "aggiudicato": 2255144.96,
+   "durata_gg": 1186.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

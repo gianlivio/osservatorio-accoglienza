@@ -1,0 +1,101 @@
+{
+ "nome": "O.L.B. STYLE S.R.L.",
+ "cf": "00999130339",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B230D7967B",
+   "data": "2025-08-26",
+   "oggetto": "AFFIDAMENTO SERVIZIO GESTIONE CENTRI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "O.L.B. STYLE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 120555.0,
+   "aggiudicato": 120555.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "9294688B2C",
+   "data": "2022-06-23",
+   "oggetto": "CONVENZIONE ACCOGLIENZA CITTADINI STRANIERI RICHIEENTI ASILO - GESTORE O.L.B. STYLE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "O.L.B. STYLE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 246655.0,
+   "aggiudicato": 246655.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "8801442BB2",
+   "data": "2021-07-05",
+   "oggetto": "SERVIZI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GARA D.M. 29.01.2021",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "O.L.B. STYLE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 24967509.0,
+   "aggiudicato": 1310496.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "769683907A",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZI ACCOGLIENZA CITTADINI STRANIERI GESTORE CARITAS",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "O.L.B. STYLE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 464100.0,
+   "aggiudicato": 464100.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

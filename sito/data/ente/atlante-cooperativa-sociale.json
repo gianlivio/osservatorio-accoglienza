@@ -1,0 +1,105 @@
+{
+ "nome": "ATLANTE COOPERATIVA SOCIALE",
+ "cf": "02168510796",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5AFB3DB55",
+   "data": "2025-02-24",
+   "oggetto": "AMPLIAMENTO CAPACITÀ ALLOGGIATIVA EMERGENZA UCRAINA 7 POSTI DAL 01.01.2025 AL 31.12.2025 – FINANZIAMENTO MINISTERIALE € 114.966,66 - AFFIDAMENTO DIRETTO ALLA DITTA ATLANTE COOPERAT",
+   "amministrazione": "COMUNE DI MONTALTO UFFUGO",
+   "ente": "ATLANTE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 109492.06,
+   "aggiudicato": 109492.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "8531461057",
+   "data": "2020-12-24",
+   "oggetto": "PROGETTO SIPROIMI - SISTEMA DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE E PER I MINORI STRANIERI NON ACCOMPAGNATI 2021-2023",
+   "amministrazione": "UNIONE DEI COMUNI DI MONTE CONTESSA",
+   "ente": "ATLANTE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 645600.0,
+   "aggiudicato": 645600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "7565946028",
+   "data": "2018-07-13",
+   "oggetto": "L'AFFIDAMENTO DELLA GESTIONE DL AZIONI E SERVIZI DI ACCOGLIENZA INTEGRATA PER PROGETTO SPRAR COMUNE DI BELSITO PER GLI ANNI 2018-2020",
+   "amministrazione": "CENTRALE DI COMMITTENZA BELSITO",
+   "ente": "ATLANTE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 711843.75,
+   "aggiudicato": 711843.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "7126445075",
+   "data": "2017-08-02",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE DEL PROGETTO TERRITORIALE 'LE NOTE DELL'ACCOGLIENZA' ADERENTE AL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGI",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA - TRASPARENZA",
+   "ente": "ATLANTE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1384989.01,
+   "aggiudicato": 1384989.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

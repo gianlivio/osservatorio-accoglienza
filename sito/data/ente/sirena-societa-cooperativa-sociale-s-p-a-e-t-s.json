@@ -1,0 +1,54 @@
+{
+ "nome": "SIRENA SOCIETA' COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+ "cf": "01603210673",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0A495ADE9",
+   "data": "2024-03-04",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SIRENA SOCIETA' COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34770.0,
+   "aggiudicato": 34770.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B0A397828E",
+   "data": "2024-03-04",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "SIRENA SOCIETA' COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34770.0,
+   "aggiudicato": 34770.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

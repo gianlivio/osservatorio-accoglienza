@@ -1,0 +1,38 @@
+{
+ "nome": "LANGUAGE ACADEMY - SOCIETA' COOPERATIVA",
+ "cf": "11565681001",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8009454A86",
+   "data": "2019-08-28",
+   "oggetto": "APPALTO 47/2019 AFFIDAMENTO DEI SERVIZI PER L'INTEGRAZIONE DEI CITTADINI STRANIERI RESIDENTI A MILANO NELL'AMBITO DEI PROGRAMMI DEL FAMI CON CAPOFILA REGIONE LOMBARDIA - SERVIZI CO",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "LANGUAGE ACADEMY - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 174250.0,
+   "aggiudicato": 128945.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

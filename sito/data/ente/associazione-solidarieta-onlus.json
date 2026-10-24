@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE SOLIDARIETA' ONLUS",
+ "cf": "90002430594",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7779007FA3",
+   "data": "2018-10-12",
+   "oggetto": "SERIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 01/02/2019 - 31/12/2019 - SOC. COOP. ARTEINSIEME",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ASSOCIAZIONE SOLIDARIETA' ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3242104.6,
+   "aggiudicato": 3242104.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

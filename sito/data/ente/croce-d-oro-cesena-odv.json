@@ -1,0 +1,58 @@
+{
+ "nome": "CROCE D'ORO CESENA ODV",
+ "cf": "04280550403",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B27B9BF8AC",
+   "data": "2024-07-17",
+   "oggetto": "PROROGA COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO ID 10006 COMUNITA' ANEMOD",
+   "amministrazione": "ASP CARLO SARTORI",
+   "ente": "CROCE D'ORA CESENA O.D.V.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52700.0,
+   "aggiudicato": 52700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B1243F38C6",
+   "data": "2024-04-09",
+   "oggetto": "SERVIZIO RESIDENZIALE PER MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CROCE D'ORO CESENA ODV",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 158340.0,
+   "aggiudicato": 158340.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

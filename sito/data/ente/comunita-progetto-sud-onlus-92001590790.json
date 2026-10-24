@@ -1,0 +1,96 @@
+{
+ "nome": "COMUNITA' PROGETTO SUD - ONLUS",
+ "cf": "92001590790",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9424168D72",
+   "data": "2022-10-03",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DI UN PROGETTO TERRITORIALE ADERENTE AL 'SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONAL",
+   "amministrazione": "COMUNE DI LAMEZIA TERME",
+   "ente": "COMUNITA' PROGETTO SUD - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 78836.63,
+   "aggiudicato": 78836.63,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "8587099A42",
+   "data": "2021-01-21",
+   "oggetto": "SPRAR CAT. MSNA",
+   "amministrazione": "CITTA' METROPOLITANA DI REGGIO CALABRIA",
+   "ente": "COMUNITA' PROGETTO SUD - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1105049.98,
+   "aggiudicato": 473019.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "8587045DB1",
+   "data": "2021-01-21",
+   "oggetto": "SPRAR CAT. ORDINARI",
+   "amministrazione": "CITTA' METROPOLITANA DI REGGIO CALABRIA",
+   "ente": "COMUNITA' PROGETTO SUD - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1579550.0,
+   "aggiudicato": 676130.89,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "70548473EA",
+   "data": "2017-04-28",
+   "oggetto": "PROGETTO SPRAR TERRE SORELLE 2017-2019",
+   "amministrazione": "CUC COMUNE MARCELLINARA-COMUNE MIGLIERINA",
+   "ente": "COMUNITA' PROGETTO SUD - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1092758.92,
+   "aggiudicato": 1092758.92,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

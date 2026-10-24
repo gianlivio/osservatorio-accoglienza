@@ -1,0 +1,171 @@
+{
+ "nome": "LAVORO PER LA SALUTE S.R.L.",
+ "cf": "02943590600",
+ "affidamenti": 9,
+ "diretti": 8,
+ "quota_diretti": 88.9,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 8,
+   "diretti": 8,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7599966A56",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIOE ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP.MEGEA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 83661.0,
+   "aggiudicato": 83661.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "75999648B0",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIOE ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP.FAMILY",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7327602077.0,
+   "aggiudicato": 7327602077.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7573059DF9",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONE IN ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - ATI FREEDOM.APEIRON",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 77256.0,
+   "aggiudicato": 77256.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7573040E4B",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONI IN ATTUAZIONAE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COO.MONDO SOLIDALE",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 288866.0,
+   "aggiudicato": 288866.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "757297155D",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONE IN ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - ATI FORMLAND-PROFOOD",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 382552.0,
+   "aggiudicato": 382552.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "75729346D4",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONEIN ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - ATI PROMETEO - LA VELA - XENIA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 858792.0,
+   "aggiudicato": 858792.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "75728934FF",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONI IN ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANN. 2018 - SOCIETÀ GAMA SRL",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 652982.0,
+   "aggiudicato": 652982.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "757269626E",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONE IN ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 ATI COOP.LAVORO PER LA SALUTE-SOC.LAVORO PER LA SALUTE",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 843276.0,
+   "aggiudicato": 843276.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7327602077",
+   "data": "2017-12-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA N. 540 CITTADINI STRANIERI RICHIEDENTI ASILO LOTTO N. 4",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LAVORO PER LA SALUTE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4346784.0,
+   "aggiudicato": 63.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

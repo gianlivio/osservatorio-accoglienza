@@ -1,0 +1,33 @@
+{
+ "nome": "CASA SERVIZI SOCIETA' COOPERATIVA SOCIALE IN SIGLA CASA SERVIZI SOC.COOP. SOCIALE",
+ "cf": "04108000243",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8934795A13",
+   "data": "2021-10-22",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE ACCORDO QUADRO SERVIZIO DI ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHIEDENTE PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLE",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "CASA SERVIZI SOCIETA' COOPERATIVA SOCIALE IN SIGLA CASA SERVIZI SOC.COOP. SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4051780.0,
+   "aggiudicato": 1629450.59,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

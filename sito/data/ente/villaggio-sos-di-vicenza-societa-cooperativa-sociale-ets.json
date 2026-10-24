@@ -1,0 +1,96 @@
+{
+ "nome": "VILLAGGIO SOS DI VICENZA - SOCIETA' COOPERATIVA SOCIALE - ETS",
+ "cf": "00584370241",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8600590763",
+   "data": "2021-01-19",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "VILLAGGIO SOS DI VICENZA - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 51585.0,
+   "aggiudicato": 51585.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "8599219BFF",
+   "data": "2019-11-11",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "VILLAGGIO SOS DI VICENZA - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 450000.0,
+   "aggiudicato": 450000.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "8204254C91",
+   "data": "2019-11-11",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "VILLAGGIO SOS DI VICENZA - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 500000.0,
+   "aggiudicato": 500000.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "6923885AA5",
+   "data": "2017-01-02",
+   "oggetto": "ACCOGLIENZA SPRAR MSNA - 7 POSTI",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "VILLAGGIO SOS DI VICENZA - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 43202.88,
+   "aggiudicato": 43202.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  }
+ ]
+}

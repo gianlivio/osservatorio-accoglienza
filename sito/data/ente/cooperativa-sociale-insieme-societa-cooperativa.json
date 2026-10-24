@@ -1,0 +1,75 @@
+{
+ "nome": "COOPERATIVA SOCIALE INSIEME SOCIETA' COOPERATIVA",
+ "cf": "02343240848",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7064026AA8",
+   "data": "2017-05-03",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE 'INSIEME' RELATIVA AL 3^ TRIMESTRE 2016,",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "COOPERATIVA SOCIALE INSIEME SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 42761.47,
+   "aggiudicato": 42761.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6907185560",
+   "data": "2016-12-13",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA COOP. SOC. INSIEME RELATIVA AL 1^ E 2^ TRIMESTRE 2016 E RECUPERO SOMMA GIUSTA DELIB. DI G.M. N.80 DEL 13-06-16",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "COOPERATIVA SOCIALE INSIEME SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60945.44,
+   "aggiudicato": 60945.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6677512937",
+   "data": "2016-04-26",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 2^ TRIMESTRE 2015 COOP. SOC. INSIEME",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "COOPERATIVA SOCIALE INSIEME SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40889.42,
+   "aggiudicato": 40889.42,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

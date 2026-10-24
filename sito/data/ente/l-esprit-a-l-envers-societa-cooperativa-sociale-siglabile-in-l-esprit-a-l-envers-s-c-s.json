@@ -1,0 +1,38 @@
+{
+ "nome": "L'ESPRIT A' L'ENVERS SOCIETA'  COOPERATIVA SOCIALE SIGLABILE IN L'ESPRIT A' L'ENVERS S.C.S.",
+ "cf": "00603500075",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AOSTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B501A9A6E1",
+   "data": "2024-12-27",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT. B), DEL DECRETO LEGISLATIVO 31.3.2023, N. 36, DELLO SPORTELLO VOCE DI COLORI DEDICATO ALL'ACCOGLIENZA E ACCOMPAGNAMENTO D",
+   "amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA",
+   "ente": "L'ESPRIT A' L'ENVERS SOCIETA'  COOPERATIVA SOCIALE SIGLABILE IN L'ESPRIT A' L'ENVERS S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138849.7,
+   "aggiudicato": 138849.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AOSTA"
+  }
+ ]
+}

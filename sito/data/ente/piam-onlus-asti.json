@@ -1,0 +1,101 @@
+{
+ "nome": "PIAM ONLUS ASTI",
+ "cf": "92040930056",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASTI",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B60AA44556",
+   "data": "2025-03-17",
+   "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA E INTEGRAZIONE (SAI) A FAVORE DI ADULTI ORDINARI-PROGETTO SAI AUTORIZZATO ALLA PROSECUZIONE ",
+   "amministrazione": "COMUNE DI CHIUSANO D'ASTI",
+   "ente": "PIAM ONLUS ASTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 912591.27,
+   "aggiudicato": 912591.27,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "949779438E",
+   "data": "2022-11-21",
+   "oggetto": "EROGAZIONE E GESTIONE DEI SERVIZI TERRITORIALI DI ACCOGLIENZA NELL'AMBITO DELLA RETE SAI (SISTEMA DI ACCOGLIENZA ED INTEGRAZIONE - EX SIPROIMI) - PROSECUZIONE PROGETTO PRO.MET.E.O.",
+   "amministrazione": "COMUNE DI ASTI",
+   "ente": "PIAM ONLUS ASTI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 4018528.5,
+   "aggiudicato": 3444453.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "8484353595",
+   "data": "2020-10-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI ASTI",
+   "ente": "PIAM ONLUS ASTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1757413.9,
+   "aggiudicato": 1757413.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "7654839CF7",
+   "data": "2018-11-23",
+   "oggetto": "APPALTO PER L'AFFIDAMENTO DEL SERVIZIO SISTEMA DI ACCOGLIENZA DI BENEFICIARI DI PROGETTI PER RICHIEDENTI ASILO E RIFUGIATI (S.P.R.A.R.) CON CAPOFILA IL COMUNE DI CHIUSANO D'ASTI - ",
+   "amministrazione": "ASMEL CONSORTILE SOC. CONS. A R.L.",
+   "ente": "PIAM ONLUS ASTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1414192.54,
+   "aggiudicato": 1414192.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  }
+ ]
+}

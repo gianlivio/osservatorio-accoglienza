@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI MADIBA ONLUS",
+ "cf": "90052710473",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISTOIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B76FD2AAAD",
+   "data": "2025-07-30",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E INTEGRAZIONE DELLA RETE SAI",
+   "amministrazione": "COMUNE DI PISTOIA",
+   "ente": "ARCI MADIBA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 116177.6,
+   "aggiudicato": 116177.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  }
+ ]
+}

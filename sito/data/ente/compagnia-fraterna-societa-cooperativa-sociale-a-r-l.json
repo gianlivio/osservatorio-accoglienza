@@ -1,0 +1,54 @@
+{
+ "nome": "COMPAGNIA FRATERNA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "02101980668",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8956897939",
+   "data": "2020-12-10",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX- SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COMPAGNIA FRATERNA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 402037.5,
+   "aggiudicato": 402037.5,
+   "durata_gg": 426.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "89568870FB",
+   "data": "2020-12-10",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX- SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COMPAGNIA FRATERNA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 450282.0,
+   "aggiudicato": 450282.0,
+   "durata_gg": 426.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE ALMATERRA APS",
+ "cf": "97557260011",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7215879BB7",
+   "data": "2017-10-11",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER RIFUGIATI E/O RICHIEDENTI PROTEZIONE INTERNAZIONALE O UMANITARIA",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ASSOCIAZIONE ALMATERRA APS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60705.0,
+   "aggiudicato": 60640.97,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

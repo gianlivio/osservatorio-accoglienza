@@ -1,0 +1,38 @@
+{
+ "nome": "GESTIONI ALBERGHIERE ARITZESI S.R.L.",
+ "cf": "01434550917",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NUORO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B281CADC58",
+   "data": "2024-07-18",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA EX ART. 11 D. LGS. 142/2015. BIENNIO 2024/2026 DITTA GESAR S.R.L.",
+   "amministrazione": "PREFETTURA DI NUORO",
+   "ente": "GESTIONI ALBERGHIERE ARITZESI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1983778.5,
+   "aggiudicato": 1983778.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "NUORO"
+  }
+ ]
+}

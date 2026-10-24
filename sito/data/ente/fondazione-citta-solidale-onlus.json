@@ -1,0 +1,212 @@
+{
+ "nome": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+ "cf": "02273080792",
+ "affidamenti": 10,
+ "diretti": 1,
+ "quota_diretti": 10.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 10
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B77D19BA99",
+   "data": "2025-07-02",
+   "oggetto": "AMPLIAMENTO DEI PROGETTI SAI EX ART. 9 C. 1 DELLE LINEE GUIDA ALLEGATE AL DM 18 NOVEMBRE 2019 TIPOLOGIA DI ACCOGLIENZA: MSNA - SERVIZIO PER 4 MESI",
+   "amministrazione": "COMUNE DI TIRIOLO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 59379.85,
+   "aggiudicato": 59379.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "A00A5E5758",
+   "data": "2023-09-07",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO TITOLARE DI STRUTTURA, PER LA GESTIONE DI SERVIZI DI ACCOGLIENZA INTEGRATA RIVOLTI A N. 35 MINORI STRANIERI NON ACCOMPAGNATI INSERITI NELL'AMBITO DEL ",
+   "amministrazione": "UNIONE DEI COMUNI DEL VERSANTE IONICO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3100650.0,
+   "aggiudicato": 3100650.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "9520938E93",
+   "data": "2022-12-01",
+   "oggetto": "SELEZIONE DI UN SOGGETTO 'ENTE ATTUATORE' PER L'AFFIDAMENTO DEL PROGETTO SAI DEL COMUNE DI GASPERINA CATEGORIA 'ORDINARI' TRIENNIO 2023-2025",
+   "amministrazione": "COMUNE DI GASPERINA",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1700527.8,
+   "aggiudicato": 1700527.8,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "8964631786",
+   "data": "2021-12-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "UNIONE DEI COMUNI DEL VERSANTE IONICO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 839177.88,
+   "aggiudicato": 839177.88,
+   "durata_gg": 670.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "8571723995",
+   "data": "2021-01-15",
+   "oggetto": "PROGETTO SPRAR/SIPROIMI ACCOGLIENZA N. 20 MINORI STRANIERI NON ACCOMPAGNATI - ANNUALITÀ 2021 - 2022.",
+   "amministrazione": "AMMINISTRAZIONE COMUNALE DI CATANZARO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1071874.05,
+   "aggiudicato": 1071874.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "8495280ED1",
+   "data": "2020-11-09",
+   "oggetto": "PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO DELLA COPROGETTAZIONE E LA GESTIONE DEGLI INTERVENTI DI ACCOGLIENZA INTEGRATA, ATTIVI E FINANZIATI CON IL PROGETTO 370-PR-2 'SATRIANO'",
+   "amministrazione": "COMUNE DI SATRIANO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1093000.0,
+   "aggiudicato": 1093000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "8466233C7A",
+   "data": "2020-11-09",
+   "oggetto": "AFFIDAMENTO IN PROSECUZIONE PROGETTO SIPROIMI DEL COMUNE DI GASPERINA CATEGORIA ORDINARI UOMINI SINGOLI ADULTI - AUTORIZZATO ALLA PROSECUZIONE PER IL TRIIENNI 2017/2019 - NEL BIENN",
+   "amministrazione": "COMUNE DI GASPERINA",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 675889.7,
+   "aggiudicato": 675889.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "7226986981",
+   "data": "2017-10-13",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO CHE COPROGETTA E ATTUI IL SERVIZIO DI ACCOGLIENZA INTEGRATA SPRAR (SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI) A FAVORE DI N. 20 SOGGETTI",
+   "amministrazione": "COMUNE DI SANT ANDREA APOSTOLO DELLO IONIO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 766500.0,
+   "aggiudicato": 766500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "6925382E01",
+   "data": "2017-04-10",
+   "oggetto": "PROGETTO SPRAR (SISTEMA DI PROTEZIONE RICHIEDENTI ASILO RIFUGIATI)CATEGORIA MSNA PER N. 20 MINORI",
+   "amministrazione": "AMMINISTRAZIONE COMUNALE DI CATANZARO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1230849.5,
+   "aggiudicato": 1230849.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "6969682B86",
+   "data": "2016-01-29",
+   "oggetto": "SERVII DI ACCOGLIENZA INTEGRATA E DEI SERVIZI MINIMI GARANTITI IN FAVORE DI RICHIEDENTI DI PROTEZIONE INTERNAZIONALE O UMANITARIA PREVISTE NEL BANDO SPRAR.",
+   "amministrazione": "COMUNE DI GIRIFALCO",
+   "ente": "FONDAZIONE CITTA' SOLIDALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 375109.37,
+   "aggiudicato": 375109.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

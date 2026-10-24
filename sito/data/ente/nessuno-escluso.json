@@ -1,0 +1,38 @@
+{
+ "nome": "NESSUNO ESCLUSO",
+ "cf": "08278851210",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7AE5B6818",
+   "data": "2025-07-18",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "NESSUNO ESCLUSO",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 76982.4,
+   "aggiudicato": 76982.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

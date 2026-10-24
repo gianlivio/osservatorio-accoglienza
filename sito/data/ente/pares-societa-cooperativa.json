@@ -1,0 +1,38 @@
+{
+ "nome": "PARES - SOCIETA' COOPERATIVA",
+ "cf": "13348110159",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1C1D7592D",
+   "data": "2024-05-21",
+   "oggetto": "PSK - REALIZZAZIONE PROGETTO GRUPPO DI SUPPORTO E TERAPIA ESPRESSIVA RIVOLTO A MIGRANTI E OPERATORI DEI CENTRI DI ACCOGLIENZA STRAORDINARIA - POLITI",
+   "amministrazione": "UNIVERSITA DEGLI STUDI DI PAVIA",
+   "ente": "PARES - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10700.0,
+   "aggiudicato": 10700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

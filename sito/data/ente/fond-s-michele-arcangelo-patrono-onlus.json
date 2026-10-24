@@ -1,0 +1,38 @@
+{
+ "nome": "FOND. S.MICHELE ARCANGELO PATRONO ONLUS",
+ "cf": "01984770667",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B093434820",
+   "data": "2024-02-27",
+   "oggetto": "OSPITALITÀ DEL MSNA ZA C/O COMUNITÀ G. PALATUCCI DELLA FOND. S.MICHELE ARCANGELO PATRONO ONLUS DAL 01/01 AL 01/08/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "FOND. S.MICHELE ARCANGELO PATRONO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

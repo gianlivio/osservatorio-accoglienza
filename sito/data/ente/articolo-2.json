@@ -1,0 +1,38 @@
+{
+ "nome": "ARTICOLO 2",
+ "cf": "90036980499",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6830961F54",
+   "data": "2017-10-06",
+   "oggetto": "ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "ARTICOLO 2",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 54024.0,
+   "aggiudicato": 54024.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "AMA - AQUILONE COOPERATIVA SOCIALE",
+ "cf": "01237130446",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASCOLI PICENO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0372081B4",
+   "data": "2024-02-01",
+   "oggetto": "ACCOGLIENZA 1 MSNA DAL 01.01.2024 AL 31.12.2024",
+   "amministrazione": "UNIONE DEI COMUNI-VALLATA DEL TRONTO",
+   "ente": "AMA - AQUILONE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37595.01,
+   "aggiudicato": 37595.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "B0055F0C9C",
+   "data": "2024-01-17",
+   "oggetto": "ACCOGLIENZA MSNA D.S. DAL 01/01/2024 AL 31/12/2024",
+   "amministrazione": "UNIONE DEI COMUNI-VALLATA DEL TRONTO",
+   "ente": "AMA - AQUILONE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37080.01,
+   "aggiudicato": 37080.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  }
+ ]
+}

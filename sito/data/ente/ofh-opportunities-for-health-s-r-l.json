@@ -1,0 +1,58 @@
+{
+ "nome": "OFH - OPPORTUNITIES FOR HEALTH - S.R.L.",
+ "cf": "01525940555",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2EC6B159A",
+   "data": "2024-09-05",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI MONTEFIASCONE",
+   "ente": "OFH - OPPORTUNITIES FOR HEALTH - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17188.0,
+   "aggiudicato": 17188.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B23EDE488B",
+   "data": "2024-06-27",
+   "oggetto": "ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI CASTIGLION FIORENTINO",
+   "ente": "OFH - OPPORTUNITIES FOR HEALTH - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33550.0,
+   "aggiudicato": 33550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  }
+ ]
+}

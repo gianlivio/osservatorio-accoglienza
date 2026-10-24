@@ -1,0 +1,38 @@
+{
+ "nome": "MARCO MARRA",
+ "cf": "02653350690",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B22E0C95E5",
+   "data": "2024-06-21",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 COMMA 1 LETTERA B DEL D.LGS 36/2023 DEL SERVIZIO PROFESSIONALE DELLA GESTIONE DELLA RENDICONTAZIONE DEL PROGETTO SAI DI LENTELLA - PROG-96",
+   "amministrazione": "COMUNE DI LENTELLA",
+   "ente": "MARCO MARRA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21000.0,
+   "aggiudicato": 21000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

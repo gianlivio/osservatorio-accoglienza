@@ -1,0 +1,102 @@
+{
+ "nome": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+ "cf": "01673120380",
+ "affidamenti": 5,
+ "diretti": 1,
+ "quota_diretti": 20.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 1,
+   "quota_diretti": 20.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B35D35522A",
+   "data": "2024-10-09",
+   "oggetto": "ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10572225.0,
+   "aggiudicato": 10572225.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "B2F21BA57F",
+   "data": "2024-09-09",
+   "oggetto": "REALIZZAZIONE DEL PROGETTO TERRITORIALE DEL COMUNE DI ARGENTA ADERENTE A SAI - CATEGORIA ORDINARI 2025-2026",
+   "amministrazione": "COMUNE DI ARGENTA",
+   "ente": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4648496.95,
+   "aggiudicato": 1575761.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "B22532318D",
+   "data": "2024-06-19",
+   "oggetto": "ACCOGLIENZA RICHIEDENTI ASILO IN SINGOLE UNIT� ABITATIVE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 74005575.0,
+   "aggiudicato": 10572225.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "B1801C68BA",
+   "data": "2024-05-06",
+   "oggetto": "ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 749000.0,
+   "aggiudicato": 749000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "B17FAAEE1C",
+   "data": "2024-05-06",
+   "oggetto": "ACCOGLIENZA PROFUGHI UCRAINI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "AZIONI - SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 749000.0,
+   "aggiudicato": 749000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

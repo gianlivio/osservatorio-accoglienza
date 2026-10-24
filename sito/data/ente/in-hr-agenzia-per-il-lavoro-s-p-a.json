@@ -1,0 +1,38 @@
+{
+ "nome": "IN.HR AGENZIA PER IL LAVORO S.P.A.",
+ "cf": "01920290762",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D267BFC6",
+   "data": "2025-12-30",
+   "oggetto": "AFFIDAMENTO SELESIONE PERSONALE PROGETTO SAI",
+   "amministrazione": "COMUNE DI PLATACI",
+   "ente": "IN.HR AGENZIA PER IL LAVORO S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 100783.98,
+   "aggiudicato": 100783.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

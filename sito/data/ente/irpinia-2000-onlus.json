@@ -1,0 +1,233 @@
+{
+ "nome": "IRPINIA 2000 ONLUS",
+ "cf": "91003470647",
+ "affidamenti": 11,
+ "diretti": 3,
+ "quota_diretti": 27.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 10
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7C7F3448D",
+   "data": "2025-07-28",
+   "oggetto": "FONDO EUROPEO ASILO MIGRAZIONE E INTEGRAZIONE (FAMI) - OBIETTIVO SPECIFICO 1.ASILO – MISURA DI ATTUAZIONE 1.B) – AMBITO DI APPLICAZIONE 1.D) – INTERVENTO F) – PROMOZIONE DELL'AUTON",
+   "amministrazione": "CUC COMUNE DI MONTEMARANO CAPOFILA TRA I COMUNI DI MONTEMARANO, CASTELVETERE SUL CALORE, PATERNOPOLI E BAGNOLI IRPINO",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 332803.79,
+   "aggiudicato": 332803.79,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "A013B634C0",
+   "data": "2023-09-22",
+   "oggetto": "GESTIONE DI CENTRI PER L'ACCOGLIENZAA TEMPORANEA DI MIGRANTI RICHIEDENTI ASILO PROVENIENTI DALL'AFRICA SETTENTRIONALE E SUB-SAHARIANA",
+   "amministrazione": "COMUNE DI SANT ANDREA DI CONZA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16192.56,
+   "aggiudicato": 16192.56,
+   "durata_gg": 96.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "95140656CE",
+   "data": "2023-01-13",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI: 'PROGETTO SAI EX SIPROIMI - SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E PER I MINORI STRANIERI NON ACCOMPAGNATI TRIENNIO 2023-202",
+   "amministrazione": "COMUNE DI SANT ANDREA DI CONZA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3011413.9,
+   "aggiudicato": 2865777.14,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "950301580E",
+   "data": "2022-12-16",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI UCRAINI RIFUGIATI PRESSO CENTRI DI ACCOGLIENZA COSTITUITI DA UNITA' ABITATIVE CON CAPIENZA FINO A 50 POSTI",
+   "amministrazione": "COMUNE DI SANT ANDREA DI CONZA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 335229.84,
+   "aggiudicato": 335229.84,
+   "durata_gg": 364.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "846684123A",
+   "data": "2020-10-26",
+   "oggetto": "SERVIZIO DI INDIVIDUAZIONE SOGGETTO ATTUATORE PER LA GESTIONE DEI SERVIZI SPRAR - D.M. 18 NOVEMBRE 2019 - BIENNIO 2021 - 2022.",
+   "amministrazione": "COMUNE DI BISACCIA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1287428.0,
+   "aggiudicato": 1106248.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "7554894FBD",
+   "data": "2018-07-18",
+   "oggetto": "INDIVIDUAZIONE OPERATORE ECONOMICO PER LA GESTIONE DEI SERVIZI SPRAR - D.M. 10 AGOSTO 2016 - 2018/2019",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA IRPINIA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1101949.33,
+   "aggiudicato": 776558.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "7030426B0F",
+   "data": "2017-04-05",
+   "oggetto": "INDIVIDUAZIONE OPERATORE ECONOMICO PER GESTIONE SERVIZI SPRAR- D.M. 10 AGOSTO 2016- TRIENNO 2017/2019",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA IRPINIA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1539734.28,
+   "aggiudicato": 1410453.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "698872919E",
+   "data": "2017-03-06",
+   "oggetto": "INDIVIDUAZIONE SOGGETTO ATTUATORE PER LA GESTIONE DEI SERVIZI SPRAR - D.M. 10 AGOSTO 2016 - TRIENNIO 2017/2019",
+   "amministrazione": "COMUNE DI BISACCIA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1295615.34,
+   "aggiudicato": 1258657.02,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "6944326F16",
+   "data": "2017-01-27",
+   "oggetto": "PROGETTO SPRAR - SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E PROTEZIONE INTERNAZIONALE - ACCOGLIENZA DI MINORI NON ACCOMPAGNATI TRIENNIO 2017/2019 - DM 10.08.2016",
+   "amministrazione": "COMUNE DI SANT ANDREA DI CONZA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1525761.47,
+   "aggiudicato": 1483470.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "6577915B2B",
+   "data": "2016-02-10",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI SANT ANDREA DI CONZA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 172935.0,
+   "aggiudicato": 172935.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "62040808C5",
+   "data": "2015-04-01",
+   "oggetto": "SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI.",
+   "amministrazione": "COMUNE DI SANT ANDREA DI CONZA",
+   "ente": "IRPINIA 2000 ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87535.5,
+   "aggiudicato": 87535.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

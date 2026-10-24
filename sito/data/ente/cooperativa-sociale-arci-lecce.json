@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA SOCIALE ARCI LECCE",
+ "cf": "04999980750",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9044866B89",
+   "data": "2022-01-10",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PATU'",
+   "ente": "COOPERATIVA SOCIALE ARCI LECCE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2498103.27,
+   "aggiudicato": 2498103.27,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "8482341939",
+   "data": "2020-10-30",
+   "oggetto": "SERVIZIO DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE - SIPROIMI - BIENNIO 2021/2022",
+   "amministrazione": "COMUNE DI GALATINA",
+   "ente": "COOPERATIVA SOCIALE ARCI LECCE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1642380.74,
+   "aggiudicato": 1642380.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

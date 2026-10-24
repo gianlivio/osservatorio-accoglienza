@@ -1,0 +1,38 @@
+{
+ "nome": "STELLA MARIS SICILIA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "97203740820",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8461295186",
+   "data": "2020-12-29",
+   "oggetto": "PROCEDURA APERTA PER LA PROSECUZIONE PER IL BIENNIO 2021/2022 DEL PROGETTO SPRAR/SIPROIMI ORD (PROG-752-PR-2) - D.M. 18/11/2019 - INDIVIDUAZIONE DEL SOGGETTO ATTUATORE PER L'AFFIDA",
+   "amministrazione": "COMUNE DI PACHINO",
+   "ente": "STELLA MARIS SICILIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1448356.5,
+   "aggiudicato": 1394637.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

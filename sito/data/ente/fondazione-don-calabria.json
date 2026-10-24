@@ -1,0 +1,90 @@
+{
+ "nome": "FONDAZIONE DON CALABRIA",
+ "cf": "04933260236",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B26A96BD34",
+   "data": "2024-07-11",
+   "oggetto": "OSPITALITÀ DEL MSNA AA C/O COMUNITÀ FOND DON CALABRIA MANTOVA DAL 01/07 AL 31/12/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "FONDAZIONE DON CALABRIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26500.0,
+   "aggiudicato": 26500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "B1B299697C",
+   "data": "2024-05-17",
+   "oggetto": "ACCOGLIENZA PROFUGHI UCRAINI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "FONDAZIONE DON CALABRIA PER IL SOCIALE E.T.S.",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 749000.0,
+   "aggiudicato": 749000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "B0803C3C79",
+   "data": "2024-02-22",
+   "oggetto": "OSPITALITÀ DEL MSNA AA C/O COMUNITÀ FOND DON CALABRIA MANTOVA DAL 01/01 AL 30/06/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "FONDAZIONE DON CALABRIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26500.0,
+   "aggiudicato": 26500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "B07869601E",
+   "data": "2024-02-20",
+   "oggetto": "OSPITALITÀ DEL MSNA AMA C/O COMUNITÀ FOND DON CALABRIA MANTOVA DAL 01/01 AL 04/09/24",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "FONDAZIONE DON CALABRIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34000.0,
+   "aggiudicato": 34000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

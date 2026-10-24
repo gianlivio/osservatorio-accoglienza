@@ -1,0 +1,38 @@
+{
+ "nome": "INCERCHIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02264670742",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7127487C54",
+   "data": "2017-07-10",
+   "oggetto": "INDIVIDUAZIONE DEL SOGGETTO ATTUATORE PER IL PROGETTO TERRITORIALE DI ACCOGLIENZA INTEGRATA IN SENO ALLO SPRAR (SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI) DESTINATO A",
+   "amministrazione": "COMUNE DI ORIA",
+   "ente": "INCERCHIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 286954.28,
+   "aggiudicato": 286954.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

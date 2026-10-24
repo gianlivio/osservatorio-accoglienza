@@ -1,0 +1,58 @@
+{
+ "nome": "DI MARTINO MARIO",
+ "cf": "01749640858",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B15515F250",
+   "data": "2024-04-19",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 17 E 50 LETTERA B) DEL D.LGS. 36/2023 DEL SERVIZIO DI REVISIONE CONTABILE INDIPENDENTE PER LA VERIFICA E CERTIFICAZIONE DELLE SPESE SOSTENUTE",
+   "amministrazione": "COMUNE DI LICATA",
+   "ente": "DI MARTINO MARIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20149.18,
+   "aggiudicato": 20149.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "B1326A07D2",
+   "data": "2024-04-11",
+   "oggetto": "SERVIZIO DI REVISORE CONTABILE INDIPENDENTE NELL'AMBITO DEL PROGETTO SAI SISTEMA DI ACCOGLIENZA E INTEGRAZIONE, DEL COMUNE DI SANT'ANGELO DEI LOMBARDI - FONDI FNPSA 2023/205, PER L",
+   "amministrazione": "COMUNE DI SANT'ANGELO DEI LOMBARDI",
+   "ente": "MARIO DI MARTINO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13114.75,
+   "aggiudicato": 13114.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

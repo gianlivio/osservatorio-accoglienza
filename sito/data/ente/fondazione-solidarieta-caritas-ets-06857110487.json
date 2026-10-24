@@ -1,0 +1,155 @@
+{
+ "nome": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
+ "cf": "06857110487",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 7,
+   "diretti": 7,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B519506F79",
+   "data": "2025-01-08",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101612.16,
+   "aggiudicato": 101612.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B353E43DDF",
+   "data": "2024-10-09",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 590445.44,
+   "aggiudicato": 590445.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B353DEC616",
+   "data": "2024-10-09",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE SOLIDARIETA' CARITAS - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 170320.8,
+   "aggiudicato": 170320.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B1CBE31D93",
+   "data": "2024-05-23",
+   "oggetto": "ATTIVITÀ DI ALFABETIZZAZIONE SANITARIA",
+   "amministrazione": "AZIENDA OSPEDALIERO UNIVERSITARIA A. MEYER",
+   "ente": "FONDAZIONE SOLIDARIETÀ CARITAS ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25705.0,
+   "aggiudicato": 25705.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B0B54387B7",
+   "data": "2024-03-07",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE SOLIDARIETÀ CARITAS ETS VIA DE’ PUCCI 2 – 50122 FIRENZE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 462399.0,
+   "aggiudicato": 462399.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B021D2310C",
+   "data": "2024-01-26",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE SOLIDARIETA CARITAS ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 53910.0,
+   "aggiudicato": 53910.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B021C5CCD0",
+   "data": "2024-01-26",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE SOLIDARIETA CARITAS ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26676.0,
+   "aggiudicato": 26676.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B021BAED39",
+   "data": "2024-01-26",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE SOLIDARIETA CARITAS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27018.0,
+   "aggiudicato": 27018.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

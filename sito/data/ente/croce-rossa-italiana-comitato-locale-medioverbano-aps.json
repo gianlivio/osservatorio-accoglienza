@@ -1,0 +1,96 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE MEDIOVERBANO APS",
+ "cf": "03384880120",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4C3D892CF",
+   "data": "2024-12-12",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORA-NEA, COSTITUITI DA CENTRI COLLETTIVI CON CAPACITA' RICETTIVA FINO A 50 PO-STI, DI CITTADINI STRANIERI RICHIEDEN",
+   "amministrazione": "PREFETTURA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE MEDIOVERBANO APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 767628.606,
+   "aggiudicato": 767628.606,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "A04797EB11",
+   "data": "2023-10-30",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORANEA, COSTITUITI DA SINGOLE UNITÀ ABITATIVE, DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO ",
+   "amministrazione": "PREFETTURA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE MEDIOVERBANO APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 253656.6,
+   "aggiudicato": 253656.6,
+   "durata_gg": 243.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "7980545A10",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/6/2019 - 31/10/2019.",
+   "amministrazione": "PREFETTURA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE MEDIOVERBANO APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 224910.0,
+   "aggiudicato": 224910.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "7831899F7F",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/1/2019 - 31/5/2019.",
+   "amministrazione": "PREFETTURA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE MEDIOVERBANO APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 255265.5,
+   "aggiudicato": 255265.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  }
+ ]
+}

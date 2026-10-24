@@ -1,0 +1,107 @@
+{
+ "nome": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02460150515",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B33CB791C6",
+   "data": "2024-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1403473.45,
+   "aggiudicato": 1403473.45,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "B19B6B38BE",
+   "data": "2024-06-04",
+   "oggetto": "SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 288787.5,
+   "aggiudicato": 288787.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "B046B4C507",
+   "data": "2024-02-07",
+   "oggetto": "AFFIDAMENTO URGENTE ACCOGLIENZA MIGRANTI MARZO - MAGGIO 2024",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 131742.0,
+   "aggiudicato": 131742.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "A00F66666E",
+   "data": "2023-05-16",
+   "oggetto": "AFFIDAMENTO URGENTE SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (ALTAVALMARECCHIA)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 176124.03,
+   "aggiudicato": 176124.03,
+   "durata_gg": 123.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9980048425",
+   "data": "2023-05-16",
+   "oggetto": "AFFIDAMENTO URGENTE SERVIZI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87346.06,
+   "aggiudicato": 94512.0,
+   "durata_gg": 61.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

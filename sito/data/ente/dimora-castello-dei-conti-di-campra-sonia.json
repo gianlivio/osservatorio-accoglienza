@@ -1,0 +1,59 @@
+{
+ "nome": "DIMORA CASTELLO DEI CONTI DI CAMPRA SONIA",
+ "cf": "03418020040",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CUNEO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6387906AC8",
+   "data": "2016-02-05",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ADESIONE ACCORDO QUADRO GARA DEL 27 APRILE 2015",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "DIMORA CASTELLO DEI CONTI DI CAMPRA SONIA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 202356.0,
+   "aggiudicato": 202356.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6234155B71",
+   "data": "2015-05-11",
+   "oggetto": "ACCORDO QUADRO PER SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "DIMORA CASTELLO DEI CONTI DI CAMPRA SONIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 19250000.0,
+   "aggiudicato": 19250000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CUNEO"
+  }
+ ]
+}

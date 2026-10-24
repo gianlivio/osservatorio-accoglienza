@@ -1,0 +1,38 @@
+{
+ "nome": "SALAM ONG",
+ "cf": "90195320735",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TARANTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6937133F3C",
+   "data": "2017-01-05",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO GESTORE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE, TUTELA RIVOLTI AI RICHIEDENTI ASILO, RIFUGIATI E TITOLARI DI PERMESSO UMANITARIO NELL'AMBITO DEL PRO",
+   "amministrazione": "CENTRALE UNICA APPALTANTE DELLA VALLE D'ITRIA",
+   "ente": "SALAM ONG",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2118826.5,
+   "aggiudicato": 2118826.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "ANGELO PESCARINI SCUOLA ARTI E MESTIERI SCARL",
+ "cf": "01306830397",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7337813AD6",
+   "data": "2018-01-01",
+   "oggetto": "CONTRATTO SPECIFICO NELL'AMBITO DELL'ACCORDO QUADRO SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI -RTI 01/01/2018-28/02/2018",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "ANGELO PESCARINI SCUOLA ARTI E MESTIERI SCARL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55197.45,
+   "aggiudicato": 55197.45,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "69723537B5",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 2.4 S.P. IN VINCOLI PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGL",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "ANGELO PESCARINI SCUOLA ARTI E MESTIERI SCARL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136715.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

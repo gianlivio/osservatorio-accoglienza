@@ -1,0 +1,59 @@
+{
+ "nome": "IMPRESA RESIDENZA PER ANZIANI BELLAVISTA",
+ "cf": "00401860945",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7422077BB0",
+   "data": "2018-05-17",
+   "oggetto": "GESTIONE ORIZZONTI S.R.L. - MONTERODUNI - CONVENZIONE DEL SERVIZIO DI ACCOGLIENZA NEL TERRITORIO DELLA PROVINCIA DI ISERNIA A FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE I",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "IMPRESA RESIDENZA PER ANZIANI BELLAVISTA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1600447.5,
+   "aggiudicato": 1600447.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "7121383F25",
+   "data": "2017-06-30",
+   "oggetto": "PROCEDURA APERTA, AI SENSI DELL'ART. 60 DEL D. LGS. N. 50/2016, PER LA CONCLUSIONE DI ACCORDO QUADRO, EX ART. 54 DEL D. LGS. N. 50/2016, CON UNO O PIU' OPERATORI ECONOMICI, PER L'A",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "IMPRESA RESIDENZA PER ANZIANI BELLAVISTA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 50138600.93,
+   "aggiudicato": 50138600.93,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

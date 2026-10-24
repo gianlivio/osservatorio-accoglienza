@@ -1,0 +1,38 @@
+{
+ "nome": "LA SFINGE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "00772780706",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6989453713",
+   "data": "2017-02-21",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA COPROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTEMA DI PROTEZIONE P",
+   "amministrazione": "COMUNE DI RICCIA",
+   "ente": "LA SFINGE SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 584000.0,
+   "aggiudicato": 486759.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

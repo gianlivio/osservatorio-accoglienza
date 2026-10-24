@@ -1,0 +1,133 @@
+{
+ "nome": "ASSOCIAZIONE PROVINCIALE PER I MINORI - ONLUS",
+ "cf": "80013110228",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B521F38A54",
+   "data": "2025-01-10",
+   "oggetto": "SERVIZIO SOCIO ASSISTENZIALE TRAMITE LA FIGURA DI UN'ASSISTENTE SOCIALE PER LA PRESA IN CARICO E GESTIONE DEI MINORI STRANIERI NON ACCOMPAGNATI DAL 01.01.2025 AL 31.12.2025",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ASSOCIAZIONE PROVINCIALE PER I MINORI - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31700.0,
+   "aggiudicato": 31700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B51DD41ABC",
+   "data": "2025-01-09",
+   "oggetto": "INTERVENTO DOMICILIARE EDUCATIVO (IDE) A FAVORE DEL NUCLEO FAMILIARE UCRAINO B. INSERITO NEL PROGETTO DI ACCOGLIENZA STRAORDINARIA DEI RICHIEDENTI PROTEZIONE TEMPORANEA ED INTERNAZ",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ASSOCIAZIONE PROVINCIALE PER I MINORI - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5286.22,
+   "aggiudicato": 5286.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7320240525",
+   "data": "2017-12-15",
+   "oggetto": "CONVENZIONE CON ASSOCIAZIONE PROVINCIALE PER I MINORI ONLUS- APPM ONLUS PER LA GESTIONE DI N. 10 POSTI PROGETTO SPRAR MSNA 2017-2019 DAL 01.01.2018-31.07.2018",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ASSOCIAZIONE PROVINCIALE PER I MINORI - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 181850.67,
+   "aggiudicato": 181850.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "6908224EC6",
+   "data": "2016-12-15",
+   "oggetto": "CONVENZIONE CON ASSOCIAZIONE PROVINCIALE PER I MINORI - APPM ONLUS PER L'ANNO 2017 PER LA GESTIONE DEL PROGETTO SPRAR MSNA 2017-2019",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ASSOCIAZIONE PROVINCIALE PER I MINORI - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 311744.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "6508354F9C",
+   "data": "2015-12-22",
+   "oggetto": "CONVENZIONE CON APPM PER L'ANNO 2016 PER IL PROGETTO SPRAR MINORI 2016",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ASSOCIAZIONE PROVINCIALE PER I MINORI - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 311744.0,
+   "aggiudicato": 311744.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "6072920C1C",
+   "data": "2015-04-03",
+   "oggetto": "CONVENZIONE CON APPM PER IL PROGETTO SPRAR MINORI 2015",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "ASSOCIAZIONE PROVINCIALE PER I MINORI - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 311744.0,
+   "aggiudicato": 311744.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

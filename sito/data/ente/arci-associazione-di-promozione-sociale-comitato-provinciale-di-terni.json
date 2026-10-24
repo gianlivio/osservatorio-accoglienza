@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI ASSOCIAZIONE DI PROMOZIONE SOCIALE COMITATO PROVINCIALE DI TERNI",
+ "cf": "91019000552",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6960396C79",
+   "data": "2017-02-03",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE E UMAN",
+   "amministrazione": "COMUNE DI SPOLETO",
+   "ente": "ARCI ASSOCIAZIONE DI PROMOZIONE SOCIALE COMITATO PROVINCIALE DI TERNI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1238301.37,
+   "aggiudicato": 1238301.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

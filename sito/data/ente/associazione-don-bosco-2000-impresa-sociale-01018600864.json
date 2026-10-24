@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE DON BOSCO 2000 - IMPRESA SOCIALE",
+ "cf": "01018600864",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A02FFAF408",
+   "data": "2023-12-29",
+   "oggetto": "PROSECUZIONE DEL PROGETTO SAI PER IL BIENNIO 2024/2025 TIPOLOGIA ORDINARI (PROG-712-PR-3), D.M. 13/10/2022 PROT. 37847. INDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEL SERVIZIO DI ACCOGL",
+   "amministrazione": "COMUNE DI PIAZZA ARMERINA",
+   "ente": "ASSOCIAZIONE DON BOSCO 2000 - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1424114.0,
+   "aggiudicato": 1424114.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  }
+ ]
+}

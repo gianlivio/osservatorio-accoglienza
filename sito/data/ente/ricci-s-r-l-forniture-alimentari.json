@@ -1,0 +1,38 @@
+{
+ "nome": "RICCI S.R.L. FORNITURE ALIMENTARI",
+ "cf": "02182570396",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "851138269E",
+   "data": "2020-11-12",
+   "oggetto": "GARA PER L'AFFIDAMENTO DELLA FORNITURA DI DERRATE ALIMENTARI PER I CENTRI SIPROIMI PER MSNA DI MONTESILVANO (PE)",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "RICCI S.R.L. FORNITURE ALIMENTARI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 200000.0,
+   "aggiudicato": 200000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

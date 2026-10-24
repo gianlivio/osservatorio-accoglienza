@@ -1,0 +1,38 @@
+{
+ "nome": "STUDIO PROTECNO SRL",
+ "cf": "01281580231",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B918D784A8",
+   "data": "2025-11-14",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETT. B) D. LGS. 36/2023 PER I SERVIZI SAI PER LA REDAZIONE DEL PFTE E DEL PROGETTO ESECUTIVO, D.L., CSE RELATIVI ALL'INTERVENTO",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "STUDIO PROTECNO SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74248.78,
+   "aggiudicato": 74248.78,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

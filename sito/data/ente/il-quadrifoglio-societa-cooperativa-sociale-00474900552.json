@@ -1,0 +1,38 @@
+{
+ "nome": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00474900552",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "98754528CA",
+   "data": "2023-07-05",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA CO-PROGETTAZIONE E LA GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'INTEGRAZIONE A FAV",
+   "amministrazione": "COMUNE DI ORVIETO",
+   "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1360297.88,
+   "aggiudicato": 1360297.88,
+   "durata_gg": 1033.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

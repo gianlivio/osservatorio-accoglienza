@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETA' COOPERATIVA LA CASA DI ROMEO COOPERATIVA SOCIALEA RESPON SABILITA' LIMIT",
+ "cf": "10410251218",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6F5416578",
+   "data": "2025-06-05",
+   "oggetto": "SERVIZIO ACCOGLIENZA DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO 21.05.2025 - 11.06.2026",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "SOCIETA' COOPERATIVA LA CASA DI ROMEO COOPERATIVA SOCIALEA RESPON SABILITA' LIMIT",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46440.0,
+   "aggiudicato": 46440.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

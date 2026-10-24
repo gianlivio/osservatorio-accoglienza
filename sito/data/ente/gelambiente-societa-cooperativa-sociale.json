@@ -1,0 +1,38 @@
+{
+ "nome": "GELAMBIENTE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01467280853",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CALTANISSETTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6254886F33",
+   "data": "2015-05-26",
+   "oggetto": "PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN SOGGETTO PARTNER E GESTORE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI R.A.R.U. (RICHIEDENTI",
+   "amministrazione": "LIBERO CONSORZIO COMUNALE DI CALTANISSETTA GIA' PROVINCIA REGIONALE DI CALTANISSETTA",
+   "ente": "GELAMBIENTE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 615000.0,
+   "aggiudicato": 541159.83,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  }
+ ]
+}

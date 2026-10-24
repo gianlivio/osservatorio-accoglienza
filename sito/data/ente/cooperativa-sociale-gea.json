@@ -1,0 +1,217 @@
+{
+ "nome": "COOPERATIVA SOCIALE GEA",
+ "cf": "02681690273",
+ "affidamenti": 11,
+ "diretti": 7,
+ "quota_diretti": 63.6,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7358081088",
+   "data": "2018-01-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE -PROROGA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 96255.0,
+   "aggiudicato": 96255.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "7345462300",
+   "data": "2018-01-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 15 POSTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40500.0,
+   "aggiudicato": 40500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "7156494DA9",
+   "data": "2017-07-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 9 OSPITI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41310.0,
+   "aggiudicato": 41310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "7009356F8A",
+   "data": "2017-03-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 56640.33,
+   "aggiudicato": 56640.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "69283753EB",
+   "data": "2016-12-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 27 OSPITI",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 54783.27,
+   "aggiudicato": 57783.27,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "67455625DB",
+   "data": "2016-07-21",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VENEZIA",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 220000.0,
+   "aggiudicato": 219584.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6697971C83",
+   "data": "2016-05-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GEA - PERIODO 15/4 - 31/12/16 - 7 POSTI",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61204.5,
+   "aggiudicato": 61204.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6536906979",
+   "data": "2015-12-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GEA SOC.COOP.SOC. - VE-MESTRE - PROROGA DAL 01/01 AL 14/03/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 143512.64,
+   "aggiudicato": 143512.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6243347CEB",
+   "data": "2015-05-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DAL 01.06.2015 AL 31.12.15 - ULSS 9",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2297920.0,
+   "aggiudicato": 1290436.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "6163041E4F",
+   "data": "2015-03-06",
+   "oggetto": "SERVIZIO ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - TERRITORIO DI COMPETENZA ULSS 12 VENEZIANA",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2358125.0,
+   "aggiudicato": 523345.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6114172658",
+   "data": "2015-02-02",
+   "oggetto": "ACCOGLIENZA STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 01/02/2015 - 31/03/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "COOPERATIVA SOCIALE GEA",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 45946.25,
+   "aggiudicato": 45946.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

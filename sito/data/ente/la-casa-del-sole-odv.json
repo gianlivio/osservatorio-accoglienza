@@ -1,0 +1,79 @@
+{
+ "nome": "LA CASA DEL SOLE ODV",
+ "cf": "91139210594",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5AB55D1B3",
+   "data": "2025-02-18",
+   "oggetto": "INSERIMENTO MSNA STRUTTURA",
+   "amministrazione": "COMUNE DI CORI",
+   "ente": "LA CASA DEL SOLE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18100.0,
+   "aggiudicato": 18100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B54510BC1F",
+   "data": "2025-01-21",
+   "oggetto": "SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "LA CASA DEL SOLE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 443996.4,
+   "aggiudicato": 443996.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B0E8A88FB4",
+   "data": "2024-03-20",
+   "oggetto": "INSERIMENTO MSNA STRUTTURA",
+   "amministrazione": "COMUNE DI CORI",
+   "ente": "LA CASA DEL SOLE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18200.0,
+   "aggiudicato": 18200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

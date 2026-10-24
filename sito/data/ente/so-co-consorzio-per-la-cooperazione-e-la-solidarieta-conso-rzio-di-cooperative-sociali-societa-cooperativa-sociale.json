@@ -1,0 +1,232 @@
+{
+ "nome": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01748240460",
+ "affidamenti": 12,
+ "diretti": 9,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 7,
+   "diretti": 6,
+   "quota_diretti": 85.7
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "94665815C5",
+   "data": "2022-10-25",
+   "oggetto": "SERVIZI INNOVATIVI PER LA GESTIONE DEL PROGETTO SAI/SIPROIMI MSNA - SISTEMA DI ACCOGLIENZA E INTEGRAZIONE PER MINORI STRANIERI NON ACCOMPAGNATI - AFFIDAMENTO DIRETTO PROSECUZIONE P",
+   "amministrazione": "COMUNE DI LUCCA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 93991.81,
+   "aggiudicato": 93991.81,
+   "durata_gg": 92.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "9462241849",
+   "data": "2022-10-25",
+   "oggetto": "SERVIZI INNOVATIVI PER LA GESTIONE DEL PROGETTO SAI/SIPROIMI MSNA - SISTEMA DI ACCOGLIENZA E INTEGRAZIONE PER MINORI STRANIERI NON ACCOMPAGNATI - AFFIDAMENTO DIRETTO PROSECUZIONE P",
+   "amministrazione": "COMUNE DI LUCCA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 93991.81,
+   "aggiudicato": 93991.81,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "93963923FA",
+   "data": "2022-10-04",
+   "oggetto": "SERVIZI INNOVATIVI PER LA GESTIONE DEL PROGETTO SAI/SIPROIMI MSNA - SISTEMA DI ACCOGLIENZA E INTEGRAZION PER MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI LUCCA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125663.0,
+   "aggiudicato": 125663.0,
+   "durata_gg": 123.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "9387751931",
+   "data": "2022-09-05",
+   "oggetto": "SERVIZI INNOVATIVI PER LA GESTIONE DEL PROGETTO SAI/SIPROIMI MSNA-SISTEMA DI ACCOGLIENZA E INTEGRAZIONE PER MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI LUCCA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125663.0,
+   "aggiudicato": 125663.0,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "837449323F",
+   "data": "2020-06-30",
+   "oggetto": "SERVIZI INNOVATIVI PER LA GESTIONE DEL PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E MINORI STRANIERI NON ACCOMPAGNATI (MSNA): INDIVIDUAZIONE",
+   "amministrazione": "COMUNE DI LUCCA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO RISERVATO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 562844.04,
+   "aggiudicato": 556114.49,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "6934650E33",
+   "data": "2016-12-01",
+   "oggetto": "INTEGRAZIONE AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI 2016 - LA PIETRA D'ANGOLO",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61492.0,
+   "aggiudicato": 61492.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6862401872",
+   "data": "2016-12-01",
+   "oggetto": "POSTI AGGIUNTIVI AL PROGETTO DI ACCOGLIENZA,TUTELA ED INTEGRAZIONE DI MINORI STRANIERI NON ACCOMPAGNATI RICHIEDENTI ASILO E NON, NELL'AMBITO DELLA RETE SPRAR PER L'ANNO 2016",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 107505.0,
+   "aggiudicato": 107505.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "6934592E56",
+   "data": "2016-11-01",
+   "oggetto": "INTEGRAZIONE AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI 2016 - GESTIONI IMMOBILI",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 128100.0,
+   "aggiudicato": 128100.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "68298087DA",
+   "data": "2016-09-13",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI DAL 13.09.2016 AL 31.12.2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69346.2,
+   "aggiudicato": 69346.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "67955991B3",
+   "data": "2016-08-08",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI DAL 6/09/2016 AL 31/12/2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135872.1,
+   "aggiudicato": 135872.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "6789547F6A",
+   "data": "2016-07-26",
+   "oggetto": "ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 84489.6,
+   "aggiudicato": 84489.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  },
+  {
+   "cig": "6548779F60",
+   "data": "2016-01-19",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA STRANIERI RICHIEDENTI ASILO - I GARA 2016",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "SO. & CO. (CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA') CONSO RZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5748750.0,
+   "aggiudicato": 33.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "ISTITUTO SUORE DELLA CARITÀ SOTTO LA PROTEZIONE DI SAN VINCENZO DE PAOLI",
+ "cf": "01066191006",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7465002A85",
+   "data": "2018-05-24",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI POLISTENA",
+   "ente": "ISTITUTO SUORE DELLA CARITÀ SOTTO LA PROTEZIONE DI SAN VINCENZO DE PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49995.0,
+   "aggiudicato": 49995.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "6971326833",
+   "data": "2016-09-20",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI POLISTENA",
+   "ente": "ISTITUTO SUORE DELLA CARITÀ SOTTO LA PROTEZIONE DI SAN VINCENZO DE PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 70650.0,
+   "aggiudicato": 70650.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

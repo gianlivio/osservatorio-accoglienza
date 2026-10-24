@@ -1,0 +1,33 @@
+{
+ "nome": "SHALOM - COOPERATIVA SOCIALE",
+ "cf": "04777980725",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "893676756D",
+   "data": "2021-10-18",
+   "oggetto": "AFFIDAMENTO DELL'ACCORDO QUADRO RELATIVO AL SERVIZIO DI PORTA UNICA DI ACCESSO (PUA) ART. 3 DEL R.R. 4/2007, SEGRETARIATO SOCIALE (SS) ART. 83 DEL R.R. 4/2007 E SPORTELLO PER L'INT",
+   "amministrazione": "COMUNE DI TRANI",
+   "ente": "SHALOM - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1015388.4,
+   "aggiudicato": 779818.29,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "nome": "XENIA OSPITALITA'",
+ "cf": "92084910535",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 5,
+   "diretti": 3,
+   "quota_diretti": 60.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73134387F4",
+   "data": "2017-12-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICH. PROT, INTERNAZ. - IL DONO LOTTO 2",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "XENIA OSPITALITA'",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 102170.8,
+   "aggiudicato": 102170.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7313110947",
+   "data": "2017-11-29",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E DI ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "XENIA OSPITALITA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4215874.1,
+   "aggiudicato": 2851840.265,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7075023DAA",
+   "data": "2017-05-11",
+   "oggetto": "SERV. ACCOGLIENZA CITTADINI STRANIERI RICH. PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "XENIA OSPITALITA'",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 217140.0,
+   "aggiudicato": 217140.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "70038163CD",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - XENIA OSPITALITÀ",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "XENIA OSPITALITA'",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 306000.0,
+   "aggiudicato": 306000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "7001147944",
+   "data": "2017-03-03",
+   "oggetto": "ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "XENIA OSPITALITA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 34619410.5,
+   "aggiudicato": 34619410.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "ARCA DI NOE' SOC. COOP. SOCIALE DI SERVIZI A RESP. LIMITATA",
+ "cf": "04989391000",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1B367DF33",
+   "data": "2024-05-17",
+   "oggetto": "INSERIMENTO MINORE IN CASA FAMIGLIA PER NR. 8 MESI",
+   "amministrazione": "COMUNE DI VALMONTONE",
+   "ente": "ARCA DI NOE' SOC. COOP. SOCIALE DI SERVIZI A RESP. LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31429.2,
+   "aggiudicato": 31429.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B1ABDBD9D1",
+   "data": "2024-05-15",
+   "oggetto": "OSPITALITA' IN STRUTTURA DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI VALMONTONE",
+   "ente": "ARCA DI NOE' SOC. COOP. SOCIALE DI SERVIZI A RESP. LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23238.56,
+   "aggiudicato": 23238.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

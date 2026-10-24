@@ -1,0 +1,59 @@
+{
+ "nome": "IDEALCOOP - SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+ "cf": "00966230500",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B85E8FC1D7",
+   "data": "2025-09-24",
+   "oggetto": "SERVIZIO GESTIONE CENTRI DI ACCOGLIENZA PER MIGRANTI IN SINGOLE UNITA. ABITATIVE - IDEALCOOP 2025-2027",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "IDEALCOOP - SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1479728.25,
+   "aggiudicato": 1479728.25,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  },
+  {
+   "cig": "91550699EE",
+   "data": "2022-03-11",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI UCRAINI IDEALCOOP",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "IDEALCOOP - SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138999.0,
+   "aggiudicato": 138999.0,
+   "durata_gg": 160.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

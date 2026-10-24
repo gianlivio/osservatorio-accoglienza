@@ -1,0 +1,38 @@
+{
+ "nome": "ALLE SORGENTI PROGETTO A - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03061990929",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SUD SARDEGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5648F64C6",
+   "data": "2025-01-31",
+   "oggetto": "AFFIDAMENTO GESTIONE PROGETTO SAI MESE DI FEBBRAIO 2025",
+   "amministrazione": "COMUNE DI SAN GAVINO MONREALE",
+   "ente": "ALLE SORGENTI PROGETTO A - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25417.35,
+   "aggiudicato": 25417.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  }
+ ]
+}

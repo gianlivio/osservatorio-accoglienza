@@ -1,0 +1,38 @@
+{
+ "nome": "PROGREDI S.R.L.",
+ "cf": "03863760785",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9893314CF9",
+   "data": "2023-06-19",
+   "oggetto": "AFFFIDAMENTO DEI LAVORI DI: 'RISTRUTTURAZIONE E RIQUALIFICAZIONE DELL'EX SCUOLA ELEMENTARE DA DESTINARE A CENTRO DI CONSULENZA E SERVIZI CULTURALI E SPORTIVI NONCHÉ PER ACCOGLIENZA",
+   "amministrazione": "COMUNE DI SAN DONATO NINEA",
+   "ente": "PROGREDI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 220000.0,
+   "aggiudicato": 212850.0,
+   "durata_gg": 120.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

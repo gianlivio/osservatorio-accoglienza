@@ -1,0 +1,163 @@
+{
+ "nome": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+ "cf": "95068820638",
+ "affidamenti": 8,
+ "diretti": 5,
+ "quota_diretti": 62.5,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 7,
+   "diretti": 5,
+   "quota_diretti": 71.4
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C133561A",
+   "data": "2025-12-23",
+   "oggetto": "PROGETTO SAI PROG-2059 - PROSECUZIONE E AMPLIAMENTO",
+   "amministrazione": "COMUNE DI SIRIGNANO",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 113502.0,
+   "aggiudicato": 113502.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B99127A5BB",
+   "data": "2025-12-15",
+   "oggetto": "PROGETTO SAI",
+   "amministrazione": "COMUNE DI CASTELLO DI CISTERNA",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 136850.0,
+   "aggiudicato": 136850.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B8D2619E9D",
+   "data": "2025-10-28",
+   "oggetto": "PROGETTO SAI",
+   "amministrazione": "COMUNE DI CASTELLO DI CISTERNA",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 77112.55,
+   "aggiudicato": 77112.55,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B822F36DAB",
+   "data": "2025-09-05",
+   "oggetto": "PROGETTO SAI",
+   "amministrazione": "COMUNE DI CASTELLO DI CISTERNA",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137394.94,
+   "aggiudicato": 137394.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B7A2F6979E",
+   "data": "2025-07-15",
+   "oggetto": "PROGETTO SAI",
+   "amministrazione": "COMUNE DI CASTELLO DI CISTERNA",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 84393.74,
+   "aggiudicato": 84393.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B648A38B3F",
+   "data": "2025-04-01",
+   "oggetto": "PROGETTO SAI",
+   "amministrazione": "COMUNE DI CASTELLO DI CISTERNA",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 126590.61,
+   "aggiudicato": 126590.61,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B5356F1833",
+   "data": "2025-01-17",
+   "oggetto": "PROROGA PROGETTO SAI",
+   "amministrazione": "COMUNE DI CASTELLO DI CISTERNA",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 126590.61,
+   "aggiudicato": 126590.61,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "97961262E9",
+   "data": "2022-04-08",
+   "oggetto": "ACCOGLIENZA NELL'AMBITO DELLA RETE SAI",
+   "amministrazione": "COMUNE DI MAGLIANO VETERE",
+   "ente": "ARCIPELAGO DELLA SOLIDARIETA' ODV",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": 220.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

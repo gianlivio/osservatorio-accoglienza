@@ -1,0 +1,111 @@
+{
+ "nome": "IL CENACOLO DEGLI ANGELI SOCIETA' COOPERATIVA  SOCIALE - ENTE DEL TERZO SETTORE",
+ "cf": "91066960682",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "TERNI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B878C2DF50",
+   "data": "2025-10-03",
+   "oggetto": "AFFIDAMENTO PER ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI ANNO 2025 - MINORI J.A. E J.A. DAL 30/08/2025",
+   "amministrazione": "COMUNE DI PIZZOLI",
+   "ente": "IL CENACOLO DEGLI ANGELI SOCIETA' COOPERATIVA  SOCIALE - ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33800.0,
+   "aggiudicato": 33800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "B765376F8C",
+   "data": "2025-06-25",
+   "oggetto": "AFFIDAMENTO PER ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI ANNO 2025 - MINORE X.B. DAL 23/05/2025",
+   "amministrazione": "COMUNE DI PIZZOLI",
+   "ente": "IL CENACOLO DEGLI ANGELI SOCIETA' COOPERATIVA  SOCIALE - ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22300.0,
+   "aggiudicato": 22300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "B55CEAFCB6",
+   "data": "2025-01-28",
+   "oggetto": "AFFIDAMENTO PER ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI ANNO 2025 - MINORI D.L. E G.D.",
+   "amministrazione": "COMUNE DI PIZZOLI",
+   "ente": "IL CENACOLO DEGLI ANGELI SOCIETA' COOPERATIVA  SOCIALE - ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73000.0,
+   "aggiudicato": 73000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "B0D2202C4A",
+   "data": "2024-03-14",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "IL CENACOLO DEGLI ANGELI SOCIETA' COOPERATIVA  SOCIALE - ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29280.0,
+   "aggiudicato": 29280.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B02CE1DCBA",
+   "data": "2024-01-30",
+   "oggetto": "AFFIDAMENTO PER ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI ANNO 2024 - MINORE D.L.",
+   "amministrazione": "COMUNE DI PIZZOLI",
+   "ente": "IL CENACOLO DEGLI ANGELI SOCIETA' COOPERATIVA  SOCIALE - ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29280.0,
+   "aggiudicato": 29280.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

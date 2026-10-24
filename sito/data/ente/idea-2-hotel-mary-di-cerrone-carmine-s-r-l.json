@@ -1,0 +1,54 @@
+{
+ "nome": "IDEA 2 HOTEL MARY DI CERRONE CARMINE S.R.L.",
+ "cf": "03551280658",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9BC10EAC4",
+   "data": "2025-12-19",
+   "oggetto": "ACCORDO QUADRO GARA N. 4402859 - CIG B2267C6936 SERVIZIO DI ACCOGLIENZA IN FAVORE DI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI DI ACCOGLIENZA CON CAPACITÀ RICETTIV",
+   "amministrazione": "PREFETTURA",
+   "ente": "IDEA 2 HOTEL MARY DI CERRONE CARMINE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41.95,
+   "aggiudicato": 41.95,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B8CCF937DD",
+   "data": "2025-10-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE EX ART. 11 D. LGS. 142/2015 IN CENTRI COLLETTIVI DA 51 A 100 POSTI, GARA ASP N. 44",
+   "amministrazione": "PREFETTURA",
+   "ente": "IDEA 2 HOTEL MARY DI CERRONE CARMINE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10276370.04,
+   "aggiudicato": 10276370.04,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

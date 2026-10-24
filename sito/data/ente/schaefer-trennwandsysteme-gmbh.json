@@ -1,0 +1,38 @@
+{
+ "nome": "SCHAEFER TRENNWANDSYSTEME GMBH",
+ "cf": "03159520216",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7F17A9855",
+   "data": "2025-08-11",
+   "oggetto": "06.04_008.234_IS_VB - CENTRO PROFUGHI GENERALMARKET - BOLZANO - VIA PIETRO GOBETTI 8 10 - INSTALLAZIONE E MONTAGGIO DI SISTEMI DI PARETI DIVISORIE",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "SCHAEFER TRENNWANDSYSTEME GMBH",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25678.28,
+   "aggiudicato": 25678.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

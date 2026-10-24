@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE CASA FAMIGLIA S.OMOBONO ONLUS",
+ "cf": "93034510193",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "83022197D9",
+   "data": "2020-05-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI EXTRA GARA DAL 1^.4.2020 AL 31.3.2021. S. OMOBONO.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "FONDAZIONE CASA FAMIGLIA S.OMOBONO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28822.5,
+   "aggiudicato": 28822.5,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

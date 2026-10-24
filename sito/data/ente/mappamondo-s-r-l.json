@@ -1,0 +1,143 @@
+{
+ "nome": "MAPPAMONDO S.R.L.",
+ "cf": "02390290464",
+ "affidamenti": 7,
+ "diretti": 1,
+ "quota_diretti": 14.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7156901D87",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "MAPPAMONDO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 53534.7,
+   "aggiudicato": 53534.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "71568871FD",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "MAPPAMONDO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 176664.51,
+   "aggiudicato": 176664.51,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "71566942B8",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "MAPPAMONDO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 64241.64,
+   "aggiudicato": 64241.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "702977737F",
+   "data": "2017-03-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "MAPPAMONDO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 176664.51,
+   "aggiudicato": 140869.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "6843254FD5",
+   "data": "2016-10-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1 NOVEMBRE 2016 - 31 MARZO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "MAPPAMONDO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 174355.17,
+   "aggiudicato": 174355.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "6800380B18",
+   "data": "2016-07-28",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI AGOSTO SETTEMBRE 2016 MAPPAMONDO",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "MAPPAMONDO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 72803.5,
+   "aggiudicato": 72803.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6694322944",
+   "data": "2016-05-09",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 17 MAGGIO - 30 GIUGNO 2016 - SOCIETÀ MAPPAMONDO SRL",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "MAPPAMONDO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 40950.0,
+   "aggiudicato": 40950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

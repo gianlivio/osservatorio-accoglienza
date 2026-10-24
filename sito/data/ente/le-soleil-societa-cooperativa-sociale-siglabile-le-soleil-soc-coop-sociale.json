@@ -1,0 +1,194 @@
+{
+ "nome": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+ "cf": "01069810073",
+ "affidamenti": 9,
+ "diretti": 5,
+ "quota_diretti": 55.6,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "ALESSANDRIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B60DFE1391",
+   "data": "2025-03-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1067880.5,
+   "aggiudicato": 1067880.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "B2555E1AE7",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAPACITA' RECETTIVA MASSIMA DI 50 POSTI ",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3809500.73,
+   "aggiudicato": 3809500.73,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B252BE0142",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA STRUTTURE ABITATIVE SITI NEL TERRITORIO M",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 705550.08,
+   "aggiudicato": 705550.08,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "A008D1A1A4",
+   "data": "2023-09-05",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI PRESSO STRUTTURE A RETE - BIENNIO 2021-2023",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 953155.5,
+   "aggiudicato": 953155.5,
+   "durata_gg": 305.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "9879638730",
+   "data": "2023-06-01",
+   "oggetto": "CONVENZIONE SERVIZI DI ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI PRESSO STRUTTURE A RETE - ANNUALITÀ 2023-2024 - 1",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 506437.5,
+   "aggiudicato": 506437.5,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8854527AD3",
+   "data": "2021-08-30",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA CITTADINI STRANIERI C",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 12461340.0,
+   "aggiudicato": 5580031.92,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "870076633E",
+   "data": "2021-04-12",
+   "oggetto": "GESTIONE ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHIEDENTI ASILO IN STRUTTURE COLLETTIVE FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 37384020.0,
+   "aggiudicato": 446663.1,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "8700527E00",
+   "data": "2021-04-12",
+   "oggetto": "GESTIONE ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHIEDENTI ASILO IN UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 64202166.0,
+   "aggiudicato": 1471701.9,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7235848AA8",
+   "data": "2017-10-11",
+   "oggetto": "GESIONE CENTRO DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "LE SOLEIL SOCIETA' COOPERATIVA SOCIALE SIGLABILE LE SOLEIL SOC. COOP. SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 212160.0,
+   "aggiudicato": 212160.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

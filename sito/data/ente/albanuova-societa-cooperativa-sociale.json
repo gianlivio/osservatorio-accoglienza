@@ -1,0 +1,75 @@
+{
+ "nome": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04383750231",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B53B225B93",
+   "data": "2025-01-20",
+   "oggetto": "PROCEDURA APERTA PER STIPULAZIONE ACCORDO QUADRO SERVIZIO ACCOGLIENZA N. 900 MIGRANTI IN SINGOLE UNITA' ABITATIVE CON CAPIENZA MASSIMA DI 50 POSTI",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "ND P1_20",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 95154280.2,
+   "aggiudicato": 3982614.225,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "B53A333644",
+   "data": "2025-01-20",
+   "oggetto": "PROCEDURA APERTA PER STIPULAZIONE ACCORDO QUADRO SERVIZIO ACCOGLIENZA N. 650 MIGRANTI IN CENTRI COLLETTIVI DI ACCOGLIENZA CON CAPIENZA MASSIMA DI 50 POSTI",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 73547346.6,
+   "aggiudicato": 3586108.32,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "7003771EA7",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "ALBANUOVA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1143324.0,
+   "aggiudicato": 1143324.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

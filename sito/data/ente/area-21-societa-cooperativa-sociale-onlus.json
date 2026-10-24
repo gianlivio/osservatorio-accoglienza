@@ -1,0 +1,75 @@
+{
+ "nome": "AREA 21 - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03769220165",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B574F8612D",
+   "data": "2025-02-04",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "AREA 21 - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23045.4,
+   "aggiudicato": 23045.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B293194E25",
+   "data": "2024-07-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "AREA 21 - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 57757.5,
+   "aggiudicato": 57757.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B28493B0E3",
+   "data": "2024-07-19",
+   "oggetto": "ACCOGLIENZA STRANIERI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "AREA 21 - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69837.5,
+   "aggiudicato": 69837.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

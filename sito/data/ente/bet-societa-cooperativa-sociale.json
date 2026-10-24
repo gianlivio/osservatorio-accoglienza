@@ -1,0 +1,38 @@
+{
+ "nome": "BET SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "90048320445",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B295BC0B4A",
+   "data": "2024-07-26",
+   "oggetto": "SERVIZI ACCOGLIENZA MINORI, MSNA, MADRI CON FIGLI MINORI, VITTIME DELLA VIOLENZA DI GENERE PRESSO LE STRUTTURE RESIDENZIALI - ANNO 2024",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "BET SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8904.0,
+   "aggiudicato": 8904.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

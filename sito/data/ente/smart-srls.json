@@ -1,0 +1,38 @@
+{
+ "nome": "SMART SRLS",
+ "cf": "13579050967",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B77F8C9F9C",
+   "data": "2025-07-03",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO PULIZIA GENERALE DI TUTTA LA STRUTTURA CASA CANTONIERA DI CASTELNUOVO BOCCA D'ADDA PROGETTO SAI 1181-PR2 A FAVORE DELLA SMART SRLS - PERIODO LUGLIO",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "SMART SRLS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10000.0,
+   "aggiudicato": 10000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "nome": "COMITATO TERRITORIALE ARCI L'AQUILA",
+ "cf": "01948440662",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "853857924C",
+   "data": "2020-12-11",
+   "oggetto": "BANDO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA PROSECUZIONE DEL PROGETTO SPRAR - DM DEL 01/10/2020",
+   "amministrazione": "COMUNE DI PIZZOLI",
+   "ente": "COMITATO TERRITORIALE ARCI L'AQUILA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 442623.0,
+   "aggiudicato": 442623.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "64803802C0",
+   "data": "2015-11-19",
+   "oggetto": "BANDO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER LA COPROGETTAZIONE, L'ORGANIZZAZIONE E LA GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA NEI CONFRONTI DI RI",
+   "amministrazione": "COMUNE DI PIZZOLI",
+   "ente": "COMITATO TERRITORIALE ARCI L'AQUILA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 400000.0,
+   "aggiudicato": 316847.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "6274939379",
+   "data": "2015-05-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLA PROVINCIA DELL'AQUILA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COMITATO TERRITORIALE ARCI L'AQUILA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 102720.0,
+   "aggiudicato": 102720.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "6147919F3D",
+   "data": "2015-02-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLA PROVINCIA DELL'AQUILA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COMITATO TERRITORIALE ARCI L'AQUILA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 668850.0,
+   "aggiudicato": 35.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

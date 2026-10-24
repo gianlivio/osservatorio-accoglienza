@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE CULTURALE ZERO IN CONDOTTA",
+ "cf": "06390291000",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71241434C8",
+   "data": "2017-06-28",
+   "oggetto": "AFFIDAMENTO PER LA GESTIONE DI PROGETTO DI ACCOGLIENZA SPRAR AD ASSOC. ZERO IN CONDOTTA DA 1 LUGLIO A 30 SETTEMBRE 2017",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE CULTURALE ZERO IN CONDOTTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55200.0,
+   "aggiudicato": 55200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6308183D47",
+   "data": "2015-06-24",
+   "oggetto": "PROSECUZIONE INCARICO SPRAR ANNO 2015. ZERO IN CONDOTTA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE CULTURALE ZERO IN CONDOTTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214120.0,
+   "aggiudicato": 214120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

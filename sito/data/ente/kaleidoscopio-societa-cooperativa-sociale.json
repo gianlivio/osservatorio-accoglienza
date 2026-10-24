@@ -1,0 +1,133 @@
+{
+ "nome": "KALEIDOSCOPIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01522650223",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "98876001A5",
+   "data": "2023-06-19",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA STRAORDINARIA NEI CONFRONTI DI 250 RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE, IN ATTUAZIONE DEL D.LGS. 142/2015, DA SVOLGERSI PRESSO LA RESIDENZA F",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "KALEIDOSCOPIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1043362.8,
+   "aggiudicato": 1043362.8,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "965080503B",
+   "data": "2023-02-15",
+   "oggetto": "AFFIDAMENTO PER IL SERVIZIO DI ACCOGLIENZA STRAORDINARIA PER I RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE DI CUI ALL'ART.11 DEL D.LGS. 142/2015, DA SVOLGERSI PRESSO LE RESI",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "KALEIDOSCOPIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 231678.0,
+   "aggiudicato": 231678.0,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7782684A00",
+   "data": "2019-01-31",
+   "oggetto": "AFFIDAMENTO A KALEIDOSCOPIO DEL SERVIZIO DI ACCOGLIENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO LA RESIDENZA FERSINA, NELLE MORE DEL PERFEZIONAMENTO DELLA PROCEDURA DI GAR",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "KALEIDOSCOPIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1220812.5,
+   "aggiudicato": 1220812.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7512685FC5",
+   "data": "2018-06-08",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA STRAORDINARIA RIVOLTO ALLE PERSONE RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO AL TRENTINO, DA SVOLGERS",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "KALEIDOSCOPIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 683310.0,
+   "aggiudicato": 683310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7372455653",
+   "data": "2018-01-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "KALEIDOSCOPIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139840.0,
+   "aggiudicato": 69616.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "71192807B4",
+   "data": "2017-07-06",
+   "oggetto": "PROROGA AFFIDAMENTO A KALEIDOSCOPIO SOCIETÀ COOPERATIVA SOCIALE DEL SERVIZIO DI PRIMA ACCOGLIENZA STRAORDIANARIA DELLE PERSONE RICHIEDENTI PROTEZIONE INTERNAZIONALE DA SVOLGERSI PR",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "KALEIDOSCOPIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 785270.0,
+   "aggiudicato": 785270.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

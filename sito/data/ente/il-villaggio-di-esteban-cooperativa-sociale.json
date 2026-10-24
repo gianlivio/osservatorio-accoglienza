@@ -1,0 +1,75 @@
+{
+ "nome": "IL VILLAGGIO DI ESTEBAN - COOPERATIVA SOCIALE",
+ "cf": "03271590659",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5C64F0726",
+   "data": "2025-02-25",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI IL VILLAGGIO DI ESTEBAN COOPERATIVA SOCIALE. IMPEGNO DI SPESA PRESU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "IL VILLAGGIO DI ESTEBAN - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18072.15,
+   "aggiudicato": 18072.15,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B2A3828DD8",
+   "data": "2024-07-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI IN STRUTTURE DI ACCOGLIENZA. RIDETERMINAZIONE DELLA SPESA DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 772 DEL 14/05/2024 IN FAVORE ",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "IL VILLAGGIO DI ESTEBAN - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25747.86,
+   "aggiudicato": 25747.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B191EA2B83",
+   "data": "2024-05-09",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI IL VILLAGGIO DI ESTEBAN COOPERATIVA SOCIALE. IMPEGNO DI SPESA PRESU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "IL VILLAGGIO DI ESTEBAN - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8520.2,
+   "aggiudicato": 8520.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

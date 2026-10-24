@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA SOCIALE CENTO FIORI A R.L.",
+ "cf": "01297440404",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2CA118AC2",
+   "data": "2024-08-19",
+   "oggetto": "REALIZZAZIONE DI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA PER TITOLARI DI PROTEZIONE INTERNAZIONALE (SIPROIMI)",
+   "amministrazione": "UNIONE DI COMUNI VALMARECCHIA",
+   "ente": "COOPERATIVA SOCIALE CENTO FIORI A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1408427.55,
+   "aggiudicato": 904856.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "768021276F",
+   "data": "2018-12-03",
+   "oggetto": "INDIVIDUAZIONE ENTE GESTORE PROGETTO TERRITORIALE SPRAR",
+   "amministrazione": "UNIONE DI COMUNI VALMARECCHIA",
+   "ente": "COOPERATIVA SOCIALE CENTO FIORI A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 746668.34,
+   "aggiudicato": 439216.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

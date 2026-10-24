@@ -1,0 +1,75 @@
+{
+ "nome": "COOPERATIVA SOCIALE PERCORSO VITA",
+ "cf": "04694740285",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B19F350DC5",
+   "data": "2024-05-13",
+   "oggetto": "ACCOGLIENZA N. 16 MSNA",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "COOPERATIVA SOCIALE PERCORSO VITA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 71805.76,
+   "aggiudicato": 71805.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "A01F4958B7",
+   "data": "2023-10-12",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "COOPERATIVA SOCIALE PERCORSO VITA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119378.25,
+   "aggiudicato": 119378.25,
+   "durata_gg": 75.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "A012A7A05A",
+   "data": "2023-09-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "COOPERATIVA SOCIALE PERCORSO VITA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 42938.65,
+   "aggiudicato": 42938.36,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

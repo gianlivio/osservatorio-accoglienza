@@ -1,0 +1,75 @@
+{
+ "nome": "PROGRAMMA INTEGRA SOCIETA' COOPERATIVA SOCIALE ARL",
+ "cf": "08605861007",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9568009ACC",
+   "data": "2022-12-27",
+   "oggetto": "PROCEDURA DI GARA APERTA TELEMATICA FINALIZZATA ALLA CONCLUSIONE DI UN ACCORDO QUADRO, AI SENSI DELL'ART. 54, COMMA 4, LETTERA A, DEL D.LGS. 50/2016, PER L'AFFIDAMENTO DEL SERVIZIO",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "PROGRAMMA INTEGRA SOCIETA' COOPERATIVA SOCIALE ARL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2222990.0,
+   "aggiudicato": 2193000.0,
+   "durata_gg": 1277.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "9428336CFD",
+   "data": "2022-10-26",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36, C. 2, LETT. A) DEL D.LGS. 50/2016, MODIFICATO DALL'ART. 51, C. 1, LETT. A), PUNTO 2.1. DEL D.L. N. 77/2021 CONVERTITO IN LEGGE N. 108/202",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "PROGRAMMA INTEGRA SOCIETA' COOPERATIVA SOCIALE ARL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 92298.18,
+   "aggiudicato": 92298.18,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "69622896A2",
+   "data": "2017-01-30",
+   "oggetto": "PROROGA TECNICA GESTIONE SERVIZIO RENDICONTAZ. PROGETTO SPRAR , DA 1 FEBBRAIO A 30 GIUGNO 2017, COOP. PROGRAMMA INTEGRA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "PROGRAMMA INTEGRA SOCIETA' COOPERATIVA SOCIALE ARL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 75510.2,
+   "aggiudicato": 75510.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

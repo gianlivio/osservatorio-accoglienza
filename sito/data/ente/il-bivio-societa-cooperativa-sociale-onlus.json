@@ -1,0 +1,147 @@
+{
+ "nome": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "07996650961",
+ "affidamenti": 7,
+ "diretti": 7,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B98B1733F1",
+   "data": "2025-12-12",
+   "oggetto": "ACCOGLIENZA DEL MINORE STRANIERO NON ACCOMPAGNATO D.M. IN STRUTTURA RESIDENZIALE PER IL PERIODO DICEMBRE 2025 – GIUGNO 2026",
+   "amministrazione": "COMUNE DI MAGENTA",
+   "ente": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21200.0,
+   "aggiudicato": 21200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B8BE7AFB23",
+   "data": "2025-10-23",
+   "oggetto": "ACCOGLIENZA DEL MINORE STRANIERO NON ACCOMPAGNATO D.M. IN STRUTTURA RESIDENZIALE PER IL PERIODO OTTOBRE – NOVEMBRE 2025",
+   "amministrazione": "COMUNE DI MAGENTA",
+   "ente": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6100.0,
+   "aggiudicato": 6100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B529343D51",
+   "data": "2025-08-22",
+   "oggetto": "SOC03_2024",
+   "amministrazione": "COMUNE DI MAGENTA",
+   "ente": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18100.0,
+   "aggiudicato": 18100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B76707F577",
+   "data": "2025-06-25",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI INSERIMENTO COMUNITÀ DI N. 1 MSNA A FAVORE DI IL BIVIO SOC. COOP. SOC.",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23000.0,
+   "aggiudicato": 23000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "B33B08106A",
+   "data": "2024-10-01",
+   "oggetto": "ACCOGLIENZA DI MSNA NEOMAGGIORENNE PRESSO ALLOGGI PER L'AUTONOMIA O LA SEMIAUTONOMIA - IL BIVIO SOC. COOP. SOC. ONLUS SETTEMBRE-DICEMBRE ANNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B09E16977A",
+   "data": "2024-02-29",
+   "oggetto": "ACCOGLIENZA DI MSNA NEOMAGGIORENNE PRESSO ALLOGGI PER L'AUTONOMIA O LA SEMIAUTONOMIA - IL BIVIO SOC. COOP. SOC. ONLUS ANNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32000.0,
+   "aggiudicato": 32000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B02D539AA4",
+   "data": "2024-01-30",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "IL BIVIO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50850.0,
+   "aggiudicato": 50850.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

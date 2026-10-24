@@ -1,0 +1,38 @@
+{
+ "nome": "CO.GES.AP. SOCIETA' COOPERATIVA DI PRODUZIONE E LAVORO",
+ "cf": "06798411218",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B56556DE0F",
+   "data": "2025-01-30",
+   "oggetto": "PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D. LGS. 36/2023 CON IL CRITERIO DELL'OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO, PER L'APPALTO",
+   "amministrazione": "COMUNE DI PIEDIMONTE MATESE",
+   "ente": "CO.GES.AP. SOCIETA' COOPERATIVA DI PRODUZIONE E LAVORO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1565000.0,
+   "aggiudicato": 1300323.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

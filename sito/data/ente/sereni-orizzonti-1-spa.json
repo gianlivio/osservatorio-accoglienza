@@ -1,0 +1,54 @@
+{
+ "nome": "SERENI ORIZZONTI 1 SPA",
+ "cf": "02833470301",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "77536713B9",
+   "data": "2019-01-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "SERENI ORIZZONTI 1 SPA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 161460.0,
+   "aggiudicato": 161460.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "7753663D1C",
+   "data": "2019-01-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "SERENI ORIZZONTI 1 SPA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 418106.4,
+   "aggiudicato": 418106.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "nome": "I VESUVIANI SOC COOP.",
+ "cf": "10419561211",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B22A14B0AD",
+   "data": "2024-06-20",
+   "oggetto": "SERVIZIO RESIDENZIALE PER MSNA",
+   "amministrazione": "COMUNE DI MIRANDOLA",
+   "ente": "I VESUVIANI SOC COOP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20400.0,
+   "aggiudicato": 20400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B225078DE8",
+   "data": "2024-06-19",
+   "oggetto": "SERVIZIO RESIDENZIALE MINORE STRANIERO",
+   "amministrazione": "COMUNE DI MIRANDOLA",
+   "ente": "I VESUVIANI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20400.0,
+   "aggiudicato": 20400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B221E72612",
+   "data": "2024-06-18",
+   "oggetto": "SERVIZIO RESIDENZIALE PER MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI MIRANDOLA",
+   "ente": "I VESUVIANI SOC COOP.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20400.0,
+   "aggiudicato": 20400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  }
+ ]
+}

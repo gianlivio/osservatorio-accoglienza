@@ -1,0 +1,284 @@
+{
+ "nome": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "00773140199",
+ "affidamenti": 14,
+ "diretti": 10,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2023": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 11
+  },
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B26A514862",
+   "data": "2024-07-11",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO - PERIODO MAGGIO/DICEMBRE 2024",
+   "amministrazione": "COMUNE DI CASTELVETRO PIACENTINO",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23333.7,
+   "aggiudicato": 23333.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "B255ECD7B9",
+   "data": "2024-07-04",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI NEL TERRITORIO CREMONESE PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 731847.0,
+   "aggiudicato": 417998.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B1065A63F8",
+   "data": "2024-03-29",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI ALLA STRUTTURA COOPERATIVA SOCIALE IL SENTIERO ONLUS_IMPEGNO DI SPESA PRESUNTO ",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37955.0,
+   "aggiudicato": 37955.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "A0065236BF",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO PRESUNTO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO E RIDETERMINAZIONE CONTESTU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 105450.0,
+   "aggiudicato": 105450.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9998196459",
+   "data": "2023-07-31",
+   "oggetto": "RETTE DI RICOVERO PER MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55080.0,
+   "aggiudicato": 55080.0,
+   "durata_gg": 153.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "9886863174",
+   "data": "2023-06-20",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO A COOPERATIVE DIVERSE, RELATIVO AL P",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 99750.0,
+   "aggiudicato": 98750.0,
+   "durata_gg": 181.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "98312582C1",
+   "data": "2023-05-17",
+   "oggetto": "AFFIDAMENTO DIRETTO SERVIZIO ACCOGLIENZA MSNA 1 MESE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 44337.75,
+   "aggiudicato": 42927.75,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "95824453C5",
+   "data": "2022-12-30",
+   "oggetto": "APPROVAZIONE DELLA SPESA PER GLI INSERIMENTI DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA ANNO - NONA QUOTA ANNO 2022. COOPERATIVA SENTIERO",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47487.83,
+   "aggiudicato": 47487.83,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9465126511",
+   "data": "2022-10-20",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2022-2023 COOPERATIVA SENTIERO",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2138225.32,
+   "aggiudicato": 2138225.32,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "8930589B2C",
+   "data": "2021-11-01",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2021-2022.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1781854.44,
+   "aggiudicato": 1781854.44,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "832268943B",
+   "data": "2020-04-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI IN SINGOLE UNITÀ ABITATIVE. DAL 1^.4.2020 AL 31.3.2021. SENTIERO.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1049603.4,
+   "aggiudicato": 1049603.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7901492578",
+   "data": "2019-04-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE ABITAZIONI. DAL 1^.4.2019 AL 31.3.2020. (SENTIERO COOP. SOCIALE)",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 856372.0,
+   "aggiudicato": 856372.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7757349EE4",
+   "data": "2019-01-07",
+   "oggetto": "COOP. SENTIERO PROROGA CONEVNZIONE ACCOGLIENZA MIGRANTI I TRI,ESTRE 2019",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 329805.0,
+   "aggiudicato": 329805.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "732003297E",
+   "data": "2017-12-15",
+   "oggetto": "COOP. SENTIERO PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI I BIMESTRE 2018",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SENTIERO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 307980.0,
+   "aggiudicato": 307980.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

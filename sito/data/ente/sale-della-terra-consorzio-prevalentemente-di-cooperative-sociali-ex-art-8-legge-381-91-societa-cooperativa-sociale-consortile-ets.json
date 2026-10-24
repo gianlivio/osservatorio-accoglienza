@@ -1,0 +1,251 @@
+{
+ "nome": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+ "cf": "01662340627",
+ "affidamenti": 12,
+ "diretti": 4,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 3,
+   "quota_diretti": 60.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D397CE80",
+   "data": "2025-12-31",
+   "oggetto": "PROGETTO SAI FAMI MSNA - PROG-1955-PR-3 DEL COMUNE DI TRICASE – AMMISSIONE ALLA PROSECUZIONE DAL 01/01/2026 AL 31/12/2026 - AFFIDAMENTO E IMPEGNO",
+   "amministrazione": "COMUNE DI TRICASE",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 473635.15,
+   "aggiudicato": 473635.15,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B9640A15B9",
+   "data": "2025-12-04",
+   "oggetto": "SERVIZIO SAI FAMI MSNA PROG. 1995-PR-2 PROROGA MINISTERIALE FINO AL 31/12/2025",
+   "amministrazione": "COMUNE DI TRICASE",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72036.49,
+   "aggiudicato": 72036.49,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B7FB89545A",
+   "data": "2025-08-19",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER RICHIEDENTI E BENEFICIARI DI PROTEZIONE INTERNAZIONALE E PER I TITOLARI DI PERMESSO UMANITARIO DA INSERIRE NELL'AMBITO DEL SISTEMA DI PROTEZION",
+   "amministrazione": "COMUNE DI SANTA PAOLINA",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31584.62,
+   "aggiudicato": 31584.62,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B514A3A60E",
+   "data": "2025-01-03",
+   "oggetto": "PROGETTO SAI ORDINARIO - PROROGA TECNICA DAL 01.01.2025 AL 31.03.2025",
+   "amministrazione": "COMUNE DI TRICASE",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 110247.95,
+   "aggiudicato": 110247.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B51354C080",
+   "data": "2025-01-02",
+   "oggetto": "PROCEDURA APERTA PER L’INDIVIDUAZIONE DELL’ENTE ATTUATORE DEL PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE) PROSECUZIONE SERVIZIO DI ACCOGLIEN",
+   "amministrazione": "COMUNE DI TRICASE",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1102479.54,
+   "aggiudicato": 805072.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B3570BE647",
+   "data": "2024-10-09",
+   "oggetto": "SERVIZIO SAI ORDINARIO. PROROGA DAL 01.07.2024 AL 31.12.2024 - AFFIDAMENTO E IMPEGNO DI SPESA",
+   "amministrazione": "COMUNE DI TRICASE",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 222308.2,
+   "aggiudicato": 222308.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "99129812B5",
+   "data": "2023-07-05",
+   "oggetto": "AFFIDAMENTO PROGETTO SAI COMUNE DI TORRECUSO",
+   "amministrazione": "COMUNE DI TORRECUSO",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1396200.0,
+   "aggiudicato": 1126392.276,
+   "durata_gg": 1096.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "9878716E52",
+   "data": "2023-06-17",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA PER AMPLIAMENTO NUMERO DEI POSTI PRESSO I COMUNI DI AVELLINO, MONTORO, ATRIPALDA E AIELLO DEL SABATO IN SENO AL SIPROIMI (EX SPRAR) A FAVORE DI ",
+   "amministrazione": "COMUNE DI PETRURO IRPINO",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 894957.0,
+   "aggiudicato": 894957.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "95221452A3",
+   "data": "2023-02-24",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA E INTEGRAZIONE (SAI) - CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI (MSNA) -",
+   "amministrazione": "PROVINCIA DI POTENZA",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 883620.0,
+   "aggiudicato": 724278.69,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "9453870C50",
+   "data": "2022-10-27",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA PER AMPLIAMENTO NUMERO DEI POSTI PRESSO I COMUNI DI AVELLINO, MONTORO, ATRIPALDA E AIELLO DEL SABATO IN SENO AL SIPROIMI (EX SPRAR) A FAVORE DI ",
+   "amministrazione": "COMUNE DI PETRURO IRPINO",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 435326.0,
+   "aggiudicato": 435326.0,
+   "durata_gg": 120.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9303789191",
+   "data": "2021-12-30",
+   "oggetto": "SERVIZIO DI GESTIONE E ORGANIZZAZIONE DEI SERVIZI PER L'ASSISTENZA, L'INTEGRAZIONE E LA TUTELA DI MINORI STRANIERI -MSNA- NELL'AMBITO DELLA RETE EX SIPROIMI, ATTUALE PROGETTO SAI, ",
+   "amministrazione": "COMUNE DI TRICASE",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 449388.0,
+   "aggiudicato": 449388.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "74896438EB",
+   "data": "2018-05-22",
+   "oggetto": "GARA APERTA ACCOGLIENZA SPRAR CHIANCHE",
+   "amministrazione": "COMUNE DI CHIANCHE",
+   "ente": "SALE DELLA TERRA - CONSORZIO PREVALENTEMENTE DI COOPERATIVE SOCIALI (EX ART.8 LEGGE 381/91) - SOCIETA' COOPERATIVA SOCIALE CONSORTILE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1067625.0,
+   "aggiudicato": 1014243.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

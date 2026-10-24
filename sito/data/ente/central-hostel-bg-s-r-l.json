@@ -1,0 +1,38 @@
+{
+ "nome": "CENTRAL HOSTEL BG S.R.L.",
+ "cf": "03478340163",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9478996AF2",
+   "data": "2022-11-08",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI RINTRACCIATI SUL TERRITORIO DEL COMUNE DI BERGAMO NEL PERIODO NOVEMBRE-DICEMBRE 2022 -",
+   "amministrazione": "COMUNE DI BERGAMO",
+   "ente": "CENTRAL HOSTEL BG S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55000.0,
+   "aggiudicato": 55000.0,
+   "durata_gg": 61.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

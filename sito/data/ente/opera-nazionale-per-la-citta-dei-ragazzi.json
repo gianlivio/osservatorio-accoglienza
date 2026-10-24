@@ -1,0 +1,54 @@
+{
+ "nome": "OPERA NAZIONALE PER LA CITTA DEI RAGAZZI.",
+ "cf": "80182530586",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B30CBFD8A4",
+   "data": "2024-09-17",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI, PERIODO OTTOBRE-DICEMBRE 2024 FONDAZIONE OP. NAZ.LE PER LE CITTÀ DEI RAGAZZI.",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "OPERA NAZIONALE PER LA CITTA DEI RAGAZZI.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9200.0,
+   "aggiudicato": 9200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B0FB8D0304",
+   "data": "2024-03-27",
+   "oggetto": "PROSEGUIMENTO PERIODO DI ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO - PERIODO: APRILE/SETTEMBRE 2024.",
+   "amministrazione": "COMUNE DI PALESTRINA",
+   "ente": "OPERA NAZIONALE PER LA CITTA DEI RAGAZZI.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18300.0,
+   "aggiudicato": 18300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

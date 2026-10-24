@@ -1,0 +1,86 @@
+{
+ "nome": "CASA COOPERATIVA SOCIALE - SERVIZI ASSISTENZIALI ED EDUCATIVI PER ANZIANI E GIOVANI - SOCIETA' COOPERATIVA",
+ "cf": "01020810220",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B79BD4EDEE",
+   "data": "2025-07-11",
+   "oggetto": "RINNOVO DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 30 GIUGNO 2025, AI SENSI DELL'ARTICO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CASA COOPERATIVA SOCIALE - SERVIZI ASSISTENZIALI ED EDUCATIVI PER ANZIANI E GIOVANI - SOCIETA' COOPERATIVA",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 285935.68,
+   "aggiudicato": 285935.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B7580CD7F0",
+   "data": "2025-06-20",
+   "oggetto": "VARIAZIONE DEL CONTRATTO IN CORSO DI ESECUZIONE PER IL RINNOVO DELL'AFFIDAMENTO PER IL SERVIZIO DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZ",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CASA COOPERATIVA SOCIALE - SERVIZI ASSISTENZIALI ED EDUCATIVI PER ANZIANI E GIOVANI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5095.44,
+   "aggiudicato": 5095.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B6C5208D56",
+   "data": "2025-05-09",
+   "oggetto": "RINNOVO PER TRE MESI DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 31 MARZO 2025, AI SENSI",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CASA COOPERATIVA SOCIALE - SERVIZI ASSISTENZIALI ED EDUCATIVI PER ANZIANI E GIOVANI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 113937.46,
+   "aggiudicato": 113937.46,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B56E5E88B4",
+   "data": "2025-01-31",
+   "oggetto": "RINNOVO DELL'AFFIDAMENTO PER IL SERVIZIO DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 31 DICEMBRE 2024.",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CASA COOPERATIVA SOCIALE - SERVIZI ASSISTENZIALI ED EDUCATIVI PER ANZIANI E GIOVANI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 112685.4,
+   "aggiudicato": 112685.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

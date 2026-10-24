@@ -1,0 +1,99 @@
+{
+ "nome": "SAN GIORGIO SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE",
+ "cf": "02083350435",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "FERMO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4F2DE1D58",
+   "data": "2024-12-24",
+   "oggetto": "AFFIDAMENTI DIRETTI - PROSECUZIONE ANNO 2025 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI (MSNA), MADRI CON FIGLI MINORI E VITTIME DELLA VIOLENZA DI GEN",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "SAN GIORGIO SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55505.0,
+   "aggiudicato": 55505.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "A044576B0E",
+   "data": "2023-12-28",
+   "oggetto": "PROSECUZIONE ANNO 2024 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI, MADRI CON FIGLI E VITTIME DELLA VIOLENZA DI GENERE GIA' INSERITI IN STRUTTURA RESID",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "SAN GIORGIO SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 111630.0,
+   "aggiudicato": 111630.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "98443430D7",
+   "data": "2023-05-25",
+   "oggetto": "SERVIZI DI ASSISTENZA PER MINORI, MSNA E DI CONTRASTO ALLA VIOLENZA DI GENERE CON COLLOCAMENTO IN STRUTTURE RESIDENZIALI - 2023",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "SAN GIORGIO SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 76380.0,
+   "aggiudicato": 76380.0,
+   "durata_gg": 228.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "96039874CA",
+   "data": "2023-01-20",
+   "oggetto": "INTERVENTI DI TUTELA E PROTEZIONE DI MINORI STRANIERI NON ACCOMPAGNATI O ALLONTANATI DALLA FAMIGLIA E DI DONNE ANCHE CON PROLE CON ACCOGLIENZA PRESSO STRUTTURE RESIDENZIALI AUTORIZ",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "SAN GIORGIO SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 103665.75,
+   "aggiudicato": 103665.75,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

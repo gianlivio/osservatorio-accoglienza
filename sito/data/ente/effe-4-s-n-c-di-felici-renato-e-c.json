@@ -1,0 +1,107 @@
+{
+ "nome": "EFFE 4 S.N.C. DI FELICI RENATO E C.",
+ "cf": "01388930511",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "69559821F0",
+   "data": "2016-10-07",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI (HUB) FEBBRAIO GIUGNO 2017",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "EFFE 4 S.N.C. DI FELICI RENATO E C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 315000.0,
+   "aggiudicato": 315000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6628074BAF",
+   "data": "2016-01-07",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI APRILE GIUGNO 2016 EFFE 4",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "EFFE 4 S.N.C. DI FELICI RENATO E C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 100100.0,
+   "aggiudicato": 100100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6520026FA6",
+   "data": "2015-06-30",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI GENNAIO MARZO 2016 (EFFE 4)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "EFFE 4 S.N.C. DI FELICI RENATO E C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 95550.0,
+   "aggiudicato": 95550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6448596DC0",
+   "data": "2015-06-30",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI F4 SNC NOVEMBRE DICEMBRE 2015",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "EFFE 4 S.N.C. DI FELICI RENATO E C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 64050.0,
+   "aggiudicato": 64050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "63213986A6",
+   "data": "2015-06-30",
+   "oggetto": "CONVENZIONE URGENTE PER POSTI ACCOGLIENZA MIGRANTI PRESSO HOTEL GALILEO PALACE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "EFFE 4 S.N.C. DI FELICI RENATO E C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 92400.0,
+   "aggiudicato": 92400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "nome": "AZIENDA AGRITURISTICA RICCIARDELLI SOCIETA' AGRICOLA A RESPONSABI LITA' LIMITATA",
+ "cf": "01879880647",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B628A29AD5",
+   "data": "2025-03-21",
+   "oggetto": "XXII ACCORDO QUADRO GESTIONE CENTRI COLLETTIVI FINO A 100 ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AZIENDA AGRITURISTICA RICCIARDELLI SOCIETA' AGRICOLA A RESPONSABI LITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2811406.44,
+   "aggiudicato": 2811406.44,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "A039F1E5A2",
+   "data": "2023-12-15",
+   "oggetto": "AZIENDA AGRITURISTICA RICCIARDELLI DI CONTRADAAFFIDAMENTO SERVIZIO DI PRIMA ACCOGLIENZA RICHIEDENTI ASILO ASSEGNATI PROVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AZIENDA AGRITURISTICA RICCIARDELLI SOCIETA' AGRICOLA A RESPONSABI LITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 250212.0,
+   "aggiudicato": 250212.0,
+   "durata_gg": 73.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "A00BFE6CDE",
+   "data": "2023-09-08",
+   "oggetto": "AZIENDA AGRITURISTICA 'RICCIARDELLI' CON SEDE LEGALE IN POMPEI (NA)-AFFIDAMENTO SERVIZIO PRIMA ACCOGLIENZA RICHIEDENTI ASILO PROVINCIA DI AVELLINO-MANIFESTAZIONE DI INTERESSE LUGLI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AZIENDA AGRITURISTICA RICCIARDELLI SOCIETA' AGRICOLA A RESPONSABI LITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 212398.0,
+   "aggiudicato": 212398.0,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

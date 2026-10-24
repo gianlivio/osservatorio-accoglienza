@@ -1,0 +1,120 @@
+{
+ "nome": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+ "cf": "08890720967",
+ "affidamenti": 5,
+ "diretti": 1,
+ "quota_diretti": 20.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "LECCO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C2383A97",
+   "data": "2025-12-22",
+   "oggetto": "L'AFFIDAMENTO DI CONTRATTI ATTUATIVI PER LA GESTIONE DI SERVIZI RIVOLTI AD UTENZA ADULTA, ANCHE IMMIGRATA, IN SITUAZIONE DI VULNERABILITÀ ECONOMICA, LAVORATIVA ED ABITATIVA, A UTEN",
+   "amministrazione": "COMUNE DI BIASSONO",
+   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2063322.49,
+   "aggiudicato": 2063322.49,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "B777C57D8F",
+   "data": "2025-07-01",
+   "oggetto": "PROCEDURA APERTA, AI SENSI DEGLI ARTT. 71 E 59 COMMA 3, DEL D.LGS. 36/2023, PER L'AFFIDAMENTO, MEDIANTE ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO, DI SERVIZI RIVOLTI AD UTENZ",
+   "amministrazione": "COMUNE DI BIASSONO",
+   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 18000000.0,
+   "aggiudicato": 17820000.0,
+   "durata_gg": 48.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "B3EC5D93A5",
+   "data": "2024-10-23",
+   "oggetto": "FORMAZIONE PROFESSIONALE, INSERIMENTO E INTEGRAZIONE AL LAVORO",
+   "amministrazione": "COMUNE DI PIADENA DRIZZONA",
+   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 62800.0,
+   "aggiudicato": 62800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9697478401",
+   "data": "2023-03-07",
+   "oggetto": "CO-PROGETTAZIONE DEL SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE DI CITTADINI STRANIERI (S.A.I.) - PERIODO 01.02.2023/31.12.2025 - PROGETTO 'LECCO UNA CITTA' ACCOGLIENTE'",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4869720.0,
+   "aggiudicato": 0.0,
+   "durata_gg": 1064.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "9533551729",
+   "data": "2023-01-18",
+   "oggetto": "SERVIZIO DI PRESA IN CARICO DI BENEFICIARI DEL PROGETTO RETE SAI ADULTI CATEGORIA ORDINARIA - PERIODO: 01/04/2023 - 31/12/2025.",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3085714.29,
+   "aggiudicato": 3085713.98,
+   "durata_gg": 1005.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

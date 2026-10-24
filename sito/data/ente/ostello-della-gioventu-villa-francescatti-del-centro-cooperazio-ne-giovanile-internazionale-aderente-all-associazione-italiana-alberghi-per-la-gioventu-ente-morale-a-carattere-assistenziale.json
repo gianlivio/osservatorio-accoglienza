@@ -1,0 +1,54 @@
+{
+ "nome": "OSTELLO DELLA GIOVENTU' VILLA FRANCESCATTI DEL CENTRO COOPERAZIO- NE GIOVANILE INTERNAZIONALE ADERENTE ALL'ASSOCIAZIONE ITALIANA ALBERGHI PER LA GIOVENTU' - ENTE MORALE A CARATTERE ASSISTENZIALE",
+ "cf": "80054530235",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "69956733FC",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - OSTELLO DELLA GIOVENTÙ",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "OSTELLO DELLA GIOVENTU' VILLA FRANCESCATTI DEL CENTRO COOPERAZIO- NE GIOVANILE INTERNAZIONALE ADERENTE ALL'ASSOCIAZIONE ITALIANA ALBERGHI PER LA GIOVENTU' - ENTE MORALE A CARATTERE ASSISTENZIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 486000.0,
+   "aggiudicato": 486000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6955614241",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - OSTELLO DELLA GIOVENTÙ VILLA FRANCESCATTI",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "OSTELLO DELLA GIOVENTU' VILLA FRANCESCATTI DEL CENTRO COOPERAZIO- NE GIOVANILE INTERNAZIONALE ADERENTE ALL'ASSOCIAZIONE ITALIANA ALBERGHI PER LA GIOVENTU' - ENTE MORALE A CARATTERE ASSISTENZIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1084050.0,
+   "aggiudicato": 1084050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

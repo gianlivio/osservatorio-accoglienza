@@ -1,0 +1,38 @@
+{
+ "nome": "PANGEA  SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01795950359",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B08D3308CF",
+   "data": "2024-02-26",
+   "oggetto": "ACCOGLIENZA IN APPARTAMENTI DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "UNIONE TRESINARO SECCHIA",
+   "ente": "PANGEA  SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 90537.6,
+   "aggiudicato": 90537.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

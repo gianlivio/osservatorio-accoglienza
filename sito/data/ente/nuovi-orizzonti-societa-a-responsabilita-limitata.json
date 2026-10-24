@@ -1,0 +1,38 @@
+{
+ "nome": "NUOVI ORIZZONTI SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "09082990723",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B841A8B372",
+   "data": "2025-09-17",
+   "oggetto": "SINGOLE UNITÀ ABITATIVE - PROCEDURA NEGOZIATA EX ART 76 COMMA 2 LETT. C) DEL D.LGS N.36/2023 PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZ",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "NUOVI ORIZZONTI SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 740824.51,
+   "aggiudicato": 740824.51,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ALDEA APS",
+ "cf": "95193810108",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7671070F35",
+   "data": "2018-10-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 01.04-30.11.2018",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "ALDEA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 92500.0,
+   "aggiudicato": 93918.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  }
+ ]
+}

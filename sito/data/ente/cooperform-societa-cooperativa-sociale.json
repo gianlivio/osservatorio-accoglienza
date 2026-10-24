@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERFORM SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02807520214",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7784456050",
+   "data": "2019-02-15",
+   "oggetto": "ORGANIZZAZIONE E LO SVOLGIMENTO DI CORSI DI LINGUA E CULTURA ITALIANA A FAVORE DELLE/DEI RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE NEL PROGETTO SPRAR SUL TERRITORIO DELLA COMUNITÀ",
+   "amministrazione": "BEZIRKSGEMEINSCHAFT SALTEN SCHLERN",
+   "ente": "COOPERFORM SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 103200.0,
+   "aggiudicato": 55991.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

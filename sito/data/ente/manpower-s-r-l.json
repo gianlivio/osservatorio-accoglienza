@@ -1,0 +1,118 @@
+{
+ "nome": "MANPOWER S.R.L.",
+ "cf": "11947650153",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6FD1F43E8",
+   "data": "2025-05-23",
+   "oggetto": "SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONI LAVORATIVE N. 2 FUNZIONARI A SUPPORTO DELLA C.T. DI TRIESTE",
+   "amministrazione": "PREFETTURA DI TRIESTE",
+   "ente": "MANPOWER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28061.28,
+   "aggiudicato": 28061.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "B6FB4E590B",
+   "data": "2025-05-23",
+   "oggetto": "SERVIZIO DI SOMMINISTRAZIONE DI PERSONALE TEMPORANEO PER LE ESIGENZE DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI FIRENZE",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "MANPOWER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 134186.58,
+   "aggiudicato": 134186.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B6097EA06E",
+   "data": "2025-03-14",
+   "oggetto": "SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONE LAVORATIVA ATEMPO DETERMINATO DI N. 2 FUNZIONARI AMMINISTRATIVI PER 4 MESI PRESSO LA COMMSSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "MANPOWER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31263.03,
+   "aggiudicato": 31263.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "B541C9A578",
+   "data": "2025-01-21",
+   "oggetto": "PROCEDURA TELEMATICA PER L'AFFIDAMENTO DIRETTO DEL SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONI LAVORATIVE A TEMPO DETERMINATO PER UN CONTINGENTE DI N. 8 UNITÀ DI PERSONALE APPARTEN",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "MANPOWER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 129384.88,
+   "aggiudicato": 129384.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B52DC1FD6F",
+   "data": "2025-01-15",
+   "oggetto": "SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONI LAVORATIVE A TEMPO DETERMINATO PER UN CONTINGENTE DI 8 UNITÀ DI PERSONALE APPARTENENTI ALL'AREA DEI FUNZIONARI DA IMPIEGARE PER UN PERIO",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "MANPOWER S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 128652.67,
+   "aggiudicato": 128652.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

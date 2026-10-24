@@ -1,0 +1,125 @@
+{
+ "nome": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03093910739",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "TARANTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8EA453AFE",
+   "data": "2025-11-04",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI ASILO IN CENTRI DI ACCOGLIENZA COSTITUITI DA CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 748136.34,
+   "aggiudicato": 748136.34,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "B692FE39FC",
+   "data": "2025-04-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CAS NELLA PROVINCIA DI BAT",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 701159.53,
+   "aggiudicato": 701159.53,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "B0C17177C5",
+   "data": "2024-03-11",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA TARANTO",
+   "ente": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 184732.8,
+   "aggiudicato": 184732.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TARANTO"
+  },
+  {
+   "cig": "881857457A",
+   "data": "2021-07-20",
+   "oggetto": "CAS ACCORDO QUADRO PER AFFIDAMENTO GESTIONE SERVIZI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA",
+   "ente": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8472695.0,
+   "aggiudicato": 7726320.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  },
+  {
+   "cig": "8526820A74",
+   "data": "2020-12-09",
+   "oggetto": "ACCORDO QUADRO PER AFFIDAMENTO GESTIONE SERVIZI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA",
+   "ente": "RI.PRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8482400.0,
+   "aggiudicato": 7726320.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

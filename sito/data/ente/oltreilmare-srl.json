@@ -1,0 +1,54 @@
+{
+ "nome": "OLTREILMARE SRL",
+ "cf": "01819990498",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "78866204B5",
+   "data": "2019-04-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI CON CAPACITÀ NON SUPERIORE 50 CROCE ROSSA",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "OLTREILMARE SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 476507.5,
+   "aggiudicato": 476507.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LIVORNO"
+  },
+  {
+   "cig": "788661723C",
+   "data": "2019-04-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI CENTRI COLLETTIVI CON CAPIENZA INFERIORE A 50 UNITÀ",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "OLTREILMARE SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 471269.75,
+   "aggiudicato": 471269.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LIVORNO"
+  }
+ ]
+}

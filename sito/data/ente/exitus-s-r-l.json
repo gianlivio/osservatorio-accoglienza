@@ -1,0 +1,54 @@
+{
+ "nome": "EXITUS S.R.L.",
+ "cf": "03642990133",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2C042CBC6",
+   "data": "2024-08-09",
+   "oggetto": "PROCEDURA APERTA PER LA CONCLUSIONE DI ACCORDO QUADRO TRIENNALE PERAFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI CITTADINISTRANIERI COSTITUITIDA SINGOLE UNITA' ABITATIVE CON CAPIENZA F",
+   "amministrazione": "STAZIONE APPALTANTE PROVINCIALE DI COMO",
+   "ente": "EXITUS S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 15858337.5,
+   "aggiudicato": 6338894.67,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B0BEF49EB5",
+   "data": "2024-03-11",
+   "oggetto": "SAP COMO - PREFETTURA- UFFICIO TERRITORIALE DEL GOVERNO DI COMO. AFFIDAMENTO DIRETTO AI SENSI DEL COMBINATO DISPOSTO DELLART. 11 COMMA 2 DEL D.LGS. 142/2015 E DELLART. 14 COMMA 1, ",
+   "amministrazione": "STAZIONE APPALTANTE PROVINCIALE DI COMO",
+   "ente": "EXITUS S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 595213.73,
+   "aggiudicato": 595213.73,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

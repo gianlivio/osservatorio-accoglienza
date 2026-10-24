@@ -1,0 +1,38 @@
+{
+ "nome": "LA FENICE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04734170824",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6848248905",
+   "data": "2016-01-19",
+   "oggetto": "COPROGETTAZIONE E GESTIONE PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA DA INSERIRE NEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (SPRAR) PER IL BIENNIO 2016/2017",
+   "amministrazione": "COMUNE DI SAN CIPIRELLO",
+   "ente": "LA FENICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 562958.53,
+   "aggiudicato": 562958.53,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

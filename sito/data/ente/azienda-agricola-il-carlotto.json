@@ -1,0 +1,38 @@
+{
+ "nome": "AZIENDA AGRICOLA IL CARLOTTO",
+ "cf": "01773850464",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6762611B21",
+   "data": "2016-07-01",
+   "oggetto": "SERVIZIO DI ACCOGLINZA MIGRANTI. PERIODO 5/7/2016-31/12/2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "AZIENDA AGRICOLA IL CARLOTTO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 47779.2,
+   "aggiudicato": 47779.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  }
+ ]
+}

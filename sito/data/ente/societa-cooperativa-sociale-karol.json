@@ -1,0 +1,144 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+ "cf": "02503110849",
+ "affidamenti": 7,
+ "diretti": 5,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7360053BDD",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA CPA 'KAROL'. EROGAZIONE CONTRIBUTO MINISTERIALE 2^ TRIMESTRE 2017.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 110357.14,
+   "aggiudicato": 110357.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7360019FCD",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA CPA 'KAROL'. EROGAZIONE CONTRIBUTO MINISTERIALE 3^ TRIMESTRE 2017",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62614.28,
+   "aggiudicato": 62614.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7224565BA1",
+   "data": "2017-10-03",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA CPA 'KAROL'. EROGAZIONE CONTRIBUTO MINISTERIALE 1^ TRIMESTRE 2017.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 110014.28,
+   "aggiudicato": 110014.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "690855933D",
+   "data": "2016-12-14",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE 'KAROL 3.0' RELATIVA AL 1^ E 2^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61114.29,
+   "aggiudicato": 61114.29,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6906398BEA",
+   "data": "2016-12-13",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOP. SOCIALE KAROL 2.0 RELATIVA AL 1^E 2^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 81385.71,
+   "aggiudicato": 81385.71,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6594832387",
+   "data": "2016-02-16",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 1^ TRIMESTRE 2015 COOPERATIVA SOCIALE KAROL 3.0",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 46080.0,
+   "aggiudicato": 46080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "65948019F0",
+   "data": "2016-02-16",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 1^ TRIMESTRE 2015 COOPERATIVA SOCIALE KAROL 2.0",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE KAROL",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 46845.0,
+   "aggiudicato": 46845.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

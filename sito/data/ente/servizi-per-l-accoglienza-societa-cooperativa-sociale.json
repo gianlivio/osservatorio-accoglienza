@@ -1,0 +1,244 @@
+{
+ "nome": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00911390193",
+ "affidamenti": 12,
+ "diretti": 8,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 12
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5D5FFA123",
+   "data": "2025-02-28",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI SERVIZI PER L'ACCOGLIENZA SOCIETA' COOP SOCIALE ONLUS. IMPEGNO DI S",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69523.8,
+   "aggiudicato": 69523.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B2F3014D5E",
+   "data": "2024-09-06",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI IN STRUTTURE DI ACCOGLIENZA. RIDETERMINAZIONE DELLA SPESA DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 660 DEL 24/04/2024 IN FAVORE ",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52380.0,
+   "aggiudicato": 52380.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B150DD4553",
+   "data": "2024-04-19",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE -ONLUS. IMPE",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16467.71,
+   "aggiudicato": 16467.71,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9533617D9E",
+   "data": "2023-01-13",
+   "oggetto": "SERVIZIO DI PRESA IN CARICO DI MINORI STRANIERI NON ACCOMPAGNATI E NEO MAGGIORENNI DEL PROGETTO RETE SAI - PERIODO: 01/04/2023 - 31/12/2025.",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7714285.71,
+   "aggiudicato": 7714284.94,
+   "durata_gg": 1005.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9580068A33",
+   "data": "2022-12-30",
+   "oggetto": "APPROVAZIONE DELLA SPESA PER GLI INSERIMENTI DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA ANNO - OTTAVA QUOTA ANNO 2022. SERVIZI PER L'ACCOGLIE",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48833.34,
+   "aggiudicato": 48833.34,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "94084377D2",
+   "data": "2022-11-29",
+   "oggetto": "APPROVAZIONE DELLA SPESA PER GLI INSERIMENTI DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA - QUINTA QUOTA ANNO 2022.",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 90000.0,
+   "aggiudicato": 90000.0,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "94653161DD",
+   "data": "2022-10-27",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2022-2023 SERVIZI PER L'ACCOGLIENZA SOCIETÀ COOP. SOCIALE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1920382.8,
+   "aggiudicato": 1920382.8,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "8931233E9D",
+   "data": "2021-11-01",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2021-2022 -SERVIZI PER L'ACCOGLIENZA.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1600319.0,
+   "aggiudicato": 1600319.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7901908CC1",
+   "data": "2019-05-09",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI DA 51 A 300 POSTI. DAL 1^.4.2019 AL 31.3.2020 (SERVIZI PER L'ACCOGLIENZA).",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1382400.0,
+   "aggiudicato": 1382400.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7780067A62",
+   "data": "2019-01-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PER I CENTRI COLLETTIVI DA 51 A 300 POSTI. ACCORDO QUADRO BIENNALE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6266880.0,
+   "aggiudicato": 2764800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "77574989DB",
+   "data": "2019-01-07",
+   "oggetto": "COOP. SERVIZI PER L'ACCOGLIENZA PROROGA CONEVNZIONE ACCOGLIENZA MIGRANTI I TRIMESTRE 2019",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 387450.0,
+   "aggiudicato": 387450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7319883E87",
+   "data": "2017-12-15",
+   "oggetto": "SERVIZI PER L'ACCOGLIENZA PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI I BIMESTRE 2018",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "SERVIZI PER L'ACCOGLIENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 309750.0,
+   "aggiudicato": 309750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

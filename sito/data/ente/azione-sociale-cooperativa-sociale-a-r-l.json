@@ -1,0 +1,38 @@
+{
+ "nome": "AZIONE SOCIALE COOPERATIVA SOCIALE A.R.L.",
+ "cf": "03501840825",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7100075F3A",
+   "data": "2017-06-05",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI MIGRANTI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "AZIONE SOCIALE COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1491875.0,
+   "aggiudicato": 1491875.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  }
+ ]
+}

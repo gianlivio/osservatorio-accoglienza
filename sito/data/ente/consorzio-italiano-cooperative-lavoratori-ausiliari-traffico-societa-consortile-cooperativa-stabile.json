@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO ITALIANO COOPERATIVE LAVORATORI AUSILIARI TRAFFICO SOCIETA CONSORTILE COOPERATIVA STABILE",
+ "cf": "00424610582",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9076461490",
+   "data": "2022-02-01",
+   "oggetto": "SERVIZIO DI PULIZIA DELLA SEDE DELLA PREFETTURA - UTG DI TRIESTE, DEL COMMISSARIATO DEL GOVERNO FVG E DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZ",
+   "amministrazione": "PREFETTURA DI TRIESTE",
+   "ente": "CONSORZIO ITALIANO COOPERATIVE LAVORATORI AUSILIARI TRAFFICO SOCIETA CONSORTILE COOPERATIVA STABILE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 134451.39,
+   "aggiudicato": 134451.39,
+   "durata_gg": 1095.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "nome": "ATENA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "07984791215",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A01CF3A515",
+   "data": "2023-10-19",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA STIPULA DI UN ACCORDO QUADRO PER L'ACCOGLIENZA ED ASSISTENZA DI MIGRANTI IN UNITÀ ABITATIVE PER COMPLESSIVI 400 POSTI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO DI BN",
+   "ente": "ATENA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 14436466.0,
+   "aggiudicato": 7983952.16,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

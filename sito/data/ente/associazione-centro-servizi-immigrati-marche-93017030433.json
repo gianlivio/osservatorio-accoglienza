@@ -1,0 +1,155 @@
+{
+ "nome": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+ "cf": "93017030433",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8FDE43CC3",
+   "data": "2025-11-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PER MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA IDONEA A GARANTIRE TUTELA E PROTEZIONE AI SENSI DELLA DELIBERA DI GIUNTA COMUNALE N. 293 DEL 04/09/2025",
+   "amministrazione": "COMUNE DI TOLENTINO",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8625.0,
+   "aggiudicato": 8625.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B7575D283A",
+   "data": "2025-06-20",
+   "oggetto": "TUT2025RN046 ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE 01331770436",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63177.28,
+   "aggiudicato": 63177.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B329D6E0D1",
+   "data": "2024-09-25",
+   "oggetto": "COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO - ORDINANZA SINDACALE N. 23/2024",
+   "amministrazione": "COMUNE DI MONTECOSARO",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20170.0,
+   "aggiudicato": 20170.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B18827F269",
+   "data": "2024-05-07",
+   "oggetto": "AFFIDAMENTO IN STRUTTURA DI 1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19040.0,
+   "aggiudicato": 19040.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B15A01BB8F",
+   "data": "2024-04-24",
+   "oggetto": "AFFIDAMENTO IN STRUTTURA DI 1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17150.0,
+   "aggiudicato": 17150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B13C0B3D35",
+   "data": "2024-04-15",
+   "oggetto": "AFFIDAMENTO IN STRUTTURA DI 1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17150.0,
+   "aggiudicato": 17150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B13C0878E7",
+   "data": "2024-04-15",
+   "oggetto": "AFFIDAMENTO IN SRUTTURA DI 1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17150.0,
+   "aggiudicato": 17150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B0289B37B9",
+   "data": "2024-01-30",
+   "oggetto": "ACCOGLIENZA N. 2 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16940.0,
+   "aggiudicato": 16940.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  }
+ ]
+}

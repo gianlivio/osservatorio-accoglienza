@@ -1,0 +1,38 @@
+{
+ "nome": "MEDEA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "06611261212",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0F1DA2415",
+   "data": "2024-03-25",
+   "oggetto": "ACCOGLIENZA MINORI FUORI FAMIGLIA",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "MEDEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 108251.7,
+   "aggiudicato": 108251.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

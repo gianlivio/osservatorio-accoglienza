@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE INTEGRA ONLUS",
+ "cf": "04521900755",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6329363394",
+   "data": "2015-07-08",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI - AFF. IN URGENZA -PERIODO DAL 6 LUGLIO 2015 AL 31 AGOSTO 2015- ASSOCIAZIONE INTEGRA ONLUS DI LECCE C.F. 93067750757",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "ASSOCIAZIONE INTEGRA ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 50400.0,
+   "aggiudicato": 50400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

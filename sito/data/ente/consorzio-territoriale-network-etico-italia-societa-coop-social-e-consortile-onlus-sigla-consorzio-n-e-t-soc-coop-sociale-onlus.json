@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO TERRITORIALE NETWORK ETICO ITALIA SOCIETA' COOP. SOCIAL E CONSORTILE ONLUS SIGLA: CONSORZIO N.E.T. SOC. COOP. SOCIALE ONLUS",
+ "cf": "03170140929",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C6DEB182",
+   "data": "2025-12-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA A FAVORE DI 12 MINORI STRANIERI NON ACCOMPAGNATI - SAI MSNA - PROG. 1144-PR 1_PERIODO: DAL 01.01.2024 AL 30.06.2026. CUP: G29G20000860001. INTEGRA",
+   "amministrazione": "COMUNE DI BONORVA",
+   "ente": "CONSORZIO TERRITORIALE NETWORK ETICO ITALIA SOCIETA' COOP. SOCIAL E CONSORTILE ONLUS SIGLA: CONSORZIO N.E.T. SOC. COOP. SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6418.44,
+   "aggiudicato": 6418.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  }
+ ]
+}

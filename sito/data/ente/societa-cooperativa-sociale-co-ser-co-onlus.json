@@ -1,0 +1,91 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE CO.SER.CO ONLUS",
+ "cf": "02655780100",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "7747974668",
+   "data": "2018-01-01",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI - PRIMO SEMESTRE 2019 - COSERCO",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CO.SER.CO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87803.1,
+   "aggiudicato": 87803.1,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7337885642",
+   "data": "2018-01-01",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI 2018 (COSERCO)",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CO.SER.CO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 177061.5,
+   "aggiudicato": 177061.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6556457F76",
+   "data": "2016-02-05",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI - PRIMO SEMESTRE 2016 - COSERCO",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CO.SER.CO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 88288.2,
+   "aggiudicato": 88288.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6346030D9C",
+   "data": "2015-07-30",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI - 16.07.2015 A 31.12.2015",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CO.SER.CO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69854.0,
+   "aggiudicato": 69854.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

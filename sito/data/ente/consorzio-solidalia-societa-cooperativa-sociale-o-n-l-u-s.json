@@ -1,0 +1,123 @@
+{
+ "nome": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+ "cf": "01952520813",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B21B145DD1",
+   "data": "2024-06-14",
+   "oggetto": "CONSORZIO SOLIDALIA SOCIETA' COOPERATIVA SOCIALE ONLUS CAS MARIANO AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTER",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1369984.0,
+   "aggiudicato": 1369984.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B21AE7AFC7",
+   "data": "2024-06-14",
+   "oggetto": "CONSORZIO SOLIDALIA SOC. COOP. SOC. ONLUS CAS PRINCIPE L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1369984.0,
+   "aggiudicato": 1369984.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B18332AAE2",
+   "data": "2024-05-06",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI PRIMA ACCOGLIENZA A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO STRUTTURE RICETTIVE TEMPORANEE (ART.19, COMMA 3-BIS, DEL D. LGS. 18 AGOSTO 2015, ",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6797295.0,
+   "aggiudicato": 3397858.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "A0217D92DD",
+   "data": "2023-10-30",
+   "oggetto": "FORNITURA DI BENI ED EROGAZIONE E DEI SERVIZI DI ACCOGLIENZA PER COMPLESSIVI 600 POSTI PRESSO I CENTRI, SITI NEI COMUNI DELLA PROVINCIA DI PALERMO (COMPRESO IL CAPOLUOGO), COSTITUI",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 22822908.0,
+   "aggiudicato": 14063012.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9903759877",
+   "data": "2023-06-20",
+   "oggetto": "PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DEI SERVIZI PRESSO CENTRI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 685644.0,
+   "aggiudicato": 681924.0,
+   "durata_gg": 240.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9878501CE6",
+   "data": "2023-06-16",
+   "oggetto": "AFFIDAMENTO DELLA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA DEGLI ENTI LOCALI PER I TITOLARI DI PROTEZIONE INTERNAZIONALE (SAI) ANNI 2023-2025 NEL COMUNE DI ALCAMO (TP)",
+   "amministrazione": "COMUNE DI ALCAMO",
+   "ente": "CONSORZIO SOLIDALIA - SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2943618.86,
+   "aggiudicato": 2943618.86,
+   "durata_gg": 810.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

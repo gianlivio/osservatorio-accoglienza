@@ -1,0 +1,33 @@
+{
+ "nome": "CROCE ROSSA ITALIANA SEZ PISA",
+ "cf": "02123620508",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A011AD89C9",
+   "data": "2023-09-30",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN CAS STRUTTURE ABITATIVE - CROCE ROSSA ITALIANA GARA 2022",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA SEZ PISA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 891484.11,
+   "aggiudicato": 891484.11,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

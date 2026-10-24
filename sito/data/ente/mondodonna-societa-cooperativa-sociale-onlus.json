@@ -1,0 +1,96 @@
+{
+ "nome": "MONDODONNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03555131204",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C2549141",
+   "data": "2025-12-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI MSNA VILLA ANGELI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "MONDODONNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 542909.5,
+   "aggiudicato": 542909.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B8E97C1B6A",
+   "data": "2025-11-04",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI STRUTTURE BOLOGNA E PROVINCIA",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "MONDODONNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 689842.7,
+   "aggiudicato": 689842.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "96385227F8",
+   "data": "2023-02-03",
+   "oggetto": "AFFIDAMENTO ACCOGLIENZA PROFUGHI C/O STRUTTURA IL MILLIARIO- MONDODONNA 6 GENNAIO-31 MARZO 2023",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "MONDODONNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 130857.0,
+   "aggiudicato": 130857.0,
+   "durata_gg": 85.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "7034131C85",
+   "data": "2017-03-31",
+   "oggetto": "SERVIZI COLLEGATI ALL'ACCOGLIENZA PER L'AREA MSNA, DI CUI ALLA PROCEDURA AD EVIDENZA PUBBLICA DI CO-PROGETTAZIONE PER L'INDIVIDUAZIONE DI OPERATORI ECONOMICI QUALI ENTI ATTUATORI D",
+   "amministrazione": "ASP CITTA' DI BOLOGNA",
+   "ente": "MONDODONNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 14371375.0,
+   "aggiudicato": 14371375.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

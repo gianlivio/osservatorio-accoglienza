@@ -1,0 +1,150 @@
+{
+ "nome": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "02618630996",
+ "affidamenti": 8,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 8,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9580249F8F",
+   "data": "2022-12-30",
+   "oggetto": "FORNITURA LOCALI E SERVIZI DA ADIBIRE AD AREA SANITARIA TEMPORANEA DI ACCOGLIENZA MIGRANTI UCRAINI",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 469402.0,
+   "aggiudicato": 469402.0,
+   "durata_gg": 62.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9535563385",
+   "data": "2022-12-07",
+   "oggetto": "FORNITURA LOCALI E SERVIZI DA ADIBIRE AD AREA SANITARIA TEMPORANEA DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 230500.0,
+   "aggiudicato": 230500.0,
+   "durata_gg": 31.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9483247EFA",
+   "data": "2022-11-09",
+   "oggetto": "FORNITURA LOCALI E SERVIZI DA ADIBIRE AD AREA SANITARIA TEMPORANEA DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 200000.0,
+   "aggiudicato": 200000.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9431063763",
+   "data": "2022-10-04",
+   "oggetto": "FORNITURA LOCALI E SERVIZI DA ADIBIRE AD AREA SANITARIA TEMPORANEA DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 230497.0,
+   "aggiudicato": 230408.0,
+   "durata_gg": 31.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9384270097",
+   "data": "2022-08-31",
+   "oggetto": "FORNITURA LOCALI E SERVIZI DA ADIBIRE AD AREA SANITARIA TEMPORANEA DI ACCOGLIENZA MIGRANTI - GENOVA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 223062.0,
+   "aggiudicato": 222388.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9350907491",
+   "data": "2022-08-01",
+   "oggetto": "FORNITURA DI LOCALI E SERVIZI DA ADIBIRE AD AREA SANITARIA TEMPORANEA DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 231000.0,
+   "aggiudicato": 231000.0,
+   "durata_gg": 31.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "927664841A",
+   "data": "2022-06-15",
+   "oggetto": "FORNITURA LOCALI E SERVIZI DA ADIBIRE AD AREA TEMPORANEA DI ACCOGLIENZA MIGRANTI UCRAINI IN GENOVA RESIDENZA SANTA DOROTEA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 462630.0,
+   "aggiudicato": 462630.0,
+   "durata_gg": 61.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9276628399",
+   "data": "2022-06-15",
+   "oggetto": "FORNITURA LOCALI E SERVIZI DA ADIBIRE AD AREA TEMPORANEA DI ACCOGLIENZA MIGRANTI UCRAINI GENOVA SANTA DOROTEA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ELLEV13 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 265000.0,
+   "aggiudicato": 265000.0,
+   "durata_gg": 31.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "nome": "FONDAZIONE CAV. GUIDO GINI ONLUS",
+ "cf": "93189110237",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8B1A565D5",
+   "data": "2025-10-17",
+   "oggetto": "STIPULA CONVENZIONE CON LA AGGIUDICATARIA ASSOCIAZIONE TEMPORANEA D'IMPRESA TRA LA SOC. COOPERATIVA SOCIALE GIUSEPPE OLIVOTTI E LA FONDAZIONE CAV. GUIDO GINI - ONLUS RELATIVA ALL'A",
+   "amministrazione": "PREFETTURA DI VENEZIA",
+   "ente": "FONDAZIONE CAV. GUIDO GINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1929609.0,
+   "aggiudicato": 1929609.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B31D054F7A",
+   "data": "2024-09-20",
+   "oggetto": "SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI VENEZIA",
+   "ente": "FONDAZIONE CAV. GUIDO GINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "65368191B0",
+   "data": "2015-12-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GUIDO GINI - PROROGA DAL 01/01 AL 14/03/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "FONDAZIONE CAV. GUIDO GINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 77207.16,
+   "aggiudicato": 77207.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "61630727E6",
+   "data": "2015-03-06",
+   "oggetto": "SERVIZIO ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - TERRITORIO DI COMPETENZA ULSS 13 MIRANO",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "FONDAZIONE CAV. GUIDO GINI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2126600.0,
+   "aggiudicato": 657506.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "611438996A",
+   "data": "2015-02-02",
+   "oggetto": "ASSISTENZA STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 01/02/2015 - 31/03/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "FONDAZIONE CAV. GUIDO GINI ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 45946.25,
+   "aggiudicato": 45946.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

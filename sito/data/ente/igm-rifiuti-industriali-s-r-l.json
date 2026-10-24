@@ -1,0 +1,38 @@
+{
+ "nome": "IGM RIFIUTI INDUSTRIALI S.R.L.",
+ "cf": "01046070890",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B43554BBA9",
+   "data": "2024-11-12",
+   "oggetto": "CENTRO DI ACCOGLIENZA MIGRANTI MSNA PRESSO HOTEL SALUSTRA - SERVIZIO DI RACCOLTA DEI RIFIUTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "IGM RIFIUTI INDUSTRIALI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4000.0,
+   "aggiudicato": 4000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

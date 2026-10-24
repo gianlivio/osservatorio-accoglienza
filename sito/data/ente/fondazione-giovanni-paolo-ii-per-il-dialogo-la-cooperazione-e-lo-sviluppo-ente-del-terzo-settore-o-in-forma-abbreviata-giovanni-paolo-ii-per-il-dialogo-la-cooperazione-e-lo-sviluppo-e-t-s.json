@@ -1,0 +1,238 @@
+{
+ "nome": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+ "cf": "94145440486",
+ "affidamenti": 12,
+ "diretti": 12,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 8
+  },
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B94A000595",
+   "data": "2025-11-28",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 109200.0,
+   "aggiudicato": 109200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B8848BDAA2",
+   "data": "2025-10-07",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9300.0,
+   "aggiudicato": 9300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B79A804C73",
+   "data": "2025-07-10",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1369845.0,
+   "aggiudicato": 1369845.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B79091005D",
+   "data": "2025-07-09",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12846.6,
+   "aggiudicato": 12846.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B729031547",
+   "data": "2025-06-06",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29646.0,
+   "aggiudicato": 29646.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B33C9FC75B",
+   "data": "2024-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1529430.9,
+   "aggiudicato": 1529430.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "B241AA78CF",
+   "data": "2024-06-28",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 331047.0,
+   "aggiudicato": 331047.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B031E813E4",
+   "data": "2024-01-31",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 142740.3,
+   "aggiudicato": 142740.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B03057EFF4",
+   "data": "2024-01-31",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 142740.3,
+   "aggiudicato": 142740.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "A01E617322",
+   "data": "2023-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI SECONDO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2023 AL 31 OTTOBRE 2024 (FONDAZIONE GIOVANNI PAOLO II)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 249473.39,
+   "aggiudicato": 249473.39,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "94179008EF",
+   "data": "2022-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRIMO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2022 AL 31 OTTOBRE 2023 (FONDAZIONE GIOVANNI PAOLO II)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 155989.87,
+   "aggiudicato": 155989.87,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "8451633C2D",
+   "data": "2020-10-21",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) FONDAZIONE GIOVANNI PAOLO II",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "FONDAZIONE GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - ENTE DEL TERZO SETTORE O IN FORMA ABBREVIATA GIOVANNI PAOLO II - PER IL DIALOGO, LA COOPERAZIONE E LO SVILUPPO - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101383.86,
+   "aggiudicato": 101383.86,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

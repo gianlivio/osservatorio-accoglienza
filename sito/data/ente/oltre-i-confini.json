@@ -1,0 +1,38 @@
+{
+ "nome": "OLTRE I CONFINI",
+ "cf": "92064870626",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "778498118E",
+   "data": "2019-02-04",
+   "oggetto": "GESTIONE SERVIZIO DI ACCOGLIENZA, INTEGRAZIONE E TUTELA 'SISTEMA PROTEZIONE RICHIEDENTI ASILO E RIFUGIATI (SPRAR)' SOGGETTI ORDINARI ADULTI",
+   "amministrazione": "COMUNE DI BENEVENTO",
+   "ente": "OLTRE I CONFINI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 557097.16,
+   "aggiudicato": 530579.335,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

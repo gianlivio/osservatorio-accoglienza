@@ -1,0 +1,38 @@
+{
+ "nome": "GRUPPO SENSIBILIZZAZIONE HANDICAP COOPERATIVA SOCIALE - ONLUS IN SIGLA GSH",
+ "cf": "01292700224",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7532783AF",
+   "data": "2025-06-19",
+   "oggetto": "INTERVENTO DOMICILIARE EDUCATIVO, PER IL PERIODO DAL 23 GIUGNO 2025 AL 31 DICEMBRE 2025, A FAVORE DEI MINORI E.M. E E.G.O., ACCOLTI INSIEME ALLA MADRE NEL PROGETTO DI ACCOGLIENZA S",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "GRUPPO SENSIBILIZZAZIONE HANDICAP COOPERATIVA SOCIALE - ONLUS IN SIGLA GSH",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12247.5,
+   "aggiudicato": 12247.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

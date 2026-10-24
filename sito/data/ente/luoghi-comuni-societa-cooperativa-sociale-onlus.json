@@ -1,0 +1,38 @@
+{
+ "nome": "LUOGHI COMUNI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "01021880917",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NUORO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "693623388A",
+   "data": "2017-01-02",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI ORISTANO",
+   "ente": "LUOGHI COMUNI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63732.9,
+   "aggiudicato": 63732.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NUORO"
+  }
+ ]
+}

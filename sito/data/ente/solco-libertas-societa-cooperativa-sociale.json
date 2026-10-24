@@ -1,0 +1,38 @@
+{
+ "nome": "SOLCO LIBERTAS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04144000371",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5D7445030",
+   "data": "2025-02-28",
+   "oggetto": "GESTIONE ATTIVITÀ EDUCATIVE, DI FORMAZIONE E SOCIALIZZAZIONE A FAVORE DEGLI STUDENTI DI ORIGINE STRANIERA",
+   "amministrazione": "COMUNE DI CREVALCORE",
+   "ente": "SOLCO LIBERTAS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21567.94,
+   "aggiudicato": 21567.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

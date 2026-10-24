@@ -1,0 +1,38 @@
+{
+ "nome": "FERRANTE APORTI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01294630742",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "949427291A",
+   "data": "2022-11-28",
+   "oggetto": "PROCEDURA SELETTIVA PUBBLICA PER L'L'INDIVIDUAZIONE DI UN SOGGETTO PARTNER E GESTORE PER LA PROSECUZIONE DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI",
+   "amministrazione": "UNIONE TRA I COMUNI DI CARMIANO COPERTINO LEVERANO PORTO CESAREO VEGLIE",
+   "ente": "FERRANTE APORTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 700800.0,
+   "aggiudicato": 700800.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

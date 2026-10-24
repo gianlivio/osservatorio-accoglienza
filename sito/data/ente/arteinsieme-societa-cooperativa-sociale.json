@@ -1,0 +1,223 @@
+{
+ "nome": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01249930593",
+ "affidamenti": 11,
+ "diretti": 2,
+ "quota_diretti": 18.2,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 11
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4A788F3F0",
+   "data": "2024-12-09",
+   "oggetto": "SELEZIONE DI UN SOGGETTO PARTNER E GESTORE ORGANIZZAZIONE E GESTIONE DI UN PROGETTO TERRITORIALE DI ACCOGLIENZA INTEGRATA ADERENTE AL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIO",
+   "amministrazione": "COMUNE DI SONNINO",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 728785.05,
+   "aggiudicato": 728785.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "8815422C5B",
+   "data": "2021-08-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PRIVERNO",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 427051.0,
+   "aggiudicato": 427051.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "8762478199",
+   "data": "2021-06-24",
+   "oggetto": "PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN SOGGETTO PARTNER E GESTORE NELL'AMBITO DEL SISTEMA SAI-SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZ",
+   "amministrazione": "COMUNE DI SONNINO",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 882045.0,
+   "aggiudicato": 729628.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "85269841CD",
+   "data": "2020-11-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI SEZZE",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1381885.71,
+   "aggiudicato": 1381885.71,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "77794594A7",
+   "data": "2018-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01.02.2019 - 31.12.2019 - ASSOCIAZIONE ORIZZONTE ONLUS",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 272544.0,
+   "aggiudicato": 272544.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "758797423C",
+   "data": "2018-10-12",
+   "oggetto": "PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN SOGGETTO PARTNER E GESTORE PER L'ORGANIZZAZIONE E GESTIONE DI UN PROGETTO TERRITORIALE DI ACCOGLIENZA INTEGRA",
+   "amministrazione": "COMUNE DI SEZZE",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 864045.0,
+   "aggiudicato": 800089.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "76070006FB",
+   "data": "2018-09-05",
+   "oggetto": "GESTIONE DEL PROGETTO SPRAR 'TERRA D'ASILO' - ACCOGLIENZA, TUTELA E INTEGRAZIONE A FAVORE DEI RICHIEDENTI ASILO E RIFUGIATI NELL'AMBITO DEL COMUNE DI SONNINO",
+   "amministrazione": "COMUNE DI SONNINO",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 821274.75,
+   "aggiudicato": 693500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "756423080F",
+   "data": "2018-06-26",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138000.0,
+   "aggiudicato": 138000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "71240296B4",
+   "data": "2017-05-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 614412.0,
+   "aggiudicato": 614412.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "706397830E",
+   "data": "2016-12-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1588690.0,
+   "aggiudicato": 1588690.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "6890251EFC",
+   "data": "2016-06-23",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ARTEINSIEME SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 244400.0,
+   "aggiudicato": 244400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

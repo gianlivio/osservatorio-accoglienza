@@ -1,0 +1,128 @@
+{
+ "nome": "SPAZIO APERTO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02466410236",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "913429310B",
+   "data": "2022-03-10",
+   "oggetto": "GARA AFFIDAMENTO SERVIZIO GESTIONE ACCOGLIENZA N. 250 CITTADINI STRANIERI CENTRI COLLETTIVI CON CAPACITA' RICETTIVA MASSIMA DI 50 POSTI",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SPAZIO APERTO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA COMPETITIVA CON NEGOZIAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 5124310.0,
+   "aggiudicato": 5059660.27,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "708970841F",
+   "data": "2017-05-02",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SPAZIO APERTO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46800.0,
+   "aggiudicato": 46800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6955705D56",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - BONAFINI COSTRUZIONI - SPAZIO APERTO ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SPAZIO APERTO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 333200.0,
+   "aggiudicato": 333200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6955681989",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - VILLA AMOREVOLE B&B - SPAZIO APERTO ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SPAZIO APERTO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 117950.0,
+   "aggiudicato": 117950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "695567114B",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ZAMBER S.R.L. - SPAZIO APERTO ONLUS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SPAZIO APERTO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1167705.0,
+   "aggiudicato": 1167705.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6192240E16",
+   "data": "2015-03-25",
+   "oggetto": "CONVENZIONE MESSA A DISPOSIZIONE POSTI PRIMA ACCOGLIENZA CITTADINI STRANIERI C/O COOP. SOC. SPAZIO APERTO",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SPAZIO APERTO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 42300.0,
+   "aggiudicato": 42300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERONA"
+  }
+ ]
+}

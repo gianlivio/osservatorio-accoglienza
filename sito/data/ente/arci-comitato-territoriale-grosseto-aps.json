@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI COMITATO TERRITORIALE GROSSETO APS",
+ "cf": "80001620535",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GROSSETO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "689083943B",
+   "data": "2016-11-17",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01/12/2016-28/02/2017 - ARCI COMITATO PROVINCIALE",
+   "amministrazione": "PREFETTURA",
+   "ente": "ARCI COMITATO TERRITORIALE GROSSETO APS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 157410.0,
+   "aggiudicato": 157410.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  }
+ ]
+}

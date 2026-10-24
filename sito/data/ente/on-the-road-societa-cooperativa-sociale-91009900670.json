@@ -1,0 +1,116 @@
+{
+ "nome": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "91009900670",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASCOLI PICENO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "FERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B3F5EAD1CB",
+   "data": "2024-10-24",
+   "oggetto": "SUA P/C DEL COMUNE DI FOLIGNANO (AP): PROCEDURA APERTA EX ART. 71 E 108 C.5 DEL D. LGS. 36/2023, PER L'AFFIDAMENTO DEL SERVIZIO DI INDIVIDUAZIONE DELL'ENTE ATTUATORE DEL PROGETTO S",
+   "amministrazione": "COMUNE DI FOLIGNANO",
+   "ente": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 579200.0,
+   "aggiudicato": 579200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "8479887021",
+   "data": "2020-10-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI RIPATRANSONE",
+   "ente": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 958000.0,
+   "aggiudicato": 958000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "7228850BB9",
+   "data": "2017-06-28",
+   "oggetto": "PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE - SPRAR",
+   "amministrazione": "COMUNE DI RIPATRANSONE",
+   "ente": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 995822.66,
+   "aggiudicato": 995822.66,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "70788492FE",
+   "data": "2017-05-19",
+   "oggetto": "SUA PC COMUNE DI RIPATRANSONE: PROCEDURA APERTA INDIVIDUAZIONE SOGGETTO GESTORE SISTEMA SPRAR",
+   "amministrazione": "PROVINCIA DI FERMO",
+   "ente": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 995822.66,
+   "aggiudicato": 995822.66,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "7008494834",
+   "data": "2017-03-17",
+   "oggetto": "SUA P/C COMUNE DI PORTO SANT'ELPIDIO: GESTIONE PROGETTO SPRAR NUOVI INIZI - ACCOGLIENZA, TUTELA E INTEGRAZIONE A FAVORE DEI RICHIEDENTI ASILO E RIFUGIATI - 34SERV01/17",
+   "amministrazione": "PROVINCIA DI FERMO",
+   "ente": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1333111.08,
+   "aggiudicato": 1333111.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  }
+ ]
+}

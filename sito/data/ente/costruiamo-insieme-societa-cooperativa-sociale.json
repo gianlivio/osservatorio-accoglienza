@@ -1,0 +1,80 @@
+{
+ "nome": "COSTRUIAMO INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02963230731",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6955027DD5",
+   "data": "2017-01-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE BITETTO BITRITTO MODUGNO",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COSTRUIAMO INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2570400.0,
+   "aggiudicato": 25200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "6664411DEC",
+   "data": "2016-03-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE CAS",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COSTRUIAMO INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 102870.6,
+   "aggiudicato": 34.99,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "6199103D9D",
+   "data": "2015-04-03",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "COSTRUIAMO INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9737000.0,
+   "aggiudicato": 33.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

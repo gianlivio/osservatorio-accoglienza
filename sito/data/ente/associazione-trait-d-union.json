@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE TRAIT D'UNION",
+ "cf": "91040450214",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1E17DE053",
+   "data": "2024-05-29",
+   "oggetto": "SVOLGIMENTO DI CORSI DI LINGUA ITALIANA A FAVORE DELLE DEI RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE NEL PROGETTO SIPROMI SAI PER IL PERIODO DAL 01.03.2024 - 31.12.2026.",
+   "amministrazione": "COMUNITA COMPRENSORIALE BURGRAVIATO",
+   "ente": "ASSOCIAZIONE TRAIT D'UNION",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47600.0,
+   "aggiudicato": 47600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

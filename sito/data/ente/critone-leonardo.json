@@ -1,0 +1,38 @@
+{
+ "nome": "CRITONE LEONARDO",
+ "cf": "01334370762",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9A0C771BB",
+   "data": "2025-12-17",
+   "oggetto": "AFFIDAMENTO DIRETTO DELL'INCARICO DI REVISORE INDIPENDENTE PER LA VERIFICA E LA CERTIFICAZIONE DELLE SPESE SOSTENUTE NELL'AMBITO DEL PROGETTO SAI DEL COMUNE DI CASTELSARACENO A VAL",
+   "amministrazione": "COMUNE DI CASTELSARACENO",
+   "ente": "CRITONE LEONARDO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15000.0,
+   "aggiudicato": 15000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

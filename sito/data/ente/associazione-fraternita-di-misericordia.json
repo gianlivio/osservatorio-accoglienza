@@ -1,0 +1,33 @@
+{
+ "nome": "ASSOCIAZIONE  FRATERNITA DI MISERICORDIA",
+ "cf": "92001060505",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6933373067",
+   "data": "2016-08-01",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA MIGRANTI PAIM 2 CONV 2016",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "ASSOCIAZIONE  FRATERNITA DI MISERICORDIA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 212090.13,
+   "aggiudicato": 212090.13,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

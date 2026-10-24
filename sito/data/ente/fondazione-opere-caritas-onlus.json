@@ -1,0 +1,128 @@
+{
+ "nome": "FONDAZIONE OPERE CARITAS ONLUS",
+ "cf": "91026220078",
+ "affidamenti": 6,
+ "diretti": 3,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AOSTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7748119E0E",
+   "data": "2018-01-01",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI - PRIMO SEMESTRE 2019 - CARITAS",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "FONDAZIONE OPERE CARITAS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 225779.4,
+   "aggiudicato": 225779.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "73381110C4",
+   "data": "2018-01-01",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI 2018 (CARITAS)",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "FONDAZIONE OPERE CARITAS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 455301.0,
+   "aggiudicato": 455301.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "683648805F",
+   "data": "2016-10-22",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 2017",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "FONDAZIONE OPERE CARITAS ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 19194770.0,
+   "aggiudicato": 13027846.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6334668D64",
+   "data": "2015-07-16",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI - DAL 16.07.2015 AL 31.12.2015",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "FONDAZIONE OPERE CARITAS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 88200.0,
+   "aggiudicato": 88200.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6277733527",
+   "data": "2015-06-04",
+   "oggetto": "RICERCA DI OPERATORI ECONOMICI PER LA PARTECIPAZIONE AD UNA PROCEDURA PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIO",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "FONDAZIONE OPERE CARITAS ONLUS",
+   "procedura": "PROCEDURA RISTRETTA DERIVANTE DA AVVISI CON CUI SI INDICE LA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 834015.0,
+   "aggiudicato": 612178.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "61270498C7",
+   "data": "2015-01-22",
+   "oggetto": "SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO - ANNO 2015",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "FONDAZIONE OPERE CARITAS ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 231000.0,
+   "aggiudicato": 231000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AOSTA"
+  }
+ ]
+}

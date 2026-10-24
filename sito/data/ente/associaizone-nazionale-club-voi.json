@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAIZONE NAZIONALE CLUB VOI",
+ "cf": "96120790223",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8CEE8D7E8",
+   "data": "2025-10-29",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO A ASSOCIAZIONE NAZIONALE CLUB VOI. PERIODO 11.10.2025 - 17.12.2025",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAIZONE NAZIONALE CLUB VOI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8160.0,
+   "aggiudicato": 8160.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

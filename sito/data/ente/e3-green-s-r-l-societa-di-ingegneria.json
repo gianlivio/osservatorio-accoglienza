@@ -1,0 +1,38 @@
+{
+ "nome": "E3 GREEN S.R.L. SOCIETA' DI INGEGNERIA",
+ "cf": "02868620812",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B486FF1374",
+   "data": "2024-12-02",
+   "oggetto": "P24-293 TRAPANI - SERVIZIO DI PROGETTAZIONE ESECUTIVA PER LA REALIZZAZIONE DI UNA STRUTTURA PER IL TRATTENIMENTO DI RICHIEDENTI ASILO PRESSO EX DEPOSITO MUNIZIONI OFF BASE CONTRADA",
+   "amministrazione": "3 REPARTO GENIO A.M.BARI",
+   "ente": "E3 GREEN S.R.L. SOCIETA' DI INGEGNERIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 134000.0,
+   "aggiudicato": 134000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

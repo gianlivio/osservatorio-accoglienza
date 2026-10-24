@@ -1,0 +1,91 @@
+{
+ "nome": "FONDAZIONE CARITAS DIOCESANA",
+ "cf": "00137280228",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B79B6AF72E",
+   "data": "2025-07-11",
+   "oggetto": "RINNOVO DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 30 GIUGNO 2025, AI SENSI DELL'ARTICO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "FONDAZIONE CARITAS DIOCESANA",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 295088.58,
+   "aggiudicato": 295088.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B6C5A82C14",
+   "data": "2025-05-09",
+   "oggetto": "RINNOVO PER TRE MESI DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 31 MARZO 2025, AI SENSI",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "FONDAZIONE CARITAS DIOCESANA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 92342.25,
+   "aggiudicato": 92342.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B5AAC7AC4C",
+   "data": "2025-02-18",
+   "oggetto": "RINNOVO DEGLI AFFIDAMENTI PER SERVIZI DI ACCOGLIENZA INTEGRATA A BENEFICIO DI RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE IN SCADENZA AL 31 DICEMBRE 2024",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "FONDAZIONE CARITAS DIOCESANA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 91327.5,
+   "aggiudicato": 91327.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "B2D7926605",
+   "data": "2024-08-27",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA STRAORDINARIA PER I RICHIEDENTI PROTEZIONE TEMPORANEA E INTERNAZIONALE, DI CUI AL D.LGS. 142/2015, IN ESITO ALLA PROROGA DELL'EMERGENZA UCRA",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "FONDAZIONE CARITAS DIOCESANA",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 355162.5,
+   "aggiudicato": 355162.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

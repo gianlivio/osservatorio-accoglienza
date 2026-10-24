@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE PHILOS",
+ "cf": "92018010758",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7552007154",
+   "data": "2018-07-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED INTEGRAZIONE IMMIGRATI E RICHIEDENTI ASILO",
+   "amministrazione": "UNIONE DEI COMUNI DELLA GRECIA SALENTINA",
+   "ente": "ASSOCIAZIONE PHILOS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 792646.59,
+   "aggiudicato": 792646.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "CRISAMAR VIAGGI S.A.S DI CRISAFULLI GIUSEPPE & C.",
+ "cf": "02656390834",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B56B187F3D",
+   "data": "2025-01-31",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI TRASPORTO CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DA MESSINA VERSO LA REGIONE LOMBARDIA E PIEMONTE N. 49 POSTI SERVIZIO DELL 8 GENNAIO 202",
+   "amministrazione": "MINISTERO DELL'INTERNO -PREFETTURA MESSINA",
+   "ente": "CRISAMAR VIAGGI S.A.S DI CRISAFULLI GIUSEPPE & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5375.32,
+   "aggiudicato": 5375.32,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

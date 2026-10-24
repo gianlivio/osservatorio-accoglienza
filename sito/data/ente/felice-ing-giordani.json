@@ -1,0 +1,38 @@
+{
+ "nome": "FELICE ING. GIORDANI",
+ "cf": "03317830176",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2DDAF3B33",
+   "data": "2024-08-28",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI COLLAUDO STATICO DELLE OPERE IN CEMENTO ARMATO O A STRUTTURA METALLICA INERENTI ALL'INTERVENTO DI REALIZZAZIONE DEL ",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "FELICE ING. GIORDANI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4643.67,
+   "aggiudicato": 4643.67,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

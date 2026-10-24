@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE IMMIGRATI - ASIM APS",
+ "cf": "97047880790",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B846F9B591",
+   "data": "2025-09-18",
+   "oggetto": "AFFIDAMENTO SERVIZI DI MEDIAZIONE LINGUISTICA CULTURALE NELL'AMBITO DEL PROGETTO CONSTRUERE N.4, COME ESPERTI EX ART. 80 PER I MINORI STRANIERI AFFIDATI AI SERVIZI MINORILI DELLA C",
+   "amministrazione": "CENTRO PER LA GIUSTIZIA MINORILE DI CATANZARO",
+   "ente": "ASSOCIAZIONE IMMIGRATI - ASIM APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9900.0,
+   "aggiudicato": 9900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

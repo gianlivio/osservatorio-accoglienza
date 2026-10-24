@@ -1,0 +1,59 @@
+{
+ "nome": "F&N S.R.L.S. - SOCIETA' A RESPONSABILITA' LIMITATA UNIPERSONALE SEMPLIFICATA",
+ "cf": "02998350801",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9172162387",
+   "data": "2022-04-06",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI CON CAPACITÀ RICETTIVA FINO AD UN MA",
+   "amministrazione": "PREFETTURA DI REGGIO CALABRIA",
+   "ente": "F&N S.R.L.S. - SOCIETA' A RESPONSABILITA' LIMITATA UNIPERSONALE SEMPLIFICATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 19649620.0,
+   "aggiudicato": 5173866.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "72738001A6",
+   "data": "2017-11-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA AI CITTADINI STRANIERI RICHIEDENTI PROTEZINE INTERNAZINALE",
+   "amministrazione": "PREFETTURA DI REGGIO CALABRIA",
+   "ente": "F&N S.R.L.S. - SOCIETA' A RESPONSABILITA' LIMITATA UNIPERSONALE SEMPLIFICATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9581250.0,
+   "aggiudicato": 31.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

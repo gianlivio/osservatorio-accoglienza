@@ -1,0 +1,38 @@
+{
+ "nome": "INTEGRO SOCIETA' COOPERATIVA",
+ "cf": "02295700500",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISTOIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8227829B46",
+   "data": "2020-02-27",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEI CENTRI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE OSPITATI PRESSO STRUTTURE COSTITUITE DA CENTRI COLLETTIV",
+   "amministrazione": "PREFETTURA DI PISTOIA",
+   "ente": "INTEGRO SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 817415.67,
+   "aggiudicato": 817415.67,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "TRAIT D'UNION SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00584510077",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AOSTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9138308253",
+   "data": "2022-03-10",
+   "oggetto": "INTEGRAZIONE EX ART. 106, C. 12 DLGS 50/2016 SERVIZIO GESTIONE SPRAR/SAI PROFUGLI AFGHANI",
+   "amministrazione": "COMUNE DI SAINT VINCENT",
+   "ente": "TRAIT D'UNION SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 199618.0,
+   "aggiudicato": 199618.0,
+   "durata_gg": 485.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AOSTA"
+  },
+  {
+   "cig": "8324824616",
+   "data": "2018-01-01",
+   "oggetto": "PROROGA GESTIONE SERVIZI ACCOGLIENZA CITTADINI STRANIERI - 1/06/2020-15/09/2020 - ATI LA SORGENTE TRAIT D'UNION",
+   "amministrazione": "REGIONE AUTONOMA DELLA VALLE D AOSTA SERVIZI PREFETTURA",
+   "ente": "TRAIT D'UNION SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 76505.0,
+   "aggiudicato": 76505.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

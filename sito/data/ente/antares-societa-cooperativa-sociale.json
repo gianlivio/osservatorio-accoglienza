@@ -1,0 +1,86 @@
+{
+ "nome": "ANTARES SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01979460845",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "69078000E5",
+   "data": "2016-12-13",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE ANTARES RELATIVA RELATIVE AL 1^ E 2^ TRIMESTRE 2016 E RECUPERO SOMMA GIUSTA DELIBERAZIONE DELLA GIUNTA COMUNALE",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ANTARES SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66998.88,
+   "aggiudicato": 66998.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6688218C15",
+   "data": "2016-05-09",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 3^ TRIMESTRE 2015 COOP. SOC. ANTARES",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ANTARES SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47120.19,
+   "aggiudicato": 47120.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "66775264C6",
+   "data": "2016-04-26",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 2^ TRIMESTRE 2015 COP. SOC. ANTARES",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ANTARES SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43355.76,
+   "aggiudicato": 43355.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "659455816B",
+   "data": "2016-02-16",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERI MSNA 1^ TRIMESTRE 2015 COOPERATIVA SOCIALE ANTARES",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ANTARES SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 44730.0,
+   "aggiudicato": 44730.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

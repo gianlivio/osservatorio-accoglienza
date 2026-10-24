@@ -1,0 +1,133 @@
+{
+ "nome": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02835640166",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5CF13368B",
+   "data": "2025-02-27",
+   "oggetto": "SUA PROVINCIA DI BERGAMO. COMUNE DI OSIO SOTTO (BG). PROGETTO SAI - SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA DI TITOLARI DI PROTEZIONE INTERNAZIONALE DI CUI AL DECRETO DEL MIN",
+   "amministrazione": "PROVINCIA DI BERGAMO",
+   "ente": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4976222.7,
+   "aggiudicato": 1832451.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "9463167473",
+   "data": "2022-11-11",
+   "oggetto": "SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA DI TITOLARI DI PROTEZIONE INTERNAZIONALE - SAI DEL COMUNE DI BERGAMO FINO AL 31/12/2025 - FINANZIAMENTO (FNPSA) 2023 - 2025.",
+   "amministrazione": "COMUNE DI BERGAMO",
+   "ente": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4592518.99,
+   "aggiudicato": 2015170.89,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "8528241F18",
+   "data": "2020-11-25",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'APPALTO DEL SERVIZIO DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA SIPROIMI IN FAVORE DI TITOLARI DI PROTEZIONE INTERNAZIONALE, DI CUI AL D",
+   "amministrazione": "CONSORZIO SERVIZI DELLA VAL CAVALLINA",
+   "ente": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 996212.7,
+   "aggiudicato": 996212.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "8469493EB6",
+   "data": "2020-10-28",
+   "oggetto": "INDIVIUAZIONE EI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL PROGETTO (SPRAR SIPROIMI) DI LEVATE PER IL TRIENNIO 2021/2023",
+   "amministrazione": "COMUNE DI LEVATE",
+   "ente": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1719330.57,
+   "aggiudicato": 1719330.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "8461116DCB",
+   "data": "2020-10-13",
+   "oggetto": "ALL'INDIVIDUAZIONE DI UN ENTE ATTUATORE PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA SIPROIMI IN FAVORE DI TITOLARI DI PROTEZIONE INTERNAZIONALE,",
+   "amministrazione": "COMUNE DI BERGAMO",
+   "ente": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 973345.4,
+   "aggiudicato": 973345.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "69794074DB",
+   "data": "2016-09-28",
+   "oggetto": "CONVENZIONE CON L'ATI CON CAPOFILA CONSORZIO SOLCO CITTÀ APERTA PER L'ATTUAZIONE DEL PROGETTO SPRAR FINALIZZATO ALL'ACCOGLIENZA, INTEGRAZIONE E TUTELA A FAVORE DI RICHIEDENTI ASILO",
+   "amministrazione": "COMUNE DI BERGAMO",
+   "ente": "CONSORZIO SOL.CO CITTA' APERTA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 500428.0,
+   "aggiudicato": 500428.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02482430218",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B24179A450",
+   "data": "2024-06-28",
+   "oggetto": "OA24_0799 DELIMITAZIONE E MESSA IN SICUREZZA DEL PERIMETRO TRAMITE RECINZIONE DELL'EX FABBRICATO PROFUGHI P.ED 594 SITO IN MERANO",
+   "amministrazione": "STA - STRUTTURE TRASPORTO ALTO ADIGE S.P.A.",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21005.0,
+   "aggiudicato": 21005.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  },
+  {
+   "cig": "B1180F0B02",
+   "data": "2024-04-05",
+   "oggetto": "OA24_0352 CHIUSURA E MESSA IN SICUREZZA DELLE ENTRATE DELL'EX FABBRICATO PROFUGHI DI MERANO E CONTESTUALE SANIFICAZIONE DEI LOCALI",
+   "amministrazione": "STA - STRUTTURE TRASPORTO ALTO ADIGE S.P.A.",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10650.0,
+   "aggiudicato": 10650.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

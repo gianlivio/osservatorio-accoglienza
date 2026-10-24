@@ -1,0 +1,70 @@
+{
+ "nome": "COOPERATIVA NUOVI ORIZZONTI SOCIALI - COOPERATIVA SOCIALE IN SIGLA NOS - COOPERATIVA SOCIALE",
+ "cf": "00300190667",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "73836447C7",
+   "data": "2018-02-12",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA NUOVI ORIZZONTI SOCIALI - COOPERATIVA SOCIALE IN SIGLA NOS - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 150400.0,
+   "aggiudicato": 150400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7383631D0B",
+   "data": "2018-02-12",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA NUOVI ORIZZONTI SOCIALI - COOPERATIVA SOCIALE IN SIGLA NOS - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 188800.0,
+   "aggiudicato": 188800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6740884174",
+   "data": "2016-07-05",
+   "oggetto": "ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI PER ASSICURARE I SERVIZI DI ACCOGLIENZA E SERVIZI CONNESSI AI CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLA PROVINCIA DELL'AQUILA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COOPERATIVA NUOVI ORIZZONTI SOCIALI - COOPERATIVA SOCIALE IN SIGLA NOS - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2135000.0,
+   "aggiudicato": 32.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

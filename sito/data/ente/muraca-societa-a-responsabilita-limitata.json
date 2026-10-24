@@ -1,0 +1,38 @@
+{
+ "nome": "MURACA SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "03114000791",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VIBO VALENTIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1FCB6AD05",
+   "data": "2024-06-06",
+   "oggetto": "SERVIZIO DI RACCOLTA E TRASPORTO DEI RIFIUTI HOT SPOT MIGRANTI DI PORTOSALVO PRESSO IMPIANTI AUTORIZZATI",
+   "amministrazione": "COMUNE DI VIBO VALENTIA",
+   "ente": "MURACA SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34515.0,
+   "aggiudicato": 34515.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VIBO VALENTIA"
+  }
+ ]
+}

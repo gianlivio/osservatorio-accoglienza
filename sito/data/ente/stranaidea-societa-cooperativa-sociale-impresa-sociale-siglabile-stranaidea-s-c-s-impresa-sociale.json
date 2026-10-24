@@ -1,0 +1,75 @@
+{
+ "nome": "STRANAIDEA - SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE SIGLABILE STRANAIDEA - S.C.S. IMPRESA SOCIALE",
+ "cf": "05188910011",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4734091C5",
+   "data": "2024-11-27",
+   "oggetto": "SERVIZIO RELATIVO ALLE ATTIVITA' DELLO SPORTELLO STRANIERI. RICHIESTA DISPONIBILITA' RINNOVO PERIODO: 01.01.2025 – 31.12.2028.",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIO ASSISTENZIALI",
+   "ente": "STRANAIDEA - SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE SIGLABILE STRANAIDEA - S.C.S. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24777.2,
+   "aggiudicato": 24777.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B253D8F90C",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA STRUTTURE ABITATIVE SITI NEL TERRITORIO M",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "STRANAIDEA - SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE SIGLABILE STRANAIDEA - S.C.S. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1178177.6,
+   "aggiudicato": 1178177.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "85507752C1",
+   "data": "2020-12-18",
+   "oggetto": "PROCEDURA APERTA PER LA SELEZIONE DEL SOGGETTO ATTUATORE PER LA PROSECUZIONE DELLA GESTIONE DEL PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIO ASSISTENZIALI",
+   "ente": "STRANAIDEA - SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE SIGLABILE STRANAIDEA - S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2189999.66,
+   "aggiudicato": 912449.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

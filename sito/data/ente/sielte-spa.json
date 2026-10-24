@@ -1,0 +1,33 @@
+{
+ "nome": "SIELTE SPA",
+ "cf": "00941910788",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "80822660E6",
+   "data": "2019-10-29",
+   "oggetto": "FORNITURA DI N. 150 POSTAZIONI DI LAVORO DI CONFERENCE SYSTEM COMPLETE DEI COMPONENTI DECSCRITTI NEL CAPITOLATO TECNICO NECESSARI ALL'ACQUISIZIONE AUDIO/VIDEO DELLE AUDIZIONI DEI R",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SIELTE SPA",
+   "procedura": "SISTEMA DINAMICO DI ACQUISIZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1037500.0,
+   "aggiudicato": 999933.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

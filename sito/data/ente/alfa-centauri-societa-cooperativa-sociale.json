@@ -1,0 +1,91 @@
+{
+ "nome": "ALFA CENTAURI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01621650629",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B132D88AD1",
+   "data": "2024-04-11",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI ALLA STRUTTURA SOCIETA' COOPERATIVA SOCIALE ALFA CENTAURI. IMPEGNO DI SPESA PRE",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ALFA CENTAURI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17992.0,
+   "aggiudicato": 17992.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B11C676A62",
+   "data": "2024-04-05",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI ALLA STRUTTURA SOCIETA' COOPERATIVA SOCIALE ALFA CENTAURI. IMPEGNO DI SPESA PRE",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ALFA CENTAURI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17992.0,
+   "aggiudicato": 17992.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B10BE51FC3",
+   "data": "2024-04-02",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI ALLA STRUTTURA SOCIETA' COOPERATIVA SOCIALE ALFA CENTAURI. IMPEGNO DI SPESA PRE",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ALFA CENTAURI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17992.0,
+   "aggiudicato": 17992.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "A005EF5D3B",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO PRESUNTO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO E RIDETERMINAZIONE CONTESTU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ALFA CENTAURI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55361.6,
+   "aggiudicato": 55361.6,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

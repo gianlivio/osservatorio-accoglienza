@@ -1,0 +1,111 @@
+{
+ "nome": "ASSOCIAZIONE PUNTO A CAPO ONLUS",
+ "cf": "02540500929",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "SUD SARDEGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B65D2C7DD6",
+   "data": "2025-04-11",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA N. 1 MSNA",
+   "amministrazione": "COMUNE DI SETTIMO SAN PIETRO",
+   "ente": "ASSOCIAZIONE PUNTO A CAPO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18100.0,
+   "aggiudicato": 18100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "B40D050A74",
+   "data": "2025-04-11",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MSNA N. 3",
+   "amministrazione": "COMUNE DI SETTIMO SAN PIETRO",
+   "ente": "ASSOCIAZIONE PUNTO A CAPO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36400.0,
+   "aggiudicato": 36400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "B40CEB78F0",
+   "data": "2025-04-11",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA MSNA N. 2",
+   "amministrazione": "COMUNE DI SETTIMO SAN PIETRO",
+   "ente": "ASSOCIAZIONE PUNTO A CAPO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13400.0,
+   "aggiudicato": 13400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "B2BCD5AE8C",
+   "data": "2025-04-11",
+   "oggetto": "PROSECUZIONE INSERIMENTO IN STRUTTURA MSNA",
+   "amministrazione": "COMUNE DI SETTIMO SAN PIETRO",
+   "ente": "ASSOCIAZIONE PUNTO A CAPO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43920.0,
+   "aggiudicato": 43920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "B4D2AF0BEA",
+   "data": "2024-12-24",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI PROSECUZIONE ACCOGLIIMENTO IN COMUNITÀ DI UN MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE SIURGUS DONIGALA",
+   "ente": "ASSOCIAZIONE PUNTO A CAPO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47520.0,
+   "aggiudicato": 47520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  }
+ ]
+}

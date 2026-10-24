@@ -1,0 +1,54 @@
+{
+ "nome": "INSIEME SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA -  IN LIQUIDAZIONE",
+ "cf": "04295900270",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6537064BDB",
+   "data": "2015-12-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - INSIEME HOTEL AL BRAGOSSO - CHIOGGIA - PROROGA DAL 01/01 AL 14/03/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "INSIEME SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA -  IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 133866.0,
+   "aggiudicato": 133866.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "62891670CB",
+   "data": "2015-06-10",
+   "oggetto": "ACCOGLIENZA STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 11/05 - 31/12/2015 (SOC. INSIEME SRL)",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "INSIEME SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA -  IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 354262.5,
+   "aggiudicato": 354262.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

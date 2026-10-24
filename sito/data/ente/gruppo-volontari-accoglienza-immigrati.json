@@ -1,0 +1,75 @@
+{
+ "nome": "GRUPPO VOLONTARI ACCOGLIENZA IMMIGRATI",
+ "cf": "92013380461",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7171055DC7",
+   "data": "2017-08-03",
+   "oggetto": "CONVENZIONE PER ATTIVITÀ DI INCLUSIONE SOCIALE - CENTRO ACCOGLIENZA IMMIGRATI",
+   "amministrazione": "COMUNE DI LUCCA",
+   "ente": "GRUPPO VOLONTARI ACCOGLIENZA IMMIGRATI",
+   "procedura": "AFFIDAMENTO DIRETTO EX ART.5 DELLA LEGGE N.381/91",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45000.0,
+   "aggiudicato": 45000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7171053C21",
+   "data": "2017-08-03",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI LUCCA",
+   "ente": "GRUPPO VOLONTARI ACCOGLIENZA IMMIGRATI",
+   "procedura": "AFFIDAMENTO DIRETTO EX ART.5 DELLA LEGGE N.381/91",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75000.0,
+   "aggiudicato": 75000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "6853953CEE",
+   "data": "2016-10-24",
+   "oggetto": "SERVIZIO DI I^ ACCOGLIENZA MIGRANTI - PERIODO 26/10/2016 - 31/12/2016",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "GRUPPO VOLONTARI ACCOGLIENZA IMMIGRATI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48240.0,
+   "aggiudicato": 48240.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  }
+ ]
+}

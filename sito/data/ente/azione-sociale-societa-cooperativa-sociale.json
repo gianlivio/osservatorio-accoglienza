@@ -1,0 +1,117 @@
+{
+ "nome": "AZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01297770834",
+ "affidamenti": 5,
+ "diretti": 1,
+ "quota_diretti": 20.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7ABF65973",
+   "data": "2025-07-17",
+   "oggetto": "AMPLIAMENTO DUE POSTI PROGETTO SAI",
+   "amministrazione": "COMUNE DI PACE DEL MELA",
+   "ente": "AZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26869.23,
+   "aggiudicato": 26869.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  },
+  {
+   "cig": "99279313D6",
+   "data": "2023-06-30",
+   "oggetto": "PROCEDURAAPERTA SOPRA SOGLIA TRAMITE PIATTAFORMA TELEMATICA- PROGETTO SAI/SIPROIMI- CATEG. ORDINARI - PERIODO 01/07/2023- 31/12/2025",
+   "amministrazione": "COMUNE DI MESSINA",
+   "ente": "AZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1071385.11,
+   "aggiudicato": 1020366.77,
+   "durata_gg": 912.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  },
+  {
+   "cig": "9577280D77",
+   "data": "2023-01-13",
+   "oggetto": "INDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEL PROGETTO SAI - PER 22 POSTI CATEGORIA 'ORDINARI' AUTORIZZATO ALLA PROSECUZIONE DAL 01/01/2023 AL 31/12/2025-PROG 720-PR- 3 MEDIANTE PROCED",
+   "amministrazione": "COMUNE DI MONTALBANO ELICONA",
+   "ente": "AZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 859522.01,
+   "aggiudicato": 859522.01,
+   "durata_gg": 1005.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  },
+  {
+   "cig": "854796972A",
+   "data": "2021-03-01",
+   "oggetto": "PROGETTO ACCOGLIENZA SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE SIPROIMI",
+   "amministrazione": "COMUNE DI RODI MILICI",
+   "ente": "AZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 919158.0,
+   "aggiudicato": 689368.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  },
+  {
+   "cig": "8445917F2E",
+   "data": "2020-10-16",
+   "oggetto": "PROGETTO PROSECUZIONE PROGETTO ACCOGLIENZA ORDINARIA SPRAR SIPROIMI 201/2022",
+   "amministrazione": "COMUNE DI MONTALBANO ELICONA",
+   "ente": "AZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 716744.0,
+   "aggiudicato": 680763.451,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

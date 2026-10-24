@@ -1,0 +1,139 @@
+{
+ "nome": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03478811205",
+ "affidamenti": 7,
+ "diretti": 5,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9A6C9A75D",
+   "data": "2025-12-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI VIA VESTRI GENN-DIC26",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137627.0,
+   "aggiudicato": 137627.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B9A64ABB53",
+   "data": "2025-12-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI LOTO DORATO GENN-GIU 26",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 426548.0,
+   "aggiudicato": 426548.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B78A722FED",
+   "data": "2025-07-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 427267.0,
+   "aggiudicato": 427267.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B703B678E1",
+   "data": "2025-05-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 80258.0,
+   "aggiudicato": 80258.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B4D2D8F5A6",
+   "data": "2024-12-16",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 424000.0,
+   "aggiudicato": 424000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B1DD6AB279",
+   "data": "2024-05-29",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 365044.0,
+   "aggiudicato": 365044.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B0BBA56CC5",
+   "data": "2024-03-08",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "LOTO DORATO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 124440.0,
+   "aggiudicato": 124440.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

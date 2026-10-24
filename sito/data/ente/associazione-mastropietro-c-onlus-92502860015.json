@@ -1,0 +1,80 @@
+{
+ "nome": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+ "cf": "92502860015",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2531C6F55",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA STRUTTURE ABITATIVE SITI NEL TERRITORIO M",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1460385.0,
+   "aggiudicato": 1460385.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "728229866A",
+   "data": "2017-11-20",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 51408.0,
+   "aggiudicato": 51408.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6830627BB5",
+   "data": "2016-10-11",
+   "oggetto": "GESTIONE DI UN CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "ASSOCIAZIONE MASTROPIETRO & C. ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 60713.0,
+   "aggiudicato": 60713.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

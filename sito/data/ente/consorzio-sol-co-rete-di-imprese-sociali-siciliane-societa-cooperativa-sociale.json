@@ -1,0 +1,182 @@
+{
+ "nome": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03126080872",
+ "affidamenti": 8,
+ "diretti": 3,
+ "quota_diretti": 37.5,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "CALTANISSETTA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "ENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5E13693E5",
+   "data": "2025-03-03",
+   "oggetto": "FORNITURA DI BENI ED EROGAZIONE DEI SERVIZI DI ACCOGLIENZA PER COMPLESSIVI 600 PRESSO I CENTRI, SITI NEL COMUNE DELLA PROVINCIA DI PALERMO (COMPRESO IL CAPOLUOGO), COSTITUITI DA CE",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1360562.42,
+   "aggiudicato": 1360562.42,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B219ACE3F4",
+   "data": "2024-06-13",
+   "oggetto": "CONSORZIO SOL.CO – RETE IMPRESE SOCIALI SICILIANE CAS PIANO TORRE AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERN",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1372904.0,
+   "aggiudicato": 1372904.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B21997573F",
+   "data": "2024-06-13",
+   "oggetto": "CONSORZIO SOL.CO – RETE IMPRESE SOCIALI SICILIANE CAS WELCOME AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIO",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1372904.0,
+   "aggiudicato": 1372904.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "85493055AB",
+   "data": "2020-12-16",
+   "oggetto": "SELEZIONE DI UN SOGGETTO ENTE ATTUATORE DEL PROGETTO SIPRIOMI (EX SPRAR) ORDINARI CATANIA PER 96 POSTI - BIENNIO 2021/2022",
+   "amministrazione": "COMUNE DI CATANIA",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3119586.22,
+   "aggiudicato": 2885594.73,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7212972CC8",
+   "data": "2017-09-22",
+   "oggetto": "PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DELLA GESTIONE E ATTUAZIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO ",
+   "amministrazione": "COMUNE DI GELA",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 732743.96,
+   "aggiudicato": 732743.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "71667404F0",
+   "data": "2017-08-11",
+   "oggetto": "PROCEDURA APERTA AI SENSI DELL'ART. 140 COMMA1, DEL DLGS N. 50/2016 PER L' INDIVIDUAZIONE DELL'ENTE /I ATTUATORI/I DEL PROGETTO SPRAR CATEGORIA ORDINARI (DM 10ZAGOSTO 2016) TRIENNI",
+   "amministrazione": "COMUNE DI MONTELEPRE",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1298716.62,
+   "aggiudicato": 1279235.87,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "71525506FA",
+   "data": "2017-07-20",
+   "oggetto": "SELEZIONE ENTE ATTUATORE PER COPROGETTAZIONE E ATTUAZIONE SERVIZIO SPRAR",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA COMUNI DI TROINA NICOSIA AGIRA",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1723800.0,
+   "aggiudicato": 1723800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "6920886FC9",
+   "data": "2016-12-27",
+   "oggetto": "INDIVIDUAZIONE ENTE ATTUATORE VOLTO AD ASSICURARE L'ACCOGLIENZA A FAVORE DI RICHIEDENTI ASILO E RIFUGIATI - NUCLEI FAMILIARI - SPRAR - PRESSO L'IMMOBILE DI PROPRIETÀ COMUNALE SITO ",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA COMUNI DI GRAVINA DI CATANIA MASCALUCIA E SANT'AGATA LI BATTIATI",
+   "ente": "CONSORZIO SOL.CO. -  RETE DI IMPRESE SOCIALI SICILIANE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 965148.0,
+   "aggiudicato": 965148.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  }
+ ]
+}

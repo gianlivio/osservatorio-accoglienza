@@ -1,0 +1,38 @@
+{
+ "nome": "BOCCALATTE LUCA",
+ "cf": "06833790824",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9841301280",
+   "data": "2023-06-28",
+   "oggetto": "AFFIDAMENTO INCARICO DI COORDINAMENTO , CONTROLLO DI QUALITÀ, REVISIONE CONTABILE E MONITORAGGIO - PROGETTO PER IL RAFFORZAMENTO DEI SERVIZI DEDICATI AGLI ANZIANI E DISABILI E ALL'",
+   "amministrazione": "COMUNE DI CORLEONE",
+   "ente": "BOCCALATTE LUCA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4156.03,
+   "aggiudicato": 4114.47,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

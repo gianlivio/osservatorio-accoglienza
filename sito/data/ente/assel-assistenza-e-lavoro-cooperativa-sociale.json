@@ -1,0 +1,96 @@
+{
+ "nome": "ASSEL ASSISTENZA E LAVORO COOPERATIVA SOCIALE",
+ "cf": "02768890648",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "85584586F6",
+   "data": "2020-12-30",
+   "oggetto": "ATTUAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE E DEI TITOLARI DI PROTEZIONE, NELL",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "ASSEL ASSISTENZA E LAVORO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 823130.28,
+   "aggiudicato": 823130.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "7493739D0A",
+   "data": "2018-05-17",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L'ATTUAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE E DI PROT",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "ASSEL ASSISTENZA E LAVORO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 659793.75,
+   "aggiudicato": 659793.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7443659DB7",
+   "data": "2018-04-16",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L 'ATTUAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE E DI PRO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "ASSEL ASSISTENZA E LAVORO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 706316.93,
+   "aggiudicato": 659793.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "7092844009",
+   "data": "2017-05-29",
+   "oggetto": "INDIVIDUAZIONE PER UN SOGGETTO ATTUATORE PER LA COPROGETTAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI DI PROTEZIONE E ASILO NELL'AMBITO DELLA RETE SPRAR",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "ASSEL ASSISTENZA E LAVORO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3274050.0,
+   "aggiudicato": 3274050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

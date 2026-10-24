@@ -1,0 +1,197 @@
+{
+ "nome": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03621921208",
+ "affidamenti": 10,
+ "diretti": 6,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 2,
+   "quota_diretti": 40.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9B6D34877",
+   "data": "2025-12-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI CASA ENNAT",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 213274.0,
+   "aggiudicato": 213274.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B86CF0FED1",
+   "data": "2025-09-30",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI CASA BEREKET OTT25-SETT26",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 292457.0,
+   "aggiudicato": 292457.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B78A7B3798",
+   "data": "2025-07-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 215650.0,
+   "aggiudicato": 215650.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B4D061FA29",
+   "data": "2024-12-16",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 212134.0,
+   "aggiudicato": 212134.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B333A5C173",
+   "data": "2024-09-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 290067.0,
+   "aggiudicato": 290067.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B22083C1D7",
+   "data": "2024-06-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA DI GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 209191.0,
+   "aggiudicato": 209191.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B102C34C2F",
+   "data": "2024-03-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 116090.0,
+   "aggiudicato": 116090.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B08FD92285",
+   "data": "2024-02-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 116864.0,
+   "aggiudicato": 116864.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "9928357362",
+   "data": "2023-06-22",
+   "oggetto": "PROROGA ACCOGLIENZA PROFUGHI UCRAINI-ILDOMANI LUG-DIC2023",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 174331.0,
+   "aggiudicato": 174331.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "8664915210",
+   "data": "2021-03-22",
+   "oggetto": "PROCEDURA DI GARA APERTA AI SENSI DELL'ART.60 DEL D.LGS. 50/2016 PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON PIU' OPERATORI ECONOMICI PER L'AFFIDAMENTO, NEL TERRITORIO DELLA PROVIN",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "DOMANI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17833935.0,
+   "aggiudicato": 513429.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

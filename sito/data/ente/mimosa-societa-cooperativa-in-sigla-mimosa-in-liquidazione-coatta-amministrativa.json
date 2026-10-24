@@ -1,0 +1,70 @@
+{
+ "nome": "MIMOSA - SOCIETA' COOPERATIVA IN SIGLA MIMOSA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+ "cf": "00485050223",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "735521429B",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "MIMOSA - SOCIETA' COOPERATIVA IN SIGLA MIMOSA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 171547.2,
+   "aggiudicato": 57182.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "73551784E5",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "MIMOSA - SOCIETA' COOPERATIVA IN SIGLA MIMOSA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 192340.8,
+   "aggiudicato": 64113.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7354751486",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "MIMOSA - SOCIETA' COOPERATIVA IN SIGLA MIMOSA IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 270316.8,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

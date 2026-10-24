@@ -1,0 +1,54 @@
+{
+ "nome": "FCA FLEET & TENDERS S.R.L.",
+ "cf": "06908900019",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B443E8C864",
+   "data": "2024-11-13",
+   "oggetto": "FORNITURA DI UNA MACCHINA DI SERVIZIO ELETTRICA",
+   "amministrazione": "BEZIRKSGEMEINSCHAFT VINSCHGAU",
+   "ente": "FCA FLEET & TENDERS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26582.62,
+   "aggiudicato": 26582.62,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B42AC9FA66",
+   "data": "2024-11-07",
+   "oggetto": "FORNITURA DI UNA MACCHINA DI SERVIZIO",
+   "amministrazione": "BEZIRKSGEMEINSCHAFT VINSCHGAU",
+   "ente": "FCA FLEET & TENDERS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26365.0,
+   "aggiudicato": 26365.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

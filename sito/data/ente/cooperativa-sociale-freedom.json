@@ -1,0 +1,181 @@
+{
+ "nome": "COOPERATIVA SOCIALE FREEDOM",
+ "cf": "04111510618",
+ "affidamenti": 9,
+ "diretti": 8,
+ "quota_diretti": 88.9,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B831DE771E",
+   "data": "2025-09-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2437347.36,
+   "aggiudicato": 2437347.36,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B5DD594D61",
+   "data": "2025-03-04",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139627.14,
+   "aggiudicato": 139627.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B5DD592BBB",
+   "data": "2025-03-04",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139691.31,
+   "aggiudicato": 139691.31,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B28F23B776",
+   "data": "2024-07-24",
+   "oggetto": "ACCOGLIENZA MIGRANTI E SERVIZI CONNESSI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139452.3,
+   "aggiudicato": 139452.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B253B61C91",
+   "data": "2024-07-04",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137056.7,
+   "aggiudicato": 137056.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "993999575C",
+   "data": "2023-07-04",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI FINO A 50 POSTI COOP. FREEDOM",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1193695.13,
+   "aggiudicato": 1193695.13,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "A02673A448",
+   "data": "2023-04-26",
+   "oggetto": "CONVENZIONE AFFIDAMENTO DIRETTO ACCOGLIENZA MIGRANTI FREEDOM CENTRI COLLETTIVI CANCELLO E ARNONE",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 192379.2,
+   "aggiudicato": 27.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "A001F9B5B9",
+   "data": "2023-04-26",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI - AFFIDAMENTO DIRETTO COOP.FREEDOM MARZANO APPIO",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 178000.5,
+   "aggiudicato": 27.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "702125179D",
+   "data": "2017-03-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA N. 100 MIGRANTI FINO AL 20 MAGGIO 2017",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "COOPERATIVA SOCIALE FREEDOM",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 199500.0,
+   "aggiudicato": 32.55,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

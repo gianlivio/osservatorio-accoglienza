@@ -1,0 +1,70 @@
+{
+ "nome": "ASSOCIAZIONE ONLUS LA GINESTRA",
+ "cf": "90049060594",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7063366A02",
+   "data": "2016-12-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ASSOCIAZIONE ONLUS LA GINESTRA",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1217160.0,
+   "aggiudicato": 1217160.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "7063186579",
+   "data": "2016-12-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ASSOCIAZIONE ONLUS LA GINESTRA",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4953900.0,
+   "aggiudicato": 4953900.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "68921985B6",
+   "data": "2016-06-23",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ASSOCIAZIONE ONLUS LA GINESTRA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 390000.0,
+   "aggiudicato": 390000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

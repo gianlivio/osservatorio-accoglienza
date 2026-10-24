@@ -1,0 +1,86 @@
+{
+ "nome": "ASSOCIAZIONE AQUARIUS",
+ "cf": "02034860896",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B504C550D7",
+   "data": "2024-12-30",
+   "oggetto": "OSPITALITÀ MSNA DI GENERE MASCHILE",
+   "amministrazione": "COMUNE DI ROSOLINI",
+   "ente": "ASSOCIAZIONE AQUARIUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 101300.0,
+   "aggiudicato": 101300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B504754FB5",
+   "data": "2024-12-30",
+   "oggetto": "OSPITALITÀ MSNA DI GENERE MASCHILE",
+   "amministrazione": "COMUNE DI ROSOLINI",
+   "ente": "ASSOCIAZIONE AQUARIUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 113500.0,
+   "aggiudicato": 113500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B455EA681E",
+   "data": "2024-11-20",
+   "oggetto": "RICOVERO DI MSNA PRESSO COMUNITA' AQUARIUS PERIODO 01.04.2024 AL 30.06.2024",
+   "amministrazione": "COMUNE DI ROSOLINI",
+   "ente": "ASSOCIAZIONE AQUARIUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 100100.0,
+   "aggiudicato": 100100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1EE8FA054",
+   "data": "2024-06-03",
+   "oggetto": "INSERIMENTO NUMERO 13 MINORI STRANIERI NON ACCOMPAGNATI DI SESSO MASCHILE PRESSO LA STRUTTURA GESTITA DALLA ASSOCIAZIONE AQUARIUS PERIODO I TRIMESTE 2024",
+   "amministrazione": "COMUNE DI ROSOLINI",
+   "ente": "ASSOCIAZIONE AQUARIUS ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 77100.0,
+   "aggiudicato": 77100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

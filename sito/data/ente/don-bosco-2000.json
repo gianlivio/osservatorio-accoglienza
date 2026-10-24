@@ -1,0 +1,38 @@
+{
+ "nome": "DON BOSCO 2000",
+ "cf": "91054450860",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CALTANISSETTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9851340EEE",
+   "data": "2022-05-04",
+   "oggetto": "RETE SAI CATEGORIA ORDINARI PROG1988 TRIENNIO 2022-2024",
+   "amministrazione": "COMUNE DI SANTA CATERINA VILLARMOSA",
+   "ente": "DON BOSCO 2000",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 680292.47,
+   "aggiudicato": 680292.47,
+   "durata_gg": 1000.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  }
+ ]
+}

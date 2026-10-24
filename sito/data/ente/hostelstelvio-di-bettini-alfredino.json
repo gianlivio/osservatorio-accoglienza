@@ -1,0 +1,54 @@
+{
+ "nome": "HOSTELSTELVIO DI BETTINI ALFREDINO",
+ "cf": "02275350128",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "798026964E",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/6/2019 - 31/10/2019.",
+   "amministrazione": "PREFETTURA",
+   "ente": "HOSTELSTELVIO DI BETTINI ALFREDINO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 201960.0,
+   "aggiudicato": 201960.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "78319097C2",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/1/2019 - 31/5/2019.",
+   "amministrazione": "PREFETTURA",
+   "ente": "HOSTELSTELVIO DI BETTINI ALFREDINO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 252955.2,
+   "aggiudicato": 252955.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  }
+ ]
+}

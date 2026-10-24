@@ -1,0 +1,54 @@
+{
+ "nome": "FONDAZIONE CITTA'DELLA PACE PER I BAMBINI BASILICATA",
+ "cf": "96059940765",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A02CD4D045",
+   "data": "2023-11-16",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI TITOLARI DI PROTEZIONE INTERNAZIONALE (MSNA) FINO AL 31/12/2023",
+   "amministrazione": "COMUNE DI RIVELLO",
+   "ente": "FONDAZIONE CITTA'DELLA PACE PER I BAMBINI BASILICATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 51465.0,
+   "aggiudicato": 51460.0,
+   "durata_gg": 61.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "99939146BA",
+   "data": "2023-07-29",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI TITOLARI DI PROTEZIONE INTERNAZIONALE (MSNA) FINO AL 31/10/2023",
+   "amministrazione": "COMUNE DI RIVELLO",
+   "ente": "FONDAZIONE CITTA'DELLA PACE PER I BAMBINI BASILICATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 77976.0,
+   "aggiudicato": 77980.0,
+   "durata_gg": 95.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE CEIS FORMAZIONE",
+ "cf": "03008410361",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B23979B421",
+   "data": "2024-06-26",
+   "oggetto": "SERVIZIO FINALIZZATO AL POTENZIAMENTO DEL SERVIZIO DI ALFABETIZZAZIONE RIVOLTO A MINORI STRANIERI NON ACCOMPAGNATI, NON INSERITI NEL PROGETTO SAI DA LUGLIO 2024 A DICEMBRE 2024",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "COOPERATIVA SOCIALE CEIS FORMAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34500.0,
+   "aggiudicato": 34500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  }
+ ]
+}

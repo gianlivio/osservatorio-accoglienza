@@ -1,0 +1,86 @@
+{
+ "nome": "SERVIRE COOPERATIVA SOCIALE",
+ "cf": "02171000264",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6294750008",
+   "data": "2015-06-19",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NR. 38 POSTI SINO AL 30.6.15",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "SERVIRE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66200.0,
+   "aggiudicato": 66200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "627753950F",
+   "data": "2015-06-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NR. 67 POSTI",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "SERVIRE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 71000.0,
+   "aggiudicato": 71000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "6243340726",
+   "data": "2015-05-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHEDENTI PROTEZIONE INTERNAZIONALE DAL 01.06.2015 AL 31.12.2015 -ULSS 8",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "SERVIRE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1548000.0,
+   "aggiudicato": 1548000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "61152629D6",
+   "data": "2015-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - 01/02/2015-31/03/2015 - NR. 67 POSTI VARIE LOCALITA'",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "SERVIRE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138500.0,
+   "aggiudicato": 138500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

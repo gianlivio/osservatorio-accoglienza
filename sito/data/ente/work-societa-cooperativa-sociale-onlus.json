@@ -1,0 +1,84 @@
+{
+ "nome": "WORK - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "01381690807",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B419430E96",
+   "data": "2024-11-05",
+   "oggetto": "GESTIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (SAI-SIPROIMI) PER IL ",
+   "amministrazione": "COMUNE DI REGGIO CALABRIA",
+   "ente": "WORK - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1506555.0,
+   "aggiudicato": 1021832.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "8562471698",
+   "data": "2021-05-14",
+   "oggetto": "AFFIDAMENTO DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (",
+   "amministrazione": "COMUNE DI REGGIO CALABRIA",
+   "ente": "WORK - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1093630.47,
+   "aggiudicato": 1057176.11,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7188058D19",
+   "data": "2017-02-21",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE E TUTELA RIVOLTA AI RARU, PER LA PRESENTAZIONE DI UN PROGETTO TERRITORIALE ADERENTE ALLO SPRAR",
+   "amministrazione": "COMUNE DI CORIGLIANO-ROSSANO",
+   "ente": "WORK - SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1478250.0,
+   "aggiudicato": 1478250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "MENCADORA SRL",
+ "cf": "03508950783",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "72805167DC",
+   "data": "2017-11-23",
+   "oggetto": "FORNITURA PASTI GIORNALIERI N 10 UTENTI (MSNA) - PROG. 1411 BANDO FAMI 2014-2020 CUP B15I17000020005",
+   "amministrazione": "LA VOCE DEL SILENZIO SOCIETA COOPERATIVA SOCIALE START UP INNOVATIVA",
+   "ente": "MENCADORA SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 59358.0,
+   "aggiudicato": 57043.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

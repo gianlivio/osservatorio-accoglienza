@@ -1,0 +1,38 @@
+{
+ "nome": "S.P.M. SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "00398470948",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B620ADDE5C",
+   "data": "2025-03-21",
+   "oggetto": "AFFIDAMENTO DIREZIONE LAVORI, MISURA E CONTABILITA' ECC",
+   "amministrazione": "COMUNE DI CAROVILLI",
+   "ente": "S.P.M. SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25814.0,
+   "aggiudicato": 25814.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

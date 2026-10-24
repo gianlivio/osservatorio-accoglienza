@@ -1,0 +1,106 @@
+{
+ "nome": "PERSEO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "02539280418",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B22CEEA67C",
+   "data": "2024-06-21",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI IN STRUTTURE DI ACCOGLIENZA. RIDETERMINAZIONE DELLA SPESA DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 391 DEL 14/03/2024_PERSEO SOC",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "PERSEO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13420.0,
+   "aggiudicato": 13420.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B145D8AADD",
+   "data": "2024-04-17",
+   "oggetto": "AFFIDAMENTO IN STRUTTURA DI 1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "PERSEO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26950.0,
+   "aggiudicato": 26950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B145D5D5BC",
+   "data": "2024-04-17",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI 1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "PERSEO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26950.0,
+   "aggiudicato": 26950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B0B29A231B",
+   "data": "2024-03-06",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A STRUTTURE DIVERSE. IMPEGNI DI SPESA PRESUNTI PER L'ANNO 2024_PERSEO SOCIETA' ",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "PERSEO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20020.0,
+   "aggiudicato": 20020.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B0298E2F5E",
+   "data": "2024-01-30",
+   "oggetto": "ACCOGLIENZA N°1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "PERSEO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13310.0,
+   "aggiudicato": 13310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  }
+ ]
+}

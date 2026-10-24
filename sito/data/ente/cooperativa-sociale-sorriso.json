@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA  SOCIALE  SORRISO",
+ "cf": "02784020840",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B163C163AC",
+   "data": "2024-04-24",
+   "oggetto": "PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRO DI PRIMA ACCOGLIENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE DI NAZIONALITÀ UCRAINA IN SINGOLE UNITÀ ABIT",
+   "amministrazione": "COMUNE DELL'AQUILA",
+   "ente": "COOPERATIVA  SOCIALE  SORRISO",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 606794.4,
+   "aggiudicato": 587900.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

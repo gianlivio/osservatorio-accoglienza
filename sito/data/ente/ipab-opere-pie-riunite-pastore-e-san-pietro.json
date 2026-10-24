@@ -1,0 +1,38 @@
+{
+ "nome": "IPAB OPERE PIE RIUNITE PASTORE E SAN PIETRO",
+ "cf": "01835450816",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "99551501AB",
+   "data": "2023-07-19",
+   "oggetto": "SERVIZIO DI OSPITALITA' DI MINORI STRANIERI NON ACCOMPAGNATI PERIODO 30/05/2023-31/08/2023 PRESSO C.A. LA COPERTA DI LINUS",
+   "amministrazione": "COMUNE DI ALCAMO",
+   "ente": "IPAB OPERE PIE RIUNITE PASTORE E SAN PIETRO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41100.0,
+   "aggiudicato": 41100.0,
+   "durata_gg": 94.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

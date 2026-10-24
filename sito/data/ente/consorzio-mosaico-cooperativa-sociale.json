@@ -1,0 +1,181 @@
+{
+ "nome": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+ "cf": "03694380407",
+ "affidamenti": 9,
+ "diretti": 2,
+ "quota_diretti": 22.2,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "96904246DB",
+   "data": "2023-03-08",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E INTEGRAZIONE A FAVORE DI 24 ORDINARI - PROGETTO SAI AUTORIZZATO ALLA PROSECUZIONE CON AMMISSIONE AL FINANZIAMENTO SUL FONDO NAZIONALE PER LE POLITICHE E I ",
+   "amministrazione": "COMUNE DI RICCIONE",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2385774.0,
+   "aggiudicato": 959310.0,
+   "durata_gg": 944.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9516723841",
+   "data": "2022-12-27",
+   "oggetto": "RINNOVO PROGETTO ATTUATIVO E GESTIONE DI SERVIZI DIACCOGLIENZA INTEGRATA IN FAVORE DI MINORI STRANIERI NONACCOMPAGNATI (QUALI I CITTADINI DI STATI NON APPARTENENTI ALL'UNIONEEUROPE",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1888145.02,
+   "aggiudicato": 1888145.02,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "951667724D",
+   "data": "2022-12-27",
+   "oggetto": "RINNOVO PROGETTO ATTUATIVO E GESTIONE DI SERVIZI DI ACCOGLIENZA INTEGRATA IN FAVORE DEI SOGGETTI AVENTI TITOLO EX ART. 1LINEE GUIDA PER IL FUNZIONAMENTO DEL SISTEMA DI PROTEZIONE P",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1814714.29,
+   "aggiudicato": 1814714.29,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9170624E51",
+   "data": "2022-04-04",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GUERRA IN UCRAINA",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 395175.0,
+   "aggiudicato": 395175.0,
+   "durata_gg": 275.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9170653642",
+   "data": "2022-04-01",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GUERRA UCRAINA",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 368170.0,
+   "aggiudicato": 368170.0,
+   "durata_gg": 275.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "84641716DE",
+   "data": "2020-10-19",
+   "oggetto": "PREDISPOSIZIONE DEL PROGETTO ATTUATIVO E GESTIONE DI SERVIZI DI ACCOGLIENZA INTEGRATA IN FAVORE DEI SOGGETTI AVENTI TITOLO EX ART. 1 LINEE GUIDA PER IL FUNZIONAMENTO DEL SISTEMA DI",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2803438.28,
+   "aggiudicato": 1019432.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "838136485E",
+   "data": "2020-07-24",
+   "oggetto": "RINNOVO CONTRATTO DI APPALTO PROGETTO SPRAR CATEGORIA ORDINARIO 01/07/2020-31/12/2020 DM. 18/11/2019",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 219940.48,
+   "aggiudicato": 219940.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "814900754F",
+   "data": "2020-01-17",
+   "oggetto": "RINNOVO CONTRATTO DI APPALTO PROGETTO SPRAR CATEGORIA ORDINARIO 01/01/2020-30/06/2020 DM. 18/11/2019",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 480438.1,
+   "aggiudicato": 480438.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "6996609864",
+   "data": "2017-04-12",
+   "oggetto": "SPRAR ORDINARI",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "CONSORZIO MOSAICO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3107112.21,
+   "aggiudicato": 1093736.38,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

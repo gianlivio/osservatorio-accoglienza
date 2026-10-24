@@ -1,0 +1,180 @@
+{
+ "nome": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+ "cf": "03910260409",
+ "affidamenti": 9,
+ "diretti": 4,
+ "quota_diretti": 44.4,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 3,
+   "quota_diretti": 60.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9619BBC1D",
+   "data": "2025-12-03",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA EDUCATIVA IN REGIME RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI. PERIODO PER UN MINORE: 01/01 - 05/01/26; PERIODO PER UN MINORE: 01/01 - 3",
+   "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 53625.0,
+   "aggiudicato": 53625.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "B52DE4A771",
+   "data": "2025-01-15",
+   "oggetto": "RINNOVO COLLOCAMENTO MSNA PRESSO COMUNITA' EDUCATIVA",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13393.0,
+   "aggiudicato": 13393.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B5193D7571",
+   "data": "2025-01-07",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO FINO AL 30.06.2025",
+   "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 52055.0,
+   "aggiudicato": 25376.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "B46C60259F",
+   "data": "2024-11-23",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA EDUCATIVA IN REGIME RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI 1 GENNAIO - 30 GIUGNO 2025 (CON FACOLTÀ DI PROROGA O RINNOVO 1 LUGLIO-31 D",
+   "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 57260.0,
+   "aggiudicato": 31500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "B3128125B3",
+   "data": "2024-09-17",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA EDUCATIVA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO 1 OTTOBRE-31 DICEMBRE 2024",
+   "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 12880.0,
+   "aggiudicato": 12880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "B2983E4B50",
+   "data": "2024-07-26",
+   "oggetto": "INSERIMENTO IN COMUNITA' EDUCATIVA MSNA PERIODO 16/07/2024-31/12/2024",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23660.0,
+   "aggiudicato": 23660.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B2733FD748",
+   "data": "2024-07-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA EDUCATIVA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO FINO AL 30 SETTEMBRE 2024 AI SENSI DELL'ART. 50, COMMA 1, LETT. B) DEL DLGS N.36/202",
+   "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11480.0,
+   "aggiudicato": 11480.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "B0DB135842",
+   "data": "2024-03-18",
+   "oggetto": "MSNA OSPITALITA MINORI IN COMUNITA' PERIODO 01/01/2024-30/06/204 REL. A.S. 23010 DEL 06/12/2023 MSNA OSPITALITA MINORI IN COMUNITA' PERIODO 01/01/2024-09/01/2024 REL. A.S. 23679 DE",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26740.0,
+   "aggiudicato": 26740.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "A03B953613",
+   "data": "2023-12-28",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI 1 GENNAIO - 30 GIUGN0 2024- COOP. SOCIALE BUTTERFLY",
+   "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
+   "ente": "COOPERATIVA SOCIALE BUTTERFLY ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 57400.0,
+   "aggiudicato": 31640.0,
+   "durata_gg": 182.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

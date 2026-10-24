@@ -1,0 +1,38 @@
+{
+ "nome": "FARE SOLIDALE - SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "05323990654",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2C1DFA739",
+   "data": "2024-08-12",
+   "oggetto": "AFFIDAMENTO SERVIZIO MINORI STRANIERI NON ACCOMPAGNATI NELL'AMBITO DELLA PROGETTAZIONE SAI (MSNA) A TITOLITA' DEL COMUNE DI CASTELNUOVO CILENTO A VALERE SUI FONDI FAMI ANNUALITA' 2",
+   "amministrazione": "COMUNE DI CASTELNUOVO CILENTO SA",
+   "ente": "FARE SOLIDALE - SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 71838.0,
+   "aggiudicato": 71838.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

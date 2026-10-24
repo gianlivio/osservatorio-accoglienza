@@ -1,0 +1,38 @@
+{
+ "nome": "G.O.P.I. GRUPPO OPERATIVO PRIMO INTERVENTO - PROTEZIONE CIVILE ONLUS",
+ "cf": "92009800654",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6837364344",
+   "data": "2016-10-31",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO PARTNER E GESTORE PER LA COPROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO, RI",
+   "amministrazione": "COMUNE DI CAGGIANO",
+   "ente": "G.O.P.I. GRUPPO OPERATIVO PRIMO INTERVENTO - PROTEZIONE CIVILE ONLUS",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 634639.95,
+   "aggiudicato": 634639.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

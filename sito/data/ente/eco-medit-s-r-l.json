@@ -1,0 +1,38 @@
+{
+ "nome": "ECO MEDIT S.R.L.",
+ "cf": "01384480032",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B27793AA69",
+   "data": "2024-07-16",
+   "oggetto": "LAVORI DI RIMOZIONE SERBATOIO INTERRATO E ANALISI DEL TERRENO PRESSO LA SEDE DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE, VIA QUADRIO, 28 -",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ECO MEDIT S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24520.0,
+   "aggiudicato": 24520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "nome": "ALCE NERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "00624460200",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MANTOVA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9417D3560",
+   "data": "2025-11-27",
+   "oggetto": "ASSUNZIONE ONERE PER INSERIMENTO IN COMUNITÀ MSNA-COMUNE DI RHO",
+   "amministrazione": "AZIENDA SERVIZI COMUNALI ALLA PERSONA IN BREVE SER.CO.P",
+   "ente": "ALCE NERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7590.0,
+   "aggiudicato": 7590.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B7B0B1C4D0",
+   "data": "2025-07-21",
+   "oggetto": "SERVIZIO DI GESTIONE DI UN CENTRO DI ACCOGLIENZA TEMPORANEO PRESSO UNA STRUTTURA UBICATA NEL COMUNE DI MANTOVA",
+   "amministrazione": "PREFETTURA DI MANTOVA",
+   "ente": "ALCE NERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29990.0,
+   "aggiudicato": 29990.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  },
+  {
+   "cig": "B4167CCCB8",
+   "data": "2025-05-15",
+   "oggetto": "ACCOGLIENZA MINORI IN CARICO AD ASP CENTRO SERVIZI ALLA PERSONA (N. 2 MSNA)",
+   "amministrazione": "ASP CENTRO SERVIZI ALLA PERSONA",
+   "ente": "ALCE NERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 70000.0,
+   "aggiudicato": 70000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

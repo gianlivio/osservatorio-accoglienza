@@ -1,0 +1,59 @@
+{
+ "nome": "ARANEA - CONSORZIO COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "03058520713",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2AEB5BF17",
+   "data": "2024-08-05",
+   "oggetto": "PROCEDURA APERTA, AI SENSI DEGLI ARTT. 71 E 108 DEL D.LGS. N.36/2023, TRAMITE PIATTAFORMA TELEMATICA PREDISPOSTA DALLA CENTRALE UNICA DI COMMITTENZA DEI MONTI DAUNI, PER L'INDIVIDU",
+   "amministrazione": "COMUNE DI BOVINO",
+   "ente": "ARANEA - CONSORZIO COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 860158.68,
+   "aggiudicato": 788439.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "73376536CE",
+   "data": "2017-12-28",
+   "oggetto": "ACCOGLIENZA IMMIGRATI 2018 FOGGIA. SINISCALCO CECI EMMAUS",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ARANEA - CONSORZIO COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 976573.0,
+   "aggiudicato": 976573.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

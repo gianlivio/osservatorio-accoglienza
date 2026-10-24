@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE DI SERVIZI E ASSISTENZA ONLUS",
+ "cf": "01321610782",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B26EA08F44",
+   "data": "2024-07-12",
+   "oggetto": "ACCOGLIENZA MSNA 2° - 3° E 4° TRIMESTRI 2023",
+   "amministrazione": "COMUNE DI CORIGLIANO-ROSSANO",
+   "ente": "COOPERATIVA SOCIALE DI SERVIZI E ASSISTENZA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27225.0,
+   "aggiudicato": 27225.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE CESDI ONLUS",
+ "cf": "01836810497",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9585131C51",
+   "data": "2023-01-13",
+   "oggetto": "SERVIZI DI INTERPRETARIATO A FAVORE DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "COOPERATIVA SOCIALE CESDI ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 205920.0,
+   "aggiudicato": 178200.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  }
+ ]
+}

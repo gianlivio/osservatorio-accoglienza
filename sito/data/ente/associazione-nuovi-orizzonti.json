@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE  NUOVI ORIZZONTI",
+ "cf": "93067310842",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6695176A02",
+   "data": "2016-05-17",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERI MSNA 3^ TRIMESTRE 2015 COOP. SOC. NUOVI ORIZZONTO",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE  NUOVI ORIZZONTI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47769.23,
+   "aggiudicato": 47769.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6677499E7B",
+   "data": "2016-04-26",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 2^ TRIMESTRE 2015 COOP. SOC. NUOVI ORIZZONTI",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "ASSOCIAZIONE  NUOVI ORIZZONTI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45692.3,
+   "aggiudicato": 45692.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

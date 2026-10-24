@@ -1,0 +1,54 @@
+{
+ "nome": "IMMEDIA SRL",
+ "cf": "08488260012",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CUNEO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "61984502C1",
+   "data": "2015-07-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "IMMEDIA SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 79625.0,
+   "aggiudicato": 79625.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "CUNEO"
+  },
+  {
+   "cig": "6391852322",
+   "data": "2015-06-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "IMMEDIA SRL",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 98840.0,
+   "aggiudicato": 98840.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CUNEO"
+  }
+ ]
+}

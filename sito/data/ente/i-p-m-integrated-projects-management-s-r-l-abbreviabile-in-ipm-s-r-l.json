@@ -1,0 +1,54 @@
+{
+ "nome": "I.P.M. INTEGRATED PROJECTS MANAGEMENT S.R.L. ABBREVIABILE IN IPM S.R.L.",
+ "cf": "14289711005",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9472BA935",
+   "data": "2025-11-27",
+   "oggetto": "SERVIZI SAI DI VERIFICA DEL PROGETTO ESECUTIVO INERENTE PROGETTO DI ADEGUAMENTO ALLA NORMATIVA DI PREVENZIONE INCENDI ED ANTISISMICA DEL P. O. DI SAN DONÀ DI PIAVE (VE) - I^ FASE.",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "I.P.M. INTEGRATED PROJECTS MANAGEMENT S.R.L. ABBREVIABILE IN IPM S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74521.2,
+   "aggiudicato": 74521.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B94616B0A4",
+   "data": "2025-11-27",
+   "oggetto": "SERVIZI SAI DI VERIFICA DEL PROGETTO ESECUTIVO INERENTE PROGETTO DI ADEGUAMENTO ALLA NORMATIVA DI PREVENZIONE INCENDI ED ANTISISMICA DEL P. O. DI PORTOGRUARO (VE) - I^ FASE.",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "I.P.M. INTEGRATED PROJECTS MANAGEMENT S.R.L. ABBREVIABILE IN IPM S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 76136.92,
+   "aggiudicato": 76136.92,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

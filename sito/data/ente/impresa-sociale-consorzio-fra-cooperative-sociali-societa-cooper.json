@@ -1,0 +1,38 @@
+{
+ "nome": "IMPRESA SOCIALE CONSORZIO FRA COOPERATIVE SOCIALI SOCIETA' COOPER",
+ "cf": "03258170277",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73198936CA",
+   "data": "2017-12-15",
+   "oggetto": "IMPRESA SOCIALE-CONSORZIO FRA COOPERATIVE PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI I BIMESTRE 2018",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "IMPRESA SOCIALE CONSORZIO FRA COOPERATIVE SOCIALI SOCIETA' COOPER",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 61065.0,
+   "aggiudicato": 61065.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

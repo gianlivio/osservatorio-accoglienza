@@ -1,0 +1,70 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI RIMINI",
+ "cf": "04114700406",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A035C1FC2C",
+   "data": "2023-11-30",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI RIMINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63783.0,
+   "aggiudicato": 63783.0,
+   "durata_gg": 132.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "A0002374B9",
+   "data": "2023-07-31",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI RIMINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "A000207D1A",
+   "data": "2023-07-31",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI RIMINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

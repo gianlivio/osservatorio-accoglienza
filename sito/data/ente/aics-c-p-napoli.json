@@ -1,0 +1,79 @@
+{
+ "nome": "AICS C.P. NAPOLI",
+ "cf": "94028240631",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B920D97F3C",
+   "data": "2025-11-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI E SERVIZI CONNESSI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AICS C.P. NAPOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139069.5,
+   "aggiudicato": 139069.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B7D8216795",
+   "data": "2025-08-01",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 C. 1 LETT. B) D.LGS. N. 36/2023 SS.MM.II., DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERN",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AICS C.P. NAPOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138302.0,
+   "aggiudicato": 138302.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "733618073F",
+   "data": "2017-03-20",
+   "oggetto": "PROGETTO TERRITORIALE DI ACCOGLIENZA DEI RICHIEDENTI E DEI TITOLARI DI PROTEZIONE INTERNAZIONALE ED UMANITARIA",
+   "amministrazione": "COMUNE DI MARZANO DI NOLA",
+   "ente": "AICS C.P. NAPOLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 494362.0,
+   "aggiudicato": 494362.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

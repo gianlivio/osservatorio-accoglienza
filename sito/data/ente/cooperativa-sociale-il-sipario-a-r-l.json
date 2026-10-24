@@ -1,0 +1,33 @@
+{
+ "nome": "COOPERATIVA SOCIALE IL SIPARIO A.R.L.",
+ "cf": "03404950721",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6797741953",
+   "data": "2016-06-08",
+   "oggetto": "OSPITALITA' DI MSNA PRESSO COMUNITÀ EDUCATIVE GESTITE DA SOC COOP. SOCIALE 'IL SIPARIO ' 2^ SEMESTRE 2014",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "COOPERATIVA SOCIALE IL SIPARIO A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47057.14,
+   "aggiudicato": 47057.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

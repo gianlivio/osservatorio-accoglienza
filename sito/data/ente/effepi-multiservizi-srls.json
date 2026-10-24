@@ -1,0 +1,38 @@
+{
+ "nome": "EFFEPI MULTISERVIZI SRLS",
+ "cf": "01681650626",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9860644CD6",
+   "data": "2023-06-16",
+   "oggetto": "AGENZIA PER LA COESIONE TERRITORIALE - PNRR M5' INCLUSIONE E COESIONE' C.3, I.1, LINEA DI INTERVENTO N1.1.1. POTENZIAMENTO DEI SERVIZI E DELLE INFRASTRUTTURE SOCIALI DI COMUNITÀ FI",
+   "amministrazione": "ASMEL CONSORTILE SOC. CONS. A R.L.",
+   "ente": "EFFEPI MULTISERVIZI SRLS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 375923.09,
+   "aggiudicato": 301770.418,
+   "durata_gg": 150.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

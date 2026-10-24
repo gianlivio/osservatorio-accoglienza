@@ -1,0 +1,38 @@
+{
+ "nome": "TERRA MIA COOPERATIVA SOCIALE",
+ "cf": "02575370396",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "89836430BB",
+   "data": "2021-11-18",
+   "oggetto": "SERVIZIO DI SEGRETARIATO SOCIALE A SUPPORTO DEL PROGETTO SAI ANNO 2022",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "TERRA MIA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 79200.0,
+   "aggiudicato": 65800.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

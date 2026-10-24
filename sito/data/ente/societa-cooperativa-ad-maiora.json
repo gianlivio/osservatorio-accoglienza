@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETÀ COOPERATIVA AD MAIORA",
+ "cf": "04884340755",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1DFF18EB9",
+   "data": "2024-05-29",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA PER MSNA AFFIDATI DALLA PREFETTURA",
+   "amministrazione": "COMUNE DI RACALE",
+   "ente": "SOCIETÀ COOPERATIVA AD MAIORA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43680.0,
+   "aggiudicato": 43680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

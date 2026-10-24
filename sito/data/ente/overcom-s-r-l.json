@@ -1,0 +1,38 @@
+{
+ "nome": "OVERCOM S.R.L.",
+ "cf": "01372340990",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B021B6A51E",
+   "data": "2024-01-26",
+   "oggetto": "VESTIARIO PER MIGRANTI",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "OVERCOM S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5800.0,
+   "aggiudicato": 5800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "HUMANITAS",
+ "cf": "91162080401",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B46BCF7F36",
+   "data": "2024-11-22",
+   "oggetto": "NEGOZIATA CENTRI DI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "HUMANITAS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 11485800.0,
+   "aggiudicato": 182922.93,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

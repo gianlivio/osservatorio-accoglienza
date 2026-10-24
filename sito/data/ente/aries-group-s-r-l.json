@@ -1,0 +1,148 @@
+{
+ "nome": "ARIES GROUP S.R.L.",
+ "cf": "11337310962",
+ "affidamenti": 7,
+ "diretti": 5,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4D844B8F7",
+   "data": "2024-12-17",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ARIES GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125400.0,
+   "aggiudicato": 125400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "A01C6EEC4B",
+   "data": "2023-09-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI RIPAMONTI RESIDENCE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ARIES GROUP S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 648648.0,
+   "aggiudicato": 648648.0,
+   "durata_gg": 182.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "9928387C21",
+   "data": "2023-06-22",
+   "oggetto": "PROROGA ACCOGLIENZA PROFUGHI UCRAINI-LIVINGHOTEL LUG-DICE2023",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ARIES GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 607200.0,
+   "aggiudicato": 607200.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "9850837FD7",
+   "data": "2023-05-16",
+   "oggetto": "ASSISTENZA MIGRANTI RIPAMONTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ARIES GROUP S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 217800.0,
+   "aggiudicato": 217800.0,
+   "durata_gg": 132.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "97187695E4",
+   "data": "2023-03-14",
+   "oggetto": "ACCOGLIENZA MIGRANTI RPAMONTI -SBARCHI 2023",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ARIES GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 120450.0,
+   "aggiudicato": 120450.0,
+   "durata_gg": 73.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "9599850ED1",
+   "data": "2022-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO 2 A ARIES GROUP SRL PER EMERGENZA PROFUGHI UCRAINI COME DA OCDPC 872/2022",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "ARIES GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 49.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "91816644D3",
+   "data": "2022-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO A ARIES GROUP SRL PER EMERGENZA PROFUGHI UCRAINI COME DA OCDPC 872/2022",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "ARIES GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 267.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

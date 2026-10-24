@@ -1,0 +1,33 @@
+{
+ "nome": "FONDAZIONE DON GIOVANNI CONTAVALLE",
+ "cf": "80001330317",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9801452E0D",
+   "data": "2023-04-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PER N. 9 RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI GORIZIA",
+   "ente": "FONDAZIONE DON GIOVANNI CONTAVALLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 170883.23,
+   "aggiudicato": 170883.23,
+   "durata_gg": 366.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

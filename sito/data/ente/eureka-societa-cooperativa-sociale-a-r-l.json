@@ -1,0 +1,107 @@
+{
+ "nome": "EUREKA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "02811670849",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7363430EA6",
+   "data": "2018-01-25",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA COOP. SOC. EUREKA COMUNITÀ IL GIGLIO",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "EUREKA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40842.86,
+   "aggiudicato": 40842.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7359829306",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE EUREKA COMUNITÀ ALLOGGIO 'IL MELOGRANO'. EROGAZIONE CONTRIBUTO MINISTERIALE 2^ TRIMESTRE 2017.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "EUREKA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47831.76,
+   "aggiudicato": 47831.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7359592F6E",
+   "data": "2018-01-22",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE EUREKA COMUNITÀ ALLOGGIO 'IL MELOGRANO'. EROGAZIONE CONTRIBUTO MINISTERIALE 3^ TRIMESTRE 2017",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "EUREKA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41959.94,
+   "aggiudicato": 41959.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7142003751",
+   "data": "2017-07-12",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE EUREKA COMUNITÀ ALLOGGIO 'IL GIGLIO'. EROGAZIONE CONTRIBUTO MINISTERIALE 4^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "EUREKA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48514.29,
+   "aggiudicato": 48514.29,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "71418286E7",
+   "data": "2017-07-12",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE EUREKA COMUNITÀ ALLOGGIO 'IL MELOGRANO'. EROGAZIONE CONTRIBUTO MINISTERIALE 4^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "EUREKA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 44271.43,
+   "aggiudicato": 44271.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

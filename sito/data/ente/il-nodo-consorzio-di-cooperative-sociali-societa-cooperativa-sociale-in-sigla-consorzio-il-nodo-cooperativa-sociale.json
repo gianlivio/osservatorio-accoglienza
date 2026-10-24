@@ -1,0 +1,112 @@
+{
+ "nome": "IL NODO CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE- IN SIGLA CONSORZIO IL NODO COOPERATIVA SOCIALE",
+ "cf": "03713700874",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9093611D2E",
+   "data": "2022-04-08",
+   "oggetto": "PROGETTO SAI - MSNA CATANIA PER 110 POSTI (75 POSTI MSNA, 35 POSTI NEOMAGGIORENNI) - NUOVA GARA-",
+   "amministrazione": "COMUNE DI CATANIA",
+   "ente": "IL NODO CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE- IN SIGLA CONSORZIO IL NODO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2124514.16,
+   "aggiudicato": 1974209.91,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9031782E46",
+   "data": "2022-03-18",
+   "oggetto": "PROGETTO SAI - CATEGORIA MSNA CATANIA PER 74 POSTI (50 MINORI MASCHI, 5 MINORI FEMMINE E 19 NEOMAGGIORENNI MASCHI) ANNO 2022",
+   "amministrazione": "COMUNE DI CATANIA",
+   "ente": "IL NODO CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE- IN SIGLA CONSORZIO IL NODO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1430328.0,
+   "aggiudicato": 1308155.22,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8410533F61",
+   "data": "2020-11-06",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CUC-ACIREALE/VIAGRANDE/ACIBONACCORSI",
+   "ente": "IL NODO CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE- IN SIGLA CONSORZIO IL NODO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1742948.0,
+   "aggiudicato": 1571191.21,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "84105258C9",
+   "data": "2020-11-06",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CUC-ACIREALE/VIAGRANDE/ACIBONACCORSI",
+   "ente": "IL NODO CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE- IN SIGLA CONSORZIO IL NODO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2557370.0,
+   "aggiudicato": 1883669.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "70093044A4",
+   "data": "2017-04-14",
+   "oggetto": "SELEZIONE DI UN ENTE ATTUATORE CUI AGGIUDICARE I SERVIZI DI ACCOGLIENZA INTEGRATA DEL PROGETTO SPRAR CATANIA 96 POSTI ORDINARI TRIENNIO 2017-2019.",
+   "amministrazione": "COMUNE DI CATANIA",
+   "ente": "IL NODO CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE- IN SIGLA CONSORZIO IL NODO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4385404.35,
+   "aggiudicato": 4363477.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

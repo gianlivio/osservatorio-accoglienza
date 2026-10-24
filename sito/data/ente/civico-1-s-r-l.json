@@ -1,0 +1,155 @@
+{
+ "nome": "CIVICO 1 S.R.L.",
+ "cf": "04913820264",
+ "affidamenti": 8,
+ "diretti": 6,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6D834D7F0",
+   "data": "2025-05-14",
+   "oggetto": "ACCOGLIENZA MIGRANTI C.C. 50 POSTI TREVISO - MAGGIO/DICEMBRE 2025",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 634586.25,
+   "aggiudicato": 634586.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "B5D9992843",
+   "data": "2025-03-03",
+   "oggetto": "ACCOGLIENZA MIGRANTI GENNAIO_APRILE 2025",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 322680.0,
+   "aggiudicato": 322680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "B55D60E1ED",
+   "data": "2025-01-28",
+   "oggetto": "ACCOGLIENZA MIGRANTI OTT_DICEMBRE 2024ATTO AGGIUNTIVO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 147412.78,
+   "aggiudicato": 147412.78,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "B55D3F02A7",
+   "data": "2025-01-28",
+   "oggetto": "ACCOGLIENZA MIGRANTI OTT_DIC2024 ATTO AGGIUNTIVO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 177762.47,
+   "aggiudicato": 177762.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "B42453C924",
+   "data": "2024-11-11",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 177763.0,
+   "aggiudicato": 177763.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "B424410195",
+   "data": "2024-11-07",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 147413.0,
+   "aggiudicato": 147413.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "B221FF87E8",
+   "data": "2024-06-18",
+   "oggetto": "ACCOGLIENZA MIGRANTI APRILE_GIUGNO2024 - ATTO AGGIUNTIVO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 147412.78,
+   "aggiudicato": 147412.78,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "B1DFB09553",
+   "data": "2024-05-29",
+   "oggetto": "ACCOGLIENZA MIGRANTI APRILE_GIUGNO2024",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CIVICO 1 S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 177762.47,
+   "aggiudicato": 177762.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TREVISO"
+  }
+ ]
+}

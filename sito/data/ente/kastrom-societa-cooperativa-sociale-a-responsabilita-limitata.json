@@ -1,0 +1,38 @@
+{
+ "nome": "KASTROM SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "04713100651",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "67723006C0",
+   "data": "2016-10-25",
+   "oggetto": "SPORTELLO IMMIGRATI",
+   "amministrazione": "UNIONE COMUNI ALTO CILENTO",
+   "ente": "KASTROM SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 70000.0,
+   "aggiudicato": 67200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SALERNO"
+  }
+ ]
+}

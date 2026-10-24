@@ -1,0 +1,75 @@
+{
+ "nome": "PAMIR S.R.L.",
+ "cf": "01251100390",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6CC5EE1CF",
+   "data": "2025-09-16",
+   "oggetto": "FORNITURA PASTI A FAVORE DI MINORI NON ACCOMPAGNATI – PROFUGHI UCRAINI OSPITATI PRESSO LA STRUTTURA COMUNALE IN VIA ROMA N. 44 PER IL PERIODO MARZO-DICEMBRE 2025",
+   "amministrazione": "COMUNE DI BEDULITA",
+   "ente": "PAMIR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16800.0,
+   "aggiudicato": 16800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B2735585A3",
+   "data": "2024-08-13",
+   "oggetto": "FORNITURA PASTI A FAVORE DI MINORI NON ACCOMPAGNATI – PROFUGHI UCRAINI OSPITATI PRESSO LA STRUTTURA COMUNALE IN VIA ROMA N. 44 PER IL PERIODO LUGLIOSETTEMBRE 2024",
+   "amministrazione": "COMUNE DI BEDULITA",
+   "ente": "PAMIR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5869.6,
+   "aggiudicato": 5869.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B0A1BD096E",
+   "data": "2024-08-12",
+   "oggetto": "FORNITURA PASTI A FAVORE DI MINORI NON ACCOMPAGNATI – PROFUGHI UCRAINI OSPITATI PRESSO LA STRUTTURA COMUNALE IN VIA ROMA N. 44 PER IL PERIODO MARZO-GIUGNO 2024",
+   "amministrazione": "COMUNE DI BEDULITA",
+   "ente": "PAMIR S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7783.6,
+   "aggiudicato": 7783.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

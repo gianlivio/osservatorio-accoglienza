@@ -1,0 +1,121 @@
+{
+ "nome": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "92010430657",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9BC264500",
+   "data": "2025-12-19",
+   "oggetto": "ACCORDO QUADRO GARA N. 4500149 - CIG B267CF5C7B SERVIZIO DI ACCOGLIENZA IN FAVORE DI MSNA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60.0,
+   "aggiudicato": 60.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B7EAB2076D",
+   "data": "2025-08-06",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, AI SENSI DELL'ART. 11 DEL D. LGS.18 AGOSTO ",
+   "amministrazione": "PREFETTURA",
+   "ente": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5354176.76,
+   "aggiudicato": 5354176.76,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B0312A2806",
+   "data": "2024-01-31",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63630.0,
+   "aggiudicato": 63630.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "89438499AC",
+   "data": "2021-10-25",
+   "oggetto": "PROCEDURA APERTA PER LA SELEZIONE DEL SOGGETTO ATTUATORE PER L'ESECUZIONE IN PROSECUZIONE DELLE ATTIVITA' RELATIVE AL SERVIZIO DI ACCOGLIENZA, INTEGRAZIONE E TUTELA DI TITOLARI DI ",
+   "amministrazione": "COMUNE DI ATENA LUCANA",
+   "ente": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 405650.0,
+   "aggiudicato": 405650.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "78442743AF",
+   "data": "2019-04-08",
+   "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA E SERVIZI CONNESSI AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI SALERNO",
+   "amministrazione": "PREFETTURA",
+   "ente": "IL SENTIERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 29492000.0,
+   "aggiudicato": 15462642.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

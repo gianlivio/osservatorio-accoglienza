@@ -1,0 +1,70 @@
+{
+ "nome": "MARENOSTRUM - SOCIETA' COOPERATIVA SOCIALE ONLUS E.T.S.",
+ "cf": "02582890063",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ALESSANDRIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2CF20B7EC",
+   "data": "2024-08-22",
+   "oggetto": "OSPITALITÀ DEL MINORE STRANIERO NON ACCOMPAGNATO S.A.A. PRESSO COMUNITÀ EDUCATIVA CASA BETANIA, CORRENTE A ALESSANDRIA (AL), GESTITA DALLA COOP. SOC ONLUS E.T.S. MARE NOSTRUM.",
+   "amministrazione": "COMUNE DI ALASSIO",
+   "ente": "MARENOSTRUM - SOCIETA' COOPERATIVA SOCIALE ONLUS E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9760.0,
+   "aggiudicato": 9760.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "B2261C00B9",
+   "data": "2024-07-03",
+   "oggetto": "MINORE STRANIERO NON ACCOMPAGNATO AFFIDATO AL COMUNE DI TAGGIA PROSECUZIONE INSERIMENTO PRESSO COMUNITA MARENOSTRUMSECONDO SEMESTRE 2024",
+   "amministrazione": "COMUNE DI TAGGIA",
+   "ente": "MARENOSTRUM - SOCIETA' COOPERATIVA SOCIALE ONLUS E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25760.0,
+   "aggiudicato": 25760.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "B21FD75D07",
+   "data": "2024-07-03",
+   "oggetto": "MINORE STRANIERO NON ACCOMPAGNATO AFFIDATO AL COMUNE DI TAGGIA PROSECUZIONE INSERIMENTO PRESSO COMUNITA MARENOSTRUMSECONDO SEMESTRE 2024",
+   "amministrazione": "COMUNE DI TAGGIA",
+   "ente": "MARENOSTRUM - SOCIETA' COOPERATIVA SOCIALE ONLUS E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25695.6,
+   "aggiudicato": 25695.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "nome": "DIMENSIONE SALUTE",
+ "cf": "97700000587",
+ "affidamenti": 10,
+ "diretti": 10,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 8
+  },
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C5B1349D",
+   "data": "2025-12-24",
+   "oggetto": "MSNA-OTTOBRE E NOVEMBRE'25",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6400.0,
+   "aggiudicato": 6400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B9C5A163D5",
+   "data": "2025-12-24",
+   "oggetto": "MSNA-DICEMBRE'25",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6200.0,
+   "aggiudicato": 6200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B912880237",
+   "data": "2025-11-13",
+   "oggetto": "ACCOGLIENZA MSNA IN CASA FAMIGLIA-II SEMESTRE 2025",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30400.0,
+   "aggiudicato": 30400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B7DF3993D5",
+   "data": "2025-08-05",
+   "oggetto": "MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6000.0,
+   "aggiudicato": 6000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B6DCB5DFB3",
+   "data": "2025-05-15",
+   "oggetto": "MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5300.0,
+   "aggiudicato": 5300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B56448065D",
+   "data": "2025-01-29",
+   "oggetto": "ACCOGLIENZA MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6200.0,
+   "aggiudicato": 6200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B46F8114E5",
+   "data": "2024-11-26",
+   "oggetto": "MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12200.0,
+   "aggiudicato": 12200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B41AB4D177",
+   "data": "2024-11-05",
+   "oggetto": "ACCOGLIENZA MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6200.0,
+   "aggiudicato": 6200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B300EF27D3",
+   "data": "2024-09-12",
+   "oggetto": "ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29200.0,
+   "aggiudicato": 29200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B191DF2A46",
+   "data": "2024-05-09",
+   "oggetto": "ACCOGLIENZA MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "DIMENSIONE SALUTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30500.0,
+   "aggiudicato": 30500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

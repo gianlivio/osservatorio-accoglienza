@@ -1,0 +1,136 @@
+{
+ "nome": "ESCULAPIO COOPERATIVA SOCIALE",
+ "cf": "07062211219",
+ "affidamenti": 6,
+ "diretti": 4,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B82A910BC6",
+   "data": "2025-09-08",
+   "oggetto": "GESTIONE CENTRI ACCOGLIENZA MIGRANTI CENTRI COLLETTIVI FINO A 50",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ESCULAPIO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 492550.65,
+   "aggiudicato": 492550.65,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B7813892C6",
+   "data": "2025-07-03",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 11 D.LGS. 142/2015 DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI DI NAZIONALITA' UCRAINA, EX ODCDPC DEL 29 DICEMBRE 2024, PRESSO SINGOLE",
+   "amministrazione": "PREFETTURA",
+   "ente": "ESCULAPIO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 84445.0,
+   "aggiudicato": 84445.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B6945CDF7F",
+   "data": "2025-04-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ESCULAPIO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 127832.82,
+   "aggiudicato": 127832.82,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B606A9687F",
+   "data": "2025-03-13",
+   "oggetto": "XXII ACCORDO QUADRO GESTIONE CENTRI COLLETTIVI FINO A 100 ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ESCULAPIO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 347313.38,
+   "aggiudicato": 347313.38,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "9775198C91",
+   "data": "2023-04-14",
+   "oggetto": "SOCIETA' COOPERATIVA ESCULAPIO DI NAPOLI AFFIDAMENTO SERVIZIO PRIMA ACCOLGIRNZA RICHIEDENTI ASILO PROVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ESCULAPIO COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 236738.97,
+   "aggiudicato": 236738.97,
+   "durata_gg": 259.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "9263222C9B",
+   "data": "2022-06-03",
+   "oggetto": "AFFIDAMENTO IN GESTIONE DEL PROGETTO FAMI 'RAFFORZAMENTO DELLA CAPACITÀ DI ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO ALL'AUTONOMIA DEI MSNA NELLA RETE SIPROIMI",
+   "amministrazione": "COMUNE DI TOCCO CAUDIO",
+   "ente": "ESCULAPIO COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 327641.9,
+   "aggiudicato": 327641.9,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

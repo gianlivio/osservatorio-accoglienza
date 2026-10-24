@@ -1,0 +1,107 @@
+{
+ "nome": "C.A. DON BOSCO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "01829380896",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "716740380F",
+   "data": "2017-07-31",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO LA STRUTTURA 'OASI DON BOSTO ' NOTO 2^GESTITA DA SOCIETÀ COOPERATIVA DON BOSTO 2^ TRIM. 2017",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "C.A. DON BOSCO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 224447.0,
+   "aggiudicato": 224447.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "7052727E6C",
+   "data": "2017-04-19",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO LA STRUTTURA OASI DON BOSCO 1^ TRIM. 2017",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "C.A. DON BOSCO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 223300.0,
+   "aggiudicato": 223300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6895681FF6",
+   "data": "2016-12-05",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO LA STRUTTURA OASI DON BOSCO 4 TRIMESTRE 2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "C.A. DON BOSCO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 586286.0,
+   "aggiudicato": 586286.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6890165806",
+   "data": "2016-11-30",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO OASI DON BOSCO III TRIMESTRE 2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "C.A. DON BOSCO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 486115.72,
+   "aggiudicato": 486115.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6764572D65",
+   "data": "2016-07-25",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO IL CENTRO OASI DON BOSCO NOTO MAGGIO-GIUGNO 2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "C.A. DON BOSCO SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 235945.19,
+   "aggiudicato": 235945.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

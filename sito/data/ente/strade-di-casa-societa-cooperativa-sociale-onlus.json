@@ -1,0 +1,59 @@
+{
+ "nome": "STRADE DI CASA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03182530786",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5A86F2389",
+   "data": "2025-02-17",
+   "oggetto": "PROCEDURA NEGOZIATA SENZA BANDO PER SERVIZI DI IMPORTO SUPERIORE A 140.000 EURO E INFERIORE A 1 MILIONE DI EURO (ART. 50 COMMA 1 LETT. E) DECRETO LEGISLATIVO 31 MARZO 2023, N. 36) ",
+   "amministrazione": "COMUNE DI CERISANO",
+   "ente": "STRADE DI CASA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 275220.0,
+   "aggiudicato": 275222.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "B2DFA1D2DD",
+   "data": "2024-08-30",
+   "oggetto": "COMUNE DI ROVITO. SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL PROGETTO SAI PROG. 99 PR-3 CATEGORIA ORDIN",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA CELICO, PEDACE, CASOLE BRUZIO",
+   "ente": "STRADE DI CASA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 676379.12,
+   "aggiudicato": 676379.12,
+   "durata_gg": 27.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

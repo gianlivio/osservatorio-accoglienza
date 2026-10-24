@@ -1,0 +1,54 @@
+{
+ "nome": "SCALISE DOMENICO",
+ "cf": "02037640790",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B10A0E79D1",
+   "data": "2024-03-29",
+   "oggetto": "FORNITURA DI ARREDAMENTO ED ATTREZZATURE",
+   "amministrazione": "COMUNE DI VERZINO",
+   "ente": "SCALISE DOMENICO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22449.18,
+   "aggiudicato": 22449.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  },
+  {
+   "cig": "B0F470D1F5",
+   "data": "2024-03-26",
+   "oggetto": "FORNITURA DI ARREDAMENTO ED ATTREZZATURE",
+   "amministrazione": "COMUNE DI VERZINO",
+   "ente": "SCALISE DOMENICO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22449.18,
+   "aggiudicato": 22449.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "TEMPO LIBERO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "02891720175",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73724523DA",
+   "data": "2017-06-21",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "TEMPO LIBERO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 50000.0,
+   "aggiudicato": 50000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "778513831D",
+   "data": "2017-02-01",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "TEMPO LIBERO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52380.95,
+   "aggiudicato": 52380.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

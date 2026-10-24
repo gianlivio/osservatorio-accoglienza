@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE LAVORIAMO INSIEME",
+ "cf": "90246900733",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERBANO-CUSIO-OSSOLA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9826697EE2",
+   "data": "2023-03-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONEL PRESSO IL C..S. IN LOC. COLMA DI CESARA - PERIODO FINO AL 31/8/2023",
+   "amministrazione": "PREFETTURA DEL VERBANO - CUSIO - OSSOLA -",
+   "ente": "ASSOCIAZIONE LAVORIAMO INSIEME",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 353751.3,
+   "aggiudicato": 353751.0,
+   "durata_gg": 126.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  }
+ ]
+}

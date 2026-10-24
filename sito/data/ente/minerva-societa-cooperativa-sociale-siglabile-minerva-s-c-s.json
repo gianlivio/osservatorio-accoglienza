@@ -1,0 +1,112 @@
+{
+ "nome": "MINERVA SOCIETA' COOPERATIVA SOCIALE SIGLABILE MINERVA S.C.S.",
+ "cf": "02374280036",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5D9C1BFD3",
+   "data": "2025-03-03",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE E FUNZIONAMENTO CAS FINO A 50 POSTI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "MINERVA SOCIETA' COOPERATIVA SOCIALE SIGLABILE MINERVA S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68781.16,
+   "aggiudicato": 68781.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "B41265351D",
+   "data": "2024-10-31",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE E FUNZIONAMENTO CAS FINO A 50 POSTI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "MINERVA SOCIETA' COOPERATIVA SOCIALE SIGLABILE MINERVA S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135340.8,
+   "aggiudicato": 135340.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "B296DBA0FE",
+   "data": "2024-07-26",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE E FUNZIONAMENTO CAS FINO A 50 POSTI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "MINERVA SOCIETA' COOPERATIVA SOCIALE SIGLABILE MINERVA S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 103761.28,
+   "aggiudicato": 103761.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "B22700EEAF",
+   "data": "2024-06-19",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE E FUNZIONAMENTO CAS FINO A 50 POSTI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "MINERVA SOCIETA' COOPERATIVA SOCIALE SIGLABILE MINERVA S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49624.96,
+   "aggiudicato": 49624.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VERCELLI"
+  },
+  {
+   "cig": "7753665EC2",
+   "data": "2019-01-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "MINERVA SOCIETA' COOPERATIVA SOCIALE SIGLABILE MINERVA S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 81600.0,
+   "aggiudicato": 81600.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  }
+ ]
+}

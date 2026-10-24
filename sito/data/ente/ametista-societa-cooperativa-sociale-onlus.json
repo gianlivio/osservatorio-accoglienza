@@ -1,0 +1,116 @@
+{
+ "nome": "AMETISTA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "01640890628",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9BC098964",
+   "data": "2025-12-19",
+   "oggetto": "ACCORDO QUADRO GARA N. 4402859 - CIG B2267C6936 SERVIZIO DI ACCOGLIENZA IN FAVORE DI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI DI ACCOGLIENZA CON CAPACITÀ RICETTIV",
+   "amministrazione": "PREFETTURA",
+   "ente": "AMETISTA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41.95,
+   "aggiudicato": 41.95,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B8D97AB73F",
+   "data": "2025-10-29",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTA DINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE UNITÀ ABITATIVE CAPIENZA MAX 50 POSTI",
+   "amministrazione": "PREFETTURA",
+   "ente": "AMETISTA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1429763.4,
+   "aggiudicato": 1429763.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "9106928AB8",
+   "data": "2022-03-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART. 11 DEL D.LGS. 142/2015 UBICATI IN PROVINCIA DI SAL",
+   "amministrazione": "PREFETTURA",
+   "ente": "AMETISTA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 22025981.25,
+   "aggiudicato": 21096264.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "9106913E56",
+   "data": "2022-03-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART. 11 DEL D.LGS. 142/2015 UBICATI IN PROVINCIA DI SAL",
+   "amministrazione": "PREFETTURA",
+   "ente": "AMETISTA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9529260.0,
+   "aggiudicato": 28.46,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "7436485D8B",
+   "data": "2018-04-21",
+   "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA E SERVIZI CONNESSI AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI SALERNO",
+   "amministrazione": "PREFETTURA",
+   "ente": "AMETISTA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 18111600.0,
+   "aggiudicato": 8012133.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

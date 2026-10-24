@@ -1,0 +1,38 @@
+{
+ "nome": "LA RETE - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03136080177",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9092567FA4",
+   "data": "2022-02-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI PROFUGHI AFGHANI NELL'AMBITO DEL PROGETTO SAI - BRESCIA ARTICOLO 2 - PERIODO: 1.3 - 31.12.2022",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "LA RETE - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74749.71,
+   "aggiudicato": 74749.71,
+   "durata_gg": 300.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

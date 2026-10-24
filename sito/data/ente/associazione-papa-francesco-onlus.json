@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE PAPA FRANCESCO ONLUS",
+ "cf": "93071180892",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "653462819E",
+   "data": "2015-12-23",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO LA STRUTTURA SITA IN C/DA MOSTRINGIANO PRIOLO GESTITA DA ASSOCIAZIONE PAPA FRANCESCO",
+   "amministrazione": "COMUNE DI AUGUSTA",
+   "ente": "ASSOCIAZIONE PAPA FRANCESCO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 130000.0,
+   "aggiudicato": 130000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "62354811B4",
+   "data": "2015-04-27",
+   "oggetto": "OSPITALITA' MSNA PRESSO CPA SITA IN C/DA MONSTRINGIANO PRIOLO GESTITA DA ASS. PAPA FRANCESCO GENN-GIUGN 2015",
+   "amministrazione": "COMUNE DI AUGUSTA",
+   "ente": "ASSOCIAZIONE PAPA FRANCESCO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 200000.0,
+   "aggiudicato": 200000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

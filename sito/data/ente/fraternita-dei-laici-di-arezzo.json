@@ -1,0 +1,38 @@
+{
+ "nome": "FRATERNITA DEI LAICI DI AREZZO",
+ "cf": "00182360511",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A00F6A6B3D",
+   "data": "2023-05-16",
+   "oggetto": "AFFIDAMENTO URGENTE SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (FRATERNITA DEI LAICI)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "FRATERNITA DEI LAICI DI AREZZO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49314.73,
+   "aggiudicato": 49314.73,
+   "durata_gg": 123.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  }
+ ]
+}

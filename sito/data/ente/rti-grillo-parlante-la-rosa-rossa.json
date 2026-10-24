@@ -1,0 +1,38 @@
+{
+ "nome": "RTI GRILLO PARLANTE - LA ROSA ROSSA",
+ "cf": "01994350591",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7779142F0B",
+   "data": "2018-10-12",
+   "oggetto": "SERIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 01/02/2019 - 31/12/2019 - ASS. ALHENA ONLUS",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "RTI GRILLO PARLANTE - LA ROSA ROSSA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 531895.0,
+   "aggiudicato": 531895.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

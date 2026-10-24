@@ -1,0 +1,54 @@
+{
+ "nome": "ABANTU SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03279811206",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C429D50C",
+   "data": "2025-12-22",
+   "oggetto": "PROROGA ACCORDO QUADRO PER LA GESTIONE DEL SERVIZIO PUNTO MIGRANTI - AZIONI DI INTEGRAZIONE SOCIALE A FAVORE DEI CITTADINI STRANIERI IMMIGRATI NEI COMUNI DEL DISTRETTO PIANURA EST",
+   "amministrazione": "UNIONE RENO GALLIERA",
+   "ente": "ABANTU SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 76383.8,
+   "aggiudicato": 76383.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B568651699",
+   "data": "2025-01-29",
+   "oggetto": "CONTRATTO PER LA GESTIONE DEL SERVIZIO 'PUNTO MIGRANTI -AZIONI DIINTEGRAZIONE SOCIALE A FAVORE DEI CITTADINI STRANIERIIMMIGRATI' NEICOMUNI DEL DISTRETTO PIANURA EST - PERIODO 01.01",
+   "amministrazione": "UNIONE RENO GALLIERA",
+   "ente": "ABANTU SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 130519.46,
+   "aggiudicato": 130519.46,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

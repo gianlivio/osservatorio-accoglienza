@@ -1,0 +1,33 @@
+{
+ "nome": "INM AND PARTNER S.R.L.",
+ "cf": "04499560276",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8310759F45",
+   "data": "2020-06-12",
+   "oggetto": "LOTTO FUNZIONALE NR. 01 - OSPEDALE DI JESOLO (VE)",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "INM AND PARTNER S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 157541.37,
+   "aggiudicato": 93264.491,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

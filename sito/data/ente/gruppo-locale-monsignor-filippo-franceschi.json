@@ -1,0 +1,38 @@
+{
+ "nome": "GRUPPO LOCALE MONSIGNOR FILIPPO FRANCESCHI",
+ "cf": "93019370381",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5F124441F",
+   "data": "2025-03-07",
+   "oggetto": "ACCOGLIENZA PROFUGHI PERIODO OTTOBRE 2024 MARZO 2025",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "GRUPPO LOCALE MONSIGNOR FILIPPO FRANCESCHI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

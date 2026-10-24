@@ -1,0 +1,38 @@
+{
+ "nome": "Z. D. B. SOCIETA' TRA PROFESSIONISTI  A RESPONSABILITA' LIMITATA",
+ "cf": "14662271007",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8D29D8604",
+   "data": "2025-10-28",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO PER 3 ANNI DI MEDICO COMPETENTE PER LE 4 SEDI DELLA COMMISSIONE TERRITORIALE DI ROMA",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "Z. D. B. SOCIETA' TRA PROFESSIONISTI  A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26693.2,
+   "aggiudicato": 26693.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

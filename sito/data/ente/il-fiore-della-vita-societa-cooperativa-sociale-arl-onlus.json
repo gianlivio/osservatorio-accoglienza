@@ -1,0 +1,38 @@
+{
+ "nome": "IL FIORE DELLA VITA SOCIETA' COOPERATIVA SOCIALE ARL ONLUS",
+ "cf": "92071220625",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B77BC8C9CE",
+   "data": "2025-07-02",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) D. LGS. 36/2023 S.M.I. DEL SERVIZIO DI ACCOGLIENZA MSNA M.M.Y. PRESSO COMUNITÀ ALLOGGIO LE ALI DEL FUTURO - IL FIORE DELLA VITA SOCIET",
+   "amministrazione": "ASP CENTRO SERVIZI ALLA PERSONA",
+   "ente": "IL FIORE DELLA VITA SOCIETA' COOPERATIVA SOCIALE ARL ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26300.0,
+   "aggiudicato": 26300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

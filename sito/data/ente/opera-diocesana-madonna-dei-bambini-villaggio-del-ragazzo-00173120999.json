@@ -1,0 +1,38 @@
+{
+ "nome": "OPERA DIOCESANA MADONNA DEI BAMBINI – VILLAGGIO DEL RAGAZZO",
+ "cf": "00173120999",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0D1ABDC8B",
+   "data": "2024-03-14",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA UA PROFUGHI UCRAINI -5",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "OPERA DIOCESANA MADONNA DEI BAMBINI – VILLAGGIO DEL RAGAZZO",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 365989.44,
+   "aggiudicato": 182994.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

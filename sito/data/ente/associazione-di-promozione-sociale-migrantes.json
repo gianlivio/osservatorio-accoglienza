@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE MIGRANTES",
+ "cf": "07058670725",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4495E6E17",
+   "data": "2024-11-18",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETTERA B) D.LGS 36/2023 TRAMITE ORDINE DIRETTO DI ACQUISTO SU MEPA DEL SERVIZIO P.I.S. PROGETTO PRONTO INTERVENTO SOCIALE E DI ",
+   "amministrazione": "COMUNE DI ANDRIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE MIGRANTES",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "85569190F2",
+   "data": "2020-12-23",
+   "oggetto": "AFFIDAMENTO TRAMITE PROCEDURA NEGOZIATA AI SENSI DELL'ART. 36 COMMA 2 LETT. B) DEL D.LGS. N. 50/016 PER LA INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L'ORGANIZZAZIONE E GESTIONE P",
+   "amministrazione": "COMUNE DI ANDRIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE MIGRANTES",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 461000.0,
+   "aggiudicato": 352600.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

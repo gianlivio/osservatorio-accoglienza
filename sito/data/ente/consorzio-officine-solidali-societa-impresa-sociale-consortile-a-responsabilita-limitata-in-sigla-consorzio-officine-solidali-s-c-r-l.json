@@ -1,0 +1,132 @@
+{
+ "nome": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+ "cf": "16080331008",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B66446E7CC",
+   "data": "2025-04-09",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEI SERVIZI DI ACCOGLIENZA DI TITOLARI DI PROTEZIONE INTERNAZIONALE (SAI) TIPOLOGIA ACCOGLIENZA ORDINARI",
+   "amministrazione": "COMUNE DI NEMOLI",
+   "ente": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 956474.31,
+   "aggiudicato": 801770.89,
+   "durata_gg": 32.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "B63D9C5EF4",
+   "data": "2025-03-28",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LINDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEI SERVIZI DI ACCOGLIENZA DI TITOLARI DI PROTEZIONE INTERNAZIONALE (SAI) PER LANNUALIT 2025/2027 DEL COM",
+   "amministrazione": "COMUNE DI RIVELLO",
+   "ente": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 955296.84,
+   "aggiudicato": 800781.39,
+   "durata_gg": 32.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "B5D11E51B1",
+   "data": "2025-02-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA FUNZIONAMENTO DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E PER I MINORI STRANIERI NON ACCOMPAGNATI (SIPROIMI), PERIODO DAL 01/04/20",
+   "amministrazione": "COMUNE DI TRECCHINA",
+   "ente": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 480658.33,
+   "aggiudicato": 205996.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "B55EAE2208",
+   "data": "2025-01-28",
+   "oggetto": "GESTIONE SAI 30 POSTI CATEGORIA ORDINARI",
+   "amministrazione": "COMUNE DI CELLINO SAN MARCO",
+   "ente": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 437330.63,
+   "aggiudicato": 437330.63,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  },
+  {
+   "cig": "95195862E2",
+   "data": "2023-02-14",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA INTEGRATA (SAI) A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE -CATEGORIA ORDINARI-",
+   "amministrazione": "PROVINCIA DI POTENZA",
+   "ente": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4264350.0,
+   "aggiudicato": 4264350.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "9510603DDD",
+   "data": "2022-12-21",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI TITOLARI DI PROTEZIONE INTERNAZIONALE (SAI) TIPOLOGIA 'ACCOGLIENZA ORDINARIA' RELATIVI ALLA CRISI UCRAINA DA DESTINARE A NUCLEI FAMILIARI,",
+   "amministrazione": "COMUNE DI RIVELLO",
+   "ente": "CONSORZIO OFFICINE SOLIDALI SOCIETA' IMPRESA SOCIALE CONSORTILE A RESPONSABILITA' LIMITATA IN SIGLA CONSORZIO OFFICINE SOLIDALI S.C.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 873132.0,
+   "aggiudicato": 582088.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

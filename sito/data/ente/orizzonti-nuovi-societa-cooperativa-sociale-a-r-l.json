@@ -1,0 +1,38 @@
+{
+ "nome": "ORIZZONTI NUOVI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "02969420757",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B50C475231",
+   "data": "2024-12-31",
+   "oggetto": "SPORTELLI PER L'INTEGRAZIONE SOCIO-SANITARIA-CULTURALE DEGLI IMMIGRATI (ART. 108 R.R. 4/2007 E SS.MM.E II.)",
+   "amministrazione": "COMUNE DI GALLIPOLI",
+   "ente": "ORIZZONTI NUOVI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69100.0,
+   "aggiudicato": 69100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCE"
+  }
+ ]
+}

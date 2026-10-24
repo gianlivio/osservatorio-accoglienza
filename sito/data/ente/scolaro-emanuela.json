@@ -1,0 +1,38 @@
+{
+ "nome": "SCOLARO EMANUELA",
+ "cf": "01480940095",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4F8265BF0",
+   "data": "2024-12-24",
+   "oggetto": "SERVIZI AFFERENTI LA FIGURA PROFESSIONALE DI REVISORE CONTABILE INDIPENDENTE, AI SENSI DELL'ART. 31 (ALL. A) DEL DECRETO DEL MINISTERO DELL'INTERNO 18 NOVEMBRE 2019, NELL'AMBITO DE",
+   "amministrazione": "COMUNE DI CAMPOMORONE PROVINCIA DI GENOVA",
+   "ente": "SCOLARO EMANUELA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9000.0,
+   "aggiudicato": 9000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

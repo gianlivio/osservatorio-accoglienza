@@ -1,0 +1,38 @@
+{
+ "nome": "MA.CO. GROUP S.R.L.",
+ "cf": "07328710723",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B42074FED3",
+   "data": "2024-11-06",
+   "oggetto": "P24 292– BARI – PALESE – PROGETTO DI AMMODERNAMENTO DEI MODULI ABITATIVI E AD USO UFFICIO DEL CENTRO ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A.) LOTTO 2 E.F. 2024 IMPORTO € 2.500.000,",
+   "amministrazione": "3 REPARTO GENIO A.M.BARI",
+   "ente": "MA.CO. GROUP S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6469772.0,
+   "aggiudicato": 6469772.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE - ENTE DEL TERZO SETTORE",
+ "cf": "03213000593",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B74336DBD6",
+   "data": "2025-06-16",
+   "oggetto": "AFFIDAMENTO AD UN SOGGETTO COLLABORATORE-GESTORE PER LA CO-PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI E TITOL",
+   "amministrazione": "COMUNE DI MINTURNO",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE - ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 647301.5,
+   "aggiudicato": 647301.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

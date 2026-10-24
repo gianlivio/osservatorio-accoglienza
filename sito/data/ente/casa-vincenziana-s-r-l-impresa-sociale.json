@@ -1,0 +1,128 @@
+{
+ "nome": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+ "cf": "01561330554",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B95263343A",
+   "data": "2025-12-01",
+   "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31177.63,
+   "aggiudicato": 31177.63,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B8019993AB",
+   "data": "2025-08-22",
+   "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 122699.06,
+   "aggiudicato": 122699.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B690AA7FEC",
+   "data": "2025-04-22",
+   "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 123704.79,
+   "aggiudicato": 123704.79,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B4F857C8B2",
+   "data": "2024-12-24",
+   "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39000.0,
+   "aggiudicato": 39000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B2DC2AD341",
+   "data": "2024-08-29",
+   "oggetto": "SERVIZI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 122699.0,
+   "aggiudicato": 122699.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "88297647C1",
+   "data": "2021-07-01",
+   "oggetto": "SERIVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO PRESSO SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI TERNI",
+   "ente": "CASA VINCENZIANA S.R.L. - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 2675090.25,
+   "aggiudicato": 24.53,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ISTITUTO PER LA RICERCA SOCIALE SOCIETA' COOPERATIVA",
+ "cf": "01767140153",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B024D87FEE",
+   "data": "2024-01-29",
+   "oggetto": "SERVIZI DI RICERCA SOCIALE MONITORAGGIO",
+   "amministrazione": "COMUNE DI SIRACUSA",
+   "ente": "ISTITUTO PER LA RICERCA SOCIALE SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36885.24,
+   "aggiudicato": null,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

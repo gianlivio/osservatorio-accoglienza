@@ -1,0 +1,54 @@
+{
+ "nome": "AKKANTO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "00721640407",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B27021AC50",
+   "data": "2024-07-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "AKKANTO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36952.0,
+   "aggiudicato": 36952.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B1E861B905",
+   "data": "2024-05-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "AKKANTO SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36952.0,
+   "aggiudicato": 36952.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

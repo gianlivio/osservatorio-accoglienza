@@ -1,0 +1,165 @@
+{
+ "nome": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01962150668",
+ "affidamenti": 8,
+ "diretti": 7,
+ "quota_diretti": 87.5,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B87F51626D",
+   "data": "2025-10-03",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1587804.0,
+   "aggiudicato": 1587804.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B87F3BC4E5",
+   "data": "2025-10-03",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7348834.08,
+   "aggiudicato": 7348834.08,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B87F096BC1",
+   "data": "2025-10-03",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2911167.0,
+   "aggiudicato": 2911167.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B709E19B0A",
+   "data": "2025-05-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRESSO STRUTTURE FINO A 50",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 735475.0,
+   "aggiudicato": 735475.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "9940799ED5",
+   "data": "2023-09-14",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI DA 100 A 300 POSTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2771780.61,
+   "aggiudicato": 2771780.61,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "93162604F5",
+   "data": "2022-07-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI CON CAPIENZA DA 101 A 300 MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10696638.0,
+   "aggiudicato": 22.75,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7599956218",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP. FREEDOM",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 358200.0,
+   "aggiudicato": 358200.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "75999182BC",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP. SAMIRA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA RINASCENTE 2.0 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 852516.0,
+   "aggiudicato": 852516.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

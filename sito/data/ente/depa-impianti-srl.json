@@ -1,0 +1,38 @@
+{
+ "nome": "DEPA IMPIANTI SRL",
+ "cf": "02871640641",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A018D2F4FC",
+   "data": "2023-10-24",
+   "oggetto": "LAVORI 'COMPLETAMENTO DEI LAVORI SULL'IMMOBILE DENOMINATO EX POLIAMBULATORIO DA ADIBIRE IN CENTRO DI ACCOGLIENZA DI PROFUGHI DALLE GUERRE ED ATTIVITÀ SOCIO-SANITARIE'",
+   "amministrazione": "ASMEL CONSORTILE SOC. CONS. ARL",
+   "ente": "DEPA IMPIANTI SRL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 215002.19,
+   "aggiudicato": 204007.59,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

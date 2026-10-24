@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE COSE DELL'ALTRO MONDO",
+ "cf": "02267550594",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B243BDBF39",
+   "data": "2024-06-28",
+   "oggetto": "CORSO DI ALFABETIZZAZIONE PER BENEFICIARI PROGETTO SAI DEL COMUNE DI ITRI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "ASSOCIAZIONE COSE DELL'ALTRO MONDO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9925.0,
+   "aggiudicato": 9925.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "nome": "ASSOCIAZIONE LA CROCE DEL SUD ONLUS",
+ "cf": "97734570159",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7108810796",
+   "data": "2017-06-13",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI ASILO GIUGNO-AGOSTO 2017 - POSTI EXTRA",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ASSOCIAZIONE LA CROCE DEL SUD ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO PER VARIANTE SUPERIORE AL 20% DELL'IMPORTO CONTRATTUALE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 161883.2,
+   "aggiudicato": 161883.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "726042436C",
+   "data": "2017-06-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA E SERVIZI PER RICHIEDENTI ASILO - OTTOBRE DICEMBRE 2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ASSOCIAZIONE LA CROCE DEL SUD ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 309580.92,
+   "aggiudicato": 309580.92,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "7053278522",
+   "data": "2017-03-31",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE APRILE-MAGGIO 2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ASSOCIAZIONE LA CROCE DEL SUD ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72040.39,
+   "aggiudicato": 68856.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "6859207CAB",
+   "data": "2016-11-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - 01.11.2016 - 31.12.2016",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "ASSOCIAZIONE LA CROCE DEL SUD ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 105310.4,
+   "aggiudicato": 105310.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  }
+ ]
+}

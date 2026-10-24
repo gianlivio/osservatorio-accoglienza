@@ -1,0 +1,54 @@
+{
+ "nome": "SIRIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00895390706",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B41A93EE8E",
+   "data": "2024-11-05",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO LUGLIO-AGOSTO-SETTEMBRE 2024. COOP. SOC. SIRIO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SIRIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10450.0,
+   "aggiudicato": 10450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B120C20778",
+   "data": "2024-04-08",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "SIRIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

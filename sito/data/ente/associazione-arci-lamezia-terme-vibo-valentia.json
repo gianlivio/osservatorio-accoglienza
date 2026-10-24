@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE ARCI LAMEZIA TERME/ VIBO VALENTIA",
+ "cf": "92007660795",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "728034069F",
+   "data": "2017-11-16",
+   "oggetto": "PROGETTO SPRAR",
+   "amministrazione": "UNIONE DEI COMUNI DI MONTE CONTESSA",
+   "ente": "ASSOCIAZIONE ARCI LAMEZIA TERME/ VIBO VALENTIA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 277000.0,
+   "aggiudicato": 277400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "696763631F",
+   "data": "2017-04-13",
+   "oggetto": "PROGETTO SPRAR ANNUALITÀ 2017 - 2019, CATEGORIA 'ORDINARI'",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA LAMEZIA TERME - SOVERIA MANNELLI",
+   "ente": "ASSOCIAZIONE ARCI LAMEZIA TERME/ VIBO VALENTIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1639562.5,
+   "aggiudicato": 1355077.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

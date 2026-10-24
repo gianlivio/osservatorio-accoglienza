@@ -1,0 +1,38 @@
+{
+ "nome": "FA.CE. S.P.A.",
+ "cf": "03167270408",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B59D566F58",
+   "data": "2025-02-13",
+   "oggetto": "ACQUISTO FARMACI/ ARTICOLI DI FARMACIA PER PROGETTO SAI SEDE COMUNALE GIARDINO",
+   "amministrazione": "AZIENDA PUBBLICA DI SERVIZI ALLA PERSONA DEL DISTRETTO CESENA VALLE SAVIO",
+   "ente": "FA.CE. S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15000.0,
+   "aggiudicato": 15000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

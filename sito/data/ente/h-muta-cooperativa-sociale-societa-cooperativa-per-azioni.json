@@ -1,0 +1,70 @@
+{
+ "nome": "H MUTA COOPERATIVA SOCIALE SOCIETA' COOPERATIVA PER AZIONI",
+ "cf": "00770810422",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B64A8B10D9",
+   "data": "2025-04-02",
+   "oggetto": "SERVIZIO DI COORDINAMENTO, CURA DEGLI ASPETTI ESECUTIVI, VALUTAZIONE, CONTROLLO E MONITORAGGIO SULL'ATTUAZIONE DEI PROGETTI SAI 1411",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "H MUTA COOPERATIVA SOCIALE SOCIETA' COOPERATIVA PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11713.0,
+   "aggiudicato": 11713.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B64A8B0006",
+   "data": "2025-04-02",
+   "oggetto": "SERVIZIO DI COORDINAMENTO, CURA DEGLI ASPETTI ESECUTIVI, VALUTAZIONE, CONTROLLO E MONITORAGGIO SULL'ATTUAZIONE DEI PROGETTI SAI 553",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "H MUTA COOPERATIVA SOCIALE SOCIETA' COOPERATIVA PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11713.0,
+   "aggiudicato": 11713.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B64A8AFF2E",
+   "data": "2025-04-02",
+   "oggetto": "SERVIZIO DI COORDINAMENTO, CURA DEGLI ASPETTI ESECUTIVI, VALUTAZIONE, CONTROLLO E MONITORAGGIO SULL'ATTUAZIONE DEI PROGETTI SAI 128",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "H MUTA COOPERATIVA SOCIALE SOCIETA' COOPERATIVA PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11713.0,
+   "aggiudicato": 11713.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

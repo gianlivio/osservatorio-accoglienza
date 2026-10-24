@@ -1,0 +1,75 @@
+{
+ "nome": "COOPERATIVA SOCIALE SOCIETA' D OLCE",
+ "cf": "03772490375",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73959177C7",
+   "data": "2018-03-01",
+   "oggetto": "CONTRATTO SPECIFICO NELL'AMBITO DELL'ACCORDO QUADRO SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI -LA DOLCE 01/03/2018- 30/09/2018",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOCIETA' D OLCE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 133323.5,
+   "aggiudicato": 133323.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972474B8E",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 3.3 CENTRO URBANO PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIE",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOCIETA' D OLCE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136563.13,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972459F2C",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 3.2 CENTRO URBANO PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIE",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOCIETA' D OLCE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136563.13,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

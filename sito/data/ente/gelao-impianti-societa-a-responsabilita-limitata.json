@@ -1,0 +1,38 @@
+{
+ "nome": "GELAO IMPIANTI SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "07194280728",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B88EA35A2E",
+   "data": "2025-10-09",
+   "oggetto": "P25-180 - BARI PALESE - IMPIANTI ELETTRICI COMPOUND ABITATIVI - PROGETTO DI AMMODERNAMENTO DEI MODULI ABITATIVI E AD USO UFFICIO DEL CENTRO ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A.)",
+   "amministrazione": "3 REPARTO GENIO A.M.BARI",
+   "ente": "GELAO IMPIANTI SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 147631.63,
+   "aggiudicato": 147631.63,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

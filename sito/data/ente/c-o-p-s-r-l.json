@@ -1,0 +1,38 @@
+{
+ "nome": "C.O.P. S.R.L.",
+ "cf": "03686920798",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8765752F5F",
+   "data": "2021-07-06",
+   "oggetto": "LAVORI DI 'RIQUALIFICAZIONE AREE VERDI: VIA PROVINCIALE E VIA TRIESTE' (INFRASTRUTTURE UTILI ALLA COLLETTIVITÀ) CONTRIBUTO COMUNI SCIOLTI PER MAFIA E FONDI PROGETTI SPRAR",
+   "amministrazione": "CITTA' METROPOLITANA DI REGGIO CALABRIA",
+   "ente": "C.O.P. S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 67168.68,
+   "aggiudicato": 62868.39,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

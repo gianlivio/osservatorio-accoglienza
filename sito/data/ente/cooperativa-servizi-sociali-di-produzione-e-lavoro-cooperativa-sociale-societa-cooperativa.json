@@ -1,0 +1,63 @@
+{
+ "nome": "COOPERATIVA SERVIZI SOCIALI DI PRODUZIONE E LAVORO - COOPERATIVA SOCIALE - SOCIETA' COOPERATIVA",
+ "cf": "01233720836",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5A2AEA136",
+   "data": "2025-03-28",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA CENTRI COLLETTIVI CON CAPACITÀ RICETTIVA DA 51 A 100 POSTI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "COOPERATIVA SERVIZI SOCIALI DI PRODUZIONE E LAVORO - COOPERATIVA SOCIALE - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 20805000.0,
+   "aggiudicato": 8816529.38,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "6842816665",
+   "data": "2016-11-03",
+   "oggetto": "REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA DEGLI ENTI LOCALI IN SENO ALLO SPRAR. INDIVIDUAZIONE PARTNER COPROGETTANTE E SOGGETTO ATTUATORE - ANNI 2017 /2019",
+   "amministrazione": "COMUNE DI CAPO D ORLANDO",
+   "ente": "COOPERATIVA SERVIZI SOCIALI DI PRODUZIONE E LAVORO - COOPERATIVA SOCIALE - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1568241.0,
+   "aggiudicato": 1568241.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

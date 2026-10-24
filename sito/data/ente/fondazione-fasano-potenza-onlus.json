@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE FASANO-POTENZA ONLUS",
+ "cf": "94051900713",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7337637999",
+   "data": "2017-12-28",
+   "oggetto": "ACCOGLIENZA IMMIGRATI 2018 FOGGIA. CONSORZIO ARANEA",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE FASANO-POTENZA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 255484.5,
+   "aggiudicato": 255484.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

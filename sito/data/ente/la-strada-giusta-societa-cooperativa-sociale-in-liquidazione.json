@@ -1,0 +1,75 @@
+{
+ "nome": "LA STRADA GIUSTA - SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+ "cf": "01329550451",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CUNEO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7950157519",
+   "data": "2019-07-01",
+   "oggetto": "SERVIZIO DI GESTIONE CENTRI COLLETTIVI D'ACCOGLIENZA A FAV. CITTADINI STRANIERI DAL 1.7.2019 - LA STRADA GIUSTA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA STRADA GIUSTA - SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 303513.25,
+   "aggiudicato": 303513.25,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7886322EC7",
+   "data": "2019-04-29",
+   "oggetto": "SERVIZI DI GESTIONE CENTRI COLLETTIVI DI ACCOGLIENZA A FAV. CITTADINI STRANIERI CON AP. RIC. DI 50 POSTI PERIODO DAL 1.6.2019",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA STRADA GIUSTA - SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 2885250.0,
+   "aggiudicato": 800701.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6394162567",
+   "data": "2015-06-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "LA STRADA GIUSTA - SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 86940.0,
+   "aggiudicato": 86940.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CUNEO"
+  }
+ ]
+}

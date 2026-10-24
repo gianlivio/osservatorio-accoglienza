@@ -1,0 +1,95 @@
+{
+ "nome": "IMPRESA INESISTENTE",
+ "cf": "02102821002",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7052A9A46",
+   "data": "2025-05-27",
+   "oggetto": "FORNITURA PC PER LA COMMISSIONE RIFUGIATI DI BOLOGNA",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12084.0,
+   "aggiudicato": 12084.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  },
+  {
+   "cig": "B3EDAFC4F1",
+   "data": "2024-10-22",
+   "oggetto": "COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE - FORNITURA N. 10 PC E SERVIZIO ASSISTENZA ULTERIORI 24 MESI",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5505.0,
+   "aggiudicato": 5505.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B372AA2F25",
+   "data": "2024-10-15",
+   "oggetto": "COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE - FORNITURA N. 10 PC",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5500.0,
+   "aggiudicato": 5500.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B2ACC0B816",
+   "data": "2024-08-01",
+   "oggetto": "PEFETTURA DI PALERMO -COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE- ACQUISTO P.C.",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5505.0,
+   "aggiudicato": 5505.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

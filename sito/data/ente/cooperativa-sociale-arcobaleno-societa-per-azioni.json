@@ -1,0 +1,54 @@
+{
+ "nome": "COOPERATIVA SOCIALE ARCOBALENO SOCIETA' PER AZIONI",
+ "cf": "01967560184",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "97667988AC",
+   "data": "2022-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO A COOPERATIVA SOCIALE ARCOBALENO SOCIETA' PER AZIONI PER EMERGENZA PROFUGHI UCRAINI COME DA OCDPC 872/2022 - CAVA MANARA",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "COOPERATIVA SOCIALE ARCOBALENO SOCIETA' PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 269.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "9766777758",
+   "data": "2022-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO A COOPERATIVA SOCIALE ARCOBALENO SOCIETA' PER AZIONI PER EMERGENZA PROFUGHI UCRAINI COME DA OCDPC 872/2022 - LINAROLO",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "COOPERATIVA SOCIALE ARCOBALENO SOCIETA' PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 277.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

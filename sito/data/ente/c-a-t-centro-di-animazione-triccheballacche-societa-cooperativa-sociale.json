@@ -1,0 +1,63 @@
+{
+ "nome": "C.A.T. (CENTRO DI ANIMAZIONE TRICCHEBALLACCHE) - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03607960485",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PISTOIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5081FF9C9",
+   "data": "2024-12-31",
+   "oggetto": "SERVIZIO DI GESTIONE DEI SERVIZI DI ACCOGLIENZA E INTEGRAZIONE NELL'AMBITO DEL SISTEMA SAI (EX SIPROIMI) PER LA SOCIETA' DELLA SALUTE VALDINIEVOLE.",
+   "amministrazione": "SOCIETA DELLA SALUTE DELLA VALDINIEVOLE",
+   "ente": "C.A.T. (CENTRO DI ANIMAZIONE TRICCHEBALLACCHE) - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1009435.25,
+   "aggiudicato": 1009435.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  },
+  {
+   "cig": "6938252AAB",
+   "data": "2017-01-05",
+   "oggetto": "SERVIZI SOCIO SANITARI DI SUPPORTO SPECIALISTICO",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "C.A.T. (CENTRO DI ANIMAZIONE TRICCHEBALLACCHE) - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 62181.82,
+   "aggiudicato": 17982.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "SAMARCANDA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "03031900248",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2C803AB4E",
+   "data": "2024-08-14",
+   "oggetto": "APPALTO MIGRANTI UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "SAMARCANDA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 183577363.0,
+   "aggiudicato": 3187107.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "B163DEB6B3",
+   "data": "2024-04-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITA' ABITATIVE 2024",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "SAMARCANDA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 970000.0,
+   "aggiudicato": 970000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VICENZA"
+  }
+ ]
+}

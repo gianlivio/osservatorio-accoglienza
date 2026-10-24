@@ -1,0 +1,38 @@
+{
+ "nome": "SISTEMI INTEGRATI S.R.L.",
+ "cf": "07058980827",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "99583301E3",
+   "data": "2023-08-03",
+   "oggetto": "AFFIDAMENTO INCARICO DI REVISIONE PREZZI DEL PROGETTO ESECUTIVO, LA DIREZIONE DEI LAVORI, IL COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE E IN FASE DI ESECUZIONE, MISURE ",
+   "amministrazione": "COMUNE DI CORLEONE",
+   "ente": "SISTEMI INTEGRATI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 114266.59,
+   "aggiudicato": 110838.59,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "nome": "CASA DI ROMA  DELL'ISTITUTO DELLE SUORE DI SANT'ANNA DELLA PROVV IDENZA",
+ "cf": "02641000589",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "74211216C7",
+   "data": "2018-03-15",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO OREB ANNO 2018",
+   "amministrazione": "COMUNE DI AUGUSTA",
+   "ente": "CASA DI ROMA  DELL'ISTITUTO DELLE SUORE DI SANT'ANNA DELLA PROVV IDENZA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 197100.0,
+   "aggiudicato": 197100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "70412986EC",
+   "data": "2017-04-06",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO LA COMUNITÀ OREB DIAUGUSTA CASA DI ROMA IST. SUORE S. ANNA GENN-DIC 2017",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "CASA DI ROMA  DELL'ISTITUTO DELLE SUORE DI SANT'ANNA DELLA PROVV IDENZA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 147825.0,
+   "aggiudicato": 147825.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "676479014F",
+   "data": "2016-07-25",
+   "oggetto": "ACCOGLIENZA MSNA PRESSO COMUNITA' OREB DI AUGUSTA- CASA DI ROMA IST.SUORE S. ANNA - GENNAIO-DICEMBRE 2016",
+   "amministrazione": "CENTRALE DI COMMITTENZA MODICA-SCICLI",
+   "ente": "CASA DI ROMA  DELL'ISTITUTO DELLE SUORE DI SANT'ANNA DELLA PROVV IDENZA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86000.0,
+   "aggiudicato": 86000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6291843119",
+   "data": "2015-06-15",
+   "oggetto": "RICOVERO MSNA PRESSO LA COMUNITÀ ALLOGGIO OREB ANNO 2015",
+   "amministrazione": "COMUNE DI AUGUSTA",
+   "ente": "CASA DI ROMA  DELL'ISTITUTO DELLE SUORE DI SANT'ANNA DELLA PROVV IDENZA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 85000.0,
+   "aggiudicato": 85000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

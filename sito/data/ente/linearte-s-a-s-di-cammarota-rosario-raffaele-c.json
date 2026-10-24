@@ -1,0 +1,54 @@
+{
+ "nome": "LINEARTE S.A.S. DI CAMMAROTA ROSARIO RAFFAELE & C.",
+ "cf": "01244440762",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B14DD2F0CA",
+   "data": "2024-04-18",
+   "oggetto": "SERVIZIO DI PUBBLICITÀ E DIFFUSIONE DELLE ATTIVITÀ INTEGRATE DEL PROGETTO 31 - ACCOGLIENZA MSNA (MINORI STRANIERI NON ACCOMPAGNATI) - PICCOLE COMUNITÀ INTEGRATE - AMPCI, FINANZIATO",
+   "amministrazione": "REGIONE BASILICATA",
+   "ente": "LINEARTE S.A.S. DI CAMMAROTA ROSARIO RAFFAELE & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4098.36,
+   "aggiudicato": 4098.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "B14CBF0569",
+   "data": "2024-04-18",
+   "oggetto": "SERVIZIO DI PUBBLICITÀ E DIFFUSIONE DELLE ATTIVITÀ INTEGRATE DEL PROGETTO 31 - ACCOGLIENZA MSNA (MINORI STRANIERI NON ACCOMPAGNATI) - PICCOLE COMUNITÀ INTEGRATE - AMPCI, FINANZIATO",
+   "amministrazione": "REGIONE BASILICATA",
+   "ente": "LINEARTE S.A.S. DI CAMMAROTA ROSARIO RAFFAELE & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4098.36,
+   "aggiudicato": 4098.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "VENDITTI MARINO",
+ "cf": "01656420609",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B439C5C103",
+   "data": "2024-11-13",
+   "oggetto": "REVISORE CONTABILE INDIPENDENTE NELL'AMBITO DEL PROGETTO SAI COLLEFERRO- PROG 176-PR3 ANNUALITÀ 2024-2026.",
+   "amministrazione": "COMUNE DI COLLEFERRO",
+   "ente": "VENDITTI MARINO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10500.0,
+   "aggiudicato": 10500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

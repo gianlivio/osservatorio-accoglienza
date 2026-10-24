@@ -1,0 +1,206 @@
+{
+ "nome": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+ "cf": "97237140153",
+ "affidamenti": 10,
+ "diretti": 5,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "LODI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5B1CD10FD",
+   "data": "2025-02-18",
+   "oggetto": "ACCOGLIENZA N. 45 MIGRANTI IN CAS COSTITUITO DA CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2064260.7,
+   "aggiudicato": 2064260.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "B1CCFC2C9E",
+   "data": "2024-05-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE COLLETTIVE FINO A 300 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3092544.9,
+   "aggiudicato": 3092544.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B1CCDBE2D0",
+   "data": "2024-05-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE COLLETTIVE FINO A 100 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2339607.6,
+   "aggiudicato": 2339607.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B1CCA530BE",
+   "data": "2024-05-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE COLLETTIVE FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1774908.45,
+   "aggiudicato": 1774908.45,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B189BE68D9",
+   "data": "2024-05-07",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI IN STRUTTURE COSTITUITE DA CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68476.0,
+   "aggiudicato": 68476.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "8748436DC2",
+   "data": "2021-05-13",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI PRESSO CENTRI COLLETTIVI DA 51 A 100 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 16461236.0,
+   "aggiudicato": 6503552.54,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6875361F5E",
+   "data": "2016-11-21",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PER MAX 20 MNSA - MASCHI DI ETA' COMPRESA TRA I 15 E I 18 ANNI",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 372300.0,
+   "aggiudicato": 372300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "68699741E4",
+   "data": "2016-11-15",
+   "oggetto": "UNITÀ D'OFFERTA IN GRADO DI ACCOGLIERE ED OSPITARE FINO A 50 CITTADINI STRANIERI PRESENTI SUL TERRITORIO (NUCLEI FAMILIARI E DONNE).",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 58900.0,
+   "aggiudicato": 56810.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6778326391",
+   "data": "2016-08-23",
+   "oggetto": "STRUTTURA IN GRADO DI ACCOGLIERE FINO A UN MASSIMO DI 125 POSTI (UOMINI)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 457500.0,
+   "aggiudicato": 443317.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "614217397F",
+   "data": "2015-02-23",
+   "oggetto": "PROROGA CONVENZIONE CON FONDAZIONE FRATELLI DI SAN FRANCESCO. PERIODO: 1 GENNAIO- 31 MARZO 2015",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE FRATELLI DI SAN FRANCESCO D'ASSISI - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 374283.0,
+   "aggiudicato": 374283.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

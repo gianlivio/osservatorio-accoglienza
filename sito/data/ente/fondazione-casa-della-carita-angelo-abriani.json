@@ -1,0 +1,112 @@
+{
+ "nome": "FONDAZIONE CASA DELLA CARITA' ANGELO ABRIANI",
+ "cf": "08241220964",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B27C3CA256",
+   "data": "2024-07-16",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI PRESSO CAS UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITÀ A.ABRIANI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 378760.0,
+   "aggiudicato": 378760.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "9249941CC7",
+   "data": "2022-06-20",
+   "oggetto": "SERVIZI ACCOGLIENZA PROFUGHI UCRAINI CAS 1- CDC CEAS",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' ANGELO ABRIANI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 369850.13,
+   "aggiudicato": 369850.13,
+   "durata_gg": 195.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9114952856",
+   "data": "2022-03-18",
+   "oggetto": "SERVIZI ACCOGLIENZA PROFUGHI AFGANI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' ANGELO ABRIANI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 90879.14,
+   "aggiudicato": 90879.14,
+   "durata_gg": 181.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9059223351",
+   "data": "2022-01-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PROFUGHI AFGHANI _UNITÀ ABITATIVE SINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' ANGELO ABRIANI",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 605770.8,
+   "aggiudicato": 328808.54,
+   "durata_gg": 181.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8534104568",
+   "data": "2019-11-19",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "FONDAZIONE CASA DELLA CARITA' ANGELO ABRIANI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 366861.04,
+   "aggiudicato": 366861.04,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

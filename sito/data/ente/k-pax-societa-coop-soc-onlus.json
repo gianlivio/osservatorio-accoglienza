@@ -1,0 +1,38 @@
+{
+ "nome": "K-PAX -SOCIETA' COOP SOC ONLUS",
+ "cf": "03018010987",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7057894660",
+   "data": "2017-05-02",
+   "oggetto": "ACCORDO PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO. PROROGA ACCORDI ATTUATIVI CON GL",
+   "amministrazione": "COMUNITA' MONTANA VALLE CAMONICA",
+   "ente": "K-PAX -SOCIETA' COOP SOC ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 82355.0,
+   "aggiudicato": 75425.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

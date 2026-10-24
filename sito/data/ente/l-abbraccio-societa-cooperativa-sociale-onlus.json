@@ -1,0 +1,38 @@
+{
+ "nome": "L'ABBRACCIO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "02591460692",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B19383BB38",
+   "data": "2024-05-09",
+   "oggetto": "AVVISO DEL DIPARTIMENTO PER LE LIBERTÀ CIVILI E LIMMIGRAZIONE MISURE URGENTI PER LA CRISI IN UCRAINA, AL FINE DI AMPLIARE IL SISTEMA DI ACCOGLIENZA DELLA RETE SAI - PROG.2144 – GES",
+   "amministrazione": "COMUNE DI FRESAGRANDINARIA",
+   "ente": "L'ABBRACCIO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 131422.81,
+   "aggiudicato": 131422.81,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

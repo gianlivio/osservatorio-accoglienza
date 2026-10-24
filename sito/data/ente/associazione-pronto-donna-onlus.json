@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE PRONTO DONNA ONLUS",
+ "cf": "92006000514",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6315685C20",
+   "data": "2015-06-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI ANOLF LUGLIO DICEMBRE 2015",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ASSOCIAZIONE PRONTO DONNA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 163447.2,
+   "aggiudicato": 163447.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

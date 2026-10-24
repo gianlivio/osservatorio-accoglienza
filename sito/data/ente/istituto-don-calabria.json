@@ -1,0 +1,195 @@
+{
+ "nome": "ISTITUTO DON CALABRIA",
+ "cf": "00280090234",
+ "affidamenti": 9,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "95756013EC",
+   "data": "2023-01-09",
+   "oggetto": "RINNOVO DELL'AFFIDAMENTO DELLA PROSECUZIONE DEI SERVIZI DI ACCOGLIENZA ED INTEGRAZIONE (SAI), CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI PERIODO 1 GENNAIO 2023-31 DICEMBRE 2025",
+   "amministrazione": "COMUNE DI FERRARA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2702169.0,
+   "aggiudicato": 2468730.57,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "9464437C7A",
+   "data": "2022-11-29",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA SAI (SISTEMA DI ACCOGLIENZA E INTEGRAZIONE) CATEGORIA 'MSNA' PROG-802-PR-3 - PROSECUZIONE DELLE PROGETTAZIONI A FAVORE DI MINORI STRANIERI NON ACCO",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5198024.41,
+   "aggiudicato": 2399088.19,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "850515431D",
+   "data": "2020-11-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI FERRARA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3285698.0,
+   "aggiudicato": 1572779.78,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "8485327959",
+   "data": "2020-11-12",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA SIPROIMI CATEGORIA ADULTI",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2270998.08,
+   "aggiudicato": 1009332.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "692369912A",
+   "data": "2017-02-14",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DEGLI ENTI ATTUATORI CUI AFFIDARE LA GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA DELLO SPRAR (SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E ",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2502704.0,
+   "aggiudicato": 1181510.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "692365198B",
+   "data": "2017-02-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2874146.0,
+   "aggiudicato": 1436602.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6925353615",
+   "data": "2016-12-23",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI FERRARA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1595757.65,
+   "aggiudicato": 1650891.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "651198325F",
+   "data": "2015-12-10",
+   "oggetto": "SERVIZI DI ACCOGLIENZA, TUTELA ED INTEGRAZIONE A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI NELL'AMBITO DEL PROGETTO SPRAR MSNA VERONA SOLIDALE UNDER BIENNIO 2015-2016",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 188192.45,
+   "aggiudicato": 188192.45,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6470716BC1",
+   "data": "2015-11-16",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "ISTITUTO DON CALABRIA",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 270733.0,
+   "aggiudicato": 270733.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

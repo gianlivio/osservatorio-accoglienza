@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE SAN LORENZO SOCIETA' COOPERATIVA",
+ "cf": "01559000516",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6951799603",
+   "data": "2016-10-04",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI COOP. SAN LORENZO FEBBRAIO GIUGNO 2017",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "COOPERATIVA SOCIALE SAN LORENZO SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 135000.0,
+   "aggiudicato": 135000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

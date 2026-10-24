@@ -1,0 +1,54 @@
+{
+ "nome": "MAFALDA SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE IN SCIOGLI MENTO IN LIQUIDAZIONE",
+ "cf": "03138380617",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7842724495",
+   "data": "2019-04-08",
+   "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA E SERVIZI CONNESSI AI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA PROVINCIA DI SALERNO",
+   "amministrazione": "PREFETTURA",
+   "ente": "MAFALDA SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE IN SCIOGLI MENTO IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11541000.0,
+   "aggiudicato": 11541000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "78026831B5",
+   "data": "2019-02-26",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI ASILO IN CENTRI COLLETTIVI CON CAPACITA' RICETTIVA MASSIMA DI 50 POSTI",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "MAFALDA SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE IN SCIOGLI MENTO IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2619428.0,
+   "aggiudicato": 1518114.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE IRIDIA MUSEO NATURALISTICO",
+ "cf": "04459280659",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4CD8A7489",
+   "data": "2024-12-16",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA STRAORDINARIA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL COMUNE DI CORLETO MONFORTE (SA) PER LA DURATA DI 6 (SEI) MESI",
+   "amministrazione": "UNIONE COMUNI ALTO CILENTO",
+   "ente": "FONDAZIONE IRIDIA MUSEO NATURALISTICO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 92964.6,
+   "aggiudicato": 92872.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE LIBERTY ONLUS",
+ "cf": "03274830839",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "98086512DE",
+   "data": "2023-04-26",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA TEMPORANEA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) NELLA PROVINCIA DI MESSINA- COOP. ",
+   "amministrazione": "MINISTERO DELL'INTERNO -PREFETTURA MESSINA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LIBERTY ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 988237.5,
+   "aggiudicato": 988237.5,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  },
+  {
+   "cig": "9537228186",
+   "data": "2022-12-19",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ASSISTENZA E ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA)NELLA PROVINCIA DI MESSINA - ANNO 2023",
+   "amministrazione": "MINISTERO DELL'INTERNO -PREFETTURA MESSINA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LIBERTY ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4161000.0,
+   "aggiudicato": 3476632.3,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

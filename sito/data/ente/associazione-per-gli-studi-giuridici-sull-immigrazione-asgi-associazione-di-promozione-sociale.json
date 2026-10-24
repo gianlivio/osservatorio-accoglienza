@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE PER GLI STUDI GIURIDICI SULL'IMMIGRAZIONE - ASGI ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+ "cf": "97086880156",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "78605402D0",
+   "data": "2019-04-19",
+   "oggetto": "ORIENTAMENTO ED ACCOMPAGNAMENTO LEGALE",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ASSOCIAZIONE PER GLI STUDI GIURIDICI SULL'IMMIGRAZIONE - ASGI ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 54000.0,
+   "aggiudicato": 48854.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "nome": "FONDAZIONE AUTONOMA CARITAS  DIOCESANA PIACENZA BOBBIO",
+ "cf": "91064360331",
+ "affidamenti": 6,
+ "diretti": 6,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "779743139E",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZO ACCOGLIENZA CITTADINI STRANIERI GESTORE MULTIETHNIC DESTINATION INTERNATIONAL",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE AUTONOMA CARITAS  DIOCESANA PIACENZA BOBBIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119280.0,
+   "aggiudicato": 119280.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "76969571DA",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI GESTORE TRE NOCI",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE AUTONOMA CARITAS  DIOCESANA PIACENZA BOBBIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 185640.0,
+   "aggiudicato": 185640.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "769691927E",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZI ACCOGLIENZA CITTADINI STRANIERI GESTORE PROTEZIONE DELLA GIOVANE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE AUTONOMA CARITAS  DIOCESANA PIACENZA BOBBIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 201600.0,
+   "aggiudicato": 201600.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "7696870A0C",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI GESTORE CONTINENTAL",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE AUTONOMA CARITAS  DIOCESANA PIACENZA BOBBIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 585480.0,
+   "aggiudicato": 585480.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "76968601CE",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZI ACCOGLIENZA CITTADINI STRANIERI GESTORE CONFINI AZZURRI",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE AUTONOMA CARITAS  DIOCESANA PIACENZA BOBBIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 882000.0,
+   "aggiudicato": 882000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "7696804397",
+   "data": "2018-11-16",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI GESTORE CEFAL EMILIA ROMAGNA",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE AUTONOMA CARITAS  DIOCESANA PIACENZA BOBBIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 705600.0,
+   "aggiudicato": 705600.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

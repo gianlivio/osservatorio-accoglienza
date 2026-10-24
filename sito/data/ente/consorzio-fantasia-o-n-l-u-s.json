@@ -1,0 +1,75 @@
+{
+ "nome": "CONSORZIO FANTASIA - O.N.L.U.S",
+ "cf": "02602340347",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9574059B6A",
+   "data": "2022-12-30",
+   "oggetto": "SERVIZI GESTIONE IN PROSECUZIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA IN FAVORE DEI TITOLARI DI PROTEZIONE INTERNAZIONALE IN AMBITO SIPROIMI - PERIODO 01/04/2023-31/12/2025 COMUNE ",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI PARMA",
+   "ente": "CONSORZIO FANTASIA - O.N.L.U.S",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1843704.51,
+   "aggiudicato": 813467.85,
+   "durata_gg": 1005.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "863918402C",
+   "data": "2021-03-04",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE DEL SERVIZIO SIPROIMI PER IL TRIENNIO 2021-2023",
+   "amministrazione": "UNIONE DEI COMUNI VALLI TARO E CENO",
+   "ente": "CONSORZIO FANTASIA - O.N.L.U.S",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1512919.07,
+   "aggiudicato": 687690.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "8591952F13",
+   "data": "2021-01-13",
+   "oggetto": "PROCEDURA NEGOZIATA PER AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA INTEGTATA IN FAVORE DEI TITOLARI DI PROTEZIONE INTERNAZIONALE IN AMBITO SIPROIMI - PERIODO 2021/2022 - PER CONTO DEL ",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI PARMA",
+   "ente": "CONSORZIO FANTASIA - O.N.L.U.S",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 656895.16,
+   "aggiudicato": 525516.13,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  }
+ ]
+}

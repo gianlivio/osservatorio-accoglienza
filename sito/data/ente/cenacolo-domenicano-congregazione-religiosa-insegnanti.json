@@ -1,0 +1,117 @@
+{
+ "nome": "CENACOLO DOMENICANO CONGREGAZIONE RELIGIOSA INSEGNANTI",
+ "cf": "80150250100",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "741060725B",
+   "data": "2018-04-24",
+   "oggetto": "SPRAR. SERVIZIO DI ACCOGLIENZA PROFUGHI.",
+   "amministrazione": "COMUNE DI SOLARINO",
+   "ente": "CENACOLO DOMENICANO CONGREGAZIONE RELIGIOSA INSEGNANTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1189636.77,
+   "aggiudicato": 962449.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "74348128F2",
+   "data": "2018-03-20",
+   "oggetto": "SPRAR. SERVIZIO DI ACCOGLIENZA PROFUGHI.",
+   "amministrazione": "COMUNE DI SOLARINO",
+   "ente": "CENACOLO DOMENICANO CONGREGAZIONE RELIGIOSA INSEGNANTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 227187.56,
+   "aggiudicato": 227187.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "7379692A7B",
+   "data": "2017-12-28",
+   "oggetto": "SPRAR SERVIZI DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "COMUNE DI SOLARINO",
+   "ente": "CENACOLO DOMENICANO CONGREGAZIONE RELIGIOSA INSEGNANTI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 163296.74,
+   "aggiudicato": 163296.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6781261999",
+   "data": "2016-07-25",
+   "oggetto": "SERVIZIO RICOVERO RIFUGIATI POSTI AGGIUNTIVI E ULTERIORI POSTI AGGIUNTIVI",
+   "amministrazione": "COMUNE DI SOLARINO",
+   "ente": "CENACOLO DOMENICANO CONGREGAZIONE RELIGIOSA INSEGNANTI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 511000.0,
+   "aggiudicato": 511000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "6345064075",
+   "data": "2015-04-01",
+   "oggetto": "SERVIZIO RICOVERO RIFUGIATI POSTI AGGIUNTIVI E ULTERIORI POSTI AGGIUNTIVI",
+   "amministrazione": "COMUNE DI SOLARINO",
+   "ente": "CENACOLO DOMENICANO CONGREGAZIONE RELIGIOSA INSEGNANTI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 511222.88,
+   "aggiudicato": 511222.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

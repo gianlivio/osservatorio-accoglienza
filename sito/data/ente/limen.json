@@ -1,0 +1,80 @@
+{
+ "nome": "LIMEN",
+ "cf": "97092220793",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B243CC71FE",
+   "data": "2024-06-28",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO TITOLARE DI STRUTTURA TERRITORIALMENTE RICADENTE NEL COMUNE DI TIRIOLO O DEL COMUNE PARTNER ASSOCIATO DI SETTINGIANO PER LA GESTIONE DI S.A.I. A FAVOR",
+   "amministrazione": "COMUNE DI TIRIOLO",
+   "ente": "LIMEN",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 862075.98,
+   "aggiudicato": 862075.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "84909265CB",
+   "data": "2020-11-04",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "UNIONE DEI COMUNI DEL VERSANTE IONICO",
+   "ente": "LIMEN",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1476500.0,
+   "aggiudicato": 1476500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "72164177B1",
+   "data": "2017-10-04",
+   "oggetto": "INDIVIDUARE IL SOGGETTO CHE COPROGETTA CON IL COMUNE DI SATRIANO ED IN SEGUITO ATTUA IL PROGETTO 'SPRAR CAT. ORDINARI', PER IL QUALE IL COMUNE DI SATRIANO HA CHIESTO LA PROSECUZION",
+   "amministrazione": "COMUNE DI SATRIANO",
+   "ente": "LIMEN",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1034926.0,
+   "aggiudicato": 1034926.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "SPRINT S.R.L.",
+ "cf": "06620551009",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B037997E80",
+   "data": "2024-02-02",
+   "oggetto": "AFFIDAMENTO DI FORNITURA DI N. 450.000 BRACCIALETTI MONOUSO PER LA GESTIONE DEI MIGRANTI ALLO SBARCO",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "SPRINT S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 186362.1,
+   "aggiudicato": null,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  }
+ ]
+}

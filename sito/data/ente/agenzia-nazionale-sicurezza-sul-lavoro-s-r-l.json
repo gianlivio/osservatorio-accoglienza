@@ -1,0 +1,38 @@
+{
+ "nome": "AGENZIA NAZIONALE SICUREZZA SUL LAVORO S.R.L.",
+ "cf": "01793120682",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B15D093AF7",
+   "data": "2024-04-24",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO SERVIZIO ADEGUAMENTO MISURE SICUREZZA STRUTTURE",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "AGENZIA NAZIONALE SICUREZZA SUL LAVORO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2380.22,
+   "aggiudicato": 2380.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

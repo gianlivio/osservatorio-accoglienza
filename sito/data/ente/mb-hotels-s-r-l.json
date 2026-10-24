@@ -1,0 +1,70 @@
+{
+ "nome": "MB HOTELS S.R.L.",
+ "cf": "11801640019",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A014DC4F6D",
+   "data": "2022-03-15",
+   "oggetto": "3^ AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO A MB HOTELS SRL PER EMERGENZA PROFUGHI UCRAINA COME DA OCDPC 872/2022",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "MB HOTELS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 485.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "960547618E",
+   "data": "2022-03-15",
+   "oggetto": "2^ AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO A MB HOTELS SRL PER EMERGENZA PROFUGHI UCRAINI COME DA OCDPC 872/2022",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "MB HOTELS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 364.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "9215997151",
+   "data": "2022-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ALLOGGIAMENTO TEMPORANEO A MB HOTELS SRL PER EMERGENZA PROFUGHI UCRAINI COME DA OCDPC 872/2022",
+   "amministrazione": "REGIONE LOMBARDIA",
+   "ente": "MB HOTELS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214900.0,
+   "aggiudicato": 214900.0,
+   "durata_gg": 246.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

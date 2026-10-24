@@ -1,0 +1,38 @@
+{
+ "nome": "MOBILI DAL DEGAN S.N.C. DI DAL DEGAN SIMONE E DAMIANO",
+ "cf": "03601520236",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B937DD3FA6",
+   "data": "2025-11-21",
+   "oggetto": "AFFIDAMENTO DIRETTO FORNITURA ARREDO IMMOBILE DI PROPRIETÀ STATALE SITO A VERONA IN VIA SCUDERLANDO N. 385 ADIBITO A CENTRO ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "MOBILI DAL DEGAN S.N.C. DI DAL DEGAN SIMONE E DAMIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9500.0,
+   "aggiudicato": 9500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "GANESHA SERVIZI S.R.L.",
+ "cf": "06279150657",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7E869D60A",
+   "data": "2025-08-06",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, AI SENSI DELL'ART. 11 DEL D. LGS.18 AGOSTO ",
+   "amministrazione": "PREFETTURA",
+   "ente": "GANESHA SERVIZI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4603348.1,
+   "aggiudicato": 4603348.1,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "PARAMEDICA SRL",
+ "cf": "04428750287",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D48EDC9F",
+   "data": "2025-12-31",
+   "oggetto": "SERVIZIO DI ASSISTENZA A FAVORE DI MINORI MSNA ADULTI E ANZIANI IN CONDIZIONI DI VULNERABILITA IN CARICO AL SETTORE SERVIZI SOCIALI DEL COMUNE DI PADOVA",
+   "amministrazione": "COMUNE DI PADOVA",
+   "ente": "PARAMEDICA SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  }
+ ]
+}

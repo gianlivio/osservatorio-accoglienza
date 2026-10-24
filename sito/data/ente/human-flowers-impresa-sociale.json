@@ -1,0 +1,117 @@
+{
+ "nome": "HUMAN FLOWERS - IMPRESA SOCIALE",
+ "cf": "96081780767",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2BF93C526",
+   "data": "2024-08-09",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA AI SENSI DEGLI ARTICOLI 70 E 71 DEL DECRETO LEGISLATIVO N. 36/2023 PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI N. 451 CITTADINI ST",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "HUMAN FLOWERS - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11147276.8,
+   "aggiudicato": 1404404.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "9966188682",
+   "data": "2023-07-17",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "HUMAN FLOWERS - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 429970.0,
+   "aggiudicato": 429970.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "8036505DB6",
+   "data": "2019-09-03",
+   "oggetto": "AFFIDAMENTO ALL'ASSOCIAZIONE HUMAN FLOWERS DI N. 37 MIGRANTI PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "HUMAN FLOWERS - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 288061.65,
+   "aggiudicato": 288061.65,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "78573087AD",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 27 MIGRANTI ALL'ASSOCIAZIONE HUMAN FLOWERS PER IL PERIODO 1^ APRILE / 31 DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "HUMAN FLOWERS - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 175527.0,
+   "aggiudicato": 175527.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6765305A4A",
+   "data": "2016-07-25",
+   "oggetto": "PROCEDURA NEGOZIATA, DI CUI ALL'ART. 63 DEL D.LGS. N. 50/2016, PER ASSICURARE IL SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "HUMAN FLOWERS - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3279360.0,
+   "aggiudicato": 1513655.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

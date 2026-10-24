@@ -1,0 +1,33 @@
+{
+ "nome": "SVOLTARE SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "02876790342",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8045869D21",
+   "data": "2019-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - SVOLTARE SCS",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "SVOLTARE SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8334057.9,
+   "aggiudicato": 6246216.91,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

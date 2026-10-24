@@ -1,0 +1,74 @@
+{
+ "nome": "MARE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03042250609",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B79656523B",
+   "data": "2025-07-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO DAL 11.07.2025 AL 21.06.2026",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "MARE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 38060.0,
+   "aggiudicato": 38060.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B6909C1223",
+   "data": "2025-04-22",
+   "oggetto": "INSERIMENTO MSNA PRESSO ACCOGLIENZA COMUNITARIA RESIDENZIALE PRESSO GRUPPO APPARTAMENTI DON BOSCO - SOCIETA' COOPERATIVA SOCIALE MARE- II TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "MARE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28000.0,
+   "aggiudicato": 28000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "B6019F4E2C",
+   "data": "2025-03-13",
+   "oggetto": "INSERIMENTO MSNA PRESSO ACCOGLIENZA COMUNITARIA RESIDENZIALE PRESSO GRUPPO APPARTAMENTI DON BOSCO - SOCIETA' COOPERATIVA SOCIALE MARE- I TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "MARE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9000.0,
+   "aggiudicato": 9000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

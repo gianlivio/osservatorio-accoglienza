@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA NUOVA RICERCA RES",
+ "cf": "01316910445",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "918033299E",
+   "data": "2022-04-13",
+   "oggetto": "PROCEDURA APERTA PER L'APPALTO DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA, PROTEZIONE E TUTELA DEI MINORI STRANIERI NON ACCOMPAGNATI PROGETTO SAI 'JESI PER I MINORI' PERIODO 01.07.2",
+   "amministrazione": "ASP AMBITO IX",
+   "ente": "COOPERATIVA NUOVA RICERCA RES",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5489085.89,
+   "aggiudicato": 3874648.86,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "732046707A",
+   "data": "2017-12-15",
+   "oggetto": "PROROGA TECNICA SERVIZIO ACCOGLIENZA INTEGRAZIONE E TUTELA DEI RICHIEDENTI ASILO E RIFUGIATI (SPRAR)",
+   "amministrazione": "COMUNE DI FERMO",
+   "ente": "COOPERATIVA NUOVA RICERCA RES",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 155260.0,
+   "aggiudicato": 155260.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  }
+ ]
+}

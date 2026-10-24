@@ -1,0 +1,91 @@
+{
+ "nome": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01810700094",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0D80DC271",
+   "data": "2024-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI COLLETTIVI CON CAPACITÀ RICETTIZIA FINO A 50 POSTI IN FAVORE DI PROFUGHI UCRAINI - 14",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1336191.26,
+   "aggiudicato": 668095.63,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B0D665C41B",
+   "data": "2024-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE IN FAVORE DI PROFUGHI UCRAINI - 9",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 365989.44,
+   "aggiudicato": 182994.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "918862660C",
+   "data": "2022-04-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA DI MSNA - T.D. RTI AGORA - 60 POSTI MAGGIO LUGLIO 2022",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 642000.0,
+   "aggiudicato": 371962.8,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "908328758E",
+   "data": "2022-01-31",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "ANCORA SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 480600.0,
+   "aggiudicato": 400459.95,
+   "durata_gg": 89.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

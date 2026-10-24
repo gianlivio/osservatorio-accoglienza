@@ -1,0 +1,38 @@
+{
+ "nome": "POLIS SOCIETA' COOP.VA SOCIALE",
+ "cf": "01409740543",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "688532806A",
+   "data": "2016-11-29",
+   "oggetto": "AFFIDAMENTO DELLA ORGANIZZAZIONE DEL SERVIZIO DI ACCOGLIENZA ED INTEGRAZIONE SPECIALISTICA PER IL PROGETTO SPRAR - 'VILLA RENATA' PER SOGGETTI TITOLARI DI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "ISTITUTO ASSISTENZA INFANZIA BEATA LUCIA ",
+   "ente": "POLIS SOCIETA' COOP.VA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 446000.0,
+   "aggiudicato": 421202.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

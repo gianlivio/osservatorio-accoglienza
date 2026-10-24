@@ -1,0 +1,38 @@
+{
+ "nome": "PICCOLA FAMIGLIA DELL'ESODO",
+ "cf": "02076980420",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "69319699C6",
+   "data": "2016-12-28",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "PICCOLA FAMIGLIA DELL'ESODO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 157500.0,
+   "aggiudicato": 157500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

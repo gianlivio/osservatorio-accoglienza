@@ -1,0 +1,38 @@
+{
+ "nome": "ALLREVISION S.R.L.",
+ "cf": "01349810356",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0DAC093AA",
+   "data": "2024-03-18",
+   "oggetto": "AFFIDAMENTO SERVIZIO REVISIONE CONTABILE PER PROGETTO SAI",
+   "amministrazione": "COMUNE DI BASSANO ROMANO",
+   "ente": "ALLREVISION S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10000.0,
+   "aggiudicato": 10000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  }
+ ]
+}

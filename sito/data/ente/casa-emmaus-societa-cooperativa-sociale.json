@@ -1,0 +1,143 @@
+{
+ "nome": "CASA EMMAUS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02289800928",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SUD SARDEGNA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A025F9ECBB",
+   "data": "2023-11-15",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE DEL SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE NELL'AMBITO DEI PROGETTI DELLA RETE SAI - TRIENNIO 2024 - 2026",
+   "amministrazione": "COMUNE DI IGLESIAS",
+   "ente": "CASA EMMAUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3363003.32,
+   "aggiudicato": 1347187.32,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "919471138D",
+   "data": "2022-04-26",
+   "oggetto": "AMPLIAMENTO RETE SAI IGLESIAS 105 ORD PER N. 10 POSTI CATEGORIA ORDINARI UCRAINI - DM 18.11.2019 COME DEROGATO DALL'ODPC N. 872/2022, ART. 8, C.2)",
+   "amministrazione": "COMUNE DI IGLESIAS",
+   "ente": "CASA EMMAUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 270664.25,
+   "aggiudicato": 211711.35,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "89543768D4",
+   "data": "2021-10-26",
+   "oggetto": "AMPLIAMENTO DELLA RETE SAI IGLESIAS 105 ORD PER N. 5 POSTI CATEGORIA ORDINARI - EX ART.9 LINEE GUIDA DM 19.11.2021",
+   "amministrazione": "COMUNE DI IGLESIAS",
+   "ente": "CASA EMMAUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 202998.19,
+   "aggiudicato": 202998.19,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "7946129915",
+   "data": "2019-06-24",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER I SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) NELL'AMBITO D",
+   "amministrazione": "COMUNE DI IGLESIAS",
+   "ente": "CASA EMMAUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2122110.0,
+   "aggiudicato": 1061055.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "7329120527",
+   "data": "2017-12-21",
+   "oggetto": "PROSECUZIONE SERVIZI DI ACCOGLIENZA INTEGRATA ORDINARIA SPRAR - BIENNIO 2018/2019",
+   "amministrazione": "COMUNE DI IGLESIAS",
+   "ente": "CASA EMMAUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 499320.0,
+   "aggiudicato": 499320.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "6479560E0D",
+   "data": "2015-12-02",
+   "oggetto": "INDIVIDUAZIONE SOGGETTO PARTNER PER IL SERVIZIO DI ACCOGLIENZA INTEGRATA DEI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE E UMANITARIA - SPRAR 2016-2017",
+   "amministrazione": "COMUNE DI IGLESIAS",
+   "ente": "CASA EMMAUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 525600.0,
+   "aggiudicato": 499320.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

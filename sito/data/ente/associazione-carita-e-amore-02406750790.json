@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE CARITA E AMORE",
+ "cf": "02406750790",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "977912446A",
+   "data": "2023-06-02",
+   "oggetto": "AFFIDAMENTO AD UN SOGGETTO ATTUATORE DEL TERZO SETTORE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI MIGRANTI RIENTRATI NEL SISTEMA S.A.I. PER IL TRENNIO 2023-2025",
+   "amministrazione": "COMUNE DI SAN PIETRO APOSTOLO",
+   "ente": "ASSOCIAZIONE CARITA E AMORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2366121.33,
+   "aggiudicato": 2366121.33,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "7126879699",
+   "data": "2017-07-19",
+   "oggetto": "MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA PROCEDURA NEGOZIATA VIA D'URGENZA, AI SENSI DELL'ART. 63 COMMA 2 LETT. C) DEL D.LGS N. 50/16 - APPALTI NEI SERVIZI SOCIALI DI CUI ALL",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "ASSOCIAZIONE CARITA E AMORE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3213000.0,
+   "aggiudicato": 3213000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

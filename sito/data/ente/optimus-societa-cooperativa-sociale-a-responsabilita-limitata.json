@@ -1,0 +1,95 @@
+{
+ "nome": "OPTIMUS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "11671980016",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "SONDRIO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5D2E186FE",
+   "data": "2025-02-28",
+   "oggetto": "INSERIMENTO E SERVIZIO DI ACCOGLIENZA RESIDENZIALE MSNA PRESSO STRUTTURA CASA OLIVIA GESTITA DA OPTIMUS SCS A R.L. I TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "OPTIMUS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14000.0,
+   "aggiudicato": 14000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B2CE61BE06",
+   "data": "2024-08-21",
+   "oggetto": "RETTA INSERIMENTO DEL MINORE STRANIERO NON ACCOMPAGNATO ID 424458 PRESSO LA COMUNITA' EDUCATIVA VILLA AURORA 2 SEMESTRE 2024",
+   "amministrazione": "COMUNE DI SONDRIO",
+   "ente": "OPTIMUS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23570.4,
+   "aggiudicato": 23570.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SONDRIO"
+  },
+  {
+   "cig": "B0CEE8924C",
+   "data": "2024-03-13",
+   "oggetto": "INSERIMENTO E SERVIZIO DI ACCOGLIENZA RESIDENZIALE MSNA PRESSO STRUTTURA CASA OLIVIA GESTITA DA OPTIMUS SCS A R.L. ANNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "OPTIMUS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39800.0,
+   "aggiudicato": 39800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B03C65FB26",
+   "data": "2024-02-05",
+   "oggetto": "RETTA INSERIMENTO DEL MINORE STRANIERO NON ACCOMPAGNATO ID 424458 PRESSO LA COMUNITA’ EDUCATIVA VILLA AURORA 1 SEMESTRE 2024",
+   "amministrazione": "COMUNE DI SONDRIO",
+   "ente": "OPTIMUS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23314.2,
+   "aggiudicato": 23314.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SONDRIO"
+  }
+ ]
+}

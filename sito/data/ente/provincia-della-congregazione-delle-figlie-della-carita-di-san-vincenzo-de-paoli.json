@@ -1,0 +1,115 @@
+{
+ "nome": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+ "cf": "00127690527",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "SIENA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7E9199693",
+   "data": "2025-08-07",
+   "oggetto": "INSERIMENTO MSNA CODICE 7111 IN STRUTTURA RESIDENZIALE",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25900.0,
+   "aggiudicato": 25900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B7A905859B",
+   "data": "2025-07-17",
+   "oggetto": "INSERIMENTO MSNA IN COMUNITÀ DI ACCOGLIENZA DAL 27/02/2025 AL 26/02/2026.",
+   "amministrazione": "COMUNE DI RICCIONE",
+   "ente": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43824.0,
+   "aggiudicato": 43824.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "B29114EC21",
+   "data": "2024-07-25",
+   "oggetto": "MSNA 32_2024RN FIGLIE DELLA CARITA 00127690527 COMUNITA' EDUCATIVA MARIA IMMACOLATA",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23300.0,
+   "aggiudicato": 23300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B246449C51",
+   "data": "2024-07-04",
+   "oggetto": "MSNA 38_2024FIGLIE DELLA CARITA 00127690527 COMUNITA' EDUCATIVA MARIA IMMACOLATA",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 107900.0,
+   "aggiudicato": 107900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B179E6FE65",
+   "data": "2024-05-03",
+   "oggetto": "ACCOGLIENZA DI MINORE MSNA 6679 IN COMUNITA' RESIDENZIALE",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "PROVINCIA DELLA CONGREGAZIONE DELLE FIGLIE DELLA CARITA' DI SAN VINCENZO DE' PAOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16300.0,
+   "aggiudicato": 16300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

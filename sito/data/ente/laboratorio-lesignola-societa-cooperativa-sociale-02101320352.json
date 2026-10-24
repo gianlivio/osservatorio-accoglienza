@@ -1,0 +1,38 @@
+{
+ "nome": "LABORATORIO LESIGNOLA SOCIETÀ COOPERATIVA SOCIALE",
+ "cf": "02101320352",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5355E7CAF",
+   "data": "2025-01-16",
+   "oggetto": "COLLOCAMENTO DI MSNA PRESSO LA COMUNITA' EDUCATIVA L'IPPOCAMPO.",
+   "amministrazione": "COMUNE DI SORBOLO MEZZANI",
+   "ente": "LABORATORIO LESIGNOLA SOCIETÀ COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17600.0,
+   "aggiudicato": 17600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  }
+ ]
+}

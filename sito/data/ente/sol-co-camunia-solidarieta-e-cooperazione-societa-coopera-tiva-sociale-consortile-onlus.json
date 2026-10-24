@@ -1,0 +1,38 @@
+{
+ "nome": "SOL.CO. CAMUNIA - SOLIDARIETA' E COOPERAZIONE - SOCIETA' COOPERA TIVA SOCIALE CONSORTILE - ONLUS",
+ "cf": "01717760985",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7057615025",
+   "data": "2017-05-02",
+   "oggetto": "ACCORDO PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO. PROROGA ACCORDI ATTUATIVI CON GL",
+   "amministrazione": "COMUNITA' MONTANA VALLE CAMONICA",
+   "ente": "SOL.CO. CAMUNIA - SOLIDARIETA' E COOPERAZIONE - SOCIETA' COOPERA TIVA SOCIALE CONSORTILE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 152040.0,
+   "aggiudicato": 151340.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

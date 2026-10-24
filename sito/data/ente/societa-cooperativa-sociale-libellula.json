@@ -1,0 +1,54 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE LIBELLULA",
+ "cf": "03632620757",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E53F0384",
+   "data": "2024-12-19",
+   "oggetto": "AFFIDAMENTI DIRETTI - PROSECUZIONE ANNO 2025 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI (MSNA), MADRI CON FIGLI MINORI E VITTIME DELLA VIOLENZA DI GEN",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LIBELLULA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18100.0,
+   "aggiudicato": 18100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B295C404ED",
+   "data": "2024-07-26",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI (MSNA), MADRI CON FIGLI MINORI, VITTIME DELLA VIOLENZA DI GENERE, INSERITI IN STRUTTURE RESIDENZIALI SU DISPOSI",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LIBELLULA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15400.0,
+   "aggiudicato": 15400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

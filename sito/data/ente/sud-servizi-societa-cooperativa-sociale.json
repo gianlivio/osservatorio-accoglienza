@@ -1,0 +1,33 @@
+{
+ "nome": "SUD SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "05862420824",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A0217A03D3",
+   "data": "2023-10-30",
+   "oggetto": "FORNITURA DI BENI ED EROGAZIONE DEI SERVIZI DI ACCOGLIENZA PER COMPLESSIVI 100 POSTI PRESSO I CENTRI, SITI NEI COMUNI DELLA PROVINCIA DI PALERMO (COMPRESO IL CAPOLUOGO), COSTITUITI",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "SUD SERVIZI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3216825.0,
+   "aggiudicato": 1444821.84,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "nome": "MIMOSA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01272370055",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASTI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6908F6A9B",
+   "data": "2025-04-22",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - COOPERATIVA MIMOSA - II TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "MIMOSA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "B5CDE1E750",
+   "data": "2025-02-27",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - COOPERATIVA MIMOSA - I TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "MIMOSA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "B09E0B52F1",
+   "data": "2024-02-29",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - COOPERATIVA MIMOSA - ANNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "MIMOSA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48000.0,
+   "aggiudicato": 48000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  }
+ ]
+}

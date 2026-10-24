@@ -1,0 +1,38 @@
+{
+ "nome": "MINIME OBLATE DEL CUORE IMMACOLATO DI MARIA",
+ "cf": "03295120152",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9487011125",
+   "data": "2022-12-07",
+   "oggetto": "PROCEDURA APERTA, EX ART. 60 DEL D. LGS. 50/2016, PER L' AFFIDAMENTO DELLA PROGETTAZIONE, DELL'ORGANIZZAZIONE E DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA A F",
+   "amministrazione": "COMUNE DI MONZA",
+   "ente": "MINIME OBLATE DEL CUORE IMMACOLATO DI MARIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2643832.14,
+   "aggiudicato": 2014328.19,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  }
+ ]
+}

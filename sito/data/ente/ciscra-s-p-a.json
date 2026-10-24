@@ -1,0 +1,38 @@
+{
+ "nome": "CISCRA S.P.A.",
+ "cf": "00448610584",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B13F12FFE9",
+   "data": "2024-04-15",
+   "oggetto": "ACQUISTO DI 100 SHOPPER PER ARCHIVIO SCRITTURE E SCRITTRICI MIGRANTI E DI 500 CORDINI PORTABADGE PER EVENTI",
+   "amministrazione": "UNIVERSITA' CA' FOSCARI VENEZIA",
+   "ente": "CISCRA S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 876.0,
+   "aggiudicato": 876.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

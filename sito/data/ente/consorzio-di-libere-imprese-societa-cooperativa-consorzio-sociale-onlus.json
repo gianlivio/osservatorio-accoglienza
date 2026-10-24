@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO DI LIBERE IMPRESE SOCIETA' COOPERATIVA CONSORZIO SOCIALE ONLUS",
+ "cf": "00824290944",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9492147F7D",
+   "data": "2022-11-18",
+   "oggetto": "INDIVIDUAZIONE SOGGETTO ATTUATORE PER LA PROSECUZIONE DEL PROGETTO SAI DEL COMUNE DI AGNONE PER IL TRIENNIO 2023-2025 SAI (EX SIPROIMI)",
+   "amministrazione": "COMUNE DI AGNONE",
+   "ente": "CONSORZIO DI LIBERE IMPRESE SOCIETA' COOPERATIVA CONSORZIO SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3375278.4,
+   "aggiudicato": 3354402.81,
+   "durata_gg": 1096.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

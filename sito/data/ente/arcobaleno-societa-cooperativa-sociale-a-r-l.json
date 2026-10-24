@@ -1,0 +1,59 @@
+{
+ "nome": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "02150690846",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8670956B3E",
+   "data": "2021-03-16",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI SCIACCA",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 553703.89,
+   "aggiudicato": 553703.89,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7068990B14",
+   "data": "2017-05-12",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR MINORI STRANIERI NON ACCOMPAGNATI - MAHARABEN",
+   "amministrazione": "COMUNE DI SCIACCA",
+   "ente": "ARCOBALENO SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 725840.2,
+   "aggiudicato": 725840.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

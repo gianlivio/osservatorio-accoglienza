@@ -1,0 +1,38 @@
+{
+ "nome": "ALVEANDO - COOPERATIVA SOCIALE",
+ "cf": "02215860749",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "85013808B4",
+   "data": "2020-11-23",
+   "oggetto": "ACCOGLIENZA MSNA SPRAR SIPROIMI 2021/2022",
+   "amministrazione": "COMUNE DI TORRE SANTA SUSANNA",
+   "ente": "ALVEANDO - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 697000.0,
+   "aggiudicato": 547156.9,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

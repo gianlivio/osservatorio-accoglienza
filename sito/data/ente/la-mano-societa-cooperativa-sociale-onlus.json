@@ -1,0 +1,107 @@
+{
+ "nome": "LA MANO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "09874611214",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9CAF8B94C",
+   "data": "2025-12-29",
+   "oggetto": "OSPITALITÀ MSNA 5074 C/O COMUNITÀ ANCORA DELLA COOP SOC LA MANO DAL 01/01 AL 02/07/26",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "LA MANO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19095.0,
+   "aggiudicato": 19095.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B9473175F5",
+   "data": "2025-12-01",
+   "oggetto": "OSPITALITÀ DEL MSNA 5541 C/O LA COMUNITÀ L'ANCORA DELLA COOP. SOC. LA MANO DAL 13/11 AL 31/12/2025",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "LA MANO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5047.62,
+   "aggiudicato": 5047.62,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B56B368C2D",
+   "data": "2025-01-31",
+   "oggetto": "OSPITALITÀ DEL MSNA DI C/O LA COMUNITÀ L'IMPRONTA DELLA COOP. SOC. LA MANO DAL 01/01 AL 15/12/2025",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "LA MANO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37000.0,
+   "aggiudicato": 37000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B0CCD24370",
+   "data": "2024-03-13",
+   "oggetto": "OSPITALITÀ DEL MSNA CM C/O COMUNITÀ L'ANCORA DELLA COOP. SOC. LA MANO DAL 06/03 AL 31/12/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "LA MANO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32000.0,
+   "aggiudicato": 32000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B0B65EE54B",
+   "data": "2024-03-07",
+   "oggetto": "OSPITALITÀ DEL MSNA CM C/O COMUNITÀ L'ANCORA DELLA COOP. SOC. LA MANO DAL 06/03 AL 31/12/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "LA MANO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32000.0,
+   "aggiudicato": 32000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

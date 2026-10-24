@@ -1,0 +1,96 @@
+{
+ "nome": "CO.M.P.A.S.S. (COOPERATIVA MUTUA PROMOZIONE ATTIVITA' SOCIO SANITARIE) SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "00450990452",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "91584575CD",
+   "data": "2022-03-28",
+   "oggetto": "CIG DERIVATO IN ADESIONE ACCORDO QUADRO ASSISTENZA MIGRANTI MARZO 2022 MARZO 2023 COMPASS",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CO.M.P.A.S.S. (COOPERATIVA MUTUA PROMOZIONE ATTIVITA' SOCIO SANITARIE) SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 473611.95,
+   "aggiudicato": 473611.95,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7336231157",
+   "data": "2017-12-21",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI COMPASS GENNAIO FEBBRAIO 2018",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CO.M.P.A.S.S. (COOPERATIVA MUTUA PROMOZIONE ATTIVITA' SOCIO SANITARIE) SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 114173.85,
+   "aggiudicato": 114173.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6514843A82",
+   "data": "2015-12-17",
+   "oggetto": "ACCOGLIENZA MIGRANTI DA MARZO 2016",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CO.M.P.A.S.S. (COOPERATIVA MUTUA PROMOZIONE ATTIVITA' SOCIO SANITARIE) SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5592333.6,
+   "aggiudicato": 436839.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6536329D50",
+   "data": "2015-12-09",
+   "oggetto": "PROROGA TECNICA CONVENZIONE ACCOGLIENZA MIGRANTI COMPASS ARL",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CO.M.P.A.S.S. (COOPERATIVA MUTUA PROMOZIONE ATTIVITA' SOCIO SANITARIE) SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 80876.0,
+   "aggiudicato": 80876.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

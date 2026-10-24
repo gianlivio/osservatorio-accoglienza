@@ -1,0 +1,70 @@
+{
+ "nome": "DIALOGOS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "92036560404",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A02985CFF6",
+   "data": "2023-11-10",
+   "oggetto": "RINNOVO CONVENZIONE CON SOC. COOP. DIALOGOS PER ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "DIALOGOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 669536.72,
+   "aggiudicato": 669536.72,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9664864215",
+   "data": "2023-02-16",
+   "oggetto": "CONVENZIONE CON SOCIETA' COOPERATIVA DIALOGOS PER GESTIONE ATTIVITA' DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "DIALOGOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 612796.32,
+   "aggiudicato": 612796.32,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "93916857A2",
+   "data": "2022-09-19",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI ACCORDI QUADRO BIENNALI PER L'ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "DIALOGOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 15438652.0,
+   "aggiudicato": 1225592.64,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "GRUPPO ROSSANTE S.R.L.",
+ "cf": "04132590235",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "914800548A",
+   "data": "2022-03-18",
+   "oggetto": "EMERGENZA UCRAINA: AFFIDAMENTO IN VIA D'URGENZA PER LA FORNITURA, MONTAGGIO E SMONTAGGIO DI GAZEBI PRESSO I PUNTI DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "AZIENDA ULSS 9 SCALIGERA",
+   "ente": "GRUPPO ROSSANTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15000.0,
+   "aggiudicato": 15000.0,
+   "durata_gg": 306.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE DI VARESE APS",
+ "cf": "03384890129",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B496F4DE1F",
+   "data": "2024-12-03",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA TEMPORA-NEA, FINO A 50 POSTI, DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE IN-TERNAZIONAL",
+   "amministrazione": "PREFETTURA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI VARESE APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1279381.0,
+   "aggiudicato": 1279381.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "B0218C7816",
+   "data": "2024-01-26",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI PRIMISSIMA ACCOGLIENZA DI PERSONE MIGRANTI A SEGUITO DI ARRIVI SUL TERRITORIO NAZIONALE UBICATI IN VARESE E PROVINCIA. PERIODO 10.1",
+   "amministrazione": "PREFETTURA",
+   "ente": "CROCE ROSSA ITALIANA COMITATO LOCALE DI VARESE APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 248500.0,
+   "aggiudicato": 248500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "nome": "NON PIU' SOLI COOPERATIVA SOCIALE",
+ "cf": "03828480123",
+ "affidamenti": 6,
+ "diretti": 4,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 6,
+   "diretti": 4,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4111C6F96",
+   "data": "2024-10-30",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORA-NEA, COSTITUITI DA SINGOLE UNITÀ ABITATIVE, DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE IN-",
+   "amministrazione": "PREFETTURA",
+   "ente": "NON PIU' SOLI COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 485273.36,
+   "aggiudicato": 485273.36,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "B3613A54AF",
+   "data": "2024-10-11",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI PRIMISSIMA ACCOGLIENZA DI PERSONE MIGRANTI A SEGUITO DI ARRIVI SUL TERRITORIO NAZIONALE UBICATI IN VARESE E PROVINCIA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "NON PIU' SOLI COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60150.0,
+   "aggiudicato": 60150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "B307801A47",
+   "data": "2024-09-13",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI PRIMISSIMA ACCOGLIENZA DI PERSONE MIGRANTI A SEGUITO DI ARRIVI SUL TERRITORIO NAZIONALE UBICATI IN VARESE E PROVINCIA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "NON PIU' SOLI COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 44085.0,
+   "aggiudicato": 44085.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "B2413C5AC2",
+   "data": "2024-06-28",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI PRIMISSIMA ACCOGLIENZA DI PERSONE MIGRANTI A SEGUITO DI ARRIVI SUL TERRITORIO NAZIONALE UBICATI IN VARESE E PROVINCIA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "NON PIU' SOLI COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 33335.0,
+   "aggiudicato": 33335.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "B13A98A075",
+   "data": "2024-04-15",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI PRIMISSIMA ACCOGLIENZA DI PERSONE MIGRANTI A SEGUITO DI ARRIVI SUL TERRITORIO NAZIONALE UBICATI IN VARESE E PROVINCIA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "NON PIU' SOLI COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16462.5,
+   "aggiudicato": 16462.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "B13A4C2E5D",
+   "data": "2024-04-15",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI PRIMISSIMA ACCOGLIENZA DI PERSONE MIGRANTI A SEGUITO DI ARRIVI SUL TERRITORIO NAZIONALE UBICATI IN VARESE E PROVINCIA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "NON PIU' SOLI COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5625.0,
+   "aggiudicato": 5625.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}

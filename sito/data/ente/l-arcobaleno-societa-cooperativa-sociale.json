@@ -1,0 +1,59 @@
+{
+ "nome": "L'ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01964660755",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8E6E14715",
+   "data": "2025-11-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEL PROGETTO SAI PER L'ACCOGLIENZA, IL SOCCORSO E L'ASSISTENZA ALLA POPOLAZIONE IN CONSEGUENZA DEGLI ACCADIMENTI IN ATTO NEL TERRITORIO DELL'UC",
+   "amministrazione": "COMUNE DI ALESSANO",
+   "ente": "L'ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 67932.0,
+   "aggiudicato": 67932.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "857224043B",
+   "data": "2020-12-28",
+   "oggetto": "PROGETTO DI ACCOGLIENZA SIPROIMI. AFFIDAMENTO DEI SERVIZI",
+   "amministrazione": "TERRE DI ACAYA E DI ROCA",
+   "ente": "L'ARCOBALENO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4184120.0,
+   "aggiudicato": 4184120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

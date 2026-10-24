@@ -1,0 +1,38 @@
+{
+ "nome": "SOLETERRE",
+ "cf": "04575250966",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8428093A5B",
+   "data": "2020-10-13",
+   "oggetto": "PROCEDURA APERTA EUROPEA PER INDIVIDUAZIONE SOGGETTO GESTORE COPROGETTANTE SERVIZIO PROTEZIONE TITOLARI PROTEZIONE INTERNAZIONALE (SIPROIMI)",
+   "amministrazione": "COMUNE DI ROZZANO",
+   "ente": "SOLETERRE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 972135.62,
+   "aggiudicato": 1019942.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "IMPRESA INESISTENTE",
+ "cf": "00959180712",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B175BEDC19",
+   "data": "2024-05-02",
+   "oggetto": "SERVIZIO DI NOLEGGIO, PER DODICI MESI (PERIODO PRESUNTO 1° GIUGNO 2024 – 31 MAGGIO 2025), DI N. 5 TORRI FARO DA COLLOCARE PRESSO IL CENTRO DI ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 750000.0,
+   "aggiudicato": 50000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

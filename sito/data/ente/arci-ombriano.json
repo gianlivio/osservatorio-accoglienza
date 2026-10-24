@@ -1,0 +1,75 @@
+{
+ "nome": "ARCI OMBRIANO",
+ "cf": "82004110191",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B07D945BAA",
+   "data": "2024-02-21",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A ARCI OMBRIANO APS. IMPEGNI DI SPESA PRESUNTI PER L'ANNO 2024.",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ARCI OMBRIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48700.0,
+   "aggiudicato": 48700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B07386D02B",
+   "data": "2024-02-20",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI ALLA STRUTTURA CIRCOLO ARCI OMBRIANO APS. IMPEGNO DI SPESA PRESUNTO PER L'ANNO 2024.",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ARCI OMBRIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48700.0,
+   "aggiudicato": 48700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "A006098702",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO PRESUNTO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO E RIDETERMINAZIONE CONTESTU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ARCI OMBRIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 118400.0,
+   "aggiudicato": 118400.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

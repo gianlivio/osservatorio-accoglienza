@@ -1,0 +1,38 @@
+{
+ "nome": "PARISI S.R.L.",
+ "cf": "03235650797",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9527416068",
+   "data": "2022-12-03",
+   "oggetto": "IMPIANTO POMPA DI CALORE 'EX CENTRO SPRAR', SITO IN ISCA SUPERIORE PARTECIPAZIONE ALL'AVVISO PROMOSSO DAL MINISTERO DELLA TRANSIZIONE ECOLOGICA N. 137 DEL 04.10.2022, AVENTE AD OGG",
+   "amministrazione": "COMUNE DI ISCA SULLO IONIO",
+   "ente": "PARISI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 70991.0,
+   "aggiudicato": 69981.09,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

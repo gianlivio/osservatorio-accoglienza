@@ -1,0 +1,38 @@
+{
+ "nome": "ARPE APPALTI S.R.L.",
+ "cf": "03803270614",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9921040D31",
+   "data": "2023-06-26",
+   "oggetto": "LAVORI DI MANUTENZIONE DEGLI EDIFICI PUBBLICI COMUNALI - MIGLIORAMENTO DI UNA STRUTTURA DI TIPO RICETTIVO NELLA FRAZIONE DI FONTEAVIGNONE RIVOLTO ALL'ACCOGLIENZA DI PROFUGHI IN FUG",
+   "amministrazione": "COMUNE DI ROCCA DI MEZZO",
+   "ente": "ARPE APPALTI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 175061.22,
+   "aggiudicato": 173361.22,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

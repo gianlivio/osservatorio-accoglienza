@@ -1,0 +1,112 @@
+{
+ "nome": "ETNIE  ASSOCIAZIONE DI PROMOZIONE SOCIALE O.N.L.U.S.",
+ "cf": "92031330720",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4B4261013",
+   "data": "2024-12-09",
+   "oggetto": "SAI ORDINARI ATS ARCI + 2 CONTRATTO ORDINATIVO ATTUATIVO PROG-599-PR-3 RELATIVO ALLA PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE TRIENNALE DEL SERVIZIO DENOMINATO SAI - SISTE",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "ETNIE  ASSOCIAZIONE DI PROMOZIONE SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1002837.5,
+   "aggiudicato": 1002837.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B4A8552BF1",
+   "data": "2024-12-05",
+   "oggetto": "SAI MSNA ATS CAPS ABUSUAN CONTRATTO ORDINATIVO ATTUATIVO PROG-598-PR-3 RELATIVO ALLA PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE TRIENNALE DEL SERVIZIO DENOMINATO SAI - SISTE",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "ETNIE  ASSOCIAZIONE DI PROMOZIONE SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1815720.37,
+   "aggiudicato": 1815720.37,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B1284DEB34",
+   "data": "2024-04-09",
+   "oggetto": "SAI MSNA FINANZIAMENTO 2023-2025 CONTRATTO ORDINATIVO ATTUATIVO 2023 ATS SOGNO DI DON BOSCO",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "ETNIE  ASSOCIAZIONE DI PROMOZIONE SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 785173.57,
+   "aggiudicato": 785173.57,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "95091617E5",
+   "data": "2022-12-09",
+   "oggetto": "- SAI - CATEGORIA MSNA PER IL TRIENNIO 2023-2025 - ACCORDO QUADRO -",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "ETNIE  ASSOCIAZIONE DI PROMOZIONE SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8436000.54,
+   "aggiudicato": 65.847,
+   "durata_gg": 1096.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "7010217612",
+   "data": "2017-03-15",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEL PROGETTO SPRAR - SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI, PER IL PERIODO 2017/2019 DA REALIZZARSI A FAVORE DI 15 OSPITI SUL",
+   "amministrazione": "COMUNE DI GIOVINAZZO",
+   "ente": "ETNIE  ASSOCIAZIONE DI PROMOZIONE SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 439948.0,
+   "aggiudicato": 439948.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

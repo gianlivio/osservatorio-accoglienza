@@ -1,0 +1,74 @@
+{
+ "nome": "THE COUSINS SRL",
+ "cf": "01237670573",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIETI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B46F8F1DBC",
+   "data": "2024-11-26",
+   "oggetto": "MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "THE COUSINS SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6100.0,
+   "aggiudicato": 6100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIETI"
+  },
+  {
+   "cig": "B3014C6710",
+   "data": "2024-09-12",
+   "oggetto": "ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "THE COUSINS SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9200.0,
+   "aggiudicato": 9200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B191E340C0",
+   "data": "2024-05-09",
+   "oggetto": "ACCOGLIENZA MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "THE COUSINS SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6100.0,
+   "aggiudicato": 6100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIETI"
+  }
+ ]
+}

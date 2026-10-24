@@ -1,0 +1,38 @@
+{
+ "nome": "SAN GREGORIO SOCIETA' COOPERATIVA SOCIALE.",
+ "cf": "03366270266",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "91580348BA",
+   "data": "2022-04-28",
+   "oggetto": "EMERGENZA UCRAINA ACCOGLIEZA DEI PROFUGHI C/O OSPEDALE GUICCIARDINI - SERVIZIO PASTI",
+   "amministrazione": "AZIENDA U.L.S.S. N. 2 MARCA TREVIGIANA",
+   "ente": "SAN GREGORIO SOCIETA' COOPERATIVA SOCIALE.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 103500.0,
+   "aggiudicato": 123970.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

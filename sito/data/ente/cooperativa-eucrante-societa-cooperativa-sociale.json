@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA EUCRANTE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03874970407",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6338026084",
+   "data": "2015-07-16",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL TERRITORIO DELLA PROVINCIA DI RIMINI",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "COOPERATIVA EUCRANTE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1680000.0,
+   "aggiudicato": 1680000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

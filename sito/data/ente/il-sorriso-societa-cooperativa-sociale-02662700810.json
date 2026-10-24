@@ -1,0 +1,38 @@
+{
+ "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02662700810",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7429259279",
+   "data": "2018-03-22",
+   "oggetto": "RETTE RICOVERO MSNA PRESSO LA STRUTTUA DI II LIVELLO 'IL SORRISO' DELLA SOC. COOP. SOCIALE IL SORRISO DI MARSALA-ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 235000.0,
+   "aggiudicato": 235000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "nome": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
+ "cf": "96050140068",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ALESSANDRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B60EBBDCF1",
+   "data": "2025-03-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2331349.17,
+   "aggiudicato": 2331349.17,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "A049EDB05E",
+   "data": "2023-12-22",
+   "oggetto": "GESTIONE AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA TEMPORANEA IN FAVORE DI 25 MSNA E GESTIONE DEI SERVIZI CONNESSI PRESSO STRUTTURE UBICATE NELLA PROVINCIA DI ALESSANDRIA",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 257170.11,
+   "aggiudicato": 257170.11,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9720618BBA",
+   "data": "2023-03-01",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E STRANIERA DI CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "947972113F",
+   "data": "2022-09-03",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E STRANIERA DI CITTADINI STRANIERI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ISTITUTO COOPERAZIONE E SVILUPPO ETS - APS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

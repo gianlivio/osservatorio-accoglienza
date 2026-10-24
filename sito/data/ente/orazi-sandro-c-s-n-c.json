@@ -1,0 +1,38 @@
+{
+ "nome": "ORAZI SANDRO & C.  S.N.C.",
+ "cf": "00894550433",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9182449C9E",
+   "data": "2022-04-11",
+   "oggetto": "FORNITURA GENERI ALIMENTARI E VESTIARIO PER PROFUGHI UCRAINI",
+   "amministrazione": "COMUNE DI TREIA",
+   "ente": "ORAZI SANDRO & C.  S.N.C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 56280.0,
+   "aggiudicato": 56280.0,
+   "durata_gg": 268.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "SHOMER ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+ "cf": "92065850700",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "85584776A4",
+   "data": "2020-12-30",
+   "oggetto": "ATTUAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE E DEI TITOLARI DI PROTEZIONE, NELL'AMBITO DI UN PROGETTO TERRITORIALE ADERENTE AL 'SISTEM",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SHOMER ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1493438.97,
+   "aggiudicato": 1493438.97,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "7092862EDF",
+   "data": "2017-05-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "SHOMER ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1423500.0,
+   "aggiudicato": 1423500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

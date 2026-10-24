@@ -1,0 +1,38 @@
+{
+ "nome": "CRESCERE INSIEME SOCIETÀ COOPERATIVA SOCIALE",
+ "cf": "07642780631",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0EC514036",
+   "data": "2024-03-21",
+   "oggetto": "AFFIDAMENTO DIRETTO CRESCERE INSIEME",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CRESCERE INSIEME SOCIETÀ COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137937.6,
+   "aggiudicato": 137937.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

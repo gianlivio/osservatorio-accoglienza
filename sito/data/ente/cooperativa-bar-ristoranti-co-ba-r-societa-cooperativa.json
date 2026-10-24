@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA BAR RISTORANTI - CO.BA.R. SOCIETA' COOPERATIVA",
+ "cf": "00273860429",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2B0A05D1E",
+   "data": "2024-08-05",
+   "oggetto": "SERVIZIO DI CATERING PER MIGRANTI",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "COOPERATIVA BAR RISTORANTI - CO.BA.R. SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6227.28,
+   "aggiudicato": 6227.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

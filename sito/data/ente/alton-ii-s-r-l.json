@@ -1,0 +1,86 @@
+{
+ "nome": "ALTON II S.R.L.",
+ "cf": "06880171001",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9444647144",
+   "data": "2022-12-07",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI DA ADIBIRE AD AREA DI ACCOGLIENZA TEMPORANEA PROFUGHI UCRAINI GENOVA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ALTON II S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 150000.0,
+   "aggiudicato": 150000.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "948113936A",
+   "data": "2022-11-08",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI DA ADIBIRE AD AREA DI ACCOGLIENZA TEMPORANEA PROFUGHI UCRAINI GENOVA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ALTON II S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 72000.0,
+   "aggiudicato": 72000.0,
+   "durata_gg": 49.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9384209E3C",
+   "data": "2022-08-31",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI DA ADIBIRE AD AREA DI ACCOGLIENZA TEMPORANEA PROFUGHI UCRAINI GENOVA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ALTON II S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 263000.0,
+   "aggiudicato": 263000.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "92004779CC",
+   "data": "2022-04-21",
+   "oggetto": "FORNITURA LOCALI E SERVIZI ALBERGHIERI PER OSPITALITA TEMPORANEA PROFUGHI UCRAINI GENOVA",
+   "amministrazione": "COMM. DEL. O.872-DISP.URG.ACCOGL.SOCC.E ASSIST.POPOLAZIONE UCRAINA",
+   "ente": "ALTON II S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 580000.0,
+   "aggiudicato": 580000.0,
+   "durata_gg": 66.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

@@ -147,3 +147,5 @@ th.num .ordina{flex-direction:row-reverse}
   .spark,.grafico-naz svg{width:100%}
   .periodi{gap:4px;font-size:11px}
 }
+.link-ente{border-bottom:1px solid var(--linea)}
+.link-ente:hover{border-color:var(--timbro)}

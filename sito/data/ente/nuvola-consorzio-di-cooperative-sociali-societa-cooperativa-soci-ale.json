@@ -1,0 +1,38 @@
+{
+ "nome": "NUVOLA CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCI ALE",
+ "cf": "01862060744",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "712448817D",
+   "data": "2017-06-28",
+   "oggetto": "GARA SPRAR",
+   "amministrazione": "COMUNE DI FRANCAVILLA FONTANA",
+   "ente": "NUVOLA CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCI ALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 606191.2,
+   "aggiudicato": 606191.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "nome": "OTRANTO ZOE' SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "04611120751",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B57A84F5BC",
+   "data": "2025-02-05",
+   "oggetto": "ACCOGLIENZA DI N. 2 MINORI STRANIERI NON ACCOMPAGANTI PRESSO COMUNITA'",
+   "amministrazione": "COMUNE DI OTRANTO",
+   "ente": "OTRANTO ZOE' SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 103525.88,
+   "aggiudicato": 103525.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B3711FD8CD",
+   "data": "2024-10-16",
+   "oggetto": "ACCOGLIENZA DI UN MINORE STRANIERO NON ACCOMPAGNATO N. SCHEDA 607826",
+   "amministrazione": "COMUNE DI OTRANTO",
+   "ente": "OTRANTO ZOE' SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6900.0,
+   "aggiudicato": 6900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "B060BC9775",
+   "data": "2024-02-14",
+   "oggetto": "ACCOGLIENZA DI UN MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI OTRANTO",
+   "ente": "OTRANTO ZOE' SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27450.0,
+   "aggiudicato": 27450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

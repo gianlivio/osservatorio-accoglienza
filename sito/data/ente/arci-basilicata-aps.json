@@ -1,0 +1,191 @@
+{
+ "nome": "ARCI BASILICATA APS",
+ "cf": "01279910762",
+ "affidamenti": 9,
+ "diretti": 7,
+ "quota_diretti": 77.8,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A044F3DC98",
+   "data": "2023-10-06",
+   "oggetto": "CO-PROGETTAZIONE E SUCCESSIVA GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO ALL'AUTONOMIA DEI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) NELLA RE",
+   "amministrazione": "COMUNE DI RIPACANDIDA",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 704719.55,
+   "aggiudicato": 704719.55,
+   "durata_gg": 669.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "9576734AE5",
+   "data": "2022-12-28",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI TITOLARI DI PROTEZIONE INTERNAZIONALE (MSNA)",
+   "amministrazione": "COMUNE DI RIVELLO",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 128865.6,
+   "aggiudicato": 128865.6,
+   "durata_gg": 166.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "9214599FA2",
+   "data": "2022-04-27",
+   "oggetto": "AFFIDAMENTO ARCI N.185 MIGRANTI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3857028.0,
+   "aggiudicato": 3857028.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "8494251DA9",
+   "data": "2020-11-02",
+   "oggetto": "SERVIZI DI ACCOGLIENZA, PROTEZIONE E TUTELA MSNA - PROGETTO SIPROIMI 897-PR-1",
+   "amministrazione": "COMUNE DI RIONERO IN VULTURE",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3420245.16,
+   "aggiudicato": 1520108.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "80364998C4",
+   "data": "2019-09-06",
+   "oggetto": "AFFIDAMENTO ALL'ASSOCIAZIONE ARCI BASILICATA DI N. 164 MIGRANTI PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1275018.0,
+   "aggiudicato": 1275018.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7857335DF3",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 85 MIGRANTI ALL'ASSOCIAZIONE ARCI BASILICATA PER IL PERIODO 1^ APRILE /31 DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 552585.0,
+   "aggiudicato": 552585.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7068369A9D",
+   "data": "2017-05-08",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA N. 74 MIGRANTI RTI ARCI BASILICATA COMITATO REG.LE + FONDAZIONE CITTÀ DELLA PACE PER I BAMBINI BASILICATA + SOC.COOP.VA IL SICOMORO - PROROGA TECNI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 214452.0,
+   "aggiudicato": 214452.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6888968C39",
+   "data": "2016-04-06",
+   "oggetto": "PROGETTO SPRAR POTENCA ACCOGLIENZA CITTADINI AFGHANI MISSIONE ITALIANA ISAF",
+   "amministrazione": "PROVINCIA DI POTENZA",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43472.85,
+   "aggiudicato": 43472.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6776200921",
+   "data": "2016-04-06",
+   "oggetto": "PROGETTO SPRAR POTENCA ACCOGLIENZA CITTADINI AFGHANI MISSIONE ITALIANA ISAF",
+   "amministrazione": "PROVINCIA DI POTENZA",
+   "ente": "ARCI BASILICATA APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63939.5,
+   "aggiudicato": 63939.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "54 CENT(R)O SOCIETA' COOPERATIVA",
+ "cf": "01316140456",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7187613DDF",
+   "data": "2017-06-28",
+   "oggetto": "ACCOGLIENZA MIGRANTI NUOVA CONVENZIONE GIUGNO - AGOSTO 54 CENTRO DI MASSA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "54 CENT(R)O SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60434.64,
+   "aggiudicato": 60434.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

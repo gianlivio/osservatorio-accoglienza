@@ -1,0 +1,63 @@
+{
+ "nome": "PROMOSTAND S.R.L.",
+ "cf": "00652440868",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "993384650C",
+   "data": "2023-06-29",
+   "oggetto": "SERVIZIO DI ACCOGLIMENTO DEI MIGRANTI DEL CENTRO DI PRIMA ACCOGLIENZA UBICATOALL'INTERNO DEL PORTO DELLE GRAZIE DI ROCCELLA JONICA EFFETTUATO MEDIANTE L'ACQUISTO EL'INSTALLAZIONE D",
+   "amministrazione": "COMUNE DI ROCCELLA IONICA",
+   "ente": "PROMOSTAND S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 385000.0,
+   "aggiudicato": 346500.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "70674292E9",
+   "data": "2017-05-04",
+   "oggetto": "NOLEGGIO TENDOSTRUTTURA DA ADIBIRE ALLA PRIMA ACCOGLIENZA DEI MIGRANTI NELL'AREA DI SOCCORSO UBICATA NEL PORTO COMMERCIALE DI AUGUSTA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "PROMOSTAND S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 120000.0,
+   "aggiudicato": 118800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

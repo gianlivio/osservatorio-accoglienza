@@ -1,0 +1,38 @@
+{
+ "nome": "COCCINELLA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00956710941",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8466157DC2",
+   "data": "2020-10-23",
+   "oggetto": "ATTUAZIONE E GESTIONE SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE E DI PROTEZIONE UMANITARIA, NELL",
+   "amministrazione": "ENTE MORALE=COMUNE DI RIPABOTTONI",
+   "ente": "COCCINELLA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 895600.5,
+   "aggiudicato": 895600.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "nome": "COOPERATIVA TANTINTENTI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "02103600025",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BIELLA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9905438207",
+   "data": "2023-06-28",
+   "oggetto": "'SERVIZIO DI GESTIONE ED ORGANIZZAZIONE DEIL SISTEMA DI ACCOGLIENZA INTEGRAZIONE - SERVIZI DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE (SIPROIMI/SAI)' PERIO",
+   "amministrazione": "UNIONE MONTANA VALLE ELVO",
+   "ente": "COOPERATIVA TANTINTENTI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1491986.82,
+   "aggiudicato": 1491986.82,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BIELLA"
+  },
+  {
+   "cig": "8552183CA9",
+   "data": "2021-02-02",
+   "oggetto": "REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA DEGLI ENTI LOCALI IN SENO ALLO SPRAR-SIPROIMI -INDIVIDUAZIONE SOGGETTO ATTUATORE PER IL BIENNIO - 2021-2022 DM 18/11/2019 (PROSECUZIONE PRO",
+   "amministrazione": "CONSORZIO INTERCOMUNALE SERVIZI",
+   "ente": "COOPERATIVA TANTINTENTI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1099874.86,
+   "aggiudicato": 1099874.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BIELLA"
+  },
+  {
+   "cig": "711896970F",
+   "data": "2017-03-02",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PER RICHIEDENTI ASILI E RIFUGIATI SPRAR",
+   "amministrazione": "UNIONE MONTANA VALLE ELVO",
+   "ente": "COOPERATIVA TANTINTENTI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1564135.65,
+   "aggiudicato": 156413565.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BIELLA"
+  }
+ ]
+}

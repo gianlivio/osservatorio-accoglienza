@@ -1,0 +1,123 @@
+{
+ "nome": "FONDAZIONE ETS CENTRO ITALIANO DI SOLIDARIETA'",
+ "cf": "92000760469",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7326545831",
+   "data": "2017-12-20",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1/1/2018 31/12/2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "FONDAZIONE ETS CENTRO ITALIANO DI SOLIDARIETA'",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1487010.0,
+   "aggiudicato": 1487010.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7320970F8C",
+   "data": "2017-12-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "FONDAZIONE ETS CENTRO ITALIANO DI SOLIDARIETA'",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 535017.0,
+   "aggiudicato": 535017.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7320927C11",
+   "data": "2017-12-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "FONDAZIONE ETS CENTRO ITALIANO DI SOLIDARIETA'",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1584355.5,
+   "aggiudicato": 1584355.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "73206653DE",
+   "data": "2017-12-18",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "FONDAZIONE ETS CENTRO ITALIANO DI SOLIDARIETA'",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1905300.0,
+   "aggiudicato": 1905300.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7319729F71",
+   "data": "2017-12-18",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INRERNAZIONALE.PERIODO 1/1/18-31/12/19",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "FONDAZIONE ETS CENTRO ITALIANO DI SOLIDARIETA'",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1577457.0,
+   "aggiudicato": 1577457.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "6848738D60",
+   "data": "2016-10-29",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PERIODO 1/1/2017-31/12/2017",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "FONDAZIONE ETS CENTRO ITALIANO DI SOLIDARIETA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17265230.0,
+   "aggiudicato": 17087467.192,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  }
+ ]
+}

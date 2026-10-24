@@ -1,0 +1,154 @@
+{
+ "nome": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+ "cf": "90081370323",
+ "affidamenti": 7,
+ "diretti": 1,
+ "quota_diretti": 14.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9515344645",
+   "data": "2022-12-19",
+   "oggetto": "SERVIZI DI ACCOGLIENZA NELL'AMBITO DEL SISTEMA DI ACCOGLIENZA E INTEGRAZIONE (SAI)",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3756651.42,
+   "aggiudicato": 3756651.42,
+   "durata_gg": 943.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "9138477DC6",
+   "data": "2022-02-14",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA PER MIGRANTI ADULTI CHE NECESSITANO DELL'APPLICAZIONE DELLE MISURE DI ISOLAMENTO SANITARIO O DI QUARANTENA CON SORVEGLIANZA ATTIVA",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 222828.0,
+   "aggiudicato": 222672.02,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "845746159A",
+   "data": "2020-10-12",
+   "oggetto": "SERVIZI DI ACCOGLIENZA NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE (SIPROIMI)",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2101031.0,
+   "aggiudicato": 2101031.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "72748861D8",
+   "data": "2017-11-16",
+   "oggetto": "PROCEDURA APERTA VOLTA ALL'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLA STRUTTURA RESIDENZIALE DEMANIALE SITA IN MONR",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1126937.5,
+   "aggiudicato": 1126937.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "6923867BCA",
+   "data": "2016-12-27",
+   "oggetto": "PROROGA DELLA CONVENZIONE REP. N. 93413/2014, CON L'LCS - CONSORZIO ITALIANO DI SOLIDARIETÀ- UFFICIO RIFUGIATI-",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 604630.5,
+   "aggiudicato": 604630.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "6585715FED",
+   "data": "2016-02-15",
+   "oggetto": "PROROGA CONVENZIONE CON L'ICS - CONSORZIO ITALIANO DI SOLIDARIETÀ-UFFICIO RIFUGIATI ONLUS PER LA PROSECUZIONE DEL PROGRAMMA DI ACCOGLIENZA RELATIVO AI 49 POSTI AGGIUNTIVI NEL PROGE",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 441688.33,
+   "aggiudicato": 463108.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "6282357CFD",
+   "data": "2015-06-17",
+   "oggetto": "TERZA INTEGRAZIONE DELLA CONVENZIONE CON L'ICS - CONSORZIO ITALIANO DI SOLIDARIETÀ-UFFICIO RIFUGIATI ONLUS. PROSECUZIONE DELL'ACCOGLIENZA DI 29 POSTI AGGIUNTIVI E AMPLIAMENTO DI UL",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASS.NE CONSORZIO ITALIANO SOLIDARIETA'- UFFICIO RIFUGIATI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 488810.0,
+   "aggiudicato": 581711.713,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

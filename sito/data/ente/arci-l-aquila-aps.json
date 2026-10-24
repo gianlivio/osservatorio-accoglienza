@@ -1,0 +1,59 @@
+{
+ "nome": "ARCI L'AQUILA APS",
+ "cf": "93009790663",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8468171BC4",
+   "data": "2021-01-26",
+   "oggetto": "AFFIDAMENTO TRIENNIO 2020/22 SPRAR/SIPROIMI COMUNE DELL'AQUILA",
+   "amministrazione": "COMUNE DELL'AQUILA",
+   "ente": "ARCI L'AQUILA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 836426.67,
+   "aggiudicato": 836426.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "653323326D",
+   "data": "2015-12-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLA PROVINCIA DELL'AQUILA.",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ARCI L'AQUILA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7479000.0,
+   "aggiudicato": 32.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

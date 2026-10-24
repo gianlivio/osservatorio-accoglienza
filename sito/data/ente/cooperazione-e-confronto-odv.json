@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERAZIONE E CONFRONTO ODV",
+ "cf": "03536340924",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "948218636D",
+   "data": "2022-11-10",
+   "oggetto": "CDC 37 - SERVIZIO DI ACCOGLIENZA MIGRANTI DELLA CITTÀ METROPOLITANA DI CAGLIARI PROGETTOSAI: PROSECUZIONE ANNO 2023",
+   "amministrazione": "CITTA' METROPOLITANA DI CAGLIARI",
+   "ente": "COOPERAZIONE E CONFRONTO ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 462058.83,
+   "aggiudicato": 462058.82,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "846771102D",
+   "data": "2020-11-20",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI DELLA CITTÀ METROPOLITANA DI CAGLIARI NELL",
+   "amministrazione": "CITTA' METROPOLITANA DI CAGLIARI",
+   "ente": "COOPERAZIONE E CONFRONTO ODV",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1859391.64,
+   "aggiudicato": 924117.645,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

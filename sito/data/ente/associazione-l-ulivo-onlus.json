@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE L'ULIVO ONLUS",
+ "cf": "11670620019",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7311650474",
+   "data": "2017-12-14",
+   "oggetto": "ACCOGLIENZA RESIDENZIALE RIFUGIATI",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ASSOCIAZIONE L'ULIVO ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 40000.0,
+   "aggiudicato": 35750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "UN MONDO A COLORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "09892751216",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B69099804E",
+   "data": "2025-04-22",
+   "oggetto": "INSERIMENTO MSNA PRESSO ACCOGLIENZA COMUNITARIA RESIDENZIALE UN MONDO A COLORI - COOPERATIVA SOCIALE A RESPONSABILITÀ LIMITATA II TRIMESTRE 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "UN MONDO A COLORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28000.0,
+   "aggiudicato": 28000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B60E0F1407",
+   "data": "2025-03-17",
+   "oggetto": "INSERIMENTO MSNA PRESSO ACCOGLIENZA COMUNITARIA RESIDENZIALE UN MONDO A COLORI - COOPERATIVA SOCIALE A RESPONSABILITÀ LIMITATA GENNAIO-MARZO 2025",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "UN MONDO A COLORI COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25000.0,
+   "aggiudicato": 25000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

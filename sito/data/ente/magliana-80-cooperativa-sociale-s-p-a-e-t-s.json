@@ -1,0 +1,121 @@
+{
+ "nome": "MAGLIANA '80 COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+ "cf": "96012590582",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "RIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "98417179C9",
+   "data": "2023-05-23",
+   "oggetto": "PROGETTO DI ACCOGLIENZA E INTEGRAZIONE IN FAVORE DI ADULTI, FAMIGLIE E FAMIGLIE-MONOPARENTALI TITOLARI DI ACCOGLIENZA 'SAI' IN ACCOGLIENZA DIFFUSA, CON CAPIENZA MASSIMA DI 10 POSTI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "MAGLIANA '80 COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 340200.0,
+   "aggiudicato": 340200.0,
+   "durata_gg": 945.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "8473676AA3",
+   "data": "2020-11-02",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "UNIONE DI COMUNI DELLA BASSA SABINA",
+   "ente": "MAGLIANA '80 COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 721197.22,
+   "aggiudicato": 721197.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIETI"
+  },
+  {
+   "cig": "69163597FF",
+   "data": "2016-12-19",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR MAGLIANA 80 GENNAIO GIUGNO 2017 C. SENZA FRONTIERE",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "MAGLIANA '80 COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 126700.0,
+   "aggiudicato": 126700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6573225CDB",
+   "data": "2016-01-29",
+   "oggetto": "ACCOGLIENZA IMMIGRATI SPRAR ORDINARIO ANNO 2016 CENTRO MONTOPOLI IN SABINA COOP MAGLIANA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "MAGLIANA '80 COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 255499.5,
+   "aggiudicato": 255499.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "63295573AC",
+   "data": "2015-07-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IMMIGRATI SISTEMA SPRAR ANNO 2015, COOP. SOC. MAGLIANA 80",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "MAGLIANA '80 COOPERATIVA SOCIALE S.P.A. - E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 255499.5,
+   "aggiudicato": 255499.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

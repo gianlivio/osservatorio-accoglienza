@@ -1,0 +1,54 @@
+{
+ "nome": "CONSORZIO OBIETTIVO SOCIALE - SOCIETA' - COOPERATIVA SOCIALE SIGLABILE CONSORZIO O.SO - S.C.S.",
+ "cf": "03128050048",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "91888731E2",
+   "data": "2022-04-19",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA TEMPORANEA INTEGRATA DI MSNA 12 POSTI OCS - MAGGIO LUGLIO 2022",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "CONSORZIO OBIETTIVO SOCIALE - SOCIETA' - COOPERATIVA SOCIALE SIGLABILE CONSORZIO O.SO - S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 164160.0,
+   "aggiudicato": 69300.0,
+   "durata_gg": 77.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9096770C12",
+   "data": "2022-02-11",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA TEMPORANEA INTEGRATA DI MSNA 12 POSTI",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "CONSORZIO OBIETTIVO SOCIALE - SOCIETA' - COOPERATIVA SOCIALE SIGLABILE CONSORZIO O.SO - S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 97200.0,
+   "aggiudicato": 81000.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

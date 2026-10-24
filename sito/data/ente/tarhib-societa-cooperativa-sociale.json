@@ -1,0 +1,59 @@
+{
+ "nome": "TARHIB - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02649740814",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "762351104C",
+   "data": "2018-09-27",
+   "oggetto": "RETTE RICOVERO MSNA PRESSO CPA TARHIB DELLA SOC.COOP.TARHIB DI MARSALA PER IL PERIODO GIUGNO-LUGLIO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "TARHIB - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40500.0,
+   "aggiudicato": 40500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "72409225DC",
+   "data": "2017-10-27",
+   "oggetto": "RETTE ACCOGLIENZA N.42 MSNA PRESSO IL C.P.A. TARHIB DI MARSALA DELLA SOC.COOP.SOCIALE TARHIB ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "TARHIB - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 217491.0,
+   "aggiudicato": 217491.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

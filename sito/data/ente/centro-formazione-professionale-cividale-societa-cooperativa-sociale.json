@@ -1,0 +1,182 @@
+{
+ "nome": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01905060305",
+ "affidamenti": 8,
+ "diretti": 4,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "PORDENONE",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "GORIZIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B628DF8F6C",
+   "data": "2025-03-21",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE ED ASSISTENZA A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI 2025 - 2027 - ADESIONE AQ CIVIFORM",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19997462.5,
+   "aggiudicato": 19997462.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B13A975F1C",
+   "data": "2024-04-12",
+   "oggetto": "FV- PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 749000.0,
+   "aggiudicato": 344250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "9229071651",
+   "data": "2022-05-11",
+   "oggetto": "CIG 91449993E9 - SERVIZIO DI ACCOGLIENZA RESIDENZIALE ED ASSISTENZA A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI - PERIODO 16 MAGGIO 2022 – 30 SETTEMBRE 2024",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 369325.0,
+   "aggiudicato": 369325.0,
+   "durata_gg": 869.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "80465406DD",
+   "data": "2019-11-06",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI LATISANA",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 255600.0,
+   "aggiudicato": 107460.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "656997962E",
+   "data": "2015-11-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 777750.0,
+   "aggiudicato": 777750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "8099714F6D",
+   "data": "2015-06-08",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PORDENONE",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 165000.0,
+   "aggiudicato": 165000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PORDENONE"
+  },
+  {
+   "cig": "6563044B3B",
+   "data": "2015-06-08",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PORDENONE",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 145000.0,
+   "aggiudicato": 145000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PORDENONE"
+  },
+  {
+   "cig": "6487597667",
+   "data": "2015-05-06",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI GORIZIA",
+   "ente": "CENTRO FORMAZIONE PROFESSIONALE CIVIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 100000.0,
+   "aggiudicato": 100000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GORIZIA"
+  }
+ ]
+}

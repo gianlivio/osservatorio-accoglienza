@@ -1,0 +1,38 @@
+{
+ "nome": "VEGA  - SOCIETA' COOPERATIVA SOCIALE - ETS",
+ "cf": "02666920810",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7406872821",
+   "data": "2018-03-06",
+   "oggetto": "RETTE MSNA PRESSO LA STRUUTURA 'VEGA-ETS' DELLA SOC. COOP.SOCIALE VEGA-ETS DI MARSALA -ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "VEGA  - SOCIETA' COOPERATIVA SOCIALE - ETS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 235000.0,
+   "aggiudicato": 235000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "nome": "ARCA DI NOE' S.R.L.",
+ "cf": "02824600643",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5A32BC54F",
+   "data": "2025-02-13",
+   "oggetto": "XXI ACCORDO QUADRO GESTIONE CENTRI COLLETTIVI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ARCA DI NOE' S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1447957.7,
+   "aggiudicato": 1447957.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "85827938D6",
+   "data": "2020-12-18",
+   "oggetto": "PROROGA AFFIDAMENTO RICHIEDENTI ASILO GESTORE ARCA DI NOE' S.R.L. - DALL",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ARCA DI NOE' S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 911697.0,
+   "aggiudicato": 911697.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7952783C22",
+   "data": "2019-07-01",
+   "oggetto": "PROROGA AFFIDAMENTO ACCOGLIENZA RICHIEDENTI ASILO GESTORE ARCA DI NOÈ PERIODO 01.07 - 31.12.2019",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ARCA DI NOE' S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 926808.0,
+   "aggiudicato": 926808.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

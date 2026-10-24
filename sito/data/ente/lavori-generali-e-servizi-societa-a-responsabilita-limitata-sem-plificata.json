@@ -1,0 +1,33 @@
+{
+ "nome": "LAVORI GENERALI E SERVIZI SOCIETA' A RESPONSABILITA' LIMITATA SEM PLIFICATA",
+ "cf": "11971430969",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8979508C68",
+   "data": "2021-11-19",
+   "oggetto": "SERVIZIO PER LA GESTIONE DI N. 24 POSTI ORDINARI DI ACCOGLIENZA PER I RICHIEDENTI O TITOLARI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SAI EX SIPROIMI - 2021 - 2022",
+   "amministrazione": "COMUNE DI VITULANO",
+   "ente": "LAVORI GENERALI E SERVIZI SOCIETA' A RESPONSABILITA' LIMITATA SEM PLIFICATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 322475.0,
+   "aggiudicato": 322475.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

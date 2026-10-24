@@ -1,0 +1,38 @@
+{
+ "nome": "ALBERGO ROMANA S.N.C. DI GABRIELLA CAMPANER",
+ "cf": "02419820267",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6822837F31",
+   "data": "2016-10-06",
+   "oggetto": "ASSISTENZA ED ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NR. 20 OSPITI",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "ALBERGO ROMANA S.N.C. DI GABRIELLA CAMPANER",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46000.0,
+   "aggiudicato": 46000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

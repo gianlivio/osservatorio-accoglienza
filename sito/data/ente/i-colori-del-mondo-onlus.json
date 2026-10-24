@@ -1,0 +1,59 @@
+{
+ "nome": "I COLORI DEL MONDO ONLUS",
+ "cf": "95038780128",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6960180A3A",
+   "data": "2016-04-18",
+   "oggetto": "SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 01/01/2017 -30/04/2017.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "I COLORI DEL MONDO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 100512.0,
+   "aggiudicato": 100512.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "65217015EA",
+   "data": "2015-12-17",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PERIODO 1/1/2016 - 31/12/2016.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "I COLORI DEL MONDO ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17902550.0,
+   "aggiudicato": 17902550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}

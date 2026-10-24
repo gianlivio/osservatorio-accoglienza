@@ -1,0 +1,38 @@
+{
+ "nome": "CASCINA SAN MICHELE COOPERATIVA SOCIALE",
+ "cf": "03551290129",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B67C96DA49",
+   "data": "2025-04-15",
+   "oggetto": "CASCINA SAN MICHELE - INSERIMENTO IN STRUTTURA MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI TAGGIA",
+   "ente": "CASCINA SAN MICHELE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5613.48,
+   "aggiudicato": 5613.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE SAN CRISTOFORO- UN PEZZO DI STRADA INSIEME",
+ "cf": "92121210345",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B444515CFD",
+   "data": "2024-11-15",
+   "oggetto": "INSERIMENTO DI N. 3 MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA. PROSECUZIONE DEGLI INTERVENTI FINO AL 31 DICEMBRE 2024. ASSUNZIONE IMPEGNO DI SPESA",
+   "amministrazione": "COMUNE DI SORBOLO MEZZANI",
+   "ente": "ASSOCIAZIONE SAN CRISTOFORO- UN PEZZO DI STRADA INSIEME",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11160.0,
+   "aggiudicato": 11160.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "8045774EBB",
+   "data": "2019-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ASS. SAN CRISTOFORO",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "ASSOCIAZIONE SAN CRISTOFORO- UN PEZZO DI STRADA INSIEME",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1548989.0,
+   "aggiudicato": 1294379.61,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

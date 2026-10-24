@@ -1,0 +1,59 @@
+{
+ "nome": "ELICEA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02456860739",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6955086E85",
+   "data": "2017-01-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ALBEROBELLO CASTELLANA GROTTE LOCOROTONDO NOCI PUTIGNANO",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "ELICEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2570400.0,
+   "aggiudicato": 20051.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "635016411C",
+   "data": "2015-07-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - AMBITO TERRITORIALE ALBEROBELLO-CASTELLANA GROTTE- LOCOROTONDO-NOCI-PUTI",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "ELICEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 483000.0,
+   "aggiudicato": 32.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "nome": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
+ "cf": "07882420156",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B846DD2C6E",
+   "data": "2025-09-18",
+   "oggetto": "INSERIMENTO MSNA DIAPASON",
+   "amministrazione": "COMUNITA' MONTANA DELLA VALCHIAVENNA",
+   "ente": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20540.0,
+   "aggiudicato": 20540.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "7834064A1E",
+   "data": "2018-12-28",
+   "oggetto": "RIPETIZIONE DI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI PRESENTI SUL TERRITORIO MILANESE IN STRUTTURE MESSE A DISPOSIZIONE DA CITY ANGELS ONLUS ATTRAVERSO ACCORDO QUADRO",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 806193.75,
+   "aggiudicato": 806193.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "78340427F7",
+   "data": "2018-12-28",
+   "oggetto": "RIPETIZIONE DI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI PRESENTI SUL TERRITORIO MILANESE IN STRUTTURE MESSE A DISPOSIZIONE DA FONDAZIONE PROGETTO ARCA ATTRAVERSO ACCORDO QUADR",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 445208.75,
+   "aggiudicato": 445208.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "7189236938",
+   "data": "2017-07-14",
+   "oggetto": "ACCORDO QUADRO N. 06/2017 ACCORDO QUADRO CONCLUSO CON PIÙ OPERATORI ECONOMICI, AI SENSI DELL'ART. 54 COMMA 4 LETTERA A) DEL D.LGS. 50/2016, PER I SERVIZI DI ACCOGLIENZA DI CITTADIN",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 916525.0,
+   "aggiudicato": 916525.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "71891935BD",
+   "data": "2017-07-14",
+   "oggetto": "ACCORDO QUADRO N. 06/2017 ACCORDO QUADRO CONCLUSO CON PIÙ OPERATORI ECONOMICI, AI SENSI DELL'ART. 54 COMMA 4 LETTERA A) DEL D.LGS. 50/2016, PER I SERVIZI DI ACCOGLIENZA DI CITTADIN",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "DIAPASON COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2089677.0,
+   "aggiudicato": 2089677.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

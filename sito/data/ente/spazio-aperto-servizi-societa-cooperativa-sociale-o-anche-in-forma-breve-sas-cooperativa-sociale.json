@@ -1,0 +1,149 @@
+{
+ "nome": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+ "cf": "10860990158",
+ "affidamenti": 7,
+ "diretti": 2,
+ "quota_diretti": 28.6,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "94843572FE",
+   "data": "2022-12-16",
+   "oggetto": "APPALTO 38/2022 LOTTO 2 DI 3: STRUTTURA DI PROPRIETÀ COMUNALE SITA IN FULVIO TESTI.",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1564285.72,
+   "aggiudicato": 755998.43,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9230067C3C",
+   "data": "2022-05-17",
+   "oggetto": "PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DELLA ATTUAZIONE DEL PROGETTO DI ACCOGLIENZA FACENTE PARTE DEL SISTEMA DI ACCOGLIENZA E INTEGRAZIONE (SAI) NONCHE' DEI SERVIZI DI ACCOGLIENZA ",
+   "amministrazione": "COMUNI INSIEME PER LO SVILUPPO SOCIALE AZ.SPEC.CONSORTILE",
+   "ente": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 727578.0,
+   "aggiudicato": 727578.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "9109987717",
+   "data": "2022-02-10",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 257142.86,
+   "aggiudicato": 127285.72,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8530283438",
+   "data": "2020-12-01",
+   "oggetto": "GESTIONE, IN PROSECUZIONE, DEI SERVIZI DI ACCOGLIENZA INTEGRATA IN FAVORE DI TITOLARI DI PROTEZIONE INTERNAZIONALE IN AMBITO SIPROIMI 2021/2022",
+   "amministrazione": "COMUNE DI SAN DONATO MILANESE",
+   "ente": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 569332.6,
+   "aggiudicato": 569332.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8324423B2A",
+   "data": "2020-05-19",
+   "oggetto": "PROSECUZIONE DELLA CONVENZIONE TRA COMUNE DI MILANO E L'ATS COSTITUITA TRA FARSI PROSSIMO ONLUS S.C.S. (MANDATARIA), SPAZIO APERTO SERVIZI ONLUS S.C.S. (MANDANTE) E SAVE THE CHILDR",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 163963.64,
+   "aggiudicato": 163963.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8589640B28",
+   "data": "2019-11-19",
+   "oggetto": "RIPETIZIONE SERVIZIO ACCOGLIENZA DESTINATO A N.15 NEOMAGGIORENNII STRANIERI NON ACCOMPAGNATI FINANZIATO DAL FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO (FNPSA) NELL'AMB",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 149030.7,
+   "aggiudicato": 149030.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7285740ED5",
+   "data": "2017-12-13",
+   "oggetto": "ACCORDO QUADRO N. 85/2017 ACCORDO QUADRO CONCLUSO CON PIÙ OPERATORI ECONOMICI, AI SENSI DELL'ART. 54 COMMA 4 LETTERA A) DEL D.LGS. 50/2016, PER IL SERVIZIO DI ACCOGLIENZA DESTINATO",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "SPAZIO APERTO SERVIZI SOCIETA' COOPERATIVA SOCIALE O ANCHE,IN FORMA BREVE,SAS COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1047692.51,
+   "aggiudicato": 748351.79,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

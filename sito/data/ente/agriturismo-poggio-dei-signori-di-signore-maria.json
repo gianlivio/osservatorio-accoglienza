@@ -1,0 +1,91 @@
+{
+ "nome": "AGRITURISMO POGGIO DEI SIGNORI DI SIGNORE MARIA",
+ "cf": "02767450642",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9462248E0E",
+   "data": "2022-10-25",
+   "oggetto": "AFFIDAMENTO DISCENDENTE DAL XVI ACCORDO QUADRO ALLA DITTA 'SIGNPRE MARIA ' DI FORINOP (AV) PER IL SERVIZIO DI PRIMA ACCOGLIENZA RICHIEDENTI ASILO NELLA PROVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AGRITURISMO POGGIO DEI SIGNORI DI SIGNORE MARIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 568397.5,
+   "aggiudicato": 568397.5,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "9183196512",
+   "data": "2022-04-15",
+   "oggetto": "XVI ACCORDO QUADRO PER SERVIZIO TEMPORANEO DI PRIMA ACCOGLIENZA RICHIEDENTI ASILO ASSEGNATI ALLA PROVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AGRITURISMO POGGIO DEI SIGNORI DI SIGNORE MARIA",
+   "procedura": "AFFIDAMENTO RISERVATO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 10583550.0,
+   "aggiudicato": 212456.7,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8155921EE9",
+   "data": "2019-12-23",
+   "oggetto": "PROROGA AFFIDAMENTO RICHIEDENTI ASILO GESTORE AGRITURISMO SIGNORE MARIA - FORINO - DALL",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AGRITURISMO POGGIO DEI SIGNORI DI SIGNORE MARIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 199290.0,
+   "aggiudicato": 199290.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7952759855",
+   "data": "2019-07-01",
+   "oggetto": "PROROGA AFFIDAMENTO ACCOGLIENZA RICHIEDENTI ASILO GESTORE AGRITURISMO SIGNORE MARIA PERIODO 01.07 - 31.12.2019",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AGRITURISMO POGGIO DEI SIGNORI DI SIGNORE MARIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 201480.0,
+   "aggiudicato": 201480.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

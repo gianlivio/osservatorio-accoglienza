@@ -1,0 +1,38 @@
+{
+ "nome": "LE VIE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "02438300465",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "708092000A",
+   "data": "2017-04-11",
+   "oggetto": "SERVIZIO DI I ACCOGLIENZA MIGRANTI PERIODO 1/5/2017 - 31/12/2017",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "LE VIE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 105582.75,
+   "aggiudicato": 105582.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  }
+ ]
+}

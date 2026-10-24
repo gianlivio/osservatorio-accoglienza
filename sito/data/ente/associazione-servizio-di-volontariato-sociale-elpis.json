@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE SERVIZIO DI VOLONTARIATO SOCIALE - ELPIS",
+ "cf": "92007470716",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0E7A804FD",
+   "data": "2024-03-20",
+   "oggetto": "ISTITUZIONALIZZAZIONE N. 2 MSNA IN COMUNITÀ EDUCATIVA",
+   "amministrazione": "COMUNE DI SAN GIOVANNI ROTONDO",
+   "ente": "ASSOCIAZIONE SERVIZIO DI VOLONTARIATO SOCIALE - ELPIS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36600.0,
+   "aggiudicato": 36600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "DI.DM.GROUP S.R.L.",
+ "cf": "02378510693",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "995725391C",
+   "data": "2023-07-19",
+   "oggetto": "LAVORI DI RISTRUTTURAZIONE DI EDIFICI DA DESTINARE AD ACCOGLIENZA DI MIGRANTI, PROFUGHI DI GUERRA E PER ATTIVITA' SOCIALI",
+   "amministrazione": "UNIONE COMUNI DEL SINELLO",
+   "ente": "DI.DM.GROUP S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 271195.51,
+   "aggiudicato": 266482.03,
+   "durata_gg": 240.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  },
+  {
+   "cig": "981778005C",
+   "data": "2023-06-14",
+   "oggetto": "LAVORI - INTERVENTO DI COMPLETAMENTO INFRASTRUTTURA COMUNALE PROFUGHI GUERRE",
+   "amministrazione": "COMUNE DI MONTELAPIANO",
+   "ente": "DI.DM.GROUP S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 232522.21,
+   "aggiudicato": 234210.81,
+   "durata_gg": 540.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

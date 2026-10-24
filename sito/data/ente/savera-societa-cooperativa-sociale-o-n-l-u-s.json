@@ -1,0 +1,38 @@
+{
+ "nome": "SAVERA - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "02641620212",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B30DADDF18",
+   "data": "2024-09-17",
+   "oggetto": "INCARICO PER ILSERVIZIO DI MEDIAZIONE CULTURALE - PROGETTO SAI",
+   "amministrazione": "BEZIRKSGEMEINSCHAFT EISACKTAL",
+   "ente": "SAVERA - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8250.0,
+   "aggiudicato": 8250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

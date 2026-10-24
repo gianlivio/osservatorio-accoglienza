@@ -1,0 +1,154 @@
+{
+ "nome": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01735060855",
+ "affidamenti": 7,
+ "diretti": 1,
+ "quota_diretti": 14.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CALTANISSETTA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C310F87A",
+   "data": "2025-12-24",
+   "oggetto": "SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A N. 44 SOGGETTI, DI CUI N. 30 MINORISTRANIERI NON ACCOMPAGNATI E N. 14 NEOMAGGIORENNI, BENEFICIARI DEL PROGETTO TERRITORIALE ",
+   "amministrazione": "LIBERO CONSORZIO COMUNALE DI CALTANISSETTA GIA PROVINCIA REGIONALE DI CALTANISSETTA",
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3653591.4,
+   "aggiudicato": 3653591.4,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "B757547586",
+   "data": "2025-06-20",
+   "oggetto": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER L’ AFFIDAMENTO IN PROSECUZIONE NEL TRIENNIO 2025/2027 (SINO AL 31/12/2027) DEL PROGETTO SAI PROG - 1432 – PR – 2 CATEGORIA MSNA – PER",
+   "amministrazione": "COMUNE DI MONTEDORO",
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 950000.0,
+   "aggiudicato": 949531.65,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "951254721E",
+   "data": "2022-12-12",
+   "oggetto": "INDIVIDUAZIONE DI UN ENTE ATTUATORE PER LA CO-PROGETTAZIONE ED ATTUAZIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A N. 22 SOGGETTI, DI CUI N. 15 MINORI STRANIERI ",
+   "amministrazione": "LIBERO CONSORZIO COMUNALE DI CALTANISSETTA GIA PROVINCIA REGIONALE DI CALTANISSETTA",
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1919195.7,
+   "aggiudicato": 1916124.987,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "8462320F5D",
+   "data": "2020-11-10",
+   "oggetto": "INDIVIDUAZIONE DI UN ENTE ATTUATORE PER LA CO-PROGETTAZIONE E L'ATTUAZIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTO A N. 14 MINORI STRANIERI NON ACCOMPAGNATI E N. ",
+   "amministrazione": "LIBERO CONSORZIO COMUNALE DI CALTANISSETTA GIA PROVINCIA REGIONALE DI CALTANISSETTA",
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 969200.95,
+   "aggiudicato": 969200.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "8202493F57",
+   "data": "2018-02-20",
+   "oggetto": "SPRAR",
+   "amministrazione": "COMUNE DI MONTEDORO",
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 370000.0,
+   "aggiudicato": 294692.62,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "685652034C",
+   "data": "2016-11-30",
+   "oggetto": "PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN ENTE ATTUATORE PER LA CO-PROGETTAZIONE E L'ATTUAZIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOL",
+   "amministrazione": "LIBERO CONSORZIO COMUNALE DI CALTANISSETTA GIA' PROVINCIA REGIONALE DI CALTANISSETTA",
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 934845.0,
+   "aggiudicato": 934845.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  },
+  {
+   "cig": "6574940421",
+   "data": "2016-01-21",
+   "oggetto": "PRESA D'ATTO DELL'APPROVAZIONE MINISTERIALE DEL PROGETTO SPRAR CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI (MSNA) - FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO (FNPSA) ",
+   "amministrazione": "LIBERO CONSORZIO COMUNALE DI CALTANISSETTA GIA' PROVINCIA REGIONALE DI CALTANISSETTA",
+   "ente": "ETNOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 263058.84,
+   "aggiudicato": 207051.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CALTANISSETTA"
+  }
+ ]
+}

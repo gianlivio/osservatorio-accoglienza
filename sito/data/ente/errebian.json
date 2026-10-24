@@ -1,0 +1,54 @@
+{
+ "nome": "ERREBIAN",
+ "cf": "02044501001",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E1D87CEE",
+   "data": "2024-12-18",
+   "oggetto": "FORNITURA DI CANCELLERIAE MATERIALE DI CONSUMO PER LE ESIGENZE DELLA PREFETTURA DI ROMA",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "ERREBIAN",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28847.5,
+   "aggiudicato": 28847.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B27C18EA4C",
+   "data": "2024-07-17",
+   "oggetto": "MATERIALE DI CANCELLERIA",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "ERREBIAN",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19629.7,
+   "aggiudicato": 19629.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "nome": "F.M.B. TUBES S.R.L.",
+ "cf": "01544860800",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2F0C68D67",
+   "data": "2024-09-06",
+   "oggetto": "P24-230 - BARI PALESE - FORNITURA E POSA IN OPERA DI PREFABBRICATI VARI",
+   "amministrazione": "3 REPARTO GENIO A.M.BARI",
+   "ente": "F.M.B. TUBES S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1967636.83,
+   "aggiudicato": 1967636.83,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B2F0C68D67",
+   "data": "2024-09-06",
+   "oggetto": "P24-230 - BARI PALESE - FORNITURA E POSA IN OPERA DI PREFABBRICATI VARI",
+   "amministrazione": "3 REPARTO GENIO A.M.BARI",
+   "ente": "F.M.B. TUBES S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1967636.83,
+   "aggiudicato": 1967636.83,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "72685136AC",
+   "data": "2017-11-22",
+   "oggetto": "ACQUISTO DI MODULI ABITATIVI PER L'ACCOGLIENZA DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "F.M.B. TUBES S.R.L.",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 127300.0,
+   "aggiudicato": 118608.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

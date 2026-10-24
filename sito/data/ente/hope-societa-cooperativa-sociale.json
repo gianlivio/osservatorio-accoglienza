@@ -1,0 +1,38 @@
+{
+ "nome": "HOPE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02979590649",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6D891C30E",
+   "data": "2025-06-10",
+   "oggetto": "PROCEDURA TELEMATICA APERTA PER AFFIDAMENTO SERVIZIO DI AFFIDAMENTO SERVIZIO DI ACCOGLIENZA PER NUMERO 69 POSTI PRESSO I COMUNI DI AVELLINO, MONTORO, ATRIPALDA E AIELLO DEL SABATO ",
+   "amministrazione": "COMUNE DI PETRURO IRPINO",
+   "ente": "HOPE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 543662.5,
+   "aggiudicato": 543662.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "nome": "SERVIZI ALRAIAN S.R.L.",
+ "cf": "04276740612",
+ "affidamenti": 11,
+ "diretti": 8,
+ "quota_diretti": 72.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B723E68784",
+   "data": "2025-06-04",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA CON CAPIENZA DA 101 A 300 POSTI CIG B27F328905",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7283839.43,
+   "aggiudicato": 7283839.43,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B5B0DF804E",
+   "data": "2025-02-19",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 C. 1 LETT. B) D.LGS. N. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139786.0,
+   "aggiudicato": 139786.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B4EF9D9D55",
+   "data": "2024-12-23",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 C. 1 LETT. B) D.LGS. N. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138084.0,
+   "aggiudicato": 138084.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B402DB7C6A",
+   "data": "2024-10-29",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 C. 1 LETT. B) D.LGS. N. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138084.0,
+   "aggiudicato": 138084.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B2BDB6ECAA",
+   "data": "2024-08-09",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 C. 1 LETT. B) D.LGS. N. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137307.0,
+   "aggiudicato": 137307.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B27F328905",
+   "data": "2024-07-19",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA, AI SENSI DELL?ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PI� OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO TRIENNALE ",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 136685812.5,
+   "aggiudicato": 7281390.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "9785690ED6",
+   "data": "2023-04-21",
+   "oggetto": "PROCEDURA NEGOZIATA EX ART. 63 COMMA 2 LETT. C) DEL D. LGS. N. 50/2016, FINALIZZATA ALLA SELEZIONE DI PIÙ OPERATORI ECONOMICI CON CUI CONCLUDERE UN ACCORDO QUADRO, EX ART. 54 COMMA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 7944651.69,
+   "aggiudicato": 689787.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7599874E69",
+   "data": "2018-08-10",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI - ANNO 2018 - ATI MY WAY / NIBIRU",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 171758.4,
+   "aggiudicato": 171758.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7599863558",
+   "data": "2018-08-10",
+   "oggetto": "STIPULA CONVENZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP. DELL'ANGELO",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 117108.0,
+   "aggiudicato": 117108.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7573080F4D",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONE ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - SERVIZI AL RAIAN",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 280195.0,
+   "aggiudicato": 280195.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7327578CA5",
+   "data": "2017-12-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA N. 530 CITTADINI STRANIERI RICHIEDENTI ASILO LOTTO N. 2",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "SERVIZI ALRAIAN S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4266288.0,
+   "aggiudicato": 32.53,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

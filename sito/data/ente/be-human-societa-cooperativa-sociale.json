@@ -1,0 +1,38 @@
+{
+ "nome": "BE HUMAN SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "10429481210",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B702F347B3",
+   "data": "2025-05-27",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LINDIVIDUAZIONE DEL SOGGETTO ATTUATORE DEI SERVIZI DI ACCOGLIENZA DI TITOLARI DI PROTEZIONE INTERNAZIONALE NELLAMBITO DEL SAI SISTEMA ACCOGLIENZ",
+   "amministrazione": "COMUNE DI SAN SEVERINO LUCANO",
+   "ente": "BE HUMAN SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1408087.97,
+   "aggiudicato": 1253572.52,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

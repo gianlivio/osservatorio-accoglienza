@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE CARITAS AMBROSIANA",
+ "cf": "01704670155",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9822879030",
+   "data": "2023-05-16",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROT. INTERNAZIONALE - FONDAZIONE CARITAS AMBROSIANA.",
+   "amministrazione": "PREFETTURA UTG DI LECCO",
+   "ente": "FONDAZIONE CARITAS AMBROSIANA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39500.0,
+   "aggiudicato": 39500.0,
+   "durata_gg": 231.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "IL RISVEGLIO SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+ "cf": "12018841002",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2224B0CC6",
+   "data": "2024-06-19",
+   "oggetto": "SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "IL RISVEGLIO SOCIETA' COOPERATIVA SOCIALE PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 329847.6,
+   "aggiudicato": 329847.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

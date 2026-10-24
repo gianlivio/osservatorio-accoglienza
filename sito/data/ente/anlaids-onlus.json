@@ -1,0 +1,33 @@
+{
+ "nome": "ANLAIDS ONLUS",
+ "cf": "94090340541",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8101633F09",
+   "data": "2019-05-16",
+   "oggetto": "ATTIVITÀ DI PREVENZIONE C/O AMBULATORIO IMMIGRATI - DISTRETTO DEL PERUGINO - PROGETTO N. 8",
+   "amministrazione": "AZIENDA USL UMBRIA N. 1 PERUGIA",
+   "ente": "ANLAIDS ONLUS",
+   "procedura": "AFFIDAMENTO RISERVATO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 72370.0,
+   "aggiudicato": 43422.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

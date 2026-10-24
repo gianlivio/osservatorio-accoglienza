@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE CENTRO TORINESE DI SOLIDARIETA'",
+ "cf": "05729700012",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B25555AB7F",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAPACITA' RECETTIVA MASSIMA DI 50 POSTI ",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CENTRO TORINESE DI SOLIDARIETA'",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 676347.21,
+   "aggiudicato": 676347.21,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

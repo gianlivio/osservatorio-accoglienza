@@ -1,0 +1,123 @@
+{
+ "nome": "ARS ECOLOGIA S.R.L.",
+ "cf": "10185120010",
+ "affidamenti": 6,
+ "diretti": 6,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8701874C0",
+   "data": "2025-10-01",
+   "oggetto": "EMERGENZA MIGRANTI E PROFUGHI ANNO 2025 INDIVIDUAZIONE DI PUNTI CRITICI E AREE FREQUENTATE. ISTANZA PER LA REALIZZAZIONE DI UN PROGETTO DI MONITORAGGIO E BONIFICA. INTERVENTO IN GR",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "ARS ECOLOGIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9800.0,
+   "aggiudicato": 9800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B858521A93",
+   "data": "2025-09-24",
+   "oggetto": "EMERGENZA MIGRANTI E PROFUGHI ANNO 2025 INDIVIDUAZIONE DI PUNTI CRITICI E AREE FREQUENTATE. ISTANZA PER LA REALIZZAZIONE DI UN PROGETTO DI MONITORAGGIO E BONIFICA. INTERVENTO IN GR",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "ARS ECOLOGIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6500.0,
+   "aggiudicato": 6500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B4705033B2",
+   "data": "2024-11-26",
+   "oggetto": "ESECUZIONE, IN REGIME DI EMERGENZA MIGRANTI E PROFUGHI, DI INTERVENTO STRAORDINARIO DI PULIZIA DELLE AREE DALLA FOCE DEL FIUME ROJA AL BELVEDERE REXENTELLO E AREE LIMITROFE III INT",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "ARS ECOLOGIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18000.0,
+   "aggiudicato": 18000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B46D85331C",
+   "data": "2024-11-26",
+   "oggetto": "ACCORDO PREFETTO/SINDACO SU EMERGENZA MIGRANTI E PROFUGHI ANNO 2024 BONIFICA DI PUNTI CRITICI E AREE FREQUENTATE. RICHIESTA PREVENTIVO PER IL MONITORAGGIO E LA BONIFICA DI DETTE AR",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "ARS ECOLOGIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34699.24,
+   "aggiudicato": 34699.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B2F479204B",
+   "data": "2024-09-09",
+   "oggetto": "ESECUZIONE, IN REGIME DI EMERGENZA MIGRANTI E PROFUGHI, DI INTERVENTO STRAORDINARIO DI PULIZIA DELLE AREE DALLA FOCE DEL FIUME ROJA AL BELVEDERE REXENTELLO E AREE LIMITROFE",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "ARS ECOLOGIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12000.0,
+   "aggiudicato": 12000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B2A6C40B10",
+   "data": "2024-08-01",
+   "oggetto": "ESECUZIONE, IN REGIME DI EMERGENZA MIGRANTI E PROFUGHI, DI INTERVENTO STRAORDINARIO DI PULIZIA DELLE AREE DALLA FOCE DEL FIUME ROJA AL BELVEDERE REXENTELLO E AREE LIMITROFE. DECISI",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "ARS ECOLOGIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18000.0,
+   "aggiudicato": 18000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

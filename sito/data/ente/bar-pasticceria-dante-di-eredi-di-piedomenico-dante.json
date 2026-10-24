@@ -1,0 +1,38 @@
+{
+ "nome": "BAR PASTICCERIA DANTE DI EREDI DI PIEDOMENICO DANTE",
+ "cf": "02396930683",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E6638991",
+   "data": "2024-12-19",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO SERVIZIO CATERING EVENTO SENSIBILIZZAZIONE MERCATINO NATALE",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "BAR PASTICCERIA DANTE DI EREDI DI PIEDOMENICO DANTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1464.0,
+   "aggiudicato": 1464.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE COMUNITA' SOLIDALE ONLUS",
+ "cf": "97762270011",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9493476839",
+   "data": "2022-12-07",
+   "oggetto": "SERVIZI ACCOGLIENZA ED ACCOMPAGNAMENTO ALL'INCLUSIONE PREVISTI DAL PROGETTO SAI - PER 50 PERSONE SINGOLE E/O NUCLEI FAMIGLIARI PRESSO APPARTAMENTI - ANNI 2023 - 2024",
+   "amministrazione": "COMUNE DI SETTIMO TORINESE",
+   "ente": "FONDAZIONE COMUNITA' SOLIDALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1237877.22,
+   "aggiudicato": 1237877.22,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "EDIL FIBLO S.N.C. DI FIORE DOMENICO E C.",
+ "cf": "02479990786",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B957CDE983",
+   "data": "2025-12-02",
+   "oggetto": "MANUTENZIONE STRAORDINARIA CENTRO SAI",
+   "amministrazione": "COMUNE DI CIVITA",
+   "ente": "EDIL FIBLO S.N.C. DI FIORE DOMENICO E C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12844.23,
+   "aggiudicato": 12844.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

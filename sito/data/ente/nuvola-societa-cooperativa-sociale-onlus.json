@@ -1,0 +1,95 @@
+{
+ "nome": "NUVOLA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "02596050696",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8DDC1F483",
+   "data": "2025-10-31",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI DI ETÀ NON INFERIORE A 14 ANNI (MSNA) E GESTIONE DEI SERVIZI CONNESSI PR",
+   "amministrazione": "PREFETTURA DI PESCARA",
+   "ente": "NUVOLA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3128415.0,
+   "aggiudicato": 3128415.0,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B88AEAFB62",
+   "data": "2025-10-08",
+   "oggetto": "AFFIDAMENTO SERVIZI ACCOGLIENZA MSNA",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO CHIETI",
+   "ente": "NUVOLA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA CON PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 744600.0,
+   "aggiudicato": 744600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  },
+  {
+   "cig": "B0698D7E5D",
+   "data": "2024-02-16",
+   "oggetto": "PROROGA TECNICA DEL SERVIZIO DI GESTIONE PROGETTO SAI PROG-1948 PR-2",
+   "amministrazione": "COMUNE DI ROCCAMONTEPIANO",
+   "ente": "NUVOLA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26022.42,
+   "aggiudicato": 26022.42,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  },
+  {
+   "cig": "B06973556E",
+   "data": "2024-02-16",
+   "oggetto": "PROSECUZIONE AFFIDAMENTO PROGETTO SAI PROG-1948 - PR-2",
+   "amministrazione": "COMUNE DI ROCCAMONTEPIANO",
+   "ente": "NUVOLA - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27205.25,
+   "aggiudicato": 27205.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

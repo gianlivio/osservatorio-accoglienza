@@ -1,0 +1,38 @@
+{
+ "nome": "RUSSELLO & PISCOPO TRAVEL S.R.L.",
+ "cf": "02955880840",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0D5993723",
+   "data": "2024-03-15",
+   "oggetto": "SERVIZIO NOLEGGIO PULLMAN PER TRASPORTO MIGRANTI VARIE DESTINAZIONE PERIODO GIU-AGO 2023",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "RUSSELLO & PISCOPO TRAVEL S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62263.74,
+   "aggiudicato": 62263.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

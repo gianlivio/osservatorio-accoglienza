@@ -1,0 +1,59 @@
+{
+ "nome": "L'ORIZZONTE SOCIETA' COOPERATIVA",
+ "cf": "11383690010",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7222885143",
+   "data": "2017-10-02",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "L'ORIZZONTE SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 99484.0,
+   "aggiudicato": 99484.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "636581765E",
+   "data": "2015-08-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DALLA DATA PRESUNTA DEL 01.10.2015 FINO ALLA DATA PRESUNTA DEL 31.12.2015 A CASTE",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "L'ORIZZONTE SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 315000.0,
+   "aggiudicato": 301500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

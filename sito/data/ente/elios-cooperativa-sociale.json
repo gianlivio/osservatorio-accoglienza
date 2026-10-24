@@ -1,0 +1,38 @@
+{
+ "nome": "ELIOS COOPERATIVA SOCIALE",
+ "cf": "07699280637",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7FE4C9E99",
+   "data": "2025-08-21",
+   "oggetto": "L'ENTE LOCALE, CITTÀ DI GIUGLIANO IN CAMPANIA, SI È INSERITO NELL'AMBITO DELLA PROGRAMMAZIONE DEL MINISTERO DELL'INTERNO – DIREZIONE CENTRALE DEI SERVIZI CIVILI PER L'IMMIGRAZIONE ",
+   "amministrazione": "COMUNE DI GIUGLIANO IN CAMPANIA",
+   "ente": "ELIOS COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2439258.75,
+   "aggiudicato": 2439258.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "VITALBA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01981910761",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9757654ECC",
+   "data": "2023-04-24",
+   "oggetto": "PROCEDURA NEGOZIATA PER AFFIDAMENTO SERVIZI ACCOGLIENZA CITTADINI STRANIERI N CENTRI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "VITALBA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 20768135.0,
+   "aggiudicato": 1206690.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

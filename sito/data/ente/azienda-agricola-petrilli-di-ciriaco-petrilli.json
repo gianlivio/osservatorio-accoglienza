@@ -1,0 +1,38 @@
+{
+ "nome": "AZIENDA AGRICOLA PETRILLI DI CIRIACO PETRILLI",
+ "cf": "01972850646",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "637884556A",
+   "data": "2015-08-28",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI MIGRANTI RICHIEDENTI ASILO PERIODO 01/07/2015-30/09/2015",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "AZIENDA AGRICOLA PETRILLI DI CIRIACO PETRILLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 164450.0,
+   "aggiudicato": 164450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

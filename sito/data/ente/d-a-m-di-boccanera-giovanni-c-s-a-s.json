@@ -1,0 +1,75 @@
+{
+ "nome": "D.A.M. DI BOCCANERA GIOVANNI & C. S.A.S.",
+ "cf": "00084030683",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5A521C985",
+   "data": "2025-02-17",
+   "oggetto": "PROG. SAI CAT. MSNA – RICARICA FUEL CARD PREPAGATA N. LC000004233",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "D.A.M. DI BOCCANERA GIOVANNI & C. S.A.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2000.0,
+   "aggiudicato": 2000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B553C173A3",
+   "data": "2025-01-24",
+   "oggetto": "PROG. SAI CAT. MSNA– RICARICA SMART CARD N. 244772 PER AUTOMEZZO AZIENDALE (TARGA GH578NS)",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "D.A.M. DI BOCCANERA GIOVANNI & C. S.A.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1000.0,
+   "aggiudicato": 1000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B1FEF3AAB2",
+   "data": "2024-06-06",
+   "oggetto": "PROG. SAI CAT. MSNA – RICARICA FUEL CARD PREPAGATA N. LC000004233",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "D.A.M. DI BOCCANERA GIOVANNI & C. S.A.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2000.0,
+   "aggiudicato": 2000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

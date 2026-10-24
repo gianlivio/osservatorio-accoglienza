@@ -1,0 +1,91 @@
+{
+ "nome": "PARROCCHIA S. GIOVANNI EVANGELISTA",
+ "cf": "80012050177",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7720004CD3",
+   "data": "2017-11-21",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "PARROCCHIA S. GIOVANNI EVANGELISTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40000.0,
+   "aggiudicato": 40000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "73726528E4",
+   "data": "2017-11-21",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "PARROCCHIA S. GIOVANNI EVANGELISTA",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "77855051F9",
+   "data": "2017-02-01",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "PARROCCHIA S. GIOVANNI EVANGELISTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 80000.0,
+   "aggiudicato": 80000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "6596191502",
+   "data": "2016-02-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "PARROCCHIA S. GIOVANNI EVANGELISTA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 140544.0,
+   "aggiudicato": 140574.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "nome": "COMBINAZIONE",
+ "cf": "90035090126",
+ "affidamenti": 11,
+ "diretti": 9,
+ "quota_diretti": 81.8,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2021": {
+   "affidamenti": 6,
+   "diretti": 5,
+   "quota_diretti": 83.3
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 11
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B412BD2E32",
+   "data": "2024-10-30",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORA-NEA, COSTITUITI DA SINGOLE UNITÀ ABITATIVE, DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE IN-",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 208864.2,
+   "aggiudicato": 208864.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "952872589E",
+   "data": "2021-12-01",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORANEA, COSTITUITI DA SINGOLE UNITÀ ABITATIVE, DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTE",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 134026.2,
+   "aggiudicato": 134026.2,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "9078894C54",
+   "data": "2021-12-01",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORANEA, COSTITUITI DA SINGOLE UNITÀ ABITATIVE, DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTE",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125748.0,
+   "aggiudicato": 125748.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "A05CAEBEEB",
+   "data": "2021-11-17",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI. PROROGA CONVENZIONE GIÀ PROROGATA FINO AL 31/05/2024. CO",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 38341.6,
+   "aggiudicato": 38341.6,
+   "durata_gg": 122.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "A055EE3879",
+   "data": "2021-11-17",
+   "oggetto": "PROROGA CONVENZIONE PROT. N. 23315 BIS/21/A.G. DEL 12/12/2022 CIG DERIVATO: 952872589E PER L'AFFIDAMENTO DEL SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTE",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20694.3,
+   "aggiudicato": 20694.3,
+   "durata_gg": 61.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "87814276CD",
+   "data": "2021-06-04",
+   "oggetto": "PROROGA CONVENZIONE PROT. N. 5861 BIS/C/19/A.G. DEL 4/06/2020 CIG DERIVATO: 83250608D6 PER L'AFFIDAMENTO DEL SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTE",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40772.51,
+   "aggiudicato": 40772.51,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "876723465E",
+   "data": "2021-05-24",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORANEA, COSTITUITI DA SINGOL",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 42801444.0,
+   "aggiudicato": 42801444.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "83250608D6",
+   "data": "2019-06-19",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEL SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 1/06/2020",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101430.97,
+   "aggiudicato": 101430.97,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "820017567A",
+   "data": "2019-02-26",
+   "oggetto": "DEL SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 1/06/2019- 31/05/2020.",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101430.97,
+   "aggiudicato": 101430.97,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "7811018FF3",
+   "data": "2019-02-25",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO BIENNALE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA TEMPORANEA, COSTITUITI DA SINGOL",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 28089900.0,
+   "aggiudicato": 6756864.97,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "7828424BD7",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/1/2019 - 31/5/2019.",
+   "amministrazione": "PREFETTURA",
+   "ente": "COMBINAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68508.7,
+   "aggiudicato": 68508.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  }
+ ]
+}

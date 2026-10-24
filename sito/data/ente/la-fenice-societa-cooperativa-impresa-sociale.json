@@ -1,0 +1,70 @@
+{
+ "nome": "LA FENICE SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+ "cf": "02719530418",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9603879BA8",
+   "data": "2023-01-20",
+   "oggetto": "INTERVENTI DI TUTELA E PROTEZIONE DI MINORI STRANIERI NON ACCOMPAGNATI O ALLONTANATI DALLA FAMIGLIA E DI DONNE ANCHE CON PROLE CON ACCOGLIENZA PRESSO STRUTTURE RESIDENZIALI AUTORIZ",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 145370.0,
+   "aggiudicato": 145370.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9117691CA0",
+   "data": "2022-03-03",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 41470.0,
+   "aggiudicato": 41470.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9088353A25",
+   "data": "2022-02-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 51500.0,
+   "aggiudicato": 51500.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

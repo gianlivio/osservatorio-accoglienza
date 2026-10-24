@@ -1,0 +1,38 @@
+{
+ "nome": "IL DONO DELLA VITA",
+ "cf": "06210570658",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2BB972136",
+   "data": "2024-08-07",
+   "oggetto": "COMUNITÀ ALLOGGIO PER MSNA IL DONO DELLA VITA",
+   "amministrazione": "COMUNE DI SALERNO",
+   "ente": "IL DONO DELLA VITA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40000.0,
+   "aggiudicato": 40000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

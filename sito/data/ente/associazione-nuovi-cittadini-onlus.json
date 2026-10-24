@@ -1,0 +1,176 @@
+{
+ "nome": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+ "cf": "94089900305",
+ "affidamenti": 9,
+ "diretti": 6,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7114143884",
+   "data": "2017-06-19",
+   "oggetto": "INDIVIDUAZIONE DI SOGGETTO PER L'ATTUAZIONE DEL PROGETTO CODROIPOLI ADERENTE ALLLO SPRAR",
+   "amministrazione": "CONVENZIONE FRA I COMUNI DI BERTIOLO, CAMINO AL TAGLIAMENTO, CODROIPO, VARMO",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 614268.75,
+   "aggiudicato": 614268.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "6919052655",
+   "data": "2016-11-24",
+   "oggetto": "GESTIONE SERVIZIO SPRAR PER L'ACCOGLIENZA DI RICHIEDENTI ASILO E/O RIFUGIATI - CATEGORIA VULNERABILI - TRIENNIO 2017 - 2019.",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 431703.75,
+   "aggiudicato": 431703.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "69160698AE",
+   "data": "2016-11-24",
+   "oggetto": "GESTIONE DEL SERVIZIO SPRAR PER L'ACCOGLIENZA DI RICHIEDENTI ASILO E/O RIFUGIATI - CATEGORIA ORDINARI - TRIENNIO 2017-2019",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1810035.0,
+   "aggiudicato": 1810035.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "6908161ACA",
+   "data": "2016-11-07",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA A FAVORE DI RICHIEDENTI ASILO",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1366560.0,
+   "aggiudicato": 1366560.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "6527357166",
+   "data": "2015-12-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1405440.0,
+   "aggiudicato": 1405440.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "655717934A",
+   "data": "2015-03-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI ASILO - SISTEMA AURA - DICEMBRE 2015",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74400.0,
+   "aggiudicato": 74400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "654256469B",
+   "data": "2015-03-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI ASILO - SISTEMA AURA - PERIODO NOVEMBRE 2015",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66272.0,
+   "aggiudicato": 66272.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "6487020A3E",
+   "data": "2015-03-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI ASILO - SISTEMA AURA - PERIODO OTTOBRE 2015",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62560.0,
+   "aggiudicato": 62560.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "64542431D1",
+   "data": "2015-03-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI ASILO - SISTEMA AURA - PERIODO SETTEMBRE 2015.",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE NUOVI CITTADINI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 53952.0,
+   "aggiudicato": 53952.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

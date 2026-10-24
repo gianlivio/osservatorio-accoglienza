@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI COMITATO TERRITORIALE PRATO - APS",
+ "cf": "92006280488",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PRATO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "644668331B",
+   "data": "2015-10-26",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA PROFUGHI CASA CANTONIERA VAIANO DELLA REGIONE TOSCANA",
+   "amministrazione": "PREFETTURA DI PRATO",
+   "ente": "ARCI COMITATO TERRITORIALE PRATO - APS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 50000.0,
+   "aggiudicato": 50.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PRATO"
+  }
+ ]
+}

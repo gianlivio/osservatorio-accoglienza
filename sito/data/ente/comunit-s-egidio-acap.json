@@ -1,0 +1,33 @@
+{
+ "nome": "COMUNIT?? S EGIDIO ACAP",
+ "cf": "02132561008",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "65155165E4",
+   "data": "2015-12-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA IMMIGRATI SISTEMA SPRAR AGGIUNTIVI 16 APRI/ 31 DIC. 2015 CENTRO ZURLA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COMUNIT?? S EGIDIO ACAP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 182000.0,
+   "aggiudicato": 182000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "nome": "PROVINCIA ITALIANA DELLA CONGREGAZIONE DEI SERVI DELLA CARITA' - OPERA DON GUANELLA",
+ "cf": "02595400587",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "LECCO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "99887923EC",
+   "data": "2023-08-02",
+   "oggetto": "ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITA' EDUCATIVA RESIDENZIALE PER MINORI 'CASA SAMUEL' - OPERA DON GUANELLA - PROVINCIA ITALIANA CONGREGAZIONE SERVI DELL",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "PROVINCIA ITALIANA DELLA CONGREGAZIONE DEI SERVI DELLA CARITA' - OPERA DON GUANELLA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45000.0,
+   "aggiudicato": 45000.0,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  },
+  {
+   "cig": "9646028A1D",
+   "data": "2023-02-14",
+   "oggetto": "ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITA' EDUCATIVA RESIDENZIALE PER MINORI 'CASA SAMUEL' - OPERA DON GUANELLA - PROVINCIA ITALIANA CONGREGAZIONE SERVI DELL",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "PROVINCIA ITALIANA DELLA CONGREGAZIONE DEI SERVI DELLA CARITA' - OPERA DON GUANELLA",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 54000.0,
+   "aggiudicato": 54000.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  },
+  {
+   "cig": "96325496E5",
+   "data": "2023-02-08",
+   "oggetto": "INSERIMENTO MINORI STRANIERI NON ACCOMPAGNATI PRESSO STRUTTURE ' CASA DON GUANELLA' - ANNO 2023",
+   "amministrazione": "COMUNE DI SONDRIO",
+   "ente": "PROVINCIA ITALIANA DELLA CONGREGAZIONE DEI SERVI DELLA CARITA' - OPERA DON GUANELLA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135000.0,
+   "aggiudicato": 135000.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "91718344DA",
+   "data": "2022-04-12",
+   "oggetto": "ACCOGLIENZA DI MINORI E MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITA' EDUCATIVA RESIDENZIALE PER MINORI 'CASA SAMUEL' - OPERA DON GUANELLA - PROVINCIA ITALIANA CONGREGAZIONE S",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "PROVINCIA ITALIANA DELLA CONGREGAZIONE DEI SERVI DELLA CARITA' - OPERA DON GUANELLA",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 42000.0,
+   "aggiudicato": 42000.0,
+   "durata_gg": 91.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "nome": "S.C.A.T.A. - SOCIETA' COOPERATIVA ASSISTENZA TUTELARE ALESSANDRIN A - SOCIETA' COOPERATIVA SOCIALE - ONLUS  SIGLABILE S.C.A.T.A. - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00160240065",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "83730592DF",
+   "data": "2020-07-01",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - S.C.A.T.A. S.C.S.",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.C.A.T.A. - SOCIETA' COOPERATIVA ASSISTENZA TUTELARE ALESSANDRIN A - SOCIETA' COOPERATIVA SOCIALE - ONLUS  SIGLABILE S.C.A.T.A. - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 435859.0,
+   "aggiudicato": 435859.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "837303925E",
+   "data": "2020-07-01",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - COOP. SOC. QUADRIFOGLIO",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.C.A.T.A. - SOCIETA' COOPERATIVA ASSISTENZA TUTELARE ALESSANDRIN A - SOCIETA' COOPERATIVA SOCIALE - ONLUS  SIGLABILE S.C.A.T.A. - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 411056.0,
+   "aggiudicato": 411056.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8373029A1B",
+   "data": "2020-07-01",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO DI SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - VERSOPROBO S.C.S.",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.C.A.T.A. - SOCIETA' COOPERATIVA ASSISTENZA TUTELARE ALESSANDRIN A - SOCIETA' COOPERATIVA SOCIALE - ONLUS  SIGLABILE S.C.A.T.A. - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1720774.0,
+   "aggiudicato": 1720774.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "837299915C",
+   "data": "2020-07-01",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO DI SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - COOP. SOC. VILLA TICINUM",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.C.A.T.A. - SOCIETA' COOPERATIVA ASSISTENZA TUTELARE ALESSANDRIN A - SOCIETA' COOPERATIVA SOCIALE - ONLUS  SIGLABILE S.C.A.T.A. - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 679245.0,
+   "aggiudicato": 679245.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7980790440",
+   "data": "2019-06-24",
+   "oggetto": "CONVENZIONE PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI (PRESSO CENTRI COLLETTIVI) - S.C.A.T.A. S.C.S.",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.C.A.T.A. - SOCIETA' COOPERATIVA ASSISTENZA TUTELARE ALESSANDRIN A - SOCIETA' COOPERATIVA SOCIALE - ONLUS  SIGLABILE S.C.A.T.A. - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 435859.0,
+   "aggiudicato": 435859.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

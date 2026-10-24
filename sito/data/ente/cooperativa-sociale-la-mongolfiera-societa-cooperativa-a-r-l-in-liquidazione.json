@@ -1,0 +1,54 @@
+{
+ "nome": "COOPERATIVA SOCIALE LA MONGOLFIERA SOCIETA' COOPERATIVA A R.L. - IN LIQUIDAZIONE",
+ "cf": "01799160401",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6783351653",
+   "data": "2016-08-25",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA CITTADINI STRANIERI TERRITORIO UNIONE RUBICONE MARE",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "COOPERATIVA SOCIALE LA MONGOLFIERA SOCIETA' COOPERATIVA A R.L. - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 296928.8,
+   "aggiudicato": 296056.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "6721991A72",
+   "data": "2016-06-13",
+   "oggetto": "GESTIONE SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SU TERRITORIO UNIONE RUBICONE E MARE",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "COOPERATIVA SOCIALE LA MONGOLFIERA SOCIETA' COOPERATIVA A R.L. - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 530169.3,
+   "aggiudicato": 159003.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

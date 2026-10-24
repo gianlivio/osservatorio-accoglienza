@@ -1,0 +1,86 @@
+{
+ "nome": "COOPERATIVA SOCIALE SAN MARTINO",
+ "cf": "07539061213",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "85827548A7",
+   "data": "2020-12-18",
+   "oggetto": "PROROGA AFFIDAMENTO RICHIEDENTI ASILO GESTORE SOC. COOP. S. MARTINO - DALL",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA SOCIALE SAN MARTINO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 430128.4,
+   "aggiudicato": 430128.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "836360050E",
+   "data": "2020-07-01",
+   "oggetto": "PROROGA AFFIDAMENTO RICHIEDENTI ASILO GESTORE SOC. COOP. S. MARTINO - GIUGLIANO IN CAMPANIA (NA) - DALL'1.7. AL 31.12.2020",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA SOCIALE SAN MARTINO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 437257.6,
+   "aggiudicato": 437257.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8156125744",
+   "data": "2019-12-23",
+   "oggetto": "PROROGA AFFIDAMENTO RICHIEDENTI ASILO GESTORE SAN MARTINO SOC. COOP. - GIUGLIANO IN CAMPANIA (NA) - DALL",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA SOCIALE SAN MARTINO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 432504.8,
+   "aggiudicato": 432504.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7952823D24",
+   "data": "2019-07-01",
+   "oggetto": "PROROGA AFFIDAMENTO ACCOLGIENZA RICHIEDENTI ASILO GESTORE COOP. SAN MARTINO PERIODO 01.07 -31.12.2019",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "COOPERATIVA SOCIALE SAN MARTINO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 437257.6,
+   "aggiudicato": 437257.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

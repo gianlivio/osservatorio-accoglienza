@@ -1,0 +1,59 @@
+{
+ "nome": "CONCORDIA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03278120989",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7254651763",
+   "data": "2017-10-30",
+   "oggetto": "ATTIVITA' DI ACCOGLIENZA, TUTELA E INTEGRAZIONE A FAVORE DI RICHIEDENTI E BENEFICIARI DI PROTEZIONE INTERNAZIONALE, DI TITOLARI DI PERMESSO UMANITARIO- PROGETTO SPRAR TRIENNIO 2018",
+   "amministrazione": "COMUNE DI PALAZZOLO SULL OGLIO",
+   "ente": "CONCORDIA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3897678.05,
+   "aggiudicato": 1823107.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "6695900F77",
+   "data": "2016-06-14",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "COMUNE DI PALAZZOLO SULL OGLIO",
+   "ente": "CONCORDIA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 304766.56,
+   "aggiudicato": 304736.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "STUDIO SCARANO - STUDIO CONSULENZA AZIENDALE - REVISIONE CONTABILE",
+ "cf": "01355030808",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B791B26D25",
+   "data": "2025-07-09",
+   "oggetto": "INCARICO DI REVISORE DEI CONTI INDIPENDENTE PER IL PROGETTO SAI DI BRANCALEONE PER IL TRIENNIO 2024/2026, CATEGORIA ORDINARI PROG-131.",
+   "amministrazione": "COMUNE DI BRANCALEONE",
+   "ente": "STUDIO SCARANO - STUDIO CONSULENZA AZIENDALE - REVISIONE CONTABILE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9836.06,
+   "aggiudicato": 9836.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

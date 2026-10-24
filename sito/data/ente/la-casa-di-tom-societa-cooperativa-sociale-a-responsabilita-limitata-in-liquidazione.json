@@ -1,0 +1,38 @@
+{
+ "nome": "LA CASA DI TOM - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA IN LIQUIDAZIONE",
+ "cf": "02341170609",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6927650D9E",
+   "data": "2017-04-28",
+   "oggetto": "AFFIDAMENTO GESTIONE SERVIZIO DI ACCOGLOIENZA, INETGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO, RIFUGIATI ED UMANITARI - PROGETTO TERRITORIALE ADERENTE AL SISTEMA SPRAR - TRIENN",
+   "amministrazione": "XIV COMUNITA MONTANA VALLE DI COMINO",
+   "ente": "LA CASA DI TOM - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1484277.15,
+   "aggiudicato": 1245999.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

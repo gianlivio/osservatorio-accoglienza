@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE SVOLTARE",
+ "cf": "92183950341",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "75628461F4",
+   "data": "2018-07-06",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROT. NT. PERIODO 01.07.2018 - 31.12.2019 SVOLTARE ONLUS",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "ASSOCIAZIONE SVOLTARE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10592680.5,
+   "aggiudicato": 6728673.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PARMA"
+  }
+ ]
+}

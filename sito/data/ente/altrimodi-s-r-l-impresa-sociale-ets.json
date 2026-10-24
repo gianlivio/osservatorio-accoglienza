@@ -1,0 +1,75 @@
+{
+ "nome": "ALTRIMODI S.R.L. IMPRESA SOCIALE ETS",
+ "cf": "11782750019",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8990953122",
+   "data": "2022-01-28",
+   "oggetto": "ACCOGLIENZA TEMPORANEA E ACCOMPAGNAMENTO SOCIALE PER 350 PERSONE",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ALTRIMODI S.R.L. IMPRESA SOCIALE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 19681200.0,
+   "aggiudicato": 11160104.18,
+   "durata_gg": 1461.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7560680682",
+   "data": "2018-06-05",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PER RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "ALTRIMODI S.R.L. IMPRESA SOCIALE ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 175674.0,
+   "aggiudicato": 175674.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7352047D1A",
+   "data": "2018-01-15",
+   "oggetto": "GESTIONE CENTRO ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "ALTRIMODI S.R.L. IMPRESA SOCIALE ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 300300.0,
+   "aggiudicato": 300300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

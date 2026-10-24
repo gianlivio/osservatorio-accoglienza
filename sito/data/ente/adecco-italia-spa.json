@@ -1,0 +1,63 @@
+{
+ "nome": "ADECCO ITALIA SPA",
+ "cf": "13366030156",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7E6F3CB0E",
+   "data": "2025-08-06",
+   "oggetto": "SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONI LAVORATIVE A TEMPO DETERMINATO PER UN CONTINGENTE DI N. 4 UNITÀ DI PERSONALE APPARTENENTI ALL'AREA DEI FUNZIONARI DA IMPIEGARE PER LE EV",
+   "amministrazione": "PREFETTURA DI AGRIGENTO",
+   "ente": "ADECCO ITALIA SPA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33292.8,
+   "aggiudicato": 33292.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "B4042AA61C",
+   "data": "2024-10-29",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 COMMA 1 LETTERA B DEL DLG 36/23, ALL'AGENZIA DEL LAVORO ADECCO ITALIA SPA DEL SEGUENTE SERVIZIO: CONTRIBUTO ANNUALE IN RAGIONE DEGLI/LE A",
+   "amministrazione": "COMUNE DI RAGUSA",
+   "ente": "ADECCO ITALIA SPA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139776.0,
+   "aggiudicato": 139776.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

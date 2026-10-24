@@ -1,0 +1,38 @@
+{
+ "nome": "PARROCCHIA DI SAN LORENZO A MONTEVARCHI",
+ "cf": "90002890516",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6340859261",
+   "data": "2015-06-30",
+   "oggetto": "CONVENZIONE URGENTE PER ACCOGLIENZA IMMIGRATI PARROCCHIA MONTEVARCHI",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "PARROCCHIA DI SAN LORENZO A MONTEVARCHI",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 52560.0,
+   "aggiudicato": 52560.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

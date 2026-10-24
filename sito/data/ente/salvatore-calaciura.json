@@ -1,0 +1,38 @@
+{
+ "nome": "SALVATORE CALACIURA",
+ "cf": "05742660870",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B05645687D",
+   "data": "2024-02-12",
+   "oggetto": "SERVIZIO DI REVISIONE CONTABILE NELL'AMBITO DEL PROGETTO SAI COMUNE DI FOLIGNO",
+   "amministrazione": "COMUNE DI FOLIGNO",
+   "ente": "SALVATORE CALACIURA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12295.08,
+   "aggiudicato": 12295.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

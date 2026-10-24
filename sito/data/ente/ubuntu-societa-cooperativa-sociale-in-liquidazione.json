@@ -1,0 +1,63 @@
+{
+ "nome": "UBUNTU SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "03666600139",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VARESE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7003813154",
+   "data": "2017-03-06",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 2017",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "UBUNTU SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 16897440.0,
+   "aggiudicato": 11942587.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "6968265A2E",
+   "data": "2016-11-07",
+   "oggetto": "SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 01/01/2017 -30/04/2017.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "UBUNTU SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 244080.0,
+   "aggiudicato": 244080.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}

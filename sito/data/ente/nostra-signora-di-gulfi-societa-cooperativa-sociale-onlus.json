@@ -1,0 +1,38 @@
+{
+ "nome": "NOSTRA SIGNORA DI GULFI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "01416100889",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B670B81FC9",
+   "data": "2025-04-11",
+   "oggetto": "AFFIDAMENTO IN PROSECUZIONE NEL TRIENNIO 2025/2027 (DAL 01/07/2025 AL 31/12/2027) DEL PROGETTO SAI PROG - 1494 – PR – 2 CATEGORIA MSNA – PER IL COMUNE DI CHIARAMONTE GULFI.",
+   "amministrazione": "S.R.R. SOCIETA' PER LA REGOLAMENTAZIONE DEL SERVIZIO DI GESTIONER IFIUTI A.T.O. 7 - RAGUSA SOCIETA' CONSORTILE PER AZIONI",
+   "ente": "NOSTRA SIGNORA DI GULFI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1624441.6,
+   "aggiudicato": 1624441.61,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

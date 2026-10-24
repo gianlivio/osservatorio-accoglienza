@@ -1,0 +1,107 @@
+{
+ "nome": "LAVORIAMO INSIEME S.R.L.",
+ "cf": "08153770725",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0185295F8",
+   "data": "2023-10-02",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'11 DEL D.LGS. 142/2015 UBICATI NEL TERRITOR",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "LAVORIAMO INSIEME S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1282610.0,
+   "aggiudicato": 1282610.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "99885468E9",
+   "data": "2023-03-13",
+   "oggetto": "CAS - I TRE MONELLI - AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DA SVOLGERSI PRESSO IDONEE STRUTTURE DA ADIB",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "LAVORIAMO INSIEME S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 481978.2,
+   "aggiudicato": 284663.5,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "938648761C",
+   "data": "2022-09-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DA SVOLGERSI PRESSO IDONEE STRUTTURE DA ADIBIRE A CENTRI DI CUI ALL'ART. 11 DEL D.",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "LAVORIAMO INSIEME S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 968272.0,
+   "aggiudicato": 968272.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "93032959E5",
+   "data": "2022-06-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DA SVOLGERSI PRESSO IDONEE STRUTTURE DA ADIBIRE A CENTRI DI CUI ALL'ART. 11 DEL D.",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "LAVORIAMO INSIEME S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 266274.8,
+   "aggiudicato": 266274.8,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "9156830728",
+   "data": "2022-03-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART.11 D.LGS. 142/2015 UBICATI NEL TERRITORIO DELLA CIT",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "LAVORIAMO INSIEME S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 305413.75,
+   "aggiudicato": 305413.75,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

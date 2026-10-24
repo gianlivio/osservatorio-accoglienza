@@ -1,0 +1,59 @@
+{
+ "nome": "ABRUZZO RENT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "12850381000",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERAMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B81E3106B8",
+   "data": "2025-09-04",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIER",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "ABRUZZO RENT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 58802184.0,
+   "aggiudicato": 32700000.0,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  },
+  {
+   "cig": "98014940BA",
+   "data": "2023-05-04",
+   "oggetto": "SERVIZI DI ACCOGLIENZA DI CITTADINI EXTRACOMUNITARI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE CAS 300",
+   "amministrazione": "PREFETTURA DI TERAMO",
+   "ente": "ABRUZZO RENT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6969707.6,
+   "aggiudicato": 6969707.6,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TERAMO"
+  }
+ ]
+}

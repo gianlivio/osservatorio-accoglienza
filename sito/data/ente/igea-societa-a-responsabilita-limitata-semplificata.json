@@ -1,0 +1,123 @@
+{
+ "nome": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "01266570959",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ORISTANO",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B98D725F5C",
+   "data": "2025-12-11",
+   "oggetto": "SERVIZIO DI GESTIONE DEI CENTRI DI ACCOGLIENZA STRAORDINARIA (CAS) DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, CON CAPIENZA DA 101 A 300 POSTI IN PROVINCIA DI ORI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 440437.5,
+   "aggiudicato": 749259.62,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B869826E9D",
+   "data": "2025-09-26",
+   "oggetto": "ACCOGLIENZA STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 570285.0,
+   "aggiudicato": 564582.15,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B8518A760D",
+   "data": "2025-09-19",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 406170.8,
+   "aggiudicato": 396000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B5CCA1C482",
+   "data": "2025-02-26",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI PRESSO STRUTTURE RICETTIVE TEMPORANEE (CENTRI COLLETT",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 606893.0,
+   "aggiudicato": 606893.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B59E295080",
+   "data": "2025-02-13",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN CAS DA 51 A 100 POSTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 606893.0,
+   "aggiudicato": 606893.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B48AD31EFC",
+   "data": "2024-12-02",
+   "oggetto": "FORNITURA DI BENI E SERVIZI PER LA GESTIONE E IL FUNZIONAMENTO DEL CAS DA 51 A 100 POSTI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA",
+   "ente": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 700000.0,
+   "aggiudicato": 700000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "FONDAZIONE ISTITUTO SACRA FAMIGLIA ONLUS",
+ "cf": "00795470152",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7635763EF3",
+   "data": "2018-09-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI - 01.09.2018 - 31.08.2019 - ENTE GESTORE TRE FONTANE LOTTO 2",
+   "amministrazione": "PREFETTURA UTG DI LECCO",
+   "ente": "FONDAZIONE ISTITUTO SACRA FAMIGLIA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 485000.0,
+   "aggiudicato": 485000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "7618017A7E",
+   "data": "2018-09-18",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI PERIODO 01.09.2018 -31.08.2019 - ENTE SACRA FAMIGLIA",
+   "amministrazione": "PREFETTURA UTG DI LECCO",
+   "ente": "FONDAZIONE ISTITUTO SACRA FAMIGLIA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 91717.0,
+   "aggiudicato": 91717.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LECCO"
+  }
+ ]
+}

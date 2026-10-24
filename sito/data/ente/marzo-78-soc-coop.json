@@ -1,0 +1,38 @@
+{
+ "nome": "MARZO 78 SOC. COOP.",
+ "cf": "00978180800",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7539012D80",
+   "data": "2018-06-13",
+   "oggetto": "GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA PER I RICHIEDENTI-TITOLARI DI PROTEZIONE INTERNAZIONALE E PER I TITOLARI DI PERMESSO UMANITARIO - PROSECUZIONE DEL PROGET",
+   "amministrazione": "COMUNE CARDETO",
+   "ente": "MARZO 78 SOC. COOP.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 659016.39,
+   "aggiudicato": 659016.39,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

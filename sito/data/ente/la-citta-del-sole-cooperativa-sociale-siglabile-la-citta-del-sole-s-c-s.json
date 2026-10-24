@@ -1,0 +1,38 @@
+{
+ "nome": "LA CITTA' DEL SOLE - COOPERATIVA SOCIALE SIGLABILE LA CITTA' DEL SOLE - S.C.S.",
+ "cf": "07199720017",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9148062394",
+   "data": "2022-03-18",
+   "oggetto": "PROCEDURA DI ACQUISTO SERVIZIO OSPITALITÀ PROFUGHI UCRAINI C/O STRUTTURA TEMPORANEA ABBAZIA SANTA FEDE IN CAVAGNOLO (TO)",
+   "amministrazione": "REGIONE PIEMONTE",
+   "ente": "LA CITTA' DEL SOLE - COOPERATIVA SOCIALE SIGLABILE LA CITTA' DEL SOLE - S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139500.0,
+   "aggiudicato": 108500.0,
+   "durata_gg": 31.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

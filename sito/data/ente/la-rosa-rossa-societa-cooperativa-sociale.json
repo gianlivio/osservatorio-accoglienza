@@ -1,0 +1,86 @@
+{
+ "nome": "LA ROSA ROSSA - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02173880598",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7779486AED",
+   "data": "2018-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01.02.2019/31.12.2019 - ALTERNATA SILOS",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "LA ROSA ROSSA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 162724.8,
+   "aggiudicato": 162724.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "7779453FB0",
+   "data": "2018-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01.02.2019 - 31.12.2019 - SOC. COOP. IL QUADRIFOGLIO",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "LA ROSA ROSSA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3495310.0,
+   "aggiudicato": 3495310.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "777932346C",
+   "data": "2018-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01.02.2019 - 31.12.2019 - CONSORZIO AID",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "LA ROSA ROSSA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 887104.0,
+   "aggiudicato": 887104.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "75646545F5",
+   "data": "2018-06-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "LA ROSA ROSSA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 91080.0,
+   "aggiudicato": 91080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

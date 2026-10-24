@@ -1,0 +1,122 @@
+{
+ "nome": "SICHEM CROCEVIA DEI POPOLI ONLUS",
+ "cf": "92033410512",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B33CBF8A91",
+   "data": "2024-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "SICHEM CROCEVIA DEI POPOLI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1460589.57,
+   "aggiudicato": 1460589.57,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "A01E5E8C56",
+   "data": "2023-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI SECONDO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2023 AL 31 OTTOBRE 2024 (SICHEM CROCEVIA DEI POPOLI ONLUS)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "SICHEM CROCEVIA DEI POPOLI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 482558.63,
+   "aggiudicato": 482558.63,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9418265625",
+   "data": "2022-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRIMO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2022 AL 31 OTTOBRE 2023 (ASSOCIAZIONE SICHEM)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "SICHEM CROCEVIA DEI POPOLI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 398582.19,
+   "aggiudicato": 398582.19,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "845234039F",
+   "data": "2020-10-23",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) ASSOCIAZIONE SICHEM",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "SICHEM CROCEVIA DEI POPOLI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 238606.34,
+   "aggiudicato": 238606.34,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6315617405",
+   "data": "2015-06-23",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI SICHEM LUGLIO DICEMBRE 2015",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "SICHEM CROCEVIA DEI POPOLI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 179289.6,
+   "aggiudicato": 179289.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

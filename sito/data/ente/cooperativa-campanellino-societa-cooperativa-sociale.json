@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA CAMPANELLINO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "05853080652",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B598E0EF6A",
+   "data": "2025-02-12",
+   "oggetto": "COLLOCAMENTO MSNA Y.K.",
+   "amministrazione": "COMUNE CAIVANO",
+   "ente": "COOPERATIVA CAMPANELLINO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9090.0,
+   "aggiudicato": 9090.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

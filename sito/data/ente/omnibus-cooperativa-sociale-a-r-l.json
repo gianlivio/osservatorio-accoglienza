@@ -1,0 +1,38 @@
+{
+ "nome": "OMNIBUS COOPERATIVA SOCIALE A R.L.",
+ "cf": "02599790181",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "636730959B",
+   "data": "2015-08-17",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI - AFF. IN URGENZA - PERIODO DAL 12 AGOSTO AL 30 SETTEMBRE 2015 - OMNIBUS COOP SOCIALE A R.L.",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "OMNIBUS COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 54000.0,
+   "aggiudicato": 54000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

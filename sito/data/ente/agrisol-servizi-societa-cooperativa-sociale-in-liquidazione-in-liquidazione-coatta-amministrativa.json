@@ -1,0 +1,123 @@
+{
+ "nome": "AGRISOL SERVIZI SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE - IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+ "cf": "03474410127",
+ "affidamenti": 6,
+ "diretti": 5,
+ "quota_diretti": 83.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "852623360D",
+   "data": "2018-06-07",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/11/2020 - 28/02/2021.",
+   "amministrazione": "PREFETTURA",
+   "ente": "AGRISOL SERVIZI SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE - IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 820800.0,
+   "aggiudicato": 820800.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "8652809BDD",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONI MIGRANTI. PERIODO 1/3/2021 - 31/5/2021.",
+   "amministrazione": "PREFETTURA",
+   "ente": "AGRISOL SERVIZI SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE - IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 820800.0,
+   "aggiudicato": 820800.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "8378774F06",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/8/2020 - 31/10/2020.",
+   "amministrazione": "PREFETTURA",
+   "ente": "AGRISOL SERVIZI SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE - IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 640320.0,
+   "aggiudicato": 640320.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "8097197259",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/11/2019 - 30/04/2020.",
+   "amministrazione": "PREFETTURA",
+   "ente": "AGRISOL SERVIZI SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE - IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1266720.0,
+   "aggiudicato": 1266720.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "7980526A62",
+   "data": "2018-06-04",
+   "oggetto": "PROROGA CONVENZIONE MIGRANTI. PERIODO 1/6/2019 - 31/10/2019.",
+   "amministrazione": "PREFETTURA",
+   "ente": "AGRISOL SERVIZI SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE - IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1101600.0,
+   "aggiudicato": 1101600.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6406514698",
+   "data": "2015-09-24",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DI VARESE E PROVINCIA. DELLA GESTIONE DEI SERVIZI CONNESSI E LA MES",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "AGRISOL SERVIZI SOCIETA' COOPERATIVA SOCIALE - IN LIQUIDAZIONE - IN LIQUIDAZIONE COATTA AMMINISTRATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 109917.0,
+   "aggiudicato": 109917.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}

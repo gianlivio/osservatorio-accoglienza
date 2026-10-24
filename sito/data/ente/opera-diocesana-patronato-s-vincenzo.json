@@ -1,0 +1,59 @@
+{
+ "nome": "OPERA DIOCESANA PATRONATO S. VINCENZO",
+ "cf": "01332770161",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "66003637D9",
+   "data": "2016-02-19",
+   "oggetto": "PROROGA TECNICA SERVIZIO ACCOHLIENZA MIGRANTI PATRONATO SV",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "OPERA DIOCESANA PATRONATO S. VINCENZO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 149500.0,
+   "aggiudicato": 149500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "6531600ED1",
+   "data": "2015-12-15",
+   "oggetto": "PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "OPERA DIOCESANA PATRONATO S. VINCENZO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 53000.0,
+   "aggiudicato": 53000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

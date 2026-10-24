@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE CULTURALE MULTIETNICA LA KASBAH ONLUS",
+ "cf": "98047230788",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2EBDB8E0C",
+   "data": "2024-09-05",
+   "oggetto": "COMUNE DI LAPPANO. SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI A STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL PROGETTO SAI PER N. 15 RICHIEDENTI PERIOD",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA CELICO, PEDACE, CASOLE BRUZIO",
+   "ente": "ASSOCIAZIONE CULTURALE MULTIETNICA LA KASBAH ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 528469.05,
+   "aggiudicato": 528469.05,
+   "durata_gg": 27.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

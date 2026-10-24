@@ -1,0 +1,79 @@
+{
+ "nome": "INSIEME SI PUO' - SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+ "cf": "04023010962",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2B8FD6AE4",
+   "data": "2024-08-07",
+   "oggetto": "SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "INSIEME SI PUO' - SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  },
+  {
+   "cig": "B277A9ACE3",
+   "data": "2024-07-15",
+   "oggetto": "ACCOGLIENZA MIGRANTI PRESSO CAS UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "INSIEME SI PUO' - SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 305532.0,
+   "aggiudicato": 305532.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "893849576A",
+   "data": "2021-10-15",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO AVENTE AD OGGETTO L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI ",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "INSIEME SI PUO' - SOCIETA' COOPERATIVA SOCIALE A R.L. ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8103560.0,
+   "aggiudicato": 762984.64,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

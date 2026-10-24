@@ -1,0 +1,38 @@
+{
+ "nome": "ERRE DUE S.R.L.",
+ "cf": "01976080695",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9873013C0F",
+   "data": "2023-06-09",
+   "oggetto": "LAVORI DI RISTRUTTURAZIONE DI LOCALI DA DESTINARE AD ACCOGLIENZA DI EMIGRANTI,PROFUGHI DI GUERRA E PER ATTIVITA' SOCIALI",
+   "amministrazione": "COMUNE DI CASALANGUIDA",
+   "ente": "ERRE DUE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 272338.26,
+   "aggiudicato": 247688.81,
+   "durata_gg": 240.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CHIETI"
+  }
+ ]
+}

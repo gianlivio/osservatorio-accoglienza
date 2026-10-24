@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE MURIALDO VITERBO ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "90028280569",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B191D1FC26",
+   "data": "2024-05-09",
+   "oggetto": "ACCOGLIENZA MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "ASSOCIAZIONE MURIALDO VITERBO ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6100.0,
+   "aggiudicato": 6100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  }
+ ]
+}

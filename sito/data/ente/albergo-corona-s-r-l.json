@@ -1,0 +1,107 @@
+{
+ "nome": "ALBERGO CORONA S.R.L.",
+ "cf": "02693200186",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7587176FB0",
+   "data": "2018-07-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI DAL 01/08/2018 AL 31/12/2018 MINERVA BERGAMO",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "ALBERGO CORONA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1203314.4,
+   "aggiudicato": 1203314.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "732518992F",
+   "data": "2018-02-21",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI ANNO 2018",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "ALBERGO CORONA S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 25872000.0,
+   "aggiudicato": 6576498.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "71425613CC",
+   "data": "2017-07-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 16/07/2017-31/12/2017 COOPERATIVA CASA DEL GIOVANE",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "ALBERGO CORONA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 231000.0,
+   "aggiudicato": 231000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "7142219990",
+   "data": "2017-07-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 16/07/2017-31/12/2017 DEAMON DI MONTANI AURELIO",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "ALBERGO CORONA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 284707.5,
+   "aggiudicato": 284707.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "714147646D",
+   "data": "2017-07-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 16 -7- 2017 - 31.12.2017 - MEGLIO SRLS",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "ALBERGO CORONA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 288750.0,
+   "aggiudicato": 288750.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

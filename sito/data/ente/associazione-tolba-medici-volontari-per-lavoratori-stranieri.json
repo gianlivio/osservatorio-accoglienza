@@ -1,0 +1,63 @@
+{
+ "nome": "ASSOCIAZIONE TOLBA' MEDICI VOLONTARI PER LAVORATORI STRANIERI",
+ "cf": "93009070777",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MATERA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7045879B47",
+   "data": "2017-04-12",
+   "oggetto": "PROGETTO SECONDA ACCOGLIENZA TUTELA ED INTEGRAZIONE MSNA RICHIEDENTI ASILO E NON",
+   "amministrazione": "COMUNE DI RIONERO IN VULTURE",
+   "ente": "ASSOCIAZIONE TOLBA' MEDICI VOLONTARI PER LAVORATORI STRANIERI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1388920.01,
+   "aggiudicato": 1388920.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7078327439",
+   "data": "2016-05-25",
+   "oggetto": "INCARICO SOGGETTO ATTUATORE PROGETTO S.P.R.A.R. ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI FAMI",
+   "amministrazione": "COMUNE DI NOVA SIRI",
+   "ente": "ASSOCIAZIONE TOLBA' MEDICI VOLONTARI PER LAVORATORI STRANIERI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 615410.0,
+   "aggiudicato": 615410.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MATERA"
+  }
+ ]
+}

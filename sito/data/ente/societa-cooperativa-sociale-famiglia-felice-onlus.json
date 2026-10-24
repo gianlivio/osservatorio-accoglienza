@@ -1,0 +1,70 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE FAMIGLIA FELICE ONLUS",
+ "cf": "03960090235",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7023197D7F",
+   "data": "2017-04-21",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE FAMIGLIA FELICE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 129600.0,
+   "aggiudicato": 129600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6995601890",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - FAMIGLIA FELICE",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE FAMIGLIA FELICE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 210600.0,
+   "aggiudicato": 210600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "695593397E",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - FAMIGLIA FELICE COOP. SOC.",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE FAMIGLIA FELICE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 338130.0,
+   "aggiudicato": 338130.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

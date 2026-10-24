@@ -1,0 +1,38 @@
+{
+ "nome": "F.LLI BIAGINI S.R.L.",
+ "cf": "00960900371",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B267E9EB34",
+   "data": "2024-07-11",
+   "oggetto": "FORNITURA ARREDI UFFICI",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "F.LLI BIAGINI S.R.L.",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 14800.0,
+   "aggiudicato": 14800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

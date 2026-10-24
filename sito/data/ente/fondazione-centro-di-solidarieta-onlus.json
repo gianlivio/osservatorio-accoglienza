@@ -1,0 +1,117 @@
+{
+ "nome": "FONDAZIONE CENTRO DI SOLIDARIETA' - ONLUS -",
+ "cf": "95080550106",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9189121E86",
+   "data": "2022-04-19",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA TEMPORANEA INTEGRATA DI MSNA 40 POSTI CEIS MAGGIO LUGLIO 2022",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "FONDAZIONE CENTRO DI SOLIDARIETA' - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 647100.0,
+   "aggiudicato": 302959.6,
+   "durata_gg": 100.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9083315CA7",
+   "data": "2022-02-03",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA DI MSNA - T.D. CEIS - PERIODO FEBBRAIO APRILE 2022",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "FONDAZIONE CENTRO DI SOLIDARIETA' - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 176220.0,
+   "aggiudicato": 146830.42,
+   "durata_gg": 89.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7886242CC3",
+   "data": "2019-04-29",
+   "oggetto": "SERVZI DI GESTIONE CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITA' ABITATIVE IN FAVORE DI CITTADINI STRANIERI. PERIODO 1.6.2019 - 31.5.2020",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "FONDAZIONE CENTRO DI SOLIDARIETA' - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 11688750.0,
+   "aggiudicato": 307635.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6651862A2A",
+   "data": "2016-05-26",
+   "oggetto": "PROGRAMMA NAZIONALE PER L'ACCOGLIENZA E L'ASSISTENZA A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE E UMANITARIA CATEGORIE VULNERABILI - PROSECUZIONE - ANNO 2016",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "FONDAZIONE CENTRO DI SOLIDARIETA' - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 392544.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "61796600C2",
+   "data": "2015-05-12",
+   "oggetto": "PROSECUZIONE DEL PROGRAMMA NAZIONALE PER L'ACCOGLIENZA E L'ASSISTENZA A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE E UMANITARIA - CATEGORIE VULNERABILI - GENNAIO",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "FONDAZIONE CENTRO DI SOLIDARIETA' - ONLUS -",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 188723.07,
+   "aggiudicato": 188723.07,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "CENTRO DI ACCOGLIENZA SANTA LUCIA - ENNA -",
+ "cf": "80000170862",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "614292995E",
+   "data": "2015-02-19",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE STRUTTURA CENTRO DI ACCOGLIENZA S LUCIA IPAB COMUNE DI ENNA FEBBRAIO - APRILE 2015 - PROR",
+   "amministrazione": "PREFETTURA DI ENNA",
+   "ente": "CENTRO DI ACCOGLIENZA SANTA LUCIA - ENNA -",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125000.0,
+   "aggiudicato": 125000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  }
+ ]
+}

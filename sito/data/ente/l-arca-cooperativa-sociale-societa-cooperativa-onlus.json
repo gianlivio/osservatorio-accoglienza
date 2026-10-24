@@ -1,0 +1,33 @@
+{
+ "nome": "L'ARCA COOPERATIVA SOCIALE - SOCIETA' COOPERATIVA ONLUS",
+ "cf": "02644790046",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "707507261C",
+   "data": "2017-06-30",
+   "oggetto": "SERVIZIO INTEGRATO DI POTENZIAMENTO DELLA RETE DI SPORTELLI PUBBLICI IMMIGRATI DELLA PROVINCIA DI CUNEO, MEDIAZIONE INTERCULTURALE E SUPPORTO AL SOGGETTO PROPONENTE PER LE ATTIVITA",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "L'ARCA COOPERATIVA SOCIALE - SOCIETA' COOPERATIVA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 135000.0,
+   "aggiudicato": 134900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

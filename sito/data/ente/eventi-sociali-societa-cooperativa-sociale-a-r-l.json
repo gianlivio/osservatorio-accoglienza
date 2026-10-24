@@ -1,0 +1,117 @@
+{
+ "nome": "EVENTI SOCIALI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "95077750636",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9A8EDDD6A",
+   "data": "2025-12-18",
+   "oggetto": "ACCOGLIENZA",
+   "amministrazione": "COMUNE DI CASORIA",
+   "ente": "EVENTI SOCIALI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7212765.34,
+   "aggiudicato": 7212765.34,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B06C25C1B5",
+   "data": "2024-02-19",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO, EX ART. 59 DEL CODICE DEGLI APPALTI (D.LGS. 36/2023), PER L'AFFIDAMENTO DEI",
+   "amministrazione": "COMUNE DI SAN GIORGIO A CREMANO",
+   "ente": "EVENTI SOCIALI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3678190.88,
+   "aggiudicato": 3678190.88,
+   "durata_gg": 48.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "9850498819",
+   "data": "2023-06-27",
+   "oggetto": "PROCEDURA TELEMATICA APERTA PER L?AFFIDAMENTO, AI SENSI DEGLI ARTT. 60 E 95 DEL D. LGS. N. 50/2016, DELLA GESTIONE DI AZIONI DI SISTEMA PER L?ACCOGLIENZA, LA TUTELA E L?INTEGRAZION",
+   "amministrazione": "COMUNE DI CASORIA",
+   "ente": "EVENTI SOCIALI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5305147.94,
+   "aggiudicato": 4520901.34,
+   "durata_gg": 891.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "9567038981",
+   "data": "2022-12-23",
+   "oggetto": "PROCEDURA APERTA AI SENSI DELL' ART. 60 E 95 DEL D.LGS50/2016 PER L'INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE PER LA GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E",
+   "amministrazione": "COMUNE DI CASORIA",
+   "ente": "EVENTI SOCIALI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 745153.69,
+   "aggiudicato": 745153.69,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "9565822E06",
+   "data": "2022-12-22",
+   "oggetto": "PROROGA TECNICA PER L'INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE PER LA GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'INTEGRAZIONE A FAVORE DI TITOLARI DI PROTEZ",
+   "amministrazione": "COMUNE DI CASORIA",
+   "ente": "EVENTI SOCIALI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 303200.41,
+   "aggiudicato": 303200.41,
+   "durata_gg": 59.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

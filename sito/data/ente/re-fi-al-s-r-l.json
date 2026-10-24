@@ -1,0 +1,59 @@
+{
+ "nome": "RE.FI.AL. - S.R.L.",
+ "cf": "01961720594",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6B62008D9",
+   "data": "2025-05-06",
+   "oggetto": "FORNITURA MATERIALI VARI PER LA GESTIONE DEGLI IMMOBILI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "RE.FI.AL. - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B2A0339F34",
+   "data": "2024-07-30",
+   "oggetto": "FORNITURA MATERIALI VARI PER LA GESTIONE DEGLI IMMOBILI E DELLA PRESA IN CARICO DEI BENEFICIARI DEL PROGETTO SAI",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "RE.FI.AL. - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

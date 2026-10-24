@@ -1,0 +1,59 @@
+{
+ "nome": "GLI ALTRI - SOCIETA' COOPERATIVA SOCIALE PER AZIONI - ONLUS.",
+ "cf": "01221640475",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISTOIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "80691991AB",
+   "data": "2019-10-30",
+   "oggetto": "PROGETTO DI ACCOGLIENZA INTEGRATA PER ADULTI",
+   "amministrazione": "COMUNE DI PISTOIA",
+   "ente": "GLI ALTRI - SOCIETA' COOPERATIVA SOCIALE PER AZIONI - ONLUS.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2783575.97,
+   "aggiudicato": 2783575.97,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  },
+  {
+   "cig": "6725758F11",
+   "data": "2016-06-16",
+   "oggetto": "INDIVIDUAZIONE DI PIU' OPERATORI ECONOMICI AI QUALI AFFIDARE IL SERVIZIO DI PROMA ACCOGLIENZA CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PISTOIA",
+   "ente": "GLI ALTRI - SOCIETA' COOPERATIVA SOCIALE PER AZIONI - ONLUS.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2639250.0,
+   "aggiudicato": 2639250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  }
+ ]
+}

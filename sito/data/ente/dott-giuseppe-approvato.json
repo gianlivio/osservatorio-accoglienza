@@ -1,0 +1,38 @@
+{
+ "nome": "DOTT. GIUSEPPE APPROVATO",
+ "cf": "07163541217",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B50BAB88E5",
+   "data": "2024-12-31",
+   "oggetto": "SERVIZIO REVISORE DEI CONTI PROGETTO SAI DEL COMUNE DI BASELICE 2024-2025-2026",
+   "amministrazione": "COMUNE DI BASELICE",
+   "ente": "DOTT. GIUSEPPE APPROVATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11231.08,
+   "aggiudicato": 11231.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

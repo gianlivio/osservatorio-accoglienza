@@ -1,0 +1,38 @@
+{
+ "nome": "RESISTEST SRL",
+ "cf": "00480150788",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0D57FC745",
+   "data": "2024-03-15",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ESECUZIONE PROVE DIAGNOSTICHE SULL'EDIFICIO INTERESSATO DALL'INTERVENTO DI LAVORI DI COMPLETAMENTO DEL RECUPERO E RISTRUTTURAZIONE PALAZZO MARCH",
+   "amministrazione": "COMUNE DI SAN DEMETRIO CORONE",
+   "ente": "RESISTEST SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8617.0,
+   "aggiudicato": 8617.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

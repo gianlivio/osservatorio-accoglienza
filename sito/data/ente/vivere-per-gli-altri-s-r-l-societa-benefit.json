@@ -1,0 +1,54 @@
+{
+ "nome": "VIVERE PER GLI ALTRI S.R.L. SOCIETA' BENEFIT",
+ "cf": "04502700281",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B883DDC064",
+   "data": "2025-10-06",
+   "oggetto": "ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "VIVERE PER GLI ALTRI S.R.L. SOCIETA' BENEFIT",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7028498.4,
+   "aggiudicato": 7028498.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "B691B817F5",
+   "data": "2025-04-22",
+   "oggetto": "PROCEDURA APERTA PER LA STIPULA DI UN ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA AI RICHIEDENTI ASILO IN CENTRI COLLETTIVI FINO A 50 POSTI.",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO - PREFETTURA DI FERRARA",
+   "ente": "VIVERE PER GLI ALTRI S.R.L. SOCIETA' BENEFIT",
+   "procedura": "ND P1_20",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 22841700.0,
+   "aggiudicato": 77028498.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "nome": "LA CASA DEL SOLE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02860190848",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7759898667",
+   "data": "2019-01-09",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA SOC. COOP. SOC.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "LA CASA DEL SOLE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49628.57,
+   "aggiudicato": 49628.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7692437FD0",
+   "data": "2018-11-15",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA 'LA CASA DEL SOLE'. EROGAZIONE CONTRIBUTO MINISTERIALE 2^ TRIMESTRE 2018",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "LA CASA DEL SOLE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 42171.29,
+   "aggiudicato": 42171.29,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7590643CC0",
+   "data": "2018-08-02",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA 'LA CASA DEL SOLE'. EROGAZIONE CONTRIBUTO MINISTERIALE 1^ TRIMESTRE 2018",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "LA CASA DEL SOLE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41314.15,
+   "aggiudicato": 41314.15,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE FRANCESCO BANDINI - ONLUS",
+ "cf": "90015270391",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7506147C72",
+   "data": "2018-03-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI RIF. ANNO 2018 - 6 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "ASSOCIAZIONE FRANCESCO BANDINI - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 80000.0,
+   "aggiudicato": 51150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6985777D89",
+   "data": "2016-12-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI - 9 POSTI",
+   "amministrazione": "AZIENDA DI SERVIZI ALLA PERSONA DELLA ROMAGNA FAENTINA",
+   "ente": "ASSOCIAZIONE FRANCESCO BANDINI - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101835.0,
+   "aggiudicato": 101835.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

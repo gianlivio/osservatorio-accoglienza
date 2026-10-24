@@ -1,0 +1,75 @@
+{
+ "nome": "CONSORZIO AGENZIA PER L'INCLUSIONE E I DIRITTI ITALIA SOCIETA' COOPERATIVA SOCIALE IN SIGLA: CONSORZIO A.I.D. ITALIA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03026290787",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7564530F9E",
+   "data": "2018-06-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "CONSORZIO AGENZIA PER L'INCLUSIONE E I DIRITTI ITALIA SOCIETA' COOPERATIVA SOCIALE IN SIGLA: CONSORZIO A.I.D. ITALIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 93840.0,
+   "aggiudicato": 93840.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "7155371EEE",
+   "data": "2017-07-04",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "CONSORZIO AGENZIA PER L'INCLUSIONE E I DIRITTI ITALIA SOCIETA' COOPERATIVA SOCIALE IN SIGLA: CONSORZIO A.I.D. ITALIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 91163.0,
+   "aggiudicato": 91163.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "7126266CBA",
+   "data": "2017-05-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "CONSORZIO AGENZIA PER L'INCLUSIONE E I DIRITTI ITALIA SOCIETA' COOPERATIVA SOCIALE IN SIGLA: CONSORZIO A.I.D. ITALIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 173420.0,
+   "aggiudicato": 173420.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

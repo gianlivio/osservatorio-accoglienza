@@ -1,0 +1,59 @@
+{
+ "nome": "S.P.E.S. - SOCIETA  COOPERATIVA SOCIALE",
+ "cf": "02157090909",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B22B91524D",
+   "data": "2024-06-21",
+   "oggetto": "PROCEDURA APERTA PER AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI PRESSO UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "S.P.E.S. - SOCIETA  COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10517475.0,
+   "aggiudicato": 879788.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "8993058A39",
+   "data": "2021-12-23",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAPIENZA FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "S.P.E.S. - SOCIETA  COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4360969.2,
+   "aggiudicato": 1429124.7,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

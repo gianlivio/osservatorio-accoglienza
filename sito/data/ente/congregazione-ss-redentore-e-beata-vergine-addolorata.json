@@ -1,0 +1,54 @@
+{
+ "nome": "CONGREGAZIONE SS. REDENTORE E BEATA VERGINE ADDOLORATA",
+ "cf": "82000370435",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E580303B",
+   "data": "2024-12-19",
+   "oggetto": "AFFIDAMENTI DIRETTI - PROSECUZIONE ANNO 2025 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI (MSNA), MADRI CON FIGLI MINORI E VITTIME DELLA VIOLENZA DI GEN",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "CONGREGAZIONE SS. REDENTORE E BEATA VERGINE ADDOLORATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52490.0,
+   "aggiudicato": 52490.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B39F794382",
+   "data": "2024-10-18",
+   "oggetto": "SERVIZI ACCOGLIENZA MINORI, MSNA, MADRI CON FIGLI MINORI, VITTIME DELLA VIOLENZA DI GENERE, PRESSO LE STRUTTURE RESIDENZIALI SU DISPOSIZIONE DEL SSP E/O DELL'AUTORITA' GIUDIZIARIA ",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "CONGREGAZIONE SS. REDENTORE E BEATA VERGINE ADDOLORATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23780.0,
+   "aggiudicato": 23780.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

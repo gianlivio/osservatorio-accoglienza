@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE CUORE DI MAMMA",
+ "cf": "90108960270",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "625479434B",
+   "data": "2015-05-12",
+   "oggetto": "ACCOGLIENZA TEMPORANEA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ASSOCIAZIONE CUORE DI MAMMA - PERIODO 15/5 - 31/12/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "ASSOCIAZIONE CUORE DI MAMMA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 77385.0,
+   "aggiudicato": 77385.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

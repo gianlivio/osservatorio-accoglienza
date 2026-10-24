@@ -1,0 +1,133 @@
+{
+ "nome": "C.A.P.S. - CENTRO DI AIUTO PSICOSOCIALE - SOCIETA' COOPERATIVA SO CIALE (ONLUS)",
+ "cf": "04252620721",
+ "affidamenti": 6,
+ "diretti": 3,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4A88B35C5",
+   "data": "2024-12-05",
+   "oggetto": "SAI ORDINARI CAPS CONTRATTO ORDINATIVO ATTUATIVO PROG-599-PR-3 RELATIVO ALLA PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE TRIENNALE DEL SERVIZIO DENOMINATO SAI - SISTEMA DI AC",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "C.A.P.S. - CENTRO DI AIUTO PSICOSOCIALE - SOCIETA' COOPERATIVA SO CIALE (ONLUS)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 687660.0,
+   "aggiudicato": 687660.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B12B487FC8",
+   "data": "2024-04-09",
+   "oggetto": "SAI MSNA FINANZIAMENTO 2023-2025 CONTRATTO ORDINATIVO ATTUATIVO ATS C.A.P.S. E ABUSUA 2024",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "C.A.P.S. - CENTRO DI AIUTO PSICOSOCIALE - SOCIETA' COOPERATIVA SO CIALE (ONLUS)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1436401.36,
+   "aggiudicato": 1436401.36,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B12AF6EADE",
+   "data": "2024-04-09",
+   "oggetto": "SAI MSNA FINANZIAMENTO 2023-2025 CONTRATTO ORDINATIVO ATTUATIVO ATS C.A.P.S. 2023",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "C.A.P.S. - CENTRO DI AIUTO PSICOSOCIALE - SOCIETA' COOPERATIVA SO CIALE (ONLUS)",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 585950.43,
+   "aggiudicato": 585950.43,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "A05550C9BA",
+   "data": "2022-12-09",
+   "oggetto": "SAI MSNA ATS CAPS 2023",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "C.A.P.S. - CENTRO DI AIUTO PSICOSOCIALE - SOCIETA' COOPERATIVA SO CIALE (ONLUS)",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 585950.43,
+   "aggiudicato": 65.847,
+   "durata_gg": 152.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "84842955B8",
+   "data": "2020-11-05",
+   "oggetto": "SIPROIMI ANNI 2021/2022 CATEGORIA MSNA",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "C.A.P.S. - CENTRO DI AIUTO PSICOSOCIALE - SOCIETA' COOPERATIVA SO CIALE (ONLUS)",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4684970.0,
+   "aggiudicato": 4684970.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "7448869926",
+   "data": "2018-04-20",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO SPERIMENTALE DI MENSA ETNICA PER PERSONE IMMIGRATE PRESSO IL CENTRO POLIFUNZIONALE 'CASA DELLE CULTURE'",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "C.A.P.S. - CENTRO DI AIUTO PSICOSOCIALE - SOCIETA' COOPERATIVA SO CIALE (ONLUS)",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 131778.5,
+   "aggiudicato": 53644.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BARI"
+  }
+ ]
+}

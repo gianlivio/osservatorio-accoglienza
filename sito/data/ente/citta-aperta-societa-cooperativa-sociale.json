@@ -1,0 +1,59 @@
+{
+ "nome": "CITTA' APERTA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01903380226",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "808583956D",
+   "data": "2019-10-31",
+   "oggetto": "RINNOVO SERVIZIO DI MEDIAZIONE LINGUISTICA E INTERCULTURALE A CITTÀ APERTA SCS RIVOLTO A RICHIEDENTI PROTEZIONE INTERNAZIONALE, AGGIUDICATO CON DETERMINAZIONE N. 297 DEL 31 OTTOBRE",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CITTA' APERTA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 79200.0,
+   "aggiudicato": 79200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7457010751",
+   "data": "2018-04-24",
+   "oggetto": "DETERMINAZIONE N. 19 DEL 26/01/2018. CONFRONTO CONCORRENZIALE, AI SENSI DELL'ARTICOLO 36, COMMA 2, LETTERA B, DEL DECRETO LEGISLATIVO N. 50/2016, PER L'EFFETTUAZIONE DEL SERVIZIO D",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CITTA' APERTA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 276000.0,
+   "aggiudicato": 132000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "ASSOCIAZIONE PACEFUTURO",
+ "cf": "90049980023",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6747764EFE",
+   "data": "2016-07-07",
+   "oggetto": "CONVENZIONE PER L'ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BIELLA - U.T.G.",
+   "ente": "ASSOCIAZIONE PACEFUTURO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 293913.6,
+   "aggiudicato": 293913.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "65183318E6",
+   "data": "2015-12-21",
+   "oggetto": "PROCEDURA APERTA VOLTA ALLA CONCLUSIONE DI UN ACCORDO QUADRO, PER IL PERIODO 01/01/2016-31/12/2016, CON PIU' SOGGETTI ECONOMICI PER ASSICURARE NEL TERRITORIO DELLA PROVINCIA DI BIE",
+   "amministrazione": "PREFETTURA DI BIELLA - U.T.G.",
+   "ente": "ASSOCIAZIONE PACEFUTURO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9581250.0,
+   "aggiudicato": 1124200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

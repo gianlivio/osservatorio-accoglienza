@@ -1,0 +1,38 @@
+{
+ "nome": "IL CAMPER SOCIETA' COOPERATIVA SOCIALE ONLUS - ENTE DEL TERZO SET TORE",
+ "cf": "07791530632",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8835284302",
+   "data": "2021-07-20",
+   "oggetto": "LOTTO 1 ONE STOP SHOP E UNITÀ MOBILE DI STRADA MUN. 1 E MUN.2",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "IL CAMPER SOCIETA' COOPERATIVA SOCIALE ONLUS - ENTE DEL TERZO SET TORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 513492.21,
+   "aggiudicato": 477855.85,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

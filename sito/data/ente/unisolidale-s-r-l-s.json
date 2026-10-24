@@ -1,0 +1,95 @@
+{
+ "nome": "UNISOLIDALE S.R.L.S.",
+ "cf": "03153130608",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9CAFAE62F",
+   "data": "2025-12-29",
+   "oggetto": "OSPITALITÀ MSNA 5170 C/O GAM S. DOMENICO SAVIO DELLA UNISOLIDALE SRL DAL 01/01 AL 05/03/2026",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNISOLIDALE S.R.L.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6175.0,
+   "aggiudicato": 6175.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "B56B6AEFB6",
+   "data": "2025-01-31",
+   "oggetto": "OSPITALITÀ DEL MSNA AFH C/O G.A.M S. DOMENICO SAVIO DELLA UNISOLIDALE SRL PER L'ANNO 2025",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNISOLIDALE S.R.L.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37000.0,
+   "aggiudicato": 37000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "B0D2C410DF",
+   "data": "2024-03-14",
+   "oggetto": "OSPITALITÀ DEL MSNA AA C/O COMUNITÀ CASA DI POLLON DELLA COOP. SOC. UNITY&FRIENDSHIP DAL 01/01 AL 04/03/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNISOLIDALE S.R.L.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6700.0,
+   "aggiudicato": 6700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B08289E67D",
+   "data": "2024-02-22",
+   "oggetto": "OSPITALITÀ DEL MSNA AFH C/O COMUNITÀ GAM S.DOMENICO SAVIO DELLA UNISOLIDALE SRLS PER L'ANNO 2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "UNISOLIDALE S.R.L.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36600.0,
+   "aggiudicato": 36600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

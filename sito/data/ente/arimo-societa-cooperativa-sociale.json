@@ -1,0 +1,148 @@
+{
+ "nome": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02004970188",
+ "affidamenti": 7,
+ "diretti": 7,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B87EE3338D",
+   "data": "2025-10-06",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI INSERIMENTO COMUNITÀ DI N. 1 MSNA A FAVORE DI ARIMO SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20000.0,
+   "aggiudicato": 20000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B2850341EA",
+   "data": "2024-12-12",
+   "oggetto": "COLLOCAMENTO MSNA IN STRUTTURA EDUCATIVA - 2 SEMESTRE",
+   "amministrazione": "COMUNE DI ABBIATEGRASSO",
+   "ente": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26312.0,
+   "aggiudicato": 26312.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B284FFA20D",
+   "data": "2024-12-12",
+   "oggetto": "COLLOCAMENTO MSNA IN STRUTTURA COMUNITARIA 2 SEMESTRE",
+   "amministrazione": "COMUNE DI ABBIATEGRASSO",
+   "ente": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1316.0,
+   "aggiudicato": 1316.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B16FFCB453",
+   "data": "2024-04-29",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI ARIMO SOCIETA' COOPERATIVA SOCIALE ONLUS. IMPEGNO DI SPESA PRESUNTO",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24920.0,
+   "aggiudicato": 24920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B112A1E58A",
+   "data": "2024-04-04",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI ARIMO SOCIETA' COOPERATIVA SOCIALE ONLUS. IMPEGNO DI SPESA PRESUNTO",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24920.0,
+   "aggiudicato": 24920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "A005F8FC51",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO PRESUNTO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DEL SERVIZIO E RIDETERMINAZIONE CONTESTU",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78800.0,
+   "aggiudicato": 78800.0,
+   "durata_gg": 184.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9788143720",
+   "data": "2023-05-02",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO DI SPESA PRESUNTA RELATIVO ALL'AFFIDAMENTO IN PROSECUZIONE DEL SERVIZIO A COOPERATIVE DIVERS",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ARIMO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78580.0,
+   "aggiudicato": 78580.0,
+   "durata_gg": 181.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

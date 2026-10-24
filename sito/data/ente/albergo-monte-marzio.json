@@ -1,0 +1,134 @@
+{
+ "nome": "ALBERGO MONTE MARZIO",
+ "cf": "02462740123",
+ "affidamenti": 7,
+ "diretti": 6,
+ "quota_diretti": 85.7,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 7,
+   "diretti": 6,
+   "quota_diretti": 85.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "68974682A8",
+   "data": "2016-12-05",
+   "oggetto": "SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 06/10/2016 -31/12/2016.",
+   "amministrazione": "PREFETTURA",
+   "ente": "ALBERGO MONTE MARZIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 158652.0,
+   "aggiudicato": 158652.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "68825224D3",
+   "data": "2016-11-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, NELL'AMBITO DI VARESE E PROVINCIA, DELLA GESTIONE DEI SERVIZI CONNESSI E LA MESSA A DISPOSIZIO",
+   "amministrazione": "PREFETTURA",
+   "ente": "ALBERGO MONTE MARZIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41740.4,
+   "aggiudicato": 41740.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6968196140",
+   "data": "2016-11-07",
+   "oggetto": "SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 01/01/2017 -30/04/2017.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "ALBERGO MONTE MARZIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45804.0,
+   "aggiudicato": 45804.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6967555048",
+   "data": "2016-11-07",
+   "oggetto": "SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 01/01/2017 -30/04/2017.",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "ALBERGO MONTE MARZIO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 121765.2,
+   "aggiudicato": 121765.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "67645424A6",
+   "data": "2016-07-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, NELL'AMBITO DI VARESE E PROVINCIA, DELLA GESTIONE DEI SERVIZI CONNESSI E LA MESSA A DISPOSIZIO",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "ALBERGO MONTE MARZIO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1159200.0,
+   "aggiudicato": 1159200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6762718370",
+   "data": "2016-07-15",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE. PERIODO 16/7/2016 - 30/09/2016.",
+   "amministrazione": "PREFETTURA",
+   "ente": "ALBERGO MONTE MARZIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 64495.2,
+   "aggiudicato": 64495.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "6568364172",
+   "data": "2016-01-27",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELL'AMBITO DI VARESE E PROVINCIA. DELLA GESTIONE DEI SERVIZI CONNESSI E LA MES",
+   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
+   "ente": "ALBERGO MONTE MARZIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68796.0,
+   "aggiudicato": 68796.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}

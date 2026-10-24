@@ -1,0 +1,54 @@
+{
+ "nome": "MAMRE - ASSOCIAZIONE PER L'ACCOGLIENZA",
+ "cf": "91005540033",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "7165292A01",
+   "data": "2017-08-10",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "MAMRE - ASSOCIAZIONE PER L'ACCOGLIENZA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86496.0,
+   "aggiudicato": 86496.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6716584C72",
+   "data": "2016-06-13",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA ED ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "MAMRE - ASSOCIAZIONE PER L'ACCOGLIENZA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1874250.0,
+   "aggiudicato": 330319.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "GES.CO. S.R.L.",
+ "cf": "02640280349",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B01E6AE092",
+   "data": "2024-01-25",
+   "oggetto": "F. 35/2024 - FORMAZIONE PERSONALE STRANIERO - PERNOTTAMENTO PASTI LAVANDERIA PROROGA MARZO 2024",
+   "amministrazione": "ISTITUTO IDROGRAFICO DELLA MARINA",
+   "ente": "GES.CO. S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40000.0,
+   "aggiudicato": 40000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  }
+ ]
+}

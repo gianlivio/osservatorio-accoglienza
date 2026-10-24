@@ -1,0 +1,122 @@
+{
+ "nome": "ANGELSERVICE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA - ONLUS",
+ "cf": "04498310962",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1CCAF7812",
+   "data": "2024-05-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE COLLETTIVE FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ANGELSERVICE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1183272.3,
+   "aggiudicato": 1183272.3,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "A030F2DCDE",
+   "data": "2023-11-28",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI CAS COLLETTIVI SINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ANGELSERVICE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 34600770.0,
+   "aggiudicato": 20946020.31,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "874842872A",
+   "data": "2021-05-13",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI PRESSO CENTRI COLLETTIVI SINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ANGELSERVICE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8307560.0,
+   "aggiudicato": 2057875.5,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8386867597",
+   "data": "2020-07-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO STRUTTURE COLLETTIVE FINO DA 51 A 300 POSTI/ RTI FONDAZIONE FRATELLI SAN FRANCESCO D'ASSISI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ANGELSERVICE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5506079.48,
+   "aggiudicato": 5506079.48,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "803765638F",
+   "data": "2019-10-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO LE STRUTTURE COLLETTIVE TRA I 51 E I 300 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ANGELSERVICE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11012158.95,
+   "aggiudicato": 11012158.95,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  }
+ ]
+}

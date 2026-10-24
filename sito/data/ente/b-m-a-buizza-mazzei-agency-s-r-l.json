@@ -1,0 +1,38 @@
+{
+ "nome": "B.M.A. - BUIZZA MAZZEI AGENCY - S.R.L.",
+ "cf": "04095801009",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASTI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9059131764",
+   "data": "2022-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE PER CENTI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "B.M.A. - BUIZZA MAZZEI AGENCY - S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 15882100.0,
+   "aggiudicato": 15882100.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  }
+ ]
+}

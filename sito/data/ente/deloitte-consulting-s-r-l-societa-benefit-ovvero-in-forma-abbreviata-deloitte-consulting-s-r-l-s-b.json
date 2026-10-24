@@ -1,0 +1,63 @@
+{
+ "nome": "DELOITTE CONSULTING S.R.L. SOCIETA' BENEFIT, OVVERO IN FORMA ABBREVIATA DELOITTE CONSULTING S.R.L. S.B.",
+ "cf": "03945320962",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4B43C3433",
+   "data": "2024-12-10",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI CONSULENZA, ASSISTENZA TECNICA E PER IL SUPPORTO SPECIALISTICO PER L'IMPLEMENTAZIONE, LA RENDICONTAZIONE, IL MONITORAGGIO, LA COMUNICAZIONE DEL ",
+   "amministrazione": "REGIONE BASILICATA",
+   "ente": "DELOITTE CONSULTING S.R.L. SOCIETA' BENEFIT, OVVERO IN FORMA ABBREVIATA DELOITTE CONSULTING S.R.L. S.B.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87500.0,
+   "aggiudicato": 87500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7783971014",
+   "data": "2019-01-31",
+   "oggetto": "SERVIZIO DI SUPPORTO ALLA GOVERNANCE DEL PREGETTO - COD. PROGETTO: 2342 - MONITORAGGIO DELLA TUTELA VOLONTARIA PER MINORISTRANIERI NON ACCOMPAGNATI IN ATTUAZIONE DELL'ARTICOLO 11, ",
+   "amministrazione": "AUTORITA GARANTE PER L INFANZIA E L ADOLESCENZA",
+   "ente": "DELOITTE CONSULTING S.R.L. SOCIETA' BENEFIT, OVVERO IN FORMA ABBREVIATA DELOITTE CONSULTING S.R.L. S.B.",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 130000.0,
+   "aggiudicato": 74507.38,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

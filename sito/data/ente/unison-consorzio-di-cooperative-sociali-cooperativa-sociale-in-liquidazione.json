@@ -1,0 +1,59 @@
+{
+ "nome": "UNISON - CONSORZIO DI COOPERATIVE SOCIALI - COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+ "cf": "13333300153",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9298463668",
+   "data": "2022-09-14",
+   "oggetto": "SERVIZIO DI PRESA IN CARICO DI MINORI STRANIERI NON ACCOMPAGNATI AFFIDATI AL COMUNE DI COMO.",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "UNISON - CONSORZIO DI COOPERATIVE SOCIALI - COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 417733.64,
+   "aggiudicato": 417315.9,
+   "durata_gg": 1641.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "870426390D",
+   "data": "2021-04-10",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "UNISON - CONSORZIO DI COOPERATIVE SOCIALI - COOPERATIVA SOCIALE - IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 70773.0,
+   "aggiudicato": 70773.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

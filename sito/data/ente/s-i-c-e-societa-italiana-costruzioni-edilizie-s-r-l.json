@@ -1,0 +1,38 @@
+{
+ "nome": "S.I.C.E.*SOCIETA' ITALIANA COSTRUZIONI EDILIZIE S.R.L.",
+ "cf": "01721430633",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A03CA0B20C",
+   "data": "2023-12-28",
+   "oggetto": "LAVORI DI RIQUALIFICAZIONE DELL'IMMOBILE DI VIA DEL RISORGIMENTO",
+   "amministrazione": "COMUNE DI SESTO FIORENTINO",
+   "ente": "S.I.C.E.*SOCIETA' ITALIANA COSTRUZIONI EDILIZIE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 177547.3,
+   "aggiudicato": 149557.27,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

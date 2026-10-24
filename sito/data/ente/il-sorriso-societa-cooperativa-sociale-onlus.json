@@ -1,0 +1,75 @@
+{
+ "nome": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "05022780729",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B868291F3D",
+   "data": "2025-09-29",
+   "oggetto": "V PROROGA TECNICA PERIODO OTTOBRE - NOVEMBRE 2025 - SERVIZI DI GESTIONE DI ACCOGLIENZA DEGLI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CENTRO COLLETTIVO SINO A 50 POSTI",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87407.75,
+   "aggiudicato": 87407.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "B709F57179",
+   "data": "2025-05-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI ASILO IN CENTRI DI ACCOGLIENZA COSTITUITI DA CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 156999.36,
+   "aggiudicato": 156999.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "B291ECCE75",
+   "data": "2024-07-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PRIMARIA PER STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "IL SORRISO SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 196892.0,
+   "aggiudicato": 196892.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

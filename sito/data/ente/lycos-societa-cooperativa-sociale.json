@@ -1,0 +1,164 @@
+{
+ "nome": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "12706480964",
+ "affidamenti": 8,
+ "diretti": 4,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 2,
+   "quota_diretti": 40.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7FA6219FA",
+   "data": "2025-08-18",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI INSERIMENTO COMUNITÀ DI N. 1 MSNA A FAVORE DI LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20000.0,
+   "aggiudicato": 20000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B4C5BC453B",
+   "data": "2024-12-13",
+   "oggetto": "ACCOGLIENZA DI MSNA E NEOMAGGIORENNI PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA GESTITE DALLA COOP. LYCOS OTTOBRE-DICEMBRE 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 270000.0,
+   "aggiudicato": 270000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B284BBA035",
+   "data": "2024-12-12",
+   "oggetto": "COLLOCAMENTO MSNA IN STRUTTURA COMUNITARIA 2 SEMESTRE 2024",
+   "amministrazione": "COMUNE DI ABBIATEGRASSO",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18400.0,
+   "aggiudicato": 18400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B2A5B5FD42",
+   "data": "2024-07-31",
+   "oggetto": "ACCOGLIENZA DI MSNA E NEOMAGGIORENNI PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA GESTITE DALLA COOP. LYCOS LUGLIO SETTEMBRE 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 227000.0,
+   "aggiudicato": 227000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B1B43F4BC2",
+   "data": "2024-05-17",
+   "oggetto": "ACCOGLIENZA DI MSNA E NEOMAGGIORENNI PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA GESTITE DALLA COOP. LYCOS APRILE GIUGNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 164000.0,
+   "aggiudicato": 164000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B09E0A9908",
+   "data": "2024-02-29",
+   "oggetto": "ACCOGLIENZA DI MSNA E NEOMAGGIORENNI PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA GESTITE DALLA COOP. LYCOS GENNAIO-MARZO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 146000.0,
+   "aggiudicato": 146000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "9992572347",
+   "data": "2023-08-02",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA CASCINA BARNASSINA L'AIRONE LA FENICE - LUGLIO-SETTEMBRE 2023",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 84000.0,
+   "aggiudicato": 84000.0,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  },
+  {
+   "cig": "9646117391",
+   "data": "2023-02-14",
+   "oggetto": "ACCOGLIENZA DI MSNA PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA CASCINA BARNASSINA L'AIRONE LA FENICE - GENNAIO-MARZO 2023",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LYCOS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 82000.0,
+   "aggiudicato": 73000.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

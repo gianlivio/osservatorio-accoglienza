@@ -1,0 +1,126 @@
+{
+ "nome": "FONDAZIONE CASA DELL'IMMACOLATA DI DON EMILIO DE ROJA",
+ "cf": "80002170308",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B628D40797",
+   "data": "2025-03-21",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE ED ASSISTENZA A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI 2025 - 2027 - ADESIONE AQ FONDAZIONE CASA DELL'IMMACOLATA",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "FONDAZIONE CASA DELL'IMMACOLATA DI DON EMILIO DE ROJA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3066000.0,
+   "aggiudicato": 3066000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B13A31D2F5",
+   "data": "2024-04-12",
+   "oggetto": "FV- PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "FONDAZIONE CASA DELL'IMMACOLATA DI DON EMILIO DE ROJA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 285606.0,
+   "aggiudicato": 82620.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "9229047284",
+   "data": "2022-05-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE ED ASSISTENZA A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI - PERIODO 16 MAGGIO 2022 – 30 SETTEMBRE 2024",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "FONDAZIONE CASA DELL'IMMACOLATA DI DON EMILIO DE ROJA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 590920.0,
+   "aggiudicato": 590920.0,
+   "durata_gg": 869.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7445431407",
+   "data": "2018-04-12",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "FONDAZIONE CASA DELL'IMMACOLATA DI DON EMILIO DE ROJA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11179200.0,
+   "aggiudicato": 11179200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "657061208E",
+   "data": "2016-11-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "FONDAZIONE CASA DELL'IMMACOLATA DI DON EMILIO DE ROJA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2022150.0,
+   "aggiudicato": 2022150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

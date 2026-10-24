@@ -1,0 +1,38 @@
+{
+ "nome": "AGENZIA DI FORMAZIONE PROFESSIONALE DELLE COLLINE ASTIGIANE SIGLA BILE A.F.P. COLLINE ASTIGIANE S.C.R.L.",
+ "cf": "01215610054",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "81799460FC",
+   "data": "2020-02-03",
+   "oggetto": "SERVIZIO PER L'EROGAZIONE DI LABORATORI TEMATICI PROFESSIONALIZZANTI CON RINFORZO DELLE COMPETENZE LINGUISTICHE SPECIFICHE RIVOLTI A RICHIEDENTI ASILO E RIFUGIATI OSPITI NEI CAS DE",
+   "amministrazione": "AGENZIA PIEMONTE LAVORO",
+   "ente": "AGENZIA DI FORMAZIONE PROFESSIONALE DELLE COLLINE ASTIGIANE SIGLA BILE A.F.P. COLLINE ASTIGIANE S.C.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 210000.0,
+   "aggiudicato": 205800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

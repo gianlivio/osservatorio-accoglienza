@@ -1,0 +1,54 @@
+{
+ "nome": "COOPERATIVA SOCIALE MONTESOLIDALE - SOCIETA' COOPERATIVA - ONLUS",
+ "cf": "01334240858",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "7250143F42",
+   "data": "2017-10-26",
+   "oggetto": "CONCLUSIONE DI UN ACCORDO QUADRO (ART. 54 DEL D.LGS. 50/2016) AI FINI DELL'AGGIUDICAZIONE DI AFFIDAMENTI SPECIFICI PER LA GESTIONE DEL SERVIZIO DI ACCOGLIENZA DI CUI ALL'ARTICOLO 1",
+   "amministrazione": "PREFETTURA DI CALTANISSETTA",
+   "ente": "COOPERATIVA SOCIALE MONTESOLIDALE - SOCIETA' COOPERATIVA - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10731000.0,
+   "aggiudicato": 2180413.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6916831D7F",
+   "data": "2016-12-23",
+   "oggetto": "PREFETTURA-U.T.G. DI CALTANISSETTA - AFFIDAMENTO SERVIZIO DI ACCOGLIENZA NELLA PROVINCIA DI CALTANISSETTA DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - ANNO 2017",
+   "amministrazione": "PREFETTURA DI CALTANISSETTA",
+   "ente": "COOPERATIVA SOCIALE MONTESOLIDALE - SOCIETA' COOPERATIVA - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4556650.0,
+   "aggiudicato": 2056320.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

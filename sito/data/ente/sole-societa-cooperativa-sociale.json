@@ -1,0 +1,38 @@
+{
+ "nome": "SOLE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02244520843",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9542283D07",
+   "data": "2022-12-13",
+   "oggetto": "AFFIDAMENTO DELLA GESTIONE DI AZIONI E SERVIZI DI ACCOGLIENZA INTEGRATA ED I SERVIZI DELL'ASILO E DI FUNZIONAMENTO DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONA",
+   "amministrazione": "COMUNE DI LICATA",
+   "ente": "SOLE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5193970.25,
+   "aggiudicato": 5193970.25,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

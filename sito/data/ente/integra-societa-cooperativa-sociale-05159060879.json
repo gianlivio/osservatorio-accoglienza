@@ -1,0 +1,38 @@
+{
+ "nome": "INTEGRA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "05159060879",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6915889425",
+   "data": "2016-12-27",
+   "oggetto": "INDIVIDUAZIONE ENTI ATTUATORI PER ACCOGLIENZA DI II^ LIVELLO DI MSNA DECR.MIN.INTERNO 10/08/2016",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA COMUNI DI GRAVINA DI CATANIA MASCALUCIA E SANT'AGATA LI BATTIATI",
+   "ente": "INTEGRA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 851472.0,
+   "aggiudicato": 851472.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  }
+ ]
+}

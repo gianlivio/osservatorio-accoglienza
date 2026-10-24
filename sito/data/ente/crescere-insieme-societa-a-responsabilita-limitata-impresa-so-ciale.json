@@ -1,0 +1,75 @@
+{
+ "nome": "CRESCERE INSIEME SOCIETA' A RESPONSABILITA' LIMITATA - IMPRESA SO CIALE",
+ "cf": "01961930664",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B786ED6AC6",
+   "data": "2025-07-04",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA CRESCERE INSIEME",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CRESCERE INSIEME SOCIETA' A RESPONSABILITA' LIMITATA - IMPRESA SO CIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32850.0,
+   "aggiudicato": 32850.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "B3FAE3FBA3",
+   "data": "2024-10-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - CRESCERE INSIEME SRL",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CRESCERE INSIEME SOCIETA' A RESPONSABILITA' LIMITATA - IMPRESA SO CIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28000.0,
+   "aggiudicato": 28000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "B3FAE3FBA3",
+   "data": "2024-10-25",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - CRESCERE INSIEME SRL",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CRESCERE INSIEME SOCIETA' A RESPONSABILITA' LIMITATA - IMPRESA SO CIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 28000.0,
+   "aggiudicato": 28000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

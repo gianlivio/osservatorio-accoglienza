@@ -1,0 +1,123 @@
+{
+ "nome": "OPERA DIOCESANA GIOVANNI XXIII",
+ "cf": "80009250392",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7396063045",
+   "data": "2018-03-01",
+   "oggetto": "CONTRATTO SPECIFICO NELL'AMBITO DELL'ACCORDO QUADRO SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI -OPERA DIOCESANA 01/03/2018-30/09/2018",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "OPERA DIOCESANA GIOVANNI XXIII",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 269235.54,
+   "aggiudicato": 269235.54,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "733783904E",
+   "data": "2018-01-01",
+   "oggetto": "CONTRATTO SPECIFICO NELL'AMBITO DELL'ACCORDO QUADRO SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI -OPERA DIOCESANA 01/01/2018-28/02/2018",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "OPERA DIOCESANA GIOVANNI XXIII",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74228.49,
+   "aggiudicato": 74228.49,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972149F5A",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 1.8 PIANGIPANE PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "OPERA DIOCESANA GIOVANNI XXIII",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 137888.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972143A68",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 1.7 PIANGIPANE PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "OPERA DIOCESANA GIOVANNI XXIII",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 137888.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "69721353D0",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 1.6 PIANGIPANE PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "OPERA DIOCESANA GIOVANNI XXIII",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 137888.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972122914",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 1.5 PIANGIPANE PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "OPERA DIOCESANA GIOVANNI XXIII",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 137888.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

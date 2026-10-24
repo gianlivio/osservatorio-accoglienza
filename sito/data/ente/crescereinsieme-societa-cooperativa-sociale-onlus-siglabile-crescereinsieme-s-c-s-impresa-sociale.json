@@ -1,0 +1,169 @@
+{
+ "nome": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+ "cf": "01512990068",
+ "affidamenti": 8,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ALESSANDRIA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "ASTI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A01B2EB8AA",
+   "data": "2023-10-17",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN 'SOGGETTO ATTUATORE' PER LA GESTIONE DEI SERVIZI DI ACCOGLIENZA ORDINARIA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI A",
+   "amministrazione": "CONSORZIO INTERCOMUNALE SOCIO-ASSISTENZIALE - ASTI SUD",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1730336.6,
+   "aggiudicato": 1721684.917,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8529097181",
+   "data": "2020-12-10",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA ORDINARIA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO, RIFUGIATI E UMANITARI, NELL'AMBITO DI UN PROGETTO TERRITORIALE ADERENTE AL SIS",
+   "amministrazione": "CONSORZIO INTERCOMUNALE SOCIO-ASSISTENZIALE - ASTI SUD",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1654848.2,
+   "aggiudicato": 1630025.48,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8486430793",
+   "data": "2020-11-24",
+   "oggetto": "COMUNE DI ALICE BEL COLLE. SERVIZIO DI ESECUZIONE DEGLI INTERVENTI DI ACCOGLIENZA INTEGRATA ATTIVI NELL'AMBITO DEL SISTEMA DI ACCOGLIENZA SIPROIMI FINANZIATI DAL FONDO NAZIONALE DE",
+   "amministrazione": "COMUNE DI ALICE BEL COLLE",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 490642.62,
+   "aggiudicato": 480829.77,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "7438615B47",
+   "data": "2018-04-06",
+   "oggetto": "INDIVIDUAZIONE DI UN 'SOGGETTO ATTUATORE' PER LA GESTIONE DEI SERVIZI DI ACCOGLIENZA ORDINARIA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO, RIFUGIATI E UMANITARI, NELL'AMBI",
+   "amministrazione": "CONSORZIO INTERCOMUNALE SOCIO-ASSISTENZIALE - ASTI SUD",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1417496.03,
+   "aggiudicato": 1288288.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "7396556719",
+   "data": "2018-02-21",
+   "oggetto": "PROGETTO SPRAR 2018 - AFFIDAMENTO ATTIVITÀ SOGGETTO ATTUATORE - PERIODO GENNAIO/GIUGNO 2018",
+   "amministrazione": "CONSORZIO INTERCOMUNALE SOCIO-ASSISTENZIALE - ASTI SUD",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 175000.0,
+   "aggiudicato": 175000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "70986295F6",
+   "data": "2017-06-22",
+   "oggetto": "INTERVENTI DI ACCOGLIENZA INTEGRATA ATTIVI NELL'AMBITO DEL SISTEMA DI ACCOGLIENZA SPRAR IN FAVORE DI RICHIEDENTI ASILO ORDINARI",
+   "amministrazione": "PROVINCIA DI ALESSANDRIA",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3521676.46,
+   "aggiudicato": 3416026.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "701967316A",
+   "data": "2017-06-07",
+   "oggetto": "PROGETTO PONTE SPRAR 2017/2019",
+   "amministrazione": "COMUNE DI ALICE BEL COLLE",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 813537.25,
+   "aggiudicato": 813536.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ALESSANDRIA"
+  },
+  {
+   "cig": "6976768316",
+   "data": "2017-02-11",
+   "oggetto": "PROGETTO ACCOGLIENZA RIFUGIATI POLITICI PROROGA",
+   "amministrazione": "COMUNE DI ALICE BEL COLLE",
+   "ente": "CRESCEREINSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE CRESCEREINSIEME S.C.S. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 107244.01,
+   "aggiudicato": 107244.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ALESSANDRIA"
+  }
+ ]
+}

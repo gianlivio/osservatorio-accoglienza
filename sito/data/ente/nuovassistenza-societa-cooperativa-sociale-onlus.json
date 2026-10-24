@@ -1,0 +1,80 @@
+{
+ "nome": "NUOVASSISTENZA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "00827150947",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4AB22BE5C",
+   "data": "2024-12-06",
+   "oggetto": "PROCEDURA NEGOZIATA SENZA BANDO CON PROCEDURA TELEMATICA SULLA PIATTAFORMA APPALTI E CONTRATTI, PER L'AFFIDAMENTO DEL SERVIZIO RELATIVO ALL ACCOGLIENZA NELLAMBITO DELLA RETE SAI PE",
+   "amministrazione": "COMUNE DI POGGIO SANNITA",
+   "ente": "NUOVASSISTENZA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 449732.14,
+   "aggiudicato": 449732.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "84525565DE",
+   "data": "2020-11-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA DEI COMUNI DI VASTOGIRARDI, PIETRABBONDANTE, SAN PIETRO AVELLANA E CHIAUCI",
+   "ente": "NUOVASSISTENZA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 410625.0,
+   "aggiudicato": 370190.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "7025262599",
+   "data": "2017-03-23",
+   "oggetto": "SPRAR INDIVIDUAZIONE SOGGETTO",
+   "amministrazione": "COMUNE DI PESCOPENNATARO",
+   "ente": "NUOVASSISTENZA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 492750.0,
+   "aggiudicato": 490286.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

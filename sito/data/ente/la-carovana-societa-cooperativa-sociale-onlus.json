@@ -1,0 +1,59 @@
+{
+ "nome": "LA CAROVANA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02705520928",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9872741B99",
+   "data": "2023-06-23",
+   "oggetto": "INDIVIDUAZIONE ENTE ATTUATORE PROGETTO SAI 2023/2026",
+   "amministrazione": "COMUNE DI NUORO",
+   "ente": "LA CAROVANA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1422897.5,
+   "aggiudicato": 1417295.55,
+   "durata_gg": 1003.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "694558915D",
+   "data": "2016-12-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CAGLIARI",
+   "ente": "LA CAROVANA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 84571.43,
+   "aggiudicato": 84571.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

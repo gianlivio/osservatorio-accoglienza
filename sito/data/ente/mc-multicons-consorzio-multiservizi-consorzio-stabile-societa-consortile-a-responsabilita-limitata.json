@@ -1,0 +1,38 @@
+{
+ "nome": "MC MULTICONS CONSORZIO MULTISERVIZI CONSORZIO STABILE SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+ "cf": "05654570489",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6291858D76",
+   "data": "2015-04-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA A FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE DAL 15.6 AL 30.9.2015",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "MC MULTICONS CONSORZIO MULTISERVIZI CONSORZIO STABILE SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 82944.0,
+   "aggiudicato": 82944.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

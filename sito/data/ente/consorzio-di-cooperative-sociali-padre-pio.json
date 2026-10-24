@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO DI COOPERATIVE SOCIALI PADRE PIO",
+ "cf": "01827620624",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6711C39CE",
+   "data": "2025-04-11",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO FEBBRAIO-MARZO 2025. CONSORZIO COOP. SOCIALI PADRE PIO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "CONSORZIO DI COOPERATIVE SOCIALI PADRE PIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8740.0,
+   "aggiudicato": 8740.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

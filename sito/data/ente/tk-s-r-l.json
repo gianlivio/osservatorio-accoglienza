@@ -1,0 +1,54 @@
+{
+ "nome": "TK S.R.L.",
+ "cf": "02460550037",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4A8EC8AA4",
+   "data": "2024-12-09",
+   "oggetto": "LAVORI DI MESSA IN SICUREZZA IMMOBILE DA ADIBIRSI A CENTRO DI ACCOGLIENZA STRAORDINARIA TEMPORANEA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE SITO IN COMUNE DI L",
+   "amministrazione": "PREFETTURA",
+   "ente": "TK S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 126084.21,
+   "aggiudicato": 126084.21,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  },
+  {
+   "cig": "B2F6127CAF",
+   "data": "2024-09-17",
+   "oggetto": "PROGETTAZIONE PER IL RIPRISTINO, CON OPERE EDILI CONNESSE, DEGLI IMPIANTI TECNOLOGICI PRESENTI PRESSO STRUTTURA DA ADIBIRE A CAS A LUINO LOCALITÀ FORNASETTE.",
+   "amministrazione": "PREFETTURA",
+   "ente": "TK S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 0.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}

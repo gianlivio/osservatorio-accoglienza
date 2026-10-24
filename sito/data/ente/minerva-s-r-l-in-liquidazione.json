@@ -1,0 +1,38 @@
+{
+ "nome": "MINERVA S.R.L. IN LIQUIDAZIONE",
+ "cf": "02652620184",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "70960830F1",
+   "data": "2017-05-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI MIGRANTI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "MINERVA S.R.L. IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 240625.0,
+   "aggiudicato": 240625.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  }
+ ]
+}

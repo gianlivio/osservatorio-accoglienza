@@ -1,0 +1,59 @@
+{
+ "nome": "CASCINA CLARABELLA - CONSORZIO STABILE DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE - ETS",
+ "cf": "03122290988",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8537035824",
+   "data": "2020-12-09",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI COLOGNE",
+   "ente": "CASCINA CLARABELLA - CONSORZIO STABILE DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE - ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1864710.54,
+   "aggiudicato": 1172457.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "7235936349",
+   "data": "2017-10-16",
+   "oggetto": "CO-PROGETTAZIONE PROGETTO SPRAR - TRIENNIO 2018-2020",
+   "amministrazione": "COMUNE DI COLOGNE",
+   "ente": "CASCINA CLARABELLA - CONSORZIO STABILE DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE - ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1552395.4,
+   "aggiudicato": 1552395.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

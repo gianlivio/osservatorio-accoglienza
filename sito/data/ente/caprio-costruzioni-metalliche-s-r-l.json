@@ -1,0 +1,38 @@
+{
+ "nome": "CAPRIO COSTRUZIONI METALLICHE S.R.L.",
+ "cf": "04069750612",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9493659F3B",
+   "data": "2022-12-07",
+   "oggetto": "PROGRAMMA OPERATIVO NAZIONALE 'LEGALITA'' FESR/FSE 2014-2020 - PROGETTI DI MIGLIORAMENTO DELL'ACCOGLIENZA E DELL'INTEGRAZIONE/INCLUSIONE DEI MIGRANTI E DEI PROFUGHI UCRAINI NELLE S",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "CAPRIO COSTRUZIONI METALLICHE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 400000.0,
+   "aggiudicato": 283560.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

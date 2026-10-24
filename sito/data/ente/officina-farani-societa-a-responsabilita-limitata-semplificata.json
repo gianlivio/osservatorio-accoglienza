@@ -1,0 +1,38 @@
+{
+ "nome": "OFFICINA FARANI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "15236661003",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B96BD3EB41",
+   "data": "2025-12-05",
+   "oggetto": "RICHIESTA DI PREVENTIVO AI SENSI AI SENSI DELL'ART. 50, COMMA 1, LETT E) DEL D.LGS. 36/2023 PER LA FORNITURA IN ACQUISTO DI DEI COSTUMI PER SOLISTI, CORO PROFUGHI E POPOLO DELLA NO",
+   "amministrazione": "FONDAZIONE TEATRO REGIO DI TORINO",
+   "ente": "OFFICINA FARANI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 126000.0,
+   "aggiudicato": 126000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

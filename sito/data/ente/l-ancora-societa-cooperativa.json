@@ -1,0 +1,54 @@
+{
+ "nome": "L'ANCORA SOCIETA' COOPERATIVA",
+ "cf": "01308050747",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "76196248A2",
+   "data": "2018-08-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI EXTRACOMUNITARI RICHIEDENTE PROTEZIONE INTERNAZIONALE COOP ANCORA - MESE AGOSTO 2018",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "L'ANCORA SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 149000.0,
+   "aggiudicato": 149000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "754824834D",
+   "data": "2018-06-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTE PROTEZIONE INTERNAZIONALE COOP ANCORA",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "L'ANCORA SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 149000.0,
+   "aggiudicato": 149000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

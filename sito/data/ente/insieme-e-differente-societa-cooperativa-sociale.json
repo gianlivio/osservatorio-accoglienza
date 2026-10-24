@@ -1,0 +1,38 @@
+{
+ "nome": "INSIEME E' DIFFERENTE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "94186810548",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B68DEFE861",
+   "data": "2025-04-18",
+   "oggetto": "SERVIZI DI ACCOGLIENZA IN SUA NELLA PROV. DI PERUGIA ART. 11 D.LGS. 142/2015",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "INSIEME E' DIFFERENTE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 169603.0,
+   "aggiudicato": 169603.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

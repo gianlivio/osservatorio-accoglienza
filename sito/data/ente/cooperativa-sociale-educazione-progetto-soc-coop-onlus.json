@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA SOCIALE EDUCAZIONE PROGETTO SOC. COOP. ONLUS",
+ "cf": "04495820013",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7746932A84",
+   "data": "2019-01-08",
+   "oggetto": "AFFIDAMENTO TRIENNALE DEI SERVIZI DI GESTIONE DEL SERVIZIO 'MONCALIERI LAVORO' E GESTIONE DEL SERVIZIO 'MONCALIERI COMUNITA'' (VOLONTARIATO, PACE E COOPERAZIONE DECENTRATA, CENTRO ",
+   "amministrazione": "COMUNE DI MONCALIERI",
+   "ente": "COOPERATIVA SOCIALE EDUCAZIONE PROGETTO SOC. COOP. ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 544588.44,
+   "aggiudicato": 540000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "66111551B2",
+   "data": "2016-03-04",
+   "oggetto": "GESTIONE DEL SERVIZIO OSSERVATORIO PER LO SVILUPPO LOCALE E ATTIVITA' DI ORIENTAMENTO SCOLASTICO, GESTIONE DEL SERVIZIO PROGETTO GIOVANI E ATTIVITA' TERRITORIALI, GESTIONE DELLA RE",
+   "amministrazione": "COMUNE DI MONCALIERI",
+   "ente": "COOPERATIVA SOCIALE EDUCAZIONE PROGETTO SOC. COOP. ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1224000.0,
+   "aggiudicato": 1222164.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  }
+ ]
+}

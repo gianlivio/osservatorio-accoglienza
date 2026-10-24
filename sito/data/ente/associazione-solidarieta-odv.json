@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE SOLIDARIETA' ODV",
+ "cf": "03026130595",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B638562B99",
+   "data": "2025-03-26",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA COSTITUITI DA UNITA' ABITATIVE AVENTI CAPACITA' RICETTIVA FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "ASSOCIAZIONE SOLIDARIETA' ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2522179.2,
+   "aggiudicato": 2522179.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

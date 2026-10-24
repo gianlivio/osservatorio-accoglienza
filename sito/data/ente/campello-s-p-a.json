@@ -1,0 +1,38 @@
+{
+ "nome": "CAMPELLO S.P.A.",
+ "cf": "00221550288",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4733F72EA",
+   "data": "2024-11-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E TUTELA RIVOLTI AI TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL PROGETTO TERRITORIALE ADERENTE AL SISTEMA DI PROTEZIONE SIPROIMI - PROG.286 - PR3-",
+   "amministrazione": "COMUNE DI CAMPO CALABRO",
+   "ente": "CAMPELLO S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20336.48,
+   "aggiudicato": 20336.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

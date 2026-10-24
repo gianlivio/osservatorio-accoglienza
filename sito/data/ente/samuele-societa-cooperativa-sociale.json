@@ -1,0 +1,75 @@
+{
+ "nome": "SAMUELE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01615870225",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7622634C8F",
+   "data": "2018-09-14",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO, AI SENSI DELL'ARTICOLO 21, COMMA 2, LETTERA H, DELLA L.P. 23/1990, PER L'INSEGNAMENTO DELLA LINGUA E CULTURA ITALIANA RIVOLTO AD UNA PARTE DI PERS",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SAMUELE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 113750.0,
+   "aggiudicato": 113750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7177513F16",
+   "data": "2017-08-11",
+   "oggetto": "PROROGA DELL'AFFIDAMENTO A ATI SAMUELE CON FILI E ARCOBALENO APPROVATO CON DETERMINAZIONE N. 184 DEL29 LUGLIO 2016 AVENTE AD OGGETTO IL SERVIZIO DI INSEGNAMENTO DELLA LINGUA E CULT",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SAMUELE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 509304.25,
+   "aggiudicato": 509304.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7119242858",
+   "data": "2017-07-28",
+   "oggetto": "AGGIUDICAZIONE DEL SERVIZIO DI INSEGNAMENTO DELLA LINGUA E CULTURA ITALIANA RIVOLTO AI CITTADINI DI PAESI TERZI (INCLUSI GLI APOLIDI E LE PERSONE DI CITTADINANZA INDETERMINATA) REG",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "SAMUELE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 160028.5,
+   "aggiudicato": 160028.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

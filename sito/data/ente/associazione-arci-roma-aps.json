@@ -1,0 +1,218 @@
+{
+ "nome": "ASSOCIAZIONE ARCI ROMA APS",
+ "cf": "97065340586",
+ "affidamenti": 11,
+ "diretti": 3,
+ "quota_diretti": 27.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2020": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 10
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9841662C65",
+   "data": "2023-05-23",
+   "oggetto": "PROGETTO DI ACCOGLIENZA E INTEGRAZIONE IN FAVORE DI ADULTI, FAMIGLIE E FAMIGLIE-MONOPARENTALI TITOLARI DI ACCOGLIENZA 'SAI' IN ACCOGLIENZA DIFFUSA, CON CAPIENZA MASSIMA DI 10 POSTI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3189375.0,
+   "aggiudicato": 3189375.0,
+   "durata_gg": 945.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "98396353AC",
+   "data": "2023-05-23",
+   "oggetto": "PROGETTO DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI LGBT+ TITOLARI DI ACCOGLIENZA 'SAI' IN ACCOGLIENZA DIFFUSA - ATI ARCI ROMA APS - BE FREE SOC. COOP. SOC.",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 255150.0,
+   "aggiudicato": 255150.0,
+   "durata_gg": 945.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "9733497FCF",
+   "data": "2023-03-29",
+   "oggetto": "PA ESF15/23/SUA - AFFIDAMENTO SERVIZIO SAI ORDINARIO (EX SPRAR ORDINARIO) SISTEMA DI ACCOGLIENZA INTERNAZIONALE COMUNE DI MONTEROTONDO (PROG-502-PR-3) - ANNI 2023/25 - CIG 9733497F",
+   "amministrazione": "COMUNE DI MONTEROTONDO",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1735757.62,
+   "aggiudicato": 1461690.63,
+   "durata_gg": 960.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "8560776FD3",
+   "data": "2020-12-01",
+   "oggetto": "AFFIDAMENTO GESTIONE SERVIZIO SPRAR DM-DS AI SENSI ART.106 COMMA 11 CODICE APPALTI PUBBLICI",
+   "amministrazione": "COMUNE DI MONTEROTONDO",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40182.33,
+   "aggiudicato": 40182.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "85077197D0",
+   "data": "2020-12-01",
+   "oggetto": "GESTIONE SPRAR DM-DS",
+   "amministrazione": "COMUNE DI MONTEROTONDO",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 688840.0,
+   "aggiudicato": 683098.67,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "8475111AD6",
+   "data": "2020-10-27",
+   "oggetto": "SERVIZIO DI GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI R.A.R.U. (RICHIEDENTI ASILO, RIFUGIATI E UMANITARI) NELL",
+   "amministrazione": "CITTA' METROPOLITANA DI ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1005389.25,
+   "aggiudicato": 1005389.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "764292011C",
+   "data": "2018-10-03",
+   "oggetto": "PROGETTO PER L'INDIVIDUAZIONE DI SOGGETTI TERZO SETTORE PER I SERVIZI DI ACCOGLIENZA E BENEFICIARI DI PROTEZIONE INTERNAZIONALE E PER I TITOLARI DI PERMESSO COMUNITARIO NELL'AMBITO",
+   "amministrazione": "COMUNE DI COLLEFERRO",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 106575.0,
+   "aggiudicato": 106575.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "76258499AA",
+   "data": "2018-10-02",
+   "oggetto": "GESTIONE SPRAR DM-DS",
+   "amministrazione": "COMUNE DI MONTEROTONDO",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 265104.4,
+   "aggiudicato": 265104.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7261689754",
+   "data": "2017-11-02",
+   "oggetto": "PROGETTO CENTRI DI ACCOGLIENZA INTEGRATA PER ADULTI E FAMIGLIE - SPRAR - ARCI CENTRO AIDA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2188116.0,
+   "aggiudicato": 2188116.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7097140932",
+   "data": "2017-05-30",
+   "oggetto": "PROGETTO SPRAR ORDINARIO 2017-2019",
+   "amministrazione": "COMUNE DI MONTEROTONDO",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1438525.0,
+   "aggiudicato": 1438525.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6335985C37",
+   "data": "2015-07-15",
+   "oggetto": "ACCOGLIENZA IMMIGRATI SISTEMA SPRAR CENTRO AIDA COOP. ARCI ROMA GENNAIO DICEMBRE 2015",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE ARCI ROMA APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 255500.0,
+   "aggiudicato": 255500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

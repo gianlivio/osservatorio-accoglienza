@@ -1,0 +1,38 @@
+{
+ "nome": "ARCH. RAFFAELE ANTOLINO",
+ "cf": "02584130641",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B62BB5B3BD",
+   "data": "2025-03-25",
+   "oggetto": "AFFIDAMENTO DIREZIONE LAVORI E COORDINAMENTO DELLA SICUREZZA IN ESECUZIONE PER I LAVORI DI COMPLETAMENTO DEL CENTRO DI AGGREGAZIONE SOCIALE E CULTURALE",
+   "amministrazione": "COMUNE ANDRETTA",
+   "ente": "ARCH. RAFFAELE ANTOLINO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19546.52,
+   "aggiudicato": 19546.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

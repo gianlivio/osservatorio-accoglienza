@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO DI PADOVA - ORGANIZZAZIONE DI VOLONTARIATO IN SIGLA CROCE ROSSA ITALIANA - COMITATO DI PADOVA - ODV",
+ "cf": "04777150287",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6655871680",
+   "data": "2016-04-07",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 15/3 - 31/12/2016 - CROCE ROSSA ITALIANA - COMITATO DI PADOVA",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PADOVA - ORGANIZZAZIONE DI VOLONTARIATO IN SIGLA CROCE ROSSA ITALIANA - COMITATO DI PADOVA - ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 978200.0,
+   "aggiudicato": 978200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  }
+ ]
+}

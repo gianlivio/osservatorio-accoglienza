@@ -1,0 +1,38 @@
+{
+ "nome": "IL MONDO NELLA CITTA'",
+ "cf": "03613920242",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "703538575C",
+   "data": "2016-10-03",
+   "oggetto": "CONVENZIONE DI ACCREDITAMENTO PER LA GESTIONE DI SERVIZI SOCIALI RIVOTI A RICHIEDENTI E/O TITOLARI DI PROTEZIONE INTERNAZIONALE E/O UMANITARIA",
+   "amministrazione": "COMUNE DI SANTORSO",
+   "ente": "IL MONDO NELLA CITTA'",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 3000000.0,
+   "aggiudicato": 2769252.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  }
+ ]
+}

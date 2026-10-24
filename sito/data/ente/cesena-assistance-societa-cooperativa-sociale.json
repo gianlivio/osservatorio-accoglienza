@@ -1,0 +1,38 @@
+{
+ "nome": "CESENA ASSISTANCE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04083540403",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7191894AAB",
+   "data": "2017-06-05",
+   "oggetto": "AFFIDAMENTO SERVIZI ACCOGLIENZA N.36 CITTADINI STRANIERI PRESENTI SUL TERRITORIO UNIONE RUBICONE E MARE",
+   "amministrazione": "AZIENDA PUBBLICA SERVIZI ALLA PERSONA ASP DEL RUBICONE",
+   "ente": "CESENA ASSISTANCE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 141378.48,
+   "aggiudicato": 141378.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

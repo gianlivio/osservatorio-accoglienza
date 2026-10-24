@@ -1,0 +1,105 @@
+{
+ "nome": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE E DI SOLIDARIETA'",
+ "cf": "04609070877",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9273089B1D",
+   "data": "2023-02-23",
+   "oggetto": "BANDO DI GARA EUROPEO RELATIVO ALLA PROCEDURA APERTA TELEMATICA PER L'INDIVIDUAZIONE DI ENTI ATTUATORI PER LA GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERIT",
+   "amministrazione": "COMUNE DI SCORDIA",
+   "ente": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE E DI SOLIDARIETA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2068633.93,
+   "aggiudicato": 2068633.93,
+   "durata_gg": 821.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "8461175E7B",
+   "data": "2020-10-09",
+   "oggetto": "ACCOGLIENZA DI CARATTERE ORDINARIO - SOGGETTI INSERITI NELLE RESTANTI CATEGORIE DI BENEFICIARI",
+   "amministrazione": "COMUNE DI VIZZINI",
+   "ente": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE E DI SOLIDARIETA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9607343.0,
+   "aggiudicato": 9607343.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "693236830C",
+   "data": "2017-01-04",
+   "oggetto": "SOGGETTI INSERITI NELLE RESTANTI CATEGORIE DI BENEFICIARI",
+   "amministrazione": "COMUNE DI VIZZINI",
+   "ente": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE E DI SOLIDARIETA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 15138843.0,
+   "aggiudicato": 13472880.39,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "6964663DB6",
+   "data": "2016-09-30",
+   "oggetto": "AFFIDAMENTO PER GESTIONE SPRAR TRIENNIO 2017/2019",
+   "amministrazione": "COMUNE DI FONDACHELLI-FANTINA",
+   "ente": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE E DI SOLIDARIETA'",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 969006.0,
+   "aggiudicato": 969006.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ROSIGNOLI MASSIMILIANO",
+ "cf": "00655650554",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4FBE05034",
+   "data": "2024-12-24",
+   "oggetto": "REVISORE CONTABILE INDIPENDENTE PER LA VERIFICA E CERTIFICAZIONE DELLE SPESE SOSTENUTE NELL'AMBITO DEL PROGETTO SAI CATEGORIA ORDINARI",
+   "amministrazione": "COMUNE DI CASSANO DELLE MURGE",
+   "ente": "ROSIGNOLI MASSIMILIANO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10000.0,
+   "aggiudicato": 10000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

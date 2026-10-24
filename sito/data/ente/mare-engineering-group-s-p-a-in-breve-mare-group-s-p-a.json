@@ -1,0 +1,38 @@
+{
+ "nome": "MARE ENGINEERING GROUP S.P.A. IN BREVE MARE GROUP S.P.A.",
+ "cf": "07784980638",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1543AF6B7",
+   "data": "2024-04-19",
+   "oggetto": "AFFIDAMENTO DELLE FORNITURE DI ARREDI ED ATTREZZATURE FUNZIONALI ALL'ADEGUAMENTO E RIFUNZIONALIZZAZIONE STRUTTURA COMUNALE A CENTRO POLIFUNZIONALE A SERVIZIO DEGLI IMMIGRATI PER L'",
+   "amministrazione": "COMUNE DI OTTATI",
+   "ente": "MARE ENGINEERING GROUP S.P.A. IN BREVE MARE GROUP S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 59500.0,
+   "aggiudicato": 59500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SALERNO"
+  }
+ ]
+}

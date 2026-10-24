@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COM.TO PROV.LE KR",
+ "cf": "03354940797",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "61426513F6",
+   "data": "2015-02-27",
+   "oggetto": "INDIVIDUAZIONE CENTRI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE - AMBITO TERRIT. COMUNE KR POSTI 47",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "CROCE ROSSA ITALIANA COM.TO PROV.LE KR",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 452375.0,
+   "aggiudicato": 431460.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "nome": "ERIMA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03466370792",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B33AACFD38",
+   "data": "2024-09-30",
+   "oggetto": "SERVIZI ACCOGLIENZA IMMIGRATI",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "ERIMA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1207570.96,
+   "aggiudicato": 1207570.96,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "B33AA536E6",
+   "data": "2024-09-30",
+   "oggetto": "SERVIZI ACCOGLIENZA IMMIGRATI ADULTI",
+   "amministrazione": "PREFETTURA DI CATANZARO",
+   "ente": "ERIMA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1312716.51,
+   "aggiudicato": 1312716.51,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "6945872AE4",
+   "data": "2016-04-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA NEL COMUNE DI CONFLENTI DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALEU",
+   "amministrazione": "COMUNE DI CONFLENTI",
+   "ente": "ERIMA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 129770.79,
+   "aggiudicato": 126148.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "6662276C11",
+   "data": "2016-04-18",
+   "oggetto": "SERVIZI DI ACCOGLIENZA E DI ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL TERRITORIO DI CONFLENTI;",
+   "amministrazione": "COMUNE DI CONFLENTI",
+   "ente": "ERIMA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 129770.79,
+   "aggiudicato": 126148.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "nome": "LA RADA CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03665760652",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9A0BFFEB0",
+   "data": "2025-12-17",
+   "oggetto": "ESECUZIONE, IN PROSECUZIONE, DELLE ATTIVITÀ RELATIVI AI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA DI TITOLARI DI PROTEZIONE INTERNAZIONALE E MSNA SAI DEL COMUNE DI OGLIASTRO CI",
+   "amministrazione": "COMUNE DI OGLIASTRO CILENTO",
+   "ente": "LA RADA CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 125560.0,
+   "aggiudicato": 125560.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B77E8A4CF4",
+   "data": "2025-07-03",
+   "oggetto": "ESECUZIONE, IN PROSECUZIONE, DELLE ATTIVITÀ RELATIVI AI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA DI TITOLARI DI PROTEZIONE INTERNAZIONALE E MSNA SAI DEL COMUNE DI OGLIASTRO CI",
+   "amministrazione": "COMUNE DI OGLIASTRO CILENTO",
+   "ente": "LA RADA CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 251120.0,
+   "aggiudicato": 251120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B2B9DF9564",
+   "data": "2024-08-07",
+   "oggetto": "PROGETTO DI ACCOGLIENZA SPRAR/SIPROIMI 58-PR-1",
+   "amministrazione": "COMUNE DI OGLIASTRO CILENTO",
+   "ente": "LA RADA CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 98280.0,
+   "aggiudicato": 98280.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "8467826F0F",
+   "data": "2020-12-05",
+   "oggetto": "PROCEDURA APERTA PER APPALTO DI SELEZIONE DEL SOGGETTO ATTUATORE PER AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA SIPROIMI",
+   "amministrazione": "COMUNE DI FISCIANO",
+   "ente": "LA RADA CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1683562.5,
+   "aggiudicato": 1227279.5,
+   "durata_gg": 912.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8466586FC7",
+   "data": "2020-10-16",
+   "oggetto": "INDIVIDUAZIONE SOGGETTO ATTUATORE PROGETTO SPRAR-SIPROIMI",
+   "amministrazione": "COMUNE DI TORRE ORSAIA",
+   "ente": "LA RADA CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 514400.0,
+   "aggiudicato": 514400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

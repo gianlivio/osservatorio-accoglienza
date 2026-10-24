@@ -1,0 +1,54 @@
+{
+ "nome": "ARO - STAENDIGES KONSORTIUM",
+ "cf": "03025750211",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B93063271C",
+   "data": "2025-11-20",
+   "oggetto": "06.04_008.234_IS_VB - CENTRO PROFUGHI GENERALMARKET - BOLZANO - VIA PIETRO GOBETTI 8 10 - SANIFICAZIONE DI 12 CONTAINER, ESECUZIONE DI INTERVENTI AGGIUNTIVI SU 4 CONTAINER SMONTATI",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "ARO - STAENDIGES KONSORTIUM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39970.04,
+   "aggiudicato": 39970.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  },
+  {
+   "cig": "B7F177094B",
+   "data": "2025-08-11",
+   "oggetto": "06.04_008.234_IS_VB - CENTRO PROFUGHI GENERALMARKET - BOLZANO - VIA PIETRO GOBETTI 8 10 - RIFACIMENTO CONTAINER ESTERNI",
+   "amministrazione": "PROVINCIA AUTONOMA DI BOLZANO",
+   "ente": "ARO - STAENDIGES KONSORTIUM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37996.69,
+   "aggiudicato": 37996.69,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

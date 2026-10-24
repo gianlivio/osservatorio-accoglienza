@@ -1,0 +1,239 @@
+{
+ "nome": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+ "cf": "92109830346",
+ "affidamenti": 12,
+ "diretti": 4,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 12
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1265F15E5",
+   "data": "2024-04-09",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI FORMAZIONE E AFFIANCAMENTO DEL PERSONALE DI ASP PARMA NELL'AMBITO DEL PROGETTO BALOO - GESTIONE DELLA STRUTTURA RESIDENZIALE SITA IN VIA SALATI N. 35, D",
+   "amministrazione": "AD PERSONAM ASP COMUNE DI PARMA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18980.0,
+   "aggiudicato": 18980.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "A026C91C5B",
+   "data": "2023-11-10",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI 'GESTIONE DEGLI SPORTELLI IMMIGRAZIONE, ASILO E CITTADINANZA E SPORTELLO PROVINCIALE PER RICHIEDENTI ASILO POLITICO'",
+   "amministrazione": "COMUNE DI FIDENZA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 308000.0,
+   "aggiudicato": 166770.24,
+   "durata_gg": 1980.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "A002782B26",
+   "data": "2023-08-07",
+   "oggetto": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DI UN BANDO DI GARA DI IMPORTO INFERIORE ALLA SOGLIA COMUNITARIA PER L'AFFIDAMENTO DELL'APPALTO DEL SERVIZIO DI 'GESTIONE DELLE ATTIV",
+   "amministrazione": "COMUNE DI FIDENZA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 156891.28,
+   "aggiudicato": 156891.28,
+   "durata_gg": 240.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "9573486292",
+   "data": "2023-01-13",
+   "oggetto": "PROCEDURA DI EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE PER LA COPROGETTAZIONE E LA GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'INTEGRA",
+   "amministrazione": "COMUNE DI FIDENZA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6856708.0,
+   "aggiudicato": 4721432.47,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "8462667DB8",
+   "data": "2020-10-21",
+   "oggetto": "ACCOGLIENZA INTEGRATA A FAVORE DI SOGGETTI ADULTI TITOLARI DI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "COMUNE DI PARMA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6141515.0,
+   "aggiudicato": 3021290.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "81444894F0",
+   "data": "2019-12-19",
+   "oggetto": "SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (SPRAR) -ADULTI -CASA DASILO TRIENNIO 2017-2019- PROSECUZIONE ACCOGLIENZA I^ SEMESTRE 2020 EX ART.8 COMMA 4 DEL DEC.MIN. 19A",
+   "amministrazione": "COMUNE DI PARMA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 348038.18,
+   "aggiudicato": 470640.11,
+   "durata_gg": 182.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "8144079299",
+   "data": "2019-12-19",
+   "oggetto": "SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (SPRAR) -ADULTI -CASA DASILO TRIENNIO 2017-2019- PROSECUZIONE ACCOGLIENZA I^ SEMESTRE 2020 EX ART.8 COMMA 4 DEL DEC.MIN. 19A",
+   "amministrazione": "COMUNE DI PARMA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 411317.84,
+   "aggiudicato": 411317.85,
+   "durata_gg": 182.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "8049648BA9",
+   "data": "2019-10-18",
+   "oggetto": "COPROGETTAZIONE E GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, TUTELA E INTEGRAZIONE A FAVORE DEI BENEFICIARI DEL PROGETTO EX SPRAR (ORA SIPROIMI)",
+   "amministrazione": "COMUNE DI FIDENZA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4006605.69,
+   "aggiudicato": 3090129.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "76932785D7",
+   "data": "2018-11-15",
+   "oggetto": "AMPLIAMENTO POSTI SPRAR ADULTI",
+   "amministrazione": "COMUNE DI PARMA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 736101.65,
+   "aggiudicato": 736101.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "7024979C0D",
+   "data": "2017-03-23",
+   "oggetto": "REALIZZAZIONE PROGETTO SPRAR TERRA D'ASILO ANNI 2017 2018 2019",
+   "amministrazione": "COMUNE DI FIDENZA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO EX ART.5 DELLA LEGGE N.381/91",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2905032.0,
+   "aggiudicato": 2905032.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "6975383C23",
+   "data": "2017-02-21",
+   "oggetto": "AVVISO PUBBLICO PER LA FORMAZIONE DI UN ELENCO DI IMPRESE INTERESSARE A PARTECIPARE ALLA PROCEDURA NEGOZIATA PER L'AFFIDAMENTO DEL SERVIZIO SPORTELLO IMMIGRATI",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA DEI COMUNI DI SALSOMAGGIORE TERME E FIDENZA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 50000.0,
+   "aggiudicato": 50000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "6958732F4B",
+   "data": "2017-02-03",
+   "oggetto": "SPRAR ADULTI",
+   "amministrazione": "COMUNE DI PARMA",
+   "ente": "CENTRO IMMIGRAZ. ASILO E COOP. INTERNAZIONALE (CIAC) - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2880200.25,
+   "aggiudicato": 2880200.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  }
+ ]
+}

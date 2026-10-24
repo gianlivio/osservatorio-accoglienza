@@ -1,0 +1,38 @@
+{
+ "nome": "LA MIMOSA SOCIETA' COOPERATIVA SOCIALE - ONLUS - IMPRESA SOCIALE",
+ "cf": "00464810779",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9891574118",
+   "data": "2023-06-23",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA INTEGRATA A FAVORE DI 26 SOGGETTI ORDINARI RICHIEDENTI ASILO E RIFUGIATI (D.M. INTERNO 10 AGOSTO 2016) - SAI (EX SPRAR/SIPROIMI) TRIENNIO 202",
+   "amministrazione": "COMUNE DI TITO",
+   "ente": "LA MIMOSA SOCIETA' COOPERATIVA SOCIALE - ONLUS - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1341910.5,
+   "aggiudicato": 1150209.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

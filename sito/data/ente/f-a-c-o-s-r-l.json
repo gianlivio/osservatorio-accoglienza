@@ -1,0 +1,33 @@
+{
+ "nome": "F.A.C.O. S.R.L.",
+ "cf": "01986050696",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A03E5D9401",
+   "data": "2023-12-15",
+   "oggetto": "PNRR M5C3 - INV. 1.1.1 - CANVAS INTERCULTURALE LAVORI DI RISTRUTTURAZIONE DI EDIFICI DA DESTINARE AD ACCOGLIENZA DI MIGRANTI E PROFUGHI DI GUERRA - CUP J88H22000460006",
+   "amministrazione": "COMUNE DI ATESSA",
+   "ente": "F.A.C.O. S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1523371.4,
+   "aggiudicato": 1294776.53,
+   "durata_gg": 273.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

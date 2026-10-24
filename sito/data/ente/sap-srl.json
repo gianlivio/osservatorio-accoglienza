@@ -1,0 +1,133 @@
+{
+ "nome": "SAP SRL",
+ "cf": "01027610391",
+ "affidamenti": 6,
+ "diretti": 1,
+ "quota_diretti": 16.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A063943DE8",
+   "data": "2024-06-14",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI GESTIONE DEI CENTRI DI ACCOGLIENZA DI CITTADINI EXTRACOMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE, IN STRUTTURE MESSE A DISPOSIZIONE DAI CONCORRENTI,",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "SAP SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2899153.0,
+   "aggiudicato": 2899153.0,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9529203315",
+   "data": "2022-12-22",
+   "oggetto": "UNITA' ABITATIVE - ACCORDO QUADRO SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "SAP SRL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2270390.0,
+   "aggiudicato": 600267.08,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9528717206",
+   "data": "2022-12-22",
+   "oggetto": "CENTRI COLLETTIVI - ACCORDO QUADRO SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "SAP SRL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5218220.0,
+   "aggiudicato": 0.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9187663B59",
+   "data": "2022-04-20",
+   "oggetto": "CENTRI COLLETTIVI ACCORDO QUADRO - SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA PER STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "SAP SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 8235393.03,
+   "aggiudicato": 3420760.0,
+   "durata_gg": 579.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8540689F82",
+   "data": "2020-10-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "SAP SRL",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 652072.5,
+   "aggiudicato": 652007.293,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6972302D9D",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 2.1 RONCALCECI PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIENZA",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "SAP SRL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 137819.81,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

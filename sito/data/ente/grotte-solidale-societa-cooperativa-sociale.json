@@ -1,0 +1,75 @@
+{
+ "nome": "GROTTE SOLIDALE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02502000843",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7756981F35",
+   "data": "2019-01-07",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA SOC. COOP. SOCIALE GROTTE SOLIDALE. EROGAZIONE CONTRIBUTO MINISTERIALE 3^ TRIMESTRE 2018",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "GROTTE SOLIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46414.28,
+   "aggiudicato": 46414.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "770440327C",
+   "data": "2018-11-26",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA SOC. COOP. SOCIALE GROTTE SOLIDALE.EROGAZIONE CONTRIBUTO MINISTERIALE 2^ TRIMESTRE 2018",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "GROTTE SOLIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46414.28,
+   "aggiudicato": 46414.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7590462764",
+   "data": "2018-08-02",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA SOC. COOP. SOCIALE GROTTE SOLIDALE. EROGAZIONE CONTRIBUTO MINISTERIALE 1^ TRIMESTRE 2018",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "GROTTE SOLIDALE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55585.71,
+   "aggiudicato": 55585.71,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

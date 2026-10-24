@@ -1,0 +1,33 @@
+{
+ "nome": "ASSOCIAZIONE LIBERACCOGLIENZA ETS",
+ "cf": "98104100783",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "701004367B",
+   "data": "2017-03-22",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA - COMUNI ASSOCIATI ACRI - BISIGNANO",
+   "ente": "ASSOCIAZIONE LIBERACCOGLIENZA ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 91131.0,
+   "aggiudicato": 186062.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

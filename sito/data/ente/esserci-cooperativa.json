@@ -1,0 +1,75 @@
+{
+ "nome": "ESSERCI COOPERATIVA",
+ "cf": "05177770012",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7860430808",
+   "data": "2019-04-19",
+   "oggetto": "ACCOGLIENZA ED ACCOMPAGNAMENTO ALL'INCLUSIONE SOCIALE PER N. 20 PERSONE, SINGOLE PRESSO STRUTTURE E/O ALLOGGI MESSI A DISPOSIZIONE DAI CONCORRENTI (SIPROIMI DS/DM))",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ESSERCI COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2068740.0,
+   "aggiudicato": 866611.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "7178662349",
+   "data": "2017-08-10",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER RIFUGIATI E/O RICHIEDENTI PROTEZIONE INTERNAZIONALE O UMANITARIA",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ESSERCI COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 225581.72,
+   "aggiudicato": 225581.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "71786487BA",
+   "data": "2017-08-10",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER RIFUGIATI E/O RICHIEDENTI PROTEZIONE INTERNAZIONALE O UMANITARIA CON DISAGIO MENTALE",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ESSERCI COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 54418.44,
+   "aggiudicato": 54418.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

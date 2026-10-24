@@ -1,0 +1,38 @@
+{
+ "nome": "LE MACINE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "02479900462",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7320904917",
+   "data": "2017-12-18",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1-1-2018 31-12-2019",
+   "amministrazione": "PREFETTURA DI LUCCA",
+   "ente": "LE MACINE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 949912.5,
+   "aggiudicato": 949912.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  }
+ ]
+}

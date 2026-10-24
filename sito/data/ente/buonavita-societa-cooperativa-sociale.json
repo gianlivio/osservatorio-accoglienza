@@ -1,0 +1,38 @@
+{
+ "nome": "BUONAVITA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "07294140723",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8390C51B9",
+   "data": "2025-09-16",
+   "oggetto": "MSNA - PERIODO LUGLIO/NOVEMBRE 2025",
+   "amministrazione": "COMUNE DI ALTAMURA",
+   "ente": "BUONAVITA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13904.76,
+   "aggiudicato": 13904.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

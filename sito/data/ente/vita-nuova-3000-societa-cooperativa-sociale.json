@@ -1,0 +1,54 @@
+{
+ "nome": "VITA NUOVA 3000 - SOCIETA'  COOPERATIVA SOCIALE",
+ "cf": "02844610846",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "735721885A",
+   "data": "2018-01-18",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 3^ TRIMESTRE 2017 COOP. VITA NUOVA 3000",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "VITA NUOVA 3000 - SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 158614.28,
+   "aggiudicato": 158614.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "73572090EF",
+   "data": "2018-01-18",
+   "oggetto": "LIQUIDAZIONE RETTE MSNA 2^ TRIMESTRE 2017 COOP. SOC. VITA NUOVA 3000",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "VITA NUOVA 3000 - SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 174428.56,
+   "aggiudicato": 174428.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

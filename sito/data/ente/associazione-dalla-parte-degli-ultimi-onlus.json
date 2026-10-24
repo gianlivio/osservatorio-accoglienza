@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE  DALLA PARTE DEGLI ULTIMI  ONLUS",
+ "cf": "92016070705",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8504185378",
+   "data": "2020-11-09",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA NELL'AMBITO DI UN PROGETTO TERRITORIALE ADERENTE AL SISTEMA DI PROTEZIONE (EX SPRAR)",
+   "amministrazione": "COMUNE DI RIPALIMOSANI",
+   "ente": "ASSOCIAZIONE  DALLA PARTE DEGLI ULTIMI  ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1957000.0,
+   "aggiudicato": 1957000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "70334098B6",
+   "data": "2017-03-31",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO PER LA COPROGETTAZIONE PER L'ATTIVAZIONE DI UN SISTEMA DI ACCOGLIENZA SPRAR",
+   "amministrazione": "COMUNE DI SEPINO",
+   "ente": "ASSOCIAZIONE  DALLA PARTE DEGLI ULTIMI  ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1260618.75,
+   "aggiudicato": 1260618.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

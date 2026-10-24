@@ -1,0 +1,38 @@
+{
+ "nome": "SCAGLIONE COSTRUZIONI GENERALI S.R.L.",
+ "cf": "04298780653",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9789721D53",
+   "data": "2023-04-29",
+   "oggetto": "LAVORI DI RIQUALIFICAZIONE DEL FABBRICATO DEL CORSO UMBERTO I, N. 8 PER ACCOGLIENZA PROFUGHI",
+   "amministrazione": "COMUNE DI ROMAGNANO AL MONTE",
+   "ente": "SCAGLIONE COSTRUZIONI GENERALI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 190421.68,
+   "aggiudicato": 186838.73,
+   "durata_gg": 240.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

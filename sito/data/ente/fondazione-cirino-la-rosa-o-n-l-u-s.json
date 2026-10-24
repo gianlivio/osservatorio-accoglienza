@@ -1,0 +1,33 @@
+{
+ "nome": "FONDAZIONE CIRINO LA ROSA O.N.L.U.S.",
+ "cf": "04176580878",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "854950283C",
+   "data": "2020-12-15",
+   "oggetto": "PROGETTO SIPROIMI - SISTEMA PROTEZIONE PER RICHIEDENTI ASILO, RIFUGIATI E MINORI STRANIERI NON ACCOMPAGNATI. AMPLIAMENTO POSTI ANNO 2020",
+   "amministrazione": "COMUNE DI CATANIA",
+   "ente": "FONDAZIONE CIRINO LA ROSA O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1430228.32,
+   "aggiudicato": 1368058.31,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

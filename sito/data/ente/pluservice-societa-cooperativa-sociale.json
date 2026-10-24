@@ -1,0 +1,54 @@
+{
+ "nome": "PLUSERVICE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01939340764",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8036443A8D",
+   "data": "2019-09-03",
+   "oggetto": "AFFIDAMENTO SOCIETÀ COOPERATIVA PLUSERVICE DI N. 28 MIGRANTI PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "PLUSERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 212780.4,
+   "aggiudicato": 212780.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7856439A8D",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 74 MIGRANTI ALLA SOC. COOP. SOCIALE PLUSERVICE PER IL PERIODO 1^ APRILE /31 DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "PLUSERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 450549.0,
+   "aggiudicato": 450549.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

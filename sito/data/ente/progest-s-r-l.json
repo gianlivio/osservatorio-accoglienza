@@ -1,0 +1,38 @@
+{
+ "nome": "PROGEST S.R.L.",
+ "cf": "01215300458",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "75070483FC",
+   "data": "2018-05-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTE PROTEZIONE INTERNAZIONALE COOP PROGEST",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "PROGEST S.R.L.",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 149500.0,
+   "aggiudicato": 149500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

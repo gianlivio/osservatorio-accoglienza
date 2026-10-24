@@ -1,0 +1,96 @@
+{
+ "nome": "SAN GIOVANNI DI DIO - SOC.COOP.SOC.SANIT.E SERV.INTEG.",
+ "cf": "02244320715",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9505841426",
+   "data": "2022-12-29",
+   "oggetto": "GESTIONE DEL CENTRO POLIFUNZIONALE CASA DELLE CULTURE, COMPRENSIVO DEL SERVIZIO DI ACCOGLIENZA, DELLO SPORTELLO PER L'INTEGRAZIONE SOCIOSANITARIA E CULTURALE DEGLI IMMIGRATI E DEL ",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "SAN GIOVANNI DI DIO - SOC.COOP.SOC.SANIT.E SERV.INTEG.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1293500.04,
+   "aggiudicato": 1293500.04,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "A0402031E3",
+   "data": "2021-07-22",
+   "oggetto": "GESTIONE DEL CENTRO POLIFUNZIONALE CASA DELLE CULTURE, COMPRENSIVO DEL SERVIZIO DI ACCOGLIENZA, DELLO SPORTELLO PER L'INTEGRAZIONE SOCIOSANITARIA E CULTURALE DEGLI IMMIGRATI E DEL ",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "SAN GIOVANNI DI DIO - SOC.COOP.SOC.SANIT.E SERV.INTEG.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 682500.04,
+   "aggiudicato": 682500.04,
+   "durata_gg": 182.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "8983403AAA",
+   "data": "2021-07-22",
+   "oggetto": "GESTIONE DEL CENTRO POLIFUNZIONALE CASA DELLE CULTURE, COMPRENSIVO DEL SERVIZIO DI ACCOGLIENZA, DELLO SPORTELLO PER L'INTEGRAZIONE SOCIOSANITARIA E CULTURALE DEGLI IMMIGRATI E DEL ",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "SAN GIOVANNI DI DIO - SOC.COOP.SOC.SANIT.E SERV.INTEG.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 862333.36,
+   "aggiudicato": 862333.36,
+   "durata_gg": 245.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "8284173BD0",
+   "data": "2020-04-29",
+   "oggetto": "GESTIONE DEL CENTRO POLIFUNZIONALE CASA DELLE CULTURE, COMPRENSIVO DEL SERVIZIO DI ACCOGLIENZA, DELLO SPORTELLO PER L'INTEGRAZIONE SOCIOSANITARIA E CULTURALE DEGLI IMMIGRATI E DEL ",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "SAN GIOVANNI DI DIO - SOC.COOP.SOC.SANIT.E SERV.INTEG.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5200000.32,
+   "aggiudicato": 107791.67,
+   "durata_gg": 1461.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BARI"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "nome": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+ "cf": "02440190813",
+ "affidamenti": 10,
+ "diretti": 10,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 10
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7401600989",
+   "data": "2018-02-27",
+   "oggetto": "SOC. COOP. NUOVA VILLA ROYAL .- STRUTTURA 'LE SALINE' .- MSNA ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 235000.0,
+   "aggiudicato": 235000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "74015922F1",
+   "data": "2018-02-27",
+   "oggetto": "SOC. COOP. NUOVA VILLA ROYAL .- STRUTTURA 'VILLA IMMACOLATA' .- MSNA ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 157000.0,
+   "aggiudicato": 157000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "7401584C54",
+   "data": "2018-02-27",
+   "oggetto": "SOC. COOP. NUOVA VILLA ROYAL.- STRUTTURA 'VILLA PIO' .- MSNA ANNO 2018",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 220000.0,
+   "aggiudicato": 220000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "70701529FE",
+   "data": "2017-05-09",
+   "oggetto": "RETTE MSNA OSPITATI PRESSO STRUTTRA 'VILLA IMMACOLATA' DELLA SOC.COOP. SOCIALE NUOVA VILLA ROYAL DI MARSALA",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 125143.0,
+   "aggiudicato": 125143.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6971367A08",
+   "data": "2017-02-07",
+   "oggetto": "RETTE RICOVERO N.14 MSNA PRESSO C.A. VILLA PIO DELLA SOC. COOP.SOCIALE NUOVA VILLA ROYAL ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 229950.0,
+   "aggiudicato": 229950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "697134363B",
+   "data": "2017-02-07",
+   "oggetto": "RETTE RICOVERO N.15 MSNA PRESSO C.A. MAMMA AFRICA DELLA SOC. COOP. SOCIALE NUOVA VILLA ROYAL ANNO 2017",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 246375.0,
+   "aggiudicato": 246375.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "66090665CB",
+   "data": "2015-12-31",
+   "oggetto": "RETTE RICOVERO MSNA SOC. COOP. NUOVA VILLA ROYAL C. A. VILLA PIO ANNO 2016",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 164700.0,
+   "aggiudicato": 234445.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "66064051DF",
+   "data": "2015-12-31",
+   "oggetto": "RETTE RICOVERO N.10 MSNA SOC. COOP. NUOVA VILLA ROYAL C.A. NUOVA VILLA ROYAL",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 164700.0,
+   "aggiudicato": 167700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6450454B06",
+   "data": "2015-07-21",
+   "oggetto": "RETTE RICOVERO MSNA NUOVA VILLA ROYAL SOC. COOP. COMUNITA' VILLA PIO",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 114000.0,
+   "aggiudicato": 114000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "64500838DE",
+   "data": "2015-02-28",
+   "oggetto": "RETTE RICOVERO MSNA",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "NUOVA VILLA ROYAL - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 194000.0,
+   "aggiudicato": 194000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

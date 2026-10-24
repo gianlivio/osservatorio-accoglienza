@@ -1,0 +1,54 @@
+{
+ "nome": "ARTA S.R.L.",
+ "cf": "10347291212",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B16BAAC9F1",
+   "data": "2024-04-26",
+   "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONEINTERNAZIONALE -ART 11 D LGS.18 -08 -2015 N 142 E SS.MM IN CENTRI COLLETTIVI 101-300 POSTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ARTA S.R.L.",
+   "procedura": "ALTRA PROCEDURA A PIU' FASI",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 70686630.0,
+   "aggiudicato": 10179092.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B16BAAB91E",
+   "data": "2024-04-26",
+   "oggetto": "SERVIZIO ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONEINTERNAZIONALE -ART 11 D LGS.18 -08 -2015 N 142 E SS.MM IN CENTRI COLLETTIVI 51-100",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ARTA S.R.L.",
+   "procedura": "ALTRA PROCEDURA A PIU' FASI",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 80191230.0,
+   "aggiudicato": 3807091.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

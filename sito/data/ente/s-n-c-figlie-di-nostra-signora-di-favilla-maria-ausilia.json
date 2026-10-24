@@ -1,0 +1,144 @@
+{
+ "nome": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+ "cf": "00340180462",
+ "affidamenti": 7,
+ "diretti": 2,
+ "quota_diretti": 28.6,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7187034015",
+   "data": "2017-07-31",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI FIGLIE DI NOSTRA SIGNORA DI LUCCA AGOSTO SETTEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 86559.06,
+   "aggiudicato": 86559.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "70027682F7",
+   "data": "2017-02-28",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI MARZO MAGGIO 2017 FIGLIE DI NS SIGNORA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 201971.16,
+   "aggiudicato": 201971.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6958698340",
+   "data": "2016-10-01",
+   "oggetto": "ACCOGLIENZA MIGRANTI OTTOBRE DICEMBRE 2016 E PROROGA TECNICA GENNAIO FEBBRAIO 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 297622.44,
+   "aggiudicato": 297622.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "680039142E",
+   "data": "2016-07-28",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI AGOSTO SETTEMBRE 2016 CASA FACI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 141493.8,
+   "aggiudicato": 141493.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6747396F4F",
+   "data": "2016-05-23",
+   "oggetto": "PROROGA TECNICA CONTRATTO ACC.MIGRANTI GIUGNO LUGLIO 2016 CASA FACI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 141493.8,
+   "aggiudicato": 141493.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6668305B5B",
+   "data": "2016-02-25",
+   "oggetto": "PROROGA TECNICA CONVENZIONE ACCOGLIENZA MIGRANTI CASA FACI MARZO MAGGIO 2016",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 146328.0,
+   "aggiudicato": 146328.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6536639D22",
+   "data": "2015-12-09",
+   "oggetto": "PROROGA TECNICA CONVENZIONE ACCOGLIENZA MIGRANTI CASA FACI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "S.N.C. FIGLIE DI NOSTRA SIGNORA DI FAVILLA MARIA AUSILIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 141493.8,
+   "aggiudicato": 141493.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

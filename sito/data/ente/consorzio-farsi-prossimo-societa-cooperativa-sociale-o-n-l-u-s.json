@@ -1,0 +1,96 @@
+{
+ "nome": "CONSORZIO FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "12632510157",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A020151AF3",
+   "data": "2023-10-24",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA PER L'AFFIDAMENTO DELLA GESTIONE E ORGANIZZAZIONE DI N. 46 POSTI DI ACCOGLIENZA RIVOLTI A PERSONE DESTINATARIE DEGLI INTERVENTI DEL SISTEMA SAI AI S",
+   "amministrazione": "COMUNI INSIEME PER LO SVILUPPO SOCIALE AZ.SPEC.CONSORTILE",
+   "ente": "CONSORZIO FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2416943.9,
+   "aggiudicato": 1680148.98,
+   "durata_gg": 1096.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8359611939",
+   "data": "2020-06-29",
+   "oggetto": "RIPETIZIONE SERVIZIO DI ACCOGLIENZA A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE O TITOLARI DI PROTEZIONE UMANITARIA NELL'AMBITO DEL PROGETTO SPRAR- IN STRUTTURE NELLA DISPO",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CONSORZIO FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1393733.76,
+   "aggiudicato": 1393733.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "82042308C4",
+   "data": "2020-03-20",
+   "oggetto": "RIPETIZIONE DEL SERVIZIO DI ACCOGLIENZA A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE O TITOLARI DI PROTEZIONE UMANITARIA NELL'AMBITO DEL PROGETTO SPRAR - IN STRUTTURE NELLA ",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CONSORZIO FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1378584.48,
+   "aggiudicato": 1378584.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "721961786A",
+   "data": "2017-10-04",
+   "oggetto": "APPALTO N. 59/2017 - AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE O TITOLARI DI PROTEZIONE UMANITARIA NELL'AMBITO DEL PROGETTO SPRAR -",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CONSORZIO FARSI PROSSIMO SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8311247.1,
+   "aggiudicato": 5529749.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

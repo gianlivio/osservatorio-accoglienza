@@ -1,0 +1,38 @@
+{
+ "nome": "I TALENTI - SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "07526431213",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9738765B1B",
+   "data": "2023-04-03",
+   "oggetto": "38SERV02/2023 SUA PC COMUNE DI SERVIGLIANO: PROCEDURA APERTA PER AFFIDAMENTO DELLA GESTIONE DEL PROGETTO SAI 'VEDO TERRA' - TRIENNIO 2023-2025",
+   "amministrazione": "COMUNE DI SERVIGLIANO",
+   "ente": "I TALENTI - SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 961533.48,
+   "aggiudicato": 961533.48,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  }
+ ]
+}

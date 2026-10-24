@@ -1,0 +1,38 @@
+{
+ "nome": "HATOR S.A.S. DI GIUSEPPE PICCOLO",
+ "cf": "00908400948",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A03FBDAC7E",
+   "data": "2023-12-19",
+   "oggetto": "RINNOVO CONVENZIONE SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI HATOR SAS",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "HATOR S.A.S. DI GIUSEPPE PICCOLO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 489839.25,
+   "aggiudicato": 489839.25,
+   "durata_gg": 283.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

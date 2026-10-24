@@ -1,0 +1,86 @@
+{
+ "nome": "SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE",
+ "cf": "02497770814",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6625789E0A",
+   "data": "2015-09-28",
+   "oggetto": "RETTE RICOVERO N. 12 MSNA SOC.COOP.SOLE C. A, ORTENZIA ANNO 2016",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 197640.0,
+   "aggiudicato": 197640.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6625726A0E",
+   "data": "2015-09-28",
+   "oggetto": "RETTE RICOVERO N.12 MSNA SOC. COOP SOLE C. A. SOLE ANNO 2016",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 197640.0,
+   "aggiudicato": 197640.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "648361505C",
+   "data": "2015-09-28",
+   "oggetto": "SOC. COOP SOLE - C.A ORTENSIA - OSPITALITÀ DI N,. 12 MSNA",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 231000.0,
+   "aggiudicato": 231000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6233442F0D",
+   "data": "2015-04-24",
+   "oggetto": "RICOVERO MSNA ANNO 2015 COOPERTAIVA SOCIALE ONLUS SOLE - COMUNITÀ SOLE",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "SOLE SOCIETA' COOPERATIVA SOCIALE ONLUS ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 350000.0,
+   "aggiudicato": 350000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

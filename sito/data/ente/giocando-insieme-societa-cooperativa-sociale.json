@@ -1,0 +1,38 @@
+{
+ "nome": "GIOCANDO INSIEME  - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01894400769",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MATERA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6978B62AF",
+   "data": "2025-04-24",
+   "oggetto": "ACCORDO QUADRO PER AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART. 11 DEL D.LGS. 142/20",
+   "amministrazione": "PREFETTURA DI MATERA",
+   "ente": "GIOCANDO INSIEME  - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 57108750.0,
+   "aggiudicato": 22615065.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MATERA"
+  }
+ ]
+}

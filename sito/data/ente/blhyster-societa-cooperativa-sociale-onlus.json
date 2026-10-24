@@ -1,0 +1,33 @@
+{
+ "nome": "BLHYSTER SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "01198120253",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "692843449B",
+   "data": "2017-01-03",
+   "oggetto": "ACCOGLIENZA ED ASSISTENZA AI CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BELLUNO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "BLHYSTER SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9607500.0,
+   "aggiudicato": 4962525.53,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

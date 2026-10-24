@@ -1,0 +1,107 @@
+{
+ "nome": "COOPERATIVA ZOE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04544560487",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73134111AE",
+   "data": "2018-01-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICH. PROT, INTERNAZ. - ASS. GLI ANGELI LOTTO 2",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA ZOE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 949000.0,
+   "aggiudicato": 949000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7313506014",
+   "data": "2017-12-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICH. PROT, INTERNAZ. - VILLAGGIO DEL RAGAZZO LOTTO 2",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA ZOE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 281050.0,
+   "aggiudicato": 281050.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "73132458AF",
+   "data": "2017-12-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICH. PROT, INTERNAZ. - CEIS LOTTO 2",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA ZOE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1366925.0,
+   "aggiudicato": 1366925.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7075030374",
+   "data": "2017-05-11",
+   "oggetto": "SERV. ACCOGLIENZA CITTADINI STRANIERI RICH. PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA ZOE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 394000.0,
+   "aggiudicato": 394000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "70749544BC",
+   "data": "2017-05-11",
+   "oggetto": "SERV. ACCOGLIENZA CITTADINI STRANIERI RICH. PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "COOPERATIVA ZOE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1056090.0,
+   "aggiudicato": 1056090.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

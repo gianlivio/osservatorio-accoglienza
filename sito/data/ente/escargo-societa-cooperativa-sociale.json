@@ -1,0 +1,107 @@
+{
+ "nome": "ESCARGO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02800780732",
+ "affidamenti": 5,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TARANTO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5D56059A0",
+   "data": "2025-02-28",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA E ASSISTENZA A FAVORE DI MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA TARANTO",
+   "ente": "ESCARGO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 80176.8,
+   "aggiudicato": 80176.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  },
+  {
+   "cig": "B3FA1C2D63",
+   "data": "2024-10-25",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA A FAVORE DI MIGRANTI",
+   "amministrazione": "PREFETTURA TARANTO",
+   "ente": "ESCARGO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 80176.0,
+   "aggiudicato": 80176.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  },
+  {
+   "cig": "B16670D854",
+   "data": "2024-04-24",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA A FAVORE DI MIGRANTI",
+   "amministrazione": "PREFETTURA TARANTO",
+   "ente": "ESCARGO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 44260.0,
+   "aggiudicato": 44260.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  },
+  {
+   "cig": "B0CEC03D30",
+   "data": "2024-03-13",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA A FAVORE DI MIGRANTI",
+   "amministrazione": "PREFETTURA TARANTO",
+   "ente": "ESCARGO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 44260.0,
+   "aggiudicato": 44260.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  },
+  {
+   "cig": "B0C3A7BC50",
+   "data": "2024-03-11",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA E ASSISTENZA A FAVORE DI MIGRANTI",
+   "amministrazione": "PREFETTURA TARANTO",
+   "ente": "ESCARGO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 44260.0,
+   "aggiudicato": 44260.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  }
+ ]
+}

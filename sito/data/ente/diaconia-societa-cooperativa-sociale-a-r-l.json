@@ -1,0 +1,195 @@
+{
+ "nome": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "02338800606",
+ "affidamenti": 9,
+ "diretti": 4,
+ "quota_diretti": 44.4,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "LATINA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9959B4CE5",
+   "data": "2025-12-16",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DELL'ASILO E DI FUNZIONAMENTO DEL SISTEMA DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE E PER I MINORI STRANIERI NON ACCOMPAGNATI (SIPROIMI).",
+   "amministrazione": "COMUNE DI FERENTINO",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3000053.33,
+   "aggiudicato": 5000088.9,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "B435FDF661",
+   "data": "2024-11-12",
+   "oggetto": "GARA SUA N. 76/2024 – AFFIDAMENTO DELLA GESTIONE DELLE AZIONI DEL SISTEMA PER L'ACCOGLIENZA, E L'INTEGRAZIONE DEI TITOLARI DI PROTEZIONE INTERNAZIONALE (SAI) – BIENNIO 2025-2026. P",
+   "amministrazione": "COMUNE DI FROSINONE",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2566494.59,
+   "aggiudicato": 1159144.09,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "B2E30F4436",
+   "data": "2024-09-02",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE SAI (EX SIPROIMI)",
+   "amministrazione": "COMUNE DI FORMIA",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138881.25,
+   "aggiudicato": 138881.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B215C24DAA",
+   "data": "2024-06-14",
+   "oggetto": "IMMIGRATI PRESENTI SUL TERRITORIO IN USCITA DAL SISTEMA DI ACCOGLIENZA",
+   "amministrazione": "COMUNE DI FERENTINO",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19564.04,
+   "aggiudicato": 19564.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "8648293D24",
+   "data": "2021-04-07",
+   "oggetto": "PROCEDURA APERTA PER L' AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E INTEGRAZIONE SAI (EX SIPROIMI)",
+   "amministrazione": "CENTRALE UNICA COMMITTENZA FORMIA GAETA MINTURNO",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 902500.0,
+   "aggiudicato": 902500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "8503923B40",
+   "data": "2020-11-10",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI FERENTINO",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1750031.1,
+   "aggiudicato": 1750031.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "7779479528",
+   "data": "2018-10-12",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01.02.2019/31.12.2019 - ASSOCIAZIONE IRIS",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 65130.0,
+   "aggiudicato": 65130.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "7572297928",
+   "data": "2018-07-06",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 107640.0,
+   "aggiudicato": 107640.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "69047170B9",
+   "data": "2016-12-13",
+   "oggetto": "GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'INTEGRAZIONE A FAVORE DI RICHIEDENTI ASILO E RIFUGIATI - SPRAR (DM 10 AGOSTO 2016 - ART.3 LETT A)",
+   "amministrazione": "COMUNE DI FERENTINO",
+   "ente": "DIACONIA SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2625048.0,
+   "aggiudicato": 2763207.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

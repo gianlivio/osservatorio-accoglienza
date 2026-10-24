@@ -1,0 +1,75 @@
+{
+ "nome": "SOL.CO. SOLIDARIETA' E COOPERAZIONE, SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "07429030583",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "691619617E",
+   "data": "2016-12-19",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR SOL CO GENNAIO GIUGNO 2017 CENTRO ZURLA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "SOL.CO. SOLIDARIETA' E COOPERAZIONE, SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 157108.0,
+   "aggiudicato": 157108.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "65151442E9",
+   "data": "2015-12-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA IMMIGRATI SISTEMA SPRAR AGGIUNTIVI 3 MARZO/ 31 DIC. 2015 CENTRO ZURLA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "SOL.CO. SOLIDARIETA' E COOPERAZIONE, SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 478800.0,
+   "aggiudicato": 478800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "63081756AF",
+   "data": "2015-06-24",
+   "oggetto": "PROSECUZIONE INCARICO SPRAR ANNO 2015. SOL.CO",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "SOL.CO. SOLIDARIETA' E COOPERAZIONE, SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 316820.0,
+   "aggiudicato": 316820.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

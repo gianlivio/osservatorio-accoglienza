@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE INSIEME VERSO NUOVI ORIZZONTI LOMBARDIA ODV",
+ "cf": "90039950135",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B78EF7F740",
+   "data": "2025-07-08",
+   "oggetto": "SERVIZI ACCOGLIENZA DIFFUSA DAL 1° LUGLIO AL 31 DICEMBRE 2025",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "ASSOCIAZIONE INSIEME VERSO NUOVI ORIZZONTI LOMBARDIA ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 133584.0,
+   "aggiudicato": 133584.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "LIBERA COMPAGNIA DI ARTI &AMP; MESTIERI SOC.COOP.SOCIALE A RL",
+ "cf": "11222820158",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "917646634D",
+   "data": "2022-04-06",
+   "oggetto": "RDO NON VINCOLANTE PER L'ENTE PER L'AFFIDAMENTO URGENTE DELLA GESTIONE DEL SISTEMA DI PRIMA ACCOGLIENZA 'CAS' IN RISPOSTA ALL'EMERGENZA PROFUGHI UCRAINI IN ACCORDO CON LA PREFETTUR",
+   "amministrazione": "COMUNE DI CERNUSCO SUL NAVIGLIO",
+   "ente": "LIBERA COMPAGNIA DI ARTI &AMP; MESTIERI SOC.COOP.SOCIALE A RL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 117000.0,
+   "aggiudicato": 117000.0,
+   "durata_gg": 260.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

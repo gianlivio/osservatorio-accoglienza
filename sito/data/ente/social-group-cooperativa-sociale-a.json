@@ -1,0 +1,70 @@
+{
+ "nome": "SOCIAL GROUP COOPERATIVA SOCIALE A",
+ "cf": "03600580926",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "762210258C",
+   "data": "2018-09-19",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI CARITAS",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "SOCIAL GROUP COOPERATIVA SOCIALE A",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 449337.5,
+   "aggiudicato": 449337.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "7621971970",
+   "data": "2018-09-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IL SICOMORO",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "SOCIAL GROUP COOPERATIVA SOCIALE A",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 150977.4,
+   "aggiudicato": 150977.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "7622069A4F",
+   "data": "2018-09-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI CASA EMMAUS",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "SOCIAL GROUP COOPERATIVA SOCIALE A",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135894.08,
+   "aggiudicato": 135894.08,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

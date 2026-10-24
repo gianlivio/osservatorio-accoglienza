@@ -1,0 +1,117 @@
+{
+ "nome": "FONDAZIONE L'ANCORA ONLUS",
+ "cf": "92100690095",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B880B5D4B0",
+   "data": "2025-10-06",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN EMERGENZA PER STRANIERI NON ACCOMPAGNATI (MSNA) DI ETÀ INFERIORE AI 16 ANNI PER I COMUNI DELL'AMBITO TERRITORIALE N. 7 SAVONESE",
+   "amministrazione": "COMUNE DI SAVONA",
+   "ente": "FONDAZIONE L'ANCORA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "B4BFD2716F",
+   "data": "2024-12-18",
+   "oggetto": "INSERIMENTO MSNA DAL 29/11/2024 AL 31/03/2025 IN STRUTTURA L'ANCORA DI VARAZZE",
+   "amministrazione": "COMUNE DI VARAZZE",
+   "ente": "FONDAZIONE L'ANCORA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7380.0,
+   "aggiudicato": 7380.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "B448C9E55D",
+   "data": "2024-11-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA IN EMERGENZA PER MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI SAVONA",
+   "ente": "FONDAZIONE L'ANCORA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13600.0,
+   "aggiudicato": 13600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  },
+  {
+   "cig": "8525287962",
+   "data": "2020-11-24",
+   "oggetto": "LOTTO 2 - SERVIZIO DI ACCOGLIENZA INTEGRATA DI N 30 MINORI STRANIERI NON ACCOMPAGNATI (PROGETTO SIPROMI MSNA)",
+   "amministrazione": "COMUNE DI SAVONA",
+   "ente": "FONDAZIONE L'ANCORA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2656920.0,
+   "aggiudicato": 2656920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7484624B1B",
+   "data": "2018-05-25",
+   "oggetto": "AFFIDAMENTO GESTIONE DEI SERVIZI DI ACCOGLIENZA TUTELA ED INTEGRAZIONE NELL'AMBITO DELLA RETE SPRAR ORDINARIO, DESTINATO AD ADULTI DI SESSO MASCHILE PER N. 20 PERSONE SULLA BASE DE",
+   "amministrazione": "AMMINISTRAZIONE PROVINCIALE DI SAVONA",
+   "ente": "FONDAZIONE L'ANCORA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 813432.37,
+   "aggiudicato": 813432.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

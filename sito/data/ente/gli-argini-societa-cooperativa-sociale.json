@@ -1,0 +1,38 @@
+{
+ "nome": "GLI ARGINI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "06420820489",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B87E336231",
+   "data": "2025-10-06",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023, DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - GLI ARGINI - LE TINAIE",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "GLI ARGINI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13400.0,
+   "aggiudicato": 13400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

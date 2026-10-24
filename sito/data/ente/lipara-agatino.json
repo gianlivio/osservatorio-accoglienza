@@ -1,0 +1,83 @@
+{
+ "nome": "LIPARA AGATINO",
+ "cf": "04910170879",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6D45E5B61",
+   "data": "2025-05-14",
+   "oggetto": "REVISORE SAI",
+   "amministrazione": "COMUNE DI TELESE TERME",
+   "ente": "LIPARA AGATINO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8196.72,
+   "aggiudicato": 8196.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "B50416CFF7",
+   "data": "2024-12-30",
+   "oggetto": "REVISORE CONTABILE PROGETTO SAI 1349",
+   "amministrazione": "COMUNE DI FONTANIGORDA",
+   "ente": "LIPARA AGATINO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9000.0,
+   "aggiudicato": 9000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B04424E11C",
+   "data": "2024-02-06",
+   "oggetto": "SERVIZIO DI REVISORE CONTABILE NELL'AMBITO DEI PROGETTI SAI 551-552 (TRIENNIO 2023-2025)",
+   "amministrazione": "COMUNE DI ANCONA",
+   "ente": "LIPARA AGATINO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29772.03,
+   "aggiudicato": 29772.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

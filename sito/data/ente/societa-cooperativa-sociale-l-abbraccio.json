@@ -1,0 +1,54 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE L'ABBRACCIO",
+ "cf": "01376810451",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B801102CFC",
+   "data": "2025-08-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI GAZA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE L'ABBRACCIO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 41195.0,
+   "aggiudicato": 41195.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "B71760C007",
+   "data": "2025-05-30",
+   "oggetto": "ACCORDO QUADRO PER L'ACQUISIZIONE DI 50 POSTI DI ACCOGLIENZA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) DI ETA' NON INFERIORE A 14 ANNI IN CENTRI COLLETTIVI - L'ABBRACCIO",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE L'ABBRACCIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 547314.29,
+   "aggiudicato": 547314.29,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

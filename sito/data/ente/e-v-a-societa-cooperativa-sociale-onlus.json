@@ -1,0 +1,38 @@
+{
+ "nome": "E.V.A. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "02740950619",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B232354F9C",
+   "data": "2024-06-24",
+   "oggetto": "OSPITALITA' PRESSO STRUTTURA PROTETTA",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "E.V.A. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15084.9,
+   "aggiudicato": 15084.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

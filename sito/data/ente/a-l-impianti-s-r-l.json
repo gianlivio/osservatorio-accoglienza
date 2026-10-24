@@ -1,0 +1,38 @@
+{
+ "nome": "A.L. IMPIANTI S.R.L.",
+ "cf": "04064471214",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GORIZIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "883897159D",
+   "data": "2021-07-05",
+   "oggetto": "LAVORI DI SOMMA URGENZA PRESSO IL CENTRO DI ACCOGLIENZA PER RICHIEDENTI ASILO DI GRADISCA D'ISONZO",
+   "amministrazione": "PROVVEDITORATO REGIONALE OO.PP.FRIULI VENEZIA GIULIA",
+   "ente": "A.L. IMPIANTI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 329679.12,
+   "aggiudicato": 304246.58,
+   "durata_gg": 100.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GORIZIA"
+  }
+ ]
+}

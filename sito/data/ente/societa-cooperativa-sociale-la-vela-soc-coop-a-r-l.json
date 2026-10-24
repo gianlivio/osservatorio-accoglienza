@@ -1,0 +1,75 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE LA VELA SOC. COOP A.R.L.",
+ "cf": "02303540401",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B99CF5F730",
+   "data": "2025-12-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LA VELA SOC. COOP A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 97026.0,
+   "aggiudicato": 97026.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B48D05A2DC",
+   "data": "2024-12-03",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LA VELA SOC. COOP A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 110710.25,
+   "aggiudicato": 110710.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B1E54DB493",
+   "data": "2024-05-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE LA VELA SOC. COOP A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63890.32,
+   "aggiudicato": 63890.32,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

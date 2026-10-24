@@ -1,0 +1,101 @@
+{
+ "nome": "ASSOCIAZIONE AMBASCIATA DEMOCRATICA LOCALE A ZAVIDOVICI E.T.S. IMPRESA SOCIALE",
+ "cf": "98071100170",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "841655266D",
+   "data": "2020-09-14",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN OPERATORE ECONOMICO ATTUATORE DEL PROGETTO TRIENNALE SIPROIMI",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "ASSOCIAZIONE AMBASCIATA DEMOCRATICA LOCALE A ZAVIDOVICI E.T.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5330060.0,
+   "aggiudicato": 1806800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "8496328FA7",
+   "data": "2018-02-21",
+   "oggetto": "RIPETIZIONE SERVIZI ANALOGHI BANDO CO-PROGETTAZIONE SELEZIONE SOGGETTO ATTUATORE PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI COLLEBEATO",
+   "ente": "ASSOCIAZIONE AMBASCIATA DEMOCRATICA LOCALE A ZAVIDOVICI E.T.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 948006.0,
+   "aggiudicato": 3497515.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "7266328B8C",
+   "data": "2017-11-07",
+   "oggetto": "COPROGETTAZIONE E ORGANIZZAZIONE SERVIZIO ACCOGLIENZA INTEGRATA -SPRAR 2018/19/20",
+   "amministrazione": "COMUNE DI PASSIRANO",
+   "ente": "ASSOCIAZIONE AMBASCIATA DEMOCRATICA LOCALE A ZAVIDOVICI E.T.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2899315.45,
+   "aggiudicato": 1123400.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "6572580897",
+   "data": "2016-02-01",
+   "oggetto": "BANDO PER LA PROCEDURA APERTA DI SELEZIONE DI UN ENTE GESTORE DEL PROGETTO SPRAR 2016-2017 DEL COMUNE DI CALVISANO",
+   "amministrazione": "COMUNE DI CALVISANO",
+   "ente": "ASSOCIAZIONE AMBASCIATA DEMOCRATICA LOCALE A ZAVIDOVICI E.T.S. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 279300.0,
+   "aggiudicato": 223110.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

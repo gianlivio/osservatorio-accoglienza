@@ -1,0 +1,70 @@
+{
+ "nome": "LA.TO. P.UBBLICO S.R.L.",
+ "cf": "02543680413",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5EEEF728E",
+   "data": "2025-03-07",
+   "oggetto": "SERVIZIO DI SUPPORTO SPECIALISTICO ALLA SEZIONE AMMINISTRATIVO/CONTABILE UFFICIO SERVIZI SOCIALI E ATS 8 - ANNO 2025 - PROGETTO SAI 128",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "LA.TO. P.UBBLICO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4083.33,
+   "aggiudicato": 4083.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B5EEEF61BB",
+   "data": "2025-03-07",
+   "oggetto": "SERVIZIO DI SUPPORTO SPECIALISTICO ALLA SEZIONE AMMINISTRATIVO/CONTABILE UFFICIO SERVIZI SOCIALI E ATS 8 - ANNO 2025 - PREOGETTO SAI 553",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "LA.TO. P.UBBLICO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4083.33,
+   "aggiudicato": 4083.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B5EEEF50E8",
+   "data": "2025-03-07",
+   "oggetto": "SERVIZIO DI SUPPORTO SPECIALISTICO ALLA SEZIONE AMMINISTRATIVO/CONTABILE UFFICIO SERVIZI SOCIALI E ATS 8 - ANNO 2025 - PROGETTO SAI MSNA 1411",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "LA.TO. P.UBBLICO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16333.34,
+   "aggiudicato": 16333.34,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

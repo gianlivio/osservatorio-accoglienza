@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE LO SCUDO",
+ "cf": "02416880611",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B34997B28C",
+   "data": "2024-10-04",
+   "oggetto": "COLLOCAMENTO MSNA YL IN STRUTTURA_CAMBIOPROGETTO",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI ALLA PERSONA E ALLA FAMIGLIA FUTURA",
+   "ente": "COOPERATIVA SOCIALE LO SCUDO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8190.0,
+   "aggiudicato": 8190.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

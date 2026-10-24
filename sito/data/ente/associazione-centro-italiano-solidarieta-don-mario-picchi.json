@@ -1,0 +1,59 @@
+{
+ "nome": "ASSOCIAZIONE CENTRO ITALIANO SOLIDARIETA' DON MARIO PICCHI",
+ "cf": "97011250582",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "89525695A6",
+   "data": "2021-10-22",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX- SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE CENTRO ITALIANO SOLIDARIETA' DON MARIO PICCHI",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 647520.0,
+   "aggiudicato": 647520.0,
+   "durata_gg": 426.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7261717E6D",
+   "data": "2017-11-02",
+   "oggetto": "PROGETTO CENTRI DI ACCOGLIENZA INTEGRATA PER ADULTI E FAMIGLIE - SPRAR - CEIS CENTRO ROMA CITTÀ APERTA 2",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE CENTRO ITALIANO SOLIDARIETA' DON MARIO PICCHI",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1215620.0,
+   "aggiudicato": 1215620.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "nome": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
+ "cf": "93011660433",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E4DE67B6",
+   "data": "2024-12-19",
+   "oggetto": "AFFIDAMENTI DIRETTI - PROSECUZIONE ANNO 2025 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI (MSNA), MADRI CON FIGLI MINORI E VITTIME DELLA VIOLENZA DI GEN",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66160.48,
+   "aggiudicato": 66160.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B1475C7B64",
+   "data": "2024-04-17",
+   "oggetto": "AFFIDAMENTO IN STRUTTURA DI 1 MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24500.0,
+   "aggiudicato": 24500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B12DABB681",
+   "data": "2024-04-11",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI CAMERINO",
+   "ente": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30600.0,
+   "aggiudicato": 30600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "A03F170473",
+   "data": "2023-12-19",
+   "oggetto": "PERCORSI DI INCLUSIONE SOCIALE PER MSNA",
+   "amministrazione": "COMUNE DI MACERATA",
+   "ente": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 127162.35,
+   "aggiudicato": 121107.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "9582324FE7",
+   "data": "2023-01-09",
+   "oggetto": "SERVIZI DI ASSISTENZA MINORI, MSNA E DI CONTRASTO ALLA VIOLENZA DI GENERE PRESSO LE STRUTTURE RESIDENZIALI - 2023",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "COOPERATIVA SOCIALE P.A.R.S. - PREVENZIONE ASSISTENZA REINSERIMENTO SOCIALE - PIO CAROSI -  IMPRESA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 56500.0,
+   "aggiudicato": 56500.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  }
+ ]
+}

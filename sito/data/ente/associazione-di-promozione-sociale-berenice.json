@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE BERENICE",
+ "cf": "97789670581",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9135840DA7",
+   "data": "2020-12-11",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI, SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE BERENICE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 128700.0,
+   "aggiudicato": 128700.0,
+   "durata_gg": 286.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

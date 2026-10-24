@@ -1,0 +1,38 @@
+{
+ "nome": "VENERABILE ARCICONFRATERNITA DELLA MISERICORDIA DI LIVORNO",
+ "cf": "00100460492",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6792516187",
+   "data": "2017-08-29",
+   "oggetto": "ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "VENERABILE ARCICONFRATERNITA DELLA MISERICORDIA DI LIVORNO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 94780.0,
+   "aggiudicato": 94780.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "LA VELA COOPERATIVA SOCIALE",
+ "cf": "05663991213",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "75995681E8",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIONE ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - GAMA SRL",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA VELA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 526512.0,
+   "aggiudicato": 526512.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "7327560DCA",
+   "data": "2017-12-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA N. 530 CITTADINI STRANIERI RICHIEDENTI ASILO LOTTO N. 1",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "LA VELA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4266288.0,
+   "aggiudicato": 31.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

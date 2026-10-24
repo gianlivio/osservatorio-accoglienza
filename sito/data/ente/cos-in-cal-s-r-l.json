@@ -1,0 +1,38 @@
+{
+ "nome": "COS.IN.CAL S.R.L.",
+ "cf": "00233400787",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B417EB8727",
+   "data": "2024-11-05",
+   "oggetto": "LAVORI DI COMPLETAMENTO DEL RECUPERO E RISTRUTTURAZIONE PALAZZO MARCHIANÒ DA ADIBIRE AD ALLOGGI DESTINATI ALL' ACCOGLIENZA DI MIGRANTI E PROFUGHI IN FUGA DALLE GUERRE",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA ARBERIA",
+   "ente": "COS.IN.CAL S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 493226.19,
+   "aggiudicato": 376889.27,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

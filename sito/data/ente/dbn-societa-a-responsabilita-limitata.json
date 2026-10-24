@@ -1,0 +1,59 @@
+{
+ "nome": "DBN - SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "00946540945",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9492554F5B",
+   "data": "2019-04-05",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "DBN - SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 144210.66,
+   "aggiudicato": 144210.66,
+   "durata_gg": 245.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "74080124E4",
+   "data": "2018-03-13",
+   "oggetto": "IL GECO - SOCIETA' COOPERATIVA SOCIALE - SEDE LEGALE ISERNIA - CONVENZIONE DEL SERVIZIO DI ACCOGLIENZA NEL TERRITORIO DELLA PROVINCIA DI ISERNIA A FAVORE DI CITTADINI STRANIERI RIC",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "DBN - SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1470960.0,
+   "aggiudicato": 1470960.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

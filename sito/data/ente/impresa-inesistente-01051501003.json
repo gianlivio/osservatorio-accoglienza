@@ -1,0 +1,38 @@
+{
+ "nome": "IMPRESA INESISTENTE",
+ "cf": "01051501003",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "980855861E",
+   "data": "2023-04-26",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA TEMPORANEA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) NELLA PROVINCIA DI MESSINA- ISTITU",
+   "amministrazione": "MINISTERO DELL'INTERNO -PREFETTURA MESSINA",
+   "ente": "IMPRESA INESISTENTE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 483625.0,
+   "aggiudicato": 483625.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "IGEA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02692760024",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B294F30D5C",
+   "data": "2024-07-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA 315 RICHIEDENTI ASILO IN CENTRI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "IGEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 6442290.0,
+   "aggiudicato": 358250.73,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

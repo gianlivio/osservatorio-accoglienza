@@ -1,0 +1,59 @@
+{
+ "nome": "SCALABRINI - BONOMELLI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03108300173",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8422AD98F",
+   "data": "2025-09-16",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "SCALABRINI - BONOMELLI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5139382.5,
+   "aggiudicato": 5139382.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "6910687F4E",
+   "data": "2016-12-22",
+   "oggetto": "GESTIONE DEL SERVIZIO DI ' SOSTEGNO ED ACCOMPAGNAMENTO DI PERSONE STRANIERE A RISCHIO DI MARGINALITÀ', PER IL PERIODO 2017/2019",
+   "amministrazione": "COMUNE DI BRESCIA",
+   "ente": "SCALABRINI - BONOMELLI SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 146448.0,
+   "aggiudicato": 71217.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

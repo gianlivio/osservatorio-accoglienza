@@ -1,0 +1,175 @@
+{
+ "nome": "MONTENERO S.R.L.",
+ "cf": "07078690489",
+ "affidamenti": 9,
+ "diretti": 8,
+ "quota_diretti": 88.9,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 6,
+   "diretti": 5,
+   "quota_diretti": 83.3
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "PARMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B77DB6D539",
+   "data": "2025-07-02",
+   "oggetto": "INSERIMENTO MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA RESIDENZIALE - MONTENERO SRL",
+   "amministrazione": "COMUNE DI MASSA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32000.0,
+   "aggiudicato": 32000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "B6F270DB6E",
+   "data": "2025-05-21",
+   "oggetto": "INSERIMENTO MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA RESIDENZIALE - LMONTENERO SRL",
+   "amministrazione": "COMUNE DI MASSA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5000.0,
+   "aggiudicato": 5000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "B51FDA33DE",
+   "data": "2025-01-10",
+   "oggetto": "INSERIMENTO MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA RESIDENZIALE - LMONTENERO SRL",
+   "amministrazione": "COMUNE DI MASSA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37920.0,
+   "aggiudicato": 37920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "B4892E1845",
+   "data": "2024-12-02",
+   "oggetto": "RINNOVO INSERIMENTO MINORE STRANIERO NON ACCOMPAGNATO PRESSO COMUNITÀ EDUCATIVA DAL 01/10/24 AL 30/11/24",
+   "amministrazione": "PEDEMONTANA SOCIALEAZIENDA TERRITORIALE PER I SERVIZI ALLA PERSONA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10248.0,
+   "aggiudicato": 10248.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "B309C2C30E",
+   "data": "2024-09-16",
+   "oggetto": "INSERIMENTO IN STRUTTURA DI MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "PEDEMONTANA SOCIALEAZIENDA TERRITORIALE PER I SERVIZI ALLA PERSONA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 8904.0,
+   "aggiudicato": 8904.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  },
+  {
+   "cig": "B2C9413C47",
+   "data": "2024-08-16",
+   "oggetto": "INSERIMENTO IN STRUTTURA DI N. 2 MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI MASSA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13200.0,
+   "aggiudicato": 13200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "B2C93CC1B3",
+   "data": "2024-08-16",
+   "oggetto": "INSERIMENTO IN STRUTTURA DI N. 2 MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI MASSA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23000.0,
+   "aggiudicato": 23000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "B0B5D0C0BC",
+   "data": "2024-03-07",
+   "oggetto": "COLLOCAMENTO DI MINORE MSNA CODICE 6778 IN COMUNITÀ RESIDENZIALE",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13172.0,
+   "aggiudicato": 13172.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "B092954EB0",
+   "data": "2024-02-27",
+   "oggetto": "INSERIMENTO MSNA IN STRUTTURA",
+   "amministrazione": "COMUNE DI MASSA",
+   "ente": "MONTENERO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23532.0,
+   "aggiudicato": 23532.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

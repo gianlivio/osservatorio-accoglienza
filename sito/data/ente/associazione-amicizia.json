@@ -1,0 +1,132 @@
+{
+ "nome": "ASSOCIAZIONE AMICIZIA",
+ "cf": "92082230282",
+ "affidamenti": 6,
+ "diretti": 6,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8860AA925",
+   "data": "2025-10-29",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA RESIDENZIALE A FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI A ASSOCIAZIONE AMICIZIA ONLUS. PERIODO 21.09.2025 - 21.07.2027",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE AMICIZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 112450.0,
+   "aggiudicato": 112450.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B4151ADB77",
+   "data": "2024-11-04",
+   "oggetto": "INSERIMENTO MSNA PRESSO COMUNITÀ DON BOSCO ASSOCIAZIONE DI VOLONTARIATO AMICIZIA DON PIETRO PENGO - PD",
+   "amministrazione": "ASP CENTRO SERVIZI ALLA PERSONA",
+   "ente": "ASSOCIAZIONE AMICIZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39900.0,
+   "aggiudicato": 39900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "87184314DC",
+   "data": "2021-04-20",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "ASSOCIAZIONE AMICIZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74669.04,
+   "aggiudicato": 74669.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "86892579B5",
+   "data": "2021-03-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "ASSOCIAZIONE AMICIZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74669.04,
+   "aggiudicato": 74669.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "8689183CA3",
+   "data": "2021-03-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "ASSOCIAZIONE AMICIZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74939.58,
+   "aggiudicato": 74939.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "8675517F18",
+   "data": "2021-03-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CERVIGNANO DEL FRIULI",
+   "ente": "ASSOCIAZIONE AMICIZIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73316.34,
+   "aggiudicato": 73316.34,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

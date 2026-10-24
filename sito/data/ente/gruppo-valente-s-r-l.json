@@ -1,0 +1,38 @@
+{
+ "nome": "GRUPPO VALENTE S.R.L.",
+ "cf": "13231220156",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B408E9F4A2",
+   "data": "2024-10-30",
+   "oggetto": "SERVIZIO DI TRASLOCO E FACCHINAGGIO PER LA NUOVA SEDE DELLA COMMISSIONE TERRITORIALE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "GRUPPO VALENTE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6700.0,
+   "aggiudicato": 6700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

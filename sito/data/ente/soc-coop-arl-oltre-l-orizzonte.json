@@ -1,0 +1,59 @@
+{
+ "nome": "SOC COOP ARL OLTRE L' ORIZZONTE",
+ "cf": "09985111211",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERRARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B56265D7BE",
+   "data": "2025-01-29",
+   "oggetto": "PROROGA INSERIMENTO MSNA PRESSO STRUTTURA DI COOPERATIVA SOCIALE OLTRE L'ORIZZONTE",
+   "amministrazione": "ASP CENTRO SERVIZI ALLA PERSONA",
+   "ente": "SOCIETA' COOPERATIVA OLTRE L'ORIZZONTE COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21000.0,
+   "aggiudicato": 21000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  },
+  {
+   "cig": "B172A9FC18",
+   "data": "2024-05-03",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) D. LGS. 36/2023 AVENTE AD OGGETTO L'ACCOGLIENZA DI MSNA E. M.A.G. IN CARICO ALL'AREA TUTELA MINORI DI ASP CENTRO SERVIZI ALLA PERSONA ",
+   "amministrazione": "ASP CENTRO SERVIZI ALLA PERSONA",
+   "ente": "SOC COOP ARL OLTRE L' ORIZZONTE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 120.0,
+   "aggiudicato": 120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERRARA"
+  }
+ ]
+}

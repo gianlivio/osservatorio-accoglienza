@@ -1,0 +1,195 @@
+{
+ "nome": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03597230139",
+ "affidamenti": 9,
+ "diretti": 6,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCO",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "SONDRIO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B85AF3EB56",
+   "data": "2025-09-23",
+   "oggetto": "ACCOGLIENZA E ASSISTENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI SONDRIO - U.T.G.",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1761720.1,
+   "aggiudicato": 1761720.1,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "SONDRIO"
+  },
+  {
+   "cig": "9080795D15",
+   "data": "2022-01-31",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 320606.73,
+   "aggiudicato": 320606.73,
+   "durata_gg": 304.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "883924039A",
+   "data": "2021-10-11",
+   "oggetto": "LOTTO 3 COMUNITÀ PER MSNA ALLOGGI PER L'AUTONOMIA",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1541760.0,
+   "aggiudicato": 1541760.0,
+   "durata_gg": 1461.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8890183B16",
+   "data": "2021-09-17",
+   "oggetto": "PROCEDURA APERTA, IN MODALITÀ ACCORDO QUADRO BIENNALE, AI SENSI DEGLI ARTT. 60 E 54 COMMA 4 LETT. A) DEL D.LGS. 50/2016 E SS.MM.II, TRAMITE PIATTAFORMA SINTEL DI ARIA S.P.A., CON I",
+   "amministrazione": "PREFETTURA UTG DI LECCO",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4051780.0,
+   "aggiudicato": 3275614.92,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8184475A6C",
+   "data": "2019-12-19",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 01.01.2020 - 31.12.2020 - CENTRI COLLETTIVI SINO A 50 POSTI - ITACA",
+   "amministrazione": "PREFETTURA UTG DI LECCO",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 403615.8,
+   "aggiudicato": 403615.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "76179871BF",
+   "data": "2018-09-18",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 01.092018 - 31.08.2019 - ENTE PROGETTO ITACA - LOTTO 1",
+   "amministrazione": "PREFETTURA UTG DI LECCO",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1854400.0,
+   "aggiudicato": 1854400.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "724107434C",
+   "data": "2017-10-10",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI POST REDISTRIBUZIONE DISPOSTA DA PREFETTURA DI LECCO",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 92531.41,
+   "aggiudicato": 92531.41,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "71628456AE",
+   "data": "2017-07-26",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE 16.07-31.08.2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO PER VARIANTE SUPERIORE AL 20% DELL'IMPORTO CONTRATTUALE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41474.68,
+   "aggiudicato": 41474.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "7260439FC9",
+   "data": "2017-06-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA E SERVIZI PER RICHIEDENTI ASILO - OTTOBRE DICEMBRE 2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "PROGETTO ITACA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 587891.04,
+   "aggiudicato": 587891.04,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  }
+ ]
+}

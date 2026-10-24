@@ -1,0 +1,38 @@
+{
+ "nome": "ASS.DI VOL.CULT.E SOLID. UN MONDO DI COLORI",
+ "cf": "90186960739",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TARANTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7041613ADD",
+   "data": "2017-05-19",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PER I RICHIEDENTI E I BENEFICIARI DI PROTEZIONE INTERNAZIONALE E PER I TITOLARI DEL PERMESSO UMANITARIO PER IL TRIENNIO 2017/2019",
+   "amministrazione": "UNIONE DEI COMUNI DI CRISPIANO, MASSAFRA E STATTE",
+   "ente": "ASS.DI VOL.CULT.E SOLID. UN MONDO DI COLORI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1025077.0,
+   "aggiudicato": 974429.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TARANTO"
+  }
+ ]
+}

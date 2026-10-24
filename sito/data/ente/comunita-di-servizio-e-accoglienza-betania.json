@@ -1,0 +1,59 @@
+{
+ "nome": "COMUNITA' DI SERVIZIO E ACCOGLIENZA BETANIA",
+ "cf": "92015970343",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8045928DD1",
+   "data": "2019-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - COMUNITÀ BETANIA",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "COMUNITA' DI SERVIZIO E ACCOGLIENZA BETANIA",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 280923.3,
+   "aggiudicato": 253051.62,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7389160FB7",
+   "data": "2018-02-21",
+   "oggetto": "PROCEDURA APERTA AI SENSI DEGLI ARTT. 54, 59 E 60 DEL D. LGS 50/2016 E SMI PER L'AFFIDAMENTO MEDIANTE ACCORDO QUADRO CONVENZIONE CON PIÙ SOGGETTI ECONOMICI NEL TERRITORIO DELLA PRO",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "COMUNITA' DI SERVIZIO E ACCOGLIENZA BETANIA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 38073000.0,
+   "aggiudicato": 12764608.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  }
+ ]
+}

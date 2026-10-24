@@ -1,0 +1,54 @@
+{
+ "nome": "COOPERATIVA SOCIALE METIS SOCIETA' COOPERATIVA",
+ "cf": "03393260405",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A043D2A249",
+   "data": "2023-12-22",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE CENTRI COLLETTII",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "COOPERATIVA SOCIALE METIS SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 64263.0,
+   "aggiudicato": 64263.0,
+   "durata_gg": 120.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "A00025E4E8",
+   "data": "2023-07-31",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "COOPERATIVA SOCIALE METIS SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

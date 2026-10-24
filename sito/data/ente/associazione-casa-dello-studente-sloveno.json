@@ -1,0 +1,107 @@
+{
+ "nome": "ASSOCIAZIONE CASA DELLO STUDENTE SLOVENO",
+ "cf": "00514220326",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "91113170A6",
+   "data": "2021-11-25",
+   "oggetto": "INTERVENTI DI ACCOGLIMENTO DI MINORI STRANIERI NON ACCOMPAGNATI. PROSECUZIONE DEI SERVIZI DI ACCOGLIENZA ORDINARIA E NEOMAGGIORENNI DAL 01/01/2022. CASA DELLO STUDENTE SLOVENO DI T",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASSOCIAZIONE CASA DELLO STUDENTE SLOVENO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 780925.0,
+   "aggiudicato": 780925.0,
+   "durata_gg": 181.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "8822490510",
+   "data": "2021-05-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN ISOLAMENTO FIDUCIARIO PER MSNA",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASSOCIAZIONE CASA DELLO STUDENTE SLOVENO",
+   "procedura": "AFFIDAMENTO DIRETTO PER MODIFICHE CONTRATTUALI O VARIANTI PER LE QUALI È NECESSARIA UNA NUOVA PROCEDURA DI AFFIDAMENTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 605662.2,
+   "aggiudicato": 605662.0,
+   "durata_gg": 183.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "8822473708",
+   "data": "2021-05-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN ISOLAMENTO FIDUCIARIO PER MSNA CON STRUTTURE",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASSOCIAZIONE CASA DELLO STUDENTE SLOVENO",
+   "procedura": "AFFIDAMENTO DIRETTO PER MODIFICHE CONTRATTUALI O VARIANTI PER LE QUALI È NECESSARIA UNA NUOVA PROCEDURA DI AFFIDAMENTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 340280.0,
+   "aggiudicato": 340280.0,
+   "durata_gg": 183.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "86541362F3",
+   "data": "2021-01-14",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASSOCIAZIONE CASA DELLO STUDENTE SLOVENO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 300474.0,
+   "aggiudicato": 399543.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "8383098F4D",
+   "data": "2020-08-14",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN ISOLAMENTO FIDUCIARIO PER MSNA CON STRUTTURE",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "ASSOCIAZIONE CASA DELLO STUDENTE SLOVENO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 416908.16,
+   "aggiudicato": 340280.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

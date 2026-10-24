@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE UNITY AND FRIENDSHIP",
+ "cf": "04244540615",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0EAB3EE26",
+   "data": "2024-03-21",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA STRAORDINARIA RIFUGIATI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ASSOCIAZIONE UNITY AND FRIENDSHIP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10144.4,
+   "aggiudicato": 10144.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

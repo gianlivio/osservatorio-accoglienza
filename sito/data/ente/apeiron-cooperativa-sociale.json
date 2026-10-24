@@ -1,0 +1,279 @@
+{
+ "nome": "APEIRON - COOPERATIVA SOCIALE",
+ "cf": "03478010618",
+ "affidamenti": 14,
+ "diretti": 9,
+ "quota_diretti": 64.3,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 11
+  },
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B831378AEF",
+   "data": "2025-09-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3835566.0,
+   "aggiudicato": 3835566.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B82CAC6D79",
+   "data": "2025-09-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1193287.2,
+   "aggiudicato": 1193287.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B7DE0F7381",
+   "data": "2025-08-04",
+   "oggetto": "AFFIDAMENTO DIRETTO DEI SERVIZI DI ACCOGLIENZA DI MIGRANTI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40324.8,
+   "aggiudicato": 40324.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "B78103FBEC",
+   "data": "2025-07-03",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 11 D.LGS. 142/2015 DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI DI NAZIONALITA' UCRAINA, EX ODCDPC DEL 29 DICEMBRE 2024, PRESSO SINGOLE",
+   "amministrazione": "PREFETTURA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 112492.0,
+   "aggiudicato": 112492.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B5A54A2E9C",
+   "data": "2025-02-17",
+   "oggetto": "SERVIZIO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139026.0,
+   "aggiudicato": 139026.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B4D66B3D0C",
+   "data": "2024-12-17",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139026.0,
+   "aggiudicato": 139026.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B44CDEB8AA",
+   "data": "2024-11-18",
+   "oggetto": "GARA ACCOGLIENZA MSNA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9404462.25,
+   "aggiudicato": 6241500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B16BAAA84B",
+   "data": "2024-04-26",
+   "oggetto": "UNIT� ABITATIVE CON CAPIENZA FINO A 50 POSTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A PIU' FASI",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 15499861.88,
+   "aggiudicato": 2057083.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "A06662CD88",
+   "data": "2023-07-11",
+   "oggetto": "CONVENZIONE ATTUATIVA SERVIZIO DI ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI FINO A 50 POSTI III ANNUALITÀ COOP. APEIRON",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1478235.4,
+   "aggiudicato": 1478235.4,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "9939887E3A",
+   "data": "2023-07-04",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI FINO A 50 POSTI COOPSOCIALE APEIRON",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1204622.13,
+   "aggiudicato": 1204622.13,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "87024744BA",
+   "data": "2021-04-21",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2659463.0,
+   "aggiudicato": 40.08,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "84666672A3",
+   "data": "2020-11-06",
+   "oggetto": "SERVIZI DI ACCOGLIENZA, PROTEZIONE, TUTELA ED INTEGRAZIONE DI RICHIEDENTI ASILO E RIFUGIATI DI CUI LA PROGETTO S.P.R.A.R. DEL COMUNE DI CERASO PER IL TRIENNIO 2021-2023",
+   "amministrazione": "COMUNE DI CERASO",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 699692.62,
+   "aggiudicato": 803162.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "7599955145",
+   "data": "2018-07-18",
+   "oggetto": "STIPULA CONVENZIOE ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - COOP.OLTRE",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 136900.0,
+   "aggiudicato": 136900.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "75730728B5",
+   "data": "2018-07-13",
+   "oggetto": "STIPULA CONVENZIONE IN ATTUAZIONE ACCORDO QUADRO ACCOGLIENZA MIGRANTI ANNO 2018 - SOCIETÀ FAMILY",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "APEIRON - COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 718262.0,
+   "aggiudicato": 718262.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO IL MELOGRANO SOCIETA' COOPERATIVA SOCIALE (ONLUS)",
+ "cf": "09232421009",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9778922DB5",
+   "data": "2023-06-08",
+   "oggetto": "ISTITUZIONE IN CO-PROGETTAZIONE DI UN SERVIZIO DI ETNOPSICHIATRIA RIVOLTO A PROFUGHI IN FUGA DALLE GUERRE, CENTRO DISABILI DIURNO, INFERMIERE DI COMUNITÀ E SERVIZIO DI ASSISTENZA D",
+   "amministrazione": "COMUNE LERCARA FRIDDI",
+   "ente": "CONSORZIO IL MELOGRANO SOCIETA' COOPERATIVA SOCIALE (ONLUS)",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5000000.0,
+   "aggiudicato": 5000000.0,
+   "durata_gg": 821.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

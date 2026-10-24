@@ -1,0 +1,121 @@
+{
+ "nome": "COOPERATIVA SOCIALE LE NUVOLE",
+ "cf": "01694920339",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6E92F0158",
+   "data": "2025-05-20",
+   "oggetto": "PROROGA ID 10012 MSNA",
+   "amministrazione": "ASP CARLO SARTORI",
+   "ente": "COOPERATIVA SOCIALE LE NUVOLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5290.0,
+   "aggiudicato": 5290.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B6E91B8FDB",
+   "data": "2025-05-20",
+   "oggetto": "PROROGA ID 10016 MSNA",
+   "amministrazione": "ASP CARLO SARTORI",
+   "ente": "COOPERATIVA SOCIALE LE NUVOLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5865.0,
+   "aggiudicato": 5865.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B0D721D735",
+   "data": "2024-03-15",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI ALLA STRUTTURA LE NUVOLE COOPERATIVA SOCIALE. IMPEGNO DI SPESA PRESUNTO PER L'A",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "COOPERATIVA SOCIALE LE NUVOLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52000.0,
+   "aggiudicato": 52000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "97883165E4",
+   "data": "2023-05-02",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. IMPEGNO DI SPESA PRESUNTA RELATIVO ALL'AFFIDAMENTO IN PROSECUZIONE DEL SERVIZIO A COOPERATIVE DIVERS",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "COOPERATIVA SOCIALE LE NUVOLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 103430.64,
+   "aggiudicato": 103430.64,
+   "durata_gg": 181.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9580043593",
+   "data": "2022-12-30",
+   "oggetto": "APPROVAZIONE DELLA SPESA PER GLI INSERIMENTI DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA ANNO - OTTAVA QUOTA ANNO 2022. LE NUVOLE",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "COOPERATIVA SOCIALE LE NUVOLE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52428.58,
+   "aggiudicato": 52428.58,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

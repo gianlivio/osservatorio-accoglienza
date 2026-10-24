@@ -1,0 +1,80 @@
+{
+ "nome": "CONSORZIO CONSOLIDA - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02098670132",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7388108B95",
+   "data": "2018-01-22",
+   "oggetto": "PROGETTO SPRAR 2017-2019 - AMPLIAMENTO POSTI 2018-2019",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "CONSORZIO CONSOLIDA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1664137.2,
+   "aggiudicato": 1664137.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "70890358BD",
+   "data": "2017-06-06",
+   "oggetto": "SUA.LECCO. COMUNITÀ MONTANA VALSASSINA. ACCORDO QUADRO CON UNO O PIÙ ENTI GESTORI, CHE DOVRANNO OPERARE NELLA PROVINCIA DI LECCO, A CUI AFFIDARE IL SERVIZIO DI ACCOGLIENZA DI CITTA",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "CONSORZIO CONSOLIDA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 815370.0,
+   "aggiudicato": 815370.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "642896990B",
+   "data": "2015-10-13",
+   "oggetto": "PROGETTO SPRAR - POSTI AGGIUNTIVI 2015",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "CONSORZIO CONSOLIDA - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66740.39,
+   "aggiudicato": 69410.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  }
+ ]
+}

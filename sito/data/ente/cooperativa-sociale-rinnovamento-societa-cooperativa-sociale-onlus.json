@@ -1,0 +1,173 @@
+{
+ "nome": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "01548440161",
+ "affidamenti": 8,
+ "diretti": 1,
+ "quota_diretti": 12.5,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7757446EF0",
+   "data": "2019-01-07",
+   "oggetto": "COOP. RINNOVAMENTO PROROGA CONEVNZIONE ACCOGLIENZA MIGRANTI I TRI,ESTRE 2019",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 50400.0,
+   "aggiudicato": 50400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "732002648C",
+   "data": "2017-12-15",
+   "oggetto": "COOP. RINNOVAMENTO PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI I BIMESTRE 2018",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 53690.0,
+   "aggiudicato": 53690.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7189464560",
+   "data": "2017-07-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI MIGRANTI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 193200.0,
+   "aggiudicato": 193200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "67705480F6",
+   "data": "2016-08-03",
+   "oggetto": "ACCOGLIENZA MIGRANTI E GESTIONE SERVIZI CONNESSI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3511200.0,
+   "aggiudicato": 1003939.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "6600360560",
+   "data": "2016-02-19",
+   "oggetto": "PROROGA TECNICA SERVIZIO ACCOGLIENZA MIGRANTI RINNOVAMENTO",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 52700.0,
+   "aggiudicato": 52700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "660028684E",
+   "data": "2016-02-19",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PROROGA TECNICA COOP RINNOVAMENTO",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 88600.0,
+   "aggiudicato": 88600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "65185258FE",
+   "data": "2015-12-15",
+   "oggetto": "PROROGA SERVIZO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 234600.0,
+   "aggiudicato": 234600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "61476999B2",
+   "data": "2015-02-27",
+   "oggetto": "SERVIZIO ACCOGLIEZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "COOPERATIVA SOCIALE RINNOVAMENTO - SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5087250.0,
+   "aggiudicato": 5087250.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  }
+ ]
+}

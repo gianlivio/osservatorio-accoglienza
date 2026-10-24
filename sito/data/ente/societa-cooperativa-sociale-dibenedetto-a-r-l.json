@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE DIBENEDETTO A R.L.",
+ "cf": "03827220710",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B328F18C39",
+   "data": "2024-09-26",
+   "oggetto": "ALL'AFFIDAMENTO DEL SERVIZIO DI GESTIONE DELLO SPORTELLO PER L'INTEGRAZIONE SOCIO-SANITARIA-CULTURALE DEGLI IMMIGRATI, MEDIAZIONE INTERCULTURALE E ALFABETIZZAZIONE A RAFFORZAMENTO ",
+   "amministrazione": "COMUNE DI CERIGNOLA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE DIBENEDETTO A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139428.58,
+   "aggiudicato": 139428.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

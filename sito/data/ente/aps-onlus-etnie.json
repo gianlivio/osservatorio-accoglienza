@@ -1,0 +1,75 @@
+{
+ "nome": "APS ONLUS ETNIE",
+ "cf": "92031660720",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73839704CE",
+   "data": "2018-03-06",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI SOGGETTO ATTUATORE PER LA ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE UMANITARIA NELL'AMBITO ",
+   "amministrazione": "COMUNE DI SAN FERDINANDO DI PUGLIA",
+   "ente": "APS ONLUS ETNIE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 999889.0,
+   "aggiudicato": 668992.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "73352854AC",
+   "data": "2016-04-06",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO PER LA CO-PROGETTAZIONE, ORGANIZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, IN FAVORE DI RICHIEDENTI E DI TITOLARI DI PROTEZIO",
+   "amministrazione": "COMUNE DI SAN FERDINANDO DI PUGLIA",
+   "ente": "APS ONLUS ETNIE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 90899.0,
+   "aggiudicato": 80899.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "6649630843",
+   "data": "2016-04-06",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO PER LA CO-PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, IN FAVORE DI RICHIEDENTI E DI TITOLARI DI PROTEZI",
+   "amministrazione": "COMUNE DI SAN FERDINANDO DI PUGLIA",
+   "ente": "APS ONLUS ETNIE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 682666.0,
+   "aggiudicato": 547134.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

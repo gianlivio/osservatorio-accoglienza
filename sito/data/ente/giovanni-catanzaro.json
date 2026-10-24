@@ -1,0 +1,38 @@
+{
+ "nome": "GIOVANNI CATANZARO",
+ "cf": "03719990834",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B039A5B881",
+   "data": "2024-02-02",
+   "oggetto": "AFFIDAMENTO PROGETTAZIONE IMPIANTI LAVORI DI ADEGUAMENTO DELL'EDIFICIO COMUNALE SITO IN VIA PACINI PER LA CREAZIONE DI SERVIZI PER GLI ANZIANI E PER L'ACCOGLIENZA DI MIGRANTI PROFU",
+   "amministrazione": "COMUNE DI CASTEL DI LUCIO",
+   "ente": "GIOVANNI CATANZARO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2000.0,
+   "aggiudicato": 2000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

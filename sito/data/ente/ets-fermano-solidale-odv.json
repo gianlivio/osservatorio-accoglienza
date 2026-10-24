@@ -1,0 +1,107 @@
+{
+ "nome": "ETS FERMANO SOLIDALE ODV",
+ "cf": "02495220440",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERMO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9DA639A53",
+   "data": "2025-12-31",
+   "oggetto": "PREFETTURA DI FERMO: ADESIONE ACCORDO QUADRO PER I SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA ED ASSISTENZA IN SINGOLE UNITÀ ABITATIVE - 95 POSTI",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "ETS FERMANO SOLIDALE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4046453.51,
+   "aggiudicato": 4046453.51,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B97B1024AC",
+   "data": "2025-12-10",
+   "oggetto": "AFFIDAMENTO DIRETTO SERVIZI DI ACCOGLIENZA IN SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "ETS FERMANO SOLIDALE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 223782.0,
+   "aggiudicato": 223782.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B6F7C43CE9",
+   "data": "2025-05-22",
+   "oggetto": "AFFIDAMENTO DIRETTO SERVIZI DI ACCOGLIENZA IN SINGOLE UNITÀ PER STRANIERI RICHIEDENTI PROTEZIONE DAL 25.5.2025 AL 1.9.2025",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "ETS FERMANO SOLIDALE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 371070.0,
+   "aggiudicato": 371070.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B58E0F13E2",
+   "data": "2025-02-10",
+   "oggetto": "AFFIDAMENTO DIRETTO SERVIZI DI ACCOGLIENZA IN UNITA ABITATIVE",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "ETS FERMANO SOLIDALE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 371070.0,
+   "aggiudicato": 371070.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "B418FEA7CC",
+   "data": "2024-11-05",
+   "oggetto": "AFFIDAMENTO SERVIZI DI ACCOGLIENZA, IN UNITÀ ABITATIVE,PER STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "ETS FERMANO SOLIDALE ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 366890.0,
+   "aggiudicato": 366890.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FERMO"
+  }
+ ]
+}

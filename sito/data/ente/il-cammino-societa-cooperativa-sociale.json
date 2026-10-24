@@ -1,0 +1,112 @@
+{
+ "nome": "IL CAMMINO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01769310507",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "944560362D",
+   "data": "2022-10-21",
+   "oggetto": "GARA PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L' AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEI CAS PER MIGRANTI - SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "IL CAMMINO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 28530093.6,
+   "aggiudicato": 9365590.04,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8703492CCC",
+   "data": "2021-04-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESOS CAS 11.04.2021-10.04.2022 - IL CAMMINO",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "IL CAMMINO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 818047.13,
+   "aggiudicato": 818047.13,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "77872913D3",
+   "data": "2019-02-07",
+   "oggetto": "GESTIONE E FUNZIONAMENTO CENTRI DI ACCOGLIENZA STRAORDINARIA RICHIEDENTI ASILO PROVINCIA DI PISA PRESSO STRUTTURE ABITATIVE ANNO 2019",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "IL CAMMINO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17219557.55,
+   "aggiudicato": 6229806.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7122929AF3",
+   "data": "2017-07-01",
+   "oggetto": "CONVENZIONE CAS MIGRANTI ARCI GARA 2017",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "IL CAMMINO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 859377.6,
+   "aggiudicato": 859377.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7110409F1D",
+   "data": "2017-06-15",
+   "oggetto": "SERVIZIO CAS MIGRANTI MC MULTICONS GARA 2017",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "IL CAMMINO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 251904.0,
+   "aggiudicato": 251904.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

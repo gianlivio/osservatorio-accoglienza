@@ -1,0 +1,33 @@
+{
+ "nome": "OPERA DIOCESANA PATRONATO SAN VINCENZO",
+ "cf": "80024390165",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "674201137B",
+   "data": "2016-07-01",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA IMMIGRATI E DEI SERVIZI CONNESSI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "OPERA DIOCESANA PATRONATO SAN VINCENZO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 1260000.0,
+   "aggiudicato": 296310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

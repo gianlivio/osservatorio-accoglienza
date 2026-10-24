@@ -1,0 +1,38 @@
+{
+ "nome": "CONCORDIA AUTONOLEGGIO AUTOBUS DI SALLI GIOVANNI & C. S.N.C.",
+ "cf": "02180780849",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B19B92E4C4",
+   "data": "2024-05-10",
+   "oggetto": "CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUSA ANNO 2023.",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "CONCORDIA AUTONOLEGGIO AUTOBUS DI SALLI GIOVANNI & C. S.N.C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22071.34,
+   "aggiudicato": 22071.34,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

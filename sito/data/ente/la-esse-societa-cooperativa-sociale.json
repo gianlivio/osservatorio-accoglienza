@@ -1,0 +1,59 @@
+{
+ "nome": "LA ESSE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02157480266",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TREVISO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8519748E73",
+   "data": "2020-12-04",
+   "oggetto": "SIPROIMI EX SPRAR - INDIVIDUAZIONE SOGGETTO ATTUATORE PROSECUZIONE PROGETTO 2018-2020",
+   "amministrazione": "COMUNE DI TREVISO",
+   "ente": "LA ESSE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2146440.36,
+   "aggiudicato": 2146440.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  },
+  {
+   "cig": "660948820B",
+   "data": "2016-03-03",
+   "oggetto": "SERIVIZIO DI ACCOGLIENZA ED ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - 164 POSTI",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "LA ESSE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 225598.4,
+   "aggiudicato": 174838.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TREVISO"
+  }
+ ]
+}

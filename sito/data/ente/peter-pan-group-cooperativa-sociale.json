@@ -1,0 +1,86 @@
+{
+ "nome": "PETER PAN GROUP COOPERATIVA SOCIALE",
+ "cf": "01196500290",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROVIGO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4F84DF723",
+   "data": "2024-12-24",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA IN CENTRI PER MSNA",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "PETER PAN GROUP COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30908.0,
+   "aggiudicato": 30908.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "B33940D576",
+   "data": "2024-09-30",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA IN CENTRI PER MSNA",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "PETER PAN GROUP COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30908.0,
+   "aggiudicato": 30908.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "B24BF40D5B",
+   "data": "2024-07-02",
+   "oggetto": "GESTIONE SERVIZI ACCOGLIENZA IN CENTRI PER MSNA",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "PETER PAN GROUP COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32385.0,
+   "aggiudicato": 32385.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  },
+  {
+   "cig": "B0A73109AE",
+   "data": "2024-03-04",
+   "oggetto": "ACCOGLIENZA 6 MSNA",
+   "amministrazione": "PREFETTURA DI ROVIGO",
+   "ente": "PETER PAN GROUP COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 38862.0,
+   "aggiudicato": 38862.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROVIGO"
+  }
+ ]
+}

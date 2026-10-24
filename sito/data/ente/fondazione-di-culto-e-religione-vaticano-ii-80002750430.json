@@ -1,0 +1,54 @@
+{
+ "nome": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+ "cf": "80002750430",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B96D811E14",
+   "data": "2025-12-04",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI MACERATA",
+   "ente": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 218320.0,
+   "aggiudicato": 218320.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  },
+  {
+   "cig": "B4D2AFC5D3",
+   "data": "2025-01-27",
+   "oggetto": "S.U.A. PER LA PREFETTURA - U.T.G. DI MACERATA. PROCEDURA APERTA PER L'AFFIDAMENTO MEDIANTE ACCORDO QUADRO CON PIÃÃÃÃÂ¹ OPERATORI ECONOMICI, SENZA SUCCESSIVO CONFRONTO COM",
+   "amministrazione": "PREFETTURA DI MACERATA",
+   "ente": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3061298.8,
+   "aggiudicato": 873237.68,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MACERATA"
+  }
+ ]
+}

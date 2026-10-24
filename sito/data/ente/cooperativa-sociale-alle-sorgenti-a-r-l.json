@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE ALLE SORGENTI A R.L.",
+ "cf": "02311090928",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SUD SARDEGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "997419239F",
+   "data": "2023-07-20",
+   "oggetto": "AFFIDAMENTO DIRETTO PER LA GESTIONE DEL SERVIZIO DI ACCOGLIENZA DEI MIGRANTI ALLE SORGENTI A R.L.",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "COOPERATIVA SOCIALE ALLE SORGENTI A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 143514.0,
+   "aggiudicato": 143514.0,
+   "durata_gg": 153.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SUD SARDEGNA"
+  }
+ ]
+}

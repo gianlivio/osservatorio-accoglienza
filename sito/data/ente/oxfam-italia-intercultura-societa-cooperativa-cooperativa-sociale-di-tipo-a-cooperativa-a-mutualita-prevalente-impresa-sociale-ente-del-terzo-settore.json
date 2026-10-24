@@ -1,0 +1,247 @@
+{
+ "nome": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+ "cf": "01764350516",
+ "affidamenti": 12,
+ "diretti": 4,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B912469234",
+   "data": "2025-11-12",
+   "oggetto": "ADESIONE ALLA CONVENZIONE QUADRO DI ESTAR PER IL SERVIZIO DI MEDIAZIONE LINGUISTICO-CULTURALE E MEDIAZIONE INTEGRATA PER LE ESIGENZE DEGLI ENTI DEL SERVIZIO SANITARIO DELLA REGIONE",
+   "amministrazione": "AZIENDA UNITA SANITARIA LOCALE TOSCANA SUD-EST",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19968.03,
+   "aggiudicato": 19968.03,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "A006540EAB",
+   "data": "2023-08-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI BIBBIENA",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 116964.0,
+   "aggiudicato": 116964.0,
+   "durata_gg": 95.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9828828D71",
+   "data": "2023-05-18",
+   "oggetto": "PROGETTAZIONE E GESTIONE SERVIZIO DI ACCOGLIENZA PROGETTO SAI 1013",
+   "amministrazione": "UNIONE COMUNALE DEL CHIANTI FIORENTINO",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1407800.0,
+   "aggiudicato": 1404603.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "9799593FF4",
+   "data": "2023-05-11",
+   "oggetto": "SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DELLA RETE TERRITORIALE SAI 1050 PER IL TRIENNIO 2023/2026",
+   "amministrazione": "COMUNE DI CASTIGLION FIBOCCHI",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1317899.33,
+   "aggiudicato": 1317899.33,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9576505DEA",
+   "data": "2022-12-29",
+   "oggetto": "APPALTO SERVIZIO DI ACCOGLIENZA INTEGRATA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA)",
+   "amministrazione": "COMUNE DI BIBBIENA",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 321343.2,
+   "aggiudicato": 204379.2,
+   "durata_gg": 166.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9371661B4D",
+   "data": "2022-08-18",
+   "oggetto": "SERVIZIO DI TEAM MOBILE PER LE 'PERSONE IN FUGA' FINALIZZATO AD ATTIVITÀ DI INFORMAZIONE ED ORIENTAMENTO AI PROFUGHI UCRAINI",
+   "amministrazione": "REGIONE TOSCANA",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19840.0,
+   "aggiudicato": 19840.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9126963023",
+   "data": "2021-11-17",
+   "oggetto": "PROGETTO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI (MSNA)DECRETO AUSL TOSCANA NORDOVEST 4681/2021-OXFAM ITALIA INTERCULTURA",
+   "amministrazione": "AZIENDA USL TOSCANA NORD OVEST",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1408245.58,
+   "aggiudicato": 1341186.27,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  },
+  {
+   "cig": "83691297BA",
+   "data": "2017-09-26",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI E BENEFICIARI DI PROTEZIONE INTERNAZIONALE E PER I TITOLARI DEL PERMESSO UMANITARIO SOCIETÀ DELLA SALUTE BASSA VAL DI CECINA",
+   "amministrazione": "AZIENDA USL TOSCANA NORD OVEST",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1618340.0,
+   "aggiudicato": 1541276.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6977770DF3",
+   "data": "2017-02-18",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO COLLABORATORE PER LA COPROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA NELL'AMBITO DI UN PROGETTO TERRITORI",
+   "amministrazione": "COMUNE DI CASTIGLION FIBOCCHI",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1040250.0,
+   "aggiudicato": 1039209.66,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "722091578F",
+   "data": "2017-02-10",
+   "oggetto": "ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLINZA PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI SAN CASCIANO IN VAL DI PESA",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1194544.26,
+   "aggiudicato": 1194544.26,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "6970565435",
+   "data": "2017-02-10",
+   "oggetto": "CO-PROGETTAZIONE E GESTIONE SERVIZI DI ACCOGLIENA PROGETTO SPRAR",
+   "amministrazione": "UNIONE COMUNALE DEL CHIANTI FIORENTINO",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1195740.0,
+   "aggiudicato": 1137661.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "67895512BB",
+   "data": "2016-06-27",
+   "oggetto": "ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 87197.6,
+   "aggiudicato": 87197.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "nome": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+ "cf": "01004970453",
+ "affidamenti": 7,
+ "diretti": 3,
+ "quota_diretti": 42.9,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8754890BC5",
+   "data": "2021-07-02",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI ASILO PER 200 POSTI PRESSO CENTRI COLLETTIVI CAPIENZA MASSIMA 50 POSTI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8307254.0,
+   "aggiudicato": 2838167.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8496989125",
+   "data": "2020-11-04",
+   "oggetto": "CIG DERIVATO IN ADESIONE ACCORDO QUADRO ASSISTENZA MIGRANTI NOVEMBRE 2020 NOVEMBRE 2021- IL PUNGIGLIONE",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 285305.9,
+   "aggiudicato": 285305.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "80459006B8",
+   "data": "2019-11-05",
+   "oggetto": "CIG DERIVATO IN ADESIONE ACCORDO QUADRO ASSISTENZA MIGRANTI OTTOBRE 2019 SETTEMBRE 2020 - IL PUNGIGLIONE",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 317197.56,
+   "aggiudicato": 317197.56,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7336287F89",
+   "data": "2017-12-21",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI PUNGIGLIONE GENNAIO FEBBRAIO 2018",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 68204.0,
+   "aggiudicato": 68204.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "69781263BE",
+   "data": "2016-12-16",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI PAPA GIOVANNI XXIII",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 70375.2,
+   "aggiudicato": 70375.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6716892A9E",
+   "data": "2016-05-24",
+   "oggetto": "PROROGA TENCNICA CONTRATTO ACC. MIGRANTI GIUGNO LUGLIO 2016 ATI PAPA GIOVANNI XXIII E IL PUNGIGLIONE",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 60620.2,
+   "aggiudicato": 60620.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "65363140F3",
+   "data": "2015-12-09",
+   "oggetto": "PROROGA TECNICA CONVENZIONE ACCOGLIENZA MIGRANTI ATI PAPA GIOVANNI XXIII E IL PUNGIGLIONE",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "IL PUNGIGLIONE - SOCIETA' COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60640.2,
+   "aggiudicato": 60640.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

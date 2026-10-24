@@ -1,0 +1,59 @@
+{
+ "nome": "A.N.O.L.F. ASSOCIAZIONE NAZ.LE OLTRE LE FRONTIERE - MARCHE",
+ "cf": "93044960420",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9CCF30675",
+   "data": "2025-12-24",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER MIGRANTI - LOTTO 1 - CATEGORIA MINORI COD. 551",
+   "amministrazione": "COMUNE DI ANCONA",
+   "ente": "A.N.O.L.F. ASSOCIAZIONE NAZ.LE OLTRE LE FRONTIERE - MARCHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 860651.88,
+   "aggiudicato": 860651.88,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B4EAEDBAA5",
+   "data": "2024-12-20",
+   "oggetto": "LOTTO 1: ACCOGLIENZA INTEGRATA PER MIGRANTI CATEGORIA ORDINARI (COD. 551) CUP E31424000100001 CUI S00351040423202400026",
+   "amministrazione": "COMUNE DI ANCONA",
+   "ente": "A.N.O.L.F. ASSOCIAZIONE NAZ.LE OLTRE LE FRONTIERE - MARCHE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3864270.43,
+   "aggiudicato": 3220225.36,
+   "durata_gg": 48.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ANCONA"
+  }
+ ]
+}

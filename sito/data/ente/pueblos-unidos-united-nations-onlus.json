@@ -1,0 +1,38 @@
+{
+ "nome": "PUEBLOS UNIDOS - UNITED NATIONS ONLUS",
+ "cf": "92172940923",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A02EA3C0B8",
+   "data": "2023-11-21",
+   "oggetto": "AFFIDAMENTO DIRETTO PER LA GESTIONE DEL SERVIZIO DI ACCOGLIENZA DEI MIGRANTI PUEBLOS UNIDOS",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "PUEBLOS UNIDOS - UNITED NATIONS ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 94045.32,
+   "aggiudicato": 94045.32,
+   "durata_gg": 186.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

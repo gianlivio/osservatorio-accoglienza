@@ -1,0 +1,38 @@
+{
+ "nome": "RAGGIO DI SOLE - COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03972300754",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8738E87FA",
+   "data": "2025-10-02",
+   "oggetto": "AFFIDAMENTO DELLA GESTIONE DEI SERVIZI DEL PIANO DI ZONA 2022/2024 - LOTTO 1:",
+   "amministrazione": "COMUNE DI LECCE",
+   "ente": "RAGGIO DI SOLE - COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 234102.96,
+   "aggiudicato": 234102.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCE"
+  }
+ ]
+}

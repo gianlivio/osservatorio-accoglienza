@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE FREEDOM",
+ "cf": "93060360190",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9696035D31",
+   "data": "2023-03-06",
+   "oggetto": "ASSOCIAZIONE FREEDOMA AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI PER MESSI DUE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "ASSOCIAZIONE FREEDOM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 29462.4,
+   "aggiudicato": 29462.4,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

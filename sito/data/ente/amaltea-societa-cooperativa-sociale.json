@@ -1,0 +1,38 @@
+{
+ "nome": "AMALTEA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02719280022",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B81E37AE2F",
+   "data": "2025-09-04",
+   "oggetto": "RETTA COMUNITA' EDUCATIVA - MINORE STRANIERO NON ACCOMPAGNATO - Y.S.A.Z.",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI",
+   "ente": "AMALTEA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13200.0,
+   "aggiudicato": 13200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  }
+ ]
+}

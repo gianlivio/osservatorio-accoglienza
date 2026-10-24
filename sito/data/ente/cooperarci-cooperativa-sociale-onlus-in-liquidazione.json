@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERARCI COOPERATIVA SOCIALE ONLUS IN LIQUIDAZIONE",
+ "cf": "00454390097",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7174949B36",
+   "data": "2017-08-11",
+   "oggetto": "PROGETTO PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA, TUTELA ED INTEGRAZIONE PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) NELL'AMBITO DEL PROGETTO SPRAR A VALERE SUL FONDO NAZIONA",
+   "amministrazione": "COMUNE DI SAVONA",
+   "ente": "COOPERARCI COOPERATIVA SOCIALE ONLUS IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2719055.04,
+   "aggiudicato": 2719027.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

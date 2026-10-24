@@ -1,0 +1,63 @@
+{
+ "nome": "LE QUERCE DI MAMRE ONLUS - COMITATO DI GESTIONE CENTRO DI ACCOGL.NOTTURNA",
+ "cf": "91008230509",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PISA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8533626AF1",
+   "data": "2020-11-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "SOCIETA' DELLA SALUTE EMPOLESE VALDARNO VALDELSA",
+   "ente": "LE QUERCE DI MAMRE ONLUS - COMITATO DI GESTIONE CENTRO DI ACCOGL.NOTTURNA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 547500.0,
+   "aggiudicato": 528210.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "7008968F5A",
+   "data": "2017-03-10",
+   "oggetto": "ACCOGLIENZA MATERIALE",
+   "amministrazione": "SOCIETA' DELLA SALUTE EMPOLESE VALDARNO VALDELSA",
+   "ente": "LE QUERCE DI MAMRE ONLUS - COMITATO DI GESTIONE CENTRO DI ACCOGL.NOTTURNA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 328868.57,
+   "aggiudicato": 327888.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISA"
+  }
+ ]
+}

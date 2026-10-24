@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE MADRE TERESA DI CALCUTTA SOCIETA' COOPERATIVA",
+ "cf": "02514230842",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B75C6D636C",
+   "data": "2025-06-23",
+   "oggetto": "PROCEDURA DI GARA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L'AMPLIAMENTO DELLA CAPACITÀ RICETTIVA DI 15 POSTI SUL PROGETTO RETE SAI CATEGORIA MSNA (PROG.662-PR-3) D",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "COOPERATIVA SOCIALE MADRE TERESA DI CALCUTTA SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 205451.55,
+   "aggiudicato": 205451.55,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "E.V.A. SOCIETA' COOPERATIVA SOCIALE ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE PER AZIONI",
+ "cf": "01158390623",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1F7074CCE",
+   "data": "2024-06-05",
+   "oggetto": "ACCOGLIENZE ED INSERIMENTO MINORI CON MADRE IN CASA DI ACCOGLIENZA PER DONNE MALTRATTATE",
+   "amministrazione": "COMUNE DI ITRI",
+   "ente": "E.V.A. SOCIETA' COOPERATIVA SOCIALE ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE PER AZIONI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15084.9,
+   "aggiudicato": 15084.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

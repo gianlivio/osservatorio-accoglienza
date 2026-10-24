@@ -1,0 +1,38 @@
+{
+ "nome": "ALEA S.R.L. SB",
+ "cf": "00076440932",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6196015952",
+   "data": "2015-03-26",
+   "oggetto": "COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "ALEA S.R.L. SB",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41666.21,
+   "aggiudicato": 41666.21,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

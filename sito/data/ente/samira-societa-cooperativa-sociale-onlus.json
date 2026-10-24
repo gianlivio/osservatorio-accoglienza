@@ -1,0 +1,33 @@
+{
+ "nome": "SAMIRA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "06437661215",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "880595471F",
+   "data": "2021-06-29",
+   "oggetto": "XIII ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA TEMPORANEA DEI RICHIEDENTI ASILO NELLA PROVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "SAMIRA SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 23989380.0,
+   "aggiudicato": 1149713.73,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

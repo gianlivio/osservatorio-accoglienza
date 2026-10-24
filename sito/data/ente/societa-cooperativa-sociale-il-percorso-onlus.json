@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE IL PERCORSO - ONLUS",
+ "cf": "01413720093",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B09AAE38F8",
+   "data": "2024-02-29",
+   "oggetto": "RETTA COMUNITÀ MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI CENGIO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE IL PERCORSO - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5885.0,
+   "aggiudicato": 5885.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

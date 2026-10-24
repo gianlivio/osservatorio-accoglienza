@@ -1,0 +1,59 @@
+{
+ "nome": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI ASTI",
+ "cf": "01558240055",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASTI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A014B48299",
+   "data": "2023-09-19",
+   "oggetto": "SERVIZIO PRIMA ACCOGLIENZA RICHIEDNTI PROTEZIONE INTERNAZIONALE IN COMPENDIO DEMANIALE",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI ASTI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 275400.0,
+   "aggiudicato": 275400.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  },
+  {
+   "cig": "751476329B",
+   "data": "2018-05-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO EX DEPOSITO AM DI CASTELLO DI ANNONE",
+   "amministrazione": "PREFETTURA DI ASTI",
+   "ente": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI ASTI",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 766500.0,
+   "aggiudicato": 766500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASTI"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "LIGHTHOUSE S.R.L.",
+ "cf": "03425440835",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9808311A48",
+   "data": "2023-04-26",
+   "oggetto": "CONVENZIONE PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCOGLIENZA TEMPORANEA PER MINORI STRANIERI NON ACCOMPAGNATI (MSNA) NELLA PROVINCIA DI MESSINA- ATS LC",
+   "amministrazione": "MINISTERO DELL'INTERNO -PREFETTURA MESSINA",
+   "ente": "LIGHTHOUSE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2004769.8,
+   "aggiudicato": 2004769.8,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "nome": "SAN FRANCESCO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02720330840",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7136002F20",
+   "data": "2017-07-07",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE SAN FRANCESCO. EROGAZIONE CONTRIBUTO MINISTERIALE 4^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SAN FRANCESCO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47142.86,
+   "aggiudicato": 47142.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7062728B83",
+   "data": "2017-05-02",
+   "oggetto": "EROGAZIONE CONTRIBUTO MINISTERIALE 3^ TRIMESTRE 2016 RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE SAN FRANCESCO.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SAN FRANCESCO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47057.14,
+   "aggiudicato": 47057.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6904947E82",
+   "data": "2016-12-12",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE SAN FRANCESCO RELATIVA AL 1^ E 2^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SAN FRANCESCO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 93085.71,
+   "aggiudicato": 93085.71,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

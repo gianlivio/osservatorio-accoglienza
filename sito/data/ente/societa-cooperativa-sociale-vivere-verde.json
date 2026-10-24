@@ -1,0 +1,260 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+ "cf": "02581800428",
+ "affidamenti": 13,
+ "diretti": 8,
+ "quota_diretti": 61.5,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 6,
+   "diretti": 5,
+   "quota_diretti": 83.3
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9CCC27542",
+   "data": "2025-12-24",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER MIGRANTI - LOTTO 2 - CATEGORIA MINORI COD. 552",
+   "amministrazione": "COMUNE DI ANCONA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5102134.29,
+   "aggiudicato": 5102134.29,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B049F280BC",
+   "data": "2024-02-07",
+   "oggetto": "OSPITALITÀ DEL MSNA NA C/O COMUNITÀ ANDREA MICHELA DELLA COOP. SOC. VIVERE VERDE DAL 01/01 AL 12/04/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11700.0,
+   "aggiudicato": 11700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "9591595297",
+   "data": "2023-01-11",
+   "oggetto": "SERVIZI DI ASSISTENZA MINORI, MSNA E DI CONTRASTO ALLA VIOLENZA DI GENERE PRESSO LE STRUTTURE RESIDENZIALI - 2023",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 183960.0,
+   "aggiudicato": 183960.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "90883908AE",
+   "data": "2022-02-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 49825.6,
+   "aggiudicato": 49825.6,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7912613ECC",
+   "data": "2019-05-17",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CONVENZIONE TRA I COMUNI DI SENIGALLIA, ARCEVIA, BARBARA, OSTRA, OSTRA VETERE E SERRA DE' CONTI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47129.0,
+   "aggiudicato": 47129.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "77998629BC",
+   "data": "2019-02-15",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CONVENZIONE TRA I COMUNI DI SENIGALLIA, ARCEVIA, BARBARA, OSTRA, OSTRA VETERE E SERRA DE' CONTI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 78964.0,
+   "aggiudicato": 78964.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "7662189E60",
+   "data": "2018-10-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "CONVENZIONE TRA I COMUNI DI SENIGALLIA, ARCEVIA, BARBARA, OSTRA, OSTRA VETERE E SERRA DE' CONTI",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 102837.0,
+   "aggiudicato": 102837.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "71628044D9",
+   "data": "2017-08-02",
+   "oggetto": "AFFIDAMENTO DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA DI RICHIEDENTI/TITOLARI DI PROTEZIONE E BENFICIARI DI PROTEZIONE UMANITARIA ACCOLTI NELL'AMBITO DEL PROGETTO SPRAR ANCONA PROV",
+   "amministrazione": "ASP AMBITO IX",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 19622436.49,
+   "aggiudicato": 18589676.66,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7167874CBC",
+   "data": "2017-08-01",
+   "oggetto": "CONVENZIONE CON COOPERATIVA VIVERE VERDE PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO ",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 80631.0,
+   "aggiudicato": 80631.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7167865551",
+   "data": "2017-08-01",
+   "oggetto": "CONVENZIONE CON ASSOCIAZIONE INCONTRI PER LA DEMOCRAZIA PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI ",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 122232.5,
+   "aggiudicato": 122232.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "71678508EF",
+   "data": "2017-08-01",
+   "oggetto": "CONVENZIONE CON LA COOPERATIVA ACCOGLIENZA PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORI",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 270810.0,
+   "aggiudicato": 270810.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7167813A66",
+   "data": "2017-08-01",
+   "oggetto": "CONVENZIONE CON COOPERATIVA LABIRINTO PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO - L",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 174188.97,
+   "aggiudicato": 174188.97,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7167789699",
+   "data": "2017-08-01",
+   "oggetto": "CONVENZIONE CON COOPERATIVA COOSS MARCHE PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO ",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE VIVERE VERDE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69997.5,
+   "aggiudicato": 69997.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

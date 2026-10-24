@@ -1,0 +1,59 @@
+{
+ "nome": "ALICE NELLO SPECCHIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+ "cf": "04803940016",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B64AA10280",
+   "data": "2025-05-07",
+   "oggetto": "PA N. 10/2025 - LOTTO 4 -INSERIMENTI ETERO FAMILIARI SUPPORTATI PER N. 6 MIGRANTI (IESM) PORTATORI DI PATOLOGIE PSICHIATRICHE E/O LEGATE ALLE DIPENDENZE DESTINATARI DELLE PRESTAZIO",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ALICE NELLO SPECCHIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 261651.6,
+   "aggiudicato": 160900.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "876442042F",
+   "data": "2021-06-23",
+   "oggetto": "SERVIZIO DI INSERIMENTO ETEROFAMILIARE SUPPORTATO PER N. 6 MIGRANTI (IESM) PORTATORI DI PATOLOGIE PSICHIATRICHE E/O LEGATE ALLE DIPENDENZE.",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "ALICE NELLO SPECCHIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 646404.0,
+   "aggiudicato": 517194.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

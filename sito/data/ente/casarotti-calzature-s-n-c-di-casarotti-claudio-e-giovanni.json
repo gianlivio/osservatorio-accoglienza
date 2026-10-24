@@ -1,0 +1,38 @@
+{
+ "nome": "CASAROTTI CALZATURE S.N.C. DI CASAROTTI CLAUDIO E GIOVANNI",
+ "cf": "01575790033",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERBANO-CUSIO-OSSOLA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B35465BBBE",
+   "data": "2024-10-09",
+   "oggetto": "FORNITURA ABBILGIAMENTO E CALZATURE RICHIEDENTI PROTEZIONE",
+   "amministrazione": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI",
+   "ente": "CASAROTTI CALZATURE S.N.C. DI CASAROTTI CLAUDIO E GIOVANNI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11000.0,
+   "aggiudicato": 11000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERBANO-CUSIO-OSSOLA"
+  }
+ ]
+}

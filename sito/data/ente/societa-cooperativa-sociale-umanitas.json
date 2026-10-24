@@ -1,0 +1,70 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE UMANITAS",
+ "cf": "10422571215",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B98334A79C",
+   "data": "2025-12-10",
+   "oggetto": "XXIV ACCORDO QUADRO GESTIONE CENTRI COLLETTIVI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE UMANITAS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 737737.09,
+   "aggiudicato": 737737.09,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B81A2CCE17",
+   "data": "2025-09-02",
+   "oggetto": "XXIV ACCORDO QUADRO GESTIONE CENTRI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE UMANITAS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1010450.93,
+   "aggiudicato": 1010450.93,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "B5A3536082",
+   "data": "2025-02-13",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA STRAORDINARIA RIFUGIATI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE UMANITAS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 565935.06,
+   "aggiudicato": 565935.06,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

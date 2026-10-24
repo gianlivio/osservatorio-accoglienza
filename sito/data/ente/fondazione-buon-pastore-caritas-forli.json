@@ -1,0 +1,70 @@
+{
+ "nome": "FONDAZIONE BUON PASTORE - CARITAS FORLI'",
+ "cf": "92074910404",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8D4AB32FF",
+   "data": "2025-10-28",
+   "oggetto": "AFFIDAMENTO PER LA GESTIONE DI CENTRI DI ACCOGLIENZA - UNITÀ ABITATIVE IN RETE",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "FONDAZIONE BUON PASTORE - CARITAS FORLI'",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 939750.9,
+   "aggiudicato": 939750.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B78FCEED32",
+   "data": "2025-07-08",
+   "oggetto": "GESTIONE CENTRI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "FONDAZIONE BUON PASTORE - CARITAS FORLI'",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 3530389.5,
+   "aggiudicato": 1409626.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B77896644D",
+   "data": "2025-07-01",
+   "oggetto": "AFFIDAMENTO PER LA GESTIONE DI UN CENTRO DI ACCOGLIENZA RICHIEDENTI ASILO UNITÀ ABITATIVE IN RETE",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "FONDAZIONE BUON PASTORE - CARITAS FORLI'",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 119193.36,
+   "aggiudicato": 119193.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

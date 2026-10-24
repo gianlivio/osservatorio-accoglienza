@@ -1,0 +1,144 @@
+{
+ "nome": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+ "cf": "01742590761",
+ "affidamenti": 7,
+ "diretti": 5,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 5,
+   "diretti": 3,
+   "quota_diretti": 60.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "785684271F",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 170 MIGRANTI ALLA SOCIETÀ MANTECA SRL PER IL PERIODO 1^ APRILE/31 DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1072445.0,
+   "aggiudicato": 1072445.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "706838362C",
+   "data": "2017-05-08",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA N. 159 MIGRANTI SOC. MANTECA SRL - PROROGA TECNICA 1^ MAGGIO 2017 / 31 LUGLIO 2017 - (ACCORDO QUADRO DI RIFERIMENTO PROT. 27929 DEL 15 GIU.2016)",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 454199.4,
+   "aggiudicato": 454199.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "666375616A",
+   "data": "2015-12-30",
+   "oggetto": "AFFIDAMENTO ALLA SOC. MANTECA SRL - P.I. 01742590761 - SERVIZIO ACCOGLIENZA MIGRANTI A SEGUITO ACCORDO QUADRO - II PROROGA TECNICA - PERIODO 15 APRILE 2016 /30 GIUGNO 2016",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 333641.0,
+   "aggiudicato": 333641.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6612000B00",
+   "data": "2015-12-30",
+   "oggetto": "AFFIDAMENTO ALLA SOC. MANTECA SRL - P.I. 01742590761 - SERVIZIO ACCOGLIENZA MIGRANTI A SEGUITO ACCORDO QUADRO - PERIODO 1^ MARZO 2016 / 14 APRILE 2016 - PROROGA TECNICA",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 194985.0,
+   "aggiudicato": 194985.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6399363966",
+   "data": "2015-09-17",
+   "oggetto": "ATTO AGGIUNTIVO - AFFIDAMENTO ALLA SOCIETÀ MANTECA SRL DEL SERVIZIO ACCOGLIENZA N. 31 MIGRANTI - PERIODO 3 SETTEMBRE 2015 / 31 DICEMBRE 2015",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 107842.8,
+   "aggiudicato": 107842.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6370500EE4",
+   "data": "2015-08-17",
+   "oggetto": "ATTO AGGIUNTIVO ACCOGLIENZA MIGRANTI-AUMENTO DEL QUINTO D'OBBLIGO - SOCIETÀ MANTECA SRL POTENZA",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 63546.08,
+   "aggiudicato": 63546.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6339536E97",
+   "data": "2015-07-17",
+   "oggetto": "AFFIDAMENTO ALLA SOCIETÀ MANTECA SRL - SERVIZIO ACCOGLIENZA MIGRANTI - PERIODO 1^ AGOSTO 2015 / 31 DICEMBRE 2015",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "MANTECA S.R.L. MANAGEMENT DEI TEMI DEL CAMBIAMENTO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 368144.01,
+   "aggiudicato": 368144.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

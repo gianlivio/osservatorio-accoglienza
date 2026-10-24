@@ -1,0 +1,122 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE - SOLARIS",
+ "cf": "03100360365",
+ "affidamenti": 6,
+ "diretti": 6,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 6,
+   "diretti": 6,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "64842414F2",
+   "data": "2015-11-23",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - SOLARIS CARPI MO - SUPERO ERACLEA MARE - MESE DI OTTOBRE",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE - SOLARIS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 71757.0,
+   "aggiudicato": 71757.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "6449563BBF",
+   "data": "2015-10-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - COOP. SOLARIS - SUPERO SETTEMBRE 2015 - ERACLEA MARE",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE - SOLARIS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72025.0,
+   "aggiudicato": 72025.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "639664459D",
+   "data": "2015-09-15",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - AGOSTO 2015 - COOP.SOCIALE SOLARIS - SUPERO - PORTOGRUARO",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE - SOLARIS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 56079.0,
+   "aggiudicato": 56079.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "6396631AE1",
+   "data": "2015-09-15",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - SOLARIS - AGOSTO 2015 - SUPERO ERACLEA MARE",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE - SOLARIS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 71757.0,
+   "aggiudicato": 71757.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "6357475256",
+   "data": "2015-07-31",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - MESE DI LUGLIO 2015 SUPERO - SOLARIS COOP. SOC. ONLUS",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE - SOLARIS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 174769.5,
+   "aggiudicato": 174769.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6286178E2D",
+   "data": "2015-06-08",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI PERIODO 09/06 - 31/12/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE - SOLARIS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 753750.0,
+   "aggiudicato": 753750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

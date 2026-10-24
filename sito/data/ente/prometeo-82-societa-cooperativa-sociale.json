@@ -1,0 +1,38 @@
+{
+ "nome": "PROMETEO 82 SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01732420656",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6E38D128D",
+   "data": "2025-05-19",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER L'AMPLIAMENTO DI ULTERIORI 10 POSTI, NELL'AMBITO DEL COMUNE DI SANTOMENNA (SA), DELLE ATTIVITA' RELATIVE AI SERVI",
+   "amministrazione": "COMUNE DI LACEDONIA",
+   "ente": "PROMETEO 82 SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 297889.98,
+   "aggiudicato": 297889.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

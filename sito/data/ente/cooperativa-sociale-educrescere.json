@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA SOCIALE EDUCRESCERE",
+ "cf": "02006530675",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D1984CDA",
+   "data": "2025-12-30",
+   "oggetto": "AUTORIZZAZIONE SPESA PROROGA COLLOCAMENTO MSNA SS-M > 8 IN COMUNITÀ EDUCATIVA RESIDENZIALE",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "COOPERATIVA SOCIALE EDUCRESCERE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32576.25,
+   "aggiudicato": 32576.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B4E6C290BF",
+   "data": "2024-12-19",
+   "oggetto": "AUTORIZZAZIONE SPESA COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO D. Z. IN COMUNITÀ EDUCATIVA",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "COOPERATIVA SOCIALE EDUCRESCERE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15555.0,
+   "aggiudicato": 15555.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

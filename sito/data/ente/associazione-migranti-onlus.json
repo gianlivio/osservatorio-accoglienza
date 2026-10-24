@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE MIGRANTI ONLUS",
+ "cf": "92121410283",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "73412921CF",
+   "data": "2018-01-03",
+   "oggetto": "SPRAR AFFIDAMENTO AI SENSI ART. 63 COMMA 2 DEL G.LGS N 50/2016 1.1.2018-30.6.2018",
+   "amministrazione": "COMUNE PIOVE DI SACCO",
+   "ente": "ASSOCIAZIONE MIGRANTI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 307253.33,
+   "aggiudicato": 307253.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  }
+ ]
+}

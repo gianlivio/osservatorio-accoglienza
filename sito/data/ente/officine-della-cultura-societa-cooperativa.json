@@ -1,0 +1,38 @@
+{
+ "nome": "OFFICINE DELLA CULTURA SOCIETA' COOPERATIVA",
+ "cf": "02028990519",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D7AD0797",
+   "data": "2025-12-31",
+   "oggetto": "INIZIATIVE INTEGRAZIONE PROGETTO SAI CAT. ORD",
+   "amministrazione": "COMUNE DI NARNI",
+   "ente": "OFFICINE DELLA CULTURA SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7000.0,
+   "aggiudicato": 7000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

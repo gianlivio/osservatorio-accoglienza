@@ -1,0 +1,38 @@
+{
+ "nome": "SAN GIUSEPPE COOPERATIVA SOCIALE",
+ "cf": "00887060739",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TARANTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6578476A1F",
+   "data": "2016-02-08",
+   "oggetto": "REALIZZAZIONE E GESTIONE DELLO SPORTELLO PER L'INTEGRAZIONE SOCIO-SANITARIA-CULTURALE DEGLI IMMIGRATI",
+   "amministrazione": "CENTRALE UNICA APPALTANTE DELLA VALLE D'ITRIA",
+   "ente": "SAN GIUSEPPE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 47692.3,
+   "aggiudicato": 44403.916,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "TARANTO"
+  }
+ ]
+}

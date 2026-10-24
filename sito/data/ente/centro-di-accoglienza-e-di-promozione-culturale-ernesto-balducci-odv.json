@@ -1,0 +1,117 @@
+{
+ "nome": "CENTRO DI ACCOGLIENZA E DI PROMOZIONE CULTURALE ERNESTO BALDUCCI - ODV",
+ "cf": "94037950303",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5AFEA3948",
+   "data": "2025-02-19",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA, PER UNNUMERO MASSIMO PARI A 25 POSTI, A FAVORE DEI PROFUGHI PROVENIENTIDALL'UCRAINA ANCHE SE NON IN POSSESSO DELLO STATUS DI R",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO DI ACCOGLIENZA E DI PROMOZIONE CULTURALE ERNESTO BALDUCCI - ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 269802.5,
+   "aggiudicato": 201575.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "9731859819",
+   "data": "2023-03-23",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE ED ASSISTENZA A FAVORE DEI PROFUGHI PROVENIENTI DALL’UCRAINA ANCHE SE NON IN POSSESSO DELLO STATUS DI RICHIEDENTI PROTEZIONE INTERNAZIONALE PER",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO DI ACCOGLIENZA E DI PROMOZIONE CULTURALE ERNESTO BALDUCCI - ODV",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 198648.0,
+   "aggiudicato": 198648.0,
+   "durata_gg": 279.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9699156CB9",
+   "data": "2023-03-08",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA, PER UN NUMERO MASSIMO DI 50 POSTI, A FAVORE DEI PROFUGHI PROVENIENTI DALL’UCRAINA",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO DI ACCOGLIENZA E DI PROMOZIONE CULTURALE ERNESTO BALDUCCI - ODV",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 400923.0,
+   "aggiudicato": 198648.0,
+   "durata_gg": 279.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "691296030F",
+   "data": "2016-11-07",
+   "oggetto": "SEERVIZIO DI ACCOGLIENZA A FAVORE DI RICHIEDENTI ASILO",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO DI ACCOGLIENZA E DI PROMOZIONE CULTURALE ERNESTO BALDUCCI - ODV",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 303680.0,
+   "aggiudicato": 303680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "6524853F04",
+   "data": "2015-12-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI ASILO - SISTEMA AURA - ANNO 2016",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "CENTRO DI ACCOGLIENZA E DI PROMOZIONE CULTURALE ERNESTO BALDUCCI - ODV",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 316224.0,
+   "aggiudicato": 316224.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

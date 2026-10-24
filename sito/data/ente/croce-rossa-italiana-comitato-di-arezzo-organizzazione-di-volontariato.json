@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA- COMITATO DI AREZZO- ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "92079070519",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "662808224C",
+   "data": "2016-01-07",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI APRILE GIUGNO 2016 CRI PER RIGUTINO",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CROCE ROSSA ITALIANA- COMITATO DI AREZZO- ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 59150.0,
+   "aggiudicato": 59150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

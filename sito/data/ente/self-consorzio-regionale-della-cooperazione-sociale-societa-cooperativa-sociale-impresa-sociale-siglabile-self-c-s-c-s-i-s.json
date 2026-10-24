@@ -1,0 +1,38 @@
+{
+ "nome": "SELF CONSORZIO REGIONALE DELLA COOPERAZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE SIGLABILE  SELF C.S.C.S.I.S.",
+ "cf": "06508830012",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7940067E8E",
+   "data": "2019-06-25",
+   "oggetto": "SERVIZIO DI JOB MENTORSHIP PER LA PRESA IN CARICO E ACCOMPAGNAMENTO INDIVIDUALE DEI RICHIEDENTI ASILO E RIFUGIATI OSPITI NEI CAS DELLA REGIONE PIEMONTE BENEFICIARI DEL PROGETTO FOR",
+   "amministrazione": "AGENZIA PIEMONTE LAVORO",
+   "ente": "SELF CONSORZIO REGIONALE DELLA COOPERAZIONE SOCIALE SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE SIGLABILE  SELF C.S.C.S.I.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 420000.0,
+   "aggiudicato": 512009.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

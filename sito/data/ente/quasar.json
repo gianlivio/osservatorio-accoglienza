@@ -1,0 +1,38 @@
+{
+ "nome": "QUASAR",
+ "cf": "06028050729",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8455363248",
+   "data": "2020-10-02",
+   "oggetto": "PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO DEL PROGETTO 'SIPROIMI' CAT. ORDINARI' 2021-2022",
+   "amministrazione": "COMUNE DI PUTIGNANO",
+   "ente": "QUASAR",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1795800.0,
+   "aggiudicato": 1715090.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

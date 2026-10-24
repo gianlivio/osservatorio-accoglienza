@@ -1,0 +1,54 @@
+{
+ "nome": "FABER SOCIETA' COOPERATIVA SOCIALE A.R.L. - ONLUS",
+ "cf": "01152210629",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7142506668",
+   "data": "2017-07-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 16/07/2017-31/12/2017 ALBERGO ITALIA",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "FABER SOCIETA' COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 268125.0,
+   "aggiudicato": 268125.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "7142298AC1",
+   "data": "2017-07-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 16/07/2017-31/12/2017 GARBATA ACCOGLIENZA",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "FABER SOCIETA' COOPERATIVA SOCIALE A.R.L. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 534380.0,
+   "aggiudicato": 534380.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

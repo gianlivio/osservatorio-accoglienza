@@ -1,0 +1,38 @@
+{
+ "nome": "CANON ITALIA S.P.A.",
+ "cf": "00865220156",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5B87BFEB6",
+   "data": "2025-02-19",
+   "oggetto": "NOLEGGIO FOTOCOPIATRICI",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "CANON ITALIA S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19177.42,
+   "aggiudicato": 19177.42,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

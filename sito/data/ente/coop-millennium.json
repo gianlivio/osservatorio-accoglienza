@@ -1,0 +1,38 @@
+{
+ "nome": "COOP. MILLENNIUM",
+ "cf": "02870330756",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B22FB5E58F",
+   "data": "2024-06-21",
+   "oggetto": "SPORTELLO IMMIGRATI",
+   "amministrazione": "CONSORZIO PER L'INTEGRAZIONE E L'INCLUSIONE SOCIALE DELL'AMBITO DI MAGLIE",
+   "ente": "COOP. MILLENNIUM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63000.0,
+   "aggiudicato": 63000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LECCE"
+  }
+ ]
+}

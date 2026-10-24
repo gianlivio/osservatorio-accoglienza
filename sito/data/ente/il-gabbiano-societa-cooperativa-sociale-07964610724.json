@@ -1,0 +1,38 @@
+{
+ "nome": "IL GABBIANO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "07964610724",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9838383A7B",
+   "data": "2023-06-21",
+   "oggetto": "SERVIZIO SAI - SISTEMA ACCOGLIENZA INTEGRAZIONE N. 612 - PR - 3, TRIENNIO 2023-2025 - CATEGORIA ORDINARI BARLETTA, PER N. 36 POSTI",
+   "amministrazione": "COMUNE DI BARLETTA",
+   "ente": "IL GABBIANO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1308011.01,
+   "aggiudicato": 999116.98,
+   "durata_gg": 915.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

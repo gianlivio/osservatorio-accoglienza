@@ -1,0 +1,96 @@
+{
+ "nome": "ALEA COSTRUZIONI GENERALI S.R.L.",
+ "cf": "02456160734",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "97895922E2",
+   "data": "2023-04-28",
+   "oggetto": "LOTTO 2 - MANUTENZIONE ORDINARIA INFISSI INTERNI ED ESTERNI, TINTEGGIATURA, PAVIMENTI E RIVESTIMENTI INTERNI ED ESTERNI, SEGNALETICA STRADALE, STRUTTURE DI COPERTURA, IMPIANTO IDRI",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "ALEA COSTRUZIONI GENERALI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 428627.14,
+   "aggiudicato": 144884.15,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "8111734EA5",
+   "data": "2019-11-23",
+   "oggetto": "MANUTENZIONE ORDINARIA INFISSI INTERNI ED ESTERNI, TINTEGGIATURE, PAVIMENTI E RIVESTIMENTI INTERNI ED ESTERNI, SEGNALETICA STRADALE, STRUTTURE DI COPERTURA, IMPIANTO IDRICO-FOGNANT",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "ALEA COSTRUZIONI GENERALI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 179645.92,
+   "aggiudicato": 109800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "81112238F6",
+   "data": "2019-11-23",
+   "oggetto": "MANUTENZIONE ORDINARIA DELL'IMPIANTO DI CONDIZIONAMENTO, IMPIANTI ELETTRICI E SPECIALI, IMPIANTI TECNOLOGICI ED OPERE EDILI ANNESSE IN USO PRESSO IL CENTRO ACCOGLIENZA RICHIEDENTI ",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "ALEA COSTRUZIONI GENERALI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 203099.84,
+   "aggiudicato": 122507.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "7398848A83",
+   "data": "2018-02-23",
+   "oggetto": "MANUTENZIONE ORDINARIA IMPIANTO CONDIZIONAMENTO, ELETTRICI E SPECIALI, TECNOLOGICI ED OPERE EDILI ANNESSE RELATIVE AL CENTRO DI ACCOGLIENZA RICHIEDENTI ASILO (C.A.R.A.) DI BARI-PAL",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "ALEA COSTRUZIONI GENERALI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 98503.42,
+   "aggiudicato": 63000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

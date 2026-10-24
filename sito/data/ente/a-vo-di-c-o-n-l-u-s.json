@@ -1,0 +1,38 @@
+{
+ "nome": "A.VO.DI.C. O.N.L.U.S.",
+ "cf": "93036330848",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "65947743AA",
+   "data": "2016-02-16",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 1^ TRIMESTRE 2015 E MESE DI APRILE 2015 ASSOCIAZIONE A.VO.DI.C ONLUS",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "A.VO.DI.C. O.N.L.U.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56610.0,
+   "aggiudicato": 56610.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

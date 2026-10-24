@@ -1,0 +1,107 @@
+{
+ "nome": "LA DIMORA SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITA TA",
+ "cf": "02093560817",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "81330114FE",
+   "data": "2019-12-10",
+   "oggetto": "IMPEGNO DI SPESA MSNA I^ II^ III^ TRIM. 2019 COOP LA DIMORA",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "LA DIMORA SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITA TA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 40628.57,
+   "aggiudicato": 40628.57,
+   "durata_gg": 270.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "73229490B0",
+   "data": "2017-12-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "LA DIMORA SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITA TA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 124285.71,
+   "aggiudicato": 124285.71,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "718979782C",
+   "data": "2017-09-12",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "LA DIMORA SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITA TA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 44228.57,
+   "aggiudicato": 44228.57,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "7016866500",
+   "data": "2017-03-16",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "LA DIMORA SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITA TA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47271.43,
+   "aggiudicato": 47271.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "69424280D3",
+   "data": "2017-01-19",
+   "oggetto": "RICOVERO MSNA III^ TRIM. 2016 COOP. LA DIMORA",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "LA DIMORA SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITA TA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41271.43,
+   "aggiudicato": 41271.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

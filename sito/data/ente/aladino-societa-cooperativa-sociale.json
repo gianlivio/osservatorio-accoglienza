@@ -1,0 +1,38 @@
+{
+ "nome": "ALADINO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02935310272",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A014DCD6DD",
+   "data": "2023-10-05",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DIACCOGLIENZA. IMPEGNO DI SPESA PRESUNTO RELATIVO ALL'AFFIDAMENTO DELSERVIZIO E RIDETERMINAZIONE CONTESTUALE DELL'AC",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "ALADINO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 87714.29,
+   "aggiudicato": 87714.29,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

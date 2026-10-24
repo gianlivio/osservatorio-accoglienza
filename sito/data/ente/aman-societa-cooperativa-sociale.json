@@ -1,0 +1,38 @@
+{
+ "nome": "AMAN SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03657220921",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5A2AE8F8B",
+   "data": "2025-03-28",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE CON CAPACITÀ RICETTIVA FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "AMAN SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 21385350.0,
+   "aggiudicato": 2889978.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

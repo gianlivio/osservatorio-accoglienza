@@ -1,0 +1,196 @@
+{
+ "nome": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+ "cf": "01608850515",
+ "affidamenti": 9,
+ "diretti": 5,
+ "quota_diretti": 55.6,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B33C97DE8B",
+   "data": "2024-09-30",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3306901.15,
+   "aggiudicato": 3306901.15,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "A01E5FEE7D",
+   "data": "2023-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI SECONDO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2023 AL 31 OTTOBRE 2024 (CONSORZIO ISOLA CHE NON C'È)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1227593.62,
+   "aggiudicato": 1227593.62,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "9418097B80",
+   "data": "2022-10-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PRIMO ANNO VALIDITÀ ACCORDO QUADRO DAL 1^ NOVEMBRE 2022 AL 31 OTTOBRE 2023 (CONSORZIO ISOLA CHE NON C'È)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 884628.64,
+   "aggiudicato": 884628.64,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "845222223F",
+   "data": "2020-10-21",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) CONSORZIO ISOLA CHE NON C",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 953873.12,
+   "aggiudicato": 953873.12,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "8274052BB3",
+   "data": "2020-04-29",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART. 11 DEL D.LG . 142/2015 UBICATI NELLA PROVINCIA DI ",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 14486813.5,
+   "aggiudicato": 7889062.55,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "7372931F1F",
+   "data": "2018-03-08",
+   "oggetto": "PROCEDURA APERTA PER LA CONCLUSIONE DI ACCORDO QUADRO CON PIU' OPERATORI SUL QUALE BASARE GLI AFFIDAMENTI SPECIFICI PER LO SVOLGIMENTO DEL SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADIN",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 44006200.0,
+   "aggiudicato": 26082339.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6644867DB4",
+   "data": "2016-01-07",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI APRILE GIUGNO 2016 (RTI)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 62790.0,
+   "aggiudicato": 62790.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "63156997AF",
+   "data": "2015-06-25",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI CONFRANTERNITA BADIA TEDALDA LUGLIO DICEMBRE 2015",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 272964.0,
+   "aggiudicato": 272964.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "6129002473",
+   "data": "2015-02-13",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL TERRITORIO DELLA PROVINCIA DI AREZZO",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "CONSORZIO ISOLA CHE NON C'E' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3801875.0,
+   "aggiudicato": 2849882.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  }
+ ]
+}

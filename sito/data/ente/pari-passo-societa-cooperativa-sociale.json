@@ -1,0 +1,96 @@
+{
+ "nome": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04096290244",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B58310AB1E",
+   "data": "2025-02-06",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE A SEGUITO DI STIPULA ACCORDO DI COLLABORAZIONE EX ART. 15 L. 241/1990 CON LA PREFETTURA DI VICENZA NELL'AMBI",
+   "amministrazione": "COMUNE DI SOVIZZO",
+   "ente": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 91200.0,
+   "aggiudicato": 91200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "B165BF50B2",
+   "data": "2024-04-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITA' ABITATIVE 2024",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 490000.0,
+   "aggiudicato": 490000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "9362502510",
+   "data": "2022-10-17",
+   "oggetto": "SERVIZIO DI CONSULENZA E ACCOMPAGNAMENTO PER RICHIEDENTI ASILO E RIFUGIATI - EX ART. 1 COMMA 2 LETT. A DELLA L. N. 120/2020",
+   "amministrazione": "COMUNE DI VICENZA",
+   "ente": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8095.24,
+   "aggiudicato": 8020.0,
+   "durata_gg": 153.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VICENZA"
+  },
+  {
+   "cig": "9352864389",
+   "data": "2022-08-03",
+   "oggetto": "GARA A PROCEDURA NEGOZIATA PER L'ACCOGLIENZA E ASSISTENZA DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "PARI PASSO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 540000.0,
+   "aggiudicato": 540000.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

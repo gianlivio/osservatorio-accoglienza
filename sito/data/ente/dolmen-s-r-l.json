@@ -1,0 +1,38 @@
+{
+ "nome": "DOLMEN  S.R.L.",
+ "cf": "01778480853",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8766554537",
+   "data": "2021-05-25",
+   "oggetto": "LAVORI DI ADEGUAMENTO A STRUTTURA DI PRIMISSIMA ACCOGLIENZA AD ALTA SPECIALIZZAZIONE PER MINORI STRANIERI NON ACCOMPAGNATI DELL'EDIFICIO DESTINATO A 'RECLUSORIO DELLE ORFANE VERGIN",
+   "amministrazione": "COMUNE DI MONREALE",
+   "ente": "DOLMEN  S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 397444.43,
+   "aggiudicato": 276592.97,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

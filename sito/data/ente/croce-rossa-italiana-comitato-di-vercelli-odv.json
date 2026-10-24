@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO DI VERCELLI- ODV",
+ "cf": "02556340020",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERCELLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7887306ACE",
+   "data": "2019-05-01",
+   "oggetto": "AFFIDAMENTO SERVIZIO PRIMA ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VERCELLI",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI VERCELLI- ODV",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137982.0,
+   "aggiudicato": 137982.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VERCELLI"
+  }
+ ]
+}

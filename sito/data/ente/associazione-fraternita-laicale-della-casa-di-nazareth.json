@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE FRATERNITA' LAICALE DELLA CASA DI NAZARETH",
+ "cf": "92056760900",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B705CD3D82",
+   "data": "2025-06-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO 26.05.2025 - 30.06.2025",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ASSOCIAZIONE FRATERNITA' LAICALE DELLA CASA DI NAZARETH",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5400.0,
+   "aggiudicato": 5400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

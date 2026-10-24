@@ -1,0 +1,58 @@
+{
+ "nome": "CALABRIA TRAVEL S.R.L.",
+ "cf": "03475500785",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B19E364A27",
+   "data": "2024-05-13",
+   "oggetto": "CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUSA ANNO 2023.",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "CALABRIA TRAVEL S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 113624.2,
+   "aggiudicato": 113624.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B09FA70EB1",
+   "data": "2024-03-01",
+   "oggetto": "NOLEGGIO PULLMAN PER TRASPORTO MIGRANTI",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "CALABRIA TRAVEL S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 26037.33,
+   "aggiudicato": 26037.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "DOMUS ASSISTENZA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01403100363",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0A6DCAF9E",
+   "data": "2024-03-04",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO FINALIZZATO AL PROGETTO SPERIMENTALE PER LO SPORTELLO PRIS DISTACCATO PER ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI DAL 01/04/2024 AL 31/03/2025",
+   "amministrazione": "COMUNE DI MODENA",
+   "ente": "DOMUS ASSISTENZA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73847.2,
+   "aggiudicato": 73847.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  }
+ ]
+}

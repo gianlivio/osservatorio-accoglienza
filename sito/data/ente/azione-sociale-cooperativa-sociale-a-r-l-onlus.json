@@ -1,0 +1,120 @@
+{
+ "nome": "AZIONE SOCIALE COOPERATIVA SOCIALE A R.L-ONLUS",
+ "cf": "96002340824",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8170681343",
+   "data": "2017-12-30",
+   "oggetto": "SERV. ACCOGLIENZA CITTADINI STRANIERI GENNAIO E FEBBRAIO 2018 - COOP. AZIONE SOCIALE",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "AZIONE SOCIALE COOPERATIVA SOCIALE A R.L-ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 41000.0,
+   "aggiudicato": 41000.0,
+   "durata_gg": 50.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7137222DE7",
+   "data": "2017-06-06",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA PER MIGRANTI",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "AZIONE SOCIALE COOPERATIVA SOCIALE A R.L-ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 58984.0,
+   "aggiudicato": 58984.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "69167770F3",
+   "data": "2016-12-21",
+   "oggetto": "SERVIZI DI PRIMA ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE SERVIZI CONNESSI",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "AZIONE SOCIALE COOPERATIVA SOCIALE A R.L-ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 214200.0,
+   "aggiudicato": 38080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "692672631F",
+   "data": "2016-08-11",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI MIGRANTI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "AZIONE SOCIALE COOPERATIVA SOCIALE A R.L-ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "652782104E",
+   "data": "2015-12-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISSTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "AZIONE SOCIALE COOPERATIVA SOCIALE A R.L-ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5670000.0,
+   "aggiudicato": 552672.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

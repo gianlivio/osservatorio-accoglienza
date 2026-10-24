@@ -1,0 +1,79 @@
+{
+ "nome": "FRATERNA TAU ONLUS",
+ "cf": "93027520662",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "TERNI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5CEC66059",
+   "data": "2025-02-27",
+   "oggetto": "RETTA STRUTTURA RESIDENZIALE MSNA PROT. 128706/23 DAL 1/1/2025 AL 31/12/2025",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "FRATERNA TAU ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36500.0,
+   "aggiudicato": 36500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "726175911A",
+   "data": "2017-11-02",
+   "oggetto": "PROGETTO CENTRI DI ACCOGLIENZA INTEGRATA PER ADULTI E FAMIGLIE - SPRAR - FRATERNA TAU - CENTRO ZURLA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "FRATERNA TAU ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 942105.5,
+   "aggiudicato": 942105.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "72617498D7",
+   "data": "2017-11-02",
+   "oggetto": "PROGETTO CENTRI DI ACCOGLIENZA INTEGRATA PER ADULTI E FAMIGLIE - SPRAR - FRATERNA TAU - CENTRO LINAROLO",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "FRATERNA TAU ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 850934.0,
+   "aggiudicato": 850934.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

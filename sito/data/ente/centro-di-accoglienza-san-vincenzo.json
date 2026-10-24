@@ -1,0 +1,38 @@
+{
+ "nome": "CENTRO DI ACCOGLIENZA SAN VINCENZO",
+ "cf": "92022290925",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9548323567",
+   "data": "2022-12-29",
+   "oggetto": "SERVIZIO RESIDENZIALE 5 MINORI STRANIERI NON ACCOMPAGNATI ANNO 2023 STRUTTURA SAN VINCENZO",
+   "amministrazione": "COMUNE DI QUARTU SANT ELENA",
+   "ente": "CENTRO DI ACCOGLIENZA SAN VINCENZO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 102200.0,
+   "aggiudicato": 102200.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

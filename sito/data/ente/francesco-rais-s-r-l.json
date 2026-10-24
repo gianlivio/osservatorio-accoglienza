@@ -1,0 +1,38 @@
+{
+ "nome": "FRANCESCO RAIS S.R.L.",
+ "cf": "02998350926",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6373171B13",
+   "data": "2015-08-21",
+   "oggetto": "LAVORI URGENTI DI ADEGUAMENTO LOCALI EX CARCERE BUONCAMMINO DA ADIBIRE A SEDE DELLA COMMISSIONE TERRITORIALE CAGLIARI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "FRANCESCO RAIS S.R.L.",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 70000.0,
+   "aggiudicato": 36150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

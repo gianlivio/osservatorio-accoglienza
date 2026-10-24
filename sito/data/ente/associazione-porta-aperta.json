@@ -1,0 +1,112 @@
+{
+ "nome": "ASSOCIAZIONE PORTA APERTA",
+ "cf": "94049510368",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5B7F4D695",
+   "data": "2025-02-19",
+   "oggetto": "PORTA APERTA - SERVIZIO ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN STRUTTURE COSTITUITE DA SINGOLE UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "ASSOCIAZIONE PORTA APERTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6447360.0,
+   "aggiudicato": 6447360.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B55DAFD42F",
+   "data": "2025-01-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN STRUTTURE COSTITUITE DA CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "ASSOCIAZIONE PORTA APERTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2615359.32,
+   "aggiudicato": 2615359.32,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B377104415",
+   "data": "2024-10-16",
+   "oggetto": "PROROGA SERVIZIO ACCOGLIENZA MIGRANTI - 1.10.2024 - 30.11.2024 - PORTA APERTA",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "ASSOCIAZIONE PORTA APERTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 373397.55,
+   "aggiudicato": 373397.55,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "B10F85D6A2",
+   "data": "2024-04-02",
+   "oggetto": "PROROGA SERVIZIO ACCOGLIENZA MIGRANTI IN S.U.A. -PORTA APERTA",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "ASSOCIAZIONE PORTA APERTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 393004.43,
+   "aggiudicato": 393004.43,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  },
+  {
+   "cig": "A0515598C4",
+   "data": "2023-12-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI, IN CENTRI COSTITUITI DA SINGOLE UNITÀ ABITATIVE - EMERGENZA UCRAINA PORTA APERTA",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "ASSOCIAZIONE PORTA APERTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 211120.0,
+   "aggiudicato": 211120.0,
+   "durata_gg": 182.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MODENA"
+  }
+ ]
+}

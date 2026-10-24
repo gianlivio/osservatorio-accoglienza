@@ -1,0 +1,38 @@
+{
+ "nome": "COLIBRI' SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "03294720606",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B775A09E6C",
+   "data": "2025-07-02",
+   "oggetto": "PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO GESTIONALE DEI SERVIZI DI ACCOGLIENZA INTEGRATA PER I RICHIEDENTI E BENEFICIARI DI PROTEZIONE INTERNAZIONALE E PER TITOLARI DI PERMESS",
+   "amministrazione": "C.U.C. DEI COMUNI DI CECCANO PATRICA E AMASENO",
+   "ente": "COLIBRI' SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 89844.3,
+   "aggiudicato": 71088.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  }
+ ]
+}

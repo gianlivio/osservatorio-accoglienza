@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE A.R.C.I. BARI",
+ "cf": "80013920725",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8484280956",
+   "data": "2020-11-05",
+   "oggetto": "SIPROIMI CATEGORIA ORDINARI, PER IL BIENNIO 2021/2022",
+   "amministrazione": "COMUNE DI BARI",
+   "ente": "ASSOCIAZIONE A.R.C.I. BARI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1071500.0,
+   "aggiudicato": 1071500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

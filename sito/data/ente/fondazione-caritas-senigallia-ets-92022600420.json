@@ -1,0 +1,239 @@
+{
+ "nome": "FONDAZIONE CARITAS SENIGALLIA ETS",
+ "cf": "92022600420",
+ "affidamenti": 12,
+ "diretti": 5,
+ "quota_diretti": 41.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2020": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 11
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9934502266",
+   "data": "2023-06-30",
+   "oggetto": "PROGETTO SAI - CAT. ADULTI ORDINARI PROG 553 - PR 3 - A VALERE SUL FONDO NAZIONALE PER LE POLITICHE ED I SERVIZI PER L'ASILO DI CUI AL D.M. 18/11/2019. PERIODO 01.07.2023 - 30.09.2",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139000.0,
+   "aggiudicato": 139000.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "8542682C30",
+   "data": "2020-12-09",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN OPERATORE ECONOMICO ATTUATORE DEL PROGETTO SIPROIMI PER INTERVENTI DI ACCOGLIENZA INTEGRATA - PROSECUZIONE PROGETTO PROG-128 - PR 2 'SEN",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1117812.5,
+   "aggiudicato": 1117812.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "8525104260",
+   "data": "2020-11-25",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DI UN OPERATORE ECONOMICO ATTUATORE DEL PROGETTO SIPROIMI (SISTEMA DI PROTEZIONE PER I TITOLI DI PROTEZIONE INTERNAZIONALE E I MINORI STRANIER",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1315981.42,
+   "aggiudicato": 1315981.42,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "84705631B8",
+   "data": "2020-10-12",
+   "oggetto": "PROGETTO SIPROIMI CATEGORIA ADULTI ORDINARI- PROG-553-PR-2. ATTUAZIONE ART. 86 BIS LEGGE 24 APRILE 2020, N. 27 (CONVERSIONE IN LEGGE, CON MODIFICAIZONI, DEL DECRETO - LEGGE 178 MAR",
+   "amministrazione": "UNIONE DEI COMUNI LE TERRE DELLA MARCA SENONE",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 343299.5,
+   "aggiudicato": 343299.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "7672197141",
+   "data": "2018-10-29",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR CORINALDO - OSTRA CODICE PROG-128-PR-1 NELLE MORE DELLA INDIVIDUAZIONE DI NUOVO CONTRAENTE. PERIODO LUGLIO - DICEMBRE 2018",
+   "amministrazione": "CONVENZIONE TRA I COMUNI DI SENIGALLIA, ARCEVIA, BARBARA, OSTRA, OSTRA VETERE E SERRA DE' CONTI",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 121362.5,
+   "aggiudicato": 121362.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "7378310606",
+   "data": "2018-01-12",
+   "oggetto": "ART. 106, COMMA 11 D.LGS. 50/2016 E S.M.I. PROSECUZIONE PROGETTO SPRAR CORINALDO - OSTRA CODICE PROG-128-PR-1 NELLE MORE DELLA INDIVIDUAZIONE DI NUOVO CONTRAENTE. PERIODO GENNAIO -",
+   "amministrazione": "CONVENZIONE TRA I COMUNI DI SENIGALLIA, ARCEVIA, BARBARA, OSTRA, OSTRA VETERE E SERRA DE' CONTI",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 121362.5,
+   "aggiudicato": 121392.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "7127900129",
+   "data": "2017-06-30",
+   "oggetto": "ACCOGLIENZA IN STRUTTURE COLLETTIVE",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 267750.0,
+   "aggiudicato": 258600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6969736817",
+   "data": "2017-01-27",
+   "oggetto": "'SPRAR SENIGALLIA' TRIENNIO 2017-2019 - D.M. 10 AGOSTO 2016 - CAPO II - ART. 14. - ASSUNZIONE IMPEGNO DI SPESA PER GARANTIRE LA PROSECUZIONE DEL PROGETTO MESE DI GENNAIO 2017 NELLE",
+   "amministrazione": "COMUNE DI SENIGALLIA",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 54355.0,
+   "aggiudicato": 54355.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "6900394145",
+   "data": "2016-12-07",
+   "oggetto": "CONVENZIONE TRA IL COMUNE DI SENIGALLIA E LA FONDAZIONE CARITAS SENIGALLIA ONLUS DI SENIGALLIA PER L'ATTUAZIONE DEL PROGETTO 'SPRAR SENIGALLIA 'PER RICHIEDENTI ASILO E RIFUGIATI - ",
+   "amministrazione": "COMUNE DI SENIGALLIA",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 271110.0,
+   "aggiudicato": 271110.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "6766840D02",
+   "data": "2016-06-08",
+   "oggetto": "ATTUAZIONE DELIBERA DI GIUNTA MUNICIPALE N. 65 DEL 15.04.2014 DI OGGETTO: 'PROGETTO 'SPRAR SENIGALLIA' IN COLLABORAZIONE CON LA FONDAZIONE CARITAS TRIENNIO 2014-2016. PRESA D'ATTO ",
+   "amministrazione": "COMUNE DI SENIGALLIA",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 163625.0,
+   "aggiudicato": 163625.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "6587110F1E",
+   "data": "2016-02-10",
+   "oggetto": "OGGETTO: PROCEDURA DI SELEZIONE AD EVIDENZA PUBBLICA PER L'INDIVIDUAZIONE DI UN 'ENTE ATTUATORE' PER LA GESTIONE DI SERVIZI DI ACCOGLIENZA RIVOLTI AI RICHIEDENTI/TITOLARI DI PROTEZ",
+   "amministrazione": "COMUNE DI SENIGALLIA",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 511000.0,
+   "aggiudicato": 236516.35,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "64971100C9",
+   "data": "2015-12-01",
+   "oggetto": "CONVENZIONE TRA IL COMUNE DI SENIGALLIA E LA FONDAZIONE CARITAS SENIGALLIA ONLUS DI SENIGALLIA PER L'ATTUAZIONE DEL PROGETTO 'SPRAR SENIGALLIA 'PER RICHIEDENTI ASILO E RIFUGIATI - ",
+   "amministrazione": "COMUNE DI SENIGALLIA",
+   "ente": "FONDAZIONE CARITAS SENIGALLIA ETS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 212380.0,
+   "aggiudicato": 212380.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

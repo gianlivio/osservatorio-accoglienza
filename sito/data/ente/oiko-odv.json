@@ -1,0 +1,54 @@
+{
+ "nome": "OIKO ODV",
+ "cf": "01318330428",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A04448C9F4",
+   "data": "2023-12-28",
+   "oggetto": "PROSECUZIONE ANNO 2024 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI, MADRI CON FIGLI E VITTIME DELLA VIOLENZA DI GENERE GIA' INSERITI IN STRUTTURA RESID",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "OIKO ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48703.62,
+   "aggiudicato": 48703.62,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "9622368545",
+   "data": "2023-01-26",
+   "oggetto": "SERVIZI DI ASSISTENZA MINORI, MSNA E DI CONTRASTO ALLA VIOLENZA DI GENERE PRESSO LE STRUTTURE RESIDENZIALI - 2023",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "OIKO ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55600.0,
+   "aggiudicato": 55600.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "nome": "RUGIADA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "07538481214",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D40F7AD0",
+   "data": "2025-12-31",
+   "oggetto": "INVITO A PRESENTARE PREVENTIVO/OFFERTA PER AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI PROVENIENTI DA RITROVAMENTO SUL TERRITORIO, PERIODO",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "RUGIADA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34776.0,
+   "aggiudicato": 34776.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "B7D122BC06",
+   "data": "2025-07-30",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI PROVENIENTI DA RITROVAMENTO SUL TERRITORIO.",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "RUGIADA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33120.0,
+   "aggiudicato": 33120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "B57CE9B042",
+   "data": "2025-02-05",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI PROVENIENTI DA RITROVAMENTO SUL TERRITORIO.",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "RUGIADA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32580.0,
+   "aggiudicato": 32580.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  },
+  {
+   "cig": "B3FD214D6F",
+   "data": "2024-10-25",
+   "oggetto": "INVITO A PRESENTARE PREVENTIVO/OFFERTA PER AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI PROVENIENTI DA RITROVAMENTO SUL TERRITORIO.",
+   "amministrazione": "COMUNE DI PESCO SANNITA",
+   "ente": "RUGIADA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 38000.0,
+   "aggiudicato": 38000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

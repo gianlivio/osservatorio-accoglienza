@@ -1,0 +1,38 @@
+{
+ "nome": "LA LIBELLULA  COOPERATIVA SOCIALE SCARL",
+ "cf": "02803950340",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B97258ACCA",
+   "data": "2025-12-09",
+   "oggetto": "INSERIMENTO MSNA C.A. E C.I PERIODO 10/11/2025 - 30/06/2026",
+   "amministrazione": "ASP CAV.MARCO ROSSI SIDOLI ",
+   "ente": "LA LIBELLULA  COOPERATIVA SOCIALE SCARL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41296.0,
+   "aggiudicato": 41296.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  }
+ ]
+}

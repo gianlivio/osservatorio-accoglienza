@@ -1,0 +1,63 @@
+{
+ "nome": "UTOPIA SOCIETA' COOPERATIVA SOCIALE O IN SIGLA UTOPIA S.C.S.",
+ "cf": "02083580411",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B771CE7BA3",
+   "data": "2025-06-30",
+   "oggetto": "SERVIZI ACCOGLIENZA MINORI, MSNA, MADRI CON FIGLI MINORI, VITTIME DELLA VIOLENZA DI GENERE, INSERITI IN STRUTTURE RESIDENZIALI SU DISPOSIZIONE DEL SSP E DELL'AUTORITA' GIUDIZIARIA ",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "UTOPIA SOCIETA' COOPERATIVA SOCIALE O IN SIGLA UTOPIA S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15485.0,
+   "aggiudicato": 15485.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B2462203FA",
+   "data": "2024-07-04",
+   "oggetto": "MSNA 36_2024COOP UTOPIA P.I 02083580411 CASA LUCIA",
+   "amministrazione": "COMUNE DI RIMINI",
+   "ente": "UTOPIA SOCIETA' COOPERATIVA SOCIALE O IN SIGLA UTOPIA S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 44650.0,
+   "aggiudicato": 44650.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  }
+ ]
+}

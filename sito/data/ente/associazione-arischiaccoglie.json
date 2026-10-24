@@ -1,0 +1,33 @@
+{
+ "nome": "ASSOCIAZIONE ARISCHIACCOGLIE",
+ "cf": "93086040669",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "7101945669",
+   "data": "2017-06-14",
+   "oggetto": "PROCEDURA APERTA PER UN ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI PER ASSICURARE I SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NELLAA PROVI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ASSOCIAZIONE ARISCHIACCOGLIE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 32661972.0,
+   "aggiudicato": 8.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

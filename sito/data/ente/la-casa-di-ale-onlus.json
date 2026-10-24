@@ -1,0 +1,80 @@
+{
+ "nome": "LA CASA DI ALE ONLUS",
+ "cf": "91036480191",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "82999073EE",
+   "data": "2020-04-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI IN SINGOLE UNITÀ ABITATIVE. DAL 1^.4.2020 AL 31.3.2021. LA CASA DI ALE.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "LA CASA DI ALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 155850.0,
+   "aggiudicato": 155850.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "775747895A",
+   "data": "2019-01-07",
+   "oggetto": "LA CASA DI ALE PROROGA CONEVNZIONE ACCOGLIENZA MIGRANTI I TRI,ESTRE 2019",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "LA CASA DI ALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 62640.0,
+   "aggiudicato": 62640.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "731991481E",
+   "data": "2017-12-15",
+   "oggetto": "LA CASA DI ALE PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI I BIMESTRE 2018",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "LA CASA DI ALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 47223.6,
+   "aggiudicato": 47223.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

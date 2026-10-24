@@ -1,0 +1,38 @@
+{
+ "nome": "TPER S.P.A.",
+ "cf": "03182161202",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6614813C5C",
+   "data": "2017-01-02",
+   "oggetto": "ABBONAMENTI TPER A FAVORE DEGLI UTENTI INCLUSIONE E SPRAR",
+   "amministrazione": "ASP CITTA' DI BOLOGNA",
+   "ente": "TPER S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 92510.91,
+   "aggiudicato": 92510.91,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "STELLANTIS FINANCIAL SERVICES ITALIA S.P.A.",
+ "cf": "08822460963",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8E219BBA0",
+   "data": "2025-10-31",
+   "oggetto": "PROG. SAI CAT. MSNA - CHIUSURA CONTRATTO NOLEGGIO AUTOMEZZO AZIENDALE - TARGA GL322GR",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "STELLANTIS FINANCIAL SERVICES ITALIA S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7000.0,
+   "aggiudicato": 7000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B68EC35021",
+   "data": "2025-04-18",
+   "oggetto": "PROG. SAI CAT. MSNA - PROROGA CONTRATTO NOLEGGIO AUTOMEZZO AZIENDALE - TARGA GL322GR",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "STELLANTIS FINANCIAL SERVICES ITALIA S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3500.0,
+   "aggiudicato": 3500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

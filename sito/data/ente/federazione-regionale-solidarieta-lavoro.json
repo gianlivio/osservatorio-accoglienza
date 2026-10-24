@@ -1,0 +1,59 @@
+{
+ "nome": "FEDERAZIONE REGIONALE SOLIDARIETA' LAVORO",
+ "cf": "95011880101",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B778B9C760",
+   "data": "2025-06-30",
+   "oggetto": "AFFIDAMENTO EX ART. 54, COMMA 3, D.LGS. 50/2016 AVVALENDOSI DELLA OPZIONE DI PROROGA TECNICA AI SENSI DELLART. 106 DEL DLGS N. 50/2026, PER IL PERIODO DAL 01 LUGLIO 2025 AL 31 AGOS",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "FEDERAZIONE REGIONALE SOLIDARIETA' LAVORO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36606.2,
+   "aggiudicato": 36606.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B01910D6C8",
+   "data": "2024-01-24",
+   "oggetto": "GESTIONE CENTRO SERVIZI PER IMMIGRATI",
+   "amministrazione": "COMUNE DI SESTRI LEVANTE",
+   "ente": "FEDERAZIONE REGIONALE SOLIDARIETA' LAVORO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7000.0,
+   "aggiudicato": 7000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "LINEA SOCIALE - SOCIETA' COOPERATIVA SOCIALE INTEGRATA - ONLUS",
+ "cf": "08926681001",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7DCED5CCB",
+   "data": "2025-08-04",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI ASILO IN CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "LINEA SOCIALE - SOCIETA' COOPERATIVA SOCIALE INTEGRATA - ONLUS",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 591461.5,
+   "aggiudicato": 591461.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

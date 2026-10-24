@@ -1,0 +1,163 @@
+{
+ "nome": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+ "cf": "02265520813",
+ "affidamenti": 7,
+ "diretti": 1,
+ "quota_diretti": 14.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRAPANI",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9818249363",
+   "data": "2023-05-12",
+   "oggetto": "AFFIDAMENTO PROSECUZIONE, PER IL PERIODO DAL 1^ LUGLIO 2023 AL 31 DICEMBRE 2025, DEL PROGETTO DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA SAI - ORDINARI, FINANZIATA CON D.M. I",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8695855.83,
+   "aggiudicato": 8695855.83,
+   "durata_gg": 914.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "861076975D",
+   "data": "2021-03-19",
+   "oggetto": "PROGETTI DI ACCOGLIENZA DEGLI ENTI LOCALI NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE (SIPROIMI)",
+   "amministrazione": "COMUNE DI ALCAMO",
+   "ente": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2337308.44,
+   "aggiudicato": 1757784.02,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "850163397C",
+   "data": "2020-11-06",
+   "oggetto": "APPALTO DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL SISTEMA SPRAR SIPROIMI ORDINARI-ADULTI PER IL PROGETTO 'I COLORI DEL MONDO' PERIODO 1 GENNAIO 2021 - 31 ",
+   "amministrazione": "COMUNE DI MARSALA",
+   "ente": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4500000.0,
+   "aggiudicato": 4500000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "735202394D",
+   "data": "2018-02-20",
+   "oggetto": "GESTIONE ED ORGANIZZAZIONE DEI SERVIZI DI ACCOGLIENZA - SPRAR - TRIENNIO2017/2019",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA - COMUNE DI ERICE",
+   "ente": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2198898.0,
+   "aggiudicato": 2198898.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "69118059EA",
+   "data": "2016-12-22",
+   "oggetto": "SPRAR CATEGORIA ORDINARI",
+   "amministrazione": "COMUNE DI PALERMO",
+   "ente": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 5335165.71,
+   "aggiudicato": 5297517.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "6840848E57",
+   "data": "2016-11-04",
+   "oggetto": "PROCEDURA APERTA PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA DEGLI ENTI LOCALI IN SENO ALLO SPRAR. INDIVIDUAZIONE SOGGETTO ATTUATORE.",
+   "amministrazione": "DISTRETTO SOCIO SANITARIO D55",
+   "ente": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3233471.43,
+   "aggiudicato": 2564039.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  },
+  {
+   "cig": "6423819F1F",
+   "data": "2015-10-06",
+   "oggetto": "ACCOGLIENZA MSNA - SERVIZIO SPRAR",
+   "amministrazione": "COMUNE DI VALDERICE",
+   "ente": "BADIA GRANDE SOCIETA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 83835.0,
+   "aggiudicato": 1020004.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRAPANI"
+  }
+ ]
+}

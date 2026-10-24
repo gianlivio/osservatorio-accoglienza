@@ -1,0 +1,54 @@
+{
+ "nome": "COOPERATIVA SOCIALE AUSILIATRICE - COOPERATIVA SOCIALE DI SERVIZI SOCIALI E CULTURALI",
+ "cf": "01164550681",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B32E28FCD4",
+   "data": "2024-09-26",
+   "oggetto": "AUTORIZZAZIONE SPESA COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO D. W. IN COMUNITÀ EDUCATIVA",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "COOPERATIVA SOCIALE AUSILIATRICE - COOPERATIVA SOCIALE DI SERVIZI SOCIALI E CULTURALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17482.5,
+   "aggiudicato": 17482.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B32CE6F147",
+   "data": "2024-09-26",
+   "oggetto": "AUTORIZZAZIONE SPESA COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO M. J. A. M. A. S. IN COMUNITÀ EDUCATIVA",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "COOPERATIVA SOCIALE AUSILIATRICE - COOPERATIVA SOCIALE DI SERVIZI SOCIALI E CULTURALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17482.5,
+   "aggiudicato": 17482.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

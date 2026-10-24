@@ -1,0 +1,33 @@
+{
+ "nome": "IMMOBILIARE LISANZA S.R.L. IN LIQUIDAZIONE",
+ "cf": "03467260158",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "7349253B6C",
+   "data": "2018-01-15",
+   "oggetto": "AFFIDAMENTO NEL TERRITORIO DEL COMUNE DI NOVARA DEL SERVIZIO DI ACCOGLIENZA ED ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "IMMOBILIARE LISANZA S.R.L. IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8124900.0,
+   "aggiudicato": 4489914.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

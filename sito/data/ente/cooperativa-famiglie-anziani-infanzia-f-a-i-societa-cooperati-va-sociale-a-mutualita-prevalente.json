@@ -1,0 +1,80 @@
+{
+ "nome": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATI VA SOCIALE A MUTUALITA' PREVALENTE",
+ "cf": "03020700583",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1BBDBFD7B",
+   "data": "2024-05-20",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023 PROGETTO RIM -ROMA INCLUSIONE MIGRANTI A VALERE SUL FINANZIAMENTO AI COMUNI DEL LAZIO FACENTI PARTE DEL SAI A",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATIVA SOCIALE E.T.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68377.82,
+   "aggiudicato": 68377.82,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "98416545CD",
+   "data": "2023-05-23",
+   "oggetto": "PROGETTO DI ACCOGLIENZA E INTEGRAZIONE IN FAVORE DI ADULTI, FAMIGLIE E FAMIGLIE-MONOPARENTALI TITOLARI DI ACCOGLIENZA 'SAI' IN ACCOGLIENZA DIFFUSA, CON CAPIENZA MASSIMA DI 10 POSTI",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATI VA SOCIALE A MUTUALITA' PREVALENTE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1233225.0,
+   "aggiudicato": 1233225.0,
+   "durata_gg": 945.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "895697164B",
+   "data": "2021-10-27",
+   "oggetto": "ACCORDO QUADRO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA IN FAVORE DI ADULTI SINGOLI E FAMIGLIE TITOLARI DI ACCOGLIENZA SAI - SISTEMA DI ACCOGLIENZA INTEGRATA (EX- SIPROIMI) ",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COOPERATIVA FAMIGLIE ANZIANI INFANZIA (F.A.I.) SOCIETA' COOPERATI VA SOCIALE A MUTUALITA' PREVALENTE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 555930.0,
+   "aggiudicato": 555930.0,
+   "durata_gg": 426.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

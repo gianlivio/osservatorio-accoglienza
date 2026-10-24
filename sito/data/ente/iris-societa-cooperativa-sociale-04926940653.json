@@ -1,0 +1,80 @@
+{
+ "nome": "IRIS - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04926940653",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B57AA977AA",
+   "data": "2025-02-05",
+   "oggetto": "DECRETO DI FINANZIAMENTO N. 56217 DEL 31.12.2024 DI NUOVI PROGETTI SAI TIPOLOGIA DI ACCOGLIENZA A CARATTERE ORDINARIO PER NUCLEI FAMILIARI ANCHE MONOPARENTALI NEL COMUNE DI SAN RUF",
+   "amministrazione": "COMUNE DI SAN RUFO",
+   "ente": "IRIS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 136773.52,
+   "aggiudicato": 136773.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B24D5EC2FB",
+   "data": "2024-07-03",
+   "oggetto": "DECRETO DI FINANZIAMENTO N. 3196 DEL 29.03.2024 DI NUOVI PROGETTI SAI TIPOLOGIA DI ACCOGLIENZA A CARATTERE ORDINARIO PER NUCLEI FAMILIARI ANCHE MONOPARENTALI NEL COMUNE DI SAN RUFO",
+   "amministrazione": "COMUNE DI SAN RUFO",
+   "ente": "IRIS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62865.0,
+   "aggiudicato": 62865.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "9835632C48",
+   "data": "2023-05-23",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART.1, COMMA 2, LETT.A DELLA L.120/2020 E S.M.II. PER SERVIZI DI ACCOGLIENZA INTEGRATA PER TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL P",
+   "amministrazione": "COMUNE DI SAN RUFO",
+   "ente": "IRIS - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137197.5,
+   "aggiudicato": 137197.5,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

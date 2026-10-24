@@ -1,0 +1,38 @@
+{
+ "nome": "AMICO SOCIETA COOPERTIVA IMPRESA SOCIALE",
+ "cf": "00578130327",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B021368966",
+   "data": "2024-01-26",
+   "oggetto": "INTERVENTI DI ACCOGLIMENTO DI MINORI STRANIERI NON ACCOMPAGNATI. AFFIDAMENTO DEL SERVIZIO SOCIO-EDUCATIVO DI SORVEGLIANZA",
+   "amministrazione": "COMUNE DI TRIESTE",
+   "ente": "AMICO SOCIETA COOPERTIVA IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

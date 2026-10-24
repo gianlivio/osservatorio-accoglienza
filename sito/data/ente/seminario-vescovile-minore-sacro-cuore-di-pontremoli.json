@@ -1,0 +1,160 @@
+{
+ "nome": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+ "cf": "93000010459",
+ "affidamenti": 8,
+ "diretti": 2,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 1,
+   "quota_diretti": 25.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71874810F5",
+   "data": "2017-07-31",
+   "oggetto": "PROROGA ACCOGLIENZA MIGRANTI SEMINARIO VESCOVILE DI PONTREMOLI AGOSTO SETTEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56544.66,
+   "aggiudicato": 56544.66,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7120473035",
+   "data": "2017-06-08",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI GIUGNO LUGLIO 2017 SEMINARIO PONTREMOLI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56544.66,
+   "aggiudicato": 56544.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7002783F54",
+   "data": "2017-02-28",
+   "oggetto": "PROROGA TECNICA ACCOGLIENZA MIGRANTI DA MARZO A MAGGIO 2017 SEMINARIO DI PONTREMOLI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 69817.0,
+   "aggiudicato": 69817.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6895368DAB",
+   "data": "2016-11-21",
+   "oggetto": "SEMINARIO VESCOVILE DI PONTREMOLI ACCOGLIENZA MIGRANTI OTTOBRE DICEMBRE 2016 PROROGABILE GENNAIO FEBBRAIO 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 119122.59,
+   "aggiudicato": 119122.59,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "679898296E",
+   "data": "2016-07-29",
+   "oggetto": "PROROGA TECNICA CONTRATTO ACCOGLIENZA MIGRANTI AGOSTO SETTEMBRE 2016 SEMINARIO PONTREMOLI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 46545.1,
+   "aggiudicato": 46545.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6747797A3B",
+   "data": "2016-05-23",
+   "oggetto": "PROROGA TECNICA CONTRATTO ACC.MIGRANTI GIUGNO LUGLIO 2016 SEMINARIO VESCOVILE DI PONTREMOLI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 46545.1,
+   "aggiudicato": 46545.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "666830180F",
+   "data": "2016-02-25",
+   "oggetto": "PROROGA TECNICA CONVENZIONE ACCOGLIENZA MIGRANTI MARZO MAGGIO 2016 SEMINARIO PONTREMOLI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 69817.65,
+   "aggiudicato": 69817.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6536288B7B",
+   "data": "2015-12-09",
+   "oggetto": "PROROGA TECNICA CONVENZIONE ACCOGLIENZA MIGRANTI SEMINASRIO COLLEGIO VESCOVILE DI PONTREMOLI",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SEMINARIO VESCOVILE MINORE SACRO CUORE DI PONTREMOLI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46545.1,
+   "aggiudicato": 46545.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

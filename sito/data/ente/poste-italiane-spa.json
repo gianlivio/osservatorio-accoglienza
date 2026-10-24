@@ -1,0 +1,54 @@
+{
+ "nome": "POSTE ITALIANE SPA",
+ "cf": "97103880585",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9019897E76",
+   "data": "2020-03-16",
+   "oggetto": "RINNOVO DEL CONTRATTO RELATIVO AL SERVIZIO DI NOTIFICA DEGLI ATTI INERENTI IL PROCEDIMENTO DI RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "MINISTERO DELL INTERNO - DIPARTIMENTO PER LE LIBERTA CIVILI E L IMMIGRAZIONE",
+   "ente": "POSTE ITALIANE SPA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1420848.0,
+   "aggiudicato": 1420848.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "820477280A",
+   "data": "2020-03-16",
+   "oggetto": "SERVIZIO DI NOTIFICA DEGLI ATTI INERENTI IL PROCEDIMENTO DI RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "MINISTERO DELL INTERNO - DIPARTIMENTO PER LE LIBERTA CIVILI E L IMMIGRAZIONE",
+   "ente": "POSTE ITALIANE SPA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2410560.0,
+   "aggiudicato": 645840.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

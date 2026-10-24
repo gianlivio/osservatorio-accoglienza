@@ -1,0 +1,38 @@
+{
+ "nome": "G.L.S. ARREDO & UFFICI S.R.L.",
+ "cf": "10369170013",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9151EB017",
+   "data": "2025-11-14",
+   "oggetto": "FORNITURA ARREDAMENTI PER UFFICIO - PROGETTO SAI",
+   "amministrazione": "COMUNE DI COLLERETTO CASTELNUOVO",
+   "ente": "G.L.S. ARREDO & UFFICI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10955.5,
+   "aggiudicato": 10955.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

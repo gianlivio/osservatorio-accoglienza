@@ -1,0 +1,38 @@
+{
+ "nome": "MORELLO COSTRUZIONI  SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "04829800756",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8AE6D9886",
+   "data": "2025-10-17",
+   "oggetto": "RISANAMENTO CONSERVATIVO E ADEGUAMENTO NORMATIVO DI EDIFICIO PUBBLICO IN DISUSO DA DESTINARE AD ACCOGLIENZA INTEGRATA DI MINORI STRANIERI NON ACCOMPAGNATI E NEO MAGGIORENNI CON CES",
+   "amministrazione": "COMUNE DI CAPRARICA DI LECCE",
+   "ente": "MORELLO COSTRUZIONI  SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5100.0,
+   "aggiudicato": 5100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

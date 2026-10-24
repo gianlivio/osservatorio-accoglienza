@@ -1,0 +1,38 @@
+{
+ "nome": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01699760334",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B506085999",
+   "data": "2024-12-30",
+   "oggetto": "RETTE INSERIMENTO MINORI E MINORI STRANIERI NON ACCOMPAGNATI PRESSO LE COOPERATIVA SAN PIO S.C.S., CON SEDE LEGALE IN ALBA, PIAZZA CRISTO RE 14/5 CF E P. IVA 01699760334",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "SAN PIO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27000.0,
+   "aggiudicato": 27000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

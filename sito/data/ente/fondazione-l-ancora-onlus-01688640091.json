@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE L'ANCORA ONLUS",
+ "cf": "01688640091",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SAVONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7167969B22",
+   "data": "2017-02-27",
+   "oggetto": "ORGANIZZAZIONE E GESTIONE PROGRAMMA TERRITORIALE PER L'ACCOGLIENZA INTEGRATA PER I RICHIEDENTI E BENEFICIARI DI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "COMUNE DI ROCCAVIGNALE",
+   "ente": "FONDAZIONE L'ANCORA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2702536.02,
+   "aggiudicato": 2522936.02,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SAVONA"
+  }
+ ]
+}

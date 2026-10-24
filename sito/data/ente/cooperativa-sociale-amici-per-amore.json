@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE AMICI PER AMORE",
+ "cf": "93314910725",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRINDISI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B67513BA14",
+   "data": "2025-04-14",
+   "oggetto": "ASSUNZIONE IMPEGNO DI SPESA RELATIVO A 1 MINORE STRANIERO NON ACCOMPAGNATO OSPITE PRESSO LA SOC. COOP. AMICI PER AMORE , PER IL PERIODO 15/3-30/6/2025. IMPORTO DI EURO 8.505,00",
+   "amministrazione": "CONSORZIO PER L'INTEGRAZIONE E L'INCLUSIONE SOCIALE DELL'AMBITO TERRITORIALE SOCIALE DI CISTERNINO FASANO OSTUNI",
+   "ente": "COOPERATIVA SOCIALE AMICI PER AMORE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8100.0,
+   "aggiudicato": 8100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRINDISI"
+  }
+ ]
+}

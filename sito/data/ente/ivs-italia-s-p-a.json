@@ -1,0 +1,38 @@
+{
+ "nome": "IVS ITALIA S.P.A.",
+ "cf": "03320270162",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8A407CEF6",
+   "data": "2025-10-15",
+   "oggetto": "L'AFFIDAMENTO TRIENNALE, IN CONCESSIONE, AI SENSI DELL'ART. 187 DEL D.LGS N. 36/2023, DEL SERVIZIO DI SOMMINISTRAZIONE BEVANDE CALDE E FREDDE E DI ALIMENTI PRECONFEZIONATI A MEZZO ",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "IVS ITALIA S.P.A.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 22800.0,
+   "aggiudicato": 24115.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

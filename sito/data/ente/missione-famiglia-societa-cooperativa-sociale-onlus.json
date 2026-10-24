@@ -1,0 +1,54 @@
+{
+ "nome": "MISSIONE FAMIGLIA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+ "cf": "03522140783",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8548906C65",
+   "data": "2020-12-11",
+   "oggetto": "AFFIDAMENTO IN PROSECUZIONE PER IL TRIENNIO 2021/2023 DEL PROGETTO S.P.R.A.R./SIPROIMI CODICE N. PROG - 1328 - PR1 - CATEGORIA MSNA",
+   "amministrazione": "COMUNE DI ROGLIANO",
+   "ente": "MISSIONE FAMIGLIA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1183068.76,
+   "aggiudicato": 1183086.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "84592233A7",
+   "data": "2020-10-09",
+   "oggetto": "SELEZIONE SOGGETTO ENTE ATTUATORE PER PROSECUZIONE PROGETTO SIPROIMI CAT. ORDINARI UOMINI ADULTI. BIENNIO 2021/2022",
+   "amministrazione": "COMUNE DI CHIARAMONTE GULFI",
+   "ente": "MISSIONE FAMIGLIA SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1437752.8,
+   "aggiudicato": 1425819.45,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "LA LOCOMOTIVA ONLUS SOCIETA'  COOPERATIVA SOCIALE",
+ "cf": "07624220633",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8835319FE0",
+   "data": "2021-07-20",
+   "oggetto": "LOTTO 2 ONE STOP SHOP E UNITÀ MOBILE DI STRADA MUN. 3 E MUN. 4",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "LA LOCOMOTIVA ONLUS SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 513492.21,
+   "aggiudicato": 475391.08,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "nome": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01855170765",
+ "affidamenti": 7,
+ "diretti": 6,
+ "quota_diretti": 85.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9211027BEE",
+   "data": "2022-04-27",
+   "oggetto": "AFFIDAMENTO GLOBAL SERVICE N.120 MIGRANTI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2338920.0,
+   "aggiudicato": 2338920.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "87624266AE",
+   "data": "2021-07-12",
+   "oggetto": "PROCEDURA APERTA PER LA CONCLUSIONE DI ACCORDO QUADRO BIENNALE SERVIZI ACCOGLIENZA MIGRANTI UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 18544560.8,
+   "aggiudicato": 13313534.8,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "80364754F7",
+   "data": "2019-09-05",
+   "oggetto": "AFFIDAMENTO ALLA SOCIETÀ GLOBAL SERVICE DI N. 165 MIGRANTI PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1279179.0,
+   "aggiudicato": 1279179.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7856711B03",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 288 MIGRANTI ALLA SOCIETÀ GLOBAL SERVICE PER IL PERIODO 1^ APRILE/31 DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1753488.0,
+   "aggiudicato": 1753488.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7382839F76",
+   "data": "2018-02-09",
+   "oggetto": "AFFIDAMENTO DIRETTO N. 20 MIGRANTI ALLA SOCIETÀ COOP. SOCIALE GLOBAL SERVICE - PERIODO 1^ GENNAIO 2018/31 DICEMBRE 2018",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 219000.0,
+   "aggiudicato": 219000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "70682876F3",
+   "data": "2017-05-08",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA N. 352 MIGRANTI SOC.COO.VA SOC. GLOBAL SERVICE - PROROGA TECNICA 1^ MAGGIO 2017 / 31 LUGLIO 2017 (ACCORDO QUADRO DI RIFERIMENTO PROT. 27929 DEL 15 ",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 971520.0,
+   "aggiudicato": 971520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6404878088",
+   "data": "2015-09-22",
+   "oggetto": "AFFIDAMENTO ALLA SOC.COOP.VA SOCIALE GLOBAL SERVICE IN AVVALIMENTO CON LA SOC.COOP.VA SOCIALE IL GIRASOLE SERVIZIO ACCOGLIENZA N. 100 MIGRANTI - PERIODO 20 SETTEMBRE 2015 / 31 DICE",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "GLOBAL SERVICE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 294580.0,
+   "aggiudicato": 294580.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

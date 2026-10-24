@@ -1,0 +1,165 @@
+{
+ "nome": "CITY ANGELS LOMBARDIA ODV",
+ "cf": "91528020158",
+ "affidamenti": 8,
+ "diretti": 1,
+ "quota_diretti": 12.5,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7951399607",
+   "data": "2019-06-24",
+   "oggetto": "ACCOGLIENZA MIGRANTI CITY ANGELS",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 120888.0,
+   "aggiudicato": 120888.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "7048168C38",
+   "data": "2017-04-14",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA PER 25 PRESENZE PRO DIE DI CITTADINI STRANIERI PRESENTI SUL TERRITORIO (UOMINI) PRESSO STRUTTURE NELLA DISPONIBILITÀ DEGLI ENTI INVITATI",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 75876.25,
+   "aggiudicato": 73351.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6778269487",
+   "data": "2016-08-23",
+   "oggetto": "UNITÀ D'OFFERTA IN GRADO DI ACCOGLIERE ED OSPITARE FINO A 100 CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO (UOMINI)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 390400.0,
+   "aggiudicato": 389546.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6752854767",
+   "data": "2016-07-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PER UN MASSIMO DI 100 PRESENZE PRO DIE DI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO (UOMINI) - PRESSO STRUTTURE NELLA DISPONIBILITÀ DEGLI ",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 99200.0,
+   "aggiudicato": 95635.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6731377C04",
+   "data": "2016-06-21",
+   "oggetto": "SERVIZI ACCOGLIENZA CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI FINO A 100 PRESENZE (UOMINI)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 99200.0,
+   "aggiudicato": 99045.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6632057292",
+   "data": "2016-03-18",
+   "oggetto": "UNITÀ D'OFFERTA IN GRADO DI ACCOGLIERE ED OSPITARE FINO A 100 PROFUGHI (UOMINI) TEMPORANEAMENTE PRESENTI.",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 291200.0,
+   "aggiudicato": 289835.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "65354274F8",
+   "data": "2015-12-23",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PROFUGHI FINO A 50 POSTI UOMINI",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 145600.0,
+   "aggiudicato": 144462.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6334853611",
+   "data": "2015-07-17",
+   "oggetto": "ACCOGLIENZA PROFUGHI (DURATA 74 GG)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "CITY ANGELS LOMBARDIA ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 199800.0,
+   "aggiudicato": 196840.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

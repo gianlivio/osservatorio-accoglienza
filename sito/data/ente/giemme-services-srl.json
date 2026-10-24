@@ -1,0 +1,75 @@
+{
+ "nome": "GIEMME SERVICES SRL",
+ "cf": "00934650946",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "74155701F4",
+   "data": "2018-03-13",
+   "oggetto": "HATOR S.A.S. - SEDE LEGALE IN AGNONE - CONVENZIONE DEL SERVIZIO DI ACCOGLIENZA NEL TERRITORIO DELLA PROVINCIA DI ISERNIA A FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTE",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "GIEMME SERVICES SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1005890.4,
+   "aggiudicato": 1005890.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "7407870FB2",
+   "data": "2018-03-13",
+   "oggetto": "CONSORZIO DI LIBERE IMPRESE - SEDE LEGALE CAMPOBASSO -CONVENZIONE DEL SERVIZIO DI ACCOGLIENZA NEL TERRITORIO DELLA PROVINCIA DI ISERNIA A FAVORE DI CITTADINI STRANIERI RICHIEDENTI ",
+   "amministrazione": "PREFETTURA DI ISERNIA",
+   "ente": "GIEMME SERVICES SRL",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3887136.0,
+   "aggiudicato": 3887136.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "7211442E2F",
+   "data": "2017-09-28",
+   "oggetto": "INDIVIDUAZIONE SOGGETTO ATTUATORE PER LA COPROGETTAZIONE - ORGANIZZAZIONE E GESTIONE SPRAR",
+   "amministrazione": "COMUNE DI CANTALUPO NEL SANNIO",
+   "ente": "GIEMME SERVICES SRL",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 748000.0,
+   "aggiudicato": 748000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

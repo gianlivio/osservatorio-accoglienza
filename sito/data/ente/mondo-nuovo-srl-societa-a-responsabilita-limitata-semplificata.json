@@ -1,0 +1,59 @@
+{
+ "nome": "MONDO NUOVO SRL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "01804050894",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0255117CD",
+   "data": "2023-08-22",
+   "oggetto": "ATTIVAZIONE CON SOMMA URGENZA DELLA STRUTTURA DENOMINATA 'CAS MONDO NUOVO' SITA IN C.DA SARCULLA S.N.C. - NOTO (SR), DA ADIBIRE ACCOGLIENZA ED ASSISTENZA AI CITTADINI EXTRACOMUNITA",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "MONDO NUOVO SRL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48086.0,
+   "aggiudicato": 48086.0,
+   "durata_gg": 40.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "A03BD8C226",
+   "data": "2022-11-21",
+   "oggetto": "MONDO NUOVO SRL - ATTIVAZIONE CON SOMMA URGENZA DELLA STRUTTURA DENOMINATA 'CAS MONDO NUOVO' SITUATA NEL COMUNE DI NOTO (SR) - CONTRADA SARCULLA SNC, DA ADIBIRE ACCOGLIENZA ED ASSI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "MONDO NUOVO SRL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60777.9,
+   "aggiudicato": 60777.9,
+   "durata_gg": 78.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

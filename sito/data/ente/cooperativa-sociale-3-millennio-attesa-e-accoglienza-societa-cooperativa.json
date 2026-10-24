@@ -1,0 +1,123 @@
+{
+ "nome": "COOPERATIVA SOCIALE 3  MILLENNIO ATTESA E ACCOGLIENZA - SOCIETA' COOPERATIVA",
+ "cf": "00612770396",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7396021D98",
+   "data": "2018-03-01",
+   "oggetto": "CONTRATTO SPECIFICO NELL'AMBITO DELL'ACCORDO QUADRO SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI -TERZO MILLENNIO 01/03/2018-30/09/2018",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE 3  MILLENNIO ATTESA E ACCOGLIENZA - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 266808.78,
+   "aggiudicato": 266808.78,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "7337797DA1",
+   "data": "2018-01-01",
+   "oggetto": "CONTRATTO SPECIFICO NELL'AMBITO DELL'ACCORDO QUADRO SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI -TERZO MILLENNIO 01/01/2018-28/02/2018",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE 3  MILLENNIO ATTESA E ACCOGLIENZA - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73559.43,
+   "aggiudicato": 73559.43,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972531A98",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 3.7 CENTRO URBANO PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIE",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE 3  MILLENNIO ATTESA E ACCOGLIENZA - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136646.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972516E36",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 3.6 CENTRO URBANO PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIE",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE 3  MILLENNIO ATTESA E ACCOGLIENZA - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136646.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972505525",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 3.5 CENTRO URBANO PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIE",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE 3  MILLENNIO ATTESA E ACCOGLIENZA - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136646.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "69724843D1",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 3.4 CENTRO URBANO PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIE",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE 3  MILLENNIO ATTESA E ACCOGLIENZA - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136646.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

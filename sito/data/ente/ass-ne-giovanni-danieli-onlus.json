@@ -1,0 +1,70 @@
+{
+ "nome": "ASS.NE GIOVANNI DANIELI ONLUS",
+ "cf": "04039480282",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B297EB86B8",
+   "data": "2024-07-26",
+   "oggetto": "PROSECUZIONE INSERIMENTO IN COMUNITA' EDUCATIVA MSNA PERIODO 01/07/2024-26/12/2024",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "ASS.NE GIOVANNI DANIELI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25660.0,
+   "aggiudicato": 25660.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B1799056A4",
+   "data": "2024-05-02",
+   "oggetto": "OSPITALITA MSNA",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "ASS.NE GIOVANNI DANIELI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34900.0,
+   "aggiudicato": 34900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  },
+  {
+   "cig": "B15FD33E58",
+   "data": "2024-04-24",
+   "oggetto": "OSPITALITA MSNA",
+   "amministrazione": "UNIONE COMUNI PIANURA REGGIANA",
+   "ente": "ASS.NE GIOVANNI DANIELI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34900.0,
+   "aggiudicato": 34900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

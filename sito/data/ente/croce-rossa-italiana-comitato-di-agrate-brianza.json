@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA -  COMITATO DI AGRATE BRIANZA",
+ "cf": "08466360966",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MONZA E DELLA BRIANZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "713529253A",
+   "data": "2017-07-06",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI CROCE ROSSA ITALIANA PERIODO 1 LUGLIO 31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "CROCE ROSSA ITALIANA -  COMITATO DI AGRATE BRIANZA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 750000.0,
+   "aggiudicato": 750000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MONZA E DELLA BRIANZA"
+  }
+ ]
+}

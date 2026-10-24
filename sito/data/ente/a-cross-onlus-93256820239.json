@@ -1,0 +1,112 @@
+{
+ "nome": "A.CROSS ONLUS",
+ "cf": "93256820239",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B59B0F1984",
+   "data": "2025-02-13",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DEI PROFUGHI UCRAINI NELL'AREA DI ACCOGLIENZA SITA A LAZISE IN VIA DELLE COSTE N. 18 PER IL PERIODO DAL 19.04.2025 AL 31.12.2025 PER IL COMUNE DI LAZISE (VR",
+   "amministrazione": "COMUNE DI LAZISE",
+   "ente": "A.CROSS IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 302088.39,
+   "aggiudicato": 142844.30414,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "9976398013",
+   "data": "2023-07-20",
+   "oggetto": "GESTIONE DELL'AREA DI ACCOGLIENZA DEI PROFUGHI UCRAINI SITA A LAZISE IN VIA DELLE COSTE N. 18 PER IL PERIODO DAL 01.09.2023 AL 31.12.2023",
+   "amministrazione": "COMUNE DI LAZISE",
+   "ente": "A.CROSS ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 73247.58,
+   "aggiudicato": 73196.34,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6995663BB9",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - LA CARICA - A.CROSS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "A.CROSS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 94500.0,
+   "aggiudicato": 94500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "69956164F2",
+   "data": "2017-03-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GEST HOTEL - A.CROSS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "A.CROSS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 315000.0,
+   "aggiudicato": 315000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6955602858",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GEST HOTEL - ACROSS",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "A.CROSS ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 830375.0,
+   "aggiudicato": 830375.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

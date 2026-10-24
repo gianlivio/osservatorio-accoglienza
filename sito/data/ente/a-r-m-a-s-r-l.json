@@ -1,0 +1,38 @@
+{
+ "nome": "A.R.M.A. S.R.L.",
+ "cf": "01545650218",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6605989A91",
+   "data": "2016-02-26",
+   "oggetto": "FORNITURA DI PASTI ALLA STRUTTURA PER I PROFUGHI A CHIUSA - ANNO 2016",
+   "amministrazione": "BEZIRSGEMEINSCHAFT WIPPTAL",
+   "ente": "A.R.M.A. S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 67932.0,
+   "aggiudicato": 67932.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "nome": "COOPERATIVA IL POLO",
+ "cf": "03878600133",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "UDINE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6C9C4833F",
+   "data": "2025-05-12",
+   "oggetto": "SERVIZIO ACCOGLIENZA RESIDENZIALE DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO 05.05.2025 - 31.03.2026",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "COOPERATIVA SOCIALE IL POLO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39058.0,
+   "aggiudicato": 39058.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B05308A9FD",
+   "data": "2024-02-09",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "COOPERATIVA IL POLO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 79414.0,
+   "aggiudicato": 79414.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B05308A9FD",
+   "data": "2024-02-09",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "COOPERATIVA IL POLO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 79414.0,
+   "aggiudicato": 79414.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

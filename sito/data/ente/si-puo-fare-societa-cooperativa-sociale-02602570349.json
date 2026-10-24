@@ -1,0 +1,38 @@
+{
+ "nome": "SI PUO' FARE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02602570349",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B12494196E",
+   "data": "2024-04-09",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI SI PUO' FARE SOCIETA' COOPERATIVA SOCIALE. IMPEGNO DI SPESA PRESUNT",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "SI PUO' FARE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13800.0,
+   "aggiudicato": 13800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

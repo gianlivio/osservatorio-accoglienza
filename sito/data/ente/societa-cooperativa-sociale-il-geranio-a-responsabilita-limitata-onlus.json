@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE IL GERANIO A RESPONSABILITA' LIMITATA ONLUS",
+ "cf": "04681550879",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B41C5D5665",
+   "data": "2024-11-08",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA INTEGRATA SAI (SISTEMA DI ACCOGLIENZA E INTEGRAZIONE) - COMUNE DI TUSA (ME).PROSECUZIONE DEL PROGETTO SAI PER IL BIENNIO 2025/2026 TIPOLOGIA",
+   "amministrazione": "COMUNE DI TUSA",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE IL GERANIO A RESPONSABILITA' LIMITATA ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1976348.69,
+   "aggiudicato": 1976348.69,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

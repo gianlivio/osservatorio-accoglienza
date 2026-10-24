@@ -1,0 +1,98 @@
+{
+ "nome": "GI GROUP S.P.A.",
+ "cf": "11629770154",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B71909234F",
+   "data": "2025-06-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONI LAVORATIVE A TEMPO DETERMINATO PER UN CONTINGENTE DI 8 UNITÀ DI PERSONALE APPARTENENTI ALL'AREA DEI FUNZIONARI DA IMPIEG",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "GI GROUP S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 116751.6,
+   "aggiudicato": 116751.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B6F7453011",
+   "data": "2025-05-22",
+   "oggetto": "SOMMINISTRAZIONE LAVORATORI PER CTRPI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "GI GROUP S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135435.91,
+   "aggiudicato": 135435.91,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "B6E738DAA4",
+   "data": "2025-05-19",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONI LAVORATIVE A TEMPO DETERMINATO PER UN CONTINGENTE DI N. 8 UNITÀ DI PERSONALE APPARTENENTE ALL'AREA DEI FUNZIONAR",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "GI GROUP S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 143000.0,
+   "aggiudicato": 143000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "B6A00169B6",
+   "data": "2025-04-28",
+   "oggetto": "SERVIZIO DI SOMMINISTRAZIONE DI PRESTAZIONI LAVORATIVE A TEMPO DETERMINATO PER UN CONTINGENTE DI N. 2 UNITÀ DI PERSONALE APPARTENENTI ALL'AREA DEI FUNZIONARI DA IMPIEGARE PER UN PE",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "GI GROUP S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 143000.0,
+   "aggiudicato": 143000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

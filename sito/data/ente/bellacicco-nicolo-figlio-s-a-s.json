@@ -1,0 +1,59 @@
+{
+ "nome": "BELLACICCO NICOLO & FIGLIO S.A.S.",
+ "cf": "05043830727",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8884836E99",
+   "data": "2021-08-30",
+   "oggetto": "SERVIZIO DI GESTIONE DEI CENTRI COLLETTIVI DI ACCOGLIENZA STRAORDINARIA DI MIGRANTI RICHIEDENTI ASILO CON CAPACITA' RICETTIVA MASSIMA DI N.100 POSTI DI CUI ALL'ART.11 D.LGS. 142/20",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "BELLACICCO NICOLO & FIGLIO S.A.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1210340.0,
+   "aggiudicato": 1210340.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6955084CDF",
+   "data": "2017-01-31",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA TEMPORANEA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE CASAMASSIMA GIOIA SAMMICHELE TURI",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "BELLACICCO NICOLO & FIGLIO S.A.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2356200.0,
+   "aggiudicato": 42311.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  }
+ ]
+}

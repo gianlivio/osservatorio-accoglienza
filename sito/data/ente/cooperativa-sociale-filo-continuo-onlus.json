@@ -1,0 +1,38 @@
+{
+ "nome": "COOPERATIVA SOCIALE FILO CONTINUO ONLUS",
+ "cf": "02177910235",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7354125FEB",
+   "data": "2018-02-19",
+   "oggetto": "GESTIONE SERVIZIO ACCOGLIENZA INTEGRATA PER I RICHIEDENTI E BENEFICIARI PER MOTIVI UMANITARI DA INSERIRIE NELL'AMBITO DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI",
+   "amministrazione": "CUC PESCHIERA DEL GARDA FUMANE",
+   "ente": "COOPERATIVA SOCIALE FILO CONTINUO ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 542550.6,
+   "aggiudicato": 458257.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

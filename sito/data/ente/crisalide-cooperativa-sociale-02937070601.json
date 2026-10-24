@@ -1,0 +1,33 @@
+{
+ "nome": "CRISALIDE COOPERATIVA SOCIALE",
+ "cf": "02937070601",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6767498C02",
+   "data": "2016-07-30",
+   "oggetto": "ACCORDO QUADRO SERVIZI DI ACCOGLIENZA E CONNESSI CITTADINI STRANIERI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI FROSINONE",
+   "ente": "CRISALIDE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 28791000.0,
+   "aggiudicato": 22074559.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

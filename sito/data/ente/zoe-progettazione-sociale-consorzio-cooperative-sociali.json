@@ -1,0 +1,79 @@
+{
+ "nome": "ZOE' PROGETTAZIONE SOCIALE CONSORZIO COOPERATIVE SOCIALI",
+ "cf": "01620920551",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TERNI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6D60BE32B",
+   "data": "2025-05-14",
+   "oggetto": "AFFIDAMENTO DIRETTO SERVIZI DI ACCOGLIENZA MINORI, MINORI STRANIERI NON ACCOMPAGNATI, MADRI CON FIGLI MINPORO, VITTIME DELLA VIOLENZA DI GENERE INSERITI IN STRUTTURA RESIDENZIALE",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "ZOE' PROGETTAZIONE SOCIALE CONSORZIO DI COOP SOCIALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30757.14,
+   "aggiudicato": 30757.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B5CF71B649",
+   "data": "2025-02-27",
+   "oggetto": "RETTA STRUTTURA RESIDENZIALE MSNA PROT. 155845/22 DAL 1/1/25 AL 31/12/2025",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "ZOE' PROGETTAZIONE SOCIALE CONSORZIO COOPERATIVE SOCIALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49275.0,
+   "aggiudicato": 49275.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  },
+  {
+   "cig": "B0ADC7D9B5",
+   "data": "2024-03-05",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI TERNI",
+   "ente": "ZOE' PROGETTAZIONE SOCIALE CONSORZIO COOPERATIVE SOCIALI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47580.0,
+   "aggiudicato": 47580.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TERNI"
+  }
+ ]
+}

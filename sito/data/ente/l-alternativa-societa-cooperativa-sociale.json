@@ -1,0 +1,38 @@
+{
+ "nome": "L'ALTERNATIVA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02050670187",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7586860AEC",
+   "data": "2018-07-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI DAL 01/08/2018 AL 31/12/2018 I COLORI DEL SORRISO",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "L'ALTERNATIVA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 321116.4,
+   "aggiudicato": 321116.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

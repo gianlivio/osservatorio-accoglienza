@@ -1,0 +1,38 @@
+{
+ "nome": "CASA DEL VOLONTARIATO PROVINCIALE",
+ "cf": "93104270660",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "96577936E7",
+   "data": "2023-03-08",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRO DI PRIMA ACCOGLIENZA DEI RICHIEDENTI PROTEZIONE INTERNAZIONALE DI NAZIONALITÀ UCRAINA IN SINGOLE UNITÀ ABITATIVE.",
+   "amministrazione": "COMUNE DELL'AQUILA",
+   "ente": "CASA DEL VOLONTARIATO PROVINCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 447020.0,
+   "aggiudicato": 447020.0,
+   "durata_gg": 180.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  }
+ ]
+}

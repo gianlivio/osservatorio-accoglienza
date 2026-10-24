@@ -1,0 +1,38 @@
+{
+ "nome": "EUROWUNDER S.R.L.",
+ "cf": "02976440921",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5A2AE9063",
+   "data": "2025-03-28",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COSTITUITI DA CENTRI COLLETTIVI CON CAPACITÀ RICETTIVA FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "EUROWUNDER S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 41115060.0,
+   "aggiudicato": 3440216.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  }
+ ]
+}

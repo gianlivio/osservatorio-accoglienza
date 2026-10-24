@@ -1,0 +1,141 @@
+{
+ "nome": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+ "cf": "91012630710",
+ "affidamenti": 6,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9534066029",
+   "data": "2022-12-19",
+   "oggetto": "AFFIDAMENTO PROCEDURA APERTA AI FINI DELL'AGGIUDICAZIONE CON IL CRITERIO DELL'OFFERTA PIU' VANTAGGIOSA A PREZZO FISSO PER L'INDIVIDUAZIONE DEL SOGGETTO GESTORE PER LA PROSECUZIONE ",
+   "amministrazione": "COMUNE DI LUCERA",
+   "ente": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1327350.0,
+   "aggiudicato": 1216737.5,
+   "durata_gg": 1096.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "834374328B",
+   "data": "2020-06-18",
+   "oggetto": "PROGETTO VITA ATTIVA - SIPROIMI PRIMO SEMESTRE 2020",
+   "amministrazione": "PROVINCIA DI BARLETTA ANDRIA TRANI",
+   "ente": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 247035.0,
+   "aggiudicato": 247035.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "691109827D",
+   "data": "2017-07-05",
+   "oggetto": "PROGETTAZIONE, GESTIONE ED EROGAZIONE DEI SERVIZI FINALIZZATI ALL'ACCOGLIENZA DEI RICHIEDENTI ASILO, RIFUGIATI E TITOLARI DI PROTEZIONE UMANITARIA (S.P.R.A.R.), PER LE ANNUALITÀ 20",
+   "amministrazione": "ACCORDO CONVENZIONALE CONSORTILE PER L'ISTITUZIONE DELLA CENTRALE UNICA DI COMMITTENZA COMUNI DI CAMPOMARINO, GUGLIONESI E TERMOLI",
+   "ente": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 749439.0,
+   "aggiudicato": 749439.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "706857007F",
+   "data": "2017-05-19",
+   "oggetto": "INDIVIDUAZIONE SOGGETTO GESTORE PER SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO, RIFUGIATI E UMANITARI (RARU) NELL'AMBITO DI UN PROGETTO TERRITORIALE",
+   "amministrazione": "COMUNE DI LUCERA",
+   "ente": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 519637.93,
+   "aggiudicato": 519637.93,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "697882870C",
+   "data": "2017-03-02",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO DEL TERZO SETTORE PER L'ORGANIZZAZIONE E LA GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISSTEMA",
+   "amministrazione": "COMUNE DI SANT'ELIA A PIANISI",
+   "ente": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1051353.0,
+   "aggiudicato": 1051353.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "7258152083",
+   "data": "2016-11-07",
+   "oggetto": "SERVIZI DELL'ASILO (FNPSA) TRIENNIO 2017 - 2019. LIQUIDAZIONE E PAGAMENTO A FAVORE DELL'A.P.S. MONDO NUOVO DI LUCERA PER SPESE DI ACCOGLIENZA E INTEGRAZIONE DI RIFUGIATI",
+   "amministrazione": "PROVINCIA DI FOGGIA",
+   "ente": "MONDO NUOVO ASSOCIAZIONE DI PROMOZIONE SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1002454.75,
+   "aggiudicato": 1002454.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

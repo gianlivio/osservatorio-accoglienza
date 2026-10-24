@@ -1,0 +1,59 @@
+{
+ "nome": "VENETO INSIEME - SOCIETA' COOPERATIVA SOCIALE CONSORTILE",
+ "cf": "01364040285",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5234B778D",
+   "data": "2025-01-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "VENETO INSIEME - SOCIETA' COOPERATIVA SOCIALE CONSORTILE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17163980.78,
+   "aggiudicato": 17163980.78,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "8774766DF6",
+   "data": "2021-06-25",
+   "oggetto": "GARA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI IN CENTRI COSTITUITI DA CENTRI COLLETTIVI MAX 50 POSTI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "VENETO INSIEME - SOCIETA' COOPERATIVA SOCIALE CONSORTILE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7330200.0,
+   "aggiudicato": 6875483.43,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "nome": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+ "cf": "03834700613",
+ "affidamenti": 10,
+ "diretti": 7,
+ "quota_diretti": 70.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 6,
+   "diretti": 4,
+   "quota_diretti": 66.7
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B835D462C4",
+   "data": "2025-09-11",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2776845.54,
+   "aggiudicato": 2776845.54,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B8317DA8D7",
+   "data": "2025-09-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2637894.42,
+   "aggiudicato": 2637894.42,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B589F94360",
+   "data": "2025-02-07",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA STRAORDINARIA RIFUGIATI RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2810866.44,
+   "aggiudicato": 2810866.44,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "A03AD95572",
+   "data": "2023-12-18",
+   "oggetto": "SOCIETA' COOPERATIVA 'ALBA' DI CASAL DI PRINCIPE (CE) CAS PIETRADEFUSI-AFFIDAMENTO SERVIZIO DI PRIMA ACCOGLIENZA RICHIEDENTI ASILO PR4OVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 195427.0,
+   "aggiudicato": 195427.0,
+   "durata_gg": 50.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "A03ACFA589",
+   "data": "2023-12-18",
+   "oggetto": "SOCIETA' COOPERATIVA 'ALBA' DI CASAL DI PRINCIPE (CE)-AFFIDAMENTO SERVIZIO DI PRIMA ACCOGLIENZA RICHIEDENTI ASILO PR4OVINCIA DI AVELLINO",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 191231.3,
+   "aggiudicato": 191231.3,
+   "durata_gg": 65.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "993869890A",
+   "data": "2023-07-04",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI FINO A 50 POSTI COOPSOCIALE ALBA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1018429.5,
+   "aggiudicato": 1018429.5,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "9856054110",
+   "data": "2023-05-31",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COSTITUTI DA UNITÀ ABITATIVE FINO A 50 POSTI COOP. ALBA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 837077.23,
+   "aggiudicato": 837077.23,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "A06662BCB5",
+   "data": "2023-05-30",
+   "oggetto": "CONVENZIONE ATTUATIVA SERVIZIO DI ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI COSTITUITI DA UNITÀ ABITATIVE OOPL. ALBA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1272901.0,
+   "aggiudicato": 1272901.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "A04B4EE7B6",
+   "data": "2023-05-30",
+   "oggetto": "CONVENZIONE ATTUATIVA ACORDO QUADRO ACCOGLIENZA MIGRANTI CIG 8929004F2F - COOP.ALBA",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 837077.23,
+   "aggiudicato": 837077.23,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "8929004F2F",
+   "data": "2021-10-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI IN CENTRI COSTITUITI DA SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "ALBA SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 17823935.0,
+   "aggiudicato": 20.27,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  }
+ ]
+}

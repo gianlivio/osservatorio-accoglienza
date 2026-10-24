@@ -1,0 +1,59 @@
+{
+ "nome": "TECHNE SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+ "cf": "02604400404",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9504216727",
+   "data": "2022-11-22",
+   "oggetto": "SERVIZIO, IN QUALITÀ DI ENTE PROMOTORE, DI ATTIVAZIONE DI TIROCINI E DEL SERVIZIO DI FORMAZIONE PROFESSIONALE RIVOLTI AGLI UTENTI DEL PROGETTO SAI",
+   "amministrazione": "AZIENDA PUBBLICA DI SERVIZI ALLA PERSONA DEL DISTRETTO CESENA VALLE SAVIO",
+   "ente": "TECHNE SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 149550.0,
+   "aggiudicato": 116532.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "7105940730",
+   "data": "2017-05-12",
+   "oggetto": "REALIZZAZIONE DI STAGE FORMATIVI RIVOLTI A MINORI/NEOMAGGIORENNI INSERITI NEL PROGETTO SPRAR (SISTEMA DI PROTEZIONE RICHIEDENTI ASILO E RIFUGIATI)",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "TECHNE SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 54600.0,
+   "aggiudicato": 48594.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  }
+ ]
+}

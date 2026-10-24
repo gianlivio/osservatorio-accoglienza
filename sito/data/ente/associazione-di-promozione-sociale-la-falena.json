@@ -1,0 +1,96 @@
+{
+ "nome": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LA FALENA",
+ "cf": "90016820459",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "78892818A1",
+   "data": "2019-03-06",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LA FALENA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 199916.0,
+   "aggiudicato": 199916.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "715896981A",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LA FALENA",
+   "procedura": "SISTEMA DINAMICO DI ACQUISIZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 262320.03,
+   "aggiudicato": 262320.03,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "7029249FC3",
+   "data": "2017-03-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 APRILE - 31 AGOSTO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LA FALENA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 262320.03,
+   "aggiudicato": 209170.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "68432550AD",
+   "data": "2016-10-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 1 NOVEMBRE 2016 -31 MARZO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "ASSOCIAZIONE DI PROMOZIONE SOCIALE LA FALENA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 258891.01,
+   "aggiudicato": 258891.01,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

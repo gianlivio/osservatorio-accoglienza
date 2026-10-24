@@ -1,0 +1,59 @@
+{
+ "nome": "UTOPIA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01297110833",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0C3A87639",
+   "data": "2024-03-11",
+   "oggetto": "PROG - 1833 - PR - 2 ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO ALL'AUTONOMIA DEI MSNA - DECRETO DEL MINISTERO DELL'INTERNO N. 47609 DEL 7 /11/ 2023",
+   "amministrazione": "COMUNE DI BARCELLONA POZZO DI GOTTO",
+   "ente": "UTOPIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47907.1,
+   "aggiudicato": 47907.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  },
+  {
+   "cig": "9698959A28",
+   "data": "2023-03-10",
+   "oggetto": "PROSECUZIONE PROGETTO SAI 721-PR3 TRIENNIO 2023-25",
+   "amministrazione": "COMUNE DI PACE DEL MELA",
+   "ente": "UTOPIA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 720305.31,
+   "aggiudicato": 720305.31,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

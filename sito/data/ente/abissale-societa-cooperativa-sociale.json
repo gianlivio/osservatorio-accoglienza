@@ -1,0 +1,38 @@
+{
+ "nome": "ABISSALE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04707100618",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0ED2D59D2",
+   "data": "2024-03-21",
+   "oggetto": "ACCOGLIENZA MINORI FUORI FAMIGLIA",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "ABISSALE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72167.8,
+   "aggiudicato": 72167.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

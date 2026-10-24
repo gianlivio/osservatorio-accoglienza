@@ -1,0 +1,75 @@
+{
+ "nome": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01617330806",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B74B7E6DBA",
+   "data": "2025-06-18",
+   "oggetto": "P. A. PER CONTO DEL COMUNE DI FERRUZZANO APPALTO AFFIDAMENTO DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA ED INTEGRAZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE CAT ORDINARI PRG-22",
+   "amministrazione": "COMUNE DI FERRUZZANO",
+   "ente": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 525825.0,
+   "aggiudicato": 525772.42,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "B2F6E64961",
+   "data": "2024-09-10",
+   "oggetto": "<P><STRONG>GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI RICHIEDENTI ASILO E IN PROTEZIONE INTERNAZIONALE - PROGETTO TERRITORIALE ADERENTE AL SISTEMA DI PRO",
+   "amministrazione": "COMUNE DI SANT ILARIO DEL JONIO",
+   "ente": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 820000.0,
+   "aggiudicato": 820000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "B010E5141E",
+   "data": "2024-01-24",
+   "oggetto": "PER LA INDIVIDUAZIONE DI UN SOGGETTO PER L'AFFIDAMENTO DELLA GESTIONE ED ORGANIZZAZIONE DEI SERVIZI DI ACCOGLIENZA PER TITOLARI DI PROTEZIONE INTERNAZIONALE NELL'AMBITO DEL SISTEMA",
+   "amministrazione": "COMUNE DI CAMINI",
+   "ente": "EUROCOOP SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2848595.44,
+   "aggiudicato": 2848595.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

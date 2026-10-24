@@ -1,0 +1,91 @@
+{
+ "nome": "COMUNITA' PAPA GIOVANNI XXIII - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "01970680409",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MASSA-CARRARA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7029867DC1",
+   "data": "2017-03-28",
+   "oggetto": "ACCOGLIENZA MIGRANTI DA MARZO A DICEMBRE 2017 CASA BETANIA A SEGUITO GARA",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COMUNITA' PAPA GIOVANNI XXIII - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 988380.0,
+   "aggiudicato": 988380.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "7024105ACE",
+   "data": "2017-03-22",
+   "oggetto": "ACC.MIGRANTI MARZO DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COMUNITA' PAPA GIOVANNI XXIII - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 592155.9,
+   "aggiudicato": 592155.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  },
+  {
+   "cig": "6695062BEE",
+   "data": "2016-05-20",
+   "oggetto": "ACCOGLIENZA MIGRANTI DA AGOSTO 2016",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COMUNITA' PAPA GIOVANNI XXIII - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2283837.12,
+   "aggiudicato": 206445.898,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "666073111B",
+   "data": "2016-02-25",
+   "oggetto": "PROROGA TECNICA CONTRATTO ACCOGLIENZA MIGRANTI ATI PAPA GIOVANNI XXIII E IL PUNGIGLIONE",
+   "amministrazione": "PREFETTURA DI MASSA CARRARA UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "COMUNITA' PAPA GIOVANNI XXIII - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 90930.3,
+   "aggiudicato": 90930.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MASSA-CARRARA"
+  }
+ ]
+}

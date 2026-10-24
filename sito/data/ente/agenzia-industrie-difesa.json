@@ -1,0 +1,38 @@
+{
+ "nome": "AGENZIA INDUSTRIE DIFESA",
+ "cf": "07281771001",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2298AD439",
+   "data": "2024-06-20",
+   "oggetto": "FORNITURA DI N. 1650 KIT DI AUTOMEDICAZIONE INDIVIDUALE PER ESIGENZA DEL PERSONALE IMPIEGATO IN MATERIE DI EMERGENZE E PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "COMANDO GENERALE ARMA CARABINIERI CENTRO UNICO CONTRATTUALE",
+   "ente": "AGENZIA INDUSTRIE DIFESA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 135382.5,
+   "aggiudicato": 135382.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

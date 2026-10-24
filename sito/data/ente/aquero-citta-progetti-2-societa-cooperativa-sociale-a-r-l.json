@@ -1,0 +1,38 @@
+{
+ "nome": "AQUERO' CITTA' PROGETTI 2 SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "02187460445",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASCOLI PICENO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6768370B9B",
+   "data": "2016-07-29",
+   "oggetto": "SERVIZIO DI PRIMA ACCOGLIENZA DI RICHIDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "AQUERO' CITTA' PROGETTI 2 SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1288000.0,
+   "aggiudicato": 35475.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  }
+ ]
+}

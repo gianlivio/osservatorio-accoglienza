@@ -1,0 +1,38 @@
+{
+ "nome": "CALARCO ANTONIO",
+ "cf": "01026420800",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B173ECE40C",
+   "data": "2024-04-30",
+   "oggetto": "INCARICO DI VERIFICA AMMINISTRATIVO-CONTABILE DELLA DOCUMENTAZIONE RELATIVA ALLE VOCI DI RENDICONTAZIONE PER GLI ANNI 2023/2024/2025, PER DEL PROGETTO SAI DS/DM (EX SIPROIMI-SPRAR ",
+   "amministrazione": "COMUNE DI SAN ROBERTO",
+   "ente": "CALARCO ANTONIO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9836.06,
+   "aggiudicato": 9836.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

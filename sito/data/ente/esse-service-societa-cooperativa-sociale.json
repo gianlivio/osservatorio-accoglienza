@@ -1,0 +1,70 @@
+{
+ "nome": "ESSE SERVICE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "05224560754",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "UDINE",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B855F5ADCF",
+   "data": "2025-09-23",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI DUE MINORI STRANIERI NON ACCOMPAGNATI A ESSE SERVICE SOC. COOP. SOCIALE . PERIODO 23.09.2025 - 30.06.2026",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ESSE SERVICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55680.0,
+   "aggiudicato": 55680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B7A4909D18",
+   "data": "2025-07-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI UN MINORE STRANIERO NON ACCOMPAGNATO. PERIODO 16.07.2025 - 17.01.2026",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ESSE SERVICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22320.0,
+   "aggiudicato": 22320.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  },
+  {
+   "cig": "B7176CBDA1",
+   "data": "2025-06-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI 4 MINORI STRANIERI NON ACCOMPAGNATI.",
+   "amministrazione": "COMUNE DI UDINE",
+   "ente": "ESSE SERVICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17280.0,
+   "aggiudicato": 17280.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "UDINE"
+  }
+ ]
+}

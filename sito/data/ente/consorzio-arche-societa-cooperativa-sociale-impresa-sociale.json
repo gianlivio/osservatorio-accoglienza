@@ -1,0 +1,59 @@
+{
+ "nome": "CONSORZIO ARCHE' SOCIETA COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+ "cf": "00989890520",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6961844768",
+   "data": "2016-12-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "SOCIETA' DELLA SALUTE SENESE",
+   "ente": "CONSORZIO ARCHE' SOCIETA COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 58644.0,
+   "aggiudicato": 58644.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "6326350D29",
+   "data": "2015-05-11",
+   "oggetto": "ASSISTENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "CONSORZIO ARCHE' SOCIETA COOPERATIVA SOCIALE - IMPRESA SOCIALE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 77800.0,
+   "aggiudicato": 77800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  }
+ ]
+}

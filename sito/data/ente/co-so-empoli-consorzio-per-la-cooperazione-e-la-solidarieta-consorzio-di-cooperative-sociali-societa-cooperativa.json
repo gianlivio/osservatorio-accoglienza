@@ -1,0 +1,100 @@
+{
+ "nome": "CO&SO EMPOLI - CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA' - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+ "cf": "05229780480",
+ "affidamenti": 4,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8577677AFA",
+   "data": "2021-02-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA SIPROIMI, PROG-1333-PR-1 CATEGORIA ORDINARI, E ALTRI SERVIZI DI INCLUSIONE PER CITTADINI STRANIERI CPV 85311000-2",
+   "amministrazione": "COMUNE DI GALLICANO",
+   "ente": "CO&SO EMPOLI - CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA' - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 553446.18,
+   "aggiudicato": 553446.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "8227238393",
+   "data": "2020-03-04",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE, EX D. LGS. 117 DEL 2017, PER LA CO-PROGETTAZIONE E LA GESTIONE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA",
+   "amministrazione": "UNIONE DEI COMUNI CIRCONDARIO DELL'EMPOLESE VALDELSA",
+   "ente": "CO&SO EMPOLI - CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA' - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO RISERVATO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 3424612.5,
+   "aggiudicato": 3424612.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "720654443D",
+   "data": "2017-09-15",
+   "oggetto": "GARA D'APPALTO PER L'INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DEI SERVIZI DI ACCOGLIENZA PER I RICHIEDENTI E I BENEFICIARI DI PROTEZI",
+   "amministrazione": "COMUNE DI GALLICANO",
+   "ente": "CO&SO EMPOLI - CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA' - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 625975.0,
+   "aggiudicato": 536120.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "724859844C",
+   "data": "2017-02-20",
+   "oggetto": "AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE PER LA COPROGETTAZIONE E LA GESTIONE DI AZIONI DI SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'INTEGRAZIONE A FAVORE ",
+   "amministrazione": "UNIONE DEI COMUNI CIRCONDARIO DELL'EMPOLESE VALDELSA",
+   "ente": "CO&SO EMPOLI - CONSORZIO PER LA COOPERAZIONE E LA SOLIDARIETA' - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3202975.0,
+   "aggiudicato": 3202875.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

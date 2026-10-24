@@ -1,0 +1,38 @@
+{
+ "nome": "MACRON STORE RAVENNA SRL",
+ "cf": "02495660397",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9655FD60F",
+   "data": "2025-12-04",
+   "oggetto": "PROGETTO SAI ORDINARI - FORNITURA KIT AD USO SPORTIVO",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "MACRON STORE RAVENNA SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5971.58,
+   "aggiudicato": 5971.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

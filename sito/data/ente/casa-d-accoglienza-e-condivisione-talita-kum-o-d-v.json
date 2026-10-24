@@ -1,0 +1,38 @@
+{
+ "nome": "CASA D'ACCOGLIENZA E CONDIVISIONE TALITA KUM O.D.V.",
+ "cf": "01961390349",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "756287490D",
+   "data": "2018-07-06",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA E ASSISTENZA CITTADINI STRANIERI RICHIEDENTI PROT. INTERN. PERIODO 01.07.2018 - 31.12.2018 TALITA KUM",
+   "amministrazione": "PREFETTURA DI PARMA",
+   "ente": "CASA D'ACCOGLIENZA E CONDIVISIONE TALITA KUM O.D.V.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 947025.0,
+   "aggiudicato": 336479.63,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PARMA"
+  }
+ ]
+}

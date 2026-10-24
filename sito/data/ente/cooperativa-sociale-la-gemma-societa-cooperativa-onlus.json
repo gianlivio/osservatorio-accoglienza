@@ -1,0 +1,90 @@
+{
+ "nome": "Cooperativa Sociale LA GEMMA - Società Cooperativa Onlus",
+ "cf": "01429080425",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 4,
+   "diretti": 3,
+   "quota_diretti": 75.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FERMO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "76386372AA",
+   "data": "2018-10-01",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI ANNO 2018 - LABIRINTO SOC. COOP.",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "Cooperativa Sociale LA GEMMA - Società Cooperativa Onlus",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1522508.0,
+   "aggiudicato": 1522508.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "750545730D",
+   "data": "2018-06-16",
+   "oggetto": "SERVIZI DI ACCOGLIENZA , INTEGRAZIONE E TUTELA RIVOLTI A SOGGETTI RICHIEDENTI ASILO E RIFUGIATI - CATEGORIA ORDINARI - LOTTO 1",
+   "amministrazione": "COMUNE DI ANCONA",
+   "ente": "Cooperativa Sociale LA GEMMA - Società Cooperativa Onlus",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1724308.32,
+   "aggiudicato": 1604504.16,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "7511514970",
+   "data": "2018-06-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "Cooperativa Sociale LA GEMMA - Società Cooperativa Onlus",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 756490.0,
+   "aggiudicato": 756490.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "7511452647",
+   "data": "2018-06-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "Cooperativa Sociale LA GEMMA - Società Cooperativa Onlus",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1011150.0,
+   "aggiudicato": 1011150.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FERMO"
+  }
+ ]
+}

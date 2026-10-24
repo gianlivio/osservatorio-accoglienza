@@ -1,0 +1,54 @@
+{
+ "nome": "TUENDELEE COOPERATIVA SOCIALE",
+ "cf": "05236770284",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B523DCA48E",
+   "data": "2025-01-10",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "TUENDELEE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1528244.3,
+   "aggiudicato": 1528244.3,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "B522D5825B",
+   "data": "2025-01-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "TUENDELEE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8066779.75,
+   "aggiudicato": 8066779.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  }
+ ]
+}

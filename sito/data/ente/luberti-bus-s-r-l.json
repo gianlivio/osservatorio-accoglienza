@@ -1,0 +1,106 @@
+{
+ "nome": "LUBERTI BUS S.R.L.",
+ "cf": "01800700443",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2AEC4A455",
+   "data": "2024-08-02",
+   "oggetto": "SERVIZIO DI TRASFERIMENTO DEI CITTADINI STRANIERI - OCEAN VIKING 03/08/24",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "LUBERTI BUS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16500.0,
+   "aggiudicato": 16500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B1EEDE2CCC",
+   "data": "2024-06-03",
+   "oggetto": "SERVIZIO DI TRAFERIMENTO MIGRANTI DAL PORTO DI ANCONA A VARIE DESTINAZIONI",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "LUBERTI BUS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1200.0,
+   "aggiudicato": 1200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "B1A319725D",
+   "data": "2024-05-15",
+   "oggetto": "LUBERTI BUS SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRAC",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "LUBERTI BUS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32928.06,
+   "aggiudicato": 32928.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1A345018C",
+   "data": "2024-05-14",
+   "oggetto": "LUBERTI BUS SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRAC",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "LUBERTI BUS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13722.94,
+   "aggiudicato": 13722.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B0EB432195",
+   "data": "2024-03-21",
+   "oggetto": "SERVIZIO DI NOLEGGIO BUS CON AUTISTA - OCEAN VIKING",
+   "amministrazione": "PREFETTURA DI ANCONA",
+   "ente": "LUBERTI BUS S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15823.0,
+   "aggiudicato": 15823.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  }
+ ]
+}

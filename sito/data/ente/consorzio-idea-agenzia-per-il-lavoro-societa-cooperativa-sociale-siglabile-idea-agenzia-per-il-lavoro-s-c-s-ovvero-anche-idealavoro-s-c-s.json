@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO IDEA AGENZIA PER IL LAVORO - SOCIETA' COOPERATIVA SOCIALE SIGLABILE IDEA AGENZIA PER IL LAVORO S.C.S. OVVERO ANCHE IDEALAVORO S.C.S.",
+ "cf": "07943440011",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MESSINA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B94783924F",
+   "data": "2025-11-28",
+   "oggetto": "P.A. PER IL COMUNE DI BAGALADI _ APPALTO PER L'AFFIDAMENTO IN PROSECUZIONE DEL «SERVIZIO DI ACCOGLIENZA ED INTEGRAZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E PER MINORI NON A",
+   "amministrazione": "COMUNE DI BAGALADI",
+   "ente": "CONSORZIO IDEA AGENZIA PER IL LAVORO - SOCIETA' COOPERATIVA SOCIALE SIGLABILE IDEA AGENZIA PER IL LAVORO S.C.S. OVVERO ANCHE IDEALAVORO S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 376772.88,
+   "aggiudicato": 358687.78,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MESSINA"
+  }
+ ]
+}

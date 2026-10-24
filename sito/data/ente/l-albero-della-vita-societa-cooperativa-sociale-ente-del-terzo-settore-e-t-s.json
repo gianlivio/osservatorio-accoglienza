@@ -1,0 +1,38 @@
+{
+ "nome": "L'ALBERO DELLA VITA SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE (E.T.S.)",
+ "cf": "92010870894",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "846128379D",
+   "data": "2020-12-29",
+   "oggetto": "PROCEDURA APERTA PER LA PROSECUZIONE PER IL BIENNIO 2021/2022 DEL PROGETTO SPRAR/SIPROIMI MSNA (PROG-753-PR-2) - D.M. 18/11/2019 - INDIVIDUAZIONE DEL SOGGETTO ATTUATORE PER L'AFFID",
+   "amministrazione": "COMUNE DI PACHINO",
+   "ente": "L'ALBERO DELLA VITA SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE (E.T.S.)",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1552374.2,
+   "aggiudicato": 1496574.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIRACUSA"
+  }
+ ]
+}

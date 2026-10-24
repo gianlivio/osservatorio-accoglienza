@@ -1,0 +1,38 @@
+{
+ "nome": "MADIA S.P.A.",
+ "cf": "03498110281",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BELLUNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B599AA0EFE",
+   "data": "2025-02-12",
+   "oggetto": "PRODOTTI ALIMENTARI PER CENTRO ACCOGLIENZA PROFUGHI UCRAINA",
+   "amministrazione": "COMUNE DI BELLUNO",
+   "ente": "MADIA S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9020.0,
+   "aggiudicato": 9020.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BELLUNO"
+  }
+ ]
+}

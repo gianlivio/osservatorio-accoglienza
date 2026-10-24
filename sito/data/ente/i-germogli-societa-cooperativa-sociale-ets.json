@@ -1,0 +1,54 @@
+{
+ "nome": "I GERMOGLI SOCIETA' COOPERATIVA SOCIALE ETS",
+ "cf": "02912460991",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B63FD35D68",
+   "data": "2025-04-01",
+   "oggetto": "PROCEDURA APERTA TELEMATICA SOTTO SOGLIA EUROPEA, AI SENSI DELL'ART. 71 DEL D.LGS. 36/2023, PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA RIFUGIATI - PROG 1148 PR - 2 ORD DEL COMUN",
+   "amministrazione": "COMUNE DI SANTA MARGHERITA LIGURE",
+   "ente": "I GERMOGLI SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 574313.59,
+   "aggiudicato": 382875.69,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B61BFF2B5A",
+   "data": "2025-03-20",
+   "oggetto": "TRATTATIVA DIRETTA TRAMITE MEPA CON COOPERATIVA SOCIALE I GERMOGLI PER SERVIZIO DI MONITORAGGIO E ASSISTENZA CON OPERATORE PER IL PROGETTO 1148 – PR 2 ORD SAI (SISTEMA DI ACCOGLIEN",
+   "amministrazione": "COMUNE DI SANTA MARGHERITA LIGURE",
+   "ente": "I GERMOGLI SOCIETA' COOPERATIVA SOCIALE ETS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22000.0,
+   "aggiudicato": 22000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

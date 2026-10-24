@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA SOCIALE FIORDALISO SOC. COOP. - ONLUS",
+ "cf": "01980590044",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CUNEO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B36CFD1D77",
+   "data": "2024-10-16",
+   "oggetto": "COSTITUISCE OGGETTO DELLA PRESENTE PROCEDURA DI GARA, L’AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI, PRESENTI SUL TERRITORIO DEL PROGETTO SAI CUNEO, ATTRAVERSO LA",
+   "amministrazione": "COMUNE DI CUNEO",
+   "ente": "COOPERATIVA SOCIALE FIORDALISO SOC. COOP. - ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 18202691.62,
+   "aggiudicato": 8752282.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CUNEO"
+  },
+  {
+   "cig": "6387812D35",
+   "data": "2015-09-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ADESIONE ACCORDO QUADRO GARA DEL 27 APRILE 2015",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "COOPERATIVA SOCIALE FIORDALISO SOC. COOP. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 264442.5,
+   "aggiudicato": 264442.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "nome": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+ "cf": "01331770436",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9603933839",
+   "data": "2023-01-20",
+   "oggetto": "INTERVENTI DI TUTELA E PROTEZIONE DI MINORI STRANIERI NON ACCOMPAGNATI O ALLONTANATI DALLA FAMIGLIA E DI DONNE ANCHE CON PROLE CON ACCOGLIENZA PRESSO STRUTTURE RESIDENZIALI AUTORIZ",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 76316.56,
+   "aggiudicato": 76316.56,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "91177193BE",
+   "data": "2022-03-03",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 47400.4,
+   "aggiudicato": 47400.4,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "908837082D",
+   "data": "2022-02-09",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "ASSOCIAZIONE CENTRO SERVIZI IMMIGRATI MARCHE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 169493.28,
+   "aggiudicato": 169493.28,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

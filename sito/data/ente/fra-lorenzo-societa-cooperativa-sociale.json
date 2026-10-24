@@ -1,0 +1,148 @@
+{
+ "nome": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04042590929",
+ "affidamenti": 7,
+ "diretti": 6,
+ "quota_diretti": 85.7,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SUD SARDEGNA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "ORISTANO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B894B74A2F",
+   "data": "2025-10-24",
+   "oggetto": "- ACCOGLIENZA DI MSNA IN STRUTTURA DI ACCOGLIENZA RESIDENZIALE FINO A DICEMBRE 2025 - FRA' LORENZO",
+   "amministrazione": "COMUNE DI CABRAS",
+   "ente": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48948.22,
+   "aggiudicato": 48948.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B6D7BACC44",
+   "data": "2025-10-24",
+   "oggetto": "ACCOGLIENZA DI UN MINORE STRANIERO NON ACCOMPAGNATO PRESSO COMUNITA' DI TIPO RESIDENZIALE DAL 18.04.2025 AL 31.08.2025 - ALISEI",
+   "amministrazione": "COMUNE DI CABRAS",
+   "ente": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12952.64,
+   "aggiudicato": 12952.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B5640EA0D0",
+   "data": "2025-10-24",
+   "oggetto": "PERMANENZA DI UN MSNA IN COMUNITÀ INTEGRATA 06ZBMD",
+   "amministrazione": "COMUNE DI CABRAS",
+   "ente": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6190.48,
+   "aggiudicato": 6190.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ORISTANO"
+  },
+  {
+   "cig": "B8AFC16F45",
+   "data": "2025-10-20",
+   "oggetto": "INSERIMENTO MSNA SECONDO, TERZO E QUARTO TRIMESTRE 2025 IN STRUTTURA DECRETO DEL TRIBUNALE PER I MINORENNI DI CAGLIARI",
+   "amministrazione": "COMUNE DI VILLACIDRO",
+   "ente": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 77239.09,
+   "aggiudicato": 77239.09,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "B860C5E4BC",
+   "data": "2025-09-26",
+   "oggetto": "INSERIMENTO MSNA PRIMO TRIMESTRE 2025 IN STRUTTURA DECRETO DEL TRIBUNALE PER I MINORENNI DI CAGLIARI",
+   "amministrazione": "COMUNE DI VILLACIDRO",
+   "ente": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50077.05,
+   "aggiudicato": 50077.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "B430640139",
+   "data": "2024-11-20",
+   "oggetto": "INSERIMENTO MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA SOCIO-EDUCATIVA",
+   "amministrazione": "COMUNE DI VILLACIDRO",
+   "ente": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 59904.76,
+   "aggiudicato": 59904.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "9697756969",
+   "data": "2022-12-23",
+   "oggetto": "GESTIONE ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI AFFIDATI DALLA QUESTURA",
+   "amministrazione": "COMUNE DI VILLASOR PROV.DI CAGLIARI",
+   "ente": "FRA' LORENZO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 547500.0,
+   "aggiudicato": 484000.0,
+   "durata_gg": 59.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SUD SARDEGNA"
+  }
+ ]
+}

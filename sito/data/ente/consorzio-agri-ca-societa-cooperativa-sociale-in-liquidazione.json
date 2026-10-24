@@ -1,0 +1,75 @@
+{
+ "nome": "CONSORZIO  AGRI.CA. SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+ "cf": "01809160847",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6912283461",
+   "data": "2017-01-04",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO ATTUATORE PER LA PROSECUZIONE, AI SENSI DELL'ART. 14 DEL D.M. 10/08/2016, DEGLI INTERVENTI DI ACCOGLIENZA INTEGRATA ATTIVI E FINANZIATI CON IL PROGETT",
+   "amministrazione": "COMUNE DI RAFFADALI",
+   "ente": "CONSORZIO  AGRI.CA. SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1341465.0,
+   "aggiudicato": 1341465.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6925246DC6",
+   "data": "2016-11-28",
+   "oggetto": "SPRAR MSNA POSTI AGGIUNTIVI NEOMAGGIORENNI 2016",
+   "amministrazione": "COMUNE DI RAFFADALI",
+   "ente": "CONSORZIO  AGRI.CA. SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41300.0,
+   "aggiudicato": 41300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6876389FB3",
+   "data": "2016-11-21",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR MSNA ANNI 2017 - 2018 - 2019",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "CONSORZIO  AGRI.CA. SOCIETA' COOPERATIVA SOCIALE IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 847395.0,
+   "aggiudicato": 847395.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

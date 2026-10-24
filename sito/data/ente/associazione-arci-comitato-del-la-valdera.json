@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE ARCI COMITATO DEL LA VALDERA",
+ "cf": "90009850505",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B51D49EA29",
+   "data": "2025-01-09",
+   "oggetto": "RINNOVO PROGETTO SPORTELLO MIGRANTI – TRIENNIO 2025-2027",
+   "amministrazione": "UNIONE VALDERA",
+   "ente": "ASSOCIAZIONE ARCI COMITATO DEL LA VALDERA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 62993.58,
+   "aggiudicato": 62993.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  }
+ ]
+}

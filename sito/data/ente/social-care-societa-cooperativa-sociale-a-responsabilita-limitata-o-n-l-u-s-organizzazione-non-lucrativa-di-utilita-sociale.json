@@ -1,0 +1,33 @@
+{
+ "nome": "SOCIAL CARE - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA O.N.L.U.S ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE",
+ "cf": "01627000621",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9507295407",
+   "data": "2022-12-19",
+   "oggetto": "GESTIONE DEI SERVIZI NELL'AMBITO DELLA PROSECUZIONE DEL PROGETTO 'CITTÀACCOGLIENZA' - FONDO NAZIONALE PER LE POLITICHE ED I SERVIZI DELL'ASILO ED IL FUNZIONAMENTO DEL SISTEMA DI PR",
+   "amministrazione": "COMUNE DI CERIGNOLA",
+   "ente": "SOCIAL CARE - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA O.N.L.U.S ORGANIZZAZIONE NON LUCRATIVA DI UTILITA' SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 911741.6,
+   "aggiudicato": 858613.8,
+   "durata_gg": 1064.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "nome": "ENTE GIURIDICO LAURA VICUNA' DELLE FIGLIE DI MARIA AUSILIATRICE",
+ "cf": "91003380861",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B718C92646",
+   "data": "2025-06-03",
+   "oggetto": "AMPLIAMENTO NUMERO 3 MSNA D.M. 12585/2025",
+   "amministrazione": "COMUNE DI CAMMARATA",
+   "ente": "ENTE GIURIDICO LAURA VICUNA' DELLE FIGLIE DI MARIA AUSILIATRICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 72395.9,
+   "aggiudicato": 72395.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "B34CC850F4",
+   "data": "2024-10-04",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA IN FAVORE DI MSNA",
+   "amministrazione": "PREFETTURA DI AGRIGENTO",
+   "ente": "ENTE GIURIDICO LAURA VICUNA' DELLE FIGLIE DI MARIA AUSILIATRICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139999.0,
+   "aggiudicato": 139999.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "B30A9B80F1",
+   "data": "2024-09-16",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI85311",
+   "amministrazione": "PREFETTURA DI AGRIGENTO",
+   "ente": "ENTE GIURIDICO LAURA VICUNA' DELLE FIGLIE DI MARIA AUSILIATRICE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 50.0,
+   "aggiudicato": 50.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "8495046DB7",
+   "data": "2020-11-06",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRAZIONE E TUTELA PROGETTO SPRAR SIPROIMI MSNA.BIENNIO 2021/2022 DM 10/08/2020.",
+   "amministrazione": "COMUNE DI CAMMARATA",
+   "ente": "ENTE GIURIDICO LAURA VICUNA' DELLE FIGLIE DI MARIA AUSILIATRICE",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 704315.06,
+   "aggiudicato": 704315.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

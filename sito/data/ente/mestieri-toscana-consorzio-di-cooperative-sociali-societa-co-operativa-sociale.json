@@ -1,0 +1,38 @@
+{
+ "nome": "MESTIERI TOSCANA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' CO OPERATIVA SOCIALE",
+ "cf": "06564090485",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7888286389",
+   "data": "2019-05-02",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "MESTIERI TOSCANA - CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' CO OPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 253333.33,
+   "aggiudicato": 111444.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

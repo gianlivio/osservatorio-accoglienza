@@ -1,0 +1,217 @@
+{
+ "nome": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "05398421007",
+ "affidamenti": 11,
+ "diretti": 8,
+ "quota_diretti": 72.7,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 8,
+   "diretti": 8,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 9
+  },
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "86891132E2",
+   "data": "2021-04-29",
+   "oggetto": "N. 1 COMUNITÀ ALLOGGIO PER DONNE' CON UNA CAPACITÀ RICETTIVA FINO A N. 20 POSTI CIASCUNO; IMPORTO A BASE DI GARA QUOTA PRO DIE PRO CAPITE ? 46,30 PER UN IMPORTO TOTALE PARI ? 1.014",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1014896.0,
+   "aggiudicato": 1014896.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "85798360A7",
+   "data": "2020-12-29",
+   "oggetto": "RIPETIZIONE SERVIZI PROSECUZIONE PROGETTO SPRAR/SIPROIMI ORD 993",
+   "amministrazione": "COMUNE DI CAPENA",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 629468.0,
+   "aggiudicato": 629468.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "7335065F1C",
+   "data": "2017-12-29",
+   "oggetto": "OSPITA 2017 - CONVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA MIGRANTI 2017-18",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4850842.7,
+   "aggiudicato": 4850842.7,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7335064E49",
+   "data": "2017-12-29",
+   "oggetto": "ALICENOVA 2018 - CONVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA MIGRANTI 2017-18",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1545775.0,
+   "aggiudicato": 1545775.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7335060AFD",
+   "data": "2017-12-29",
+   "oggetto": "ARCI 2018 - CONVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA MIGRANTI 2017-18",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 638750.0,
+   "aggiudicato": 638750.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7335059A2A",
+   "data": "2017-12-29",
+   "oggetto": "DI MARI 2018 - CONVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA MIGRANTI 2017-18",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1239175.0,
+   "aggiudicato": 1239175.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7041800530",
+   "data": "2017-04-10",
+   "oggetto": "CONVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO DI GARA IMMIGRATI 2017 EURISA SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 371000.0,
+   "aggiudicato": 371000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "70416254C6",
+   "data": "2017-04-10",
+   "oggetto": "CONNVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA IMMIGRATI 2017 CONSORZIO GRUPPO INTERCASA GEA ONLUS",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 826402.5,
+   "aggiudicato": 826402.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7041617E29",
+   "data": "2017-04-10",
+   "oggetto": "CONNVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA IMMIGRATI 2017 VIRTUS ITALIA SOCIETÀ COOPERATIVA",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 552525.0,
+   "aggiudicato": 552525.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7041614BB0",
+   "data": "2017-04-10",
+   "oggetto": "CONNVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA IMMIGRATI 2017 OSPITA SRL",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3083900.0,
+   "aggiudicato": 3083900.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "6920305059",
+   "data": "2016-12-23",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI'SUL TERRITORIO DELLA PROVINCIA DI VITERBO - 01/03/2017- 31/12/2",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "I.SO.LA. SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 53770500.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  }
+ ]
+}

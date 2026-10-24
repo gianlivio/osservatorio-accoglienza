@@ -1,0 +1,54 @@
+{
+ "nome": "SAN PIETRO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02798830846",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7419948EC7",
+   "data": "2018-03-15",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA CPA 'SAN PIETRO'. EROGAZIONE CONTRIBUTO MINISTERIALE 2^ TRIMESTRE 2017",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SAN PIETRO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78000.0,
+   "aggiudicato": 78000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "7357191214",
+   "data": "2018-01-18",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 3^ TRIMESTRE 2017 COOP. SOC. SAN PIETRO",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SAN PIETRO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 154457.14,
+   "aggiudicato": 154457.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

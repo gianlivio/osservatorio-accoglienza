@@ -1,0 +1,54 @@
+{
+ "nome": "CARITAS INTEMELIA",
+ "cf": "90033450082",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1ABAE2E92",
+   "data": "2024-05-15",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE RELATIVAMENTE AL PERIODO: 1° LUGLIO 2023 – 31 MARZO 2024.",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CARITAS INTEMELIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 97530.0,
+   "aggiudicato": 97530.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "A05E2858F1",
+   "data": "2024-04-02",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI IMPERIA",
+   "ente": "CARITAS INTEMELIA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 982999.0,
+   "aggiudicato": 982999.0,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

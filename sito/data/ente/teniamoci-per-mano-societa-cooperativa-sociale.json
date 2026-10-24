@@ -1,0 +1,278 @@
+{
+ "nome": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00948750948",
+ "affidamenti": 14,
+ "diretti": 10,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 7,
+   "diretti": 7,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "ISERNIA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "FROSINONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D00BFC18",
+   "data": "2025-12-30",
+   "oggetto": "RETTE INSERIMENTO DI 3 MINORI STRANIERI NON ACCOMPAGNATI E NEOMAGGIORENNI NELLA STRUTTURA FATE I BUONI DI TENIAMOCI PER MANO SOCIETÀ COOPERATIVA SOCIALE DI ISERNIA",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25047.22,
+   "aggiudicato": 25047.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B9CFFFA987",
+   "data": "2025-12-30",
+   "oggetto": "RETTE INSERIMENTO DI 3 MINORI STRANIERI NON ACCOMPAGNATI E NEOMAGGIORENNI NELLA STRUTTURA FATE I BUONI DI TENIAMOCI PER MANO SOCIETÀ COOPERATIVA SOCIALE DI ISERNIA",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25047.22,
+   "aggiudicato": 25047.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B9CFF8CEBF",
+   "data": "2025-12-30",
+   "oggetto": "RETTE INSERIMENTO DI 3 MINORI STRANIERI NON ACCOMPAGNATI E NEOMAGGIORENNI NELLA STRUTTURA FATE I BUONI DI TENIAMOCI PER MANO SOCIETÀ COOPERATIVA SOCIALE DI ISERNIA",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25047.22,
+   "aggiudicato": 25047.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B9CFEC6B5B",
+   "data": "2025-12-30",
+   "oggetto": "RETTE INSERIMENTO DI 3 MINORI STRANIERI NON ACCOMPAGNATI E NEOMAGGIORENNI NELLA STRUTTURA FATE I BUONI DI TENIAMOCI PER MANO SOCIETÀ COOPERATIVA SOCIALE DI ISERNIA",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25047.22,
+   "aggiudicato": 25047.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B9CFD0E045",
+   "data": "2025-12-30",
+   "oggetto": "RETTE INSERIMENTO DI 4 MINORI STRANIERI NON ACCOMPAGNATI E NEOMAGGIORENNI NELLA STRUTTURA FATE I BUONI DI TENIAMOCI PER MANO SOCIETÀ COOPERATIVA SOCIALE DI ISERNIA",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33396.3,
+   "aggiudicato": 33396.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B657100D9A",
+   "data": "2025-04-04",
+   "oggetto": "ACCOGLIENZA MSNA GENNAIO-MARZO 2025. TENIAMOCI PER MANO COOP. SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7650.0,
+   "aggiudicato": 7650.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B546AE0D57",
+   "data": "2025-01-22",
+   "oggetto": "ACCOGLIENZA MINORI STRANIERI PERIODO DICEMBRE 2024. TENIAMOCI PER MANO COOP. SOCIALE",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7820.0,
+   "aggiudicato": 7820.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B41AB1D9D8",
+   "data": "2024-11-05",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO LUGLIO-AGOSTO-SETTEMBRE 2024. COOP. SOC.TENIAMOCI PER MANO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7820.0,
+   "aggiudicato": 7820.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B250308CAE",
+   "data": "2024-07-03",
+   "oggetto": "ACCOGLIENZA MSNA MESI APRILE MAGGIO E GIUGNO 2024. COOP. SOC. TENIAMOCI PER MANO",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 7735.0,
+   "aggiudicato": 7735.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B1975EF67F",
+   "data": "2024-05-10",
+   "oggetto": "COLLOCAMNETO RUGENTE ART. 403 CC N. 4 MSNA",
+   "amministrazione": "COMUNE DI CASSINO",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52000.0,
+   "aggiudicato": 52000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FROSINONE"
+  },
+  {
+   "cig": "986651059F",
+   "data": "2023-06-28",
+   "oggetto": "SERVIZI PER L'ATTUAZIONE E GESTIONE DI PROGETTO FACENTE PARTE DEL SISTEMA DI PROTEZIONE PER TITOLARI DI PROTEZIONE INTERNAZIONALE E PER MINORI STRANIERI NON ACCOMPAGNATI (SIPROIMI)",
+   "amministrazione": "ENTE MORALE=COMUNE DI RIPABOTTONI",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 865012.5,
+   "aggiudicato": 865012.5,
+   "durata_gg": 1003.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "8946483752",
+   "data": "2021-10-19",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI CASTELLINO DEL BIFERNO",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 240900.0,
+   "aggiudicato": 346594.9,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "7609242125",
+   "data": "2018-08-30",
+   "oggetto": "COPROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA INSERITO NEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI (SPRAR)",
+   "amministrazione": "COMUNE DI PIETRABBONDANTE",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 700000.0,
+   "aggiudicato": 707700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  },
+  {
+   "cig": "73599452C0",
+   "data": "2018-03-02",
+   "oggetto": "ADESIONE PROGETTO SPRAR",
+   "amministrazione": "COMUNE DI BELMONTE DEL SANNIO",
+   "ente": "TENIAMOCI PER MANO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 492750.0,
+   "aggiudicato": 492750.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ISERNIA"
+  }
+ ]
+}

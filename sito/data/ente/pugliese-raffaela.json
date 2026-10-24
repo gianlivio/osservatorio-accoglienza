@@ -1,0 +1,38 @@
+{
+ "nome": "PUGLIESE RAFFAELA",
+ "cf": "09659271218",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B17EDD324E",
+   "data": "2024-05-03",
+   "oggetto": "PROGETTO SAI SERVIZIO REVISIONE",
+   "amministrazione": "COMUNE DI GIUGLIANO IN CAMPANIA",
+   "ente": "PUGLIESE RAFFAELA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10920.0,
+   "aggiudicato": 10920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "nome": "CONSORZIO SOL. CALATINO  SOCIETA' COOPERATIVA SOCIALE SIGLABILE IN SOL.CALATINO S.C.S.",
+ "cf": "04052180876",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7022753F18",
+   "data": "2016-12-31",
+   "oggetto": "GESTIONE DELLO SPRAR DI QUESTO COMUNE PER N. 40 POSTI ORDINARI E 20 AGGIUNTIVI PER MESI TRE DAL 01/04/2017 AL 30/06/2017",
+   "amministrazione": "COMUNE DI BRONTE",
+   "ente": "CONSORZIO SOL. CALATINO  SOCIETA' COOPERATIVA SOCIALE SIGLABILE IN SOL.CALATINO S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 224614.0,
+   "aggiudicato": 224614.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "69343262D7",
+   "data": "2016-12-31",
+   "oggetto": "GESTIONE DELLO SPRAR DI QUESTO COMUNE PER N. 40 POSTI ORDINARI E 20 AGGIUNTIVI PER MESI TRE",
+   "amministrazione": "COMUNE DI BRONTE",
+   "ente": "CONSORZIO SOL. CALATINO  SOCIETA' COOPERATIVA SOCIALE SIGLABILE IN SOL.CALATINO S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 224614.0,
+   "aggiudicato": 224614.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  }
+ ]
+}

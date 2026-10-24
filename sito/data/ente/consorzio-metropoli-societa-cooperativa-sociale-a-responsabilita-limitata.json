@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO METROPOLI SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+ "cf": "05339120486",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PRATO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7514320507",
+   "data": "2018-06-15",
+   "oggetto": "APPALTO PER L'AFFIDAMENTO DEI SERVIZI DI MEDIAZIONE INTERCULTURALE SPORTELLI INFORMATIVI E ATTIVITA' SPECIALISTICHE IN MATERIA DI IMMIGRAZIONE, INTERCULTURALITA' E PROTEZIONE INTER",
+   "amministrazione": "COMUNE DI PRATO",
+   "ente": "CONSORZIO METROPOLI SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2393720.4,
+   "aggiudicato": 695783.48,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PRATO"
+  }
+ ]
+}

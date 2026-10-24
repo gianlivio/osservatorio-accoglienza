@@ -1,0 +1,59 @@
+{
+ "nome": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01710420561",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5C253D630",
+   "data": "2025-02-21",
+   "oggetto": "PROSECUZIONE DEL PROGETTO RELATIVO AL SERVIZIO DI ACCOGLIENZA DI RIFUGIATI E RICHIEDENTI ASILO - SAI - ANNUALITÀ 2025/2026 - COMUNE DI VALLERANO",
+   "amministrazione": "COMUNE DI VALLERANO",
+   "ente": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 624150.0,
+   "aggiudicato": 624150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "8668250231",
+   "data": "2021-04-21",
+   "oggetto": "SERVIZIO DI CODIUVAMENTO ALLE ATTIVITÀ DI ACCOGLIENZA E REALIZZAZIONE DEL PROGETTO SAI",
+   "amministrazione": "COMUNE DI FIUMICINO",
+   "ente": "L'ARCO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 564931.68,
+   "aggiudicato": 559282.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

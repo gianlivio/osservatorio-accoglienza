@@ -1,0 +1,165 @@
+{
+ "nome": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+ "cf": "92018500410",
+ "affidamenti": 8,
+ "diretti": 3,
+ "quota_diretti": 37.5,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B242F35F24",
+   "data": "2024-06-28",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI PRIMA ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO STRUTTURE RICETTIVE TEMPORANEE UBICATE NEL TERRITORIO DELLA PROVINCIA DI PESARO ",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 115894.25,
+   "aggiudicato": 115894.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  },
+  {
+   "cig": "B1F36DC5AE",
+   "data": "2024-06-04",
+   "oggetto": "GARA EUROPEA PER LA CONCLUSIONE DI UN ACCORDO QUADRO TRIENNALE AI SENSI ART. 59 COMMA 4, LETTERA A), ARTICOLO 71 E 128 DEL D.LGS 36/2023 PER L'AFFIDAMENTO NEL TERRITORIO DELLA PROV",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56146125.0,
+   "aggiudicato": 11443058.96,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  },
+  {
+   "cig": "9628291D13",
+   "data": "2022-12-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI UCRAINA DAL 1/02/2023 AL 4/03/2023 - EUROLEX",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 127493.51,
+   "aggiudicato": 127493.51,
+   "durata_gg": 32.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "91594812D6",
+   "data": "2022-03-28",
+   "oggetto": "SERVIZIO GESTIONE POSTI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (PRIMO AFFIDAMENTO UCRAINI)",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 698037.12,
+   "aggiudicato": 386265.6,
+   "durata_gg": 280.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8970768FED",
+   "data": "2021-12-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO I CENTRI DI CUI ALL'ART. 11 DEL D.LGS. 142/2015 UBICATI NEL TERRITORIO DELL",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4153780.0,
+   "aggiudicato": 1210405.5,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8859692121",
+   "data": "2021-08-02",
+   "oggetto": "GESTIONE POSTI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (INTEGRAZIONE)",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 525942.0,
+   "aggiudicato": 187245.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6982576BFD",
+   "data": "2017-02-25",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ANNO 2017 - ACCORDO QUADRO- LOTTO 2 - CIVILI ABITAZIONI",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2109450.0,
+   "aggiudicato": 717859.97,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "69825663BF",
+   "data": "2017-02-25",
+   "oggetto": "SERVIZIO DI TEMPORANEA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE ANNO 2017 - ACCORDO QUADRO - LOTTO 1 - STRUTTURE COLLETTIVE",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "EUROLEX SERVIZI S.R.L. IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11288130.0,
+   "aggiudicato": 5414888.79,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

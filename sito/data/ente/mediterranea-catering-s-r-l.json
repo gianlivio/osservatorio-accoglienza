@@ -1,0 +1,38 @@
+{
+ "nome": "MEDITERRANEA CATERING S.R.L.",
+ "cf": "02124470796",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4D96E52B3",
+   "data": "2024-12-17",
+   "oggetto": "SERVIZIO DI PREPARAZIONE E FORNITURA PASTI PER IL CENTRO DI PRIMA ACCOGLIENZA (CPA) PER RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "MEDITERRANEA CATERING S.R.L.",
+   "procedura": "ND P1_20",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 20324470.8,
+   "aggiudicato": 5689934.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

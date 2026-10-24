@@ -1,0 +1,123 @@
+{
+ "nome": "COOPERATIVA SOCIALE SANTA CATERINA",
+ "cf": "01461840520",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B917267EA7",
+   "data": "2025-11-17",
+   "oggetto": "SERVIZI SOCIALI CON ALLOGGIO",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 367482.0,
+   "aggiudicato": 359379.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B7AB00DFF4",
+   "data": "2025-07-16",
+   "oggetto": "SERVIZI DI ACCOGLIENZA RICHIEDENTI ASILO IN UNITA ABITATIVE GESTITE IN RETE",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5920446.0,
+   "aggiudicato": 5920446.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B7AAE3C03E",
+   "data": "2025-07-16",
+   "oggetto": "SERVIZI DI ACCOGLIENZA RICHIEDENTI ASILO IN CENTRI COLLETTIVI FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2709468.0,
+   "aggiudicato": 2709468.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "84552916DC",
+   "data": "2020-10-05",
+   "oggetto": "ACCOGLIENZA MIGRANTI -BANDO SETTEMBRE /OTTOBRE 2020-100 POSTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3269950.0,
+   "aggiudicato": 208692.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "83224173C5",
+   "data": "2020-06-08",
+   "oggetto": "ACCOGLIENZA MIGRANTI BANDO DI GARA GIUGNO 2020",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3269950.0,
+   "aggiudicato": 303552.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "81735502D6",
+   "data": "2020-01-20",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "COOPERATIVA SOCIALE SANTA CATERINA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1923550.0,
+   "aggiudicato": 474300.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  }
+ ]
+}

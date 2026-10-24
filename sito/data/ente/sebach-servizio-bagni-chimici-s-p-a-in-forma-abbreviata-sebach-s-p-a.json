@@ -1,0 +1,86 @@
+{
+ "nome": "SEBACH - SERVIZIO BAGNI CHIMICI - S.P.A. IN FORMA ABBREVIATA SEBACH - S.P.A.",
+ "cf": "03912150483",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "IMPERIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0616CCDC3",
+   "data": "2024-02-14",
+   "oggetto": "NOLEGGIO DI BAGNI CHIMICI A CON RELATIVA MANUTENZIONE PER EMERGENZA MIGRANTI",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "SEBACH - SERVIZIO BAGNI CHIMICI - S.P.A. IN FORMA ABBREVIATA SEBACH - S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11880.0,
+   "aggiudicato": 11880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B06116587B",
+   "data": "2024-02-14",
+   "oggetto": "NOLEGGIO DI BAGNI CHIMICI A CON RELATIVA MANUTENZIONE PER EMERGENZA MIGRANTI",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "SEBACH - SERVIZIO BAGNI CHIMICI - S.P.A. IN FORMA ABBREVIATA SEBACH - S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11880.0,
+   "aggiudicato": 11880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B060774449",
+   "data": "2024-02-14",
+   "oggetto": "NOLEGGIO DI BAGNI CHIMICI A CON RELATIVA MANUTENZIONE PER EMERGENZA MIGRANTI",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "SEBACH - SERVIZIO BAGNI CHIMICI - S.P.A. IN FORMA ABBREVIATA SEBACH - S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11880.0,
+   "aggiudicato": 11880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "IMPERIA"
+  },
+  {
+   "cig": "B02D7B9AC9",
+   "data": "2024-01-30",
+   "oggetto": "NOLEGGIO DI BAGNI CHIMICI A CON RELATIVA MANUTENZIONE PER EMERGENZA MIGRANTI",
+   "amministrazione": "COMUNE DI VENTIMIGLIA",
+   "ente": "SEBACH - SERVIZIO BAGNI CHIMICI - S.P.A. IN FORMA ABBREVIATA SEBACH - S.P.A.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 11880.0,
+   "aggiudicato": 11880.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "IMPERIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "EDIL EUGANEA S.R.L.",
+ "cf": "03829620289",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9148114E7A",
+   "data": "2022-03-18",
+   "oggetto": "EMERGENZA UCRAINA: AFFIDAMENTO IN VIA D'URGENZA PER LA FORNITURA DI CONTAINER PER I PUNTI TAMPONE DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "AZIENDA ULSS 9 SCALIGERA",
+   "ente": "EDIL EUGANEA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20000.0,
+   "aggiudicato": 20000.0,
+   "durata_gg": 306.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "nome": "RGC S.R.L.",
+ "cf": "05122640658",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9BBFE7754",
+   "data": "2025-12-19",
+   "oggetto": "ACCORDO QUADRO GARA N. 4402859 - CIG B2267C6936 SERVIZIO DI ACCOGLIENZA IN FAVORE DI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN CENTRI COLLETTIVI DI ACCOGLIENZA CON CAPACITÀ RICETTIV",
+   "amministrazione": "PREFETTURA",
+   "ente": "RGC S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 41.95,
+   "aggiudicato": 41.95,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B8CD05AC14",
+   "data": "2025-10-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE EX ART. 11 D. LGS. 142/2015 IN CENTRI COLLETTIVI DA 51 A 100 POSTI, GARA ASP N. 44",
+   "amministrazione": "PREFETTURA",
+   "ente": "RGC S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2879434.56,
+   "aggiudicato": 2879434.56,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B7F07213FB",
+   "data": "2025-08-08",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA E ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE, AI SENSI DELL'ART. 11 DEL D. LGS.18 AGOSTO ",
+   "amministrazione": "PREFETTURA",
+   "ente": "RGC S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9946401.0,
+   "aggiudicato": 9946401.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "9716144FA9",
+   "data": "2023-03-15",
+   "oggetto": "CONVENZIONE PER LA MESSA A DISPOSIZIONE DI POSTI STRAORDINARI PER LA PRIMA ACCOGLIENZA DEI CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO",
+   "amministrazione": "PREFETTURA",
+   "ente": "RGC S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 83450.0,
+   "aggiudicato": 83450.0,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SALERNO"
+  }
+ ]
+}

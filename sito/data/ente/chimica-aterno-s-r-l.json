@@ -1,0 +1,70 @@
+{
+ "nome": "CHIMICA ATERNO S.R.L.",
+ "cf": "01772690689",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESCARA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B36E8CEC70",
+   "data": "2024-10-15",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO SERVIZIO DISINFESTAZIONE CIMICI DEL LETTO",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "CHIMICA ATERNO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 805.2,
+   "aggiudicato": 805.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B0796BD46C",
+   "data": "2024-02-21",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO INTERVENTO URGENTE DI DEBLATTIZZAZIONE VIA LAZIO 7",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "CHIMICA ATERNO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 536.8,
+   "aggiudicato": 536.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  },
+  {
+   "cig": "B06FF708EF",
+   "data": "2024-02-19",
+   "oggetto": "PROG. SAI CAT. MSNA – AFFIDAMENTO SERVIZIO DISINFESTAZIONE E DERATTIZZAZIONE",
+   "amministrazione": "AZIENDA SPECIALE PER I SERVIZI SOCIALI DEL COMUNE DI MONTESILVANO",
+   "ente": "CHIMICA ATERNO S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5587.6,
+   "aggiudicato": 5587.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESCARA"
+  }
+ ]
+}

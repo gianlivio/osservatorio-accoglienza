@@ -1,0 +1,111 @@
+{
+ "nome": "SENZA FRONTIERE S.R.L.",
+ "cf": "08399761215",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B87F22A926",
+   "data": "2025-10-03",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "SENZA FRONTIERE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2661638.4,
+   "aggiudicato": 2661638.4,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B738C066C7",
+   "data": "2025-06-11",
+   "oggetto": "GARA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PIÙ OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SENZA FRONTIERE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3076479.17,
+   "aggiudicato": 3076479.17,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B723372BED",
+   "data": "2025-06-04",
+   "oggetto": "GARA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PIÙ OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SENZA FRONTIERE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4850167.79,
+   "aggiudicato": 4850167.79,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "A05F950823",
+   "data": "2023-09-14",
+   "oggetto": "CONVENZIONE ATTUATIVA ACCORDO QUADRO GESTIONE ACCOGLIENZA MIGRANTI IN CENTRI COSTITUTI DA CENTRI COLLETTIVI CON CAPIENZA DA 51 A 100 POSTI RTI SENZA FRONTIERE SRL - NUOVI ORIZZONTI",
+   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
+   "ente": "SENZA FRONTIERE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1294377.6,
+   "aggiudicato": 1294377.6,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "9953740618",
+   "data": "2023-07-10",
+   "oggetto": "PROCEDURA NEGOZIATA, EX ART. 76 C. 2 LETT. C) DEL DLGS 36/2023, FINALIZZATA ALLA SELEZIONE DI PIÙ OPERATORI ECONOMICI CON CUI CONCLUDERE UN ACCORDO QUADRO, EX ART. 59 COMMA 4 LETT.",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "SENZA FRONTIERE S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 3134255.0,
+   "aggiudicato": 1516410.75,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

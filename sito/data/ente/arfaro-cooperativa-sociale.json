@@ -1,0 +1,54 @@
+{
+ "nome": "ARFARO' COOPERATIVA SOCIALE",
+ "cf": "02418570608",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LATINA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5E3381FF0",
+   "data": "2025-03-05",
+   "oggetto": "PROSIEGUO INSERIMENTO MSNA STRUTTURA",
+   "amministrazione": "COMUNE DI CORI",
+   "ente": "ARFARO' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 300.0,
+   "aggiudicato": 300.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "B5B050B2A9",
+   "data": "2025-02-19",
+   "oggetto": "INSERIMENTO MSNA STRUTTURA",
+   "amministrazione": "COMUNE DI CORI",
+   "ente": "ARFARO' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18100.0,
+   "aggiudicato": 18100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  }
+ ]
+}

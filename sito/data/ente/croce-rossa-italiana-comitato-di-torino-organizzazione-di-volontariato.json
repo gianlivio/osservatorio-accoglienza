@@ -1,0 +1,38 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO DI TORINO - ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "11053700016",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "692738963E",
+   "data": "2016-12-27",
+   "oggetto": "GESTIONE CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI TORINO - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 237472.0,
+   "aggiudicato": 237472.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

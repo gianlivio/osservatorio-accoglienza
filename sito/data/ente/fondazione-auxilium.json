@@ -1,0 +1,54 @@
+{
+ "nome": "FONDAZIONE AUXILIUM",
+ "cf": "03846530107",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0D5FDD7C0",
+   "data": "2024-03-15",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE DI CENTRI COLLETTIVI CON CAPACITÀ RICETTIVA FINO A 50 POSTI IN FAVORE DI CITTADINI UCRAINI-13",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "FONDAZIONE AUXILIUM",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 143459.52,
+   "aggiudicato": 71729.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "B0D0E2BCF7",
+   "data": "2024-03-14",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI GESTIONE CENTRI DI ACCOGLIENZA UA PROFUGHI UCRAINI - 4",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "FONDAZIONE AUXILIUM",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 134837.48,
+   "aggiudicato": 67418.74,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

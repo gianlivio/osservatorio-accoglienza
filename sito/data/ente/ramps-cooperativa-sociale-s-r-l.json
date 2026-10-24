@@ -1,0 +1,38 @@
+{
+ "nome": "RAMPS COOPERATIVA SOCIALE S.R.L",
+ "cf": "03190860647",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B80E5348EC",
+   "data": "2025-08-28",
+   "oggetto": "XXIV ACCORDO QUADRO GESTIONE CENTRI COLLETTIVI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "RAMPS COOPERATIVA SOCIALE S.R.L",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1008626.262,
+   "aggiudicato": 1008626.262,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AVELLINO"
+  }
+ ]
+}

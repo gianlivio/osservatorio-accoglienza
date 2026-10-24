@@ -1,0 +1,156 @@
+{
+ "nome": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+ "cf": "96150030581",
+ "affidamenti": 7,
+ "diretti": 5,
+ "quota_diretti": 71.4,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7066507A0B",
+   "data": "2017-05-26",
+   "oggetto": "INDIVIDUAZIONE ENTE ATTUATORE AFFIDAMENTO SERVIZI DI ACCOGLIENZA INTEGRATA DELLO SPRAR TRIENNIO 2017/2019 (D.M. 10/08/2016)",
+   "amministrazione": "COMUNE DI BADOLATO",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1162434.0,
+   "aggiudicato": 1162434.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  },
+  {
+   "cig": "098306206D",
+   "data": "2017-02-27",
+   "oggetto": "CONVENZIONE PER ACCOGLIENZA IMMIGRATI ALLA FRONTIERA 2011",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61700.0,
+   "aggiudicato": 61700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "09819678CB",
+   "data": "2017-02-27",
+   "oggetto": "CONVENZIONE PER ACCOGLIENZA IMMIGRATI ALLA FRONTIERA 2010",
+   "amministrazione": "MINISTERO DELL INTERNO-DIPARTIMENTO PER GLI AFFARI INTERNI E TERRITORIALI",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 63000.0,
+   "aggiudicato": 63000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6915791346",
+   "data": "2016-12-19",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR CIR GENNAIO GIUGNO 2017 CENTRO APPIA NUOVA",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101360.0,
+   "aggiudicato": 101360.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6769750E6A",
+   "data": "2016-01-01",
+   "oggetto": "GESTIONE DI ATTIVITA' NELL'AMBITO DEL PROGETTO SPRAR 'VERONA SOLIDALE: INTERVENTI A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE' POSTI AGGIUNTIVI ANNO 2016",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 247990.0,
+   "aggiudicato": 247990.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6470796DC5",
+   "data": "2015-11-16",
+   "oggetto": "INTERVENTI A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE PER L'ANNO 2016",
+   "amministrazione": "COMUNE DI VERONA",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 204745.0,
+   "aggiudicato": 204745.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "6308069F33",
+   "data": "2015-06-24",
+   "oggetto": "PROSECUZIONE INCARICO SPRAR ANNO 2015. C.I.R.",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "CONSIGLIO ITALIANO PER I RIFUGIATI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 204213.2,
+   "aggiudicato": 204213.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

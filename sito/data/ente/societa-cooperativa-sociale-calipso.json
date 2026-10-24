@@ -1,0 +1,86 @@
+{
+ "nome": "SOCIETA' COOPERATIVA SOCIALE CALIPSO",
+ "cf": "02754140842",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AGRIGENTO",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6907990DAC",
+   "data": "2016-12-13",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE 'CALIPSO', COMUNITÀ ALLOGGIO 'PERSEFONE' RELATIVA AL 1^ E 2^ TRIMESTRE DEL 2016.",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CALIPSO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 79076.96,
+   "aggiudicato": 79076.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6904824903",
+   "data": "2016-12-12",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA ALLA SOCIETÀ COOPERATIVA SOCIALE 'CALIPSO' RELATIVA AL 1^ E 2^ TRIMESTRE 2016",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CALIPSO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 92801.18,
+   "aggiudicato": 92801.18,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "6695663BE4",
+   "data": "2016-05-17",
+   "oggetto": "LIQUIDAZIONE RETTE DI RICOVERO MSNA 3^ TRIMESTRE 2015 COOP. SOC. CALIPSO",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CALIPSO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 42361.33,
+   "aggiudicato": 42361.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  },
+  {
+   "cig": "66951650F1",
+   "data": "2016-05-17",
+   "oggetto": "LIQUIDAZIONE RETTE RICOVERO MSNA 3^ TRIMESTRE 2015 COOP. SOC. CALIPSO PERSEFONE",
+   "amministrazione": "COMUNE DI AGRIGENTO",
+   "ente": "SOCIETA' COOPERATIVA SOCIALE CALIPSO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46255.63,
+   "aggiudicato": 46255.63,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AGRIGENTO"
+  }
+ ]
+}

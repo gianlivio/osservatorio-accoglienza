@@ -1,0 +1,38 @@
+{
+ "nome": "ISTITUTO DEL BUON PASTORE ONLUS",
+ "cf": "80003870344",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PARMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "76306199FE",
+   "data": "2018-09-21",
+   "oggetto": "AFFIDAMENTO AMPLIAMENTO POSTI SPRAR UNA CITTÀ PER L'ASILO",
+   "amministrazione": "COMUNE DI PARMA",
+   "ente": "ISTITUTO DEL BUON PASTORE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 942580.22,
+   "aggiudicato": 941280.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PARMA"
+  }
+ ]
+}

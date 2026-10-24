@@ -1,0 +1,38 @@
+{
+ "nome": "CONGREGAZIONE DELLE SUORE DI S. GIOVANNI BATTISTA",
+ "cf": "00993241009",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5D98CA339",
+   "data": "2025-03-03",
+   "oggetto": "ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "CONGREGAZIONE DELLE SUORE DI S. GIOVANNI BATTISTA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 512091.0,
+   "aggiudicato": 512091.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

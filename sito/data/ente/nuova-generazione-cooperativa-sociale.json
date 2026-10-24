@@ -1,0 +1,102 @@
+{
+ "nome": "NUOVA GENERAZIONE COOPERATIVA SOCIALE",
+ "cf": "02732380825",
+ "affidamenti": 5,
+ "diretti": 1,
+ "quota_diretti": 20.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 1,
+   "quota_diretti": 20.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E9C34632",
+   "data": "2024-12-20",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DEL PROGETTO DI SECONDA ACCOGLIENZA NELLA RETE SIPROIMI – CATEGORIA MINORI STRANIERI NON ACCOMPAGNATI (MSNA) – COMUNE DI TRABIA (PA).PROSECUZIONE SIPROIMI/",
+   "amministrazione": "COMUNE DI TRABIA",
+   "ente": "NUOVA GENERAZIONE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 778653.0,
+   "aggiudicato": 778653.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B21953A986",
+   "data": "2024-06-13",
+   "oggetto": "SOCIETÀ COOP. SOCIALE NUOVA GENERAZIONE . CAS MUSCIOTTO AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE (",
+   "amministrazione": "PREFETTURA DI PALERMO",
+   "ente": "NUOVA GENERAZIONE COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1369984.0,
+   "aggiudicato": 1369984.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B1F7917D61",
+   "data": "2024-06-05",
+   "oggetto": "FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO (FNPSA) - SISTEMA DI ACCOGLIENZA INTEGRATA S.A.I. (EX SIPROIMI). PRESA ATTO DECRETO DEL MINISTRO DELL'INTERNO N. 24545 DEL 3",
+   "amministrazione": "COMUNE DI TRABIA",
+   "ente": "NUOVA GENERAZIONE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 27433.0,
+   "aggiudicato": 27433.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B1CC8FF828",
+   "data": "2024-05-23",
+   "oggetto": "FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO (FNPSA) - SISTEMA DI ACCOGLIENZA INTEGRATA S.A.I. (EX SIPROIMI). PRESA ATTO DECRETO DEL MINISTRO DELL'INTERNO N. 19832 DEL 3",
+   "amministrazione": "COMUNE DI TRABIA",
+   "ente": "NUOVA GENERAZIONE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 28364.0,
+   "aggiudicato": 28364.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B1CB76A5D1",
+   "data": "2024-05-23",
+   "oggetto": "FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO (FNPSA) - SISTEMA DI ACCOGLIENZA INTEGRATA S.A.I. (EX SIPROIMI). PRESA ATTO DECRETO DEL MINISTRO DELL'INTERNO N. 19832 DEL 3",
+   "amministrazione": "COMUNE DI TRABIA",
+   "ente": "NUOVA GENERAZIONE COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 28364.0,
+   "aggiudicato": 28364.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

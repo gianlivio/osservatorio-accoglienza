@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE LIBERA MENTE APS",
+ "cf": "92039130510",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8452375082",
+   "data": "2020-10-28",
+   "oggetto": "CONVENZIONE ACCOGLIENZA MIGRANTI (PRIMO ANNO ACCORDO QUADRO) ASSOCIAZIONE LIBERA MENTE",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ASSOCIAZIONE LIBERA MENTE APS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 178954.76,
+   "aggiudicato": 178954.76,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

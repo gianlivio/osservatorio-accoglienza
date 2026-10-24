@@ -1,0 +1,75 @@
+{
+ "nome": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00985350461",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LUCCA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9662EE409",
+   "data": "2025-12-17",
+   "oggetto": "SERVIZIO DI MEDIAZIONE LINGUISTICO-CULTURALE PER MINORI STRANIERI NELLE SCUOLE DELLA VERSILIA",
+   "amministrazione": "COMUNE DI VIAREGGIO",
+   "ente": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52380.95,
+   "aggiudicato": 52380.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "7181942606",
+   "data": "2017-08-17",
+   "oggetto": "GESTIONE CENTRO DI ASSISTENZA PER I CITTADINI STRANIERI",
+   "amministrazione": "COMUNE DI PIETRASANTA",
+   "ente": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 54150.0,
+   "aggiudicato": 54150.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  },
+  {
+   "cig": "70272004E3",
+   "data": "2017-03-29",
+   "oggetto": "GESTIONE CENTRO DI ASSISTENZA PER I CITTADINI STRANIERI",
+   "amministrazione": "CENTRALE UNICA COMMITTENZA PIETRASANTA/CAMAIORE",
+   "ente": "C.RE.A. SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 54200.0,
+   "aggiudicato": 54150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LUCCA"
+  }
+ ]
+}

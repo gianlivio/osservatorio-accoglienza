@@ -1,0 +1,83 @@
+{
+ "nome": "CASA DI ACCOGLIENZA EMPATIA SRL",
+ "cf": "02171540665",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "L'AQUILA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SONDRIO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B98FA84FC8",
+   "data": "2025-12-15",
+   "oggetto": "INSERIMENTO DI MINORE MSNA CODICE 7076 IN STRUTTURA RESIDENZIALE",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "CASA DI ACCOGLIENZA EMPATIA SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 20571.84,
+   "aggiudicato": 20571.84,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B4F702A09F",
+   "data": "2024-12-24",
+   "oggetto": "INSERIMENTO DI MINORE MSNA CODICE 7076 IN STRUTTURA RESIDENZIALE",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "CASA DI ACCOGLIENZA EMPATIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39238.88,
+   "aggiudicato": 39238.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "L'AQUILA"
+  },
+  {
+   "cig": "B238BDF526",
+   "data": "2024-06-26",
+   "oggetto": "INSERIMENTO DI MSNA PRESSO CASA DI ACCOGLIENZA EMPATIA",
+   "amministrazione": "COMUNE DI SONDRIO",
+   "ente": "CASA DI ACCOGLIENZA EMPATIA SRL",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22600.45,
+   "aggiudicato": 22600.45,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SONDRIO"
+  }
+ ]
+}

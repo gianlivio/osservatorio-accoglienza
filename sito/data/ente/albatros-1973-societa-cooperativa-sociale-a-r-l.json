@@ -1,0 +1,155 @@
+{
+ "nome": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+ "cf": "01639480852",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8EBB0CB55",
+   "data": "2025-11-04",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 495466.4,
+   "aggiudicato": 495466.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B7D3C23E40",
+   "data": "2025-07-31",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 747260.8,
+   "aggiudicato": 747260.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B6D444219F",
+   "data": "2025-05-14",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 747260.0,
+   "aggiudicato": 747260.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B5FBA18323",
+   "data": "2025-03-12",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 495466.0,
+   "aggiudicato": 495466.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B56A5AC6B0",
+   "data": "2025-01-31",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 479221.0,
+   "aggiudicato": 479221.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B353EBF436",
+   "data": "2024-10-09",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 747260.8,
+   "aggiudicato": 747260.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B103ED3A0A",
+   "data": "2024-03-28",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 739138.4,
+   "aggiudicato": 739138.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B027E3B0DE",
+   "data": "2024-01-29",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ALBATROS 1973 SOCIETA' COOPERATIVA SOCIALE A.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 487344.0,
+   "aggiudicato": 487344.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "LA TERRA COOPERATIVA SOCIALE - ONLUS",
+ "cf": "00491100780",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "72519946C3",
+   "data": "2017-06-07",
+   "oggetto": "AFFIDAMENTO GESTIONE CENTRO POLIFUNZIONALE PER L'INCLUSIONE SOCIALE IMMIGRATI EXTRA COMUNITARI REGOLARI PAL. GERVASI",
+   "amministrazione": "COMUNE DI COSENZA",
+   "ente": "LA TERRA COOPERATIVA SOCIALE - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 149900.0,
+   "aggiudicato": 149900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "COSENZA"
+  }
+ ]
+}

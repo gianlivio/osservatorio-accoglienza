@@ -1,0 +1,38 @@
+{
+ "nome": "TELERISCALDAMENTO BRENNERO - S.R.L.",
+ "cf": "02729180212",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLZANO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6C8F4024B",
+   "data": "2025-05-12",
+   "oggetto": "FORNITURA DI CALORE PER LA STRUTTURA DEL SERVIZIO ASSISTENZA UMANITARIA PER PROFUGHI AL BRENNERO PER IL PERIODO 01.06.2025-31.05.2027",
+   "amministrazione": "BEZIRSGEMEINSCHAFT WIPPTAL",
+   "ente": "TELERISCALDAMENTO BRENNERO - S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 25272.0,
+   "aggiudicato": 25272.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLZANO"
+  }
+ ]
+}

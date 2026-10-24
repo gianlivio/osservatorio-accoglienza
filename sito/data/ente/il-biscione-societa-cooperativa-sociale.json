@@ -1,0 +1,80 @@
+{
+ "nome": "IL BISCIONE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "95003340106",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8BB817497",
+   "data": "2025-10-21",
+   "oggetto": "AFFIDAMENTO EX ARTICOLO 59 COMMA 4 DEL D.LGS. 36/2023, MEDIANTE ESERCIZIO DELL'OPZIONE DI AUMENTO CONTRATTUALE DI CUI ALL'ART. 3, LETTERA C DEL DISICPLINARE DI GARA, DELLA GESTIONE",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "IL BISCIONE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 54572.1,
+   "aggiudicato": 54572.1,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7312803BEE",
+   "data": "2017-12-15",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - CROCE BIANCA LOTTO 1",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "IL BISCIONE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1299327.0,
+   "aggiudicato": 1299327.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "635179530D",
+   "data": "2015-08-19",
+   "oggetto": "SPRAR ORDINARI II SEM ATI RESIDENZIALE",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "IL BISCIONE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 108667.21,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

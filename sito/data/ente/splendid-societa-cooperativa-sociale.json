@@ -1,0 +1,59 @@
+{
+ "nome": "SPLENDID SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01689850566",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9723075750",
+   "data": "2023-03-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE IN SINGOLE UNITÀ ABITATIVE CON SERVIZI IN RETE PERIODO PRESUNTO 15 APRILE - 30 NOVEMBRE 2023",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "SPLENDID SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 599555.0,
+   "aggiudicato": 578450.0,
+   "durata_gg": 230.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7791024C62",
+   "data": "2019-02-26",
+   "oggetto": "SERVIZI CENTRI DI ACCOGLIENZA IMMIGRATI IN SINGOLE UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "SPLENDID SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 13909612.5,
+   "aggiudicato": 3727549.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  }
+ ]
+}

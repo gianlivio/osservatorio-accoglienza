@@ -1,0 +1,38 @@
+{
+ "nome": "ABACO DI INNOCENTI E C. S.R.L.",
+ "cf": "01557920483",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B13A4A88EA",
+   "data": "2024-04-15",
+   "oggetto": "FORNITURA DI N.7 PC DELL VOSTRO 3710-SFF, N. 7 MONITOR AOC22B2 PER LA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE .",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "ABACO DI INNOCENTI E C. S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5141.08,
+   "aggiudicato": 5141.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

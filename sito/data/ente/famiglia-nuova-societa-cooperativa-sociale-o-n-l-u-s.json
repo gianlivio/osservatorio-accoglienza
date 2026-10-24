@@ -1,0 +1,141 @@
+{
+ "nome": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "06092740155",
+ "affidamenti": 6,
+ "diretti": 3,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LODI",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6DEDBFF57",
+   "data": "2025-05-16",
+   "oggetto": "PROCEDURA TELEMATICA APERTA SVOLTA IN ATTIVITÀ DI COMMITTENZA AUSILIARIA DAL COMUNE DI CASTIGLIONE DEL LAGO EX ART 62, COMMA 5, LETT. C), COMMA 6 D.LGS 36/2023 PER L'AFFIDAMENTO DE",
+   "amministrazione": "COMUNE DI MAGIONE",
+   "ente": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 514303.85,
+   "aggiudicato": 514303.85,
+   "durata_gg": 30.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "9421221D81",
+   "data": "2022-10-13",
+   "oggetto": "SISTEMA PER L'ACCOGLIENZA, LA TUTELA E L'INTEGRAZIONE A FAVORE DI RICHIEDENTI ASILO E RIFUGIATI (SIPROIMI EX SPRAR) DEL COMUNE DI GUBBIO",
+   "amministrazione": "COMUNE DI GUBBIO",
+   "ente": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2188685.0,
+   "aggiudicato": 2188685.0,
+   "durata_gg": 1309.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "93191505DC",
+   "data": "2022-07-11",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER MSNA - PROGETTO SAI PROG 532 - PR 2",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 688540.74,
+   "aggiudicato": 688540.74,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "7466405053",
+   "data": "2018-05-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI MIGRANTI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 799110.0,
+   "aggiudicato": 799110.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "7455591453",
+   "data": "2018-04-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI MIGRANTI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 491760.0,
+   "aggiudicato": 491760.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "6350447AA3",
+   "data": "2015-09-29",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI - PERIODO DAL 28 LUGLIO 2015 AL 31 DICEMBRE 2015 - DIBIERRE SAS (HOTEL VILLA DEI TIGLI DI TORTONA) - SEDE SALICE TERME",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "FAMIGLIA NUOVA SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 180000.0,
+   "aggiudicato": 180000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

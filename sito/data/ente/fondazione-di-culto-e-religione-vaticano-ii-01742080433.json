@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+ "cf": "01742080433",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MACERATA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B56C17DB1E",
+   "data": "2025-01-31",
+   "oggetto": "SERVIZI ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI MACERATA",
+   "ente": "FONDAZIONE DI CULTO E RELIGIONE VATICANO II",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 139620.0,
+   "aggiudicato": 139620.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MACERATA"
+  }
+ ]
+}

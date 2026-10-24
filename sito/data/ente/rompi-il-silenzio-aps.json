@@ -1,0 +1,79 @@
+{
+ "nome": "ROMPI IL SILENZIO APS",
+ "cf": "91096290407",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4EB502E5F",
+   "data": "2024-12-20",
+   "oggetto": "AFFIDAMENTI DIRETTI - PROSECUZIONE ANNO 2025 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI (MSNA), MADRI CON FIGLI MINORI E VITTIME DELLA VIOLENZA DI GEN",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "ROMPI IL SILENZIO APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21720.0,
+   "aggiudicato": 21720.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "A044504CFA",
+   "data": "2023-12-28",
+   "oggetto": "PROSECUZIONE ANNO 2024 DEI SERVIZI DI ACCOGLIENZA PER MINORI, MINORI STRANIERI NON ACCOMPAGNATI, MADRI CON FIGLI E VITTIME DELLA VIOLENZA DI GENERE GIA' INSERITI IN STRUTTURA RESID",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "ROMPI IL SILENZIO APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 44420.0,
+   "aggiudicato": 44420.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9591878C1E",
+   "data": "2023-01-11",
+   "oggetto": "SERVIZI DI ASSISTENZA MINORI, MSNA E DI CONTRASTO ALLA VIOLENZA DI GENERE PRESSO LE STRUTTURE RESIDENZIALI - 2023",
+   "amministrazione": "COMUNE DI FALCONARA MARITTIMA",
+   "ente": "ROMPI IL SILENZIO APS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43800.0,
+   "aggiudicato": 43800.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  }
+ ]
+}

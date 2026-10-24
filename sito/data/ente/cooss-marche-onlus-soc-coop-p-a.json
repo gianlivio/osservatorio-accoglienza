@@ -1,0 +1,141 @@
+{
+ "nome": "COOSS MARCHE ONLUS SOC. COOP. P.A",
+ "cf": "00459560421",
+ "affidamenti": 6,
+ "diretti": 2,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ASCOLI PICENO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "ANCONA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "FERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "96370476C3",
+   "data": "2023-03-30",
+   "oggetto": "AFFIDAMENTO SERVIZI ACCOGLIENZA INTEGRATA DEI MIGRANTI AFFERENTI AL PROGETTO ANCONA CITTÀ D'ASILO CAT. ORDINARI COD. 551",
+   "amministrazione": "COMUNE DI ANCONA",
+   "ente": "COOSS MARCHE ONLUS SOC. COOP. P.A",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1628277.5,
+   "aggiudicato": 1628277.5,
+   "durata_gg": 731.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "ANCONA"
+  },
+  {
+   "cig": "9461916C15",
+   "data": "2022-11-02",
+   "oggetto": "PROCEDURA APERTA PER L'AFFIDAMENTO IN APPALTO DELLA GESTIONE DEI SERVIZI DI ACCOGLIENZA NELL'AMBITO DEL PROGETTO SAI 'SISTEMA DI ACCOGLIENZA E INTEGRAZIONE' DENOMINATO 'ANCONA PROV",
+   "amministrazione": "ASP AMBITO IX",
+   "ente": "COOSS MARCHE ONLUS SOC. COOP. P.A",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 46536875.28,
+   "aggiudicato": 31024583.52,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "853782975F",
+   "data": "2020-12-28",
+   "oggetto": "GESTIONE DEI SERVIZI DI ACCOGLIENZA INTEGRATA NELL'AMBITO DEL PROGETTO SAI/SIPROIMI (EX SPRAR) DEL COMUNE DI RECANATI DENOMINATO 'POMERIUM' (COD. PROG-22-PR2-CAT. ORDINARI) - TRIEN",
+   "amministrazione": "COMUNE DI RECANATI",
+   "ente": "COOSS MARCHE ONLUS SOC. COOP. P.A",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1313000.0,
+   "aggiudicato": 606000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "755501104F",
+   "data": "2018-06-22",
+   "oggetto": "SERVIZIO DI GESTIONE DEL SISTEMA DI PROTEZIONE DI RICHIEDENTI ASILO E RIFUGIATI",
+   "amministrazione": "COMUNE DI GROTTAMMARE",
+   "ente": "COOSS MARCHE ONLUS SOC. COOP. P.A",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 931573.65,
+   "aggiudicato": 931573.65,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  },
+  {
+   "cig": "7511597DED",
+   "data": "2018-06-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI",
+   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
+   "ente": "COOSS MARCHE ONLUS SOC. COOP. P.A",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 159224.56,
+   "aggiudicato": 159224.56,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "FERMO"
+  },
+  {
+   "cig": "7472013430",
+   "data": "2018-05-07",
+   "oggetto": "SUA PC COMUNE DI GROTTAMMARE: AFFIDAMENTO SERVIZIO DI GESTIONE DEL SISTEMA DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI",
+   "amministrazione": "PROVINCIA DI FERMO",
+   "ente": "COOSS MARCHE ONLUS SOC. COOP. P.A",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 931573.65,
+   "aggiudicato": 698890.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ASCOLI PICENO"
+  }
+ ]
+}

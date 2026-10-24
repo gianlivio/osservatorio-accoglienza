@@ -1,0 +1,74 @@
+{
+ "nome": "COOPERAZIONE SUD PER L'EUROPA SOCIETA' COOPERATIVA SOCIALE ONLUS - IN LIQUIDAZIONE",
+ "cf": "96014010795",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "VIBO VALENTIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6897517B15",
+   "data": "2016-12-05",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI REGGIO CALABRIA",
+   "ente": "COOPERAZIONE SUD PER L'EUROPA SOCIETA' COOPERATIVA SOCIALE ONLUS - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 350000.0,
+   "aggiudicato": 350000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "6809824C87",
+   "data": "2016-09-16",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI REGGIO CALABRIA",
+   "ente": "COOPERAZIONE SUD PER L'EUROPA SOCIETA' COOPERATIVA SOCIALE ONLUS - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 200000.0,
+   "aggiudicato": 200000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "6975115EF9",
+   "data": "2016-01-15",
+   "oggetto": "MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA CO-PROGETTAZIONE, ORGANIZZAZIONE E GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA INTEGRATA (SPRAR) BIENNIO 2016-2017",
+   "amministrazione": "COMUNE DI MILETO",
+   "ente": "COOPERAZIONE SUD PER L'EUROPA SOCIETA' COOPERATIVA SOCIALE ONLUS - IN LIQUIDAZIONE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 501018.19,
+   "aggiudicato": 501018.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VIBO VALENTIA"
+  }
+ ]
+}

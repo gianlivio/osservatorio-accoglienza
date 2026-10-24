@@ -1,0 +1,165 @@
+{
+ "nome": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04515990655",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 8
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8129298CEB",
+   "data": "2019-11-15",
+   "oggetto": "AFFIDAMENTO AL COSTITUENDO RTI - MANDATARIA COMMUNICATION CENTRE MULTILINGUE DI N. 119 MIGRANTI DAL 1^ DICEMBRE 2019 PER 1 ANNO",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 913438.05,
+   "aggiudicato": 913438.05,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "78567760AA",
+   "data": "2019-04-01",
+   "oggetto": "AFFIDAMENTO N. 190 MIGRANTI ALLA SOCIETÀ COMMUNICATION C.M. PER IL PERIODO 1^ APRILE /31DICEMBRE 2019",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1156815.0,
+   "aggiudicato": 1156815.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7354857BFD",
+   "data": "2018-01-16",
+   "oggetto": "AFFIDAMENTO DIRETTO ALLA SOCIETÀ COOP. SOCIALE C.C.M PER LA GESTIONE DEI SERVIZI DI ACCOGLIENZA N. 190 MIGRANTI - PERIODO 1^ GENNAIO 2018/31 DICEMBRE 2018",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2080500.0,
+   "aggiudicato": 2080500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7214605064",
+   "data": "2017-09-22",
+   "oggetto": "AFFIDAMENTO DIRETTO ALLA SOC. ATI HOTEL VITTORIA SRL -COMMUNICATION CENTRE MULTILINGUE PER LA GESTIONE DEI SERVIZI DI ACCOGLIENZA N. 48 MIGRANTI - PERIODO 4 LUGLIO 2017/31 DIC.2017",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 278016.0,
+   "aggiudicato": 278016.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "710013940E",
+   "data": "2017-06-05",
+   "oggetto": "AFFIDAMENTO ALLA SOC.COOP.VA SOCIALE COMMUNICATION CENTRE MULTILINGUE GESTIONE SERVIZI ACCOGLIENZA N. 47 MIGRANTI - PROROGA 1^GIUGNO/30 GIUGNO 2017",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45120.0,
+   "aggiudicato": 45120.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "7068936E83",
+   "data": "2017-05-08",
+   "oggetto": "AFFIDAMENTO DIRETTO ALLA SOC. COOP.VA SOCIALE COMMINICATION CENTRE MULTILINGUE PER LA GESTIONE DEI SERVIZI DI ACCOGLIENZA N. 47 MIGRANTI - PROROGA 1^ MAGGIO 2017 / 31 MAGGIO 2017",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 46624.0,
+   "aggiudicato": 46624.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "70685331F6",
+   "data": "2017-05-08",
+   "oggetto": "AFFIDAMENTO SERVIZIO ACCOGLIENZA N. 109 MIGRANTI SOC. COOP.VA SOCIALE COMMUNICATION CENTRE MULTILINGUE - PROROGA TECNICA 1^ MAGGIO 2017 / 31 LUGLIO 2017 - (ACCORDO QUADRO DI RIFERI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 320896.0,
+   "aggiudicato": 320896.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "6836471257",
+   "data": "2016-10-17",
+   "oggetto": "AFFIDAMENTO DIRETTO ALLA SOC.COOP.VA SOC. COMMUNICATION CENTRE MULTILINGUE - P.I. 04515990655 - SERVIZIO ACCOGLIENZA 47 MIGRANTI - PERIODO 7 OTT.2016/31 DIC.2016",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "COMMUNICATION CENTRE MULTILINGUE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 129344.0,
+   "aggiudicato": 129344.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "POTENZA"
+  }
+ ]
+}

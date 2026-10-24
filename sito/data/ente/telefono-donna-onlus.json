@@ -1,0 +1,80 @@
+{
+ "nome": "TELEFONO DONNA ONLUS",
+ "cf": "97094510159",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7673006CD9",
+   "data": "2018-10-22",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI TELEFONO DONNA",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "TELEFONO DONNA ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 99949.0,
+   "aggiudicato": 99949.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "726052351E",
+   "data": "2017-06-07",
+   "oggetto": "SERVIZIO ACCOGLIENZA E SERVIZI PER RICHIEDENTI ASILO - OTTOBRE DICEMBRE 2017",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "TELEFONO DONNA ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 87455.2,
+   "aggiudicato": 87455.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  },
+  {
+   "cig": "6859167BA9",
+   "data": "2016-07-20",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - 01.11.2016 - 31.12.2016",
+   "amministrazione": "COMUNITA' MONTANA VALSASSINA VALVARRONE VAL D'ESINO RIVIERA",
+   "ente": "TELEFONO DONNA ONLUS",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 57986.6,
+   "aggiudicato": 57986.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "LECCO"
+  }
+ ]
+}

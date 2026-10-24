@@ -1,0 +1,33 @@
+{
+ "nome": "GRUPPO OPERATIVO MEDIATORI INTERCULTURALI VOLONTARI IN PROTEZIONE CIVILE",
+ "cf": "95023660046",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6537175776",
+   "data": "2016-01-01",
+   "oggetto": "ACCOGLIENZA PROFUGHI ACCORDO QUADRO SETTEMBRE 2015",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "GRUPPO OPERATIVO MEDIATORI INTERCULTURALI VOLONTARI IN PROTEZIONE CIVILE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 134980.0,
+   "aggiudicato": 134980.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

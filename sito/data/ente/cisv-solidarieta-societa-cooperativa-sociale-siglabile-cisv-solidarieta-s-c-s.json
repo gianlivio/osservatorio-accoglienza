@@ -1,0 +1,54 @@
+{
+ "nome": "CISV SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CISV SOLIDARIETA' - S.C.S.",
+ "cf": "06733830019",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B41BD56388",
+   "data": "2024-11-05",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ACCOMPAGNAMENTO ALLINCLUSIONE PER N. 40 PERSONE SINGOLE E/O NUCLEI FAMILIARI PRESSO STRUTTURE COLLETTIVE E/O ALLOGGI MESSI A DISPOSIZIONE DAI CONCORRENTI",
+   "amministrazione": "COMUNE DI SETTIMO TORINESE",
+   "ente": "CISV SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CISV SOLIDARIETA' - S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3032799.19,
+   "aggiudicato": 1237877.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "B25543273C",
+   "data": "2024-07-03",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA IN FAVORE DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAPACITA' RECETTIVA MASSIMA DI 50 POSTI ",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CISV SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CISV SOLIDARIETA' - S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 299926.09,
+   "aggiudicato": 299926.09,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

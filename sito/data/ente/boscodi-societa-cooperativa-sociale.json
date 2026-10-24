@@ -1,0 +1,49 @@
+{
+ "nome": "BOSCODI - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02515930069",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "A044D69A64",
+   "data": "2023-12-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "BOSCODI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5089209.0,
+   "aggiudicato": 5089209.0,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "A04423C16E",
+   "data": "2023-12-27",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "BOSCODI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1127120.0,
+   "aggiudicato": 1127120.0,
+   "durata_gg": 730.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

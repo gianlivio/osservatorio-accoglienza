@@ -1,0 +1,33 @@
+{
+ "nome": "SOCIETA' COOPERATIVA PER LA FORMAZIONE E LO SVILUPPO REGIONALE",
+ "cf": "02283950216",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "8523461686",
+   "data": "2020-12-03",
+   "oggetto": "ORGANIZZAZIONE E SVOLGIMENTO DEL SERVIZIO DI INSEGNAMENTO DELLA LINGUA ITALIANA E DEL-LA LINGUA TEDESCA A FAVORE DEI RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE NEL PROGETTO SIPROIM",
+   "amministrazione": "BEZIRKSGEMEINSCHAFT VINSCHGAU",
+   "ente": "SOCIETA' COOPERATIVA PER LA FORMAZIONE E LO SVILUPPO REGIONALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 94506.0,
+   "aggiudicato": 93511.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "SAPERI APERTI - SOCIETA' COOPERATIVA",
+ "cf": "01666850472",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISTOIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "653618025E",
+   "data": "2016-01-19",
+   "oggetto": "PROGETTO SPRAR POSTI AGGIUNTIVI",
+   "amministrazione": "COMUNE DI PISTOIA",
+   "ente": "SAPERI APERTI - SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO EX ART.5 DELLA LEGGE N.381/91",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 127050.0,
+   "aggiudicato": 127050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PISTOIA"
+  }
+ ]
+}

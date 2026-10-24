@@ -1,0 +1,159 @@
+{
+ "nome": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+ "cf": "00427050232",
+ "affidamenti": 8,
+ "diretti": 8,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 7,
+   "diretti": 7,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 7
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9C5B95FE1",
+   "data": "2025-12-24",
+   "oggetto": "MSNA-OTTOBRE E NOVEMBRE'25",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 24705.0,
+   "aggiudicato": 24705.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B9C5ABEE75",
+   "data": "2025-12-24",
+   "oggetto": "MSNA-DICEMBRE'25",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12555.0,
+   "aggiudicato": 12555.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B912843FDC",
+   "data": "2025-11-13",
+   "oggetto": "ACCOGLIENZA MSNA II SEMESTRE 2025",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27000.0,
+   "aggiudicato": 27000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B7DF3AB2B0",
+   "data": "2025-08-05",
+   "oggetto": "MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8100.0,
+   "aggiudicato": 8100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B6DCB21E30",
+   "data": "2025-05-15",
+   "oggetto": "MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16470.0,
+   "aggiudicato": 16470.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B6A10497ED",
+   "data": "2025-04-29",
+   "oggetto": "MSNA IN CASA FAMIGLIA",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 8100.0,
+   "aggiudicato": 8100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "B61B690D28",
+   "data": "2025-03-20",
+   "oggetto": "ACCOGLIENZA MSNA-MARZO 2025",
+   "amministrazione": "COMUNE DI VITERBO",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6600.0,
+   "aggiudicato": 6600.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "6955957D4B",
+   "data": "2017-01-24",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - PIO ISTITUTO SUORE DELLA SACRA FAMIGLIA",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "CASA GEN.ZIA DEL PIO ISTITUTO PICCOLE SUORE DELLA SACRA FAMIGLIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60660.0,
+   "aggiudicato": 60660.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  }
+ ]
+}

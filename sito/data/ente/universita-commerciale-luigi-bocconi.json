@@ -1,0 +1,80 @@
+{
+ "nome": "UNIVERSITA' COMMERCIALE LUIGI BOCCONI",
+ "cf": "80024610158",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8204423809",
+   "data": "2020-03-20",
+   "oggetto": "RIPETIZIONE DEI SERVIZI FINALIZZATI AL MONITORAGGIO E ALLA VALUTAZIONE DEI PROGETTI DI ACCOGLIENZA E ALLA SUPERVISIONE DELLA GESTIONE DELLA BANCA DATI DEL SISTEMA DI PROTEZIONE PER",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "UNIVERSITA' COMMERCIALE LUIGI BOCCONI",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 33496.98,
+   "aggiudicato": 33496.98,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "7830831E28",
+   "data": "2018-12-04",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO COMPLEMENTARE DI SUPPORTO ALLA DEFINIZIONE DEL PIANO STRATEGICO PER L'ACCOGLIENZA E INTEGRAZIONE DEI CITTADINI IMMIGRATI STRANIERI",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "UNIVERSITA' COMMERCIALE LUIGI BOCCONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 79636.65,
+   "aggiudicato": 79636.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "721964712E",
+   "data": "2017-10-04",
+   "oggetto": "APPALTO N. 61/2017 - AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZIONALE O TITOLARI DI PROTEZIONE UMANITARIA NELL'AMBITO DEL PROGETTO SPRAR -",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "UNIVERSITA' COMMERCIALE LUIGI BOCCONI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 204811.89,
+   "aggiudicato": 133987.94,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

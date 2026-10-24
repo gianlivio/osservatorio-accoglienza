@@ -1,0 +1,96 @@
+{
+ "nome": "FONDAZIONE ARCA DEL MEDITERRANEO ONLUS",
+ "cf": "91046680541",
+ "affidamenti": 4,
+ "diretti": 2,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4F75F36C6",
+   "data": "2024-12-24",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO SINGOLE UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "FONDAZIONE ARCA DEL MEDITERRANEO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137208.0,
+   "aggiudicato": 137208.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "B1F08EAB5D",
+   "data": "2024-06-04",
+   "oggetto": "AFFIDAMENTO DIRETTO DI SERVIZI DI ACCOGLIENZA RICHIEDENTI ASILO IN S.U.A.",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "FONDAZIONE ARCA DEL MEDITERRANEO ONLUS",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 132431.0,
+   "aggiudicato": 132431.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  },
+  {
+   "cig": "780265174B",
+   "data": "2019-02-26",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI ASILO IN CENTRI COSTIUTITE DA SINGOLE UNITA",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "FONDAZIONE ARCA DEL MEDITERRANEO ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 29182285.0,
+   "aggiudicato": 7481156.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7362359AD6",
+   "data": "2017-11-21",
+   "oggetto": "CONVENZIONE SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI A.T.S. - ARCISOLIDARIETA'",
+   "amministrazione": "PREFETTURA DI PERUGIA",
+   "ente": "FONDAZIONE ARCA DEL MEDITERRANEO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23938448.0,
+   "aggiudicato": 23938448.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

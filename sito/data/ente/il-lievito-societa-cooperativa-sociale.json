@@ -1,0 +1,148 @@
+{
+ "nome": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02976710273",
+ "affidamenti": 7,
+ "diretti": 6,
+ "quota_diretti": 85.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8B0FBE7D1",
+   "data": "2025-10-17",
+   "oggetto": "STIPULA CONVENZIONE CON LA AGGIUDICATARIA IL LIEVITO SOCIETA' COOPERATIVA SOCIALE RELATIVA ALL'ACCORDO QUADRO DI CUI ALLA GARA N° 4611023 - PROCEDURA APERTA PER L'AFFIDAMENTO DEL S",
+   "amministrazione": "PREFETTURA DI VENEZIA",
+   "ente": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2338920.0,
+   "aggiudicato": 2338920.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B6A921DB23",
+   "data": "2025-04-30",
+   "oggetto": "SERVIZI DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI VENEZIA",
+   "ente": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36000.0,
+   "aggiudicato": 36000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B5220BDB57",
+   "data": "2025-01-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2860663.46,
+   "aggiudicato": 2860663.46,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "98853175A6",
+   "data": "2023-05-25",
+   "oggetto": "CONVENZIONE AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI SINGOLE UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 657420.0,
+   "aggiudicato": 657420.0,
+   "durata_gg": 215.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "65371280AF",
+   "data": "2015-12-28",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - IL LIEVITO SOC.COOP.SOC. - VENEZIA/MESTRE - PROROGA DAL 01/01 AL 14/03/2016",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 141303.0,
+   "aggiudicato": 141303.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "6257737FEB",
+   "data": "2015-05-14",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE - IL LIEVITO COOP. - 1/6 - 31/12/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 394295.0,
+   "aggiudicato": 394295.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "611446474F",
+   "data": "2015-02-02",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PERIODO 01/02/2015 - 31/03/2015",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 47436.0,
+   "aggiudicato": 47436.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

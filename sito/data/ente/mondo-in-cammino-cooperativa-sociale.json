@@ -1,0 +1,38 @@
+{
+ "nome": "MONDO IN CAMMINO  COOPERATIVA SOCIALE",
+ "cf": "07914540633",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5795114AC",
+   "data": "2025-02-05",
+   "oggetto": "COLLOCAMENTO MSNA G.P.M.",
+   "amministrazione": "COMUNE CAIVANO",
+   "ente": "MONDO IN CAMMINO  COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 18990.0,
+   "aggiudicato": 18990.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

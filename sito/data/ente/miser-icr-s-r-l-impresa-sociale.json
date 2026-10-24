@@ -1,0 +1,33 @@
+{
+ "nome": "MISER.ICR. S.R.L. - IMPRESA SOCIALE",
+ "cf": "03000320790",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6812539D04",
+   "data": "2016-09-29",
+   "oggetto": "INDIVIDUAZIONE DI UN SOGGETTO COLLABORATORE PER L'ORGANIZZAZIONE E GESTIONE DI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA, RIVOLTI A RICHIEDENTI/TITOLARI DI PROTEZIONE INTERNAZI",
+   "amministrazione": "COMUNE DI CERENZIA",
+   "ente": "MISER.ICR. S.R.L. - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 267961.18,
+   "aggiudicato": 267299.73,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

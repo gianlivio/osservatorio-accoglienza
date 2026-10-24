@@ -1,0 +1,100 @@
+{
+ "nome": "ALCANTARA SERVICE SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "04872830759",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "FOGGIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B83FC48A69",
+   "data": "2025-09-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PRIMARIA PER STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "ALCANTARA SERVICE SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 733184.26,
+   "aggiudicato": 733184.26,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "B82D574DA4",
+   "data": "2025-09-10",
+   "oggetto": "SINGOLE UNITA ABITATIVE - PROCEDURA NEGOZIATA SENZA BANDO EX ART. 76 CDC",
+   "amministrazione": "PREFETTO INCARICATO COMPLETAMENTO INTERVENTI PER ISTITUZIONE PROVINCIA BARLETTA ANDRIA TRANI",
+   "ente": "ALCANTARA SERVICE SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 655465.0,
+   "aggiudicato": 655465.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  },
+  {
+   "cig": "B22A6B586E",
+   "data": "2024-06-20",
+   "oggetto": "AFFIDAMENTO, IN PROVINCIA DI FOGGIA DEI SERVIZI DI ACCOGLIENZA IN FAVORE DI CITTADINI EXTRACOMUNITARI RICHIEDENTI ASILO, IN STRUTTURE DA UN MINIMO DI 15 AD UN MASSIMO DI 50 POSTI, ",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ALCANTARA SERVICE SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 56146125.0,
+   "aggiudicato": 2239822.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  },
+  {
+   "cig": "A004C0C253",
+   "data": "2023-08-14",
+   "oggetto": "AFFIDAMENTO DIRETTO, AI SENSI DEL COMBINATO DISPOSTO DELL' ART. 11 DEL D. LGS. N. 142/2015 E DEGLI ARTT. 14 E 50 DEL D. LGS. N. 36/2023, DEI SERVIZI DI ACCOGLIENZA TEMPORANEA DI CI",
+   "amministrazione": "PREFETTURA DI FOGGIA -UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "ALCANTARA SERVICE SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 645772.04,
+   "aggiudicato": 645772.04,
+   "durata_gg": 122.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FOGGIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ZERO IN CONDOTTA ASS.NE CULTURALE - ONLUS",
+ "cf": "97160310583",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "691612353F",
+   "data": "2016-12-19",
+   "oggetto": "PROSECUZIONE PROGETTO SPRAR ZERO IN CONDOTTA GENNAIO GIUGNO 2017 CENTRO AMMR- BHAVAN",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "ZERO IN CONDOTTA ASS.NE CULTURALE - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 131768.0,
+   "aggiudicato": 131768.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

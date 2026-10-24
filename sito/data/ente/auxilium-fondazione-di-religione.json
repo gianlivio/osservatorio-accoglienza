@@ -1,0 +1,239 @@
+{
+ "nome": "AUXILIUM FONDAZIONE DI RELIGIONE",
+ "cf": "80014990107",
+ "affidamenti": 12,
+ "diretti": 5,
+ "quota_diretti": 41.7,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 12
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A0591F8FF2",
+   "data": "2024-05-17",
+   "oggetto": "AFFIDAMENTO EX ART. 54, COMMA 4, D.LGS. 50/2016 DEL SERVIZIO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI E FAMIGLIE BENEFICIARI DEL PROGETTO SAI C",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 244349.65,
+   "aggiudicato": 244349.65,
+   "durata_gg": 60.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9626681C76",
+   "data": "2023-02-08",
+   "oggetto": "PROGETTO SAI CATEGORIA ORDINARI 2023. AFFIDAMENTO EX ART. 54, COMMA 4, D.LGS. 50/2016 DEL SERVIZIO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI E F",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1462092.18,
+   "aggiudicato": 1462092.18,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "9088245108",
+   "data": "2022-02-02",
+   "oggetto": "PROGETTO SAI CATEGORIA ORDINARI 2022. AFFIDAMENTO EX ART. 54, COMMA 4, D.LGS. 50/2016 DEL SERVIZIO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI E F",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1282537.0,
+   "aggiudicato": 1282537.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "A048C011D3",
+   "data": "2021-08-23",
+   "oggetto": "AFFIDAMENTO EX ART. 54, COMMA 4, D.LGS. 50/2016 DEL SERVIZIO PER LA REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI E FAMIGLIE BENEFICIARI DEL PROGETTO SAI C",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 240343.92,
+   "aggiudicato": 240343.92,
+   "durata_gg": 59.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "8832239232",
+   "data": "2021-08-23",
+   "oggetto": "REALIZZAZIONE DI PROGETTI DI ACCOGLIENZA INTEGRATA IN FAVORE DI ADULTI E FAMIGLIE BENEFICIARI DEL PROGETTO SAI (GIÀ SIPROIMI) ORDINARI 2021 LUGLIO DICEMBRE 2021RTI AGORA",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 646539.2,
+   "aggiudicato": 646539.2,
+   "durata_gg": 180.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "688017218C",
+   "data": "2016-12-14",
+   "oggetto": "GESTIONE DI 13 POSTI AGGIUNTIVI PROGETTI ORDINARI NELL'AMBITO DEL PROGRAMMA NAZIONALE PER L'ACCOGLIENZA E L'ASSISTENZA A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONA",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 97370.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6877940FA0",
+   "data": "2016-12-12",
+   "oggetto": "SPRAR GESTIONE N. 11 POSTI A FAVORE DI NUCLEI FAMIGLIARI AFGHANI COLLABORATORI DELLA MISSIONE MILITARE ITALIANA ISAF - PERIODO 1 GENNAIO 2016 - 31 DICEMBRE 2016 - FONDAZIONE AUXILI",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 46970.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "666556456B",
+   "data": "2016-06-15",
+   "oggetto": "SPRAR -PROSECUZIONE DEL PROGRAMMA NAZIONALE PER L'ACCOGLIENZA E L'ASSISTENZA A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE E UMANITARIA - FONDAZIONE AUXILIUM",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 896587.2,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6478236975",
+   "data": "2015-12-29",
+   "oggetto": "SPRAR - PRESA D'ATTO E MODALITA' DI UTILIZZO DEI FONDI ASSEGNATI AL COMUNE DI GENOVA PER LA GESTIONE DI N. 46 POSTI AGGIUNTIVI PROGETTI ORDINARI NELL'AMBITO DEL PROGRAMMA NAZIONALE",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 166075.0,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "6342255265",
+   "data": "2015-08-26",
+   "oggetto": "ASSEGNAZIONE AI SENSI DELL'ART. 57 COMMA 2 LETT. B) DEL D.LGS. 163/2006 ALLA FONDAZIONE AUXILIUM DELLA GESTIONE NELL'AMBITO DEL PROGETTO SPRAR DI N. 11 POSTI A FAVORE DI NUCLEI FAM",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 140140.0,
+   "aggiudicato": 140140.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "63517849F7",
+   "data": "2015-08-19",
+   "oggetto": "SPRAR ORDINARI II SEM AUXILIUM RESIDENZIALE",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 448293.6,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "61796432BA",
+   "data": "2015-05-13",
+   "oggetto": "PROGRAMMA NAZIONALE PER L'ACCOGLIENZA E L'ASSISTENZA A FAVORE DI RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE E UMANITARIA - CATEGORIE ORDINARIE - GENNAIO-GIUGNO 2015 AUXILI",
+   "amministrazione": "COMUNE DI GENOVA",
+   "ente": "AUXILIUM FONDAZIONE DI RELIGIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 458793.6,
+   "aggiudicato": 108667.21,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

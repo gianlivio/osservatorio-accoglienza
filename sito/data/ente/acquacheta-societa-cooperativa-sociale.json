@@ -1,0 +1,190 @@
+{
+ "nome": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+ "cf": "04111370401",
+ "affidamenti": 9,
+ "diretti": 7,
+ "quota_diretti": 77.8,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RIMINI",
+   "affidamenti": 5
+  },
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B52BDD3CFB",
+   "data": "2025-01-29",
+   "oggetto": "ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47479.0,
+   "aggiudicato": 47479.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "B3BD256BD4",
+   "data": "2024-10-18",
+   "oggetto": "CONVENZIONE IN ADESIONE AD ACCORDO QUADRO PER GESTIONE CENTRO ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI (SOC. COOP. SOCIALE ACQUACHETA)",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 501510.0,
+   "aggiudicato": 501510.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B2A03C6393",
+   "data": "2024-07-29",
+   "oggetto": "GESTIONE TEMPORANEA DI CENTRI DI ACCOGLIENZA E ASSISTENZA DESTINATI A MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 2507856.6,
+   "aggiudicato": 501510.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "A043D95A93",
+   "data": "2023-12-22",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 51503.0,
+   "aggiudicato": 51503.0,
+   "durata_gg": 120.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9689536A0D",
+   "data": "2023-03-03",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GUERRA IN UCRAINA",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 253621.0,
+   "aggiudicato": 253621.0,
+   "durata_gg": 305.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9580150DDD",
+   "data": "2022-12-29",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE - GUERRA IN UCRAINA",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49893.0,
+   "aggiudicato": 49893.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9235600239",
+   "data": "2022-05-13",
+   "oggetto": "OSPITALITÀ MIGRANTI RICHIIEDENTI PROTEZIONE INTERNAZIONALE - GUERRA IN UCRAINA",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 185086.0,
+   "aggiudicato": 185086.0,
+   "durata_gg": 250.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RIMINI"
+  },
+  {
+   "cig": "9118478616",
+   "data": "2022-02-28",
+   "oggetto": "CONVENZIONE CON COOP. SOCIALE ACQAUCHETA SERVIZI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 851602.8,
+   "aggiudicato": 851602.8,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8896857EA4",
+   "data": "2021-09-13",
+   "oggetto": "ACCORDO QUADRO SERVIZI ACCOGLIENZA MIGRANTI UNITÀ ABITATIVE",
+   "amministrazione": "PREFETTURA DI RIMINI",
+   "ente": "ACQUACHETA SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 9686387.5,
+   "aggiudicato": 357292.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

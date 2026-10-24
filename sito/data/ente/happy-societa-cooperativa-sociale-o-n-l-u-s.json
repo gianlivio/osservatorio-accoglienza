@@ -1,0 +1,106 @@
+{
+ "nome": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+ "cf": "03938000613",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B231A9DE88",
+   "data": "2024-06-24",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI IN STRUTTURE DI ACCOGLIENZA. RIDETERMINAZIONE DELLA SPESA DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 816 DEL 16/05/2024 - HAPPY SO",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45050.0,
+   "aggiudicato": 45050.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B1A6132B62",
+   "data": "2024-05-15",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI IN STRUTTURE DI ACCOGLIENZA. RIDETERMINAZIONE DELLA SPESA DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 687 DEL 02/05/2024 - HAPPY SO",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 14100.0,
+   "aggiudicato": 14100.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B163F259D1",
+   "data": "2024-04-24",
+   "oggetto": "AFFIDAMENTO DIRETTO DEL SERVIZIO DI ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRASAI A FAVORE DI HAPPY SOCIETA' COOPERATIVA SOCIALE ONLUS. IMPEGNO DI SPESA PRESUNTO",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 45714.29,
+   "aggiudicato": 45714.29,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B031BBEC72",
+   "data": "2024-01-31",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75500.0,
+   "aggiudicato": 75500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "B02B6605D6",
+   "data": "2024-01-30",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI PAVIA",
+   "ente": "HAPPY - SOCIETA' COOPERATIVA SOCIALE O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6190.47,
+   "aggiudicato": 6190.47,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PAVIA"
+  }
+ ]
+}

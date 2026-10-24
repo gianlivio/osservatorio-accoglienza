@@ -1,0 +1,59 @@
+{
+ "nome": "LONGO VITO",
+ "cf": "04764520658",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6525A0A0B",
+   "data": "2025-04-03",
+   "oggetto": "SISTEMA DI ACCOGLIENZA INTEGRATA - SERVIZIO DI REVISIONE CONTABILE",
+   "amministrazione": "COMUNE DI TRABIA",
+   "ente": "LONGO VITO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 9000.0,
+   "aggiudicato": 9000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "B1F8111281",
+   "data": "2024-06-05",
+   "oggetto": "FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO (FNPSA) - PROROGA DEL PROGETTO CODICE: PROG-1662-PR-1 IN SCADENZA AL 31 MAGGIO 2024 E DIFFERITO AL 31/06/2024- IMPEGNO DI SP",
+   "amministrazione": "COMUNE DI TRABIA",
+   "ente": "LONGO VITO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 350.0,
+   "aggiudicato": 350.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

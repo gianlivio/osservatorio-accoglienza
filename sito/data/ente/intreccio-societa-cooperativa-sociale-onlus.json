@@ -1,0 +1,38 @@
+{
+ "nome": "INTRECCIO SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+ "cf": "03472520984",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "92577698A7",
+   "data": "2022-05-30",
+   "oggetto": "SERVIZIO GESTIONE CENTRI ACCOGLIENZA PROFUGHI UCRAINI",
+   "amministrazione": "AZIENDA TERRITORIALE PER I SERVIZI ALLA PERSONA",
+   "ente": "INTRECCIO SOCIETA' COOPERATIVA SOCIALE  ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 297399.0,
+   "aggiudicato": 297339.0,
+   "durata_gg": 214.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BRESCIA"
+  }
+ ]
+}

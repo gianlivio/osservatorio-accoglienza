@@ -1,0 +1,38 @@
+{
+ "nome": "ILDEBRANDO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01379060534",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GROSSETO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "68908079D1",
+   "data": "2016-11-17",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE - PERIODO 01/12/2016-28/02/2017 - ILDEBRANDO COOP.VA SOCIALE",
+   "amministrazione": "PREFETTURA",
+   "ente": "ILDEBRANDO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 47520.0,
+   "aggiudicato": 47520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GROSSETO"
+  }
+ ]
+}

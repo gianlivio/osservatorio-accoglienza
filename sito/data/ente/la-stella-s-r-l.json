@@ -1,0 +1,33 @@
+{
+ "nome": "LA STELLA S.R.L.",
+ "cf": "05734970725",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "739947826A",
+   "data": "2018-02-23",
+   "oggetto": "MANUTENZIONE ORDINARIA INFISSI INTERNI ED ESTERNI TINTEGGIATURE, PAVIMENTI E RIVESTIMENTI INTERNI ED ESTERNI, SEGNALETICA STRADALE, STRUTTURE DI COPERTURA, IMPIANTO IDRICO-FOGNANTE",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "LA STELLA S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 87128.27,
+   "aggiudicato": 49837.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

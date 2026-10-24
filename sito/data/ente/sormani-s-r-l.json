@@ -1,0 +1,38 @@
+{
+ "nome": "SORMANI S.R.L",
+ "cf": "02375420417",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PESARO E URBINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4E25D468B",
+   "data": "2024-12-18",
+   "oggetto": "FORNITURA MATERIALE INFORMATICO E DI CANCELLERIA",
+   "amministrazione": "PREFETTURA UTG PESARO E URBINO",
+   "ente": "SORMANI S.R.L",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10845.6,
+   "aggiudicato": 10845.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PESARO E URBINO"
+  }
+ ]
+}

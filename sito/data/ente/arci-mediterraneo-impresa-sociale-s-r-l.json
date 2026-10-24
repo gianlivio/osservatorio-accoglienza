@@ -1,0 +1,79 @@
+{
+ "nome": "ARCI MEDITERRANEO IMPRESA SOCIALE S.R.L.",
+ "cf": "06320240630",
+ "affidamenti": 3,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9A2319F13",
+   "data": "2025-12-17",
+   "oggetto": "SERVIZI SOCIALI SIA SAN GIORGIO A CREMANO",
+   "amministrazione": "COMUNE DI SAN GIORGIO A CREMANO",
+   "ente": "ARCI MEDITERRANEO IMPRESA SOCIALE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10875000.0,
+   "aggiudicato": 10875000.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B376F593B6",
+   "data": "2024-10-17",
+   "oggetto": "ACCORDO QUADRO PER L'AFFIDAMENTO DELLE ATTIVITÀ DI ACCOGLIENZA INTEGRATA, SIA ORDINARIA SIA RELATIVO AMPLIAMENTO, NELL'AMBITO DELLA RETE SAI (SISTEMA ACCOGLIENZA INTEGRAZIONE) - 20",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "ARCI MEDITERRANEO IMPRESA SOCIALE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3256420.5,
+   "aggiudicato": 2373172.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B29CAA0A82",
+   "data": "2024-07-29",
+   "oggetto": "PROCEDURA APERTA TELEMATICA TRAMITE SARDEGNA CAT PER L'AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA PER I RICHIEDENTI E I BENEFICIARI DI PROTEZIONE INTERNAZIONALE E PER I TITOLARI DEL PE",
+   "amministrazione": "COMUNE DI PORTO TORRES",
+   "ente": "ARCI MEDITERRANEO IMPRESA SOCIALE S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1479722.77,
+   "aggiudicato": 1431238.08,
+   "durata_gg": 27.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  }
+ ]
+}

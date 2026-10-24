@@ -1,0 +1,38 @@
+{
+ "nome": "RETE - SOCIETA' A RESPONSABILITA' LIMITATA UNIPERSONALE",
+ "cf": "00932720329",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6400289590",
+   "data": "2015-09-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "RETE - SOCIETA' A RESPONSABILITA' LIMITATA UNIPERSONALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60109.09,
+   "aggiudicato": 60109.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

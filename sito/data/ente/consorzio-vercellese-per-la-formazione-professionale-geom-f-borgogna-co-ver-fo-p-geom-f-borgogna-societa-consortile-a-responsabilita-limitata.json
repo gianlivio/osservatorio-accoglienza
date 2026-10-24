@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO VERCELLESE PER LA FORMAZIONE PROFESSIONALE GEOM F. BORGOGNA (CO.VER.FO.P. GEOM F. BORGOGNA) SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+ "cf": "01972210023",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8258035A0E",
+   "data": "2020-03-30",
+   "oggetto": "SERVIZIO PER L'EROGAZIONE DI PERCORSI DI FORMAZIONE CIVICA DEI RICHIEDENTI ASILO E RIFUGIATI OSPITI NEI CAS DELLA REGIONE PIEMONTE BENEFICIARI DEL PROGETTO FORWORK",
+   "amministrazione": "AGENZIA PIEMONTE LAVORO",
+   "ente": "CONSORZIO VERCELLESE PER LA FORMAZIONE PROFESSIONALE GEOM F. BORGOGNA (CO.VER.FO.P. GEOM F. BORGOGNA) SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 105000.0,
+   "aggiudicato": 102900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

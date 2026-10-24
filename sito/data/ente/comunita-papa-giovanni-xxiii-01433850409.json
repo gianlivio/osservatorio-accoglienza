@@ -1,0 +1,38 @@
+{
+ "nome": "COMUNITA PAPA GIOVANNI XXIII",
+ "cf": "01433850409",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VICENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B16CC58F42",
+   "data": "2024-04-29",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI UNITA' ABITATIVE 2024",
+   "amministrazione": "PREFETTURA DI VICENZA -U.T.G.-",
+   "ente": "COMUNITA PAPA GIOVANNI XXIII",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 126000.0,
+   "aggiudicato": 126000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "VICENZA"
+  }
+ ]
+}

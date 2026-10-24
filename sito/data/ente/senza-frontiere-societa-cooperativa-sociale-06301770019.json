@@ -1,0 +1,38 @@
+{
+ "nome": "SENZA FRONTIERE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "06301770019",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B78E8EEC0A",
+   "data": "2025-07-08",
+   "oggetto": "AFFIDAMENTO DIRETTO MEPA, PER IL SERVIZIO DI MEDIAZIONE INTERCULTURALE PER IL PROGETTO FAMI SALUS - PIANO DI SALUTE E ACCOGLIENZA TRAMITE IL LAVORO UNITO DEI SERVIZI. CUP J69I23002",
+   "amministrazione": "AZIENDA SANITARIA LOCALE CITTA DI TORINO",
+   "ente": "SENZA FRONTIERE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 31531.5,
+   "aggiudicato": 31531.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

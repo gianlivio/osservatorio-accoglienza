@@ -1,0 +1,38 @@
+{
+ "nome": "CO.RE.(COOPERAZIONE E RECIPROCITA')- CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "07721970635",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9110070B94",
+   "data": "2022-05-12",
+   "oggetto": "ACCOGLIENZA RIFUGIATI E RICHIEDENTI ASILO",
+   "amministrazione": "COMUNE DI NAPOLI",
+   "ente": "CO.RE.(COOPERAZIONE E RECIPROCITA')- CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8603805.91,
+   "aggiudicato": 8603805.91,
+   "durata_gg": 911.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

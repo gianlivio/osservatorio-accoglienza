@@ -1,0 +1,59 @@
+{
+ "nome": "COOPERATIVA SOCIALE VALMARECCHIA - SOCIETA' COOPERATIVA IN LIQUID AZIONE",
+ "cf": "02229930512",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6628056CD4",
+   "data": "2016-01-07",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI APRILE GIUGNO 2016 VALMARECCHIA",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "COOPERATIVA SOCIALE VALMARECCHIA - SOCIETA' COOPERATIVA IN LIQUID AZIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 43680.0,
+   "aggiudicato": 43680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "65200378BC",
+   "data": "2015-06-30",
+   "oggetto": "CONVENZIONE URGENTE ACCOGLIENZA MIGRANTI GENNAIO MARZO 2016 (VALMARECCHIA)",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "COOPERATIVA SOCIALE VALMARECCHIA - SOCIETA' COOPERATIVA IN LIQUID AZIONE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 43680.0,
+   "aggiudicato": 43680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "AREZZO"
+  }
+ ]
+}

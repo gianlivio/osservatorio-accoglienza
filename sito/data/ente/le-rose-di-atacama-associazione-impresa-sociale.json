@@ -1,0 +1,74 @@
+{
+ "nome": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
+ "cf": "96068490760",
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B30428BC3B",
+   "data": "2024-09-13",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA AI SENSI DEGLI ARTICOLI 70 E 71 DEL DECRETO LEGISLATIVO 31 MARZO 2023 N. 36 PER L'AFFIDAMENTO DEI SERVIZI DI PRIMA ACCOGLIENZA E SERVIZI CONNESSI AI",
+   "amministrazione": "PREFETTURA DI POTENZA",
+   "ente": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1254059.7,
+   "aggiudicato": 476105.64,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "B2555C2155",
+   "data": "2024-07-04",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74666.2,
+   "aggiudicato": 74666.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B2555C2155",
+   "data": "2024-07-04",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 74666.2,
+   "aggiudicato": 74666.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  }
+ ]
+}

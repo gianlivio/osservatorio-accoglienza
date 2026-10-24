@@ -1,0 +1,59 @@
+{
+ "nome": "FONDAZIONE SAN GIOVANNI BATTISTA",
+ "cf": "00240130880",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8504677979",
+   "data": "2020-11-27",
+   "oggetto": "PROGETTO FAMIGLIA AMICA",
+   "amministrazione": "COMUNE DI RAGUSA",
+   "ente": "FONDAZIONE SAN GIOVANNI BATTISTA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1430000.0,
+   "aggiudicato": 1358500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  },
+  {
+   "cig": "7799898772",
+   "data": "2019-02-13",
+   "oggetto": "SERVIZI DI ACCOGLIENZA ED ASSISTENZA AI MIGRANTI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "FONDAZIONE SAN GIOVANNI BATTISTA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 555450.0,
+   "aggiudicato": 555450.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

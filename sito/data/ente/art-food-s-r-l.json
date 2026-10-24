@@ -1,0 +1,54 @@
+{
+ "nome": "ART & FOOD S.R.L.",
+ "cf": "03995980277",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B434A9226D",
+   "data": "2024-11-11",
+   "oggetto": "SERVIZIO DI CATERING IN OCCASIONE DEL CONVEGNO I VENT'ANNI DELLA RIVISTA DEPORTATE ESULI PROFUGHE / CONTRO LA VIOLENZA. 20 NOVEMBRE 2024",
+   "amministrazione": "UNIVERSITA' CA' FOSCARI VENEZIA",
+   "ente": "ART & FOOD S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 307.8,
+   "aggiudicato": 307.8,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B3EB3D1267",
+   "data": "2024-10-21",
+   "oggetto": "SERVIZIO DI CATERING PER IL CONVEGNO DAL TITOLO L'OSPITALITÀ COME FRONTIERA. LA GESTIONE DELLA VITA QUOTIDIANA NELL'ACCOGLIENZA DEI RICHIEDENTI ASILO DEL 16/12/2024",
+   "amministrazione": "UNIVERSITA' CA' FOSCARI VENEZIA",
+   "ente": "ART & FOOD S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 806.75,
+   "aggiudicato": 806.75,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

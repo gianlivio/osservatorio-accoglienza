@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO SOCIALE SERVIZI QUALIFICATI ONLUS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02634810812",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7277989285",
+   "data": "2017-12-29",
+   "oggetto": "PROGETTO SPRAR-MINORI DAL 01/07/2017 AL 30/06/2020",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "CONSORZIO SOCIALE SERVIZI QUALIFICATI ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4247880.24,
+   "aggiudicato": 4247880.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

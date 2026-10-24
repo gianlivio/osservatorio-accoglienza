@@ -1,0 +1,107 @@
+{
+ "nome": "AMP IMMOBILIARE S.R.L.",
+ "cf": "01784050906",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B47EF8CF15",
+   "data": "2024-11-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO PRESSO UNITÀ IMMOBILIARE FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "AMP IMMOBILIARE S.R.L.",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 119123.7,
+   "aggiudicato": 119123.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "B47EE202B7",
+   "data": "2024-11-28",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA RICHIEDENTI ASILO PRESSO CENTRI COLLETTIVI FINO A 90 POSTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "AMP IMMOBILIARE S.R.L.",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 208507.86,
+   "aggiudicato": 208507.86,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "B284CE461E",
+   "data": "2024-07-19",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "AMP IMMOBILIARE S.R.L.",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 406523.7,
+   "aggiudicato": 406523.7,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "966497098C",
+   "data": "2022-09-15",
+   "oggetto": "AMP IMMOBILIARE SRL ATTO AGGIUNTIVO INCREMENTO 50% PRESTAZIONI PREVISTE DA CONVENZIONE PER SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRES",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "AMP IMMOBILIARE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 466484.51,
+   "aggiudicato": 466484.51,
+   "durata_gg": 320.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "9659917FAC",
+   "data": "2022-08-31",
+   "oggetto": "AMP IMMOBILIARE SRL ATTO AGGIUNTIVO QUINTO D'OBBLIGO SU CONVENZIONE PER SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIV",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "AMP IMMOBILIARE S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 165044.54,
+   "aggiudicato": 165044.54,
+   "durata_gg": 335.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "ARCI NAPOLI",
+ "cf": "07839331217",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "72751782CF",
+   "data": "2018-01-15",
+   "oggetto": "INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE PER L'AFFIDAMENTO DELLA GESTIONE ED ORGANIZZAZIONE DEI SERVIZI DI ACCOGLIENZA SPRAR",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA TRA I COMUNI DI PORTICI-ERCOLANO-SAN GIORGIO A CREMANO E SAN SEBASTIANO AL VESUVIO",
+   "ente": "ARCI NAPOLI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 627991.5,
+   "aggiudicato": 470995.13,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

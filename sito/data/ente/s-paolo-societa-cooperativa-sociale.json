@@ -1,0 +1,38 @@
+{
+ "nome": "S.PAOLO - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "04687270654",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B695DAA0D2",
+   "data": "2025-04-23",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) DI ETÀ NON INFERIORE AI 14 ANNI AI SENSI DELL'ART. 19, COMMA 3-BIS DEL D.LGS. 18 AGOSTO 2015, N.142 E ",
+   "amministrazione": "PREFETTURA",
+   "ente": "S.PAOLO - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 139200.0,
+   "aggiudicato": 139200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

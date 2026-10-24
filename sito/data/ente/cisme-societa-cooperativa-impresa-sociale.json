@@ -1,0 +1,86 @@
+{
+ "nome": "CISME SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+ "cf": "00578690802",
+ "affidamenti": 4,
+ "diretti": 4,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO CALABRIA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B209C4FFA2",
+   "data": "2024-06-11",
+   "oggetto": "PROROGA CONVENZIONE CISME",
+   "amministrazione": "COMUNE DI BAGALADI",
+   "ente": "CISME SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 33665.75,
+   "aggiudicato": 33665.75,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "B1A053B717",
+   "data": "2024-05-13",
+   "oggetto": "PROROGA CONVENZIONE CISME",
+   "amministrazione": "COMUNE DI BAGALADI",
+   "ente": "CISME SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34787.95,
+   "aggiudicato": 34787.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "B1889C63CE",
+   "data": "2024-05-07",
+   "oggetto": "PROROGA CONVENZIONE CISME",
+   "amministrazione": "COMUNE DI BAGALADI",
+   "ente": "CISME SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34787.95,
+   "aggiudicato": 34787.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  },
+  {
+   "cig": "B0D39993D7",
+   "data": "2024-03-14",
+   "oggetto": "PROGETTO SAI",
+   "amministrazione": "COMUNE DI BAGALADI",
+   "ente": "CISME SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 136720.37,
+   "aggiudicato": 136720.37,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO CALABRIA"
+  }
+ ]
+}

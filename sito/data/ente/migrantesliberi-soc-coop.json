@@ -1,0 +1,38 @@
+{
+ "nome": "MIGRANTESLIBERI SOC COOP",
+ "cf": "07058670275",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARLETTA-ANDRIA-TRANI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B28244723F",
+   "data": "2024-07-19",
+   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETT. B) DEL D.LGS. N.36/2023, MEDIANTE RICORSO AL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (MEPA) ALLA COOPERATIVA SO",
+   "amministrazione": "COMUNE DI ANDRIA",
+   "ente": "MIGRANTESLIBERI SOC COOP",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6132.3,
+   "aggiudicato": 6132.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BARLETTA-ANDRIA-TRANI"
+  }
+ ]
+}

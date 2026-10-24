@@ -1,0 +1,33 @@
+{
+ "nome": "ASSOCIAZIONE NIGELLA",
+ "cf": "93054210047",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "6388789377",
+   "data": "2016-04-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ADESIONE ACCORDO QUADRO GARA DEL 27 APRILE 2015",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "ASSOCIAZIONE NIGELLA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 894250.0,
+   "aggiudicato": 894250.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

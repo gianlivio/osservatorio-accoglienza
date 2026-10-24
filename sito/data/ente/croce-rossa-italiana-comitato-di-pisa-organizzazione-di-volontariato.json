@@ -1,0 +1,218 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+ "cf": "93081060506",
+ "affidamenti": 11,
+ "diretti": 8,
+ "quota_diretti": 72.7,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
+  }
+ },
+ "province": [
+  {
+   "provincia": "PISA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B99EC703B3",
+   "data": "2025-12-17",
+   "oggetto": "SERVIZIO GESTIONE CENTRI DI ACCOGLIENZA PER MIGRANTI IN STRUTTURE ABITATIVE PROV PISA",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 706806.0,
+   "aggiudicato": 353340.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  },
+  {
+   "cig": "B923DB21E9",
+   "data": "2025-11-18",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI PRIMA ACCOGLIENZA PER MIGRANTI IN CAS COSTITUITI DA SINGOLE UNITA' ABITATIVE - PROV. DI PISA",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  },
+  {
+   "cig": "B865372C8A",
+   "data": "2025-09-25",
+   "oggetto": "CONVENZIONE BIENNALE CENTRI COLLETTIVI PER MIGRANTI FINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1204063.08,
+   "aggiudicato": 1204063.08,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  },
+  {
+   "cig": "B359388BBC",
+   "data": "2024-10-09",
+   "oggetto": "GARA EUROPEA A PROCEDURA APERTA FINALIZZATA ALLA CONCLUSIONE DI UN ACCORDO QUADRO CON PIÙ OPERATORI ECONOMICI PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRI COLLETTIVI DI ACCO",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 11289450.0,
+   "aggiudicato": 4515236.55,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  },
+  {
+   "cig": "9495679234",
+   "data": "2022-12-06",
+   "oggetto": "GARA PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L' AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEI CAS PER MIGRANTI - CENTRI CAPIENZA MASSIMA 50 POSTI",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8418199.4,
+   "aggiudicato": 1237855.93,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "892369306D",
+   "data": "2021-09-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO CAS IN DISPONIBILTIÀ PREFETTURA 1.10.2021-31.12.2021",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 131783.3,
+   "aggiudicato": 131783.3,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PISA"
+  },
+  {
+   "cig": "8704076EBA",
+   "data": "2021-04-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESS CENTRI COLLETTIVI OLTRE 50 POSTI 11.04.2021-10.04.2022 - CRI PISA",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 913869.0,
+   "aggiudicato": 913869.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "8704074D14",
+   "data": "2021-04-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESOS CENTRI COLLETTIVI FINO A 50 POSTI 11.04.2021-10.04.2022 - CRI PISA",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 476844.5,
+   "aggiudicato": 476844.5,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "87040709C8",
+   "data": "2021-04-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO CAS 11.04.2021-10.04.2022 CRI PISA",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 249309.6,
+   "aggiudicato": 249309.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "861650440A",
+   "data": "2021-03-30",
+   "oggetto": "SERVIZIO ACCOGLIENZA RICHIEDENTI ASILO PRESSO STRUTTURE DEMANIALI REQUISITE 01.02-31.03.2021",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 70410.6,
+   "aggiudicato": 70410.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "689456248C",
+   "data": "2016-10-31",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI CRI PISA 1/11/16-31/12/16",
+   "amministrazione": "PREFETTURA DI PISA",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI PISA - ORGANIZZAZIONE DI VOLONTARIATO",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 760060.0,
+   "aggiudicato": 760060.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

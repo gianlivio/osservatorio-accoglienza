@@ -1,0 +1,111 @@
+{
+ "nome": "ISKRA COOPERATIVA SOCIALE",
+ "cf": "03281680656",
+ "affidamenti": 5,
+ "diretti": 1,
+ "quota_diretti": 20.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "POTENZA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8DDE13121",
+   "data": "2025-10-31",
+   "oggetto": "GESTIONE DI UN PROGRAMMA TERRITORIALE DI ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO ALL AUTONOMIA DEI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI MISSANELLO",
+   "ente": "ISKRA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 43486.83,
+   "aggiudicato": 43486.83,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "B777F88FC4",
+   "data": "2025-07-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI UCRAINI IN CONSEGUENZA DI EVENTI BELLICI",
+   "amministrazione": "PREFETTURA",
+   "ente": "ISKRA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 108977.0,
+   "aggiudicato": 108977.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B4DBFA31CF",
+   "data": "2024-12-18",
+   "oggetto": "CUC COMUNITA' MONTANA VALLO DI DIANO - CENTRO DI COSTO: COMUNE DI SAN PIETRO AL TANAGRO - BANDO DI GARA MEDIANTE PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS. 36/2023 PER L'IND",
+   "amministrazione": "COMUNE DI SAN PIETRO AL TANAGRO",
+   "ente": "ISKRA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 291841.99,
+   "aggiudicato": 291841.99,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B01D040E1B",
+   "data": "2024-01-25",
+   "oggetto": "COPROGETTAZIONE MINORI STRANIERI",
+   "amministrazione": "COMUNE DI GALLICCHIO",
+   "ente": "ISKRA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 478369.1,
+   "aggiudicato": 478369.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  },
+  {
+   "cig": "B01C201C82",
+   "data": "2024-01-25",
+   "oggetto": "CO PROGETTAZIONE MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI GALLICCHIO",
+   "ente": "ISKRA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 478369.1,
+   "aggiudicato": 478369.1,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "POTENZA"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "nome": "AUTOSERVIZI SIBERIANA SOC. COOP. O PER ESTESO AUTOSERVIZI SIBERIANA SOCIETA' COOPERATIVA",
+ "cf": "01632180814",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B19B3977DD",
+   "data": "2024-05-10",
+   "oggetto": "CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUSA ANNO 2023.",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "AUTOSERVIZI SIBERIANA SOC. COOP. O PER ESTESO AUTOSERVIZI SIBERIANA SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16165.4,
+   "aggiudicato": 16165.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B10A684BAA",
+   "data": "2024-03-29",
+   "oggetto": "NOLEGGIO PULLMAN CON CONDUCENTE PER TRASPORTO MIGRANTI",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "AUTOSERVIZI SIBERIANA SOC. COOP. O PER ESTESO AUTOSERVIZI SIBERIANA SOCIETA' COOPERATIVA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15720.93,
+   "aggiudicato": 15720.93,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

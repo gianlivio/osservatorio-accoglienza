@@ -1,0 +1,95 @@
+{
+ "nome": "MILANO SOLIDALE ONLUS SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "97707780157",
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 1,
+   "quota_diretti": 33.3
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PAVIA",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "71894509D1",
+   "data": "2017-07-18",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI MIGRANTI",
+   "amministrazione": "PREFETTURA DI LODI",
+   "ente": "MILANO SOLIDALE ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 436080.0,
+   "aggiudicato": 436080.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "6676370ACE",
+   "data": "2015-12-18",
+   "oggetto": "PROROGA SERVIZIO ACCOGLIENZA MIGRANTI DAL 1.04 AL 30.6.2016 - CRI STRADELLA",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "MILANO SOLIDALE ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 242604.0,
+   "aggiudicato": 242604.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "6314487F80",
+   "data": "2015-06-30",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI - AFF. IN URGENZA - PERIODO DAL 1 LUGLIO AL 31 AGOSTO 2015",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "MILANO SOLIDALE ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 60000.0,
+   "aggiudicato": 60000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  },
+  {
+   "cig": "6288432240",
+   "data": "2015-06-11",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI - AFF. IN URGENZA - PERIODO DAL 11 GIUGNO 2015 AL 31 AGOSTO 2015 - DITTA MILANO SOLIDALE ONLUS DI ROZZANO (MI)",
+   "amministrazione": "PREFETTURA U.T.G. DI PAVIA",
+   "ente": "MILANO SOLIDALE ONLUS SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 110700.0,
+   "aggiudicato": 110700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "PAVIA"
+  }
+ ]
+}

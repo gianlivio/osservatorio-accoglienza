@@ -1,0 +1,117 @@
+{
+ "nome": "RIFREDI INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "05663940483",
+ "affidamenti": 5,
+ "diretti": 1,
+ "quota_diretti": 20.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7365DD924",
+   "data": "2025-06-11",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "RIFREDI INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 188386.56,
+   "aggiudicato": 188386.56,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "9673404981",
+   "data": "2023-03-13",
+   "oggetto": "AFFIDAMENTO DEI SERVIZI DI ACCOGLIENZA INTEGRATA NELL'AMBITO DELLA RETE SAI (SISTEMA ACCOGLIENZA E INTEGRAZIONE) IN FAVORE DI MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "RIFREDI INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 29842545.6,
+   "aggiudicato": 8897917.5,
+   "durata_gg": 915.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "8573260DF3",
+   "data": "2020-12-29",
+   "oggetto": "SERVIZI ACCOGLIENZA SIPROIMI MSNA - POSTI AGGIUNTIVI (AFFIDAMENTO TEMPORANEO)",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "RIFREDI INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 529200.0,
+   "aggiudicato": 529200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "8465735187",
+   "data": "2020-11-06",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "RIFREDI INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 6036187.5,
+   "aggiudicato": 2816887.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "65175872F0",
+   "data": "2015-12-11",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI FIRENZE",
+   "ente": "RIFREDI INSIEME - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1017900.0,
+   "aggiudicato": 1017900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  }
+ ]
+}

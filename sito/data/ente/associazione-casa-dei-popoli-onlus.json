@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZIONE CASA DEI POPOLI ONLUS",
+ "cf": "97712910013",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8440332E4B",
+   "data": "2020-10-23",
+   "oggetto": "SERVIZIO PER 30 PERSONE E/O NUCLEI FAMIGLIARI PRESSO STRUTTURE COLLETTIVE E/O ALLOGGI MESSI A DISPOSIZIONE DAI CONCORRENTI - 31/01/2021-31/12/2022",
+   "amministrazione": "UNIONE DEI COMUNI NORD EST TORINO",
+   "ente": "ASSOCIAZIONE CASA DEI POPOLI ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1960352.16,
+   "aggiudicato": 980176.08,
+   "durata_gg": 1460.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

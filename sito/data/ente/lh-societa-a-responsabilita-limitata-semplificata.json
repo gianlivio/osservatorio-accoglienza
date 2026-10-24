@@ -1,0 +1,54 @@
+{
+ "nome": "LH SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+ "cf": "01424190112",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LA SPEZIA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7158978F85",
+   "data": "2017-07-20",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 1 AGOSTO -31 DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "LH SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 128483.28,
+   "aggiudicato": 128483.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  },
+  {
+   "cig": "7029826BEC",
+   "data": "2017-03-27",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI 1 APRILE -31 AGOSTO 2017",
+   "amministrazione": "PREFETTURA DI LA SPEZIA",
+   "ente": "LH SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 133836.75,
+   "aggiudicato": 102450.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "LA SPEZIA"
+  }
+ ]
+}

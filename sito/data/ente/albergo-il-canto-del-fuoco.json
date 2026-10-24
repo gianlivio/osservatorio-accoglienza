@@ -1,0 +1,38 @@
+{
+ "nome": "ALBERGO IL CANTO DEL FUOCO",
+ "cf": "02179140518",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6300917133",
+   "data": "2015-06-24",
+   "oggetto": "AVVISO PUBBLICO PER L'AFFIDAMENTO DEL SERVIZIO DI PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL TERRITORIO DELLA PROVINCIA DI AREZZO CON ESCLUS",
+   "amministrazione": "PREFETTURA DI AREZZO",
+   "ente": "ALBERGO IL CANTO DEL FUOCO",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 3356500.0,
+   "aggiudicato": 919094.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  }
+ ]
+}

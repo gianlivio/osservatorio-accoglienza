@@ -1,0 +1,38 @@
+{
+ "nome": "SOCIETÀ COOPERATIVA SOCIALE ARCOBALENO 86 ONLUS",
+ "cf": "00686770256",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BELLUNO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4DAF298FF",
+   "data": "2024-12-17",
+   "oggetto": "INSERIMENTO IN COMUNITÀ DI MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE DI LONGARONE",
+   "ente": "SOCIETÀ COOPERATIVA SOCIALE ARCOBALENO 86 ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 19613.34,
+   "aggiudicato": 19613.34,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BELLUNO"
+  }
+ ]
+}

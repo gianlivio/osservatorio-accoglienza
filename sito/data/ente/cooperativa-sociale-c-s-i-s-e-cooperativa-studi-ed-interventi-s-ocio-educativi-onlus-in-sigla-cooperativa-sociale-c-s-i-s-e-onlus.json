@@ -1,0 +1,54 @@
+{
+ "nome": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
+ "cf": "03118850720",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7FFB09B17",
+   "data": "2025-08-21",
+   "oggetto": "SERVIZIO DI MEDIAZIONE E SPORTELLO PER L'INTEGRAZIONE SOCIOSANITARIA E CULTURALE PER GLI IMMIGRATI",
+   "amministrazione": "UNIONE DEI COMUNI MONTEDORO",
+   "ente": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9.5,
+   "aggiudicato": 9.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "B7FFFBCBD6",
+   "data": "2025-08-20",
+   "oggetto": "SPORTELLO PER L'INTEGRAZIONE SOCIO-SANITARIA E CULTURALE PER GLI IMMIGRATI E CENTRO INTERCULTURALE NEI COMUNI DELL'AMBITO TERRITORIALE SOCIALE DI GIOIA DEL COLLE.",
+   "amministrazione": "UNIONE DEI COMUNI MONTEDORO",
+   "ente": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 107408.4,
+   "aggiudicato": 102403.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BARI"
+  }
+ ]
+}

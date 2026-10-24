@@ -1,0 +1,121 @@
+{
+ "nome": "RISTORANTE BOSCHETTI S.R.L.",
+ "cf": "01425860176",
+ "affidamenti": 5,
+ "diretti": 2,
+ "quota_diretti": 40.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "BRESCIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B84ABE66EE",
+   "data": "2025-09-18",
+   "oggetto": "CONVENZIONE ANNUALE DA 1 SETTEMBRE 2025 A 31 AGOSTO 2026 ACCOGLIENZA MIGRANTI CREMONA",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "RISTORANTE BOSCHETTI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2262182.0,
+   "aggiudicato": 2262182.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "B5E319F232",
+   "data": "2025-03-05",
+   "oggetto": "ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI BRESCIA",
+   "ente": "RISTORANTE BOSCHETTI S.R.L.",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 356726.0,
+   "aggiudicato": 356726.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BRESCIA"
+  },
+  {
+   "cig": "B506B1B5F7",
+   "data": "2024-12-31",
+   "oggetto": "PROCEDURA APERTA PER LA CONCLUSIONE DI ACCORDO QUADRO TRIENNALE PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI IN CENTRI COLLETTIVI CON CAPIENZA TRA 101 E 300 POSTI NEL TER",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "RISTORANTE BOSCHETTI S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 10603980.0,
+   "aggiudicato": 6786547.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9990375E3E",
+   "data": "2023-08-31",
+   "oggetto": "MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI IN STRUTTURE DI ACCOGLIENZA. AFFIDAMENTO DIRETTO DEL SERVIZIO IN SITUAZIONE EMERGENZIALE PRESSO LA STRUTTURA RISTORANTE BOSCHETTI",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "RISTORANTE BOSCHETTI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 51366.0,
+   "aggiudicato": 51366.0,
+   "durata_gg": 47.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "95422512A2",
+   "data": "2022-12-15",
+   "oggetto": "APPROVAZIONE DELLA SPESA PER L'INSERIMENTO DI MINORI STRANIERI NON ACCOMPAGNATI (MSNA) EXTRA SAI DATA LA SITUAZIONE EMERGENZIALE PRESSO LA STRUTTURA RISTORANTE BOSCHETTI SRL, EX HE",
+   "amministrazione": "COMUNE DI CREMONA",
+   "ente": "RISTORANTE BOSCHETTI S.R.L.",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 160000.0,
+   "aggiudicato": 160000.0,
+   "durata_gg": 79.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  }
+ ]
+}

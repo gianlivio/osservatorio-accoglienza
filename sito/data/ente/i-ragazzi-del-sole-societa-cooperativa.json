@@ -1,0 +1,54 @@
+{
+ "nome": "I  RAGAZZI  DEL  SOLE  SOCIETA'  COOPERATIVA",
+ "cf": "01638960623",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "AVELLINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "A042E19363",
+   "data": "2023-12-22",
+   "oggetto": "SOCIETA' COOPERATIVA 'I RAGAZZI DEL SOLE' CAS ROTONDI-AFFIDAMENTO SERVIZIO DI PRIMA ACCOGLIENZA RICHIEDENTI ASILO PR4OVINCIA DI AVELLINO 01.10.2023-31.12.2023",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "I  RAGAZZI  DEL  SOLE  SOCIETA'  COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 225556.56,
+   "aggiudicato": 225556.56,
+   "durata_gg": 92.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AVELLINO"
+  },
+  {
+   "cig": "9617669F85",
+   "data": "2023-01-25",
+   "oggetto": "AFFIDAMENTO DIRETTO SERVIZIO ACCOGLIENZA MIGRANTI IN PROVINCIA DI AVELLINO - SOCIETA' COOP. I RAGAZZI DEL SOLE - MANIFESTAZIONE D'INTERESSE DICEMBRE 2022",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "I  RAGAZZI  DEL  SOLE  SOCIETA'  COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 144182.25,
+   "aggiudicato": 144182.25,
+   "durata_gg": 89.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

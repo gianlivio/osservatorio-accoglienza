@@ -1,0 +1,182 @@
+{
+ "nome": "ORS ITALIA S.R.L.",
+ "cf": "14875441009",
+ "affidamenti": 8,
+ "diretti": 3,
+ "quota_diretti": 37.5,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SIENA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "SUD SARDEGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B85954F4AB",
+   "data": "2025-09-23",
+   "oggetto": "CONTRATTO GESTIONE CAS PER RICHIEDENTI ASILO DA 101 A 300 - AQ B22E9C0BC8",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 3098485.0,
+   "aggiudicato": 3098485.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "B8234152BD",
+   "data": "2025-09-08",
+   "oggetto": "CENTRI COLLETTIVI CON UNA CAPIENZA DA 51 FINO A 100 POSTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 16740360.0,
+   "aggiudicato": 4182900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B22E9C0BC8",
+   "data": "2024-06-21",
+   "oggetto": "PROCEDURA APERTA PER AFFIDAMENTO SERVIZIO ACCOGLIENZA MIGRANTI PRESSO CENTRI DA 101 A 300 POSTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 35828400.0,
+   "aggiudicato": 5618182.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SASSARI"
+  },
+  {
+   "cig": "B1CCF1F61D",
+   "data": "2024-05-22",
+   "oggetto": "ACCOGLIENZA MIGRANTI PRESSO CENTRI COSTITUITI DA UNITÀ ABITATIVE COLLETTIVE FINO A 300 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5274256.9,
+   "aggiudicato": 5274256.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "A04210EFF1",
+   "data": "2023-12-21",
+   "oggetto": "AFFIDAMENTO DIRETTO PER LA GESTIONE DEL SERVIZIO DI ACCOGLIENZA DEI MIGRANTI PRESSO IL CAS DEMANIALE DI MONASTIR",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 440423.2,
+   "aggiudicato": 440423.2,
+   "durata_gg": 62.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SUD SARDEGNA"
+  },
+  {
+   "cig": "8665078891",
+   "data": "2021-03-22",
+   "oggetto": "PROCEDURA DI GARA APERTA AI SENSI DELL'ART.60 DEL D.LGS. 50/2016 PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON PIU' OPERATORI ECONOMICI PER L'AFFIDAMENTO, NEL TERRITORIO DELLA PROVIN",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 4115309.0,
+   "aggiudicato": 2335970.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8664863725",
+   "data": "2021-03-22",
+   "oggetto": "PROCEDURA DI GARA APERTA AI SENSI DELL'ART.60 DEL D.LGS. 50/2016 PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON PIU' OPERATORI ECONOMICI PER L'AFFIDAMENTO, NEL TERRITORIO DELLA PROVIN",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 8307560.0,
+   "aggiudicato": 1188935.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7974399A39",
+   "data": "2019-07-23",
+   "oggetto": "GESTIONE E FUNZIONAMENTO DEL CENTRO STRAORDINARIO DI ACCOGLIENZA DEI MIGRANTI IN MONASTIR - CAGLIARI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "ORS ITALIA S.R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2741429.0,
+   "aggiudicato": 2069698.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

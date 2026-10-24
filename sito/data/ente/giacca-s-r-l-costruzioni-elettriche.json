@@ -1,0 +1,38 @@
+{
+ "nome": "GIACCA S.R.L. COSTRUZIONI ELETTRICHE",
+ "cf": "01905350227",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B718504A48",
+   "data": "2025-06-03",
+   "oggetto": "SERVIZI DI MANUTENZIONE E RIPARAZIONE DEGLI IMPIANTI ELETTRICI NON EROGABILI DIRETTAMENTE DALL'AMMINISTRAZIONE PROVINCIALE DA SVOLGERSI NEGLI APPARTAMENTI E RESIDENZE DESTINATI AI ",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "GIACCA S.R.L. COSTRUZIONI ELETTRICHE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 15000.0,
+   "aggiudicato": 15000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

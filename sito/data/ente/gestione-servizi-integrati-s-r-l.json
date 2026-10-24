@@ -1,0 +1,38 @@
+{
+ "nome": "GESTIONE SERVIZI INTEGRATI S.R.L.",
+ "cf": "09942990012",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B4EFB7C71C",
+   "data": "2024-12-24",
+   "oggetto": "SERVIZIO DI PULIZIA ED IGIENE AMBIENTALE PRESSO IL CENTRO DI PRIMA ACCOGLIENZA (C.P.A.) PER RICHIEDENTI ASILO SITO NEL COMUNE DI ISOLA DI CAPO RIZZUTO IN LOCALITÀ SANT’ANNA",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "GESTIONE SERVIZI INTEGRATI S.R.L.",
+   "procedura": "ND P1_20",
+   "diretto": false,
+   "modalita": "altro",
+   "base": 4932560.16,
+   "aggiudicato": 990891.82,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  }
+ ]
+}

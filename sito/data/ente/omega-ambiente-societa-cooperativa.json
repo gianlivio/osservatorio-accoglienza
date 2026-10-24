@@ -1,0 +1,38 @@
+{
+ "nome": "OMEGA AMBIENTE - SOCIETA' COOPERATIVA",
+ "cf": "06853351002",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8106897709",
+   "data": "2019-12-02",
+   "oggetto": "SERVIZIO DI PULIZIA LOCALI PREFETTURA - UTG, COMMISSARIATO DEL GOVERNO REGIONE FVG, SPORTELLO UNICO CITTADINI DI LINGUA SLOVENA, COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELL",
+   "amministrazione": "DIP.TO POLITICHE PERS. AMM.NE CIV. E RIS. STRUM.LI E FIN.",
+   "ente": "OMEGA AMBIENTE - SOCIETA' COOPERATIVA",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 79900.0,
+   "aggiudicato": 71847.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  }
+ ]
+}

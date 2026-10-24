@@ -1,0 +1,165 @@
+{
+ "nome": "REMAR ITALIA",
+ "cf": "01663200184",
+ "affidamenti": 8,
+ "diretti": 3,
+ "quota_diretti": 37.5,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MILANO",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "8381293DC5",
+   "data": "2020-07-22",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO STRUTTURE COLLETTIVE FINO A 50 POSTI/ REMAR ITALIA ONLUS",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 713261.03,
+   "aggiudicato": 713261.03,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8036449F7F",
+   "data": "2019-10-01",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA MIGRANTI PRESSO LE STRUTTURE COLLETTIVE SINO A 50 POSTI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1426522.05,
+   "aggiudicato": 1426522.05,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "79513952BB",
+   "data": "2019-06-24",
+   "oggetto": "ACCOGLIENZA MIGRANTI REMAR",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 105800.0,
+   "aggiudicato": 105800.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "6778244FE2",
+   "data": "2016-08-23",
+   "oggetto": "UNITÀ D'OFFERTA IN GRADO DI ACCOGLIERE ED OSPITARE FINO A 50 CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI SUL TERRITORIO (UOMINI).",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 195200.0,
+   "aggiudicato": 194590.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6731340D7B",
+   "data": "2016-06-21",
+   "oggetto": "SERVIZI DI ACCOGLIENZA PER CITTADINI STRANIERI TEMPORANEAMENTE PRESENTI MASSIMO 50 PREESNZE AL GIORNO (UOMINI)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 49600.0,
+   "aggiudicato": 49445.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6632031D1A",
+   "data": "2016-03-18",
+   "oggetto": "UNITÀ D'OFFERTA IN GRADO DI ACCOGLIERE ED OSPITARE FINO A 50 PROFUGHI (UOMINI) TEMPORANEAMENTE PRESENTI.",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 145600.0,
+   "aggiudicato": 145145.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "653542427F",
+   "data": "2015-12-23",
+   "oggetto": "SERVIZI DI ASSISTENZA PROFUGHI FINO A MAX 50 POSTI (UOMINI)",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 145600.0,
+   "aggiudicato": 144235.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "6493956604",
+   "data": "2015-11-23",
+   "oggetto": "LOTTO 2 - ACCOGLIENZA MAX 50 PROFUGHI IN TRANSITO (UOMINI) FINO A DICEMBRE 2015",
+   "amministrazione": "COMUNE DI MILANO",
+   "ente": "REMAR ITALIA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 49446.0,
+   "aggiudicato": 31.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  }
+ ]
+}

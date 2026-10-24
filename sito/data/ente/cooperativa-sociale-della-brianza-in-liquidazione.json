@@ -1,0 +1,33 @@
+{
+ "nome": "COOPERATIVA SOCIALE DELLA BRIANZA IN LIQUIDAZIONE",
+ "cf": "03212040962",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "71690528DB",
+   "data": "2017-06-28",
+   "oggetto": "COOPERATIVA SOCIALE DELLA BRIANZA - SERVIZIO ACCOGLIENZA MIGRANTI LUGLIO-DICEMBRE 2017",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "COOPERATIVA SOCIALE DELLA BRIANZA IN LIQUIDAZIONE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 110400.0,
+   "aggiudicato": 110400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

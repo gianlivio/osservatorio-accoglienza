@@ -1,0 +1,63 @@
+{
+ "nome": "CRESCERE INSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "06440831219",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8D8B515E2",
+   "data": "2025-10-30",
+   "oggetto": "ACCOGLIENZA MNORI",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "CRESCERE INSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 12730.0,
+   "aggiudicato": 12730.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  },
+  {
+   "cig": "B2653AA905",
+   "data": "2024-07-10",
+   "oggetto": "SERVIZI DI MEDIAZIONE LINGUISTICA - CULTURALE PER I MINORI STRANIERI IN CARICO AGLI ISTITUTI PENALI PER I MINORENNI DELLA CAMPANIA",
+   "amministrazione": "CENTRO GIUSTIZIA MINORILE CAMPANIA E MOLISE",
+   "ente": "CRESCERE INSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13109.12,
+   "aggiudicato": 13109.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

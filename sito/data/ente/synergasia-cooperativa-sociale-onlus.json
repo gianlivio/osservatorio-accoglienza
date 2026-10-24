@@ -1,0 +1,182 @@
+{
+ "nome": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+ "cf": "11025751006",
+ "affidamenti": 8,
+ "diretti": 1,
+ "quota_diretti": 12.5,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "CAGLIARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TRIESTE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "VERONA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "92356424E1",
+   "data": "2022-04-15",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI MEDIAZIONE CULTURALE NELL'AMBITO DELL'ASSISTENZA SANITARIA AI PROFUGHI UCRAINI",
+   "amministrazione": "ASL ROMA 2",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 43000.0,
+   "aggiudicato": 43000.0,
+   "durata_gg": 60.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8772379C26",
+   "data": "2021-05-27",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE/ SEZIONE DI NOVARA",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 311850.0,
+   "aggiudicato": 145557.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "8556584C7B",
+   "data": "2020-12-28",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI SUPPORTO A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE SEZIONE DI LECCE ES. 2021",
+   "amministrazione": "PREFETTURA",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 247500.0,
+   "aggiudicato": 111105.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "75062712C9",
+   "data": "2018-06-01",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO PER LE NECESSITA' DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI VERONA",
+   "amministrazione": "PREFETTURA DI VERONA",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 115500.0,
+   "aggiudicato": 17.88,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VERONA"
+  },
+  {
+   "cig": "7498220EE0",
+   "data": "2018-05-22",
+   "oggetto": "SERRVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI TRIESTE PER IL PERIODO 1",
+   "amministrazione": "MINISTERO DELL'INTERNO - DIPARTIMENTO PER LE LIBERTA' CIVILI E L'IMMIGRAZIONE",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 147584.0,
+   "aggiudicato": 63350.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRIESTE"
+  },
+  {
+   "cig": "743899440C",
+   "data": "2018-04-11",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI CAGLIARI",
+   "amministrazione": "PREFETTURA DI CAGLIARI UTG",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 157657.5,
+   "aggiudicato": 125558.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAGLIARI"
+  },
+  {
+   "cig": "7364881C0E",
+   "data": "2018-02-02",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSIMENTO DELLA PROTEZIONE INTERNAZIONALE DI BARI",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 220055.0,
+   "aggiudicato": 153246.3,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "694915501F",
+   "data": "2017-01-18",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "SYNERGASIA - COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 137500.0,
+   "aggiudicato": 102500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "nome": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "08435881217",
+ "affidamenti": 5,
+ "diretti": 3,
+ "quota_diretti": 60.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 4,
+   "diretti": 2,
+   "quota_diretti": 50.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B517775958",
+   "data": "2025-01-08",
+   "oggetto": "AFFIDAMENTO DIRETTO, EX ART. 50 C. 1 LETT. B) DEL D.LGS. N. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E GESTIO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138924.5,
+   "aggiudicato": 138924.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B359C52C7E",
+   "data": "2024-10-09",
+   "oggetto": "AFFIDAMENTO DIRETTO, EX ART. 50 C. 1 LETT. B) D.LGS. N. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E GESTIONE D",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139366.0,
+   "aggiudicato": 139366.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B226426B66",
+   "data": "2024-06-19",
+   "oggetto": "AFFIDAMENTO DIRETTO PER L'ESECUZIONE DEL SERVIZIO DI ACCOGLIENZA DA EROGARSI A CITTADINI STRANIERI RICHIEDENTI LA PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138652.0,
+   "aggiudicato": 138652.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B00389D9A4",
+   "data": "2024-01-16",
+   "oggetto": "NOME LOTTO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139276.8,
+   "aggiudicato": 139276.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B00280AC34",
+   "data": "2024-01-16",
+   "oggetto": "NOME LOTTO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "ALTRA PROCEDURA A FASE UNICA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 139276.8,
+   "aggiudicato": 139276.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

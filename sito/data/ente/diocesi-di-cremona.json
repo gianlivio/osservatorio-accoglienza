@@ -1,0 +1,59 @@
+{
+ "nome": "DIOCESI DI CREMONA",
+ "cf": "93009470191",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7757438858",
+   "data": "2019-01-07",
+   "oggetto": "CARITAS CREMONA PROROGA CONEVNZIONE ACCOGLIENZA MIGRANTI I TRI,ESTRE 2019",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "DIOCESI DI CREMONA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 110250.0,
+   "aggiudicato": 110250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "732016359A",
+   "data": "2017-12-15",
+   "oggetto": "CARITAS CREMONA PROROGA CONVENZIONE ACCOGLIENZA MIGRANTI I BIMESTRE 2018",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "DIOCESI DI CREMONA",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 227150.0,
+   "aggiudicato": 227150.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  }
+ ]
+}

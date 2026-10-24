@@ -1,0 +1,38 @@
+{
+ "nome": "ARCOBALENO ODV",
+ "cf": "92025640399",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "90131384C5",
+   "data": "2021-12-07",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MSNA -8 POSTI PERIODO 01/01/2022-31/12/2022",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "ARCOBALENO ODV",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 490560.0,
+   "aggiudicato": 204379.56,
+   "durata_gg": 361.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

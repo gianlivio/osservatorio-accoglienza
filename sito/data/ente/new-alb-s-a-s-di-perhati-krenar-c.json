@@ -1,0 +1,38 @@
+{
+ "nome": "NEW ALB S.A.S. DI PERHATI KRENAR & C.",
+ "cf": "02518280991",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B31219E26E",
+   "data": "2024-09-17",
+   "oggetto": "PROCEDURA NEGOZIATA PER LA RALIZZAZIONE DEL NUOVO CENTRO PER DISABILI E ACCOGLIENZA PROFUGHI - TENUTA AGRICOLA SOCIALE LA CASA DI GIÒ",
+   "amministrazione": "COMUNE DI SERRA RICCO ",
+   "ente": "NEW ALB S.A.S. DI PERHATI KRENAR & C.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 625006.7,
+   "aggiudicato": 526884.5309,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  }
+ ]
+}

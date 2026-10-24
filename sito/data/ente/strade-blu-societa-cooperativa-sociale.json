@@ -1,0 +1,123 @@
+{
+ "nome": "STRADE BLU - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "00781270335",
+ "affidamenti": 6,
+ "diretti": 3,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 2,
+   "quota_diretti": 40.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 6
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2316D608E",
+   "data": "2025-08-29",
+   "oggetto": "AFFIDAMENTO SERVIZIO GESTIONE CENTRI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE UCRAINI",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STRADE BLU - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 154310.0,
+   "aggiudicato": 154310.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "B2315217EC",
+   "data": "2025-08-29",
+   "oggetto": "AFFIDAMENTO SERVIZIO GESTIONE CENTRI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STRADE BLU - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 198547.0,
+   "aggiudicato": 198547.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "B22FBDCD87",
+   "data": "2025-08-29",
+   "oggetto": "AFFIDAMENTO SERVIZIO GESTIONE CENTRI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STRADE BLU - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 675107.0,
+   "aggiudicato": 675107.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "B79DD221E3",
+   "data": "2025-07-14",
+   "oggetto": "AFFIDAMENTO, AI SENSI DELL'ART.. 50, COMMA 1 LETT. B) DEL D. LGS. 36/2023, DEL SERVIZIO DI ACCOGLIENZA DIFFUSA DEL SISTEMA DI ACCOGLIENZA E INTEGRAZIONE (SAI) A FAVORE DI RICHIEDEN",
+   "amministrazione": "COMUNE DI PIACENZA",
+   "ente": "STRADE BLU - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 58201.21,
+   "aggiudicato": 58201.21,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "B639425A21",
+   "data": "2025-03-26",
+   "oggetto": "GESTORE STRADE BLU - SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO STRUTTURE COSTITUITE DA SINGOLE UNITA' ABITAT",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STRADE BLU - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4293458.0,
+   "aggiudicato": 4293458.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "9294562334",
+   "data": "2022-06-23",
+   "oggetto": "CONVENZIONE ACCOGLIENZA CITTADINI STRANIERI RICHIEENTI ASILO - GESTORE STRADE BLU",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STRADE BLU - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 492200.0,
+   "aggiudicato": 492200.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  }
+ ]
+}

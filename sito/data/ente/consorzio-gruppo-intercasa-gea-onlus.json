@@ -1,0 +1,70 @@
+{
+ "nome": "CONSORZIO GRUPPO INTERCASA GEA ONLUS",
+ "cf": "02154780569",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VITERBO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "733506819A",
+   "data": "2017-12-29",
+   "oggetto": "TRE FONTANE 2018 - CONVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA MIGRANTI 2017-18",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "CONSORZIO GRUPPO INTERCASA GEA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1517670.0,
+   "aggiudicato": 1517670.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "7041619FCF",
+   "data": "2017-04-10",
+   "oggetto": "CONNVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA IMMIGRATI 2017 LA FATTORIA SOCIETÀ COOPERATIVA SOCIALE",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "CONSORZIO GRUPPO INTERCASA GEA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 402270.0,
+   "aggiudicato": 402270.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  },
+  {
+   "cig": "70416086BE",
+   "data": "2017-04-10",
+   "oggetto": "CONNVENZIONE DISCENDENTE DA ACCORDO QUADRO BANDO GARA IMMIGRATI 2017 DI MARI BRUNO SRL",
+   "amministrazione": "PREFETTURA DI VITERBO-UFFICIO TERRITORIALE DEL GOVERNO-",
+   "ente": "CONSORZIO GRUPPO INTERCASA GEA ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 539805.0,
+   "aggiudicato": 539805.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VITERBO"
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "nome": "CORI S.R.L.",
+ "cf": "06852790481",
+ "affidamenti": 9,
+ "diretti": 9,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "AREZZO",
+   "affidamenti": 3
+  },
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B97517BFC1",
+   "data": "2025-12-09",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA - CASA RE",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73000.0,
+   "aggiudicato": 73000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B866F87918",
+   "data": "2025-09-29",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA - COLONIA SANTA REGINA -",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 114075.0,
+   "aggiudicato": 114075.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B5458CC235",
+   "data": "2025-01-22",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI DUE MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA - CASA FOTI CORI SRL",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22981.0,
+   "aggiudicato": 22981.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "B5458CC235",
+   "data": "2025-01-22",
+   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI DUE MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA - CASA FOTI CORI SRL",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 22981.0,
+   "aggiudicato": 22981.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  },
+  {
+   "cig": "B0EA2D0951",
+   "data": "2024-05-20",
+   "oggetto": "AFFIDAMENTO DIRETTO PER ACCOGLIENZA RESIDENZIALE MSNA",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34400.0,
+   "aggiudicato": 34400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B0EA2D0951",
+   "data": "2024-05-20",
+   "oggetto": "AFFIDAMENTO DIRETTO PER ACCOGLIENZA RESIDENZIALE MSNA",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 34400.0,
+   "aggiudicato": 34400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SIENA"
+  },
+  {
+   "cig": "B0DD4B8664",
+   "data": "2024-05-20",
+   "oggetto": "ACCOGLIENZA RESIDENZIALE DI MSNA IN STRUTTURA PRIVATA",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 38647.5,
+   "aggiudicato": 38647.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B0DD4B8664",
+   "data": "2024-05-20",
+   "oggetto": "ACCOGLIENZA RESIDENZIALE DI MSNA IN STRUTTURA PRIVATA",
+   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 38647.5,
+   "aggiudicato": 38647.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "B056E97EB3",
+   "data": "2024-02-12",
+   "oggetto": "ACCOGLIENZA N. 2 MSNA FINO AL 31.03.2024",
+   "amministrazione": "COMUNE DI MONTEVARCHI",
+   "ente": "CORI S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16400.0,
+   "aggiudicato": 16400.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "AREZZO"
+  }
+ ]
+}

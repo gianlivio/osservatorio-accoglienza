@@ -1,0 +1,38 @@
+{
+ "nome": "VOLEREVOLAREOLTRE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "02845200357",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "REGGIO NELL'EMILIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1FBA60D62",
+   "data": "2024-06-06",
+   "oggetto": "INSERIMENTO IN COMUNITÀ - MSNA - SAIDOU M.",
+   "amministrazione": "UNIONE TRESINARO SECCHIA",
+   "ente": "VOLEREVOLAREOLTRE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 10610.0,
+   "aggiudicato": 10610.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "REGGIO NELL'EMILIA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "EDILIZIA ARTIGIANA DI BIGARINI M. & PAMMELATI F. S.N.C.",
+ "cf": "02255270544",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PERUGIA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B6B3042C6A",
+   "data": "2025-05-06",
+   "oggetto": "MANUTENZIONE CENTRO ACCOGLIENZA SAI C/O V. FAVARONE",
+   "amministrazione": "COMUNE DI PERUGIA",
+   "ente": "EDILIZIA ARTIGIANA DI BIGARINI M. & PAMMELATI F. S.N.C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9499.95,
+   "aggiudicato": 9499.95,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PERUGIA"
+  }
+ ]
+}

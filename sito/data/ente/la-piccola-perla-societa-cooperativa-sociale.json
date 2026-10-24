@@ -1,0 +1,38 @@
+{
+ "nome": "LA PICCOLA PERLA SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01754050621",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5331EED2D",
+   "data": "2025-01-16",
+   "oggetto": "SERVIZI DI ACCOGLIENZA MSNA",
+   "amministrazione": "COMUNE DI APICE",
+   "ente": "LA PICCOLA PERLA SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32850.0,
+   "aggiudicato": 32850.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "CIRCOLO ARCI BLUE TRAIN CLUB",
+ "cf": "01018230522",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6135931A6F",
+   "data": "2015-02-16",
+   "oggetto": "ASSISTENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI SIENA",
+   "ente": "CIRCOLO ARCI BLUE TRAIN CLUB",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2600000.0,
+   "aggiudicato": 68040.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIENA"
+  }
+ ]
+}

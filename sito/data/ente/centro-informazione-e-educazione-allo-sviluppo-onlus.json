@@ -1,0 +1,381 @@
+{
+ "nome": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+ "cf": "97027130588",
+ "affidamenti": 19,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 7,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 6,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "LIVORNO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "MILANO",
+   "affidamenti": 2
+  },
+  {
+   "provincia": "BARI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "CROTONE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "FIRENZE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "GENOVA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "LATINA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "866059878E",
+   "data": "2021-03-05",
+   "oggetto": "INTERPRETARIATO PER AUDIZIONI CT RICHIEDENTI ASILO",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 742500.0,
+   "aggiudicato": 503192.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "8657642032",
+   "data": "2021-03-04",
+   "oggetto": "SERVIZIO INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO PROTEZIONE INTERNAZIONALE DI FIRENZE - ANNO 2021",
+   "amministrazione": "PREFETTURA DI FIRENZE",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA RISTRETTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 302500.0,
+   "aggiudicato": 140372.76,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FIRENZE"
+  },
+  {
+   "cig": "814527096F",
+   "data": "2019-12-18",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE / SEZIONE DI LIVORNO",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 111150.0,
+   "aggiudicato": 101790.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  },
+  {
+   "cig": "81091255A4",
+   "data": "2019-11-26",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI SUPPORTO A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE SEZIONE DI LECCE ES. 2020",
+   "amministrazione": "PREFETTURA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 247500.0,
+   "aggiudicato": 132750.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7756258A93",
+   "data": "2019-01-24",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI LATINA",
+   "amministrazione": "PREFETTURA DI LATINA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 275000.0,
+   "aggiudicato": 172975.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LATINA"
+  },
+  {
+   "cig": "77638736AD",
+   "data": "2019-01-17",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE 2019",
+   "amministrazione": "PREFETTURA DI CROTONE",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 346500.0,
+   "aggiudicato": 235200.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CROTONE"
+  },
+  {
+   "cig": "7751957D46",
+   "data": "2018-12-28",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE DI LECCE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE PER IL PERIODO 01.0",
+   "amministrazione": "PREFETTURA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 206250.0,
+   "aggiudicato": 134250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  },
+  {
+   "cig": "746546047B",
+   "data": "2018-05-03",
+   "oggetto": "SERVIZIO INTERPRETARIATO A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE - 2018",
+   "amministrazione": "PREFETTURA DI GENOVA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 250800.0,
+   "aggiudicato": 71920.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "GENOVA"
+  },
+  {
+   "cig": "7438013A7E",
+   "data": "2018-04-11",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA SEZIONE DI FORLI' DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE P",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 164587.5,
+   "aggiudicato": 102486.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "742380802B",
+   "data": "2018-03-20",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELL'ATTIVITÀ DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 564630.0,
+   "aggiudicato": 298704.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MILANO"
+  },
+  {
+   "cig": "742899154F",
+   "data": "2018-03-06",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE SEZIONE DI NO",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 299200.0,
+   "aggiudicato": 108810.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7750173D12",
+   "data": "2018-01-28",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE/ SEZIONE DI LIVORNO",
+   "amministrazione": "PREFETTURA DI LIVORNO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 132000.0,
+   "aggiudicato": 116220.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LIVORNO"
+  },
+  {
+   "cig": "7002896C95",
+   "data": "2017-03-06",
+   "oggetto": "SUPPORTO LINGUISTICO RICHIEDENTI ASILO C/O COMMISSIONE RIFUGUIATI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 422125.0,
+   "aggiudicato": 204035.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "697370101F",
+   "data": "2017-02-09",
+   "oggetto": "INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMM TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE -BERGAMO",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 100512.5,
+   "aggiudicato": 21.2,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6966485D46",
+   "data": "2017-02-03",
+   "oggetto": "AFFIDAMENTO SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE / SEZIONE DI SAL",
+   "amministrazione": "PREFETTURA DI CAMPOBASSO UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 96250.0,
+   "aggiudicato": 89250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "6959299336",
+   "data": "2017-01-27",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA SEZIONE DI FORLÌ DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "MINISTERO INTERNO-PREFETTURA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 264275.0,
+   "aggiudicato": 120950.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "6949246B34",
+   "data": "2017-01-19",
+   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLE COMMISSIONE TERRITORIALI PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE E DELLE RELATIVA SEZIONE DI ",
+   "amministrazione": "PREFETTURA DI BARI",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 220000.0,
+   "aggiudicato": 20.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BARI"
+  },
+  {
+   "cig": "72951070BE",
+   "data": "2017-01-18",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLE COMMISSIONI TERRITORIALI PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI NOVARA",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 45787.5,
+   "aggiudicato": 33633.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6949235223",
+   "data": "2017-01-18",
+   "oggetto": "SERVIZIO DI INTERPRETAZIONE IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI TORINO (INCLUSE LE SEZ",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CENTRO INFORMAZIONE E EDUCAZIONE ALLO SVILUPPO ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 273625.0,
+   "aggiudicato": 201984.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

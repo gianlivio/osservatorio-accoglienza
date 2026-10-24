@@ -1,0 +1,54 @@
+{
+ "nome": "COMUNITA' S. EGIDIO - ACAP ONLUS",
+ "cf": "80191770587",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6388886383",
+   "data": "2015-09-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA SPRAR AGGIUNTIVI CENTRO SANTA MARIA IN TRASTEVERE - 1 GENNAIO / 15 APRILE 2015",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COMUNITA' S. EGIDIO - ACAP ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 73500.0,
+   "aggiudicato": 73500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6308098724",
+   "data": "2015-06-24",
+   "oggetto": "PROSECUZIONE INCARICO SPRAR ANNO 2015. S. EGIDIO",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "COMUNITA' S. EGIDIO - ACAP ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 98550.0,
+   "aggiudicato": 98550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

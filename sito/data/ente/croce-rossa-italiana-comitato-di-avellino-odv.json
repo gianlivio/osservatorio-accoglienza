@@ -1,0 +1,33 @@
+{
+ "nome": "CROCE ROSSA ITALIANA - COMITATO DI AVELLINO ODV",
+ "cf": "02792820645",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "9993515D74",
+   "data": "2023-07-27",
+   "oggetto": "CONVENZIONE ATTUATIVA DI ACCORDO QUADRO TRA PREFETTURA DI AVELLINO E LA CROCE ROSSA ITALIANA PER SERVIO PRIMISSIMA ACCOGLIENZA MIGRANTI",
+   "amministrazione": "PREFETTURA DI AVELLINO",
+   "ente": "CROCE ROSSA ITALIANA - COMITATO DI AVELLINO ODV",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA INDIZIONE DI GARA (SETTORI SPECIALI)",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 125000.0,
+   "aggiudicato": 125000.0,
+   "durata_gg": 80.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

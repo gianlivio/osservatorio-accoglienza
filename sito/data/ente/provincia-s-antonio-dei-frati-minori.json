@@ -1,0 +1,38 @@
+{
+ "nome": "PROVINCIA S.ANTONIO DEI FRATI MINORI",
+ "cf": "01098680372",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BOLOGNA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "6792314AD2",
+   "data": "2016-06-16",
+   "oggetto": "EMERGENZA SBARCHI - AFFIDAMENTO SERVIZIO DI ACCOGLIENZA CITTADINI MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI BOLOGNA",
+   "ente": "PROVINCIA S.ANTONIO DEI FRATI MINORI",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 97000.0,
+   "aggiudicato": 80431.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BOLOGNA"
+  }
+ ]
+}

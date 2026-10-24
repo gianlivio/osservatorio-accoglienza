@@ -1,0 +1,54 @@
+{
+ "nome": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03276410986",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [],
+ "contratti": [
+  {
+   "cig": "7605042730",
+   "data": "2018-08-01",
+   "oggetto": "ACCOGLIENZA MIGRANTI STRUTTURE GIRASOLI",
+   "amministrazione": "PREFETTURA DI MILANO",
+   "ente": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 159393.0,
+   "aggiudicato": 159393.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  },
+  {
+   "cig": "716904209D",
+   "data": "2017-06-28",
+   "oggetto": "I GIRASOLI - SERVIZIO ACCOGLIENZA MIGRANTI PERIODO 01/07/2017 - 31/12/2017",
+   "amministrazione": "PREFETTURA DI MONZA E DELLA BRIANZA",
+   "ente": "I GIRASOLI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 143520.0,
+   "aggiudicato": 143520.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

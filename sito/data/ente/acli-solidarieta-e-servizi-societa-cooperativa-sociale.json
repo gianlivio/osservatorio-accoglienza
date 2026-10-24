@@ -1,0 +1,54 @@
+{
+ "nome": "ACLI SOLIDARIETA' E SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01372740132",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B90D40AF29",
+   "data": "2025-11-11",
+   "oggetto": "GESTIONE CENTRI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNITÀ ABITATIVE FINO A 50 POSTI E ORGANIZZAZIONE DEI SERVIZI IN RETE A FAVORE DEI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE IN",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "ACLI SOLIDARIETA' E SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1677000.0,
+   "aggiudicato": 1677000.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B6765D497F",
+   "data": "2025-05-14",
+   "oggetto": "LOTTO 1: SERVIZI DI ACCOGLIENZA COSTITUITI DA SINGOLE UNIT ABITATIVE CON CAPIENZA FINO A 50 POSTI PER UN FABBISOGNO DI MAX 1.170 POSTI.",
+   "amministrazione": "PREFETTURA DI COMO",
+   "ente": "ACLI SOLIDARIETA' E SERVIZI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 125104297.5,
+   "aggiudicato": 49966656.42,
+   "durata_gg": 36.0,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "COMO"
+  }
+ ]
+}

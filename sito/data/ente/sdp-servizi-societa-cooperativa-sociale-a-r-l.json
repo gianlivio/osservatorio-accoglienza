@@ -1,0 +1,59 @@
+{
+ "nome": "SDP SERVIZI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+ "cf": "02492440900",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SASSARI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7833292D0A",
+   "data": "2019-03-20",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE PRESSO CENTRI COLLETTIVI CON CAPIENZA COMPRESA TRA 51 E 300 POSTI",
+   "amministrazione": "PREFETTURA DI SASSARI",
+   "ente": "SDP SERVIZI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 22590633.6,
+   "aggiudicato": 15853236.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "7495587212",
+   "data": "2018-05-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI BONORVA",
+   "ente": "SDP SERVIZI SOCIETA' COOPERATIVA SOCIALE A R.L.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 600716.4,
+   "aggiudicato": 467876.96,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SASSARI"
+  }
+ ]
+}

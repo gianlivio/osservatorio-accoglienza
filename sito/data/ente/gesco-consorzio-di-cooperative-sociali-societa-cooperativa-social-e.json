@@ -1,0 +1,38 @@
+{
+ "nome": "GESCO CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA COOPERATIVA SOCIAL E",
+ "cf": "06317480637",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7385B2DE7",
+   "data": "2025-06-11",
+   "oggetto": "GARA APERTA, AI SENSI DELL'ART. 71 DEL D.LGS. N. 36/2023, FINALIZZATA ALLA SELEZIONE DI PIÙ OPERATORI ECONOMICI, CON CUI CONCLUDERE UN ACCORDO QUADRO PER L'AFFIDAMENTO DEL SERVIZIO",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "GESCO CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA COOPERATIVA SOCIAL E",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2289099.02,
+   "aggiudicato": 2289099.02,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "nome": "SENZA FRONTIERE SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "06570740826",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PALERMO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "81331328D7",
+   "data": "2019-12-10",
+   "oggetto": "IMPEGNO DI SPESA MSNA I^ II^ III^ TRIM. 2019 COOP SENZA FRONTIERE",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "SENZA FRONTIERE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 122057.14,
+   "aggiudicato": 122057.14,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  },
+  {
+   "cig": "7276787299",
+   "data": "2017-11-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI PARTINICO",
+   "ente": "SENZA FRONTIERE SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 115071.43,
+   "aggiudicato": 115071.43,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PALERMO"
+  }
+ ]
+}

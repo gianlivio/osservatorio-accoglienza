@@ -1,0 +1,63 @@
+{
+ "nome": "LA TERRA PROMESSA 2 SOCIET COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS",
+ "cf": "01448260032",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NOVARA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "TORINO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B09E1281D8",
+   "data": "2024-02-29",
+   "oggetto": "ACCOGLIENZA DI MSNA E NEOMAGGIORENNI IN PROSIEGUO AMMINISTRATIVO PRESSO STRUTTURE DI ACCOGLIENZA COMUNITARIA - S.C.S. LA TERRA PROMESSA 2 - ANNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LA TERRA PROMESSA 2 SOCIET COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 112000.0,
+   "aggiudicato": 112000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NOVARA"
+  },
+  {
+   "cig": "9646090D46",
+   "data": "2023-02-14",
+   "oggetto": "ACCOGLIENZA DI MINORI STRANIERI NON ACCOMPAGNATI PRESSO ACCOGLIENZA COMUNITARIA 'CA' NOSTRA' - LA TERRA PROMESSA 2 COOPERATIVA SOCIALE ONLUS - GENNAIO-MARZO 2023",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "LA TERRA PROMESSA 2 SOCIET COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 73000.0,
+   "aggiudicato": 73000.0,
+   "durata_gg": 90.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

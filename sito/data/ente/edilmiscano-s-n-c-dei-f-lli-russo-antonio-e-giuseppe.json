@@ -1,0 +1,38 @@
+{
+ "nome": "EDILMISCANO S.N.C. DEI F.LLI RUSSO ANTONIO E GIUSEPPE",
+ "cf": "00908880628",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B116F75E1E",
+   "data": "2024-04-04",
+   "oggetto": "INTERVENTI DI MANUTENZIONE STRAORDINARIA DEI LOCALI DEL PRESIDIO DI CONTINUITA' ASSISTENZIALE - GUARDIA MEDICA - CON POTENZIAMENTO DEL SERVIZIO DI ACCOGLIENZA MIGRANTI E PROFUGHI D",
+   "amministrazione": "COMUNE DI CASTELFRANCO IN MISCANO",
+   "ente": "EDILMISCANO S.N.C. DEI F.LLI RUSSO ANTONIO E GIUSEPPE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 251005.4,
+   "aggiudicato": 0.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

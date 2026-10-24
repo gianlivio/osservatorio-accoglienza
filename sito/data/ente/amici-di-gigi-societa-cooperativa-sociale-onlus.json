@@ -1,0 +1,112 @@
+{
+ "nome": "AMICI DI GIGI SOCIETA' COOPERATIVA SOCIALE ONLUS",
+ "cf": "03790750404",
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "FORLÌ-CESENA",
+   "affidamenti": 4
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B99D51E519",
+   "data": "2025-12-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE SEMIRESIDENZIALI DI MINORI, COMPRESI I MINORI STRANIERI NON ACCOMPAGNATI, ASSISTITI DAL SETTORE SERVIZI SOCIALI DELL'UNIONE DEI COMUNI VALLE DE",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "AMICI DI GIGI SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 76651.36,
+   "aggiudicato": 76651.36,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B99D39619D",
+   "data": "2025-12-16",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI DI MINORI, COMPRESI I MINORI STRANIERI NON ACCOMPAGNATI, ASSISTITI DAL SETTORE SERVIZI SOCIALI DELL'UNIONE DEI COMUNI VALLE DEL SA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "AMICI DI GIGI SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 137747.33,
+   "aggiudicato": 137747.33,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B4B2E0A71D",
+   "data": "2024-12-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "AMICI DI GIGI SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 101913.9,
+   "aggiudicato": 101913.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "B1E57F42FB",
+   "data": "2024-05-30",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI DI MINORI, GESTANTI E MADRI CON MINORI, E MINORI STRANIERI NON ACCOMPAGNATI ASSISTITI DAL SETTORE SERVIZI SOCIA",
+   "amministrazione": "UNIONE DEI COMUNI VALLE DEL SAVIO",
+   "ente": "AMICI DI GIGI SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 96288.06,
+   "aggiudicato": 96288.06,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "FORLÌ-CESENA"
+  },
+  {
+   "cig": "9604059036",
+   "data": "2023-01-20",
+   "oggetto": "INTERVENTI DI TUTELA E PROTEZIONE DI MINORI STRANIERI NON ACCOMPAGNATI O ALLONTANATI DALLA FAMIGLIA E DI DONNE ANCHE CON PROLE CON ACCOGLIENZA PRESSO STRUTTURE RESIDENZIALI AUTORIZ",
+   "amministrazione": "COMUNE DI PESARO",
+   "ente": "AMICI DI GIGI SOCIETA' COOPERATIVA SOCIALE ONLUS",
+   "procedura": "PROCEDURA NEGOZIATA PER AFFIDAMENTI SOTTO SOGLIA",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 50370.0,
+   "aggiudicato": 50370.0,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

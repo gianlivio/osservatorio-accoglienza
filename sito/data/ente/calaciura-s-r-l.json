@@ -1,0 +1,106 @@
+{
+ "nome": "CALACIURA S.R.L.",
+ "cf": "01418070858",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SIRACUSA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "RAGUSA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B1A431A5D9",
+   "data": "2024-05-14",
+   "oggetto": "CALACIURA SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUS",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "CALACIURA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 21531.12,
+   "aggiudicato": 21531.12,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1A413CB62",
+   "data": "2024-05-14",
+   "oggetto": "CALACIURA SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUS",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "CALACIURA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39197.5,
+   "aggiudicato": 39197.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1A3F980CD",
+   "data": "2024-05-14",
+   "oggetto": "CALACIURA SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUS",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "CALACIURA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39447.44,
+   "aggiudicato": 39447.44,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B1A3DD8F15",
+   "data": "2024-05-14",
+   "oggetto": "CALACIURA SRL. CONVENZIONE QUADRO DEL 02.05.2023. SERVIZIO NOLEGGIO AUTOBUS CON CONDUCENTE PER IL TRASFERIMENTO, DEI MIGRANTI CHE SBARCANO NEL TERRITORIO DELLA PROVINCIA DI SIRACUS",
+   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
+   "ente": "CALACIURA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36461.22,
+   "aggiudicato": 36461.22,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "SIRACUSA"
+  },
+  {
+   "cig": "B0C68B9559",
+   "data": "2024-03-12",
+   "oggetto": "NOLEGGIO PULLMAN",
+   "amministrazione": "PREFETTURA DI RAGUSA",
+   "ente": "CALACIURA S.R.L.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48965.85,
+   "aggiudicato": 48965.85,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "RAGUSA"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "nome": "FONDAZIONE SOMASCHI ONLUS",
+ "cf": "07657150962",
+ "affidamenti": 7,
+ "diretti": 7,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COMO",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B0873202DB",
+   "data": "2024-02-23",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6180.0,
+   "aggiudicato": 6180.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "B086A4433E",
+   "data": "2024-02-23",
+   "oggetto": "SERVIZI",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 30000.0,
+   "aggiudicato": 30000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "A037E33B72",
+   "data": "2023-12-04",
+   "oggetto": "ACCOGLIENZA MINORI STRANIERI NON ACCOMPAGNATI PRESSO COMUNITA SITA NELLA PROVINCIA DI IMPERIA - VALLECROSIA",
+   "amministrazione": "COMUNE DI COMO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": 540.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COMO"
+  },
+  {
+   "cig": "695509344F",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - B.F.L.",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 1617896.0,
+   "aggiudicato": 1617896.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "695505983F",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - CENTRO PRIMA ACCOGLIENZA ALBESE",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 218937.0,
+   "aggiudicato": 218937.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "695500078F",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 . BOSCHETTI S.S",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 138276.0,
+   "aggiudicato": 138276.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "6954021FA7",
+   "data": "2017-02-01",
+   "oggetto": "SERVIZIO ACCOGLIENZA PROFUGHI ANNO 2017 - FATTORIA DELLE VIGNOLE",
+   "amministrazione": "PREFETTURA DI CUNEO",
+   "ente": "FONDAZIONE SOMASCHI ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 81830.0,
+   "aggiudicato": 81830.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": null
+  }
+ ]
+}

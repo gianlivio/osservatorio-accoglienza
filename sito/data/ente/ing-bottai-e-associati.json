@@ -1,0 +1,70 @@
+{
+ "nome": "ING. BOTTAI E ASSOCIATI",
+ "cf": "01411150509",
+ "affidamenti": 3,
+ "diretti": 3,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 3,
+   "diretti": 3,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VENEZIA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B2DDB961B9",
+   "data": "2024-08-28",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI COLLAUDO STATICO DELLE OPERE IN CEMENTO ARMATO O A STRUTTURA METALLICA INERENTI ALL'INTERVENTO DI REALIZZAZIONE DEL ",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "ING. BOTTAI E ASSOCIATI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6758.9,
+   "aggiudicato": 6758.9,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B2DDB297C4",
+   "data": "2024-08-28",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI COLLAUDO STATICO DELLE OPERE IN CEMENTO ARMATO O A STRUTTURA METALLICA INERENTI ALL'INTERVENTO DI REALIZZAZIONE DEL ",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "ING. BOTTAI E ASSOCIATI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 17071.48,
+   "aggiudicato": 17071.48,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  },
+  {
+   "cig": "B2DDA95DA0",
+   "data": "2024-08-28",
+   "oggetto": "ADESIONE AD ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI SAI DI COLLAUDO STATICO DELLE OPERE IN CEMENTO ARMATO O A STRUTTURA METALLICA INERENTI ALL'INTERVENTO DI REALIZZAZIONE DEL ",
+   "amministrazione": "AZIENDA ULSS N. 4 VENETO ORIENTALE",
+   "ente": "ING. BOTTAI E ASSOCIATI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 13992.92,
+   "aggiudicato": 13992.92,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "VENEZIA"
+  }
+ ]
+}

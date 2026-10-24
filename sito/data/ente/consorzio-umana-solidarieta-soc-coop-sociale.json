@@ -1,0 +1,38 @@
+{
+ "nome": "CONSORZIO UMANA SOLIDARIETA' SOC.COOP. SOCIALE",
+ "cf": "06519910829",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "771964870D",
+   "data": "2019-02-15",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "CONSORZIO UMANA SOLIDARIETA' SOC.COOP. SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 587527.2,
+   "aggiudicato": 504039.58,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

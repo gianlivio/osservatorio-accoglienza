@@ -1,0 +1,38 @@
+{
+ "nome": "AMBARABA' - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03179270750",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "LECCE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B54B5F0EE2",
+   "data": "2025-01-23",
+   "oggetto": "IMPEGNO DI SPESA PER PAGAMENTO RETTE DI RICOVERO MSNA ALLA COOPERATIVA SOCIALE AMBARABÀ",
+   "amministrazione": "COMUNE DI CARMIANO",
+   "ente": "AMBARABA' - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 37485.5,
+   "aggiudicato": 37485.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LECCE"
+  }
+ ]
+}

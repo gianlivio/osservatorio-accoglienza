@@ -1,0 +1,107 @@
+{
+ "nome": "NUOVA VITA  - SOCIETA'  COOPERATIVA SOCIALE",
+ "cf": "05152480876",
+ "affidamenti": 5,
+ "diretti": 5,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 4,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANIA",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7327889D4A",
+   "data": "2017-12-19",
+   "oggetto": "LIQUIDAZIONE 4^ TRIMESTRE 2016 PER OSPITALITÀ MSNA. COMUNITÀ ALLOGGIO LA VILLA",
+   "amministrazione": "COMUNE DI GRAMMICHELE",
+   "ente": "NUOVA VITA  - SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 49680.0,
+   "aggiudicato": 49680.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "70995752A1",
+   "data": "2017-06-05",
+   "oggetto": "OSPITALITÀ MSNA. PERIODO 3^ TRIMESTRE 2016. COMUNITÀ 'LA VILLA'",
+   "amministrazione": "COMUNE DI GRAMMICHELE",
+   "ente": "NUOVA VITA  - SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47250.0,
+   "aggiudicato": 47250.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "6955580631",
+   "data": "2017-01-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI GRAMMICHELE",
+   "ente": "NUOVA VITA  - SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 48780.0,
+   "aggiudicato": 48780.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "6995287572",
+   "data": "2017-01-19",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI GRAMMICHELE",
+   "ente": "NUOVA VITA  - SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 47655.0,
+   "aggiudicato": 47655.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  },
+  {
+   "cig": "6597467200",
+   "data": "2016-02-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI GRAMMICHELE",
+   "ente": "NUOVA VITA  - SOCIETA'  COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 55671.31,
+   "aggiudicato": 55671.31,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANIA"
+  }
+ ]
+}

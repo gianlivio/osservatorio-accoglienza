@@ -1,0 +1,38 @@
+{
+ "nome": "FIGLIE DELL'AMORE DI GESU' E MARIACOOPERATIVA SOCIALE A R.L. IN SIGLA  COOPERATIVA SOCIALE A R.L. FAGEM",
+ "cf": "02052730690",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CHIETI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B70663C17E",
+   "data": "2025-05-26",
+   "oggetto": "SERVIZIO ACCOGLIENZA CITTADINI STRANIERI IN CENTRI DA 51 A 100 POSTI",
+   "amministrazione": "PREFETTURA UFFICIO TERRITORIALE DEL GOVERNO CHIETI",
+   "ente": "FIGLIE DELL'AMORE DI GESU' E MARIACOOPERATIVA SOCIALE A R.L. IN SIGLA  COOPERATIVA SOCIALE A R.L. FAGEM",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 2343663.2,
+   "aggiudicato": 2343663.2,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CHIETI"
+  }
+ ]
+}

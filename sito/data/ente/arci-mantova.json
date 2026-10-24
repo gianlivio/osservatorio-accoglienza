@@ -1,0 +1,59 @@
+{
+ "nome": "ARCI MANTOVA",
+ "cf": "93009440202",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MANTOVA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "824455238A",
+   "data": "2020-03-23",
+   "oggetto": "LOTTO 3 - SOCIALIZZAZIONE - SENSIBILIZZAZIONE",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "ARCI MANTOVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 105000.0,
+   "aggiudicato": 70000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "716490282B",
+   "data": "2017-07-28",
+   "oggetto": "ASSISTENZA DIRETTA E SOCIALIZZAIZONE",
+   "amministrazione": "PROGETTO SOLIDAIRETA ",
+   "ente": "ARCI MANTOVA",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 158513.25,
+   "aggiudicato": 67934.25,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "MANTOVA"
+  }
+ ]
+}

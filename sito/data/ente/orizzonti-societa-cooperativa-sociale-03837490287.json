@@ -1,0 +1,80 @@
+{
+ "nome": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "03837490287",
+ "affidamenti": 3,
+ "diretti": 1,
+ "quota_diretti": 33.3,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "PADOVA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B52112905A",
+   "data": "2025-01-09",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI IN SINGOLE UNITA ABITATIVE",
+   "amministrazione": "PREFETTURA DI PADOVA",
+   "ente": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 4288826.56,
+   "aggiudicato": 4288826.56,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "B3634B6E36",
+   "data": "2024-10-11",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA PROGETTO RONDINE SAI ORDINARI - SISTEMA DI ACCOGLIENZA E INTEGRAZIONE – DEL SISTEMA DI PROTEZIONE INTERNAZIONALE E MSNA",
+   "amministrazione": "COMUNE DI PADOVA",
+   "ente": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2749486.77,
+   "aggiudicato": 1043809.05,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  },
+  {
+   "cig": "7000072228",
+   "data": "2017-03-18",
+   "oggetto": "GESTIONE DEI SERVIZI DI ACCOGLIENZA E D'INTEGRAZIONE RIVOLTI A PERSONE RICHIEDENTI E TITOLARI DI PROTEZIONE INTERNAZIONALE - LOTTO B (SERVIZ DI TUTELA, ALFABETIZZAZIONE E MEDIAZION",
+   "amministrazione": "COMUNE DI PADOVA",
+   "ente": "ORIZZONTI SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 289549.2,
+   "aggiudicato": 155404.92,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PADOVA"
+  }
+ ]
+}

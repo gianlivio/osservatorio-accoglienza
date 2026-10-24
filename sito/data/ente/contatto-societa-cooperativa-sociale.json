@@ -1,0 +1,54 @@
+{
+ "nome": "CONTATTO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "01771660626",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CAMPOBASSO",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B65732637D",
+   "data": "2025-04-04",
+   "oggetto": "ACCOGLIENZA MSNA PERIODO GENNAIO- MARZO 2025 . SOCIETÀ COOPERATIVA CONTATTO SCRL",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "CONTATTO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 5890.0,
+   "aggiudicato": 5890.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CAMPOBASSO"
+  },
+  {
+   "cig": "B554A23B24",
+   "data": "2025-01-24",
+   "oggetto": "ACCOGLIENZA MINORI STRANIERI PERIODO DICEMBRE 2024. SOCIETÀ COOPERATIVA CONTATTO SCRL",
+   "amministrazione": "COMUNE DI CAMPOBASSO",
+   "ente": "CONTATTO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 16530.0,
+   "aggiudicato": 16530.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CAMPOBASSO"
+  }
+ ]
+}

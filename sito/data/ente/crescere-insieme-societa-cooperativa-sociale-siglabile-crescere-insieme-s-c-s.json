@@ -1,0 +1,144 @@
+{
+ "nome": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+ "cf": "02467680019",
+ "affidamenti": 7,
+ "diretti": 1,
+ "quota_diretti": 14.3,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2016": {
+   "affidamenti": 3,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TORINO",
+   "affidamenti": 7
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B09E1A69D0",
+   "data": "2024-02-29",
+   "oggetto": "ACCOGLIENZA DI EX MSNA NEOMAGGIORENNE PRESSO COMUNITA' ALLOGGIO PER ADOLESCENTI CRESCERE INSIEME DI TORINO ANNO 2024",
+   "amministrazione": "COMUNE DI NOVARA",
+   "ente": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18000.0,
+   "aggiudicato": 18000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "686726130D",
+   "data": "2016-11-14",
+   "oggetto": "ACCOGLIENZA INTEGRATA PER RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE INTER. E UMANITARIA",
+   "amministrazione": "COMUNE DI TORINO",
+   "ente": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1248300.0,
+   "aggiudicato": 1238824.6,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6681032205",
+   "data": "2016-04-30",
+   "oggetto": "GESTIONE DI UN CENTRO DI ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 53550.0,
+   "aggiudicato": 53550.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6586501890",
+   "data": "2016-02-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA ED ASSISTENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE A RIVAROLO CANAVESE E DINTORNI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2397500.0,
+   "aggiudicato": 1324482.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "653540854A",
+   "data": "2015-12-23",
+   "oggetto": "GESTIONE CENTRO ACCOGLIENZA PROFUGHI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 95570.0,
+   "aggiudicato": 95570.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "6095095781",
+   "data": "2015-01-20",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE A MONCALIERI E DINTORNI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1050000.0,
+   "aggiudicato": 1016700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  },
+  {
+   "cig": "60950881BC",
+   "data": "2015-01-20",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE A PINEROLO E DINTORNI",
+   "amministrazione": "PREFETTURA-UFFICIO TERRITORIALE DEL GOVERNO DI TORINO",
+   "ente": "CRESCERE INSIEME - SOCIETA' COOPERATIVA SOCIALE SIGLABILE CRESCERE INSIEME - S.C.S.",
+   "procedura": "PROCEDURA NEGOZIATA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1050000.0,
+   "aggiudicato": 1016700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TORINO"
+  }
+ ]
+}

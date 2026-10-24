@@ -1,0 +1,286 @@
+{
+ "nome": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+ "cf": "01088170392",
+ "affidamenti": 14,
+ "diretti": 5,
+ "quota_diretti": 35.7,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  },
+  "2019": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2021": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "RAVENNA",
+   "affidamenti": 13
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B44F7C73CB",
+   "data": "2024-11-19",
+   "oggetto": "COLLOCAMENTO MINORI MSNA 7083 E 7099 IN COMUNITA' EDUCATIVA RESIDENZIALE",
+   "amministrazione": "COMUNE DI FORLI ",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 36568.32,
+   "aggiudicato": 36568.32,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "B33825CC01",
+   "data": "2024-09-30",
+   "oggetto": "INSERIMENTO MSNA ID 300752293 DAL 01/10/2024 AL 02/01/2025 - GARA UTDA",
+   "amministrazione": "UNIONE DELLE TERRE D ARGINE",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9056.9,
+   "aggiudicato": 9056.9,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "A015119F58",
+   "data": "2023-09-26",
+   "oggetto": "INSERIMENTO MINORE MSNA ID 300752293 DAL 27/09/2023 AL 30/09/2024 - GARA UTDA",
+   "amministrazione": "UNIONE DELLE TERRE D ARGINE",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 66500.0,
+   "aggiudicato": 33055.8,
+   "durata_gg": 370.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "9187439282",
+   "data": "2022-04-20",
+   "oggetto": "UNITA' ABITATIVE ACCORDO QUADRO - SERVIZIO DI GESTIONE DI CENTRI DI ACCOGLIENZA PER STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA - UFFICIO TERRITORIALE DEL GOVERNO DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 2828582.91,
+   "aggiudicato": 1129085.32,
+   "durata_gg": 579.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "903121498D",
+   "data": "2021-12-17",
+   "oggetto": "SERVIZI DI ACCOGLIENZA INTEGRATA PER NEOMAGGIORENNI PROGETTO SAI -ATTIVAZIONE OPZIONE DI RINNOVO E AUMENTO DEL QUINTO DELLE PRESTAZIONI -ANNO 2022",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 153284.67,
+   "aggiudicato": 153284.67,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "903116404D",
+   "data": "2021-12-17",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1226277.36,
+   "aggiudicato": 1200729.91,
+   "durata_gg": 365.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "847787756B",
+   "data": "2020-10-27",
+   "oggetto": "ACCOGLIENZA INTEGRATA DI N. 5 NEO MAGGIORENNI PER LA DURATA DI ANNI UNO - FINO AL 31/12/2021 CON OPZIONE DI RINNOVO DI UN ULTERIORE ANNO",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 357700.0,
+   "aggiudicato": 127737.23,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "8131263280",
+   "data": "2019-12-18",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "UNIONE DEI COMUNI DELLA BASSA ROMAGNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
+   "diretto": false,
+   "modalita": "negoziata",
+   "base": 51360.0,
+   "aggiudicato": 51360.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "7610675FAD",
+   "data": "2018-08-31",
+   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E GESTIONE DEI SERVIZI CONNESSI NEL COMUNE DI RUSSI PRESSO STRUTTURE INDIVIDUAT",
+   "amministrazione": "COMUNE DI RUSSI",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 674688.0,
+   "aggiudicato": 674688.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "739604516A",
+   "data": "2018-03-01",
+   "oggetto": "CONTRATTO SPECIFICO NELL'AMBITO DELL'ACCORDO QUADRO SERVIZI DI ACCOGLIENZA CITTADINI STRANIERI -RTI 01/03/2018-30/09/2018",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 246922.83,
+   "aggiudicato": 246922.83,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972540208",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 3.8 DARSENA PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI ACCOGLIENZA DI",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136715.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6972185D10",
+   "data": "2017-02-18",
+   "oggetto": "LOTTO FUNZIONALE 1.11 LOTTO AMB. GEOGRAF. 1 PER L'AFFIDAMENTO DI UN ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL'ART. 54, COMMA 3, DEL D. LGS 50/2016 PER SERVIZI DI",
+   "amministrazione": "COMUNE DI RAVENNA",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 138096.0,
+   "aggiudicato": 136715.04,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "7049641BC7",
+   "data": "2016-11-30",
+   "oggetto": "GARA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL TERRITORIO DEL COMUNE DI RUSSI PRESSO STR",
+   "amministrazione": "COMUNE DI RUSSI",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 447125.0,
+   "aggiudicato": 447125.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  },
+  {
+   "cig": "6615061905",
+   "data": "2016-03-04",
+   "oggetto": "GARA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI ACCOGLIENZA DI CITTADINI STRANIERI EXTRACOMUNITARI RICHIEDENTI PROTEZIONE INTERNAZIONALE NEL TERRITORIO DEL COMUNE DI RUSSI PRESSO STR",
+   "amministrazione": "COMUNE DI RUSSI",
+   "ente": "COOPERATIVA SOCIALE SOL.CO - CONSORZIO DI SOLIDARIETA' E COOPERA ZIONE RAVENNA - SOCIETA' COOPERATIVA O PIU' BREVEMENTE CONSORZIO SOL.CO COOPER ATIVA SOCIALE O ANCORA COME CONSORZIO SOLCO RAVENNA COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 366240.0,
+   "aggiudicato": 366240.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "RAVENNA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "MT GROUP SOCIETA' A RESPONSABILITA' LIMITATA",
+ "cf": "03065060596",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B24601A881",
+   "data": "2024-07-01",
+   "oggetto": "FORNITURA ARREDI",
+   "amministrazione": "PREFETTURA DI ROMA",
+   "ente": "MT GROUP SOCIETA' A RESPONSABILITA' LIMITATA",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68313.0,
+   "aggiudicato": 68313.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "nome": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "09580921212",
+ "affidamenti": 11,
+ "diretti": 10,
+ "quota_diretti": 90.9,
+ "per_anno": {
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2024": {
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
+  },
+  "2025": {
+   "affidamenti": 5,
+   "diretti": 5,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "SALERNO",
+   "affidamenti": 6
+  },
+  {
+   "provincia": "BERGAMO",
+   "affidamenti": 5
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B9D9168CB1",
+   "data": "2025-12-31",
+   "oggetto": "RICHIESTA PREVENTIVO PER PROROGA SERVIZIO - RAFFORZAMENTO DELLA CAPACITÀ DI ACCOGLIENZA, INCLUSIONE E ACCOMPAGNAMENTO ALL'AUTONOMIA DEI MSNA NELLA RETE SAI PROSECUZIONE PROG 1877 P",
+   "amministrazione": "COMUNE DI CASTEL SAN LORENZO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 86382.52,
+   "aggiudicato": 86382.52,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B9BC22B5F6",
+   "data": "2025-12-19",
+   "oggetto": "ACCORDO QUADRO GARA N. 4500149 - CIG B267CF5C7B SERVIZIO DI ACCOGLIENZA IN FAVORE DI MSNA.",
+   "amministrazione": "PREFETTURA",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 60.0,
+   "aggiudicato": 60.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B8E297DCEE",
+   "data": "2025-10-31",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE PER LA REALIZZAZIONE DEL PROGETTO SIPROIMI/MSNA (SISTEMA DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE E I ",
+   "amministrazione": "COMUNE DI CASTEL SAN LORENZO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 52656.65,
+   "aggiudicato": 52656.65,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B84F88950B",
+   "data": "2025-09-22",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE PER LA REALIZZAZIONE DEL PROGETTO SIPROIMI/MSNA (SISTEMA DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE E I ",
+   "amministrazione": "COMUNE DI CASTEL SAN LORENZO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 78769.17,
+   "aggiudicato": 78769.17,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "B574D6F7AC",
+   "data": "2025-02-04",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23045.4,
+   "aggiudicato": 23045.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B219776190",
+   "data": "2024-06-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 75500.0,
+   "aggiudicato": 75500.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B219610A1F",
+   "data": "2024-06-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B219334E0D",
+   "data": "2024-06-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B21630D181",
+   "data": "2024-06-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI",
+   "amministrazione": "MINISTERO DELL INTERNO - PREFETTURA DI BERGAMO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 139900.0,
+   "aggiudicato": 139900.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "BERGAMO"
+  },
+  {
+   "cig": "B05FE7147D",
+   "data": "2024-02-15",
+   "oggetto": "PROCEDURA APERTA PER L'INDIVIDUAZIONE DEL SOGGETTO ATTUATORE PER LA REALIZZAZIONE DEL PROGETTO SIPROIMI/MSNA (SISTEMA DI PROTEZIONE PER I TITOLARI DI PROTEZIONE INTERNAZIONALE E I ",
+   "amministrazione": "COMUNE DI CASTEL SAN LORENZO",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 374153.54,
+   "aggiudicato": 374153.54,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  },
+  {
+   "cig": "A0370613CE",
+   "data": "2023-12-01",
+   "oggetto": "PROSECUZIONE ATTUAZIONE PROGETTO ACCOGLIENZA MSNA",
+   "amministrazione": "COMUNE DI OLIVETO CITRA",
+   "ente": "MELTINGPOT- CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 122000.0,
+   "aggiudicato": 122000.0,
+   "durata_gg": 120.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "SALERNO"
+  }
+ ]
+}

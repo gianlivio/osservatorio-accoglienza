@@ -1,0 +1,176 @@
+{
+ "nome": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+ "cf": "00638070227",
+ "affidamenti": 9,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2019": {
+   "affidamenti": 4,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "TRENTO",
+   "affidamenti": 9
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7804578D7F",
+   "data": "2019-02-22",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO A",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 86640.0,
+   "aggiudicato": 86640.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7804539D50",
+   "data": "2019-02-22",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO A",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 155952.0,
+   "aggiudicato": 155952.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "78043311AE",
+   "data": "2019-02-22",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO A",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 103284.0,
+   "aggiudicato": 103284.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7804285BB5",
+   "data": "2019-02-22",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO A",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 154926.0,
+   "aggiudicato": 189009.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "743446174B",
+   "data": "2018-03-29",
+   "oggetto": "RINNOVO CON CONSORZIO LAVORO AMBIENTE DEL CONTRATTO PER IL SERVIZIO DI ACCOGLIENZA STRAORDINARIA RIVOLTO ALLE PERSONE RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'IN",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 343752.72,
+   "aggiudicato": 343752.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7354703CE7",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 322300.8,
+   "aggiudicato": 107433.6,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "73541650F2",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 599047.2,
+   "aggiudicato": 199682.4,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "7352750140",
+   "data": "2017-04-27",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA STRAORDINARIA INTEGRATA PER I MIGRANTI RICHIEDENTI/TITOLARI I PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 490599.0,
+   "aggiudicato": 163533.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  },
+  {
+   "cig": "70311608C7",
+   "data": "2017-04-04",
+   "oggetto": "L.P. 2 MAGGIO 1990 N. 13. SERVIZIO DI ACCOGLIENZA DI ACCOGLIENZA STRAORDINARIA DEI CITTADINI RICHIEDENTI PROTEZIONE INTERNAZIONALE CHE IL MINISTERO DELL'INTERNO HA DESTINATO AL TRE",
+   "amministrazione": "PROVINCIA AUTONOMA DI TRENTO",
+   "ente": "CONSORZIO LAVORO AMBIENTE SOCIETA' COOPERATIVA IN SIGLA CLA SOC.COOP.",
+   "procedura": "PROCEDURA NEGOZIATA DERIVANTE DA AVVISI CON CUI SI INDICE UNA GARA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 343752.72,
+   "aggiudicato": 343752.72,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "TRENTO"
+  }
+ ]
+}

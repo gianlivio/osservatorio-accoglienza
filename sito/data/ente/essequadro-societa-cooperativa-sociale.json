@@ -1,0 +1,96 @@
+{
+ "nome": "ESSEQUADRO SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "06491150485",
+ "affidamenti": 4,
+ "diretti": 3,
+ "quota_diretti": 75.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2018": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ENNA",
+   "affidamenti": 3
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7560009CC6",
+   "data": "2018-06-26",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI ENNA",
+   "ente": "ESSEQUADRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 105975.0,
+   "aggiudicato": 105975.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "7367733D99",
+   "data": "2018-01-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI ENNA",
+   "ente": "ESSEQUADRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 938571.42,
+   "aggiudicato": 465814.28,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "727050742D",
+   "data": "2017-11-13",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE DI ENNA",
+   "ente": "ESSEQUADRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 181904.76,
+   "aggiudicato": 151757.14,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ENNA"
+  },
+  {
+   "cig": "681499689A",
+   "data": "2016-09-30",
+   "oggetto": "PREFETTURA-U.T.G. DI CALTANISSETTA - AFFIDAMENTO DELLA GESTIONE DEI CENTRI GOVERNATIVI PER IMMIGRATI E PRECISAMENTE DEL CENTRO DI PRIMA ACCOGLIENZA E DEL CENTRO DI IDENTIFICAZIONE ",
+   "amministrazione": "PREFETTURA DI CALTANISSETTA",
+   "ente": "ESSEQUADRO SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 7054895.0,
+   "aggiudicato": 4795224.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

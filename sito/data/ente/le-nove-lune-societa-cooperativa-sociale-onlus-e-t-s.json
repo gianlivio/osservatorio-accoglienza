@@ -1,0 +1,59 @@
+{
+ "nome": "LE NOVE LUNE SOCIETA' COOPERATIVA SOCIALE - ONLUS - E.T.S.",
+ "cf": "03468260785",
+ "affidamenti": 2,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "COSENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "9531928BD0",
+   "data": "2023-01-03",
+   "oggetto": "INDIVIDUAZIONE OPERATORE ECONOMICO PER GESTIONE SAI SISTEMA DI ACCOGLIENZA ED INTEGRAZIONE DEL COMUNE DI TREBISACCE PER IL TRIENNIO 2023/2025",
+   "amministrazione": "CENTRALE UNICA DI COMMITTENZA DEI COMUNI ADERENTI SAN BASILE - CIVITA - FRASCINETO",
+   "ente": "LE NOVE LUNE SOCIETA' COOPERATIVA SOCIALE - ONLUS - E.T.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 1254000.0,
+   "aggiudicato": 1194285.72,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  },
+  {
+   "cig": "846158727D",
+   "data": "2020-11-13",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA INTEGRATA DEL SIPROIMI",
+   "amministrazione": "CUC TRA I COMUNI DI FRANCAVILLA MARITTIMA, CERCHIARA DI CALABRIA, PLATACI, SAN LORENZO BELLIZZI, NOCARA, ROCCA IMPERIALE, VILLAPIANA",
+   "ente": "LE NOVE LUNE SOCIETA' COOPERATIVA SOCIALE - ONLUS - E.T.S.",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 797000.0,
+   "aggiudicato": 797000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "COSENZA"
+  }
+ ]
+}

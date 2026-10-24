@@ -1,0 +1,38 @@
+{
+ "nome": "C.M.F. S.N.C. DI MAZZA DOMENICO UMBERTO & C.",
+ "cf": "02240310793",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B8F257E2C1",
+   "data": "2025-11-05",
+   "oggetto": "COMPLETAMENTO FUNZIONALE E RISTRUTTURAZIONE DEL COMPLESSO DI PALAZZO MAZZA. FORNITURA DI BENI PER APPARTAMENTO PER I PROFUGHI",
+   "amministrazione": "COMUNE DI SAN PIETRO APOSTOLO",
+   "ente": "C.M.F. S.N.C. DI MAZZA DOMENICO UMBERTO & C.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9671.24,
+   "aggiudicato": 9671.24,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

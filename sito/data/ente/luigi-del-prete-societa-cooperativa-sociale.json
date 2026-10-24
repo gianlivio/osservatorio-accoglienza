@@ -1,0 +1,195 @@
+{
+ "nome": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+ "cf": "06980641218",
+ "affidamenti": 10,
+ "diretti": 10,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2024": {
+   "affidamenti": 8,
+   "diretti": 8,
+   "quota_diretti": 100.0
+  },
+  "2025": {
+   "affidamenti": 2,
+   "diretti": 2,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 8
+  },
+  {
+   "provincia": "CASERTA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "LODI",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B7FA57D2A6",
+   "data": "2025-08-18",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI INSERIMENTO COMUNITÀ DI N. 2 MSNA A FAVORE DI COOPERATIVA SOCIALE LUIGI DEL PRETE",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39000.0,
+   "aggiudicato": 39000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B7C6719016",
+   "data": "2025-07-28",
+   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI INSERIMENTO COMUNITÀ DI N. 3 MSNA A FAVORE DI COOPERATIVA SOCIALE LUIGI DEL PRETE",
+   "amministrazione": "CONSORZIO LODIGIANO PER I SERVIZI ALLA PERSONA",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 68000.0,
+   "aggiudicato": 68000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "LODI"
+  },
+  {
+   "cig": "B4C5586E82",
+   "data": "2024-12-13",
+   "oggetto": "AFFIDAMNETO MINORI STRANIERI NON ACCOMPAGNATI",
+   "amministrazione": "COMUNE DI AFRAGOLA",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 39700.0,
+   "aggiudicato": 39700.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B40722658F",
+   "data": "2024-10-29",
+   "oggetto": "COLLOCAMENTO MINORE MSNA IN STRUTTURA RESIDENZIALE",
+   "amministrazione": "COMUNE CAIVANO",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 18720.0,
+   "aggiudicato": 18720.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B307489D79",
+   "data": "2024-09-13",
+   "oggetto": "OSPITALITÀ DEL MSNA LA C/O COMUNITÀ PHILIA DELLA COOP. SOC. LUIGI DEL PRETE ONLUS DAL 07/08 AL 17/10/2024",
+   "amministrazione": "AZIENDA SPECIALE SERVIZI BASSA REGGIANA",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 9000.0,
+   "aggiudicato": 9000.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B2C35D02C2",
+   "data": "2024-08-12",
+   "oggetto": "COLLOCAMENTO MINORE STRANIERO NON ACCOMPAGNATO",
+   "amministrazione": "COMUNE CAIVANO",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 27930.0,
+   "aggiudicato": 27930.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B1724145D9",
+   "data": "2024-04-30",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE CAIVANO",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23940.0,
+   "aggiudicato": 23940.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B16A06C06F",
+   "data": "2024-04-29",
+   "oggetto": "Oggetto non pubblicabile a causa della potenziale presenza di dati personali",
+   "amministrazione": "COMUNE CAIVANO",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23940.0,
+   "aggiudicato": 23940.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B147C7A2AA",
+   "data": "2024-04-17",
+   "oggetto": "COLLOCAMENTO MINORE MSNA IN STRUTTURA RESIDENZIALE",
+   "amministrazione": "COMUNE CAIVANO",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 23940.0,
+   "aggiudicato": 23940.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "NAPOLI"
+  },
+  {
+   "cig": "B0D7EC374A",
+   "data": "2024-03-15",
+   "oggetto": "ACCOGLIENZA MINORE STRANIERO NON ACCOMPAGNATO ADEL ESSAM",
+   "amministrazione": "COMUNE DI AVERSA",
+   "ente": "LUIGI DEL PRETE - SOCIETA' COOPERATIVA SOCIALE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 32438.0,
+   "aggiudicato": 32438.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CASERTA"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "MAGO MERLINO ONLUS",
+ "cf": "92007880799",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CATANZARO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7330903488",
+   "data": "2016-12-22",
+   "oggetto": "PROROGA TECNICA PROGETTO SPRAR TERRE SORELLE (1.1.2017 - 31.7.2017)",
+   "amministrazione": "CUC COMUNE MARCELLINARA-COMUNE MIGLIERINA",
+   "ente": "MAGO MERLINO ONLUS",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 273088.08,
+   "aggiudicato": 273088.08,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CATANZARO"
+  }
+ ]
+}

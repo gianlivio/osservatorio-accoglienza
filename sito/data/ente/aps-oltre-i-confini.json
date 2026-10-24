@@ -1,0 +1,59 @@
+{
+ "nome": "APS OLTRE I CONFINI",
+ "cf": "01629020627",
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
+ "per_anno": {
+  "2018": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "BENEVENTO",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "95427140B7",
+   "data": "2022-12-21",
+   "oggetto": "INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE PER LA GESTIONE DEL SISTEMA DI ACCOGLIENZA INTEGRATA PER TITOLARI DI PROTEZIONE INTERNAZIONALE TRIENNIO 2023/2025 PER IL COMUNE DI SCIS",
+   "amministrazione": "AGENZIA AREA NOLANA S.C.P.A",
+   "ente": "APS OLTRE I CONFINI",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 2007489.0,
+   "aggiudicato": 2007489.0,
+   "durata_gg": 1095.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": null
+  },
+  {
+   "cig": "76975478BA",
+   "data": "2018-11-20",
+   "oggetto": "PROROGA TECNICA CONTRATTUALE PROGETTO SPRAR ADULTI ALL'ATS TRA LA COOP. SOC. 'IL FARO' E L'APS 'OLTRE I CONFINI', DAL 01/10/2018 AL 31/12/2018",
+   "amministrazione": "COMUNE DI BENEVENTO",
+   "ente": "APS OLTRE I CONFINI",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 105612.0,
+   "aggiudicato": 146943.19,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "BENEVENTO"
+  }
+ ]
+}

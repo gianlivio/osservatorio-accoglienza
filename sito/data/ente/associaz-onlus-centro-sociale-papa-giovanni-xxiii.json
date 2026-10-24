@@ -1,0 +1,38 @@
+{
+ "nome": "ASSOCIAZ. ONLUS CENTRO SOCIALE PAPA GIOVANNI XXIII",
+ "cf": "01838960357",
+ "affidamenti": 1,
+ "diretti": 1,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2025": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "MODENA",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "B5B7B5A448",
+   "data": "2025-02-19",
+   "oggetto": "PAPA GIOVANNI - SERVIZIO ACCOGLIENZA RICHIEDENTI PROTEZIONE INTERNAZIONALE IN STRUTTURE COSTITUITE DA SINGOLE UNITA' ABITATIVE",
+   "amministrazione": "PREFETTURA U.T.G. DI MODENA",
+   "ente": "ASSOCIAZ. ONLUS CENTRO SOCIALE PAPA GIOVANNI XXIII",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 6561240.0,
+   "aggiudicato": 6561240.0,
+   "durata_gg": null,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "MODENA"
+  }
+ ]
+}

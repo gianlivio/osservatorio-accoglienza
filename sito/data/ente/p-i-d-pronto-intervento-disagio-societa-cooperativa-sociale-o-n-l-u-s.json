@@ -1,0 +1,59 @@
+{
+ "nome": "P.I.D. PRONTO INTERVENTO DISAGIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+ "cf": "05642381007",
+ "affidamenti": 2,
+ "diretti": 2,
+ "quota_diretti": 100.0,
+ "per_anno": {
+  "2015": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2016": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "ROMA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "65732956A1",
+   "data": "2016-01-29",
+   "oggetto": "ACCOGLIENZA IMMIGRATI SPRAR ORDINARIO ANNO 2016 COOP. PID CASA DI OTELLO",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "P.I.D. PRONTO INTERVENTO DISAGIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61320.0,
+   "aggiudicato": 61320.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  },
+  {
+   "cig": "6329511DB3",
+   "data": "2015-07-10",
+   "oggetto": "SERVIZIO DI ACCOGLIENZA IMMIGRATI SISTEMA SPRAR ANNO 2015, COOP. SOC. PID",
+   "amministrazione": "ROMA CAPITALE",
+   "ente": "P.I.D. PRONTO INTERVENTO DISAGIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 61320.0,
+   "aggiudicato": 61320.0,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "ROMA"
+  }
+ ]
+}

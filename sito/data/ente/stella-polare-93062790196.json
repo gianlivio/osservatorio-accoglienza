@@ -1,0 +1,158 @@
+{
+ "nome": "STELLA POLARE",
+ "cf": "93062790196",
+ "affidamenti": 7,
+ "diretti": 4,
+ "quota_diretti": 57.1,
+ "per_anno": {
+  "2019": {
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
+  },
+  "2020": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2021": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  },
+  "2022": {
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  },
+  "2023": {
+   "affidamenti": 1,
+   "diretti": 1,
+   "quota_diretti": 100.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "CREMONA",
+   "affidamenti": 4
+  },
+  {
+   "provincia": "PIACENZA",
+   "affidamenti": 2
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "97373489C3",
+   "data": "2023-03-27",
+   "oggetto": "CONVENZIONE ACCOGLIENZA CITTADINI STRANIERI RICHIEENTI ASILO - GESTORE STELLA POLARE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STELLA POLARE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 233965.0,
+   "aggiudicato": 233965.0,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "946518883A",
+   "data": "2022-10-20",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2022-2023 ASSOCIAZIONE STELLA POLARE",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "STELLA POLARE",
+   "procedura": "CONFRONTO COMPETITIVO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 694923.23,
+   "aggiudicato": 694923.23,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "9336719841",
+   "data": "2022-07-27",
+   "oggetto": "ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STELLA POLARE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 20961000.0,
+   "aggiudicato": 1518308.0,
+   "durata_gg": 730.0,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "PIACENZA"
+  },
+  {
+   "cig": "8930898A2B",
+   "data": "2021-11-01",
+   "oggetto": "CONVENZIONE ANNUALE SERVIZIO ACCOGLIENZA MIGRANTI 2021-2022 - STELLA POLARE.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "STELLA POLARE",
+   "procedura": "AFFIDAMENTO DIRETTO IN ADESIONE AD ACCORDO QUADRO/CONVENZIONE",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 588011.96,
+   "aggiudicato": 588011.96,
+   "durata_gg": 365.0,
+   "da_accordo": true,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "83005885E8",
+   "data": "2020-05-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI EXTRA GARA DAL 1^.4.2020 AL 31.3.2021. STELLA POLARE.",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "STELLA POLARE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 256822.5,
+   "aggiudicato": 256822.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7906730800",
+   "data": "2019-05-14",
+   "oggetto": "SERVIZIO ACCOGLIENZA MIGRANTI RICHIEDENTI PROTEZIONE INTERNAZIONALE DAL 1^.4.2019 AL 31.3.2020 (STELLA POLARE)",
+   "amministrazione": "PREFETTURA DI CREMONA",
+   "ente": "STELLA POLARE",
+   "procedura": "AFFIDAMENTO DIRETTO",
+   "diretto": true,
+   "modalita": "diretto",
+   "base": 246922.5,
+   "aggiudicato": 246922.5,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "CREMONA"
+  },
+  {
+   "cig": "7842244878",
+   "data": "2019-03-27",
+   "oggetto": "AFFIDAMENTO SERVIZI DI GESTIONE DI CENTRI DI ACCOGLIENZA PER CITTADINI STRANIERI COSTITUITI DA SINGOLE UNITÀ ABITATIVE UBICATE IN PROVINCIA DI PIACENZA MESSE A DISPOSIZIONE DAL CON",
+   "amministrazione": "PREFETTURA DI PIACENZA - UFFICIO TERRITORIALE DEL GOVERNO",
+   "ente": "STELLA POLARE",
+   "procedura": "PROCEDURA APERTA",
+   "diretto": false,
+   "modalita": "gara",
+   "base": 23845050.0,
+   "aggiudicato": 52524.93,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "probabile",
+   "provincia": null
+  }
+ ]
+}

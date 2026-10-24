@@ -1,0 +1,38 @@
+{
+ "nome": "FONDAZIONE ASILO MARIUCCIA",
+ "cf": "04826300156",
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
+ "per_anno": {
+  "2017": {
+   "affidamenti": 1,
+   "diretti": 0,
+   "quota_diretti": 0.0
+  }
+ },
+ "province": [
+  {
+   "provincia": "VARESE",
+   "affidamenti": 1
+  }
+ ],
+ "contratti": [
+  {
+   "cig": "7156496F4F",
+   "data": "2017-04-12",
+   "oggetto": "SERVIZIO DI 'PRIMA ACCOGLIENZA DI CITTADINI STRANIERI RICHIEDENTI PROTEZIONE INTERNAZIONALE E LA GESTIONE DEI SERVIZI CONNESSI'. PERIODO 01/05/2017 - 31/12/2017.",
+   "amministrazione": "PREFETTURA",
+   "ente": "FONDAZIONE ASILO MARIUCCIA",
+   "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
+   "diretto": false,
+   "modalita": "diretto",
+   "base": 250246.8,
+   "aggiudicato": 250246.8,
+   "durata_gg": null,
+   "da_accordo": false,
+   "confidenza": "certa",
+   "provincia": "VARESE"
+  }
+ ]
+}
