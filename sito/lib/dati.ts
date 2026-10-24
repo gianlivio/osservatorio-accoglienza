@@ -25,7 +25,7 @@ export type ProvinciaDettaglio = {
   per_anno: Record<string, Blocco | null>;
   per_mese: Record<string, Mese | undefined>;
   contratti: Contratto[];
-  top_enti: { nome: string; affidamenti: number }[];
+  top_enti: { nome: string; cf: string | null; affidamenti: number }[];
   rapporti_ricorrenti: { amministrazione: string; ente: string; affidamenti_diretti: number }[];
 };
 
@@ -50,6 +50,29 @@ export function nomeProvincia(nome: string) {
   return nome.toLowerCase().replace(/[\p{L}]+/gu, (parola, i: number) =>
     MINUSCOLE.has(parola) && i > 0 ? parola : parola[0].toUpperCase() + parola.slice(1));
 }
+const SIGLE = new Set(["srl", "spa", "snc", "sas", "scs", "scarl", "onlus", "aps", "odv", "ets", "asd", "ssd"]);
+export function nomeEnte(nome: string) {
+  return nome.toLowerCase().replace(/[\p{L}][\p{L}.]*/gu, (parola) =>
+    parola.includes(".") || SIGLE.has(parola) ? parola.toUpperCase() : parola[0].toUpperCase() + parola.slice(1));
+}
+
+const nProvincia = (nome: string) =>
+  nome === "SUD SARDEGNA" ? "nella provincia del Sud Sardegna" : `in provincia di ${nomeProvincia(nome)}`;
+
+export function descrizioneProvincia(p: Provincia, d: ProvinciaDettaglio) {
+  const t = p.totale;
+  const contratti = `${t.affidamenti} ${t.affidamenti === 1 ? "contratto" : "contratti"}`;
+  const base = `${contratti} dal ${anni[0]} al ${anni[anni.length - 1]}, ${t.diretti} senza gara. ` +
+    `Importi, enti gestori e affidamenti ${nProvincia(p.provincia)}, da dati ANAC.`;
+  const periodo = p.anni_enti.length > 1 ? `${p.anni_enti[0]}–${p.anni_enti[p.anni_enti.length - 1]}` : p.anni_enti[0];
+  const enti = d.top_enti.filter((e) => e.cf !== null && e.cf.length === 11).slice(0, 2).map((e) => nomeEnte(e.nome));
+  for (let n = enti.length; n > 0; n--) {
+    const testo = `${base} Più contratti nel ${periodo}: ${enti.slice(0, n).join(", ")}.`;
+    if (testo.length <= 155) return testo;
+  }
+  return base;
+}
+
 export const trovaProvincia = (s: string) => province.find((p) => slug(p.provincia) === s);
 export async function caricaDettaglioProvincia(slug: string): Promise<ProvinciaDettaglio> {
   const mod = await import(`@/data/provincia/${slug}.json`);
