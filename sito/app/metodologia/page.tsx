@@ -107,9 +107,9 @@ export default function Metodologia() {
             {serieAnni.map((a) => (
               <tr key={a.anno}>
                 <td>{a.anno}</td>
-                <td className="num">{a.affidamenti}</td>
+                <td className="num">{nItal(a.affidamenti)}</td>
                 <td className="num">{a.quota_diretti}%</td>
-                <td className="num">{a.affidamenti_40k}</td>
+                <td className="num">{nItal(a.affidamenti_40k)}</td>
                 <td className="num">{a.quota_diretti_40k !== null ? `${a.quota_diretti_40k}%` : "—"}</td>
               </tr>
             ))}

@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
-import { slug, euro, anni, type Provincia, type Blocco, type BloccoAnnoLite } from "@/lib/dati";
+import { slug, euro, nItal, anni, type Provincia, type Blocco, type BloccoAnnoLite } from "@/lib/dati";
 
 type Campo = "provincia" | "affidamenti" | "quota_diretti" | "importo_mediano" | "enti_gestori";
 const COLONNE: { campo: Campo; testo: string; num: boolean }[] = [
@@ -71,10 +71,10 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
             return (
               <tr key={p.provincia}>
                 <td><Link href={`/provincia/${slug(p.provincia)}`} className="nome-prov">{p.provincia}</Link></td>
-                <td className="num">{b.affidamenti}</td>
+                <td className="num">{nItal(b.affidamenti)}</td>
                 <td className="num">{b.quota_diretti}%</td>
                 <td className="num">{euro(b.importo_mediano)}</td>
-                <td className="num">{b.enti_gestori}</td>
+                <td className="num">{nItal(b.enti_gestori)}</td>
               </tr>
             );
           })}

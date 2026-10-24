@@ -1,7 +1,7 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
-import { msnaData } from "@/lib/dati";
+import { msnaData, nItal } from "@/lib/dati";
 
 export const metadata = { title: "Minori non accompagnati · Osservatorio Accoglienza" };
 
@@ -48,7 +48,7 @@ function GraficoNazionale({ serie }: { serie: { periodo: string; presenti: numbe
         ))}
         <text x={pad} y={h - 8} className="asse-txt">{primoAnno}</text>
         <text x={w - pad} y={h - 8} className="asse-txt" textAnchor="end">{ultimoAnno}</text>
-        <text x={pad} y={y(max) - 6} className="asse-txt">{max.toLocaleString("it-IT")}</text>
+        <text x={pad} y={y(max) - 6} className="asse-txt">{nItal(max)}</text>
       </svg>
       <p className="legenda">
         <span className="leg-linea" /> rilevazione mensile ({primoAnno}–2022)
@@ -127,7 +127,7 @@ export default function Minori() {
             {d.regioni.map((r) => (
               <tr key={r.regione}>
                 <td className="nome-prov">{r.regione}</td>
-                <td className="num">{r.ultimo.toLocaleString("it-IT")}</td>
+                <td className="num">{nItal(r.ultimo)}</td>
                 <td className="cella-spark"><Spark serie={r.serie} regione={r.regione} /></td>
               </tr>
             ))}

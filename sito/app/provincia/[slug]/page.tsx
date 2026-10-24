@@ -71,12 +71,12 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       <section className="sezione">
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
         <div className="cifre">
-          <div className="cifra"><b>{t.affidamenti}</b><span>contratti firmati</span></div>
-          <div className="cifra"><b>{t.diretti}</b><span>assegnati senza gara ({t.quota_diretti}%)</span></div>
+          <div className="cifra"><b>{nItal(t.affidamenti)}</b><span>contratti firmati</span></div>
+          <div className="cifra"><b>{nItal(t.diretti)}</b><span>assegnati senza gara ({t.quota_diretti}%)</span></div>
           <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano</span></div>
-          <div className="cifra"><b>{t.canale_prefettura}</b><span>firmati dalla Prefettura</span></div>
-          <div className="cifra"><b>{t.canale_ente_locale}</b><span>firmati da comuni o enti locali</span></div>
-          <div className="cifra"><b>{t.prosecuzioni}</b><span>rinnovi di contratti già in corso</span></div>
+          <div className="cifra"><b>{nItal(t.canale_prefettura)}</b><span>firmati dalla Prefettura</span></div>
+          <div className="cifra"><b>{nItal(t.canale_ente_locale)}</b><span>firmati da comuni o enti locali</span></div>
+          <div className="cifra"><b>{nItal(t.prosecuzioni)}</b><span>rinnovi di contratti già in corso</span></div>
         </div>
       </section>
 
@@ -94,10 +94,10 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
               return (
                 <tr key={a}>
                   <td>{a}</td>
-                  <td className="num">{b ? b.affidamenti : "—"}</td>
+                  <td className="num">{b ? nItal(b.affidamenti) : "—"}</td>
                   <td className="num">{b ? `${b.quota_diretti}%` : "—"}</td>
                   <td className="num">{b ? euro(b.importo_mediano) : "—"}</td>
-                  <td className="num">{b ? b.enti_gestori : "—"}</td>
+                  <td className="num">{b ? nItal(b.enti_gestori) : "—"}</td>
                 </tr>
               );
             })}
@@ -152,7 +152,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             <tbody>{d.top_enti.map((e) => (
               <tr key={e.nome}><td>{e.cf && slugEnteDaCf.has(e.cf)
                 ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} className="link-ente">{nomeEnte(e.nome)}</Link>
-                : nomeEnte(e.nome)}</td><td className="num">{e.affidamenti}</td></tr>
+                : nomeEnte(e.nome)}</td><td className="num">{nItal(e.affidamenti)}</td></tr>
             ))}</tbody>
           </table>
         </section>

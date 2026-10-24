@@ -56,8 +56,8 @@ const nProvincia = (nome: string) =>
 
 export function descrizioneProvincia(p: Provincia) {
   const t = p.totale;
-  const contratti = `${t.affidamenti} ${t.affidamenti === 1 ? "contratto" : "contratti"}`;
-  const base = `${contratti} dal ${anni[0]} al ${anni[anni.length - 1]}, ${t.diretti} senza gara. ` +
+  const contratti = `${nItal(t.affidamenti)} ${t.affidamenti === 1 ? "contratto" : "contratti"}`;
+  const base = `${contratti} dal ${anni[0]} al ${anni[anni.length - 1]}, ${nItal(t.diretti)} senza gara. ` +
     `Importi, enti gestori e affidamenti ${nProvincia(p.provincia)}, da dati ANAC.`;
   return base;
 }
@@ -69,8 +69,8 @@ export async function caricaDettaglioProvincia(slug: string): Promise<ProvinciaD
 }
 export const euro = (n: number | null) =>
   n === null ? "n.d." : new Intl.NumberFormat("it-IT",
-    { style: "currency", currency: "EUR", maximumFractionDigits: 0 }).format(n);
-export const nItal = (n: number) => n.toLocaleString("it-IT");
+    { style: "currency", currency: "EUR", maximumFractionDigits: 0, useGrouping: "always" }).format(n);
+export const nItal = (n: number) => n.toLocaleString("it-IT", { useGrouping: "always" });
 
 
 import msnaRaw from "@/data/msna.json";

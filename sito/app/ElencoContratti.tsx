@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { euro, type Contratto } from "@/lib/dati";
+import { euro, nItal, type Contratto } from "@/lib/dati";
 
 export default function ElencoContratti({ contratti }: { contratti: Contratto[] }) {
   const [anno, setAnno] = useState("tutti");
@@ -19,7 +19,7 @@ export default function ElencoContratti({ contratti }: { contratti: Contratto[] 
           <button key={a} type="button" className={"periodo" + (anno === a ? " attivo" : "")}
             onClick={() => { setAnno(a); setQuanti(40); }}>{a}</button>
         ))}
-        <span className="conteggio-prov">{filtrati.length} contratti</span>
+        <span className="conteggio-prov">{nItal(filtrati.length)} contratti</span>
       </div>
 
       <ul className="contratti">
