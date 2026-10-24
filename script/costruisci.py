@@ -166,6 +166,8 @@ def mesi(rr):
                   "importo_mediano": round(statistics.median(imp)) if imp else None}
     return out
 
+CF_VALIDO = re.compile(r"\d{11}|[A-Za-z0-9]{16}")  # impresa/ente o persona fisica; il resto è testo libero, si conta per nome
+
 per_prov = collections.defaultdict(list)
 for r in righe:
     per_prov[(r["provincia"] or "NON INDICATA").strip()].append(r)
@@ -191,7 +193,15 @@ for p, rr in sorted(per_prov.items()):
         "confidenza": r["confidenza"],
     } for r in elenco]
 
-    enti = collections.Counter(r["vincitore"] for r in rr_e if r["vincitore"])
+    enti = collections.Counter()
+    nomi_cf = collections.defaultdict(collections.Counter)
+    for r in rr_e:
+        if not r["vincitore"]: continue
+        if CF_VALIDO.fullmatch(r["cf_vincitore"]):
+            enti[("cf", r["cf_vincitore"])] += 1
+            nomi_cf[r["cf_vincitore"]][r["vincitore"]] += 1
+        else:
+            enti[("nome", r["vincitore"])] += 1
     cop  = collections.Counter((r["denominazione_amministrazione_appaltante"], r["vincitore"])
                                for r in rr_e if diretto(r) and r["vincitore"])
     per_anno_completo = {a: blocco([r for r in rr if r["anno"] == a]) for a in ANNI}
@@ -202,7 +212,9 @@ for p, rr in sorted(per_prov.items()):
         "per_mese": mesi(rr),
         "anni_enti": sorted(ANNI_ESITO),
         "contratti": contratti,
-        "top_enti": [{"nome": k, "affidamenti": v} for k, v in enti.most_common(10)],
+        "top_enti": [{"nome": nomi_cf[k].most_common(1)[0][0] if t == "cf" else k,
+                      "cf": k if t == "cf" else None, "affidamenti": v}
+                     for (t, k), v in enti.most_common(10)],
         "rapporti_ricorrenti": [{"amministrazione": a, "ente": e, "affidamenti_diretti": v}
                                 for (a, e), v in cop.most_common(8) if v >= 3],
     })
