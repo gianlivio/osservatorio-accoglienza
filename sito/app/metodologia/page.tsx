@@ -138,6 +138,10 @@ export default function Metodologia() {
           file, nella pagina della provincia.
         </p>
         <ScaricaCsv percorso="/dati/contratti.csv" />
+        <p className="nota-tabella">
+          I feed RSS, <a href="/feed.xml" className="link-interno">nazionale</a> e per provincia,
+          si aggiornano con i dati, una volta al mese.
+        </p>
       </section>
     </main>
   );

@@ -9,7 +9,7 @@ import { nomeEnte } from "@/lib/nomi";
 import { slugEnteDaCf } from "@/lib/enti";
 import { centri } from "@/lib/centri";
 import { regioneDi, regioni } from "@/lib/regioni";
-import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, euroCent, nomeProvincia, descrizioneProvincia } from "@/lib/dati";
+import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, euroCent, nomeProvincia, nProvincia, descrizioneProvincia } from "@/lib/dati";
 
 const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
 const MESI_LUNGHI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto",
@@ -29,7 +29,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!p) return {};
   const title = `${nomeProvincia(p.provincia)}: contratti per l'accoglienza dei migranti ${anni[0]}–${anni[anni.length - 1]} · Osservatorio Accoglienza`;
   const description = descrizioneProvincia(p);
-  return metadatiPagina(title, description);
+  return {
+    ...metadatiPagina(title, description),
+    alternates: {
+      canonical: "./",
+      types: { "application/rss+xml": [{ url: `/provincia/${slug}/feed.xml`, title: `Affidamenti ${nProvincia(p.provincia)}` }] },
+    },
+  };
 }
 
 export default async function Provincia({ params }: { params: Promise<{ slug: string }> }) {
@@ -148,7 +154,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           In ordine dal più recente. Ogni voce riporta quanto risulta nell&apos;archivio
           pubblico: dove il dato non è stato comunicato, la riga non compare.
         </p>
-        <ScaricaCsv percorso={`/dati/provincia/${slug}.csv`} />
+        <ScaricaCsv percorso={`/dati/provincia/${slug}.csv`} rss={`/provincia/${slug}/feed.xml`} />
         <ElencoContratti contratti={d.contratti} />
       </section>
 

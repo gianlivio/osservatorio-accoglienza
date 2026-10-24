@@ -9,6 +9,10 @@ export const metadata = {
   title: "Osservatorio Accoglienza",
   description:
     "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
+  alternates: {
+    canonical: "./",
+    types: { "application/rss+xml": [{ url: "/feed.xml", title: "Ultimi affidamenti per l'accoglienza" }] },
+  },
 };
 
 const datasetJsonLd = {
