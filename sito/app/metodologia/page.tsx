@@ -36,7 +36,7 @@ export default function Metodologia() {
           invece da ANAC e si aggiornano ogni mese. Le due fonti coprono periodi diversi e non
           vanno confrontate direttamente. Per CAS e prima accoglienza le cifre coincidono con
           quelle pubblicate da Centri d&apos;Italia; i file contengono alcune righe ripetute,
-          mantenute come nella fonte. Per il SAI si usa il file dei progetti, completo per tutti
+          mantenute come nella fonte. Per il SAI si usa il file dei progetti, disponibile per tutti
           gli anni: nel {centri.sai_ultimo_anno.anno} le presenze risultano{" "}
           {nItal(centri.sai_ultimo_anno.presenze_progetti)}, contro{" "}
           {nItal(centri.sai_ultimo_anno.presenze_strutture)} nel totale pubblicato, calcolato sul
