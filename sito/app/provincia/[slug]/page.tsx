@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
-import { creatore, dominio, fonteAnac, licenza, breadcrumb, distribuzioneCsv } from "@/lib/jsonld";
+import { creatore, dominio, fonteAnac, fonteCentri, licenza, breadcrumb, distribuzioneCsv } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { nomeEnte } from "@/lib/nomi";
 import { slugEnteDaCf } from "@/lib/enti";
@@ -64,7 +64,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     isAccessibleForFree: true,
     spatialCoverage: { "@type": "Place", name: `${nome}, Italia` },
     temporalCoverage: `${anni[0]}/${anni[anni.length - 1]}`,
-    isBasedOn: fonteAnac,
+    isBasedOn: [fonteAnac, fonteCentri],
     distribution: distribuzioneCsv(`/dati/provincia/${slug}.csv`),
     citation: "Autorità Nazionale Anticorruzione (ANAC), Banca Dati Nazionale dei Contratti Pubblici",
   };
