@@ -5,6 +5,7 @@ import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { creatore, dominio, fonteAnac, licenza, breadcrumb, distribuzioneCsv } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
+import { nomeEnte } from "@/lib/nomi";
 import { slugEnteDaCf } from "@/lib/enti";
 import { regioneDi, regioni } from "@/lib/regioni";
 import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, nomeProvincia, descrizioneProvincia } from "@/lib/dati";
@@ -150,8 +151,8 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
             <tbody>{d.top_enti.map((e) => (
               <tr key={e.nome}><td>{e.cf && slugEnteDaCf.has(e.cf)
-                ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} className="link-ente">{e.nome}</Link>
-                : e.nome}</td><td className="num">{e.affidamenti}</td></tr>
+                ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} className="link-ente">{nomeEnte(e.nome)}</Link>
+                : nomeEnte(e.nome)}</td><td className="num">{e.affidamenti}</td></tr>
             ))}</tbody>
           </table>
         </section>

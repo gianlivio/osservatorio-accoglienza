@@ -5,6 +5,7 @@ import { slug as mkSlug, euro, nomeProvincia, totale } from "@/lib/dati";
 import { enti, trovaEnte, caricaEnte, type EnteDettaglio } from "@/lib/enti";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
+import { nomeEnte } from "@/lib/nomi";
 
 export function generateStaticParams() {
   return enti.map((e) => ({ slug: e.slug }));
@@ -30,7 +31,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const e = trovaEnte(slug);
   if (!e) return {};
   const d = await caricaEnte(slug);
-  return metadatiPagina(`${e.nome}: contratti per l'accoglienza dei migranti · Osservatorio Accoglienza`, descrizione(d));
+  return metadatiPagina(`${nomeEnte(e.nome)}: contratti per l'accoglienza dei migranti · Osservatorio Accoglienza`, descrizione(d));
 }
 
 export default async function Ente({ params }: { params: Promise<{ slug: string }> }) {
@@ -41,10 +42,10 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
 
   return (
     <main>
-      <JsonLd dati={breadcrumb([{ nome: e.nome, percorso: `/ente/${slug}` }])} />
+      <JsonLd dati={breadcrumb([{ nome: nomeEnte(e.nome), percorso: `/ente/${slug}` }])} />
       <Link href="/" className="indietro">← tutte le province</Link>
       <p className="occhiello">Ente gestore · {periodo(d)}</p>
-      <h1 className="tesi">{e.nome}</h1>
+      <h1 className="tesi">{nomeEnte(e.nome)}</h1>
       <p className="sommario">
         L&apos;aggiudicatario è noto per il {totale.copertura_vincitore.toLocaleString("it-IT")}% dei
         contratti dell&apos;archivio: questo elenco comprende solo quelli.
