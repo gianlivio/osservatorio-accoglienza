@@ -7,10 +7,13 @@ import { creatore, dominio, fonteAnac, licenza, breadcrumb, distribuzioneCsv } f
 import { metadatiPagina } from "@/lib/metadati";
 import { nomeEnte } from "@/lib/nomi";
 import { slugEnteDaCf } from "@/lib/enti";
+import { centri } from "@/lib/centri";
 import { regioneDi, regioni } from "@/lib/regioni";
-import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, nomeProvincia, descrizioneProvincia } from "@/lib/dati";
+import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, euroCent, nomeProvincia, descrizioneProvincia } from "@/lib/dati";
 
 const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
+const MESI_LUNGHI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto",
+  "settembre", "ottobre", "novembre", "dicembre"];
 function formatPeriodo(periodo: string) {
   const [anno, mese] = periodo.split("-");
   return `${NOMI_MESI[+mese - 1]} ${anno}`;
@@ -39,6 +42,12 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     .filter((voce): voce is [string, NonNullable<(typeof voce)[1]>] => voce[1] !== undefined)
     .sort(([a], [b]) => a.localeCompare(b));
   const maxMese = Math.max(...mesiDati.map(([, m]) => m.affidamenti), 1);
+  const c = centri.province[p.provincia] ?? {};
+  const dataIt = (iso: string) => {
+    const [a, m, g] = iso.split("-");
+    return `${+g} ${MESI_LUNGHI[+m - 1]} ${a}`;
+  };
+  const sai31dic = (a: string) => centri.rilevazioni_sai[a]?.endsWith("-12-31");
   const regione = regioneDi(p.provincia);
   const altre = regione ? regioni[regione].filter((n) => n !== p.provincia) : [];
 
@@ -176,6 +185,73 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           </p>
         </section>
       )}
+
+      <section className="sezione">
+        <h2 className="titolo-sezione">Posti e presenze nei centri</h2>
+        <p className="nota-tabella">
+          CAS, centri di prima accoglienza e hotspot, un anno per volta.
+        </p>
+        <table className="tabella">
+          <caption className="sr-only">Centri di accoglienza straordinaria e di prima accoglienza: centri, posti, presenze e costo mediano</caption>
+          <thead>
+            <tr><th>Anno</th><th className="num">Centri</th><th className="num">Capienza</th>
+            <th className="num">Presenze</th><th className="num">Costo mediano al giorno per ospite</th></tr>
+          </thead>
+          <tbody>
+            {centri.anni.map((a) => {
+              const b = c[a]?.cas;
+              return b ? (
+                <tr key={a}>
+                  <td>{a}</td>
+                  <td className="num">{nItal(b.centri)}</td>
+                  <td className="num">{b.capienza === null ? "n.d." : nItal(b.capienza)}</td>
+                  <td className="num">{b.presenze === null ? "n.d." : nItal(b.presenze)}</td>
+                  <td className="num">{b.costo_mediano === null ? "n.d." : euroCent(b.costo_mediano)}</td>
+                </tr>
+              ) : (
+                <tr key={a}><td>{a}</td><td colSpan={4}>nessun centro nei dati</td></tr>
+              );
+            })}
+          </tbody>
+        </table>
+
+        <table className="tabella">
+          <caption className="sr-only">Sistema di accoglienza e integrazione: strutture, posti e presenze</caption>
+          <thead>
+            <tr><th>Anno</th><th className="num">Strutture SAI</th><th className="num">Capienza</th>
+            <th className="num">Presenze</th></tr>
+          </thead>
+          <tbody>
+            {centri.anni.map((a) => {
+              const b = c[a]?.sai;
+              return b ? (
+                <tr key={a}>
+                  <td>{a}</td>
+                  <td className="num">{nItal(b.strutture)}</td>
+                  <td className="num">{b.capienza === null ? "n.d." : nItal(b.capienza)}</td>
+                  <td className="num">{b.presenze === null ? "n.d." : nItal(b.presenze)}</td>
+                </tr>
+              ) : (
+                <tr key={a}><td>{a}</td><td colSpan={3}>nessuna struttura SAI nei dati</td></tr>
+              );
+            })}
+          </tbody>
+        </table>
+        <p className="avviso">
+          Fonte:{" "}
+          <a href={centri.url} target="_blank" rel="noopener">Centri d&apos;Italia</a>
+          {" "}(ActionAid e Openpolis), licenza{" "}
+          <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">{centri.licenza}</a>.
+          {" "}Una rilevazione per anno, al 31 dicembre
+          {Object.entries(centri.rilevazioni_sai).filter(([a]) => !sai31dic(a)).map(([a, d]) => (
+            <span key={a}>; per il SAI {a}, al {dataIt(d)}</span>
+          ))}
+          . n.d.: il valore non compare nel file della fonte.
+          {Object.keys(centri.rilevazioni_sai_scartate).length > 0 && (
+            <> Per il SAI {Object.keys(centri.rilevazioni_sai_scartate).join(" e ")} il file contiene più rilevazioni: la tabella riporta la più recente di ogni anno.</>
+          )}
+        </p>
+      </section>
 
       {altre.length > 0 && (
         <section className="sezione">

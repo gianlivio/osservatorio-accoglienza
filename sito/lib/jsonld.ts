@@ -7,6 +7,7 @@ export const creatore = {
 };
 export const licenza = "https://creativecommons.org/licenses/by-sa/4.0/";
 export const fonteAnac = "https://dati.anticorruzione.it";
+export const fonteCentri = "https://centriditalia.it";
 
 export const breadcrumb = (voci: { nome: string; percorso: string }[]) => ({
   "@context": "https://schema.org",

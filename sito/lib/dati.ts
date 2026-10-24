@@ -70,6 +70,8 @@ export async function caricaDettaglioProvincia(slug: string): Promise<ProvinciaD
 export const euro = (n: number | null) =>
   n === null ? "n.d." : new Intl.NumberFormat("it-IT",
     { style: "currency", currency: "EUR", maximumFractionDigits: 0, useGrouping: "always" }).format(n);
+export const euroCent = (n: number) =>
+  new Intl.NumberFormat("it-IT", { style: "currency", currency: "EUR", minimumFractionDigits: 2, useGrouping: "always" }).format(n);
 export const nItal = (n: number) => n.toLocaleString("it-IT", { useGrouping: "always" });
 
 
