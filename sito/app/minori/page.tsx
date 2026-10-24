@@ -1,4 +1,6 @@
 import Link from "next/link";
+import JsonLd from "@/app/JsonLd";
+import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
 import { msnaData } from "@/lib/dati";
 
 export const metadata = { title: "Minori non accompagnati · Osservatorio Accoglienza" };
@@ -63,9 +65,28 @@ export default function Minori() {
     "luglio","agosto","settembre","ottobre","novembre","dicembre"];
   const dataLeggibile = `${mesi[+pm]} ${pa}`;
   const primoAnno = d.primo_periodo.split("-")[0];
+  const fineRegionale = d.ultimo_periodo.slice(0, 4), fineNazionale = d.ultimo_totale_periodo.slice(0, 4);
+  const datasetJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    name: `Minori stranieri non accompagnati presenti in Italia: serie per regione ${primoAnno}–${fineRegionale} e totale nazionale ${primoAnno}–${fineNazionale}`,
+    description: `Minori stranieri non accompagnati presenti in Italia: serie mensile per regione dal ${primoAnno} al ${fineRegionale} e totale nazionale fino al ${fineNazionale}, da report del Ministero del Lavoro e delle Politiche Sociali.`,
+    url: `${dominio}/minori`,
+    creator: creatore,
+    isAccessibleForFree: true,
+    spatialCoverage: "Italia",
+    temporalCoverage: `${d.primo_periodo}/${d.ultimo_totale_periodo}`,
+    isBasedOn: {
+      "@type": "Organization",
+      name: "Ministero del Lavoro e delle Politiche Sociali",
+      url: "https://www.lavoro.gov.it",
+    },
+  };
 
   return (
     <main>
+      <JsonLd dati={datasetJsonLd} />
+      <JsonLd dati={breadcrumb([{ nome: "Minori non accompagnati", percorso: "/minori" }])} />
       <Link href="/" className="indietro">← torna all&apos;archivio contratti</Link>
       <p className="occhiello">Dati del Ministero del Lavoro</p>
       <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>

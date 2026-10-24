@@ -1,4 +1,6 @@
 import Link from "next/link";
+import JsonLd from "@/app/JsonLd";
+import { breadcrumb } from "@/lib/jsonld";
 
 export const metadata = {
   title: "Che cos'è · Osservatorio Accoglienza",
@@ -9,6 +11,7 @@ export const metadata = {
 export default function CheCose() {
   return (
     <main>
+      <JsonLd dati={breadcrumb([{ nome: "Che cos'è", percorso: "/che-cose" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
       <p className="occhiello">In parole semplici</p>
       <h1 className="tesi">Che cos&apos;è <em>questo sito</em>.</h1>

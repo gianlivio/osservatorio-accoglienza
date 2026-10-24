@@ -1,4 +1,6 @@
 import Link from "next/link";
+import JsonLd from "@/app/JsonLd";
+import { breadcrumb } from "@/lib/jsonld";
 import { totale, anni, serieAnni, euro } from "@/lib/dati";
 
 export const metadata = { title: "Metodologia e limiti · Osservatorio Accoglienza" };
@@ -7,6 +9,7 @@ export default function Metodologia() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
   return (
     <main>
+      <JsonLd dati={breadcrumb([{ nome: "Metodologia e limiti", percorso: "/metodologia" }])} />
       <Link href="/" className="indietro">← torna all&apos;archivio</Link>
       <p className="occhiello">Come è fatto questo archivio</p>
       <h1 className="tesi">Metodologia <em>e limiti</em></h1>
