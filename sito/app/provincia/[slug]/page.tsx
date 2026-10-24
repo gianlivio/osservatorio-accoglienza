@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const p = trovaProvincia(slug);
   if (!p) return {};
   const title = `${nomeProvincia(p.provincia)}: contratti per l'accoglienza dei migranti ${anni[0]}–${anni[anni.length - 1]} · Osservatorio Accoglienza`;
-  const description = descrizioneProvincia(p, await caricaDettaglioProvincia(slug));
+  const description = descrizioneProvincia(p);
   return {
     title,
     description,
@@ -52,7 +52,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     "@context": "https://schema.org",
     "@type": "Dataset",
     name: `Contratti per l'accoglienza dei migranti: ${nome}, ${anni[0]}–${anni[anni.length - 1]}`,
-    description: descrizioneProvincia(p, d),
+    description: descrizioneProvincia(p),
     url,
     creator: creatore,
     license: licenza,
