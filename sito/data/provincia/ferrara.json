@@ -162,24 +162,24 @@
    "copertura_esito": 66.7
   },
   "2024": {
-   "affidamenti": 33,
+   "affidamenti": 32,
    "certi": 32,
-   "diretti": 17,
-   "quota_diretti": 51.5,
-   "mod_diretto": 17,
+   "diretti": 16,
+   "quota_diretti": 50.0,
+   "mod_diretto": 16,
    "mod_negoziata": 10,
    "mod_gara": 6,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 19.3,
-   "sotto_soglia": 14,
+   "quota_diretti_per_importo": 19.2,
+   "sotto_soglia": 13,
    "quota_diretti_sotto_soglia": 100.0,
    "importo_mediano": 749000,
    "prosecuzioni": 2,
    "canale_prefettura": 21,
-   "canale_ente_locale": 12,
-   "enti_gestori": 19,
-   "copertura_vincitore": 90.9,
-   "copertura_esito": 90.9
+   "canale_ente_locale": 11,
+   "enti_gestori": 18,
+   "copertura_vincitore": 90.6,
+   "copertura_esito": 90.6
   },
   "2025": {
    "affidamenti": 13,
@@ -330,9 +330,9 @@
    "importo_mediano": 107540
   },
   "2024-05": {
-   "affidamenti": 11,
-   "diretti": 3,
-   "quota_diretti": 27.3,
+   "affidamenti": 10,
+   "diretti": 2,
+   "quota_diretti": 20.0,
    "importo_mediano": 749000
   },
   "2024-06": {
@@ -1019,21 +1019,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B186DE3085",
-   "data": "2024-05-06",
-   "oggetto": "ASSUNZIONE IMPEGNO DI SPESA PER ADESIONE ALLA CONVENZIONE INTERCENT-ER GESTIONE DELLE SANZIONI AMMINISTRATIVE RELATIVE ALLE VIOLAZIONI ALLE NORME DEL CODICE DELLA STRADA ACCERTATE ",
-   "amministrazione": "UNIONE DEI COMUNI DELLE TERRE DEL DELTA",
-   "ente": "SAFETY21 SPA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 137445.0,
-   "aggiudicato": 137445.0,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "probabile"
   },
   {
    "cig": "B17FBD840A",

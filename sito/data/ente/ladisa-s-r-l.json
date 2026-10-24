@@ -1,44 +1,18 @@
 {
  "nome": "LADISA S.R.L.",
  "cf": "05282230720",
- "affidamenti": 2,
- "diretti": 1,
- "quota_diretti": 50.0,
+ "affidamenti": 1,
+ "diretti": 0,
+ "quota_diretti": 0.0,
  "per_anno": {
   "2021": {
    "affidamenti": 1,
    "diretti": 0,
    "quota_diretti": 0.0
-  },
-  "2024": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0
   }
  },
- "province": [
-  {
-   "provincia": "ROMA",
-   "affidamenti": 1
-  }
- ],
+ "province": [],
  "contratti": [
-  {
-   "cig": "B02826C654",
-   "data": "2024-01-29",
-   "oggetto": "SERVIZIO DI CATERING PER IL PERSONALE STRANIERO IN ESERCITAZIONE ? DTA 2 80 REGGIMENTO ROMA",
-   "amministrazione": "COMANDO MILITARE DELLA CAPITALE",
-   "ente": "LADISA S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 18077.0,
-   "aggiudicato": 18077.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile",
-   "provincia": "ROMA"
-  },
   {
    "cig": "8934829623",
    "data": "2021-11-19",

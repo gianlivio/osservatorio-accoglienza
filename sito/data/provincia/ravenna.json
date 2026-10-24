@@ -181,22 +181,22 @@
    "copertura_esito": 66.7
   },
   "2024": {
-   "affidamenti": 15,
+   "affidamenti": 14,
    "certi": 14,
-   "diretti": 8,
-   "quota_diretti": 53.3,
-   "mod_diretto": 8,
+   "diretti": 7,
+   "quota_diretti": 50.0,
+   "mod_diretto": 7,
    "mod_negoziata": 5,
    "mod_gara": 2,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 4.2,
+   "quota_diretti_per_importo": 2.0,
    "sotto_soglia": 12,
    "quota_diretti_sotto_soglia": 58.3,
-   "importo_mediano": 36568,
+   "importo_mediano": 34784,
    "prosecuzioni": 3,
    "canale_prefettura": 1,
-   "canale_ente_locale": 14,
-   "enti_gestori": 10,
+   "canale_ente_locale": 13,
+   "enti_gestori": 9,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
   },
@@ -421,10 +421,10 @@
    "importo_mediano": 33000
   },
   "2024-04": {
-   "affidamenti": 3,
-   "diretti": 2,
-   "quota_diretti": 66.7,
-   "importo_mediano": 342188
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0,
+   "importo_mediano": 542158
   },
   "2024-05": {
    "affidamenti": 1,
@@ -501,11 +501,6 @@
    "affidamenti": 1
   },
   {
-   "nome": "SAFETY21 SPA",
-   "cf": "13365760159",
-   "affidamenti": 1
-  },
-  {
    "nome": "FONDAZIONE NUOVO VILLAGGIO DEL FANCIULLO CELSO E ANNA FRASCALI",
    "cf": "01220050395",
    "affidamenti": 1
@@ -518,6 +513,11 @@
   {
    "nome": "NUOVE ACCOGLIENZE SOCIETA' COOPERATIVA SOCIALE",
    "cf": "04290790403",
+   "affidamenti": 1
+  },
+  {
+   "nome": "MACRON STORE RAVENNA SRL",
+   "cf": "02495660397",
    "affidamenti": 1
   }
  ],
@@ -792,21 +792,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B1103C2DCF",
-   "data": "2024-04-02",
-   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE DELLE SANZIONI AMMINISTRATIVE RELATIVE ALLE VIOLAZIONI DELLE NORME DEL CODICE DELLA STRADA ACCERTATE A CARICO DEI VEICOLI E/O CITTADINI STRANIE",
-   "amministrazione": "COMUNE DI CERVIA",
-   "ente": "SAFETY21 SPA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 342187.88,
-   "aggiudicato": 342187.88,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "probabile"
   },
   {
    "cig": "B07512ED9C",

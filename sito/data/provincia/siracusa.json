@@ -162,24 +162,24 @@
    "copertura_esito": 38.5
   },
   "2024": {
-   "affidamenti": 52,
+   "affidamenti": 51,
    "certi": 15,
-   "diretti": 39,
-   "quota_diretti": 75.0,
-   "mod_diretto": 39,
+   "diretti": 38,
+   "quota_diretti": 74.5,
+   "mod_diretto": 38,
    "mod_negoziata": 10,
    "mod_gara": 3,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 52.4,
-   "sotto_soglia": 44,
-   "quota_diretti_sotto_soglia": 79.5,
-   "importo_mediano": 36673,
+   "quota_diretti_per_importo": 52.3,
+   "sotto_soglia": 43,
+   "quota_diretti_sotto_soglia": 79.1,
+   "importo_mediano": 36885,
    "prosecuzioni": 1,
-   "canale_prefettura": 37,
+   "canale_prefettura": 36,
    "canale_ente_locale": 15,
-   "enti_gestori": 21,
-   "copertura_vincitore": 90.4,
-   "copertura_esito": 94.2
+   "enti_gestori": 20,
+   "copertura_vincitore": 90.2,
+   "copertura_esito": 94.1
   },
   "2025": {
    "affidamenti": 5,
@@ -384,10 +384,10 @@
    "importo_mediano": 839970
   },
   "2024-05": {
-   "affidamenti": 33,
-   "diretti": 30,
-   "quota_diretti": 90.9,
-   "importo_mediano": 31615
+   "affidamenti": 32,
+   "diretti": 29,
+   "quota_diretti": 90.6,
+   "importo_mediano": 31893
   },
   "2024-06": {
    "affidamenti": 2,
@@ -798,21 +798,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B1BA92E4AD",
-   "data": "2024-05-20",
-   "oggetto": "PASTI PER FF.PP.",
-   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO DI SIRACUSA",
-   "ente": "GOLDEN HOUR BISTROT S.R.L.S.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 15000.0,
-   "aggiudicato": 15000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "B1A9D8642F",

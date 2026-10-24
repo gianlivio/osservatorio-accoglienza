@@ -181,44 +181,44 @@
    "copertura_esito": 51.7
   },
   "2024": {
-   "affidamenti": 71,
+   "affidamenti": 69,
    "certi": 65,
-   "diretti": 48,
-   "quota_diretti": 67.6,
-   "mod_diretto": 48,
+   "diretti": 46,
+   "quota_diretti": 66.7,
+   "mod_diretto": 46,
    "mod_negoziata": 16,
    "mod_gara": 6,
    "mod_altro": 1,
-   "quota_diretti_per_importo": 67.9,
-   "sotto_soglia": 18,
-   "quota_diretti_sotto_soglia": 94.4,
-   "importo_mediano": 598570,
+   "quota_diretti_per_importo": 67.8,
+   "sotto_soglia": 16,
+   "quota_diretti_sotto_soglia": 93.8,
+   "importo_mediano": 612619,
    "prosecuzioni": 2,
    "canale_prefettura": 36,
-   "canale_ente_locale": 35,
+   "canale_ente_locale": 33,
    "enti_gestori": 36,
-   "copertura_vincitore": 88.7,
-   "copertura_esito": 93.0
+   "copertura_vincitore": 88.4,
+   "copertura_esito": 92.8
   },
   "2025": {
-   "affidamenti": 20,
-   "certi": 13,
-   "diretti": 13,
-   "quota_diretti": 65.0,
-   "mod_diretto": 13,
+   "affidamenti": 18,
+   "certi": 12,
+   "diretti": 11,
+   "quota_diretti": 61.1,
+   "mod_diretto": 11,
    "mod_negoziata": 3,
    "mod_gara": 4,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 17.1,
-   "sotto_soglia": 14,
-   "quota_diretti_sotto_soglia": 92.9,
-   "importo_mediano": 89253,
+   "quota_diretti_per_importo": 11.3,
+   "sotto_soglia": 12,
+   "quota_diretti_sotto_soglia": 91.7,
+   "importo_mediano": 65019,
    "prosecuzioni": 0,
    "canale_prefettura": 2,
-   "canale_ente_locale": 18,
-   "enti_gestori": 15,
-   "copertura_vincitore": 85.0,
-   "copertura_esito": 95.0
+   "canale_ente_locale": 16,
+   "enti_gestori": 13,
+   "copertura_vincitore": 83.3,
+   "copertura_esito": 94.4
   }
  },
  "per_mese": {
@@ -685,10 +685,10 @@
    "importo_mediano": 66003
   },
   "2024-02": {
-   "affidamenti": 8,
-   "diretti": 6,
-   "quota_diretti": 75.0,
-   "importo_mediano": 45950
+   "affidamenti": 6,
+   "diretti": 4,
+   "quota_diretti": 66.7,
+   "importo_mediano": 88000
   },
   "2024-03": {
    "affidamenti": 2,
@@ -739,10 +739,10 @@
    "importo_mediano": 117450
   },
   "2025-01": {
-   "affidamenti": 3,
-   "diretti": 2,
-   "quota_diretti": 66.7,
-   "importo_mediano": 80000
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0,
+   "importo_mediano": 66282
   },
   "2025-02": {
    "affidamenti": 1,
@@ -787,10 +787,10 @@
    "importo_mediano": 10956
   },
   "2025-12": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0,
-   "importo_mediano": 66074
+   "importo_mediano": 6148
   }
  },
  "top_enti": [
@@ -798,11 +798,6 @@
    "nome": "COMUNITA' TERAPEUTICA L'ANGOLO COOPERATIVA SOCIALE A R.L.",
    "cf": "02020970360",
    "affidamenti": 14
-  },
-  {
-   "nome": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "cf": "06078850010",
-   "affidamenti": 5
   },
   {
    "nome": "LIBERITUTTI - SOCIETA' COOPERATIVA SOCIALE S.P.A.",
@@ -818,6 +813,11 @@
    "nome": "COOPERATIVA SOCIALE SANITALIA SERVICE",
    "cf": "11031660019",
    "affidamenti": 3
+  },
+  {
+   "nome": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
+   "cf": "06078850010",
+   "affidamenti": 2
   },
   {
    "nome": "NOE NUOVE OPPORTUNITA' EDUCATIVE - SOCIETA' COOPERATIVA SOCIALE",
@@ -850,11 +850,6 @@
    "amministrazione": "COMUNE DI NOVARA",
    "ente": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
    "affidamenti_diretti": 3
-  },
-  {
-   "amministrazione": "POLITECNICO DI TORINO",
-   "ente": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "affidamenti_diretti": 3
   }
  ],
  "contratti": [
@@ -869,21 +864,6 @@
    "modalita": "diretto",
    "base": 6147.54,
    "aggiudicato": 6147.54,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B96BD3EB41",
-   "data": "2025-12-05",
-   "oggetto": "RICHIESTA DI PREVENTIVO AI SENSI AI SENSI DELL'ART. 50, COMMA 1, LETT E) DEL D.LGS. 36/2023 PER LA FORNITURA IN ACQUISTO DI DEI COSTUMI PER SOLISTI, CORO PROFUGHI E POPOLO DELLA NO",
-   "amministrazione": "FONDAZIONE TEATRO REGIO DI TORINO",
-   "ente": "OFFICINA FARANI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 126000.0,
-   "aggiudicato": 126000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1112,21 +1092,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B539B012F2",
-   "data": "2025-01-17",
-   "oggetto": "SERVIZIO DI IMMIGRATION DESK",
-   "amministrazione": "POLITECNICO DI TORINO",
-   "ente": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 80000.0,
-   "aggiudicato": 80000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "B535B1314C",
@@ -2162,36 +2127,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B06F9138A4",
-   "data": "2024-02-19",
-   "oggetto": "SERVIZIO DI IMMIGRATION DESK",
-   "amministrazione": "POLITECNICO DI TORINO",
-   "ente": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 39900.0,
-   "aggiudicato": 39900.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
-  },
-  {
-   "cig": "B06E201ED9",
-   "data": "2024-02-19",
-   "oggetto": "SERVIZIO DI IMMIGRATION DESK",
-   "amministrazione": "POLITECNICO DI TORINO",
-   "ente": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 39900.0,
-   "aggiudicato": 39900.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "B068F80941",

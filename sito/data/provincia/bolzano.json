@@ -143,22 +143,22 @@
   "2022": null,
   "2023": null,
   "2024": {
-   "affidamenti": 19,
-   "certi": 19,
-   "diretti": 17,
-   "quota_diretti": 89.5,
-   "mod_diretto": 17,
+   "affidamenti": 17,
+   "certi": 17,
+   "diretti": 15,
+   "quota_diretti": 88.2,
+   "mod_diretto": 15,
    "mod_negoziata": 0,
    "mod_gara": 2,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 26.8,
-   "sotto_soglia": 17,
+   "quota_diretti_per_importo": 24.6,
+   "sotto_soglia": 15,
    "quota_diretti_sotto_soglia": 100.0,
    "importo_mediano": 14944,
    "prosecuzioni": 0,
    "canale_prefettura": 0,
-   "canale_ente_locale": 19,
-   "enti_gestori": 17,
+   "canale_ente_locale": 17,
+   "enti_gestori": 16,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
   },
@@ -275,22 +275,16 @@
    "importo_mediano": 600040
   },
   "2024-04": {
-   "affidamenti": 6,
-   "diretti": 6,
+   "affidamenti": 5,
+   "diretti": 5,
    "quota_diretti": 100.0,
-   "importo_mediano": 11260
+   "importo_mediano": 11600
   },
   "2024-05": {
    "affidamenti": 3,
    "diretti": 3,
    "quota_diretti": 100.0,
    "importo_mediano": 26880
-  },
-  "2024-06": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 21005
   },
   "2024-08": {
    "affidamenti": 1,
@@ -354,11 +348,6 @@
    "affidamenti": 2
   },
   {
-   "nome": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
-   "cf": "02482430218",
-   "affidamenti": 2
-  },
-  {
    "nome": "JUGENDDIENST MERAN",
    "cf": "91002690211",
    "affidamenti": 2
@@ -396,6 +385,11 @@
   {
    "nome": "OSCAR DE IORIO",
    "cf": "DRESCR57L03F132N",
+   "affidamenti": 1
+  },
+  {
+   "nome": "ASSOCIAZIONE TRAIT D'UNION",
+   "cf": "91040450214",
    "affidamenti": 1
   }
  ],
@@ -792,21 +786,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B24179A450",
-   "data": "2024-06-28",
-   "oggetto": "OA24_0799 DELIMITAZIONE E MESSA IN SICUREZZA DEL PERIMETRO TRAMITE RECINZIONE DELL'EX FABBRICATO PROFUGHI P.ED 594 SITO IN MERANO",
-   "amministrazione": "STA - STRUTTURE TRASPORTO ALTO ADIGE S.P.A.",
-   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO A SOCIETA' IN HOUSE",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 21005.0,
-   "aggiudicato": 21005.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B1E17DE053",
    "data": "2024-05-29",
    "oggetto": "SVOLGIMENTO DI CORSI DI LINGUA ITALIANA A FAVORE DELLE DEI RICHIEDENTI ASILO E TITOLARI DI PROTEZIONE NEL PROGETTO SIPROMI SAI PER IL PERIODO DAL 01.03.2024 - 31.12.2026.",
@@ -922,21 +901,6 @@
    "modalita": "diretto",
    "base": 10000.0,
    "aggiudicato": 10000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B1180F0B02",
-   "data": "2024-04-05",
-   "oggetto": "OA24_0352 CHIUSURA E MESSA IN SICUREZZA DELLE ENTRATE DELL'EX FABBRICATO PROFUGHI DI MERANO E CONTESTUALE SANIFICAZIONE DEI LOCALI",
-   "amministrazione": "STA - STRUTTURE TRASPORTO ALTO ADIGE S.P.A.",
-   "ente": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 10650.0,
-   "aggiudicato": 10650.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

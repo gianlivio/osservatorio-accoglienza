@@ -143,22 +143,22 @@
    "copertura_esito": 18.8
   },
   "2024": {
-   "affidamenti": 10,
+   "affidamenti": 9,
    "certi": 8,
-   "diretti": 6,
-   "quota_diretti": 60.0,
-   "mod_diretto": 6,
+   "diretti": 5,
+   "quota_diretti": 55.6,
+   "mod_diretto": 5,
    "mod_negoziata": 0,
    "mod_gara": 4,
    "mod_altro": 0,
    "quota_diretti_per_importo": 0.5,
-   "sotto_soglia": 7,
-   "quota_diretti_sotto_soglia": 85.7,
-   "importo_mediano": 89119,
+   "sotto_soglia": 6,
+   "quota_diretti_sotto_soglia": 83.3,
+   "importo_mediano": 139000,
    "prosecuzioni": 0,
-   "canale_prefettura": 2,
+   "canale_prefettura": 1,
    "canale_ente_locale": 8,
-   "enti_gestori": 9,
+   "enti_gestori": 8,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
   },
@@ -268,12 +268,6 @@
    "quota_diretti": 100.0,
    "importo_mediano": 29280
   },
-  "2024-03": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 10000
-  },
   "2024-04": {
    "affidamenti": 2,
    "diretti": 0,
@@ -381,11 +375,6 @@
    "affidamenti": 2
   },
   {
-   "nome": "SATAM VIAGGI",
-   "cf": "00678890690",
-   "affidamenti": 1
-  },
-  {
    "nome": "COOPERATIVA  SOCIALE  SORRISO",
    "cf": "02784020840",
    "affidamenti": 1
@@ -408,6 +397,11 @@
   {
    "nome": "KALEIDOS SOCIETA' COOPERATIVA SOCIALE",
    "cf": "01721100681",
+   "affidamenti": 1
+  },
+  {
+   "nome": "NOVAE TERRAE SOCIETA' COOPERATIVA SOCIALE",
+   "cf": "02183310669",
    "affidamenti": 1
   }
  ],
@@ -733,21 +727,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B0EE176C4A",
-   "data": "2024-03-21",
-   "oggetto": "SPESE DI VIAGGIO PER RIMPATRIO MIGRANTI",
-   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "SATAM VIAGGI",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 10000.0,
-   "aggiudicato": 10000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "B02CE1DCBA",

@@ -181,24 +181,24 @@
    "copertura_esito": 75.0
   },
   "2024": {
-   "affidamenti": 20,
-   "certi": 16,
-   "diretti": 15,
-   "quota_diretti": 75.0,
-   "mod_diretto": 15,
+   "affidamenti": 18,
+   "certi": 15,
+   "diretti": 13,
+   "quota_diretti": 72.2,
+   "mod_diretto": 13,
    "mod_negoziata": 1,
    "mod_gara": 3,
    "mod_altro": 1,
-   "quota_diretti_per_importo": 4.4,
-   "sotto_soglia": 15,
-   "quota_diretti_sotto_soglia": 93.3,
+   "quota_diretti_per_importo": 4.1,
+   "sotto_soglia": 13,
+   "quota_diretti_sotto_soglia": 92.3,
    "importo_mediano": 28694,
    "prosecuzioni": 2,
    "canale_prefettura": 2,
-   "canale_ente_locale": 18,
-   "enti_gestori": 11,
-   "copertura_vincitore": 75.0,
-   "copertura_esito": 85.0
+   "canale_ente_locale": 16,
+   "enti_gestori": 10,
+   "copertura_vincitore": 72.2,
+   "copertura_esito": 83.3
   },
   "2025": {
    "affidamenti": 20,
@@ -480,12 +480,6 @@
    "quota_diretti": 100.0,
    "importo_mediano": 281162
   },
-  "2024-03": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 40983
-  },
   "2024-04": {
    "affidamenti": 1,
    "diretti": 1,
@@ -517,10 +511,10 @@
    "importo_mediano": 674485
   },
   "2024-11": {
-   "affidamenti": 3,
-   "diretti": 1,
-   "quota_diretti": 33.3,
-   "importo_mediano": 190464
+   "affidamenti": 2,
+   "diretti": 0,
+   "quota_diretti": 0.0,
+   "importo_mediano": 1655791
   },
   "2024-12": {
    "affidamenti": 2,
@@ -587,11 +581,6 @@
    "affidamenti": 2
   },
   {
-   "nome": "ART & FOOD S.R.L.",
-   "cf": "03995980277",
-   "affidamenti": 2
-  },
-  {
    "nome": "IL LIEVITO SOCIETA' COOPERATIVA SOCIALE",
    "cf": "02976710273",
    "affidamenti": 2
@@ -612,8 +601,13 @@
    "affidamenti": 1
   },
   {
-   "nome": "OPEN SOFTWARE S.R.L.",
-   "cf": "02810000279",
+   "nome": "CISCRA S.P.A.",
+   "cf": "00448610584",
+   "affidamenti": 1
+  },
+  {
+   "nome": "TRENDENERGY SOCIETA' TRA PROFESSIONISTI S.R.L.",
+   "cf": "03342160987",
    "affidamenti": 1
   }
  ],
@@ -986,21 +980,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B434A9226D",
-   "data": "2024-11-11",
-   "oggetto": "SERVIZIO DI CATERING IN OCCASIONE DEL CONVEGNO I VENT'ANNI DELLA RIVISTA DEPORTATE ESULI PROFUGHE / CONTRO LA VIOLENZA. 20 NOVEMBRE 2024",
-   "amministrazione": "UNIVERSITA' CA' FOSCARI VENEZIA",
-   "ente": "ART & FOOD S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 307.8,
-   "aggiudicato": 307.8,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B3EFEAE9DA",
    "data": "2024-10-23",
    "oggetto": "AFFIDAMENTO DEL SERVIZIO PROGETTI EDUCATIVI DI SGANCIO PER MINORI TRA I 16 E I 18 ANNI DI ETA', DURATA 36 MESI, DA 01/01/2025 A 31/12/2027 PER COMPLESSIVI N. 18 POSTI A FAVORE DI M",
@@ -1193,21 +1172,6 @@
    "aggiudicato": 876.0,
    "durata_gg": null,
    "da_accordo": true,
-   "confidenza": "probabile"
-  },
-  {
-   "cig": "B09F330316",
-   "data": "2024-03-01",
-   "oggetto": "SERVIZIO DI NOTIFICA SANZIONI EMESSE AI SENSI DEL NCDS NEI CONFRONTI DI CITTADINI STRANIERI UE E NON UE",
-   "amministrazione": "COMUNE DI CHIOGGIA",
-   "ente": "OPEN SOFTWARE S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 40983.0,
-   "aggiudicato": 40983.0,
-   "durata_gg": null,
-   "da_accordo": false,
    "confidenza": "probabile"
   },
   {

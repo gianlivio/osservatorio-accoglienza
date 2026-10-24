@@ -181,44 +181,44 @@
    "copertura_esito": 31.2
   },
   "2024": {
-   "affidamenti": 52,
+   "affidamenti": 51,
    "certi": 29,
-   "diretti": 48,
-   "quota_diretti": 92.3,
-   "mod_diretto": 48,
+   "diretti": 47,
+   "quota_diretti": 92.2,
+   "mod_diretto": 47,
    "mod_negoziata": 2,
    "mod_gara": 2,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 77.8,
-   "sotto_soglia": 33,
-   "quota_diretti_sotto_soglia": 97.0,
-   "importo_mediano": 73098,
+   "quota_diretti_per_importo": 77.7,
+   "sotto_soglia": 32,
+   "quota_diretti_sotto_soglia": 96.9,
+   "importo_mediano": 73847,
    "prosecuzioni": 20,
    "canale_prefettura": 24,
-   "canale_ente_locale": 28,
-   "enti_gestori": 16,
-   "copertura_vincitore": 96.2,
-   "copertura_esito": 96.2
+   "canale_ente_locale": 27,
+   "enti_gestori": 15,
+   "copertura_vincitore": 96.1,
+   "copertura_esito": 96.1
   },
   "2025": {
-   "affidamenti": 24,
-   "certi": 22,
-   "diretti": 20,
-   "quota_diretti": 83.3,
-   "mod_diretto": 20,
+   "affidamenti": 23,
+   "certi": 21,
+   "diretti": 19,
+   "quota_diretti": 82.6,
+   "mod_diretto": 19,
    "mod_negoziata": 1,
    "mod_gara": 3,
    "mod_altro": 0,
    "quota_diretti_per_importo": 92.2,
-   "sotto_soglia": 13,
-   "quota_diretti_sotto_soglia": 84.6,
-   "importo_mediano": 139728,
+   "sotto_soglia": 12,
+   "quota_diretti_sotto_soglia": 83.3,
+   "importo_mediano": 139839,
    "prosecuzioni": 2,
    "canale_prefettura": 8,
-   "canale_ente_locale": 16,
-   "enti_gestori": 10,
-   "copertura_vincitore": 95.8,
-   "copertura_esito": 95.8
+   "canale_ente_locale": 15,
+   "enti_gestori": 9,
+   "copertura_vincitore": 95.7,
+   "copertura_esito": 95.7
   }
  },
  "per_mese": {
@@ -409,10 +409,10 @@
    "importo_mediano": 392605
   },
   "2024-05": {
-   "affidamenti": 5,
-   "diretti": 5,
+   "affidamenti": 4,
+   "diretti": 4,
    "quota_diretti": 100.0,
-   "importo_mediano": 27910
+   "importo_mediano": 54118
   },
   "2024-06": {
    "affidamenti": 8,
@@ -461,12 +461,6 @@
    "diretti": 10,
    "quota_diretti": 90.9,
    "importo_mediano": 6447360
-  },
-  "2025-04": {
-   "affidamenti": 1,
-   "diretti": 1,
-   "quota_diretti": 100.0,
-   "importo_mediano": 12019
   },
   "2025-06": {
    "affidamenti": 2,
@@ -719,21 +713,6 @@
    "modalita": "diretto",
    "base": 90950.0,
    "aggiudicato": 90950.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B6A5E3CB4F",
-   "data": "2025-04-30",
-   "oggetto": "SERVIZIO DI PUBBLICAZIONE DI VOLUME SCIENTIFICO, DAL TITOLO: MINORI STRANIERI NON ACCOMPAGNATI E USO DELLE TECNOLOGIE. SICUREZZA, CONSAPEVOLEZZA, TUTELA DEI DIRITTI",
-   "amministrazione": "UNIVERSITA' DEGLI STUDI DI MODENA E REGGIO EMILIA",
-   "ente": "STEM MUCCHI EDITORE - SOCIETA' TIPOGRAFICA EDITRICE MODENESE S.R. L. ABBREVIABILE IN STEM MUCCHI EDITORE S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 12019.23,
-   "aggiudicato": 12019.23,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -1472,21 +1451,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B19BCEFDCC",
-   "data": "2024-05-09",
-   "oggetto": "SERVIZIO DI GESTIONE DELLE SANZIONI AMMINISTRATIVE RELATIVE ALLE VIOLAZIONI ALLE NORME DEL CODICE DELLA STRADA ACCERTATE A CARICO DEI VEICOLI E/O CITTADINI STRANIERI PER POLIZIA LO",
-   "amministrazione": "UNIONE DELLE TERRE D'ARGINE",
-   "ente": "SAFETY21 SPA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 13772.0,
-   "aggiudicato": 13772.0,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "probabile"
   },
   {
    "cig": "B17B4EEEDF",

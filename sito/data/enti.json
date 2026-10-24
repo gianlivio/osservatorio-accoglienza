@@ -576,12 +576,6 @@
   "affidamenti": 17
  },
  {
-  "nome": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "una-casa-per-l-uomo-societa-cooperativa-sociale",
-  "cf": "02375650260",
-  "affidamenti": 17
- },
- {
   "nome": "A.C.G. AUDITING & CONSULTING GROUP S.R.L.",
   "slug": "a-c-g-auditing-consulting-group-s-r-l",
   "cf": "00758240550",
@@ -609,6 +603,12 @@
   "nome": "SOCIETA'  COOPERATIVA SOCIALE CITTA' SO.LA.RE.",
   "slug": "societa-cooperativa-sociale-citta-so-la-re",
   "cf": "02616260283",
+  "affidamenti": 16
+ },
+ {
+  "nome": "UNA CASA PER L'UOMO SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "una-casa-per-l-uomo-societa-cooperativa-sociale",
+  "cf": "02375650260",
   "affidamenti": 16
  },
  {
@@ -2262,12 +2262,6 @@
   "affidamenti": 6
  },
  {
-  "nome": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-  "slug": "cooperativa-sociale-atypica-societa-cooperativa",
-  "cf": "06078850010",
-  "affidamenti": 6
- },
- {
   "nome": "COOPERATIVA SOCIALE QUADRIFOGLIO QUATTRO S.C. - ONLUS",
   "slug": "cooperativa-sociale-quadrifoglio-quattro-s-c-onlus",
   "cf": "11473920012",
@@ -2475,12 +2469,6 @@
   "nome": "PIANETI DIVERSI  SOCIETA' COOPERATIVA SOCIALE",
   "slug": "pianeti-diversi-societa-cooperativa-sociale",
   "cf": "04745431215",
-  "affidamenti": 6
- },
- {
-  "nome": "SAFETY21 SPA",
-  "slug": "safety21-spa",
-  "cf": "13365760159",
   "affidamenti": 6
  },
  {
@@ -4524,6 +4512,12 @@
   "affidamenti": 3
  },
  {
+  "nome": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
+  "slug": "cooperativa-sociale-atypica-societa-cooperativa",
+  "cf": "06078850010",
+  "affidamenti": 3
+ },
+ {
   "nome": "COOPERATIVA SOCIALE ETHICA",
   "slug": "cooperativa-sociale-ethica",
   "cf": "02516570609",
@@ -5601,12 +5595,6 @@
   "nome": "ARO - STAENDIGES KONSORTIUM",
   "slug": "aro-staendiges-konsortium",
   "cf": "03025750211",
-  "affidamenti": 2
- },
- {
-  "nome": "ART & FOOD S.R.L.",
-  "slug": "art-food-s-r-l",
-  "cf": "03995980277",
   "affidamenti": 2
  },
  {
@@ -6930,12 +6918,6 @@
   "affidamenti": 2
  },
  {
-  "nome": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
-  "slug": "jetcom-societa-a-responsabilita-limitata",
-  "cf": "09723061009",
-  "affidamenti": 2
- },
- {
   "nome": "JOY SOCIETA' COOPERATIVA SOCIALE",
   "slug": "joy-societa-cooperativa-sociale",
   "cf": "04286750239",
@@ -7044,12 +7026,6 @@
   "affidamenti": 2
  },
  {
-  "nome": "LA FENICE SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "la-fenice-societa-cooperativa-sociale-02482430218",
-  "cf": "02482430218",
-  "affidamenti": 2
- },
- {
   "nome": "LA FONTE COMUNITA' FAMIGLIA O.N.L.U.S.",
   "slug": "la-fonte-comunita-famiglia-o-n-l-u-s",
   "cf": "80018260325",
@@ -7089,12 +7065,6 @@
   "nome": "LA VELA COOPERATIVA SOCIALE",
   "slug": "la-vela-cooperativa-sociale",
   "cf": "05663991213",
-  "affidamenti": 2
- },
- {
-  "nome": "LADISA S.R.L.",
-  "slug": "ladisa-s-r-l",
-  "cf": "05282230720",
   "affidamenti": 2
  },
  {
@@ -7227,12 +7197,6 @@
   "nome": "NINFEA SOCIETA' COOPERATIVA SOCIALE R.L.",
   "slug": "ninfea-societa-cooperativa-sociale-r-l",
   "cf": "01491400089",
-  "affidamenti": 2
- },
- {
-  "nome": "NIVI S.P.A.",
-  "slug": "nivi-s-p-a",
-  "cf": "04105740486",
   "affidamenti": 2
  },
  {
@@ -8304,6 +8268,12 @@
   "affidamenti": 1
  },
  {
+  "nome": "ART & FOOD S.R.L.",
+  "slug": "art-food-s-r-l",
+  "cf": "03995980277",
+  "affidamenti": 1
+ },
+ {
   "nome": "ARTICOLO 2",
   "slug": "articolo-2",
   "cf": "90036980499",
@@ -8853,12 +8823,6 @@
   "nome": "BOMENUTO VIAGGI",
   "slug": "bomenuto-viaggi",
   "cf": "02990580793",
-  "affidamenti": 1
- },
- {
-  "nome": "BOSCHI S.R.L.",
-  "slug": "boschi-s-r-l",
-  "cf": "15539551000",
   "affidamenti": 1
  },
  {
@@ -10482,12 +10446,6 @@
   "affidamenti": 1
  },
  {
-  "nome": "GES.CO. S.R.L.",
-  "slug": "ges-co-s-r-l",
-  "cf": "02640280349",
-  "affidamenti": 1
- },
- {
   "nome": "GESCO CONSORZIO DI COOPERATIVE SOCIALI-SOCIETA COOPERATIVA SOCIAL E",
   "slug": "gesco-consorzio-di-cooperative-sociali-societa-cooperativa-social-e",
   "cf": "06317480637",
@@ -10554,12 +10512,6 @@
   "affidamenti": 1
  },
  {
-  "nome": "GOLDEN HOUR BISTROT S.R.L.S.",
-  "slug": "golden-hour-bistrot-s-r-l-s",
-  "cf": "02058270899",
-  "affidamenti": 1
- },
- {
   "nome": "GRP SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
   "slug": "grp-societa-a-responsabilita-limitata-semplificata",
   "cf": "16337261008",
@@ -10605,12 +10557,6 @@
   "nome": "GRUPPO VALENTE S.R.L.",
   "slug": "gruppo-valente-s-r-l",
   "cf": "13231220156",
-  "affidamenti": 1
- },
- {
-  "nome": "GUARNERIO SOCIETA' COOPERATIVA",
-  "slug": "guarnerio-societa-cooperativa",
-  "cf": "01117230308",
   "affidamenti": 1
  },
  {
@@ -11076,12 +11022,6 @@
   "affidamenti": 1
  },
  {
-  "nome": "JOLLY FOTO 1963 SAS DI CRISTINA VERDACCHI",
-  "slug": "jolly-foto-1963-sas-di-cristina-verdacchi",
-  "cf": "02688350996",
-  "affidamenti": 1
- },
- {
   "nome": "K-PAX -SOCIETA' COOP SOC ONLUS",
   "slug": "k-pax-societa-coop-soc-onlus",
   "cf": "03018010987",
@@ -11352,6 +11292,12 @@
   "affidamenti": 1
  },
  {
+  "nome": "LADISA S.R.L.",
+  "slug": "ladisa-s-r-l",
+  "cf": "05282230720",
+  "affidamenti": 1
+ },
+ {
   "nome": "LANGUAGE ACADEMY - SOCIETA' COOPERATIVA",
   "slug": "language-academy-societa-cooperativa",
   "cf": "11565681001",
@@ -11505,12 +11451,6 @@
   "nome": "MARE ENGINEERING GROUP S.P.A. IN BREVE MARE GROUP S.P.A.",
   "slug": "mare-engineering-group-s-p-a-in-breve-mare-group-s-p-a",
   "cf": "07784980638",
-  "affidamenti": 1
- },
- {
-  "nome": "MARIO DI COLA S.R.L.",
-  "slug": "mario-di-cola-s-r-l",
-  "cf": "05781221006",
   "affidamenti": 1
  },
  {
@@ -11814,12 +11754,6 @@
   "affidamenti": 1
  },
  {
-  "nome": "OFFICINA FARANI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
-  "slug": "officina-farani-societa-a-responsabilita-limitata-semplificata",
-  "cf": "15236661003",
-  "affidamenti": 1
- },
- {
   "nome": "OFFICINE DELLA CULTURA SOCIETA' COOPERATIVA",
   "slug": "officine-della-cultura-societa-cooperativa",
   "cf": "02028990519",
@@ -11871,12 +11805,6 @@
   "nome": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
   "slug": "on-the-road-societa-cooperativa-sociale-01950290674",
   "cf": "01950290674",
-  "affidamenti": 1
- },
- {
-  "nome": "OPEN SOFTWARE S.R.L.",
-  "slug": "open-software-s-r-l",
-  "cf": "02810000279",
   "affidamenti": 1
  },
  {
@@ -12336,12 +12264,6 @@
   "affidamenti": 1
  },
  {
-  "nome": "S.O.A. SERVICE SRL",
-  "slug": "s-o-a-service-srl",
-  "cf": "04087650653",
-  "affidamenti": 1
- },
- {
   "nome": "S.P.E.S. - SERVIZI ALLA PERSONA EDUCATIVI E SOCIALI",
   "slug": "s-p-e-s-servizi-alla-persona-educativi-e-sociali",
   "cf": "04068300286",
@@ -12417,12 +12339,6 @@
   "nome": "SAREPTA ONLUS",
   "slug": "sarepta-onlus",
   "cf": "97102330152",
-  "affidamenti": 1
- },
- {
-  "nome": "SATAM VIAGGI",
-  "slug": "satam-viaggi",
-  "cf": "00678890690",
   "affidamenti": 1
  },
  {
@@ -12810,12 +12726,6 @@
   "affidamenti": 1
  },
  {
-  "nome": "STEM MUCCHI EDITORE - SOCIETA' TIPOGRAFICA EDITRICE MODENESE S.R. L. ABBREVIABILE IN STEM MUCCHI EDITORE S.R.L.",
-  "slug": "stem-mucchi-editore-societa-tipografica-editrice-modenese-s-r-l-abbreviabile-in-stem-mucchi-editore-s-r-l",
-  "cf": "01419030364",
-  "affidamenti": 1
- },
- {
   "nome": "STUDIO ASS.TO GEOSTRU DI FILICETTI P. E CRUDO G.",
   "slug": "studio-ass-to-geostru-di-filicetti-p-e-crudo-g",
   "cf": "01750140780",
@@ -13065,12 +12975,6 @@
   "nome": "VITALBA SOCIETA' COOPERATIVA SOCIALE",
   "slug": "vitalba-societa-cooperativa-sociale",
   "cf": "01981910761",
-  "affidamenti": 1
- },
- {
-  "nome": "VODAFONE ITALIA S.P.A.",
-  "slug": "vodafone-italia-s-p-a",
-  "cf": "93026890017",
   "affidamenti": 1
  },
  {

@@ -181,24 +181,24 @@
    "copertura_esito": 33.9
   },
   "2024": {
-   "affidamenti": 54,
+   "affidamenti": 50,
    "certi": 45,
-   "diretti": 48,
-   "quota_diretti": 88.9,
-   "mod_diretto": 48,
+   "diretti": 44,
+   "quota_diretti": 88.0,
+   "mod_diretto": 44,
    "mod_negoziata": 2,
    "mod_gara": 4,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 2.6,
-   "sotto_soglia": 42,
-   "quota_diretti_sotto_soglia": 97.6,
-   "importo_mediano": 36472,
+   "quota_diretti_per_importo": 2.5,
+   "sotto_soglia": 39,
+   "quota_diretti_sotto_soglia": 97.4,
+   "importo_mediano": 38577,
    "prosecuzioni": 11,
    "canale_prefettura": 13,
-   "canale_ente_locale": 41,
-   "enti_gestori": 28,
-   "copertura_vincitore": 90.7,
-   "copertura_esito": 94.4
+   "canale_ente_locale": 37,
+   "enti_gestori": 25,
+   "copertura_vincitore": 90.0,
+   "copertura_esito": 94.0
   },
   "2025": {
    "affidamenti": 39,
@@ -553,16 +553,16 @@
    "importo_mediano": 405900
   },
   "2024-01": {
-   "affidamenti": 3,
-   "diretti": 3,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0,
    "importo_mediano": 54959
   },
   "2024-02": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 3,
+   "diretti": 3,
    "quota_diretti": 100.0,
-   "importo_mediano": 30000
+   "importo_mediano": 25000
   },
   "2024-03": {
    "affidamenti": 7,
@@ -571,10 +571,10 @@
    "importo_mediano": 131902
   },
   "2024-04": {
-   "affidamenti": 4,
-   "diretti": 3,
-   "quota_diretti": 75.0,
-   "importo_mediano": 36385
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7,
+   "importo_mediano": 48400
   },
   "2024-05": {
    "affidamenti": 7,
@@ -708,11 +708,6 @@
    "affidamenti": 4
   },
   {
-   "nome": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
-   "cf": "09723061009",
-   "affidamenti": 2
-  },
-  {
    "nome": "OPERA NAZIONALE PER LA CITTA DEI RAGAZZI.",
    "cf": "80182530586",
    "affidamenti": 2
@@ -738,8 +733,13 @@
    "affidamenti": 2
   },
   {
-   "nome": "LADISA S.R.L.",
-   "cf": "05282230720",
+   "nome": "FOND. S.MICHELE ARCANGELO PATRONO ONLUS",
+   "cf": "01984770667",
+   "affidamenti": 1
+  },
+  {
+   "nome": "SPRINT S.R.L.",
+   "cf": "06620551009",
    "affidamenti": 1
   }
  ],
@@ -1922,21 +1922,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B1278228F8",
-   "data": "2024-04-09",
-   "oggetto": "91/8 APPROVVIGIONAMENTO DISTINTIVI RICORDO PER IL PERSONALE STRANIERO FREQUENTATORE DI ATTIVITÀ ADDESTRATIVE EROGATE DALL'ARMA",
-   "amministrazione": "MINISTERO DIFESA COMANDO GENERALE ARMA CARABINIERI",
-   "ente": "BOSCHI S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 24370.4,
-   "aggiudicato": 24370.4,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
-  },
-  {
    "cig": "B110307381",
    "data": "2024-04-03",
    "oggetto": "PROSECUZIONE 25 POSTI + AMPLIAMENTO 10 POSTI MESI 2 (DUE) PROGETTO SAI COLLEFERRO- PROG 176-PR2",
@@ -2087,21 +2072,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B063D46E3D",
-   "data": "2024-02-14",
-   "oggetto": "SERVIZIO TRASPORTO AEREO IMMIGRATI IRREGOLARI 28.02.2024",
-   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
-   "ente": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 35000.0,
-   "aggiudicato": 35000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
-  },
-  {
    "cig": "B037997E80",
    "data": "2024-02-02",
    "oggetto": "AFFIDAMENTO DI FORNITURA DI N. 450.000 BRACCIALETTI MONOUSO PER LA GESTIONE DEI MIGRANTI ALLO SBARCO",
@@ -2112,21 +2082,6 @@
    "modalita": "diretto",
    "base": 186362.1,
    "aggiudicato": null,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
-  },
-  {
-   "cig": "B02826C654",
-   "data": "2024-01-29",
-   "oggetto": "SERVIZIO DI CATERING PER IL PERSONALE STRANIERO IN ESERCITAZIONE ? DTA 2 80 REGGIMENTO ROMA",
-   "amministrazione": "COMANDO MILITARE DELLA CAPITALE",
-   "ente": "LADISA S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 18077.0,
-   "aggiudicato": 18077.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"
@@ -2145,21 +2100,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B00674E194",
-   "data": "2024-01-17",
-   "oggetto": "SERVIZI TRASPORTO AEREO PER RIMPATRIO MIGRANTI IRREGOLARI",
-   "amministrazione": "MINISTERO INTERNO DIPARTIMENTO DELLA P.S.",
-   "ente": "JETCOM SOCIETA' A RESPONSABILITA' LIMITATA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 140000.0,
-   "aggiudicato": 140000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "A0422C6B0C",

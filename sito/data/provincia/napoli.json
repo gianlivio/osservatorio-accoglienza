@@ -163,24 +163,24 @@
    "copertura_esito": 84.4
   },
   "2025": {
-   "affidamenti": 71,
-   "certi": 69,
-   "diretti": 52,
-   "quota_diretti": 73.2,
-   "mod_diretto": 52,
+   "affidamenti": 70,
+   "certi": 68,
+   "diretti": 51,
+   "quota_diretti": 72.9,
+   "mod_diretto": 51,
    "mod_negoziata": 1,
    "mod_gara": 18,
    "mod_altro": 0,
    "quota_diretti_per_importo": 18.3,
-   "sotto_soglia": 41,
-   "quota_diretti_sotto_soglia": 87.8,
-   "importo_mediano": 137670,
+   "sotto_soglia": 40,
+   "quota_diretti_sotto_soglia": 87.5,
+   "importo_mediano": 137986,
    "prosecuzioni": 9,
    "canale_prefettura": 26,
-   "canale_ente_locale": 45,
-   "enti_gestori": 35,
-   "copertura_vincitore": 84.5,
-   "copertura_esito": 88.7
+   "canale_ente_locale": 44,
+   "enti_gestori": 34,
+   "copertura_vincitore": 84.3,
+   "copertura_esito": 88.6
   }
  },
  "per_mese": {
@@ -437,10 +437,10 @@
    "importo_mediano": 129177
   },
   "2025-06": {
-   "affidamenti": 18,
-   "diretti": 14,
-   "quota_diretti": 77.8,
-   "importo_mediano": 4072896
+   "affidamenti": 17,
+   "diretti": 13,
+   "quota_diretti": 76.5,
+   "importo_mediano": 4158584
   },
   "2025-07": {
    "affidamenti": 4,
@@ -1292,21 +1292,6 @@
    "aggiudicato": 2202543.0,
    "durata_gg": null,
    "da_accordo": true,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B73205581E",
-   "data": "2025-06-10",
-   "oggetto": "AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 L. B) DEL D.LGS. 36/2023 AVB0380 TERRENO EREDITA' GIACENTE FERULLO TAURASI (AV)- AVB0381 FABBRICATO CIELO TERRA (LOC. DEPOSITO) MONTEMILET",
-   "amministrazione": "AGENZIA DEL DEMANIO",
-   "ente": "ARCH. FRANCESCO ERMINI",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 40000.0,
-   "aggiudicato": 40000.0,
-   "durata_gg": null,
-   "da_accordo": false,
    "confidenza": "certa"
   },
   {

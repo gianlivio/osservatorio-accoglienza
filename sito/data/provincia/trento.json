@@ -143,23 +143,23 @@
    "copertura_esito": 9.5
   },
   "2024": {
-   "affidamenti": 23,
+   "affidamenti": 22,
    "certi": 22,
-   "diretti": 16,
-   "quota_diretti": 69.6,
-   "mod_diretto": 16,
+   "diretti": 15,
+   "quota_diretti": 68.2,
+   "mod_diretto": 15,
    "mod_negoziata": 7,
    "mod_gara": 0,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 14.0,
-   "sotto_soglia": 16,
+   "quota_diretti_per_importo": 13.0,
+   "sotto_soglia": 15,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 26000,
+   "importo_mediano": 27980,
    "prosecuzioni": 5,
    "canale_prefettura": 0,
-   "canale_ente_locale": 23,
-   "enti_gestori": 11,
-   "copertura_vincitore": 73.9,
+   "canale_ente_locale": 22,
+   "enti_gestori": 10,
+   "copertura_vincitore": 72.7,
    "copertura_esito": 100.0
   },
   "2025": {
@@ -389,10 +389,10 @@
    "importo_mediano": 12910
   },
   "2024-04": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 3,
+   "diretti": 3,
    "quota_diretti": 100.0,
-   "importo_mediano": 17364
+   "importo_mediano": 9729
   },
   "2024-05": {
    "affidamenti": 1,
@@ -1836,21 +1836,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
-  },
-  {
-   "cig": "B15D43BF5F",
-   "data": "2024-04-24",
-   "oggetto": "BIKE FESTIVAL RIVA - ANALISI DATI FLUSSI VISITATORI:ATTRAVERSO IL MONITORAGGIO DEGLI UTENTI SULLA RETE TELEFONICA VODAFONE ITALIA, SI DOVRANNO ANALIZZARE LE PRESENZE E I COMPORTAME",
-   "amministrazione": "TRENTINO SVILUPPO S.P.A.",
-   "ente": "VODAFONE ITALIA S.P.A.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 25000.0,
-   "aggiudicato": 25000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
   },
   {
    "cig": "B15C2CEE0A",

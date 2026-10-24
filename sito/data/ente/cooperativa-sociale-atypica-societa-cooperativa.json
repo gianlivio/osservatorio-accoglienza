@@ -1,9 +1,9 @@
 {
  "nome": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
  "cf": "06078850010",
- "affidamenti": 6,
- "diretti": 5,
- "quota_diretti": 83.3,
+ "affidamenti": 3,
+ "diretti": 2,
+ "quota_diretti": 66.7,
  "per_anno": {
   "2015": {
    "affidamenti": 1,
@@ -11,39 +11,18 @@
    "quota_diretti": 0.0
   },
   "2024": {
-   "affidamenti": 4,
-   "diretti": 4,
-   "quota_diretti": 100.0
-  },
-  "2025": {
-   "affidamenti": 1,
-   "diretti": 1,
+   "affidamenti": 2,
+   "diretti": 2,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "TORINO",
-   "affidamenti": 6
+   "affidamenti": 3
   }
  ],
  "contratti": [
-  {
-   "cig": "B539B012F2",
-   "data": "2025-01-17",
-   "oggetto": "SERVIZIO DI IMMIGRATION DESK",
-   "amministrazione": "POLITECNICO DI TORINO",
-   "ente": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 80000.0,
-   "aggiudicato": 80000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile",
-   "provincia": "TORINO"
-  },
   {
    "cig": "B0827F4A32",
    "data": "2024-02-22",
@@ -58,38 +37,6 @@
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa",
-   "provincia": "TORINO"
-  },
-  {
-   "cig": "B06F9138A4",
-   "data": "2024-02-19",
-   "oggetto": "SERVIZIO DI IMMIGRATION DESK",
-   "amministrazione": "POLITECNICO DI TORINO",
-   "ente": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 39900.0,
-   "aggiudicato": 39900.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile",
-   "provincia": "TORINO"
-  },
-  {
-   "cig": "B06E201ED9",
-   "data": "2024-02-19",
-   "oggetto": "SERVIZIO DI IMMIGRATION DESK",
-   "amministrazione": "POLITECNICO DI TORINO",
-   "ente": "COOPERATIVA SOCIALE ATYPICA - SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 39900.0,
-   "aggiudicato": 39900.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile",
    "provincia": "TORINO"
   },
   {
