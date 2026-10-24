@@ -2,12 +2,13 @@ import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { breadcrumb } from "@/lib/jsonld";
-import { totale, anni, serieAnni, euro } from "@/lib/dati";
+import { totale, anni, serieAnni, euro, province, nItal } from "@/lib/dati";
 
 export const metadata = { title: "Metodologia e limiti · Osservatorio Accoglienza" };
 
 export default function Metodologia() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
+  const senzaProvincia = totale.affidamenti - province.reduce((n, p) => n + p.totale.affidamenti, 0);
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Metodologia e limiti", percorso: "/metodologia" }])} />
@@ -79,6 +80,11 @@ export default function Metodologia() {
           {" "}{totale.copertura_vincitore}% dei casi, ma prima del 2024 mancava per la
           maggioranza. Le comunicazioni arrivano anche con anni di ritardo, quindi gli anni più
           recenti sono ancora provvisori.
+        </p>
+        <p>
+          Dei {nItal(totale.affidamenti)} contratti dell&apos;archivio, {nItal(senzaProvincia)} non
+          indicano la provincia nei dati ANAC: compaiono nei totali nazionali, nei file CSV e
+          nelle pagine degli enti, ma non nelle pagine delle province.
         </p>
         <p>
           Le regole su cosa vada registrato sono cambiate. Dal 2024 entrano nell&apos;archivio
