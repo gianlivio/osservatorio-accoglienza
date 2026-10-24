@@ -191,7 +191,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <p className="nota-tabella">
           CAS, centri di prima accoglienza e hotspot, un anno per volta.
         </p>
-        <table className="tabella">
+        <table className="tabella tabella-centri">
           <caption className="sr-only">Centri di accoglienza straordinaria e di prima accoglienza: centri, posti, presenze e costo mediano</caption>
           <thead>
             <tr><th>Anno</th><th className="num">Centri</th><th className="num">Capienza</th>
@@ -215,7 +215,10 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           </tbody>
         </table>
 
-        <table className="tabella">
+        <p className="nota-tabella nota-sai">
+          Progetti SAI, sistema di accoglienza e integrazione dei Comuni, un anno per volta.
+        </p>
+        <table className="tabella tabella-centri">
           <caption className="sr-only">Sistema di accoglienza e integrazione: progetti, posti e presenze</caption>
           <thead>
             <tr><th>Anno</th><th className="num">Progetti SAI</th><th className="num">Capienza</th>
@@ -231,7 +234,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
                   <td className="num">{b.capienza === null ? "n.d." : nItal(b.capienza)}</td>
                   <td className="num">
                     {b.presenze === null ? "n.d." : nItal(b.presenze)}
-                    {b.senza_presenze > 0 && <small> ({nItal(b.senza_presenze)} senza dato)</small>}
+                    {b.senza_presenze > 0 && <small>{nItal(b.senza_presenze)} senza dato</small>}
                   </td>
                 </tr>
               ) : (
@@ -249,7 +252,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           {Object.entries(centri.rilevazioni_sai).filter(([a]) => !sai31dic(a)).map(([a, d]) => (
             <span key={a}>; per il SAI {a}, al {dataIt(d)}</span>
           ))}
-          . n.d.: il valore non compare nel file della fonte. Nella colonna Presenze, tra parentesi, i progetti senza il dato.
+          . n.d.: il valore non compare nel file della fonte. Nella colonna Presenze, sotto il valore, i progetti senza il dato.
         </p>
       </section>
 
