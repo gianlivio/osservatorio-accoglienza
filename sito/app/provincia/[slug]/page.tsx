@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
+import { regioneDi, regioni } from "@/lib/regioni";
 import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, nomeProvincia } from "@/lib/dati";
 
 const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
@@ -32,6 +33,8 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     .filter((voce): voce is [string, NonNullable<(typeof voce)[1]>] => voce[1] !== undefined)
     .sort(([a], [b]) => a.localeCompare(b));
   const maxMese = Math.max(...mesiDati.map(([, m]) => m.affidamenti), 1);
+  const regione = regioneDi(p.provincia);
+  const altre = regione ? regioni[regione].filter((n) => n !== p.provincia) : [];
 
   return (
     <main>
@@ -141,6 +144,20 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             Ogni riga conta quante volte lo stesso ufficio ha assegnato un contratto allo
             stesso ente senza gara, nel {p.anni_enti.join(" e ")}. Assegnare direttamente sotto
             una certa cifra è una procedura prevista dalla legge.
+          </p>
+        </section>
+      )}
+
+      {altre.length > 0 && (
+        <section className="sezione">
+          <h2 className="titolo-sezione">Altre province della regione · {regione}</h2>
+          <p>
+            {altre.map((n, i) => (
+              <span key={n}>
+                {i > 0 && " · "}
+                <Link href={`/provincia/${mkSlug(n)}`} className="link-interno">{nomeProvincia(n)}</Link>
+              </span>
+            ))}
           </p>
         </section>
       )}
