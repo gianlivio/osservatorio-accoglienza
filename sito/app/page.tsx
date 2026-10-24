@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Ricerca from "./Ricerca";
 import TabellaProvince from "./TabellaProvince";
 import JsonLd from "./JsonLd";
 import { anni, province } from "@/lib/dati";
@@ -42,6 +43,7 @@ export default function Home() {
       </p>
 
       <section className="sezione">
+        <Ricerca />
         <h2 className="titolo-sezione">Cerca la tua provincia</h2>
         <p className="nota-tabella">
           Scegli l&apos;anno, clicca il titolo di una colonna per riordinare. Le province senza

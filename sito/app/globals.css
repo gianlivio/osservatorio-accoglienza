@@ -149,3 +149,13 @@ th.num .ordina{flex-direction:row-reverse}
 }
 .link-ente{border-bottom:1px solid var(--linea)}
 .link-ente:hover{border-color:var(--timbro)}
+.ricerca{position:relative;margin:0 0 28px;max-width:560px}
+.ricerca-etichetta{display:block;font-family:var(--dato);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--tenue);margin-bottom:8px}
+.ricerca-campo{width:100%;font:inherit;font-size:16px;padding:10px 12px;background:transparent;color:var(--inchiostro);border:1px solid var(--linea);border-radius:0}
+.ricerca-campo:focus-visible{outline:2px solid var(--timbro);outline-offset:2px}
+.ricerca-lista{list-style:none;position:absolute;left:0;right:0;z-index:5;background:var(--carta);border:1px solid var(--inchiostro);border-top:0}
+.ricerca-lista[hidden]{display:none}
+.ricerca-lista a{display:flex;justify-content:space-between;gap:12px;padding:9px 12px;border-bottom:1px solid var(--linea)}
+.ricerca-lista small{font-family:var(--dato);font-size:11px;color:var(--tenue);white-space:nowrap}
+.ricerca-lista li.attiva a,.ricerca-lista a:hover{background:var(--carta-scura)}
+.ricerca-esito{margin:8px 0 0}
