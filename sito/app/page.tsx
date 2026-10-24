@@ -1,6 +1,8 @@
 import Link from "next/link";
 import TabellaProvince from "./TabellaProvince";
+import JsonLd from "./JsonLd";
 import { anni, province } from "@/lib/dati";
+import { creatore, fonteAnac, licenza } from "@/lib/jsonld";
 
 export const metadata = {
   title: "Osservatorio Accoglienza",
@@ -14,16 +16,12 @@ const datasetJsonLd = {
   name: "Osservatorio Accoglienza",
   description:
     "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
-  license: "https://creativecommons.org/licenses/by-sa/4.0/",
-  creator: {
-    "@type": "Person",
-    name: "Gianlivio Iemolo",
-    url: "https://portfoliooo-main.vercel.app/it",
-  },
+  license: licenza,
+  creator: creatore,
   temporalCoverage: `${anni[0]}/${anni[anni.length - 1]}`,
   spatialCoverage: "Italia",
   url: "https://osservatorioaccoglienza.org",
-  isBasedOn: "https://dati.anticorruzione.it",
+  isBasedOn: fonteAnac,
 };
 
 export default function Home() {
@@ -31,10 +29,7 @@ export default function Home() {
 
   return (
     <main>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetJsonLd) }}
-      />
+      <JsonLd dati={datasetJsonLd} />
       <p className="occhiello">Contratti pubblici · {primo}–{ultimo}</p>
       <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>
       <p className="sommario">

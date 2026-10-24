@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
+import JsonLd from "@/app/JsonLd";
+import { creatore, dominio, fonteAnac, licenza, breadcrumb } from "@/lib/jsonld";
 import { regioneDi, regioni } from "@/lib/regioni";
 import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, nomeProvincia, descrizioneProvincia } from "@/lib/dati";
 
@@ -44,8 +46,27 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
   const regione = regioneDi(p.provincia);
   const altre = regione ? regioni[regione].filter((n) => n !== p.provincia) : [];
 
+  const nome = nomeProvincia(p.provincia);
+  const url = `${dominio}/provincia/${slug}`;
+  const datasetJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    name: `Contratti per l'accoglienza dei migranti: ${nome}, ${anni[0]}–${anni[anni.length - 1]}`,
+    description: descrizioneProvincia(p, d),
+    url,
+    creator: creatore,
+    license: licenza,
+    isAccessibleForFree: true,
+    spatialCoverage: { "@type": "Place", name: `${nome}, Italia` },
+    temporalCoverage: `${anni[0]}/${anni[anni.length - 1]}`,
+    isBasedOn: fonteAnac,
+    citation: "Autorità Nazionale Anticorruzione (ANAC), Banca Dati Nazionale dei Contratti Pubblici",
+  };
+
   return (
     <main>
+      <JsonLd dati={datasetJsonLd} />
+      <JsonLd dati={breadcrumb([{ nome, percorso: `/provincia/${slug}` }])} />
       <Link href="/" className="indietro">← tutte le province</Link>
       <p className="occhiello">Provincia · {anni[0]}–{anni[anni.length - 1]}</p>
       <h1 className="tesi">{nomeProvincia(p.provincia)}</h1>
