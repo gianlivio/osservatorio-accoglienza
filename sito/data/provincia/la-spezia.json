@@ -163,20 +163,20 @@
    "copertura_esito": 100.0
   },
   "2025": {
-   "affidamenti": 4,
+   "affidamenti": 3,
    "certi": 2,
-   "diretti": 3,
-   "quota_diretti": 75.0,
-   "mod_diretto": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7,
+   "mod_diretto": 2,
    "mod_negoziata": 1,
    "mod_gara": 0,
    "mod_altro": 0,
    "quota_diretti_per_importo": 100.0,
-   "sotto_soglia": 3,
-   "quota_diretti_sotto_soglia": 66.7,
+   "sotto_soglia": 2,
+   "quota_diretti_sotto_soglia": 50.0,
    "importo_mediano": 15880,
    "prosecuzioni": 0,
-   "canale_prefettura": 4,
+   "canale_prefettura": 3,
    "canale_ente_locale": 0,
    "enti_gestori": 2,
    "copertura_vincitore": 100.0,
@@ -359,10 +359,10 @@
    "importo_mediano": 204240
   },
   "2025-12": {
-   "affidamenti": 3,
-   "diretti": 2,
-   "quota_diretti": 66.7,
-   "importo_mediano": 15880
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0,
+   "importo_mediano": 7967
   }
  },
  "top_enti": [
@@ -377,33 +377,18 @@
    "affidamenti": 2
   },
   {
-   "nome": "ASSOCIAZIONE MONDO NUOVO CARITAS",
-   "cf": "91070270110",
-   "affidamenti": 2
-  },
-  {
    "nome": "CROCE ROSSA",
    "cf": "01302080450",
+   "affidamenti": 1
+  },
+  {
+   "nome": "ASSOCIAZIONE MONDO NUOVO CARITAS",
+   "cf": "91070270110",
    "affidamenti": 1
   }
  ],
  "rapporti_ricorrenti": [],
  "contratti": [
-  {
-   "cig": "B998012646",
-   "data": "2025-12-16",
-   "oggetto": "SERVIZI CONNESSI ALLO SBARCO DEI MIGRANTI",
-   "amministrazione": "PREFETTURA DI LA SPEZIA",
-   "ente": "ASSOCIAZIONE MONDO NUOVO CARITAS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 15880.0,
-   "aggiudicato": 15880.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
-  },
   {
    "cig": "B998012646",
    "data": "2025-12-16",

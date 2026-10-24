@@ -162,43 +162,43 @@
    "copertura_esito": 88.2
   },
   "2024": {
-   "affidamenti": 31,
-   "certi": 23,
-   "diretti": 24,
-   "quota_diretti": 77.4,
-   "mod_diretto": 24,
+   "affidamenti": 28,
+   "certi": 20,
+   "diretti": 21,
+   "quota_diretti": 75.0,
+   "mod_diretto": 21,
    "mod_negoziata": 6,
    "mod_gara": 1,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 95.2,
-   "sotto_soglia": 18,
-   "quota_diretti_sotto_soglia": 83.3,
-   "importo_mediano": 80860,
+   "quota_diretti_per_importo": 95.1,
+   "sotto_soglia": 15,
+   "quota_diretti_sotto_soglia": 80.0,
+   "importo_mediano": 121590,
    "prosecuzioni": 0,
    "canale_prefettura": 17,
-   "canale_ente_locale": 14,
+   "canale_ente_locale": 11,
    "enti_gestori": 14,
-   "copertura_vincitore": 67.7,
-   "copertura_esito": 87.1
+   "copertura_vincitore": 64.3,
+   "copertura_esito": 85.7
   },
   "2025": {
-   "affidamenti": 7,
-   "certi": 7,
-   "diretti": 7,
+   "affidamenti": 6,
+   "certi": 6,
+   "diretti": 6,
    "quota_diretti": 100.0,
-   "mod_diretto": 7,
+   "mod_diretto": 6,
    "mod_negoziata": 0,
    "mod_gara": 0,
    "mod_altro": 0,
    "quota_diretti_per_importo": 100.0,
-   "sotto_soglia": 7,
+   "sotto_soglia": 6,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 22981,
+   "importo_mediano": 22530,
    "prosecuzioni": 1,
    "canale_prefettura": 0,
-   "canale_ente_locale": 7,
+   "canale_ente_locale": 6,
    "enti_gestori": 4,
-   "copertura_vincitore": 71.4,
+   "copertura_vincitore": 66.7,
    "copertura_esito": 100.0
   }
  },
@@ -366,20 +366,20 @@
    "importo_mediano": 1495010
   },
   "2024-10": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0,
    "importo_mediano": 40000
   },
   "2024-12": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 2,
+   "diretti": 2,
    "quota_diretti": 100.0,
    "importo_mediano": 16940
   },
   "2025-01": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0,
    "importo_mediano": 22981
   },
@@ -410,28 +410,28 @@
  },
  "top_enti": [
   {
-   "nome": "ASSOCIAZIONE ORATORIO SACRO CUORE",
-   "cf": "01572780516",
-   "affidamenti": 4
-  },
-  {
-   "nome": "CORI S.R.L.",
-   "cf": "06852790481",
-   "affidamenti": 3
-  },
-  {
    "nome": "ALTAVALMARECCHIA - SOCIETA' COOPERATIVA SOCIALE",
    "cf": "02460150515",
    "affidamenti": 3
   },
   {
-   "nome": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
-   "cf": "02116720513",
-   "affidamenti": 3
+   "nome": "CORI S.R.L.",
+   "cf": "06852790481",
+   "affidamenti": 2
   },
   {
    "nome": "ASSOCIAZIONE MANI DI CRISALIDE",
    "cf": "03345660546",
+   "affidamenti": 2
+  },
+  {
+   "nome": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
+   "cf": "02116720513",
+   "affidamenti": 2
+  },
+  {
+   "nome": "ASSOCIAZIONE ORATORIO SACRO CUORE",
+   "cf": "01572780516",
    "affidamenti": 2
   },
   {
@@ -460,18 +460,7 @@
    "affidamenti": 1
   }
  ],
- "rapporti_ricorrenti": [
-  {
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "ASSOCIAZIONE ORATORIO SACRO CUORE",
-   "affidamenti_diretti": 4
-  },
-  {
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
-   "affidamenti_diretti": 3
-  }
- ],
+ "rapporti_ricorrenti": [],
  "contratti": [
   {
    "cig": "B912469234",
@@ -564,36 +553,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B5458CC235",
-   "data": "2025-01-22",
-   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI DUE MINORI STRANIERI NON ACCOMPAGNATI IN STRUTTURA - CASA FOTI CORI SRL",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "CORI S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 22981.0,
-   "aggiudicato": 22981.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B509F0D3D3",
-   "data": "2024-12-31",
-   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - ASSOCIAZIONE MIGRANTES",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "ASSOCIAZIONE ORATORIO SACRO CUORE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 25080.0,
-   "aggiudicato": 25080.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B509F0D3D3",
    "data": "2024-12-31",
    "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - ASSOCIAZIONE MIGRANTES",
@@ -619,36 +578,6 @@
    "modalita": "diretto",
    "base": 8800.0,
    "aggiudicato": 8800.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B492B8814A",
-   "data": "2024-12-03",
-   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MSNA IN STRUTTURA. COMUNITÀ DON BOSCO - ASSOCIAZIONE MIGRANTES DI DON A",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "ASSOCIAZIONE ORATORIO SACRO CUORE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 8800.0,
-   "aggiudicato": 8800.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B3578D5353",
-   "data": "2024-10-09",
-   "oggetto": "ACCOGLIENZA RESIDENZIALE MINORE STRANIERO NON ACCOMPAGNATO - COOPERATIVA SOCIALE MENTELOCALE",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 40000.0,
-   "aggiudicato": 40000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

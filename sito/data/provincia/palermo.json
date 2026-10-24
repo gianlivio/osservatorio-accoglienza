@@ -162,44 +162,44 @@
    "copertura_esito": 16.7
   },
   "2024": {
-   "affidamenti": 38,
-   "certi": 38,
+   "affidamenti": 37,
+   "certi": 37,
    "diretti": 24,
-   "quota_diretti": 63.2,
+   "quota_diretti": 64.9,
    "mod_diretto": 24,
-   "mod_negoziata": 9,
+   "mod_negoziata": 8,
    "mod_gara": 5,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 60.6,
-   "sotto_soglia": 24,
-   "quota_diretti_sotto_soglia": 58.3,
-   "importo_mediano": 58250,
+   "quota_diretti_per_importo": 60.9,
+   "sotto_soglia": 23,
+   "quota_diretti_sotto_soglia": 60.9,
+   "importo_mediano": 57400,
    "prosecuzioni": 9,
-   "canale_prefettura": 16,
+   "canale_prefettura": 15,
    "canale_ente_locale": 22,
    "enti_gestori": 13,
-   "copertura_vincitore": 76.3,
-   "copertura_esito": 86.8
+   "copertura_vincitore": 78.4,
+   "copertura_esito": 89.2
   },
   "2025": {
-   "affidamenti": 14,
-   "certi": 14,
+   "affidamenti": 13,
+   "certi": 13,
    "diretti": 8,
-   "quota_diretti": 57.1,
+   "quota_diretti": 61.5,
    "mod_diretto": 8,
-   "mod_negoziata": 6,
+   "mod_negoziata": 5,
    "mod_gara": 0,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 77.3,
-   "sotto_soglia": 13,
-   "quota_diretti_sotto_soglia": 53.8,
-   "importo_mediano": 36100,
+   "quota_diretti_per_importo": 83.0,
+   "sotto_soglia": 12,
+   "quota_diretti_sotto_soglia": 58.3,
+   "importo_mediano": 19100,
    "prosecuzioni": 1,
-   "canale_prefettura": 4,
+   "canale_prefettura": 3,
    "canale_ente_locale": 10,
    "enti_gestori": 4,
-   "copertura_vincitore": 57.1,
-   "copertura_esito": 85.7
+   "copertura_vincitore": 61.5,
+   "copertura_esito": 92.3
   }
  },
  "per_mese": {
@@ -432,9 +432,9 @@
    "importo_mediano": 414443
   },
   "2024-12": {
-   "affidamenti": 4,
+   "affidamenti": 3,
    "diretti": 1,
-   "quota_diretti": 25.0,
+   "quota_diretti": 33.3,
    "importo_mediano": 137500
   },
   "2025-01": {
@@ -474,10 +474,10 @@
    "importo_mediano": 55800
   },
   "2025-12": {
-   "affidamenti": 3,
+   "affidamenti": 2,
    "diretti": 1,
-   "quota_diretti": 33.3,
-   "importo_mediano": 132000
+   "quota_diretti": 50.0,
+   "importo_mediano": 71883
   }
  },
  "top_enti": [
@@ -561,21 +561,6 @@
    "modalita": "diretto",
    "base": 11765.56,
    "aggiudicato": 11765.56,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B965A5D251",
-   "data": "2025-12-04",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE DI PALERMO ANNO 2026",
-   "amministrazione": "PREFETTURA DI PALERMO",
-   "ente": null,
-   "procedura": "ALTRA PROCEDURA A FASE UNICA",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 132000.0,
-   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"
@@ -771,21 +756,6 @@
    "modalita": "gara",
    "base": 778653.0,
    "aggiudicato": 778653.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B4E02DCB1D",
-   "data": "2024-12-17",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE DI PALERMO",
-   "amministrazione": "PREFETTURA DI PALERMO",
-   "ente": null,
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 137500.0,
-   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

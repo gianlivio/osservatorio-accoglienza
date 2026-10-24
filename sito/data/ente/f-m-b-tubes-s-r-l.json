@@ -1,7 +1,7 @@
 {
  "nome": "F.M.B. TUBES S.R.L.",
  "cf": "01544860800",
- "affidamenti": 3,
+ "affidamenti": 2,
  "diretti": 0,
  "quota_diretti": 0.0,
  "per_anno": {
@@ -11,7 +11,7 @@
    "quota_diretti": 0.0
   },
   "2024": {
-   "affidamenti": 2,
+   "affidamenti": 1,
    "diretti": 0,
    "quota_diretti": 0.0
   }
@@ -19,7 +19,7 @@
  "province": [
   {
    "provincia": "BARI",
-   "affidamenti": 2
+   "affidamenti": 1
   },
   {
    "provincia": "MILANO",
@@ -27,22 +27,6 @@
   }
  ],
  "contratti": [
-  {
-   "cig": "B2F0C68D67",
-   "data": "2024-09-06",
-   "oggetto": "P24-230 - BARI PALESE - FORNITURA E POSA IN OPERA DI PREFABBRICATI VARI",
-   "amministrazione": "3 REPARTO GENIO A.M.BARI",
-   "ente": "F.M.B. TUBES S.R.L.",
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 1967636.83,
-   "aggiudicato": 1967636.83,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "BARI"
-  },
   {
    "cig": "B2F0C68D67",
    "data": "2024-09-06",

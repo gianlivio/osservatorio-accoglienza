@@ -1,9 +1,9 @@
 {
  "nome": "LABIRINTO COOPERATIVA SOCIALE",
  "cf": "01204530412",
- "affidamenti": 34,
- "diretti": 17,
- "quota_diretti": 50.0,
+ "affidamenti": 33,
+ "diretti": 16,
+ "quota_diretti": 48.5,
  "per_anno": {
   "2015": {
    "affidamenti": 1,
@@ -41,9 +41,9 @@
    "quota_diretti": 37.5
   },
   "2024": {
-   "affidamenti": 8,
-   "diretti": 7,
-   "quota_diretti": 87.5
+   "affidamenti": 7,
+   "diretti": 6,
+   "quota_diretti": 85.7
   },
   "2025": {
    "affidamenti": 2,
@@ -61,15 +61,15 @@
    "affidamenti": 4
   },
   {
-   "provincia": "COMO",
-   "affidamenti": 2
-  },
-  {
    "provincia": "ANCONA",
    "affidamenti": 1
   },
   {
    "provincia": "ASCOLI PICENO",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "COMO",
    "affidamenti": 1
   },
   {
@@ -209,22 +209,6 @@
    "da_accordo": false,
    "confidenza": "certa",
    "provincia": "PESARO E URBINO"
-  },
-  {
-   "cig": "B0616048B9",
-   "data": "2024-02-14",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "LABIRINTO COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 91960.0,
-   "aggiudicato": 91960.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "COMO"
   },
   {
    "cig": "B0616048B9",

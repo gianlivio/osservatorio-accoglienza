@@ -1,39 +1,23 @@
 {
  "nome": "FUTURA SOCIETA' COOPERATIVA SOCIALE",
  "cf": "12123240967",
- "affidamenti": 2,
- "diretti": 2,
+ "affidamenti": 1,
+ "diretti": 1,
  "quota_diretti": 100.0,
  "per_anno": {
   "2024": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "COMO",
-   "affidamenti": 2
+   "affidamenti": 1
   }
  ],
  "contratti": [
-  {
-   "cig": "B0A9CED5A2",
-   "data": "2024-05-28",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "FUTURA SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 28556.0,
-   "aggiudicato": 28556.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "COMO"
-  },
   {
    "cig": "B0A9CED5A2",
    "data": "2024-05-28",

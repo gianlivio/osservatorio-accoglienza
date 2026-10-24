@@ -1,9 +1,9 @@
 {
  "nome": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
  "cf": "03816050128",
- "affidamenti": 24,
- "diretti": 19,
- "quota_diretti": 79.2,
+ "affidamenti": 21,
+ "diretti": 16,
+ "quota_diretti": 76.2,
  "per_anno": {
   "2021": {
    "affidamenti": 5,
@@ -21,9 +21,9 @@
    "quota_diretti": 100.0
   },
   "2024": {
-   "affidamenti": 8,
-   "diretti": 6,
-   "quota_diretti": 75.0
+   "affidamenti": 5,
+   "diretti": 3,
+   "quota_diretti": 60.0
   },
   "2025": {
    "affidamenti": 1,
@@ -34,7 +34,7 @@
  "province": [
   {
    "provincia": "COMO",
-   "affidamenti": 15
+   "affidamenti": 12
   },
   {
    "provincia": "VARESE",
@@ -75,22 +75,6 @@
    "provincia": "COMO"
   },
   {
-   "cig": "B4974F2695",
-   "data": "2024-12-03",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 137610.0,
-   "aggiudicato": 137610.0,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "certa",
-   "provincia": "COMO"
-  },
-  {
    "cig": "B4970F07E6",
    "data": "2024-12-03",
    "oggetto": "SERVIZI",
@@ -101,38 +85,6 @@
    "modalita": "diretto",
    "base": 281710.0,
    "aggiudicato": 281710.0,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "certa",
-   "provincia": "COMO"
-  },
-  {
-   "cig": "B4970F07E6",
-   "data": "2024-12-03",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 281710.0,
-   "aggiudicato": 281710.0,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "certa",
-   "provincia": "COMO"
-  },
-  {
-   "cig": "B496922719",
-   "data": "2024-12-03",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 276480.0,
-   "aggiudicato": 276480.0,
    "durata_gg": null,
    "da_accordo": true,
    "confidenza": "certa",

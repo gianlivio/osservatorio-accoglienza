@@ -163,24 +163,24 @@
    "copertura_esito": 87.5
   },
   "2025": {
-   "affidamenti": 17,
-   "certi": 14,
+   "affidamenti": 16,
+   "certi": 13,
    "diretti": 7,
-   "quota_diretti": 41.2,
+   "quota_diretti": 43.8,
    "mod_diretto": 7,
-   "mod_negoziata": 4,
+   "mod_negoziata": 3,
    "mod_gara": 4,
    "mod_altro": 2,
    "quota_diretti_per_importo": 0.1,
    "sotto_soglia": 7,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 302088,
+   "importo_mediano": 266044,
    "prosecuzioni": 2,
-   "canale_prefettura": 12,
+   "canale_prefettura": 11,
    "canale_ente_locale": 5,
    "enti_gestori": 7,
-   "copertura_vincitore": 58.8,
-   "copertura_esito": 64.7
+   "copertura_vincitore": 62.5,
+   "copertura_esito": 68.8
   }
  },
  "per_mese": {
@@ -407,10 +407,10 @@
    "importo_mediano": 302088
   },
   "2025-03": {
-   "affidamenti": 5,
+   "affidamenti": 4,
    "diretti": 1,
-   "quota_diretti": 20.0,
-   "importo_mediano": 366052
+   "quota_diretti": 25.0,
+   "importo_mediano": 298026
   },
   "2025-05": {
    "affidamenti": 1,
@@ -567,21 +567,6 @@
    "diretto": false,
    "modalita": "negoziata",
    "base": 621224.67,
-   "aggiudicato": null,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B60F349749",
-   "data": "2025-03-14",
-   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE/SEZIONE D",
-   "amministrazione": "PREFETTURA DI VERONA",
-   "ente": null,
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 366052.5,
    "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,

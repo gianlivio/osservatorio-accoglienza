@@ -163,24 +163,24 @@
    "copertura_esito": 97.2
   },
   "2025": {
-   "affidamenti": 41,
-   "certi": 14,
+   "affidamenti": 39,
+   "certi": 12,
    "diretti": 37,
-   "quota_diretti": 90.2,
+   "quota_diretti": 94.9,
    "mod_diretto": 37,
    "mod_negoziata": 0,
-   "mod_gara": 4,
+   "mod_gara": 2,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 93.8,
+   "quota_diretti_per_importo": 95.9,
    "sotto_soglia": 17,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 568425,
+   "importo_mediano": 637575,
    "prosecuzioni": 2,
-   "canale_prefettura": 31,
+   "canale_prefettura": 29,
    "canale_ente_locale": 10,
    "enti_gestori": 20,
-   "copertura_vincitore": 90.2,
-   "copertura_esito": 92.7
+   "copertura_vincitore": 94.9,
+   "copertura_esito": 97.4
   }
  },
  "per_mese": {
@@ -425,10 +425,10 @@
    "importo_mediano": 2124721
   },
   "2025-11": {
-   "affidamenti": 7,
+   "affidamenti": 5,
    "diretti": 4,
-   "quota_diretti": 57.1,
-   "importo_mediano": 17993
+   "quota_diretti": 80.0,
+   "importo_mediano": 13810
   }
  },
  "top_enti": [
@@ -537,36 +537,6 @@
    "modalita": "diretto",
    "base": 13809.52,
    "aggiudicato": 13809.52,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B90C03C746",
-   "data": "2025-11-12",
-   "oggetto": "SERVIZIO INTERPRETARIATO COMMISSIONE TERRITORIALE CASERTA",
-   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
-   "ente": null,
-   "procedura": "PROCEDURA APERTA",
-   "diretto": false,
-   "modalita": "gara",
-   "base": 568425.0,
-   "aggiudicato": null,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B90C03C746",
-   "data": "2025-11-12",
-   "oggetto": "SERVIZIO INTERPRETARIATO COMMISSIONE TERRITORIALE CASERTA",
-   "amministrazione": "MINISTERO INTERNO PREFETTURA CASERTA",
-   "ente": null,
-   "procedura": "PROCEDURA APERTA",
-   "diretto": false,
-   "modalita": "gara",
-   "base": 568425.0,
-   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

@@ -1,9 +1,9 @@
 {
  "nome": "SANTA MARTA COOPERATIVA SOCIALE",
  "cf": "02137700445",
- "affidamenti": 9,
- "diretti": 8,
- "quota_diretti": 88.9,
+ "affidamenti": 7,
+ "diretti": 6,
+ "quota_diretti": 85.7,
  "per_anno": {
   "2023": {
    "affidamenti": 1,
@@ -16,50 +16,18 @@
    "quota_diretti": 100.0
   },
   "2025": {
-   "affidamenti": 7,
-   "diretti": 6,
-   "quota_diretti": 85.7
+   "affidamenti": 5,
+   "diretti": 4,
+   "quota_diretti": 80.0
   }
  },
  "province": [
   {
    "provincia": "FERMO",
-   "affidamenti": 8
+   "affidamenti": 6
   }
  ],
  "contratti": [
-  {
-   "cig": "B9DA7D4D7D",
-   "data": "2025-12-31",
-   "oggetto": "PREFETTURA DI FERMO: ADESIONE ACCORDO QUADRO - 135 POSTI",
-   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
-   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 6144143.98,
-   "aggiudicato": 6144143.98,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "certa",
-   "provincia": "FERMO"
-  },
-  {
-   "cig": "B9DA7D4D7D",
-   "data": "2025-12-31",
-   "oggetto": "PREFETTURA DI FERMO: ADESIONE ACCORDO QUADRO - 135 POSTI",
-   "amministrazione": "UFFICIO TERRITORIALE GOVERNO-PREFETTURA FERMO",
-   "ente": "SANTA MARTA COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 6144143.98,
-   "aggiudicato": 6144143.98,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "certa",
-   "provincia": "FERMO"
-  },
   {
    "cig": "B9DA7D4D7D",
    "data": "2025-12-31",

@@ -1,9 +1,9 @@
 {
  "nome": "ASSOCIAZIONE MONDO NUOVO CARITAS",
  "cf": "91070270110",
- "affidamenti": 27,
- "diretti": 7,
- "quota_diretti": 25.9,
+ "affidamenti": 26,
+ "diretti": 6,
+ "quota_diretti": 23.1,
  "per_anno": {
   "2015": {
    "affidamenti": 8,
@@ -21,34 +21,18 @@
    "quota_diretti": 0.0
   },
   "2025": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "LA SPEZIA",
-   "affidamenti": 27
+   "affidamenti": 26
   }
  ],
  "contratti": [
-  {
-   "cig": "B998012646",
-   "data": "2025-12-16",
-   "oggetto": "SERVIZI CONNESSI ALLO SBARCO DEI MIGRANTI",
-   "amministrazione": "PREFETTURA DI LA SPEZIA",
-   "ente": "ASSOCIAZIONE MONDO NUOVO CARITAS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 15880.0,
-   "aggiudicato": 15880.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile",
-   "provincia": "LA SPEZIA"
-  },
   {
    "cig": "B998012646",
    "data": "2025-12-16",

@@ -1,20 +1,20 @@
 {
  "nome": "COMUNITA' DI ACCOGLIENZA FONDAZIONE MADRE AMABILE",
  "cf": "94005110187",
- "affidamenti": 4,
- "diretti": 4,
+ "affidamenti": 3,
+ "diretti": 3,
  "quota_diretti": 100.0,
  "per_anno": {
   "2024": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 3,
+   "diretti": 3,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "COMO",
-   "affidamenti": 3
+   "affidamenti": 2
   },
   {
    "provincia": "PAVIA",
@@ -22,22 +22,6 @@
   }
  ],
  "contratti": [
-  {
-   "cig": "B255737523",
-   "data": "2024-07-04",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "COMUNITA' DI ACCOGLIENZA FONDAZIONE MADRE AMABILE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 33075.0,
-   "aggiudicato": 33075.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "COMO"
-  },
   {
    "cig": "B255737523",
    "data": "2024-07-04",

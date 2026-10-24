@@ -143,24 +143,24 @@
    "copertura_esito": 25.8
   },
   "2024": {
-   "affidamenti": 37,
-   "certi": 37,
-   "diretti": 19,
+   "affidamenti": 35,
+   "certi": 35,
+   "diretti": 18,
    "quota_diretti": 51.4,
-   "mod_diretto": 19,
+   "mod_diretto": 18,
    "mod_negoziata": 2,
-   "mod_gara": 16,
+   "mod_gara": 15,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 16.0,
-   "sotto_soglia": 17,
-   "quota_diretti_sotto_soglia": 94.1,
+   "quota_diretti_per_importo": 16.1,
+   "sotto_soglia": 16,
+   "quota_diretti_sotto_soglia": 93.8,
    "importo_mediano": 234655,
-   "prosecuzioni": 13,
+   "prosecuzioni": 11,
    "canale_prefettura": 0,
-   "canale_ente_locale": 37,
+   "canale_ente_locale": 35,
    "enti_gestori": 17,
-   "copertura_vincitore": 48.6,
-   "copertura_esito": 67.6
+   "copertura_vincitore": 51.4,
+   "copertura_esito": 68.6
   },
   "2025": {
    "affidamenti": 18,
@@ -401,10 +401,10 @@
    "importo_mediano": 672831
   },
   "2024-09": {
-   "affidamenti": 9,
+   "affidamenti": 8,
    "diretti": 2,
-   "quota_diretti": 22.2,
-   "importo_mediano": 672240
+   "quota_diretti": 25.0,
+   "importo_mediano": 649028
   },
   "2024-10": {
    "affidamenti": 5,
@@ -413,9 +413,9 @@
    "importo_mediano": 587446
   },
   "2024-11": {
-   "affidamenti": 4,
-   "diretti": 3,
-   "quota_diretti": 75.0,
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7,
    "importo_mediano": 111744
   },
   "2024-12": {
@@ -873,21 +873,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B2C174D4EA",
-   "data": "2024-11-08",
-   "oggetto": "PROROGA TECNICA PROGETTO SAI PROG 090-PR-3 DAL 01/07/2024 AL 31/10/2024.",
-   "amministrazione": "COMUNE SCIGLIANO",
-   "ente": null,
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 111744.29,
-   "aggiudicato": 111744.29,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B417EB8727",
    "data": "2024-11-05",
    "oggetto": "LAVORI DI COMPLETAMENTO DEL RECUPERO E RISTRUTTURAZIONE PALAZZO MARCHIANÒ DA ADIBIRE AD ALLOGGI DESTINATI ALL' ACCOGLIENZA DI MIGRANTI E PROFUGHI IN FUGA DALLE GUERRE",
@@ -1033,21 +1018,6 @@
    "modalita": "diretto",
    "base": 111465.0,
    "aggiudicato": 111465.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B2ED38292A",
-   "data": "2024-09-05",
-   "oggetto": "(1) PROCEDURA PER AFFIDAMENTO GESTIONE DELLE AZIONI E SERVIZI DI ACCOGLIENZA E INTEGRAZIONE RELATIVO AL FONDO NAZIONALE PER LE POLITICHE E I SERVIZI DELL'ASILO, PERIODO 01/11/2024 ",
-   "amministrazione": "CENTRALE UNICA DI COMMITTENZA SAVUTO",
-   "ente": null,
-   "procedura": "PROCEDURA APERTA",
-   "diretto": false,
-   "modalita": "gara",
-   "base": 672240.5,
-   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

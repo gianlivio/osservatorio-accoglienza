@@ -201,24 +201,24 @@
    "copertura_esito": 93.0
   },
   "2025": {
-   "affidamenti": 21,
+   "affidamenti": 20,
    "certi": 13,
    "diretti": 13,
-   "quota_diretti": 61.9,
+   "quota_diretti": 65.0,
    "mod_diretto": 13,
-   "mod_negoziata": 4,
+   "mod_negoziata": 3,
    "mod_gara": 4,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 15.1,
+   "quota_diretti_per_importo": 17.1,
    "sotto_soglia": 14,
    "quota_diretti_sotto_soglia": 92.9,
-   "importo_mediano": 98506,
+   "importo_mediano": 89253,
    "prosecuzioni": 0,
    "canale_prefettura": 2,
-   "canale_ente_locale": 19,
+   "canale_ente_locale": 18,
    "enti_gestori": 15,
-   "copertura_vincitore": 85.7,
-   "copertura_esito": 95.2
+   "copertura_vincitore": 85.0,
+   "copertura_esito": 95.0
   }
  },
  "per_mese": {
@@ -775,10 +775,10 @@
    "importo_mediano": 31532
   },
   "2025-09": {
-   "affidamenti": 3,
+   "affidamenti": 2,
    "diretti": 1,
-   "quota_diretti": 33.3,
-   "importo_mediano": 423808
+   "quota_diretti": 50.0,
+   "importo_mediano": 266204
   },
   "2025-11": {
    "affidamenti": 1,
@@ -820,11 +820,6 @@
    "affidamenti": 3
   },
   {
-   "nome": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
-   "cf": "07789840019",
-   "affidamenti": 3
-  },
-  {
    "nome": "NOE NUOVE OPPORTUNITA' EDUCATIVE - SOCIETA' COOPERATIVA SOCIALE",
    "cf": "11279990011",
    "affidamenti": 2
@@ -842,6 +837,11 @@
   {
    "nome": "GLI ARGONAUTI SOCIETA' COOPERATIVA SOCIALE ONLUS SIGLABILE GLI ARGONAUTI S.C.S. ONLUS",
    "cf": "07781380014",
+   "affidamenti": 2
+  },
+  {
+   "nome": "CROCE ROSSA ITALIANA COMITATO LOCALE DI SUSA O.D.V.",
+   "cf": "11053020019",
    "affidamenti": 2
   }
  ],
@@ -914,21 +914,6 @@
    "modalita": "diretto",
    "base": 108600.0,
    "aggiudicato": 108600.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "probabile"
-  },
-  {
-   "cig": "B850D2DD87",
-   "data": "2025-09-19",
-   "oggetto": "PROCEDURA NEGOZIATA G00858 - SERVIZIO DI ACCOGLIENZA RESIDENZIALE SUPPORTATA A VALENZA SOCIOSANITARIA PER 10 MIGRANTI, DESTINATARI DELLE PRESTAZIONI DEL PROGETTO PROGETTO 993 LGNET",
-   "amministrazione": "COMUNE DI TORINO",
-   "ente": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 423808.0,
-   "aggiudicato": 272427.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "probabile"

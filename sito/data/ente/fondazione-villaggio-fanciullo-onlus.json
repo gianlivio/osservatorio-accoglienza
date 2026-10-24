@@ -1,39 +1,23 @@
 {
  "nome": "FONDAZIONE VILLAGGIO FANCIULLO ONLUS",
  "cf": "92058180461",
- "affidamenti": 2,
- "diretti": 2,
+ "affidamenti": 1,
+ "diretti": 1,
  "quota_diretti": 100.0,
  "per_anno": {
   "2024": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "LUCCA",
-   "affidamenti": 2
+   "affidamenti": 1
   }
  ],
  "contratti": [
-  {
-   "cig": "B0EA30550F",
-   "data": "2024-05-20",
-   "oggetto": "AFFIDAMENTO DIRETTO PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE IN FAVORE DI MSNA",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "FONDAZIONE VILLAGGIO FANCIULLO ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 36500.0,
-   "aggiudicato": 36500.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "LUCCA"
-  },
   {
    "cig": "B0EA30550F",
    "data": "2024-05-20",

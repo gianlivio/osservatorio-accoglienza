@@ -1,9 +1,9 @@
 {
  "nome": "S.B.M. GESTIONI S.R.L.S.",
  "cf": "02874830900",
- "affidamenti": 5,
- "diretti": 2,
- "quota_diretti": 40.0,
+ "affidamenti": 4,
+ "diretti": 1,
+ "quota_diretti": 25.0,
  "per_anno": {
   "2024": {
    "affidamenti": 2,
@@ -11,34 +11,18 @@
    "quota_diretti": 0.0
   },
   "2025": {
-   "affidamenti": 3,
-   "diretti": 2,
-   "quota_diretti": 66.7
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
   }
  },
  "province": [
   {
    "provincia": "SASSARI",
-   "affidamenti": 5
+   "affidamenti": 4
   }
  ],
  "contratti": [
-  {
-   "cig": "B5EDB629B0",
-   "data": "2025-03-06",
-   "oggetto": "ADESIONE ACCORDO QUADRO CIG B22B94524D - SERVIZIO DI ACCOGLIENZA CITTADINI STRANIERI RICHIEDENTI ASILO PRESSO UNITÀ ABITATIVE",
-   "amministrazione": "PREFETTURA DI SASSARI",
-   "ente": "S.B.M. GESTIONI S.R.L.S.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 1615782.0,
-   "aggiudicato": 1615782.0,
-   "durata_gg": null,
-   "da_accordo": true,
-   "confidenza": "certa",
-   "provincia": "SASSARI"
-  },
   {
    "cig": "B5EDB629B0",
    "data": "2025-03-06",

@@ -181,24 +181,24 @@
    "copertura_esito": 57.1
   },
   "2024": {
-   "affidamenti": 16,
-   "certi": 15,
+   "affidamenti": 15,
+   "certi": 14,
    "diretti": 10,
-   "quota_diretti": 62.5,
+   "quota_diretti": 66.7,
    "mod_diretto": 10,
-   "mod_negoziata": 3,
+   "mod_negoziata": 2,
    "mod_gara": 3,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 74.5,
+   "quota_diretti_per_importo": 82.0,
    "sotto_soglia": 2,
    "quota_diretti_sotto_soglia": 50.0,
-   "importo_mediano": 894006,
+   "importo_mediano": 785174,
    "prosecuzioni": 1,
    "canale_prefettura": 0,
-   "canale_ente_locale": 16,
+   "canale_ente_locale": 15,
    "enti_gestori": 9,
-   "copertura_vincitore": 87.5,
-   "copertura_esito": 87.5
+   "copertura_vincitore": 86.7,
+   "copertura_esito": 86.7
   },
   "2025": {
    "affidamenti": 9,
@@ -445,10 +445,10 @@
    "importo_mediano": 754065
   },
   "2024-09": {
-   "affidamenti": 3,
+   "affidamenti": 2,
    "diretti": 0,
    "quota_diretti": 0.0,
-   "importo_mediano": 1967637
+   "importo_mediano": 1126998
   },
   "2024-11": {
    "affidamenti": 2,
@@ -510,11 +510,6 @@
    "affidamenti": 2
   },
   {
-   "nome": "F.M.B. TUBES S.R.L.",
-   "cf": "01544860800",
-   "affidamenti": 2
-  },
-  {
    "nome": "COOPERATIVA SOCIALE C.S.I.S.E.- COOPERATIVA STUDI ED INTERVENTI S OCIO EDUCATIVI - ONLUS IN SIGLA COOPERATIVA SOCIALE C.S.I.S.E. - ONLUS",
    "cf": "03118850720",
    "affidamenti": 2
@@ -527,6 +522,11 @@
   {
    "nome": "INNOTEC SOCIETA' COOPERATIVA SOCIALE",
    "cf": "06428030727",
+   "affidamenti": 1
+  },
+  {
+   "nome": "F.M.B. TUBES S.R.L.",
+   "cf": "01544860800",
    "affidamenti": 1
   },
   {
@@ -809,21 +809,6 @@
    "modalita": "gara",
    "base": 286358.66,
    "aggiudicato": 287358.56,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B2F0C68D67",
-   "data": "2024-09-06",
-   "oggetto": "P24-230 - BARI PALESE - FORNITURA E POSA IN OPERA DI PREFABBRICATI VARI",
-   "amministrazione": "3 REPARTO GENIO A.M.BARI",
-   "ente": "F.M.B. TUBES S.R.L.",
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 1967636.83,
-   "aggiudicato": 1967636.83,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

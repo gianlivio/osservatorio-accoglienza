@@ -162,24 +162,24 @@
    "copertura_esito": 81.8
   },
   "2024": {
-   "affidamenti": 38,
-   "certi": 35,
-   "diretti": 34,
-   "quota_diretti": 89.5,
-   "mod_diretto": 34,
+   "affidamenti": 37,
+   "certi": 34,
+   "diretti": 33,
+   "quota_diretti": 89.2,
+   "mod_diretto": 33,
    "mod_negoziata": 1,
    "mod_gara": 3,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 8.3,
+   "quota_diretti_per_importo": 7.5,
    "sotto_soglia": 32,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 34992,
+   "importo_mediano": 34675,
    "prosecuzioni": 14,
    "canale_prefettura": 8,
-   "canale_ente_locale": 30,
+   "canale_ente_locale": 29,
    "enti_gestori": 24,
-   "copertura_vincitore": 94.7,
-   "copertura_esito": 94.7
+   "copertura_vincitore": 94.6,
+   "copertura_esito": 94.6
   },
   "2025": {
    "affidamenti": 23,
@@ -354,9 +354,9 @@
    "importo_mediano": 35490
   },
   "2024-05": {
-   "affidamenti": 4,
-   "diretti": 3,
-   "quota_diretti": 75.0,
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7,
    "importo_mediano": 148860
   },
   "2024-06": {
@@ -479,8 +479,8 @@
    "affidamenti": 2
   },
   {
-   "nome": "RUSSO SALVATORE",
-   "cf": "RSSSVT73S14G371R",
+   "nome": "SOCIETA' COOPERATIVA SOCIALE LIBELLULA",
+   "cf": "03632620757",
    "affidamenti": 2
   }
  ],
@@ -1273,21 +1273,6 @@
    "modalita": "diretto",
    "base": 29600.0,
    "aggiudicato": 29600.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B1860955CB",
-   "data": "2024-05-07",
-   "oggetto": "REVISORE CONTABILE INDIPENDENTE NELL'AMBITO DEI PROGETTI SAI 551 E 552",
-   "amministrazione": "COMUNE DI ANCONA",
-   "ente": "RUSSO SALVATORE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 148860.0,
-   "aggiudicato": 29772.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

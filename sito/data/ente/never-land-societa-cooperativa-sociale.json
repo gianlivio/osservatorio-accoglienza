@@ -1,20 +1,20 @@
 {
  "nome": "NEVER LAND SOCIETA' COOPERATIVA SOCIALE",
  "cf": "02889920126",
- "affidamenti": 4,
- "diretti": 4,
+ "affidamenti": 3,
+ "diretti": 3,
  "quota_diretti": 100.0,
  "per_anno": {
   "2024": {
-   "affidamenti": 4,
-   "diretti": 4,
+   "affidamenti": 3,
+   "diretti": 3,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "COMO",
-   "affidamenti": 3
+   "affidamenti": 2
   },
   {
    "provincia": "VARESE",
@@ -37,22 +37,6 @@
    "da_accordo": false,
    "confidenza": "certa",
    "provincia": "VARESE"
-  },
-  {
-   "cig": "B13BCBD86F",
-   "data": "2024-05-28",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "NEVER LAND SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 66000.0,
-   "aggiudicato": 66000.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "COMO"
   },
   {
    "cig": "B13BCBD86F",

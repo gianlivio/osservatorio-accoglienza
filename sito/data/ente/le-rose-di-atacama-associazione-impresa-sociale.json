@@ -1,20 +1,20 @@
 {
  "nome": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
  "cf": "96068490760",
- "affidamenti": 3,
- "diretti": 2,
- "quota_diretti": 66.7,
+ "affidamenti": 2,
+ "diretti": 1,
+ "quota_diretti": 50.0,
  "per_anno": {
   "2024": {
-   "affidamenti": 3,
-   "diretti": 2,
-   "quota_diretti": 66.7
+   "affidamenti": 2,
+   "diretti": 1,
+   "quota_diretti": 50.0
   }
  },
  "province": [
   {
    "provincia": "COMO",
-   "affidamenti": 2
+   "affidamenti": 1
   },
   {
    "provincia": "POTENZA",
@@ -37,22 +37,6 @@
    "da_accordo": false,
    "confidenza": "certa",
    "provincia": "POTENZA"
-  },
-  {
-   "cig": "B2555C2155",
-   "data": "2024-07-04",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 74666.2,
-   "aggiudicato": 74666.2,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "COMO"
   },
   {
    "cig": "B2555C2155",

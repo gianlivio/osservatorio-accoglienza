@@ -144,24 +144,24 @@
    "copertura_esito": 100.0
   },
   "2025": {
-   "affidamenti": 5,
-   "certi": 5,
+   "affidamenti": 4,
+   "certi": 4,
    "diretti": 3,
-   "quota_diretti": 60.0,
+   "quota_diretti": 75.0,
    "mod_diretto": 3,
    "mod_negoziata": 0,
-   "mod_gara": 2,
+   "mod_gara": 1,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 9.3,
+   "quota_diretti_per_importo": 17.0,
    "sotto_soglia": 3,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 77239,
+   "importo_mediano": 63658,
    "prosecuzioni": 0,
    "canale_prefettura": 0,
-   "canale_ente_locale": 5,
+   "canale_ente_locale": 4,
    "enti_gestori": 2,
-   "copertura_vincitore": 60.0,
-   "copertura_esito": 60.0
+   "copertura_vincitore": 75.0,
+   "copertura_esito": 75.0
   }
  },
  "per_mese": {
@@ -250,10 +250,10 @@
    "importo_mediano": 47520
   },
   "2025-01": {
-   "affidamenti": 3,
+   "affidamenti": 2,
    "diretti": 1,
-   "quota_diretti": 33.3,
-   "importo_mediano": 745500
+   "quota_diretti": 50.0,
+   "importo_mediano": 385459
   },
   "2025-09": {
    "affidamenti": 1,
@@ -344,21 +344,6 @@
    "modalita": "diretto",
    "base": 25417.35,
    "aggiudicato": 25417.35,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B4792C9274",
-   "data": "2025-01-22",
-   "oggetto": "GARA PROGETTO SIPROIMI/SAI 2025-2026",
-   "amministrazione": "COMUNE DI SAN GAVINO MONREALE",
-   "ente": null,
-   "procedura": "PROCEDURA APERTA",
-   "diretto": false,
-   "modalita": "gara",
-   "base": 745500.0,
-   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

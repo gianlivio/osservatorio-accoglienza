@@ -143,24 +143,24 @@
    "copertura_esito": 23.5
   },
   "2024": {
-   "affidamenti": 67,
-   "certi": 65,
+   "affidamenti": 64,
+   "certi": 62,
    "diretti": 40,
-   "quota_diretti": 59.7,
+   "quota_diretti": 62.5,
    "mod_diretto": 40,
-   "mod_negoziata": 13,
-   "mod_gara": 14,
+   "mod_negoziata": 11,
+   "mod_gara": 13,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 0.8,
+   "quota_diretti_per_importo": 0.9,
    "sotto_soglia": 43,
    "quota_diretti_sotto_soglia": 86.0,
-   "importo_mediano": 137803,
+   "importo_mediano": 136882,
    "prosecuzioni": 6,
-   "canale_prefettura": 25,
-   "canale_ente_locale": 42,
+   "canale_prefettura": 23,
+   "canale_ente_locale": 41,
    "enti_gestori": 24,
-   "copertura_vincitore": 74.6,
-   "copertura_esito": 83.6
+   "copertura_vincitore": 75.0,
+   "copertura_esito": 84.4
   },
   "2025": {
    "affidamenti": 71,
@@ -353,9 +353,9 @@
    "importo_mediano": 72168
   },
   "2024-04": {
-   "affidamenti": 8,
+   "affidamenti": 7,
    "diretti": 6,
-   "quota_diretti": 75.0,
+   "quota_diretti": 85.7,
    "importo_mediano": 31865
   },
   "2024-05": {
@@ -401,9 +401,9 @@
    "importo_mediano": 5620169
   },
   "2024-12": {
-   "affidamenti": 7,
+   "affidamenti": 5,
    "diretti": 2,
-   "quota_diretti": 28.6,
+   "quota_diretti": 40.0,
    "importo_mediano": 171060
   },
   "2025-01": {
@@ -1670,36 +1670,6 @@
    "confidenza": "certa"
   },
   {
-   "cig": "B4EFA1A2FC",
-   "data": "2024-12-21",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI SALERNO SEZIONE DI NAPOLI",
-   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 233750.0,
-   "aggiudicato": 165750.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B4EFA1A2FC",
-   "data": "2024-12-21",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI SALERNO SEZIONE DI NAPOLI",
-   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 233750.0,
-   "aggiudicato": 165750.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
    "cig": "B4C5586E82",
    "data": "2024-12-13",
    "oggetto": "AFFIDAMNETO MINORI STRANIERI NON ACCOMPAGNATI",
@@ -2355,21 +2325,6 @@
    "modalita": "diretto",
    "base": 59211.2,
    "aggiudicato": 59211.2,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B10D7ABB7C",
-   "data": "2024-04-02",
-   "oggetto": "SELEZIONE DEL SOGGETTO ATTUATORE DEI SERVIZI DI ACCOGLIENZA, INTEGRAZIONE E TUTELA RIVOLTI AI MINORI STRANIERI NON ACCOMPAGNATI E/O RICHIEDENTI PROTEZIONE INTERNAZIONALE (MSNA) NEL",
-   "amministrazione": "COMUNE DI CASORIA",
-   "ente": null,
-   "procedura": "PROCEDURA APERTA",
-   "diretto": false,
-   "modalita": "gara",
-   "base": 728853.52,
-   "aggiudicato": null,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

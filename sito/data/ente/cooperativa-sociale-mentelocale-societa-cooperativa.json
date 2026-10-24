@@ -1,13 +1,13 @@
 {
  "nome": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
  "cf": "02116720513",
- "affidamenti": 3,
- "diretti": 3,
+ "affidamenti": 2,
+ "diretti": 2,
  "quota_diretti": 100.0,
  "per_anno": {
   "2024": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0
   },
   "2025": {
@@ -19,7 +19,7 @@
  "province": [
   {
    "provincia": "AREZZO",
-   "affidamenti": 3
+   "affidamenti": 2
   }
  ],
  "contratti": [
@@ -34,22 +34,6 @@
    "modalita": "diretto",
    "base": 41860.0,
    "aggiudicato": 41860.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "AREZZO"
-  },
-  {
-   "cig": "B3578D5353",
-   "data": "2024-10-09",
-   "oggetto": "ACCOGLIENZA RESIDENZIALE MINORE STRANIERO NON ACCOMPAGNATO - COOPERATIVA SOCIALE MENTELOCALE",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 40000.0,
-   "aggiudicato": 40000.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa",

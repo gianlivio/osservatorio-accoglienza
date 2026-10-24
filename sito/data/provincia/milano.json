@@ -181,23 +181,23 @@
    "copertura_esito": 48.5
   },
   "2024": {
-   "affidamenti": 48,
-   "certi": 27,
-   "diretti": 42,
-   "quota_diretti": 87.5,
-   "mod_diretto": 42,
+   "affidamenti": 47,
+   "certi": 26,
+   "diretti": 41,
+   "quota_diretti": 87.2,
+   "mod_diretto": 41,
    "mod_negoziata": 5,
    "mod_gara": 1,
    "mod_altro": 0,
    "quota_diretti_per_importo": 98.1,
-   "sotto_soglia": 22,
-   "quota_diretti_sotto_soglia": 90.9,
-   "importo_mediano": 155000,
+   "sotto_soglia": 21,
+   "quota_diretti_sotto_soglia": 90.5,
+   "importo_mediano": 164000,
    "prosecuzioni": 0,
    "canale_prefettura": 22,
-   "canale_ente_locale": 26,
+   "canale_ente_locale": 25,
    "enti_gestori": 23,
-   "copertura_vincitore": 68.8,
+   "copertura_vincitore": 68.1,
    "copertura_esito": 97.9
   },
   "2025": {
@@ -697,10 +697,10 @@
    "importo_mediano": 379542
   },
   "2024-09": {
-   "affidamenti": 5,
-   "diretti": 5,
+   "affidamenti": 4,
+   "diretti": 4,
    "quota_diretti": 100.0,
-   "importo_mediano": 44500
+   "importo_mediano": 31136
   },
   "2024-10": {
    "affidamenti": 4,
@@ -819,11 +819,6 @@
    "affidamenti": 3
   },
   {
-   "nome": "R2DT AUDIT S.R.L.",
-   "cf": "15596681005",
-   "affidamenti": 2
-  },
-  {
    "nome": "INTRECCI SOCIETÀ COOPERATIVA SOCIALE",
    "cf": null,
    "affidamenti": 1
@@ -836,6 +831,11 @@
   {
    "nome": "ORS ITALIA S.R.L.",
    "cf": "14875441009",
+   "affidamenti": 1
+  },
+  {
+   "nome": "ELLEPIKAPPA ONLUS",
+   "cf": "02961270168",
    "affidamenti": 1
   }
  ],
@@ -1393,21 +1393,6 @@
    "modalita": "diretto",
    "base": 144428.002,
    "aggiudicato": 144428.002,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B2EA7770C0",
-   "data": "2024-09-04",
-   "oggetto": "SERVIZIO DI REVISORE CONTABILE INDIPENDENTE PER L'ATTIVITÀ DI VERIFICA AMMINISTRATIVO-CONTABILE DELLE SPESE SOSTENUTE NELL'AMBITO DEL PROGETTO SAI MSNA",
-   "amministrazione": "COMUNE DI MILANO",
-   "ente": "R2DT AUDIT S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 44500.0,
-   "aggiudicato": 44500.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

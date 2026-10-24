@@ -143,21 +143,21 @@
    "copertura_esito": 6.7
   },
   "2024": {
-   "affidamenti": 6,
-   "certi": 6,
-   "diretti": 4,
-   "quota_diretti": 66.7,
-   "mod_diretto": 4,
+   "affidamenti": 5,
+   "certi": 5,
+   "diretti": 3,
+   "quota_diretti": 60.0,
+   "mod_diretto": 3,
    "mod_negoziata": 1,
    "mod_gara": 1,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 1.5,
-   "sotto_soglia": 4,
+   "quota_diretti_per_importo": 1.3,
+   "sotto_soglia": 3,
    "quota_diretti_sotto_soglia": 100.0,
-   "importo_mediano": 71150,
+   "importo_mediano": 107900,
    "prosecuzioni": 0,
    "canale_prefettura": 2,
-   "canale_ente_locale": 4,
+   "canale_ente_locale": 3,
    "enti_gestori": 4,
    "copertura_vincitore": 100.0,
    "copertura_esito": 100.0
@@ -311,8 +311,8 @@
    "importo_mediano": 256640
   },
   "2024-05": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0,
    "importo_mediano": 34400
   },
@@ -363,7 +363,7 @@
   {
    "nome": "CORI S.R.L.",
    "cf": "06852790481",
-   "affidamenti": 4
+   "affidamenti": 3
   },
   {
    "nome": "COOPERATIVA SOCIALE SANTA CATERINA",
@@ -415,7 +415,7 @@
   {
    "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
    "ente": "CORI S.R.L.",
-   "affidamenti_diretti": 4
+   "affidamenti_diretti": 3
   }
  ],
  "contratti": [
@@ -685,21 +685,6 @@
    "modalita": "gara",
    "base": 12686670.0,
    "aggiudicato": 2368178.4,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B0EA2D0951",
-   "data": "2024-05-20",
-   "oggetto": "AFFIDAMENTO DIRETTO PER ACCOGLIENZA RESIDENZIALE MSNA",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "CORI S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 34400.0,
-   "aggiudicato": 34400.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa"

@@ -1,9 +1,9 @@
 {
  "nome": "SANTA ANGELA MERICI SOCIETA' COOPERATIVA SOCIALE",
  "cf": "02085870307",
- "affidamenti": 16,
- "diretti": 13,
- "quota_diretti": 81.2,
+ "affidamenti": 15,
+ "diretti": 12,
+ "quota_diretti": 80.0,
  "per_anno": {
   "2016": {
    "affidamenti": 1,
@@ -21,9 +21,9 @@
    "quota_diretti": 0.0
   },
   "2024": {
-   "affidamenti": 10,
-   "diretti": 9,
-   "quota_diretti": 90.0
+   "affidamenti": 9,
+   "diretti": 8,
+   "quota_diretti": 88.9
   },
   "2025": {
    "affidamenti": 3,
@@ -42,7 +42,7 @@
   },
   {
    "provincia": "COMO",
-   "affidamenti": 2
+   "affidamenti": 1
   }
  ],
  "contratti": [
@@ -221,22 +221,6 @@
    "da_accordo": false,
    "confidenza": "certa",
    "provincia": "TRIESTE"
-  },
-  {
-   "cig": "B062A50899",
-   "data": "2024-02-14",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "SANTA ANGELA MERICI SOCIETA' COOPERATIVA SOCIALE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 20570.0,
-   "aggiudicato": 20570.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "COMO"
   },
   {
    "cig": "B062A50899",

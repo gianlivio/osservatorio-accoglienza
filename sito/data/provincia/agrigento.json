@@ -181,24 +181,24 @@
    "copertura_esito": 23.1
   },
   "2024": {
-   "affidamenti": 20,
-   "certi": 19,
+   "affidamenti": 18,
+   "certi": 17,
    "diretti": 14,
-   "quota_diretti": 70.0,
+   "quota_diretti": 77.8,
    "mod_diretto": 14,
-   "mod_negoziata": 5,
+   "mod_negoziata": 3,
    "mod_gara": 1,
    "mod_altro": 0,
-   "quota_diretti_per_importo": 28.3,
-   "sotto_soglia": 17,
-   "quota_diretti_sotto_soglia": 76.5,
-   "importo_mediano": 24800,
+   "quota_diretti_per_importo": 30.1,
+   "sotto_soglia": 15,
+   "quota_diretti_sotto_soglia": 86.7,
+   "importo_mediano": 24400,
    "prosecuzioni": 1,
-   "canale_prefettura": 9,
+   "canale_prefettura": 7,
    "canale_ente_locale": 11,
    "enti_gestori": 7,
-   "copertura_vincitore": 80.0,
-   "copertura_esito": 80.0
+   "copertura_vincitore": 88.9,
+   "copertura_esito": 88.9
   },
   "2025": {
    "affidamenti": 16,
@@ -445,7 +445,7 @@
    "importo_mediano": 24800
   },
   "2024-07": {
-   "affidamenti": 5,
+   "affidamenti": 3,
    "diretti": 0,
    "quota_diretti": 0.0,
    "importo_mediano": 55000
@@ -979,36 +979,6 @@
   {
    "cig": "B26860EE6E",
    "data": "2024-07-10",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELL'ATTIVITÀ ISTITUZIONALE DELLA SEZIONE DI AGRIGENTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DE",
-   "amministrazione": "PREFETTURA DI AGRIGENTO",
-   "ente": null,
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 55000.0,
-   "aggiudicato": null,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B26860EE6E",
-   "data": "2024-07-10",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELL'ATTIVITÀ ISTITUZIONALE DELLA SEZIONE DI AGRIGENTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DE",
-   "amministrazione": "PREFETTURA DI AGRIGENTO",
-   "ente": null,
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 55000.0,
-   "aggiudicato": null,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa"
-  },
-  {
-   "cig": "B26620D854",
-   "data": "2024-07-09",
    "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELL'ATTIVITÀ ISTITUZIONALE DELLA SEZIONE DI AGRIGENTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DE",
    "amministrazione": "PREFETTURA DI AGRIGENTO",
    "ente": null,

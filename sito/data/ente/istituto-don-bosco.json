@@ -1,20 +1,20 @@
 {
  "nome": "ISTITUTO DON BOSCO",
  "cf": "81001070473",
- "affidamenti": 3,
- "diretti": 3,
+ "affidamenti": 2,
+ "diretti": 2,
  "quota_diretti": 100.0,
  "per_anno": {
   "2025": {
-   "affidamenti": 3,
-   "diretti": 3,
+   "affidamenti": 2,
+   "diretti": 2,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "PISTOIA",
-   "affidamenti": 3
+   "affidamenti": 2
   }
  ],
  "contratti": [
@@ -29,22 +29,6 @@
    "modalita": "diretto",
    "base": 30940.0,
    "aggiudicato": 30940.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "PISTOIA"
-  },
-  {
-   "cig": "B546E85F46",
-   "data": "2025-01-22",
-   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - CASA GIOVANNI",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "ISTITUTO DON BOSCO",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 20145.0,
-   "aggiudicato": 20145.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa",

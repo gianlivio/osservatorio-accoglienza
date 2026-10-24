@@ -102,15 +102,15 @@
   "affidamenti": 36
  },
  {
-  "nome": "LABIRINTO COOPERATIVA SOCIALE",
-  "slug": "labirinto-cooperativa-sociale",
-  "cf": "01204530412",
-  "affidamenti": 34
- },
- {
   "nome": "AGORA' SOCIETA' COOPERATIVA SOCIALE",
   "slug": "agora-societa-cooperativa-sociale-03486790102",
   "cf": "03486790102",
+  "affidamenti": 33
+ },
+ {
+  "nome": "LABIRINTO COOPERATIVA SOCIALE",
+  "slug": "labirinto-cooperativa-sociale",
+  "cf": "01204530412",
   "affidamenti": 33
  },
  {
@@ -174,21 +174,15 @@
   "affidamenti": 29
  },
  {
-  "nome": "AEDIS SOCIETA' COOPERATIVA SOCIALE ONLUS",
-  "slug": "aedis-societa-cooperativa-sociale-onlus",
-  "cf": "02870950306",
-  "affidamenti": 28
- },
- {
   "nome": "L'ISOLA DI ARIEL SOCIETA' COOPERATIVA SOCIALE",
   "slug": "l-isola-di-ariel-societa-cooperativa-sociale",
   "cf": "09489490012",
   "affidamenti": 28
  },
  {
-  "nome": "ASSOCIAZIONE MONDO NUOVO CARITAS",
-  "slug": "associazione-mondo-nuovo-caritas",
-  "cf": "91070270110",
+  "nome": "AEDIS SOCIETA' COOPERATIVA SOCIALE ONLUS",
+  "slug": "aedis-societa-cooperativa-sociale-onlus",
+  "cf": "02870950306",
   "affidamenti": 27
  },
  {
@@ -204,9 +198,9 @@
   "affidamenti": 27
  },
  {
-  "nome": "BALLAFON SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "ballafon-societa-cooperativa-sociale",
-  "cf": "02913790123",
+  "nome": "ASSOCIAZIONE MONDO NUOVO CARITAS",
+  "slug": "associazione-mondo-nuovo-caritas",
+  "cf": "91070270110",
   "affidamenti": 26
  },
  {
@@ -226,6 +220,12 @@
   "slug": "societa-cooperativa-sociale-camelot-a-r-l-con-sigla-coop-camelot-progetto-verde-officine-cooperative",
   "cf": "01473160388",
   "affidamenti": 26
+ },
+ {
+  "nome": "BALLAFON SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "ballafon-societa-cooperativa-sociale",
+  "cf": "02913790123",
+  "affidamenti": 25
  },
  {
   "nome": "CENTRO DI SOLIDARIETA' L'ANCORA - SOCIETA' COOPERATIVA SOCIALE ONLUS",
@@ -276,12 +276,6 @@
   "affidamenti": 24
  },
  {
-  "nome": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "san-martino-societa-cooperativa-sociale",
-  "cf": "03816050128",
-  "affidamenti": 24
- },
- {
   "nome": "ASSOCIAZIONE CENTRO ASTALLI ASSISTENZA AGLI IMMIGRATI",
   "slug": "associazione-centro-astalli-assistenza-agli-immigrati",
   "cf": "96112950587",
@@ -318,12 +312,6 @@
   "affidamenti": 22
  },
  {
-  "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
-  "slug": "cooperativa-animazione-valdocco-societa-cooperativa-sociale-impresa-sociale-onlus-siglabile-cooperativa-animazione-valdocco-s-c-s-onlus",
-  "cf": "03747970014",
-  "affidamenti": 22
- },
- {
   "nome": "CORPORATE LOGISTICA SRL IN LIQUIDAZIONE",
   "slug": "corporate-logistica-srl-in-liquidazione",
   "cf": "03982760716",
@@ -354,15 +342,21 @@
   "affidamenti": 22
  },
  {
+  "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
+  "slug": "cooperativa-animazione-valdocco-societa-cooperativa-sociale-impresa-sociale-onlus-siglabile-cooperativa-animazione-valdocco-s-c-s-onlus",
+  "cf": "03747970014",
+  "affidamenti": 21
+ },
+ {
   "nome": "GARBATA ACCOGLIENZA SRL",
   "slug": "garbata-accoglienza-srl",
   "cf": "01620910198",
   "affidamenti": 21
  },
  {
-  "nome": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
-  "slug": "interpreti-traduttori-mediatori-s-r-l",
-  "cf": "16505751004",
+  "nome": "SAN MARTINO SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "san-martino-societa-cooperativa-sociale",
+  "cf": "03816050128",
   "affidamenti": 21
  },
  {
@@ -474,6 +468,12 @@
   "affidamenti": 18
  },
  {
+  "nome": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
+  "slug": "interpreti-traduttori-mediatori-s-r-l",
+  "cf": "16505751004",
+  "affidamenti": 18
+ },
+ {
   "nome": "L'IPPOGRIFO SOCIETA' COOPERATIVA SOCIALE ENUNCIABILE ANCHE L'IPPO GRIFO SOC. COOP. SOCIALE",
   "slug": "l-ippogrifo-societa-cooperativa-sociale-enunciabile-anche-l-ippo-grifo-soc-coop-sociale",
   "cf": "01361720335",
@@ -525,12 +525,6 @@
   "nome": "CONSORZIO MATRIX - COOPERATIVA SOCIALE",
   "slug": "consorzio-matrix-cooperativa-sociale",
   "cf": "06390101217",
-  "affidamenti": 17
- },
- {
-  "nome": "FRUTTETO A SOCIETA' COOPERATIVA SOCIALE ED IMPRESA SOCIALE ONLUS",
-  "slug": "frutteto-a-societa-cooperativa-sociale-ed-impresa-sociale-onlus",
-  "cf": "01633300031",
   "affidamenti": 17
  },
  {
@@ -606,9 +600,9 @@
   "affidamenti": 16
  },
  {
-  "nome": "SANTA ANGELA MERICI SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "santa-angela-merici-societa-cooperativa-sociale",
-  "cf": "02085870307",
+  "nome": "FRUTTETO A SOCIETA' COOPERATIVA SOCIALE ED IMPRESA SOCIALE ONLUS",
+  "slug": "frutteto-a-societa-cooperativa-sociale-ed-impresa-sociale-onlus",
+  "cf": "01633300031",
   "affidamenti": 16
  },
  {
@@ -687,6 +681,12 @@
   "nome": "INTRECCI SOCIETA' COOPERATIVA SOCIALE",
   "slug": "intrecci-societa-cooperativa-sociale",
   "cf": "03988900969",
+  "affidamenti": 15
+ },
+ {
+  "nome": "SANTA ANGELA MERICI SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "santa-angela-merici-societa-cooperativa-sociale",
+  "cf": "02085870307",
   "affidamenti": 15
  },
  {
@@ -1368,12 +1368,6 @@
   "affidamenti": 9
  },
  {
-  "nome": "CORI S.R.L.",
-  "slug": "cori-s-r-l",
-  "cf": "06852790481",
-  "affidamenti": 9
- },
- {
   "nome": "CROCE ROSSA ITALIANA-COMITATO DI LUCCA ORGANIZZAZIONE DI VOLONTARIATO",
   "slug": "croce-rossa-italiana-comitato-di-lucca-organizzazione-di-volontariato",
   "cf": "92057070465",
@@ -1410,12 +1404,6 @@
   "affidamenti": 9
  },
  {
-  "nome": "L'IMPRONTA - SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "l-impronta-societa-cooperativa-sociale",
-  "cf": "01927080463",
-  "affidamenti": 9
- },
- {
   "nome": "LAVORO PER LA SALUTE S.R.L.",
   "slug": "lavoro-per-la-salute-s-r-l",
   "cf": "02943590600",
@@ -1449,12 +1437,6 @@
   "nome": "SAN LUIGI SOCIETA' COOPERATIVA SOCIALE",
   "slug": "san-luigi-societa-cooperativa-sociale",
   "cf": "03093210122",
-  "affidamenti": 9
- },
- {
-  "nome": "SANTA MARTA COOPERATIVA SOCIALE",
-  "slug": "santa-marta-cooperativa-sociale",
-  "cf": "02137700445",
   "affidamenti": 9
  },
  {
@@ -1704,12 +1686,6 @@
   "affidamenti": 8
  },
  {
-  "nome": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
-  "slug": "novo-millennio-societa-cooperativa-sociale-o-n-l-u-s",
-  "cf": "03991940960",
-  "affidamenti": 8
- },
- {
   "nome": "NUOVO VILLAGGIO DEL FANCIULLO CELSO ED ANNA FRASCALI",
   "slug": "nuovo-villaggio-del-fanciullo-celso-ed-anna-frascali-92017960391",
   "cf": "92017960391",
@@ -1770,12 +1746,6 @@
   "affidamenti": 8
  },
  {
-  "nome": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
-  "slug": "societa-cooperativa-sociale-progetto-tenda",
-  "cf": "07789840019",
-  "affidamenti": 8
- },
- {
   "nome": "SOLIDARIETA' - SOCIETA' COOPERATIVA SOCIALE",
   "slug": "solidarieta-societa-cooperativa-sociale",
   "cf": "04753020728",
@@ -1815,12 +1785,6 @@
   "nome": "ASSOCIAZIONE I GIRASOLI ONLUS",
   "slug": "associazione-i-girasoli-onlus",
   "cf": "01709670853",
-  "affidamenti": 7
- },
- {
-  "nome": "ASSOCIAZIONE ORATORIO SACRO CUORE",
-  "slug": "associazione-oratorio-sacro-cuore",
-  "cf": "01572780516",
   "affidamenti": 7
  },
  {
@@ -2040,6 +2004,12 @@
   "affidamenti": 7
  },
  {
+  "nome": "L'IMPRONTA - SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "l-impronta-societa-cooperativa-sociale",
+  "cf": "01927080463",
+  "affidamenti": 7
+ },
+ {
   "nome": "LA REVISIONE S.R.L.",
   "slug": "la-revisione-s-r-l",
   "cf": "05651160870",
@@ -2088,9 +2058,9 @@
   "affidamenti": 7
  },
  {
-  "nome": "ODISSEA SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "odissea-societa-cooperativa-sociale",
-  "cf": "02095140469",
+  "nome": "NOVO MILLENNIO SOCIETA' COOPERATIVA SOCIALE - O.N.L.U.S.",
+  "slug": "novo-millennio-societa-cooperativa-sociale-o-n-l-u-s",
+  "cf": "03991940960",
   "affidamenti": 7
  },
  {
@@ -2130,6 +2100,12 @@
   "affidamenti": 7
  },
  {
+  "nome": "SANTA MARTA COOPERATIVA SOCIALE",
+  "slug": "santa-marta-cooperativa-sociale",
+  "cf": "02137700445",
+  "affidamenti": 7
+ },
+ {
   "nome": "SEVEN S.P.A.",
   "slug": "seven-s-p-a",
   "cf": "00959460221",
@@ -2139,6 +2115,12 @@
   "nome": "SOCIETA' COOPERATIVA SOCIALE KAROL",
   "slug": "societa-cooperativa-sociale-karol",
   "cf": "02503110849",
+  "affidamenti": 7
+ },
+ {
+  "nome": "SOCIETA' COOPERATIVA SOCIALE PROGETTO TENDA",
+  "slug": "societa-cooperativa-sociale-progetto-tenda",
+  "cf": "07789840019",
   "affidamenti": 7
  },
  {
@@ -2304,6 +2286,12 @@
   "affidamenti": 6
  },
  {
+  "nome": "CORI S.R.L.",
+  "slug": "cori-s-r-l",
+  "cf": "06852790481",
+  "affidamenti": 6
+ },
+ {
   "nome": "CROCE ROSSA ITALIANA -COMITATO DI PRATO",
   "slug": "croce-rossa-italiana-comitato-di-prato",
   "cf": "02287440974",
@@ -2391,12 +2379,6 @@
   "nome": "IGEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
   "slug": "igea-societa-a-responsabilita-limitata-semplificata",
   "cf": "01266570959",
-  "affidamenti": 6
- },
- {
-  "nome": "IL GIROTONDO SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "il-girotondo-societa-cooperativa-sociale",
-  "cf": "02301780124",
   "affidamenti": 6
  },
  {
@@ -2673,6 +2655,12 @@
   "nome": "ASSOCIAZIONE MONDODONNA ONLUS",
   "slug": "associazione-mondodonna-onlus",
   "cf": "04341370379",
+  "affidamenti": 5
+ },
+ {
+  "nome": "ASSOCIAZIONE ORATORIO SACRO CUORE",
+  "slug": "associazione-oratorio-sacro-cuore",
+  "cf": "01572780516",
   "affidamenti": 5
  },
  {
@@ -2994,6 +2982,12 @@
   "affidamenti": 5
  },
  {
+  "nome": "IL GIROTONDO SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "il-girotondo-societa-cooperativa-sociale",
+  "cf": "02301780124",
+  "affidamenti": 5
+ },
+ {
   "nome": "IL MANTELLO COOPERATIVA SOCIALE ARL",
   "slug": "il-mantello-cooperativa-sociale-arl",
   "cf": "02538910361",
@@ -3003,12 +2997,6 @@
   "nome": "IL NODO CONSORZIO DI COOPERATIVE SOCIALI - SOCIETA' COOPERATIVA SOCIALE- IN SIGLA CONSORZIO IL NODO COOPERATIVA SOCIALE",
   "slug": "il-nodo-consorzio-di-cooperative-sociali-societa-cooperativa-sociale-in-sigla-consorzio-il-nodo-cooperativa-sociale",
   "cf": "03713700874",
-  "affidamenti": 5
- },
- {
-  "nome": "IL POLO COOPERATIVA SOCIALE",
-  "slug": "il-polo-cooperativa-sociale",
-  "cf": "10195821219",
   "affidamenti": 5
  },
  {
@@ -3150,6 +3138,12 @@
   "affidamenti": 5
  },
  {
+  "nome": "ODISSEA SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "odissea-societa-cooperativa-sociale",
+  "cf": "02095140469",
+  "affidamenti": 5
+ },
+ {
   "nome": "ON THE ROAD SOCIETA' COOPERATIVA SOCIALE",
   "slug": "on-the-road-societa-cooperativa-sociale-91009900670",
   "cf": "91009900670",
@@ -3201,12 +3195,6 @@
   "nome": "RISTORANTE BOSCHETTI S.R.L.",
   "slug": "ristorante-boschetti-s-r-l",
   "cf": "01425860176",
-  "affidamenti": 5
- },
- {
-  "nome": "S.B.M. GESTIONI S.R.L.S.",
-  "slug": "s-b-m-gestioni-s-r-l-s",
-  "cf": "02874830900",
   "affidamenti": 5
  },
  {
@@ -3432,12 +3420,6 @@
   "affidamenti": 4
  },
  {
-  "nome": "ASSOCIAZIONE SOS GIOVANI ONLUS",
-  "slug": "associazione-sos-giovani-onlus",
-  "cf": "08746180960",
-  "affidamenti": 4
- },
- {
   "nome": "ASSOCIAZIONE TAMATA",
   "slug": "associazione-tamata",
   "cf": "91380540376",
@@ -3510,12 +3492,6 @@
   "affidamenti": 4
  },
  {
-  "nome": "COMUNITA' DI ACCOGLIENZA FONDAZIONE MADRE AMABILE",
-  "slug": "comunita-di-accoglienza-fondazione-madre-amabile",
-  "cf": "94005110187",
-  "affidamenti": 4
- },
- {
   "nome": "COMUNITA' PAPA GIOVANNI XXIII - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
   "slug": "comunita-papa-giovanni-xxiii-cooperativa-sociale-a-responsabilita-limitata",
   "cf": "01970680409",
@@ -3543,12 +3519,6 @@
   "nome": "CONSORZIO HERA SOCIETA' COOPERATIVA SOCIALE",
   "slug": "consorzio-hera-societa-cooperativa-sociale",
   "cf": "02433480817",
-  "affidamenti": 4
- },
- {
-  "nome": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "coop-stella-societa-cooperativa-sociale",
-  "cf": "02874570134",
   "affidamenti": 4
  },
  {
@@ -3906,12 +3876,6 @@
   "affidamenti": 4
  },
  {
-  "nome": "LE CASE DI HOGWARTS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA O.N.L.U.S.",
-  "slug": "le-case-di-hogwarts-societa-cooperativa-sociale-a-responsabilita-limitata-o-n-l-u-s",
-  "cf": "02054390188",
-  "affidamenti": 4
- },
- {
   "nome": "MADONNA DELLA CARITA' - COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
   "slug": "madonna-della-carita-cooperativa-sociale-a-responsabilita-limitata",
   "cf": "01710610401",
@@ -3933,12 +3897,6 @@
   "nome": "MONDODONNA SOCIETA' COOPERATIVA SOCIALE ONLUS",
   "slug": "mondodonna-societa-cooperativa-sociale-onlus",
   "cf": "03555131204",
-  "affidamenti": 4
- },
- {
-  "nome": "NEVER LAND SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "never-land-societa-cooperativa-sociale",
-  "cf": "02889920126",
   "affidamenti": 4
  },
  {
@@ -4092,6 +4050,12 @@
   "affidamenti": 4
  },
  {
+  "nome": "S.B.M. GESTIONI S.R.L.S.",
+  "slug": "s-b-m-gestioni-s-r-l-s",
+  "cf": "02874830900",
+  "affidamenti": 4
+ },
+ {
   "nome": "SAN GIORGIO SOCIETA' COOPERATIVA SOCIALE ENTE DEL TERZO SETTORE",
   "slug": "san-giorgio-societa-cooperativa-sociale-ente-del-terzo-settore",
   "cf": "02083350435",
@@ -4239,6 +4203,12 @@
   "nome": "ALCE NERO SOCIETA' COOPERATIVA SOCIALE ONLUS",
   "slug": "alce-nero-societa-cooperativa-sociale-onlus",
   "cf": "00624460200",
+  "affidamenti": 3
+ },
+ {
+  "nome": "ALMA SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "alma-societa-cooperativa-sociale",
+  "cf": "10195821219",
   "affidamenti": 3
  },
  {
@@ -4476,6 +4446,12 @@
   "affidamenti": 3
  },
  {
+  "nome": "COMUNITA' DI ACCOGLIENZA FONDAZIONE MADRE AMABILE",
+  "slug": "comunita-di-accoglienza-fondazione-madre-amabile",
+  "cf": "94005110187",
+  "affidamenti": 3
+ },
+ {
   "nome": "COMUNITA' FRATERNITA' - SOCIETA' COOPERATIVA SOCIALE ONLUS",
   "slug": "comunita-fraternita-societa-cooperativa-sociale-onlus",
   "cf": "03221920170",
@@ -4542,12 +4518,6 @@
   "affidamenti": 3
  },
  {
-  "nome": "COOPERATIVA IL POLO",
-  "slug": "cooperativa-il-polo",
-  "cf": "03878600133",
-  "affidamenti": 3
- },
- {
   "nome": "COOPERATIVA NUOVI ORIZZONTI SOCIALI - COOPERATIVA SOCIALE IN SIGLA NOS - COOPERATIVA SOCIALE",
   "slug": "cooperativa-nuovi-orizzonti-sociali-cooperativa-sociale-in-sigla-nos-cooperativa-sociale",
   "cf": "00300190667",
@@ -4575,12 +4545,6 @@
   "nome": "COOPERATIVA SOCIALE INSIEME SOCIETA' COOPERATIVA",
   "slug": "cooperativa-sociale-insieme-societa-cooperativa",
   "cf": "02343240848",
-  "affidamenti": 3
- },
- {
-  "nome": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
-  "slug": "cooperativa-sociale-mentelocale-societa-cooperativa",
-  "cf": "02116720513",
   "affidamenti": 3
  },
  {
@@ -4632,12 +4596,6 @@
   "affidamenti": 3
  },
  {
-  "nome": "CRESCERE INSIEME SOCIETA' A RESPONSABILITA' LIMITATA - IMPRESA SO CIALE",
-  "slug": "crescere-insieme-societa-a-responsabilita-limitata-impresa-so-ciale",
-  "cf": "01961930664",
-  "affidamenti": 3
- },
- {
   "nome": "CRISALIDE COOPERATIVA SOCIALE",
   "slug": "crisalide-cooperativa-sociale-04231930753",
   "cf": "04231930753",
@@ -4659,12 +4617,6 @@
   "nome": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI RIMINI",
   "slug": "croce-rossa-italiana-comitato-provinciale-di-rimini",
   "cf": "04114700406",
-  "affidamenti": 3
- },
- {
-  "nome": "CURIA PROVINCIA ROMANA ORDINE B.M.V. DELLA MERCEDE PADRI MERCEDAR I",
-  "slug": "curia-provincia-romana-ordine-b-m-v-della-mercede-padri-mercedar-i",
-  "cf": "02563500582",
   "affidamenti": 3
  },
  {
@@ -4743,12 +4695,6 @@
   "nome": "EUROCOVET SRL",
   "slug": "eurocovet-srl",
   "cf": "03248810263",
-  "affidamenti": 3
- },
- {
-  "nome": "F.M.B. TUBES S.R.L.",
-  "slug": "f-m-b-tubes-s-r-l",
-  "cf": "01544860800",
   "affidamenti": 3
  },
  {
@@ -4962,12 +4908,6 @@
   "affidamenti": 3
  },
  {
-  "nome": "ISTITUTO DON BOSCO",
-  "slug": "istituto-don-bosco",
-  "cf": "81001070473",
-  "affidamenti": 3
- },
- {
   "nome": "ISTITUTO MAESTRE PIE DELL'ADDOLORATA",
   "slug": "istituto-maestre-pie-dell-addolorata-02501340588",
   "cf": "02501340588",
@@ -5034,9 +4974,9 @@
   "affidamenti": 3
  },
  {
-  "nome": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
-  "slug": "le-rose-di-atacama-associazione-impresa-sociale",
-  "cf": "96068490760",
+  "nome": "LE CASE DI HOGWARTS SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA O.N.L.U.S.",
+  "slug": "le-case-di-hogwarts-societa-cooperativa-sociale-a-responsabilita-limitata-o-n-l-u-s",
+  "cf": "02054390188",
   "affidamenti": 3
  },
  {
@@ -5139,6 +5079,12 @@
   "nome": "NET SERVICE S.R.L.",
   "slug": "net-service-s-r-l",
   "cf": "03777530878",
+  "affidamenti": 3
+ },
+ {
+  "nome": "NEVER LAND SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "never-land-societa-cooperativa-sociale",
+  "cf": "02889920126",
   "affidamenti": 3
  },
  {
@@ -5862,6 +5808,12 @@
   "affidamenti": 2
  },
  {
+  "nome": "ASSOCIAZIONE SOS GIOVANI ONLUS",
+  "slug": "associazione-sos-giovani-onlus",
+  "cf": "08746180960",
+  "affidamenti": 2
+ },
+ {
   "nome": "ASSOCIAZIONE TELEFONO DONNA",
   "slug": "associazione-telefono-donna",
   "cf": "09444990965",
@@ -6234,9 +6186,21 @@
   "affidamenti": 2
  },
  {
+  "nome": "COOP. STELLA SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "coop-stella-societa-cooperativa-sociale",
+  "cf": "02874570134",
+  "affidamenti": 2
+ },
+ {
   "nome": "COOPERA - SOCIETA' COOPERATIVA SOCIALE - ONLUS VALIDAMENTE IDENTIFICATA IN SIGLA COME COOPERA S.C.S.",
   "slug": "coopera-societa-cooperativa-sociale-onlus-validamente-identificata-in-sigla-come-coopera-s-c-s",
   "cf": "02200620181",
+  "affidamenti": 2
+ },
+ {
+  "nome": "COOPERATIVA IL POLO",
+  "slug": "cooperativa-il-polo",
+  "cf": "03878600133",
   "affidamenti": 2
  },
  {
@@ -6336,6 +6300,12 @@
   "affidamenti": 2
  },
  {
+  "nome": "COOPERATIVA SOCIALE MENTELOCALE SOCIETA' COOPERATIVA",
+  "slug": "cooperativa-sociale-mentelocale-societa-cooperativa",
+  "cf": "02116720513",
+  "affidamenti": 2
+ },
+ {
   "nome": "COOPERATIVA SOCIALE METIS SOCIETA' COOPERATIVA",
   "slug": "cooperativa-sociale-metis-societa-cooperativa",
   "cf": "03393260405",
@@ -6414,6 +6384,12 @@
   "affidamenti": 2
  },
  {
+  "nome": "CRESCERE INSIEME SOCIETA' A RESPONSABILITA' LIMITATA - IMPRESA SO CIALE",
+  "slug": "crescere-insieme-societa-a-responsabilita-limitata-impresa-so-ciale",
+  "cf": "01961930664",
+  "affidamenti": 2
+ },
+ {
   "nome": "CRESCERE INSIEME SOCIETA' COOPERATIVA SOCIALE ONLUS",
   "slug": "crescere-insieme-societa-cooperativa-sociale-onlus",
   "cf": "06440831219",
@@ -6453,6 +6429,12 @@
   "nome": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI ASTI",
   "slug": "croce-rossa-italiana-comitato-provinciale-di-asti",
   "cf": "01558240055",
+  "affidamenti": 2
+ },
+ {
+  "nome": "CURIA PROVINCIA ROMANA ORDINE B.M.V. DELLA MERCEDE PADRI MERCEDAR I",
+  "slug": "curia-provincia-romana-ordine-b-m-v-della-mercede-padri-mercedar-i",
+  "cf": "02563500582",
   "affidamenti": 2
  },
  {
@@ -6576,6 +6558,12 @@
   "affidamenti": 2
  },
  {
+  "nome": "F.M.B. TUBES S.R.L.",
+  "slug": "f-m-b-tubes-s-r-l",
+  "cf": "01544860800",
+  "affidamenti": 2
+ },
+ {
   "nome": "FABER SOCIETA' COOPERATIVA SOCIALE A.R.L. - ONLUS",
   "slug": "faber-societa-cooperativa-sociale-a-r-l-onlus",
   "cf": "01152210629",
@@ -6660,12 +6648,6 @@
   "affidamenti": 2
  },
  {
-  "nome": "FONDAZIONE VILLAGGIO FANCIULLO ONLUS",
-  "slug": "fondazione-villaggio-fanciullo-onlus",
-  "cf": "92058180461",
-  "affidamenti": 2
- },
- {
   "nome": "FONDAZIONECARITAS DIOCESANA DI LAMEZIA TERME",
   "slug": "fondazionecaritas-diocesana-di-lamezia-terme",
   "cf": "92031120790",
@@ -6693,12 +6675,6 @@
   "nome": "FULL TIME S.R.L.",
   "slug": "full-time-s-r-l",
   "cf": "13322390157",
-  "affidamenti": 2
- },
- {
-  "nome": "FUTURA SOCIETA' COOPERATIVA SOCIALE",
-  "slug": "futura-societa-cooperativa-sociale",
-  "cf": "12123240967",
   "affidamenti": 2
  },
  {
@@ -6930,6 +6906,12 @@
   "affidamenti": 2
  },
  {
+  "nome": "ISTITUTO DON BOSCO",
+  "slug": "istituto-don-bosco",
+  "cf": "81001070473",
+  "affidamenti": 2
+ },
+ {
   "nome": "ISTITUTO SALESIANO G. BEARZI",
   "slug": "istituto-salesiano-g-bearzi",
   "cf": "00467590303",
@@ -7125,6 +7107,12 @@
   "nome": "LE QUERCE DI MAMRE ONLUS - COMITATO DI GESTIONE CENTRO DI ACCOGL.NOTTURNA",
   "slug": "le-querce-di-mamre-onlus-comitato-di-gestione-centro-di-accogl-notturna",
   "cf": "91008230509",
+  "affidamenti": 2
+ },
+ {
+  "nome": "LE ROSE DI ATACAMA ASSOCIAZIONE  - IMPRESA SOCIALE",
+  "slug": "le-rose-di-atacama-associazione-impresa-sociale",
+  "cf": "96068490760",
   "affidamenti": 2
  },
  {
@@ -7449,12 +7437,6 @@
   "nome": "QUADRIFOGLIO SRL",
   "slug": "quadrifoglio-srl",
   "cf": "03827890124",
-  "affidamenti": 2
- },
- {
-  "nome": "R2DT AUDIT S.R.L.",
-  "slug": "r2dt-audit-s-r-l",
-  "cf": "15596681005",
   "affidamenti": 2
  },
  {
@@ -10392,6 +10374,12 @@
   "affidamenti": 1
  },
  {
+  "nome": "FONDAZIONE VILLAGGIO FANCIULLO ONLUS",
+  "slug": "fondazione-villaggio-fanciullo-onlus",
+  "cf": "92058180461",
+  "affidamenti": 1
+ },
+ {
   "nome": "FONTANA GESELLSCHAFT MIT BESCHRAENKTER HAFTUNG",
   "slug": "fontana-gesellschaft-mit-beschraenkter-haftung",
   "cf": "02965400217",
@@ -10425,6 +10413,12 @@
   "nome": "FRATERNITA DEI LAICI DI AREZZO",
   "slug": "fraternita-dei-laici-di-arezzo",
   "cf": "00182360511",
+  "affidamenti": 1
+ },
+ {
+  "nome": "FUTURA SOCIETA' COOPERATIVA SOCIALE",
+  "slug": "futura-societa-cooperativa-sociale",
+  "cf": "12123240967",
   "affidamenti": 1
  },
  {
@@ -12165,6 +12159,12 @@
   "nome": "QUASAR",
   "slug": "quasar",
   "cf": "06028050729",
+  "affidamenti": 1
+ },
+ {
+  "nome": "R2DT AUDIT S.R.L.",
+  "slug": "r2dt-audit-s-r-l",
+  "cf": "15596681005",
   "affidamenti": 1
  },
  {

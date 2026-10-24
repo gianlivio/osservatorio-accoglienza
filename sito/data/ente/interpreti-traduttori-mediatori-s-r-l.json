@@ -1,9 +1,9 @@
 {
  "nome": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
  "cf": "16505751004",
- "affidamenti": 21,
- "diretti": 11,
- "quota_diretti": 52.4,
+ "affidamenti": 18,
+ "diretti": 10,
+ "quota_diretti": 55.6,
  "per_anno": {
   "2022": {
    "affidamenti": 3,
@@ -16,14 +16,14 @@
    "quota_diretti": 0.0
   },
   "2024": {
-   "affidamenti": 10,
+   "affidamenti": 8,
    "diretti": 6,
-   "quota_diretti": 60.0
+   "quota_diretti": 75.0
   },
   "2025": {
-   "affidamenti": 7,
-   "diretti": 5,
-   "quota_diretti": 71.4
+   "affidamenti": 6,
+   "diretti": 4,
+   "quota_diretti": 66.7
   }
  },
  "province": [
@@ -36,19 +36,19 @@
    "affidamenti": 3
   },
   {
-   "provincia": "NAPOLI",
-   "affidamenti": 3
-  },
-  {
-   "provincia": "NOVARA",
-   "affidamenti": 2
-  },
-  {
    "provincia": "VICENZA",
    "affidamenti": 2
   },
   {
    "provincia": "GENOVA",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "NAPOLI",
+   "affidamenti": 1
+  },
+  {
+   "provincia": "NOVARA",
    "affidamenti": 1
   },
   {
@@ -142,22 +142,6 @@
    "provincia": "NOVARA"
   },
   {
-   "cig": "B55555041F",
-   "data": "2025-01-27",
-   "oggetto": "AFFIDAMENTO DEL SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELL'ATTIVITÀ DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIO",
-   "amministrazione": "PREFETTURA DI NOVARA",
-   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 33575.0,
-   "aggiudicato": 33575.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "NOVARA"
-  },
-  {
    "cig": "B513839A95",
    "data": "2025-01-02",
    "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E DI TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI TRIESTE",
@@ -172,38 +156,6 @@
    "da_accordo": false,
    "confidenza": "certa",
    "provincia": "TRIESTE"
-  },
-  {
-   "cig": "B4EFA1A2FC",
-   "data": "2024-12-21",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI SALERNO SEZIONE DI NAPOLI",
-   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 233750.0,
-   "aggiudicato": 165750.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "NAPOLI"
-  },
-  {
-   "cig": "B4EFA1A2FC",
-   "data": "2024-12-21",
-   "oggetto": "SERVIZIO DI INTERPRETARIATO IN CONSECUTIVA E TRADUZIONE A SUPPORTO DELLA COMMISSIONE TERRITORIALE PER IL RICONOSCIMENTO DELLA PROTEZIONE INTERNAZIONALE DI SALERNO SEZIONE DI NAPOLI",
-   "amministrazione": "UFFICIO TERRITORIALE DEL GOVERNO",
-   "ente": "INTERPRETI TRADUTTORI MEDIATORI S.R.L.",
-   "procedura": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE",
-   "diretto": false,
-   "modalita": "negoziata",
-   "base": 233750.0,
-   "aggiudicato": 165750.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "NAPOLI"
   },
   {
    "cig": "B4EFA1A2FC",

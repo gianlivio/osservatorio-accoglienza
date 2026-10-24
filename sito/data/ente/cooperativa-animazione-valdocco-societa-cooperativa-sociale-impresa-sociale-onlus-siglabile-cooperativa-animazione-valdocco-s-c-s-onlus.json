@@ -1,9 +1,9 @@
 {
  "nome": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
  "cf": "03747970014",
- "affidamenti": 22,
- "diretti": 15,
- "quota_diretti": 68.2,
+ "affidamenti": 21,
+ "diretti": 14,
+ "quota_diretti": 66.7,
  "per_anno": {
   "2016": {
    "affidamenti": 1,
@@ -46,9 +46,9 @@
    "quota_diretti": 100.0
   },
   "2025": {
-   "affidamenti": 7,
-   "diretti": 6,
-   "quota_diretti": 85.7
+   "affidamenti": 6,
+   "diretti": 5,
+   "quota_diretti": 83.3
   }
  },
  "province": [
@@ -62,7 +62,7 @@
   },
   {
    "provincia": "COMO",
-   "affidamenti": 3
+   "affidamenti": 2
   },
   {
    "provincia": "CUNEO",
@@ -153,22 +153,6 @@
    "da_accordo": false,
    "confidenza": "certa",
    "provincia": "TORINO"
-  },
-  {
-   "cig": "B272CF2766",
-   "data": "2025-01-02",
-   "oggetto": "SERVIZI",
-   "amministrazione": "COMUNE DI COMO",
-   "ente": "COOPERATIVA ANIMAZIONE VALDOCCO SOCIETA' COOPERATIVA SOCIALE IMPRESA SOCIALE ONLUS SIGLABILE COOPERATIVA ANIMAZIONE VALDOCCO S.C.S. ONLUS",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 41891.8,
-   "aggiudicato": 41891.8,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "COMO"
   },
   {
    "cig": "B272CF2766",

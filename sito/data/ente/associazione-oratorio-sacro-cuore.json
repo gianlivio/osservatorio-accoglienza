@@ -1,9 +1,9 @@
 {
  "nome": "ASSOCIAZIONE ORATORIO SACRO CUORE",
  "cf": "01572780516",
- "affidamenti": 7,
- "diretti": 6,
- "quota_diretti": 85.7,
+ "affidamenti": 5,
+ "diretti": 4,
+ "quota_diretti": 80.0,
  "per_anno": {
   "2015": {
    "affidamenti": 1,
@@ -11,9 +11,9 @@
    "quota_diretti": 100.0
   },
   "2024": {
-   "affidamenti": 5,
-   "diretti": 4,
-   "quota_diretti": 80.0
+   "affidamenti": 3,
+   "diretti": 2,
+   "quota_diretti": 66.7
   },
   "2025": {
    "affidamenti": 1,
@@ -24,7 +24,7 @@
  "province": [
   {
    "provincia": "AREZZO",
-   "affidamenti": 5
+   "affidamenti": 3
   },
   {
    "provincia": "RAVENNA",
@@ -59,38 +59,6 @@
    "modalita": "diretto",
    "base": 25080.0,
    "aggiudicato": 25080.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "AREZZO"
-  },
-  {
-   "cig": "B509F0D3D3",
-   "data": "2024-12-31",
-   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MINORE STRANIERO NON ACCOMPAGNATO IN STRUTTURA - ASSOCIAZIONE MIGRANTES",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "ASSOCIAZIONE ORATORIO SACRO CUORE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 25080.0,
-   "aggiudicato": 25080.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "AREZZO"
-  },
-  {
-   "cig": "B492B8814A",
-   "data": "2024-12-03",
-   "oggetto": "AFFIDAMENTO DIRETTO EX ART. 50 CO. 1 LETT. B) DEL D.LGS. 36 2023 PER SERVIZIO DI ACCOGLIENZA RESIDENZIALE DI MSNA IN STRUTTURA. COMUNITÀ DON BOSCO - ASSOCIAZIONE MIGRANTES DI DON A",
-   "amministrazione": "SOCIETA' DELLA SALUTE AREA PRATESE",
-   "ente": "ASSOCIAZIONE ORATORIO SACRO CUORE",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 8800.0,
-   "aggiudicato": 8800.0,
    "durata_gg": null,
    "da_accordo": false,
    "confidenza": "certa",

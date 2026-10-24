@@ -1,39 +1,23 @@
 {
  "nome": "R2DT AUDIT S.R.L.",
  "cf": "15596681005",
- "affidamenti": 2,
- "diretti": 2,
+ "affidamenti": 1,
+ "diretti": 1,
  "quota_diretti": 100.0,
  "per_anno": {
   "2024": {
-   "affidamenti": 2,
-   "diretti": 2,
+   "affidamenti": 1,
+   "diretti": 1,
    "quota_diretti": 100.0
   }
  },
  "province": [
   {
    "provincia": "MILANO",
-   "affidamenti": 2
+   "affidamenti": 1
   }
  ],
  "contratti": [
-  {
-   "cig": "B2EA7770C0",
-   "data": "2024-09-04",
-   "oggetto": "SERVIZIO DI REVISORE CONTABILE INDIPENDENTE PER L'ATTIVITÀ DI VERIFICA AMMINISTRATIVO-CONTABILE DELLE SPESE SOSTENUTE NELL'AMBITO DEL PROGETTO SAI MSNA",
-   "amministrazione": "COMUNE DI MILANO",
-   "ente": "R2DT AUDIT S.R.L.",
-   "procedura": "AFFIDAMENTO DIRETTO",
-   "diretto": true,
-   "modalita": "diretto",
-   "base": 44500.0,
-   "aggiudicato": 44500.0,
-   "durata_gg": null,
-   "da_accordo": false,
-   "confidenza": "certa",
-   "provincia": "MILANO"
-  },
   {
    "cig": "B2EA7770C0",
    "data": "2024-09-04",
