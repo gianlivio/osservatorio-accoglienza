@@ -26,10 +26,13 @@ def slug(nome):
 
 # --- 1. carica gli estratti mensili -----------------------------------------
 righe = []
+visti = set()  # ANAC ripete alcuni CIG negli estratti (stesso CIG con più CPV, o righe identiche): vale la prima riga
 for a in ANNI:
     for f in sorted(glob.glob(f"output/accoglienza_{a}_[01]*.csv")):
         if "_completo" in f: continue
         for r in csv.DictReader(open(f)):
+            if r["cig"] in visti: continue
+            visti.add(r["cig"])
             r["anno"] = a
             r["oggetto_gara"]  = pulisci(r.get("oggetto_gara"))
             r["oggetto_lotto"] = pulisci(r.get("oggetto_lotto"))
