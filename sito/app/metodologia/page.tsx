@@ -1,6 +1,7 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
+import { centri } from "@/lib/centri";
 import { breadcrumb } from "@/lib/jsonld";
 import { totale, anni, serieAnni, euro, province, nItal } from "@/lib/dati";
 
@@ -27,6 +28,19 @@ export default function Metodologia() {
           finiscono tutti i contratti pubblici italiani: le gare, le aggiudicazioni, i nomi di
           chi vince. Sono collegati tra loro dal codice di gara che accompagna ogni contratto.
           L&apos;archivio copre gli anni dal {primo} al {ultimo}.
+        </p>
+        <p>
+          I dati su posti, presenze e costi dei centri vengono da Centri d&apos;Italia, di ActionAid
+          e Openpolis, che li raccoglie con richieste di accesso agli atti a prefetture e
+          ministeri, con aggiornamento annuale (licenza CC BY 4.0). I dati sui contratti vengono
+          invece da ANAC e si aggiornano ogni mese. Le due fonti coprono periodi diversi e non
+          vanno confrontate direttamente. Per CAS e prima accoglienza le cifre coincidono con
+          quelle pubblicate da Centri d&apos;Italia; i file contengono alcune righe ripetute,
+          mantenute come nella fonte. Per il SAI si usa il file dei progetti, completo per tutti
+          gli anni: nel {centri.sai_ultimo_anno.anno} le presenze risultano{" "}
+          {nItal(centri.sai_ultimo_anno.presenze_progetti)}, contro{" "}
+          {nItal(centri.sai_ultimo_anno.presenze_strutture)} nel totale pubblicato, calcolato sul
+          file delle strutture.
         </p>
       </section>
 
