@@ -216,9 +216,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         </table>
 
         <table className="tabella">
-          <caption className="sr-only">Sistema di accoglienza e integrazione: strutture, posti e presenze</caption>
+          <caption className="sr-only">Sistema di accoglienza e integrazione: progetti, posti e presenze</caption>
           <thead>
-            <tr><th>Anno</th><th className="num">Strutture SAI</th><th className="num">Capienza</th>
+            <tr><th>Anno</th><th className="num">Progetti SAI</th><th className="num">Capienza</th>
             <th className="num">Presenze</th></tr>
           </thead>
           <tbody>
@@ -227,12 +227,15 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
               return b ? (
                 <tr key={a}>
                   <td>{a}</td>
-                  <td className="num">{nItal(b.strutture)}</td>
+                  <td className="num">{nItal(b.progetti)}</td>
                   <td className="num">{b.capienza === null ? "n.d." : nItal(b.capienza)}</td>
-                  <td className="num">{b.presenze === null ? "n.d." : nItal(b.presenze)}</td>
+                  <td className="num">
+                    {b.presenze === null ? "n.d." : nItal(b.presenze)}
+                    {b.senza_presenze > 0 && <small> ({nItal(b.senza_presenze)} senza dato)</small>}
+                  </td>
                 </tr>
               ) : (
-                <tr key={a}><td>{a}</td><td colSpan={3}>nessuna struttura SAI nei dati</td></tr>
+                <tr key={a}><td>{a}</td><td colSpan={3}>nessun progetto SAI nei dati</td></tr>
               );
             })}
           </tbody>
@@ -246,10 +249,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           {Object.entries(centri.rilevazioni_sai).filter(([a]) => !sai31dic(a)).map(([a, d]) => (
             <span key={a}>; per il SAI {a}, al {dataIt(d)}</span>
           ))}
-          . n.d.: il valore non compare nel file della fonte.
-          {Object.keys(centri.rilevazioni_sai_scartate).length > 0 && (
-            <> Per il SAI {Object.keys(centri.rilevazioni_sai_scartate).join(" e ")} il file contiene più rilevazioni: la tabella riporta la più recente di ogni anno.</>
-          )}
+          . n.d.: il valore non compare nel file della fonte. Nella colonna Presenze, tra parentesi, i progetti senza il dato.
         </p>
       </section>
 
