@@ -16,7 +16,7 @@ oggi settimane di lavoro manuale. Questo archivio lo rende una pagina.
 
 ## Risultati principali
 
-- Su 5.621 affidamenti registrati nel triennio 2023–2025 (dati ANAC a ottobre 2026), la maggioranza è disposta senza gara.
+- Su 5.589 affidamenti registrati nel triennio 2023–2025 (dati ANAC a ottobre 2026), la maggioranza è disposta senza gara.
 - La quota di affidamenti diretti passa dal 52% al 71% tra il primo e il secondo
   semestre 2023, e da allora resta stabile. Lo stacco coincide con il 1° luglio 2023,
   data di efficacia del d.lgs. 36/2023. Il meccanismo che lo produce non è
