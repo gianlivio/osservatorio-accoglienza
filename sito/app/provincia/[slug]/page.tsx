@@ -195,7 +195,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           <caption className="sr-only">Centri di accoglienza straordinaria e di prima accoglienza: centri, posti, presenze e costo mediano</caption>
           <thead>
             <tr><th>Anno</th><th className="num">Centri</th><th className="num">Capienza</th>
-            <th className="num">Presenze</th><th className="num">Costo mediano al giorno per ospite</th></tr>
+            <th className="num">Presenze</th><th className="num">Costo mediano (€/giorno)</th></tr>
           </thead>
           <tbody>
             {centri.anni.map((a) => {
@@ -252,7 +252,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           {Object.entries(centri.rilevazioni_sai).filter(([a]) => !sai31dic(a)).map(([a, d]) => (
             <span key={a}>; per il SAI {a}, al {dataIt(d)}</span>
           ))}
-          . n.d.: il valore non compare nel file della fonte. Nella colonna Presenze, sotto il valore, i progetti senza il dato.
+          . n.d.: il valore non compare nel file della fonte. Nella colonna Presenze, sotto il valore, i progetti senza il dato. Costo mediano: valore centrale del costo giornaliero per ospite fra i centri della provincia.
         </p>
       </section>
 

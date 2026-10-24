@@ -53,6 +53,7 @@ a:focus-visible{outline:2px solid var(--timbro);outline-offset:3px}
 .tabella th{text-align:left;font-weight:600;font-size:11px;letter-spacing:.09em;
   text-transform:uppercase;color:var(--tenue);border-bottom:1.5px solid var(--inchiostro);padding:0 10px 8px 0}
 .tabella td{border-bottom:1px solid var(--linea);padding:9px 10px 9px 0;vertical-align:top}
+.tabella th.num{text-align:right;padding-right:18px}
 .tabella td.num{text-align:right;padding-right:18px;white-space:nowrap}
 .tabella tr:hover td{background:var(--carta-scura)}
 .nome-prov{font-family:var(--display);font-weight:700;letter-spacing:-.01em}
@@ -159,6 +160,5 @@ th.num .ordina{flex-direction:row-reverse}
 .ricerca-lista small{font-family:var(--dato);font-size:11px;color:var(--tenue);white-space:nowrap}
 .ricerca-lista li.attiva a,.ricerca-lista a:hover{background:var(--carta-scura)}
 .ricerca-esito{margin:8px 0 0}
-.tabella-centri th.num{text-align:right;padding-right:18px}
 .nota-sai{margin-top:44px}
 .tabella-centri td small{display:block;font-size:11px;color:var(--tenue)}
