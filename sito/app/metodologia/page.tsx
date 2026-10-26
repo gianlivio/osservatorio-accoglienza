@@ -3,9 +3,13 @@ import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { centri } from "@/lib/centri";
 import { breadcrumb } from "@/lib/jsonld";
+import { metadatiPagina } from "@/lib/metadati";
 import { totale, anni, serieAnni, euro, province, nItal, esclusiAMano } from "@/lib/dati";
 
-export const metadata = { title: "Metodologia e limiti · Osservatorio Accoglienza" };
+export const metadata = metadatiPagina(
+  "Metodologia e limiti · Osservatorio Accoglienza",
+  "Come è costruito l'archivio: le fonti (ANAC, Centri d'Italia), i criteri di selezione, cosa viene contato e cosa no, i limiti.",
+);
 
 export default function Metodologia() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
