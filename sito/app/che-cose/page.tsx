@@ -1,12 +1,12 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import { breadcrumb } from "@/lib/jsonld";
+import { metadatiPagina } from "@/lib/metadati";
 
-export const metadata = {
-  title: "Che cos'è · Osservatorio Accoglienza",
-  description:
-    "Come funziona l'affidamento dei servizi di accoglienza in Italia e cosa raccoglie questo archivio di contratti pubblici.",
-};
+export const metadata = metadatiPagina(
+  "Che cos'è · Osservatorio Accoglienza",
+  "Come funziona l'affidamento dei servizi di accoglienza in Italia e cosa raccoglie questo archivio di contratti pubblici.",
+);
 
 export default function CheCose() {
   return (
