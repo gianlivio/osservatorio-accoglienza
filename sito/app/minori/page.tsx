@@ -1,9 +1,15 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
+import { metadatiPagina } from "@/lib/metadati";
 import { msnaData, nItal } from "@/lib/dati";
 
-export const metadata = { title: "Minori non accompagnati · Osservatorio Accoglienza" };
+const primoAnno = msnaData.primo_periodo.slice(0, 4);
+const fineRegionale = msnaData.ultimo_periodo.slice(0, 4);
+const fineNazionale = msnaData.ultimo_totale_periodo.slice(0, 4);
+const descrizione = `Minori stranieri non accompagnati presenti in Italia: serie mensile per regione dal ${primoAnno} al ${fineRegionale} e totale nazionale fino al ${fineNazionale}, da report del Ministero del Lavoro e delle Politiche Sociali.`;
+
+export const metadata = metadatiPagina("Minori non accompagnati · Osservatorio Accoglienza", descrizione);
 
 function Spark({ serie, regione }: { serie: { presenti: number }[]; regione: string }) {
   const vals = serie.map((p) => p.presenti);
@@ -65,12 +71,11 @@ export default function Minori() {
     "luglio","agosto","settembre","ottobre","novembre","dicembre"];
   const dataLeggibile = `${mesi[+pm]} ${pa}`;
   const primoAnno = d.primo_periodo.split("-")[0];
-  const fineRegionale = d.ultimo_periodo.slice(0, 4), fineNazionale = d.ultimo_totale_periodo.slice(0, 4);
   const datasetJsonLd = {
     "@context": "https://schema.org",
     "@type": "Dataset",
     name: `Minori stranieri non accompagnati presenti in Italia: serie per regione ${primoAnno}–${fineRegionale} e totale nazionale ${primoAnno}–${fineNazionale}`,
-    description: `Minori stranieri non accompagnati presenti in Italia: serie mensile per regione dal ${primoAnno} al ${fineRegionale} e totale nazionale fino al ${fineNazionale}, da report del Ministero del Lavoro e delle Politiche Sociali.`,
+    description: descrizione,
     url: `${dominio}/minori`,
     creator: creatore,
     isAccessibleForFree: true,
