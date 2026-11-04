@@ -7,7 +7,7 @@ import { msnaData, nItal } from "@/lib/dati";
 const primoAnno = msnaData.primo_periodo.slice(0, 4);
 const fineRegionale = msnaData.ultimo_periodo.slice(0, 4);
 const fineNazionale = msnaData.ultimo_totale_periodo.slice(0, 4);
-const descrizione = `Minori stranieri non accompagnati presenti in Italia: serie mensile per regione dal ${primoAnno} al ${fineRegionale} e totale nazionale fino al ${fineNazionale}, da report del Ministero del Lavoro e delle Politiche Sociali.`;
+const descrizione = `Minori stranieri non accompagnati: serie mensile per regione dal ${primoAnno} al ${fineRegionale} e totale nazionale fino al ${fineNazionale}, da report del Ministero del Lavoro.`;
 
 export const metadata = metadatiPagina("Minori non accompagnati · Osservatorio Accoglienza", descrizione);
 
