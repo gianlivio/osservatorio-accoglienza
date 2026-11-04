@@ -4,11 +4,13 @@ import TabellaProvince from "./TabellaProvince";
 import JsonLd from "./JsonLd";
 import { anni, province } from "@/lib/dati";
 import { creatore, distribuzioneCsv, fonteAnac, licenza } from "@/lib/jsonld";
+import { metadatiPagina } from "@/lib/metadati";
 
 export const metadata = {
-  title: "Osservatorio Accoglienza",
-  description:
+  ...metadatiPagina(
+    "Osservatorio Accoglienza: contratti per l'accoglienza dei migranti in Italia, provincia per provincia",
     "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
+  ),
   alternates: {
     canonical: "./",
     types: { "application/rss+xml": [{ url: "/feed.xml", title: "Ultimi affidamenti per l'accoglienza" }] },
