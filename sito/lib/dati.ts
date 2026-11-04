@@ -73,6 +73,14 @@ export const euro = (n: number | null) =>
     { style: "currency", currency: "EUR", maximumFractionDigits: 0, useGrouping: "always" }).format(n);
 export const euroCent = (n: number) =>
   new Intl.NumberFormat("it-IT", { style: "currency", currency: "EUR", minimumFractionDigits: 2, useGrouping: "always" }).format(n);
+export const nItal2 = (n: number) =>
+  n.toLocaleString("it-IT", { minimumFractionDigits: 2, maximumFractionDigits: 2, useGrouping: "always" });
+const MESI_LUNGHI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto",
+  "settembre", "ottobre", "novembre", "dicembre"];
+export const dataLunga = (iso: string) => {
+  const [a, m, g] = iso.split("-");
+  return `${+g} ${MESI_LUNGHI[+m - 1]} ${a}`;
+};
 export const nItal = (n: number) => n.toLocaleString("it-IT", { useGrouping: "always" });
 
 
