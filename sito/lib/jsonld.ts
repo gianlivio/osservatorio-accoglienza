@@ -3,7 +3,7 @@ export const dominio = "https://osservatorioaccoglienza.org";
 export const creatore = {
   "@type": "Person",
   name: "Gianlivio Iemolo",
-  url: "https://portfoliooo-main.vercel.app/it",
+  url: "https://gianlivioiemolo.com",
 };
 export const licenza = "https://creativecommons.org/licenses/by-sa/4.0/";
 export const fonteAnac = "https://dati.anticorruzione.it";
