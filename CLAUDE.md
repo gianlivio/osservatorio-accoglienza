@@ -12,7 +12,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - `output/`: versionati solo gli estratti mensili `accoglienza_ANNO_MM.csv`; i `*_completo.csv` sono ignorati.
 - `dati-grezzi/`, `dati-centri/`, `dati-msna*/`, `dati-istat/`: non versionate (ANAC, Centri d'Italia, PDF del Ministero).
 - `.github/workflows/aggiorna.yml`: il 25 di ogni mese apre una issue con i comandi di aggiornamento.
-- `sito/app/`: pagine `/`, `/che-cose`, `/minori`, `/metodologia`, `/provincia/[slug]` (con `feed.xml`), `/ente/[slug]`, `/feed.xml`, `/ricerca.json`, `sitemap.ts`, `robots.ts`; `Ricerca.tsx` è l'unico componente caricato dalla home oltre alla tabella.
+- `sito/app/`: pagine `/`, `/che-cose`, `/minori`, `/metodologia`, `/quanto-costa`, `/provincia/[slug]` (con `feed.xml`), `/ente/[slug]`, `/feed.xml`, `/ricerca.json`, `sitemap.ts`, `robots.ts`; `Ricerca.tsx` è l'unico componente caricato dalla home oltre alla tabella.
 - `sito/lib/`: `dati.ts` (tipi, `slug`, `nomeProvincia`, `nItal`, `euro`), `enti.ts`, `centri.ts`, `regioni.ts` (provincia→regione), `nomi.ts` (`nomeEnte`), `jsonld.ts`, `metadati.ts`, `feed.ts`.
 - `sito/data/`: `province-lite.json` (totali e anni per provincia, caricato dalla home), `provincia/<slug>.json`, `ente/<slug>.json` + `enti.json`, `centri.json`, `msna.json`. `sito/public/dati/`: CSV scaricabili (uno per provincia, `contratti.csv`).
 
@@ -34,6 +34,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 ## Registro del copy
 - Preciso, piano, senza interpretazioni (niente "solo", "elevato", "preoccupante"). Modello di voce: la pagina `/che-cose`.
 - Cifre solo dai dati, mai scritte a mano: si leggono da JSON o da `nItal`/`euro` (separatore delle migliaia sempre attivo).
+- Unica eccezione: il pocket money di 2,50 € al giorno in `/quanto-costa` non viene dai dati ma da una decisione di contrarre della Prefettura di Chieti (prot. 41889 del 10/05/2024, che applica il capitolato del D.M. 4 marzo 2024). Sta in `sito/lib/capitolato.ts` ed è dichiarata in `/metodologia` e nella pagina; nessun'altra cifra esterna senza dichiararla così.
 - Dove un dato manca, si dice ("n.d.", "nessun centro nei dati"), non si mette 0.
 
 ## SEO
