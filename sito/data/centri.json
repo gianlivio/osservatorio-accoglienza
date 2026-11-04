@@ -34,6 +34,314 @@
   "presenze_progetti": 33304,
   "presenze_strutture": 33201
  },
+ "nazionale": {
+  "quartili": "inclusivi (statistics.quantiles, method='inclusive'), calcolati sulle righe del file con il costo",
+  "costo_per_tipo": {
+   "2018": {
+    "cas_adulti": {
+     "centri": 9434,
+     "centri_con_costo": 9373,
+     "valori": 9373,
+     "mediana": 34.97,
+     "q1": 34.14,
+     "q3": 36.21,
+     "presenze": 101892
+    },
+    "cas_minori": {
+     "centri": 43,
+     "centri_con_costo": 41,
+     "valori": 41,
+     "mediana": 44.77,
+     "q1": 36.78,
+     "q3": 45.0,
+     "presenze": 221
+    },
+    "cpa": {
+     "centri": 13,
+     "centri_con_costo": 13,
+     "valori": 13,
+     "mediana": 27.85,
+     "q1": 25.0,
+     "q3": 31.31,
+     "presenze": 5283
+    },
+    "hotspot": {
+     "centri": 5,
+     "centri_con_costo": 5,
+     "valori": 5,
+     "mediana": 29.0,
+     "q1": 25.52,
+     "q3": 33.0,
+     "presenze": 244
+    }
+   },
+   "2019": {
+    "cas_adulti": {
+     "centri": 8816,
+     "centri_con_costo": 8814,
+     "valori": 8814,
+     "mediana": 29.8,
+     "q1": 23.0,
+     "q3": 34.9,
+     "presenze": 63936
+    },
+    "cas_minori": {
+     "centri": 22,
+     "centri_con_costo": 22,
+     "valori": 22,
+     "mediana": 43.67,
+     "q1": 36.75,
+     "q3": 45.0,
+     "presenze": 59
+    },
+    "cpa": {
+     "centri": 12,
+     "centri_con_costo": 12,
+     "valori": 12,
+     "mediana": 21.52,
+     "q1": 8.96,
+     "q3": 28.72,
+     "presenze": 2569
+    },
+    "hotspot": {
+     "centri": 4,
+     "centri_con_costo": 4,
+     "valori": 4,
+     "mediana": 22.52,
+     "q1": 17.29,
+     "q3": 28.49,
+     "presenze": 78
+    }
+   },
+   "2020": {
+    "cas_adulti": {
+     "centri": 5996,
+     "centri_con_costo": 5972,
+     "valori": 5972,
+     "mediana": 26.2,
+     "q1": 21.19,
+     "q3": 29.82,
+     "presenze": 52420
+    },
+    "cas_minori": {
+     "centri": 7,
+     "centri_con_costo": 6,
+     "valori": 6,
+     "mediana": 39.6,
+     "q1": 28.3,
+     "q3": 44.75,
+     "presenze": 48
+    },
+    "cpa": {
+     "centri": 11,
+     "centri_con_costo": 11,
+     "valori": 11,
+     "mediana": 17.98,
+     "q1": 16.93,
+     "q3": 23.18,
+     "presenze": 1592
+    },
+    "hotspot": {
+     "centri": 4,
+     "centri_con_costo": 4,
+     "valori": 4,
+     "mediana": 18.2,
+     "q1": 17.19,
+     "q3": 20.62,
+     "presenze": 41
+    }
+   },
+   "2021": {
+    "cas_adulti": {
+     "centri": 5424,
+     "centri_con_costo": 4979,
+     "valori": 4979,
+     "mediana": 27.5,
+     "q1": 22.52,
+     "q3": 29.75,
+     "presenze": 50038
+    },
+    "cas_minori": {
+     "centri": 23,
+     "centri_con_costo": 23,
+     "valori": 23,
+     "mediana": 39.06,
+     "q1": 38.02,
+     "q3": 45.0,
+     "presenze": 457
+    },
+    "cpa": {
+     "centri": 10,
+     "centri_con_costo": 10,
+     "valori": 10,
+     "mediana": 19.19,
+     "q1": 17.98,
+     "q3": 23.44,
+     "presenze": 2065
+    },
+    "hotspot": {
+     "centri": 3,
+     "centri_con_costo": 3,
+     "valori": 3,
+     "mediana": 16.8,
+     "q1": 16.23,
+     "q3": 17.36,
+     "presenze": 398
+    }
+   },
+   "2022": {
+    "cas_adulti": {
+     "centri": 5443,
+     "centri_con_costo": 4922,
+     "valori": 4922,
+     "mediana": 27.06,
+     "q1": 24.56,
+     "q3": 29.15,
+     "presenze": 69039
+    },
+    "cas_minori": {
+     "centri": 31,
+     "centri_con_costo": 0,
+     "valori": 0,
+     "mediana": null,
+     "q1": null,
+     "q3": null,
+     "presenze": 639
+    },
+    "cpa": {
+     "centri": 9,
+     "centri_con_costo": 9,
+     "valori": 9,
+     "mediana": 19.11,
+     "q1": 9.3,
+     "q3": 24.75,
+     "presenze": 3527
+    },
+    "hotspot": {
+     "centri": 4,
+     "centri_con_costo": 4,
+     "valori": 4,
+     "mediana": 18.56,
+     "q1": 16.75,
+     "q3": 20.14,
+     "presenze": 1998
+    }
+   },
+   "2023": {
+    "cas_adulti": {
+     "centri": 5748,
+     "centri_con_costo": 5667,
+     "valori": 5891,
+     "mediana": 28.04,
+     "q1": 25.57,
+     "q3": 30.1,
+     "presenze": 98468
+    },
+    "cas_minori": {
+     "centri": 95,
+     "centri_con_costo": 95,
+     "valori": 95,
+     "mediana": 57.1,
+     "q1": 40.46,
+     "q3": 60.0,
+     "presenze": 1773
+    },
+    "cpa": {
+     "centri": 9,
+     "centri_con_costo": 9,
+     "valori": 9,
+     "mediana": 24.75,
+     "q1": 9.3,
+     "q3": 27.59,
+     "presenze": 4432
+    },
+    "hotspot": {
+     "centri": 4,
+     "centri_con_costo": 1,
+     "valori": 1,
+     "mediana": 28.41,
+     "q1": 28.41,
+     "q3": 28.41,
+     "presenze": 1238
+    }
+   },
+   "2024": {
+    "cas_adulti": {
+     "centri": 5330,
+     "centri_con_costo": 5330,
+     "valori": 5921,
+     "mediana": 28.33,
+     "q1": 25.63,
+     "q3": 32.04,
+     "presenze": 95467
+    },
+    "cas_minori": {
+     "centri": 82,
+     "centri_con_costo": 82,
+     "valori": 84,
+     "mediana": 59.39,
+     "q1": 54.67,
+     "q3": 60.0,
+     "presenze": 1271
+    },
+    "cpa": {
+     "centri": 8,
+     "centri_con_costo": 8,
+     "valori": 8,
+     "mediana": 23.04,
+     "q1": 11.96,
+     "q3": 28.09,
+     "presenze": 3580
+    },
+    "hotspot": {
+     "centri": 11,
+     "centri_con_costo": 11,
+     "valori": 11,
+     "mediana": 28.0,
+     "q1": 24.84,
+     "q3": 28.0,
+     "presenze": 1030
+    }
+   }
+  },
+  "presenze": {
+   "2018": {
+    "cas": 102113,
+    "prima_accoglienza": 5527,
+    "sai": 23785
+   },
+   "2019": {
+    "cas": 63995,
+    "prima_accoglienza": 2647,
+    "sai": 21278
+   },
+   "2020": {
+    "cas": 52468,
+    "prima_accoglienza": 1633,
+    "sai": 22152
+   },
+   "2021": {
+    "cas": 50495,
+    "prima_accoglienza": 2463,
+    "sai": 24477
+   },
+   "2022": {
+    "cas": 69678,
+    "prima_accoglienza": 5525,
+    "sai": 30849
+   },
+   "2023": {
+    "cas": 100241,
+    "prima_accoglienza": 5670,
+    "sai": 30995
+   },
+   "2024": {
+    "cas": 96738,
+    "prima_accoglienza": 4610,
+    "sai": 33304
+   }
+  }
+ },
  "province": {
   "AGRIGENTO": {
    "2018": {

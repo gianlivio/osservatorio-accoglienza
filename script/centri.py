@@ -87,6 +87,32 @@ for (p, a), rr in sorted(progetti.items()):
         "senza_presenze": sum(1 for r in rr if num(r["presenze"]) is None),
     }
 
+# --- blocco nazionale: costo giornaliero per ospite e presenze, per anno e tipo di centro ---
+TIPI = {"CAS ADULTI": "cas_adulti", "CAS MINORI": "cas_minori", "CPA": "cpa", "HOTSPOT": "hotspot"}
+per_tipo = collections.defaultdict(list)
+for r in cas:
+    per_tipo[(r["rilevazione_data"][:4], TIPI[r["tipologia_centro"]])].append(r)
+
+def costi_tipo(rr):
+    v = [c for c in (num(r["costo_giornaliero_per_ospite"]) for r in rr) if c is not None]
+    q = statistics.quantiles(v, n=4, method="inclusive") if len(v) >= 2 else ([v[0]] * 3 if v else None)
+    return {
+        "centri": len({r["centro_id"] for r in rr}),
+        "centri_con_costo": len({r["centro_id"] for r in rr if num(r["costo_giornaliero_per_ospite"]) is not None}),
+        "valori": len(v),
+        "mediana": round(statistics.median(v), 2) if v else None,
+        "q1": round(q[0], 2) if q else None,
+        "q3": round(q[2], 2) if q else None,
+        "presenze": somma(num(r["presenze_giornaliere"]) for r in rr),
+    }
+
+blocco_nazionale = {
+    "quartili": "inclusivi (statistics.quantiles, method='inclusive'), calcolati sulle righe del file con il costo",
+    "costo_per_tipo": {a: {t: costi_tipo(per_tipo[(a, t)]) for t in TIPI.values() if per_tipo[(a, t)]} for a in anni},
+    "presenze": {a: {"cas": round(nazionale[a]["CAS"]), "prima_accoglienza": round(nazionale[a]["prima accoglienza"]),
+                     "sai": round(nazionale[a]["SAI"])} for a in anni},
+}
+
 dati = {
     "fonte": "Centri d'Italia (ActionAid e Openpolis)",
     "url": "https://centriditalia.it",
@@ -96,6 +122,7 @@ dati = {
     "rilevazioni_sai": {a: date_sai[a] for a in anni if a in date_sai},
     "sai_ultimo_anno": {"anno": ultimo, "presenze_progetti": round(nazionale[ultimo]["SAI"]),
                         "presenze_strutture": presenze_strutture},
+    "nazionale": blocco_nazionale,
     "province": province,
 }
 json.dump(dati, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
