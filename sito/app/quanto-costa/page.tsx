@@ -4,11 +4,8 @@ import { slug, nomeProvincia, nItal, nItal2, euroCent, dataLunga } from "@/lib/d
 import { centri, type Tipo } from "@/lib/centri";
 import { breadcrumb, creatore, dominio, fonteCentri, licenza } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
+import { ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 
-// Unica cifra della pagina che non viene dai dati dell'archivio: rimborso per il pocket money previsto
-// nell'atto della Prefettura di Chieti (protocollo n. 41889 del 10/05/2024). Dichiarata in /metodologia.
-const POCKET_MONEY = 2.5;
-const ATTO = "https://prefettura.interno.gov.it/sites/default/files/82/2024-09/decisione-di-contrarre-gara-migranti-2024-2026.pdf";
 const SOGLIA_CENTRI = 10;
 
 const anni = centri.anni;
@@ -170,7 +167,7 @@ export default function QuantoCosta() {
         <h2 className="titolo-sezione">A chi vanno i soldi</h2>
         <p>
           Secondo la decisione di contrarre della{" "}
-          <a href={ATTO} target="_blank" rel="noopener" className="link-interno">Prefettura di Chieti</a>
+          <a href={ATTO_CAPITOLATO} target="_blank" rel="noopener" className="link-interno">Prefettura di Chieti</a>
           {" "}(protocollo n. 41889 del 10 maggio 2024), che applica lo schema di capitolato per i
           centri di accoglienza approvato con decreto del Ministro dell&apos;Interno del 4 marzo
           2024, il corrispettivo al gestore è fissato per ogni persona e per ogni giorno di

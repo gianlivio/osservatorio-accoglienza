@@ -2,9 +2,10 @@ import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { centri } from "@/lib/centri";
+import { ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
-import { totale, anni, serieAnni, euro, province, nItal, esclusiAMano } from "@/lib/dati";
+import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano } from "@/lib/dati";
 
 export const metadata = metadatiPagina(
   "Metodologia e limiti · Osservatorio Accoglienza",
@@ -45,6 +46,15 @@ export default function Metodologia() {
           {nItal(centri.sai_ultimo_anno.presenze_progetti)}, contro{" "}
           {nItal(centri.sai_ultimo_anno.presenze_strutture)} nel totale pubblicato, calcolato sul
           file delle strutture.
+        </p>
+        <p>
+          Nella pagina <Link href="/quanto-costa">Quanto costa l&apos;accoglienza</Link> la cifra di{" "}
+          {euroCent(POCKET_MONEY)} al giorno per persona per il pocket money non viene dai nostri dati: è
+          riportata da un atto della Prefettura di Chieti (
+          <a href={ATTO_CAPITOLATO} target="_blank" rel="noopener" className="link-interno">decisione di contrarre</a>,
+          protocollo n. 41889 del 10 maggio 2024), che applica lo schema di capitolato del Ministero
+          dell&apos;Interno approvato con decreto del 4 marzo 2024, ed è l&apos;unica cifra di quella
+          pagina presa da una fonte esterna. L&apos;atto è il documento ufficiale linkato qui e nella pagina.
         </p>
       </section>
 
