@@ -47,6 +47,9 @@ export default function Home() {
         e se sono stati assegnati con una gara o scegliendo direttamente.{" "}
         <Link href="/che-cose" className="link-interno">Come funziona →</Link>
       </p>
+      <p className="sommario">
+        <Link href="/quanto-costa" className="link-interno">Quanto costa l&apos;accoglienza →</Link>
+      </p>
 
       <section className="sezione">
         <Ricerca />
