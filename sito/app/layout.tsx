@@ -40,7 +40,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             I contratti sono selezionati automaticamente e l&apos;elenco è approssimato:
             qualcosa entra per errore, qualcosa manca. Gli importi non vanno sommati.<br />
             Codice e metodo su github.com/gianlivio/osservatorio-accoglienza<br />
-            Un progetto di <a href="https://portfoliooo-main.vercel.app/it" target="_blank" rel="noopener">Gianlivio Iemolo</a>
+            Un progetto di <a href="https://gianlivioiemolo.com" target="_blank" rel="noopener">Gianlivio Iemolo</a>
           </footer>
         </div>
       </body>
