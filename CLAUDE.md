@@ -34,7 +34,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 ## Registro del copy
 - Preciso, piano, senza interpretazioni (niente "solo", "elevato", "preoccupante"). Modello di voce: la pagina `/che-cose`.
 - Cifre solo dai dati, mai scritte a mano: si leggono da JSON o da `nItal`/`euro` (separatore delle migliaia sempre attivo).
-- Unica eccezione: il pocket money di 2,50 € al giorno in `/quanto-costa` non viene dai dati ma da una decisione di contrarre della Prefettura di Chieti (prot. 41889 del 10/05/2024, che applica il capitolato del D.M. 4 marzo 2024). Sta in `sito/lib/capitolato.ts` ed è dichiarata in `/metodologia` e nella pagina; nessun'altra cifra esterna senza dichiararla così.
+- Unica eccezione: il pocket money di 2,50 € al giorno in `/quanto-costa` non viene dai dati ma da una decisione di contrarre della Prefettura di Chieti (prot. 41889 del 10/05/2024, che applica il capitolato del D.M. 4 marzo 2024); l'obbligo di versarlo in denaro da una determinazione a contrarre della Prefettura di Avellino (prot. 36387 del 22/04/2024). Sta in `sito/lib/capitolato.ts` ed è dichiarata in `/metodologia` e nella pagina; nessun'altra cifra esterna senza dichiararla così.
 - Dove un dato manca, si dice ("n.d.", "nessun centro nei dati"), non si mette 0.
 
 ## SEO

@@ -4,7 +4,7 @@ import { slug, nomeProvincia, nItal, nItal2, euroCent, dataLunga } from "@/lib/d
 import { centri, type Tipo } from "@/lib/centri";
 import { breadcrumb, creatore, dominio, fonteCentri, licenza } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
-import { ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
+import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 
 const SOGLIA_CENTRI = 10;
 
@@ -171,8 +171,9 @@ export default function QuantoCosta() {
         <h2 className="titolo-sezione">A chi vanno i soldi</h2>
         <p>
           Il prezzo giornaliero non va alla persona accolta: va all&apos;ente che gestisce il centro, per
-          ogni persona e per ogni giorno di presenza. Alla persona va il pocket money:{" "}
-          {euroCent(POCKET_MONEY)} al giorno.
+          ogni persona e per ogni giorno di presenza. Alla persona va il pocket money, una piccola
+          somma per le spese di ogni giorno: {euroCent(POCKET_MONEY)} al giorno, che il gestore deve versare
+          in denaro e che la Prefettura gli rimborsa a parte.
         </p>
         <p>
           Secondo la decisione di contrarre della{" "}
@@ -185,12 +186,20 @@ export default function QuantoCosta() {
           e riconosciuto su rendicontazione. Le voci di costo di riferimento stanno
           nell&apos;Allegato B del capitolato, che non è in quell&apos;atto.
         </p>
+        <p>
+          L&apos;obbligo per il gestore di versare il pocket money in denaro risulta dalla{" "}
+          <a href={ATTO_AVELLINO} target="_blank" rel="noopener" className="link-interno">determinazione a contrarre della
+          Prefettura di Avellino</a> (protocollo interno n. 36387 del 22 aprile 2024), che tra le
+          novità dello schema di capitolato approvato con il decreto del Ministro dell&apos;Interno
+          del 4 marzo 2024 indica l&apos;«obbligo per il gestore di erogare il pocket money unicamente
+          sotto forma di denaro».
+        </p>
         <p className="avviso">
-          La cifra di {euroCent(POCKET_MONEY)} e i riferimenti all&apos;atto vengono da una fonte esterna, non dai
-          dati di questo sito: è l&apos;unica cifra della pagina che non viene dai nostri dati. Il costo mostrato
+          La cifra di {euroCent(POCKET_MONEY)} e i riferimenti ai due atti di Prefettura (Chieti e Avellino) vengono da
+          fonti esterne, non dai dati di questo sito: è l&apos;unica cifra della pagina che non viene dai nostri dati. Il costo mostrato
           sopra è il valore che Centri d&apos;Italia pubblica con il nome «costo giornaliero per ospite»:
-          i dati non dicono se coincida con il prezzo previsto dal capitolato. L&apos;atto vale per i
-          bandi 2024–2026; non descrive gli anni precedenti.
+          i dati non dicono se coincida con il prezzo previsto dal capitolato. Gli atti citati sono del
+          2024 e non descrivono gli anni precedenti.
         </p>
       </section>
 
