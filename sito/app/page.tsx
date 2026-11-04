@@ -9,7 +9,7 @@ import { metadatiPagina } from "@/lib/metadati";
 export const metadata = {
   ...metadatiPagina(
     "Osservatorio Accoglienza: contratti per l'accoglienza dei migranti in Italia, provincia per provincia",
-    "Contratti pubblici per l'accoglienza dei migranti, provincia per provincia: numero di affidamenti, importi ed enti gestori.",
+    "Chi gestisce l'accoglienza dei migranti in Italia, con quali soldi e a quali condizioni: contratti pubblici ed enti gestori, provincia per provincia.",
   ),
   alternates: {
     canonical: "./",
@@ -40,6 +40,11 @@ export default function Home() {
       <JsonLd dati={datasetJsonLd} />
       <p className="occhiello">Contratti pubblici · {primo}–{ultimo}</p>
       <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>
+      <p className="sommario">
+        Quando si parla di immigrazione si parla, quasi sempre, di chi arriva. Si parla poco di
+        chi accoglie: degli uffici che firmano i contratti, delle cooperative che li ricevono,
+        dei soldi che passano dagli uni alle altre.
+      </p>
       <p className="sommario">
         Lo Stato non gestisce da sé l&apos;accoglienza di chi chiede asilo: la affida a
         cooperative e associazioni, con contratti pubblici. Questo archivio raccoglie quei
