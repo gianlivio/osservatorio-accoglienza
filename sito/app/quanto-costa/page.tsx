@@ -54,6 +54,10 @@ const anniDoppioni = anni.filter((a) => adulti(a).valori > adulti(a).centri_con_
 const elencoAnni = anniDoppioni.map((a) => `nel ${a}`).join(" e ");
 const minoriSenzaCosto = anni.filter((a) => costi[a].cas_minori && costi[a].cas_minori!.centri_con_costo === 0);
 const minoriAnno = (a: string) => costi[a].cas_minori!;
+// Fra gli anni non mostrati con almeno un costo, quello con meno centri con il dato.
+const minoriPochi = anni
+  .filter((a) => !minoriSenzaCosto.includes(a) && a < anni[anni.length - 2] && (costi[a].cas_minori?.centri_con_costo ?? 0) > 0)
+  .sort((a, b) => minoriAnno(a).centri_con_costo - minoriAnno(b).centri_con_costo)[0];
 const pres = centri.nazionale.presenze[ultimo];
 const casPrimoAnnoMinori = anni[anni.length - 2];
 
@@ -124,7 +128,7 @@ export default function QuantoCosta() {
           Costo giornaliero per ospite, mediana. Per i CAS per minori sono mostrati solo
           {" "}il {casPrimoAnnoMinori} e il {ultimo}: nel {minoriSenzaCosto[0]} il file non riporta alcun costo
           ({nItal(minoriAnno(minoriSenzaCosto[0]).centri_con_costo)} centri su {nItal(minoriAnno(minoriSenzaCosto[0]).centri)}) e
-          {" "}nel 2020 i centri con il dato sono {nItal(minoriAnno("2020").centri_con_costo)}. Per CPA e hotspot
+          {" "}nel {minoriPochi} i centri con il dato sono {nItal(minoriAnno(minoriPochi).centri_con_costo)}. Per CPA e hotspot
           è mostrato solo l&apos;ultimo anno.
         </p>
         <table className="tabella">
@@ -165,6 +169,11 @@ export default function QuantoCosta() {
 
       <section className="sezione">
         <h2 className="titolo-sezione">A chi vanno i soldi</h2>
+        <p>
+          Il prezzo giornaliero non va alla persona accolta: va all&apos;ente che gestisce il centro, per
+          ogni persona e per ogni giorno di presenza. Alla persona va il pocket money:{" "}
+          {euroCent(POCKET_MONEY)} al giorno.
+        </p>
         <p>
           Secondo la decisione di contrarre della{" "}
           <a href={ATTO_CAPITOLATO} target="_blank" rel="noopener" className="link-interno">Prefettura di Chieti</a>
