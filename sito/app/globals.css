@@ -162,3 +162,7 @@ th.num .ordina{flex-direction:row-reverse}
 .ricerca-esito{margin:8px 0 0}
 .nota-sai{margin-top:44px}
 .tabella-centri td small{display:block;font-size:11px;color:var(--tenue)}
+.elenco-province summary{cursor:pointer;font-family:var(--dato);font-size:14px;margin-bottom:14px}
+.elenco-province summary:focus-visible{outline:2px solid var(--timbro);outline-offset:2px}
+.titolo-regione{font-family:var(--dato);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--tenue);margin:22px 0 6px}
+@media (max-width: 640px){.sezione-ricerca{overflow:visible}}

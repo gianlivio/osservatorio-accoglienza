@@ -21,7 +21,7 @@ function cerca(indice: Voce[], testo: string) {
   return trovate.sort((a, b) => a.punti - b.punti).slice(0, MAX).map((t) => t.v);
 }
 
-export default function Ricerca() {
+export default function Ricerca({ solo }: { solo?: "province" }) {
   const id = useId();
   const router = useRouter();
   const contenitore = useRef<HTMLDivElement>(null);
@@ -37,7 +37,7 @@ export default function Ricerca() {
     caricamento.current = true;
     fetch("/ricerca.json")
       .then((r) => r.json() as Promise<[string, string, string?][]>)
-      .then((voci) => setIndice(voci.map(([nome, percorso, luoghi]) => ({ nome, percorso, chiave: normalizza(`${nome} ${luoghi ?? ""}`) }))))
+      .then((voci) => setIndice(voci.filter(([, percorso]) => !solo || percorso.startsWith("/provincia/")).map(([nome, percorso, luoghi]) => ({ nome, percorso, chiave: normalizza(`${nome} ${luoghi ?? ""}`) }))))
       .catch(() => { caricamento.current = false; setErrore(true); });
   }
 
@@ -74,9 +74,9 @@ export default function Ricerca() {
   return (
     <div className="ricerca" ref={contenitore}
       onBlur={(e) => { if (!contenitore.current?.contains(e.relatedTarget)) { setAperto(false); setAttivo(-1); } }}>
-      <label htmlFor={`${id}-campo`} className="ricerca-etichetta">Cerca una provincia o un ente gestore</label>
+      <label htmlFor={`${id}-campo`} className="ricerca-etichetta">{solo ? "Cerca una provincia" : "Cerca una provincia o un ente gestore"}</label>
       <input id={`${id}-campo`} type="search" autoComplete="off" spellCheck={false}
-        className="ricerca-campo" value={testo} placeholder="Nome di provincia o di ente"
+        className="ricerca-campo" value={testo} placeholder={solo ? "Nome di provincia" : "Nome di provincia o di ente"}
         role="combobox" aria-expanded={visibile && risultati.length > 0} aria-controls={`${id}-lista`}
         aria-autocomplete="list" aria-activedescendant={visibile && attivo >= 0 ? idOpzione(attivo) : undefined}
         onFocus={() => { carica(); setAperto(true); }}

@@ -1,7 +1,9 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
+import Ricerca from "@/app/Ricerca";
 import { slug, nomeProvincia, nItal, nItal2, euroCent, dataLunga } from "@/lib/dati";
 import { centri, type Tipo } from "@/lib/centri";
+import { regioni } from "@/lib/regioni";
 import { breadcrumb, creatore, dominio, fonteCentri, licenza } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
@@ -60,6 +62,11 @@ const minoriPochi = anni
   .sort((a, b) => minoriAnno(a).centri_con_costo - minoriAnno(b).centri_con_costo)[0];
 const pres = centri.nazionale.presenze[ultimo];
 const casPrimoAnnoMinori = anni[anni.length - 2];
+
+const elencoRegioni = Object.entries(regioni).map(([regione, nomi]) => ({
+  regione,
+  righe: nomi.map((nome) => ({ nome, costo: centri.province[nome]?.[ultimo]?.cas?.costo_mediano ?? null })),
+}));
 
 function Estremo({ p }: { p: { nome: string; cas: { centri: number; costo_mediano: number | null } } }) {
   return (
@@ -120,6 +127,32 @@ export default function QuantoCosta() {
           )}
           {" "}Il numero di centri è quello con almeno un valore.
         </p>
+      </section>
+
+      <section className="sezione sezione-ricerca">
+        <h2 className="titolo-sezione">Quanto costa nella tua provincia</h2>
+        <p>Il costo mediano dei centri, provincia per provincia, nell&apos;ultimo anno disponibile.</p>
+        <Ricerca solo="province" />
+        <details className="elenco-province">
+          <summary>Tutte le province</summary>
+          <p className="nota-tabella">Costo giornaliero mediano per ospite, {ultimo}.</p>
+          {elencoRegioni.map(({ regione, righe }) => (
+            <div key={regione}>
+              <h3 className="titolo-regione">{regione}</h3>
+              <table className="tabella">
+                <caption className="sr-only">{regione}: costo giornaliero mediano per ospite per provincia, {ultimo}</caption>
+                <tbody>
+                  {righe.map((r) => (
+                    <tr key={r.nome}>
+                      <td><Link href={`/provincia/${slug(r.nome)}`} className="link-interno">{nomeProvincia(r.nome)}</Link></td>
+                      <td className="num">{cell(r.costo)}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          ))}
+        </details>
       </section>
 
       <section className="sezione">
