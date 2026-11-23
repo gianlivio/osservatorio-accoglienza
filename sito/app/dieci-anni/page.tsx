@@ -8,8 +8,8 @@ import { metadatiPagina } from "@/lib/metadati";
 import { dataLunga, euroCent, nItal } from "@/lib/dati";
 
 export const metadata = metadatiPagina(
-  "Accoglienza dei migranti 2015–2025: leggi, contratti, notizie · Osservatorio Accoglienza",
-  "Leggi sull'accoglienza, contratti, presenze e costo dei centri, notizie in prima pagina e nei telegiornali: i dati dal 2015 al 2025, anno per anno.",
+  "Accoglienza dei migranti 2015–2025: leggi e numeri · Osservatorio Accoglienza",
+  "Le leggi sull'accoglienza e i numeri dal 2015 al 2025: contratti da 40.000 € in su, presenze nei centri e costo dei CAS, anno per anno.",
 );
 
 const anni = c.anni;
@@ -58,15 +58,14 @@ export default function DieciAnni() {
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Dieci anni di accoglienza", percorso: "/dieci-anni" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
-      <p className="occhiello">{primo}–{ultimo} · leggi, centri, contratti, notizie</p>
+      <p className="occhiello">{primo}–{ultimo} · leggi, contratti, centri</p>
       <h1 className="tesi">Dieci anni di accoglienza, <em>anno per anno</em>.</h1>
 
       <div className="prosa">
         <p>
-          Questa pagina mette in fila, dal {primo} al {ultimo}, tre serie di numeri: le notizie che i giornali e i
-          telegiornali hanno dedicato all&apos;immigrazione, i contratti per l&apos;accoglienza e i centri. Segna anche le
-          leggi sul sistema di accoglienza. Le tre serie sono messe una accanto all&apos;altra, anno per anno. Il sito non dice
-          che l&apos;una dipenda dall&apos;altra.
+          Questa pagina mette in fila, dal {primo} al {ultimo}, due serie di numeri: i contratti per l&apos;accoglienza e i
+          centri. Segna anche le leggi sul sistema di accoglienza. Le due serie sono messe una accanto all&apos;altra, anno per
+          anno, con le leggi. Il sito non dice che l&apos;una dipenda dall&apos;altra, né dalle leggi.
         </p>
       </div>
 
@@ -102,6 +101,7 @@ export default function DieciAnni() {
       <section className="sezione">
         <h2 className="titolo-sezione">Come leggere i numeri</h2>
         <ul className="elenco">
+          <li>Le linee tratteggiate nei grafici segnano l&apos;anno di ogni legge della tabella; l&apos;etichetta è il numero dell&apos;atto.</li>
           <li>
             I contratti sono quelli da 40.000 € in su: dal 2024 entrano in archivio contratti più piccoli, e solo su questa soglia gli
             anni si confrontano. I dati sui centri partono dal {primoCentri}.
