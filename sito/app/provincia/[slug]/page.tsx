@@ -49,6 +49,8 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     .sort(([a], [b]) => a.localeCompare(b));
   const maxMese = Math.max(...mesiDati.map(([, m]) => m.affidamenti), 1);
   const c = centri.province[p.provincia] ?? {};
+  const annoCosto = centri.anni[centri.anni.length - 1];
+  const costoUltimo = c[annoCosto]?.cas?.costo_mediano ?? null;
   const dataIt = (iso: string) => {
     const [a, m, g] = iso.split("-");
     return `${+g} ${MESI_LUNGHI[+m - 1]} ${a}`;
@@ -92,6 +94,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           <div className="cifra"><b>{nItal(t.canale_prefettura)}</b><span>firmati dalla Prefettura</span></div>
           <div className="cifra"><b>{nItal(t.canale_ente_locale)}</b><span>firmati da comuni o enti locali</span></div>
           <div className="cifra"><b>{nItal(t.prosecuzioni)}</b><span>rinnovi di contratti già in corso</span></div>
+          {costoUltimo !== null && (
+            <div className="cifra"><b>{euroCent(costoUltimo)}</b><span><a href="#posti-e-presenze" className="link-interno">costo mediano per ospite al giorno, {annoCosto}</a></span></div>
+          )}
         </div>
       </section>
 
@@ -192,7 +197,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         </section>
       )}
 
-      <section className="sezione">
+      <section className="sezione" id="posti-e-presenze">
         <h2 className="titolo-sezione">Posti e presenze nei centri</h2>
         <p className="nota-tabella">
           CAS, centri di prima accoglienza e hotspot, un anno per volta.
