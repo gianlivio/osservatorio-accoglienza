@@ -56,6 +56,9 @@ export default function Home() {
       <p className="sommario">
         <Link href="/quanto-costa" className="link-interno">Quanto costa l&apos;accoglienza →</Link>
       </p>
+      <p className="sommario">
+        <Link href="/dieci-anni" className="link-interno">Dieci anni di accoglienza →</Link>
+      </p>
 
       <section className="sezione sezione-ricerca">
         <Ricerca />

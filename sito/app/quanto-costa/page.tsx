@@ -261,6 +261,10 @@ export default function QuantoCosta() {
           enti, che si raggiungono dalla ricerca nella home. Ogni pagina riporta importi,
           procedura e uffici che hanno assegnato.
         </p>
+        <p>
+          Presenze nei centri, costo dei CAS e contratti, anno per anno e accanto alle leggi e alle notizie, sono nella pagina{" "}
+          <Link href="/dieci-anni" className="link-interno">Dieci anni di accoglienza</Link>.
+        </p>
       </section>
 
       <section className="sezione">
