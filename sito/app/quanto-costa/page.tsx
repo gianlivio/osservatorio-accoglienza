@@ -135,7 +135,7 @@ export default function QuantoCosta() {
         <h2 className="titolo-sezione">Quanto costa nella tua provincia</h2>
         <p>Il costo mediano dei centri, provincia per provincia, nell&apos;ultimo anno disponibile.</p>
         <Ricerca solo="province" />
-        <details className="elenco-province">
+        <details className="elenco-province" open>
           <summary>Tutte le province</summary>
           <p className="nota-tabella">Costo giornaliero mediano per ospite, {ultimo}.</p>
           {elencoRegioni.map(({ regione, righe }) => (
