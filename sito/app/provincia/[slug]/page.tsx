@@ -220,6 +220,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             })}
           </tbody>
         </table>
+        <p className="nota-tabella">
+          <Link href="/quanto-costa" className="link-interno">Il costo nelle altre province e a livello nazionale →</Link>
+        </p>
 
         <p className="nota-tabella nota-sai">
           Progetti SAI, sistema di accoglienza e integrazione dei Comuni, un anno per volta.
