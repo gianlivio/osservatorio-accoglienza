@@ -211,8 +211,8 @@ th.num .ordina{flex-direction:row-reverse}
 .dieci-grafico{margin:0 0 30px;max-width:540px}
 .dieci-grafico svg{display:block;width:100%;height:auto}
 .dieci-grafico h3{font-family:var(--dato);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--tenue);margin:0 0 6px;font-weight:600}
-.dieci-grafico figcaption{margin:4px 0 0;font-size:14px;color:var(--tenue)}
-.dieci-grafico figcaption span{margin-right:14px;white-space:nowrap}
+.dieci-grafico figcaption{margin:4px 0 0;font-size:14px;color:var(--tenue);display:flex;flex-wrap:wrap;gap:2px 14px}
+.dieci-grafico figcaption span{min-width:0}
 .anno{border-top:1px solid var(--linea);padding:18px 0 8px;max-width:68ch}
 .anno h3{font-family:var(--display);font-weight:900;font-size:28px;letter-spacing:-.02em;margin:0 0 12px}
 .anno p{margin:0 0 10px}

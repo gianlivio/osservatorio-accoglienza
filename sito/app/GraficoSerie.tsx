@@ -32,7 +32,7 @@ export function margineSinistro(gruppi: Serie[][]) {
 
 // Linee su un asse comune 2015-2025; linee verticali tratteggiate sugli anni delle leggi. SVG statico, nessun JavaScript.
 // `stretto`: versione per il telefono, viewBox di 300 unità con testo a 12 unità (circa 13 px a 327 px di larghezza):
-// asse verticale con le etichette sopra le linee della griglia, anni abbreviati, sigle delle leggi su due righe.
+// asse verticale con le etichette sopra le linee della griglia (solo 0 e massimo), anni abbreviati, sigle delle leggi su due righe.
 export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, alt, margineSx, stretto = false, altezza }: {
   anni: string[]; serie: Serie[]; leggi: Legge[]; conEtichetteLeggi?: boolean; alt: string; margineSx: number;
   stretto?: boolean; altezza?: number;
@@ -50,7 +50,7 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
   return (
     <svg viewBox={`0 0 ${L} ${altezza}`} role="img" aria-label={alt} className={stretto ? "g-svg-stretto" : undefined}>
       <title>{alt}</title>
-      {[0, max / 2, max].map((v) => (
+      {(stretto ? [0, max] : [0, max / 2, max]).map((v) => (
         <g key={v}>
           <line className="g-asse" x1={SX} x2={L - DX} y1={y(v)} y2={y(v)} />
           {stretto
