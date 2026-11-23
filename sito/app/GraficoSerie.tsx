@@ -11,7 +11,8 @@ export type Serie = {
 };
 export type Legge = { anno: string; etichetta?: string };
 
-const L = 440, SX = 46, DX = 22, GIU = 24;
+const L = 440, DX = 22, GIU = 24;
+const LARGHEZZA_CARATTERE = 6.6; // px nel viewBox, carattere monospace a 11 px
 
 // Scala "tonda" verso l'alto: 1, 2, 2,5, 5 o 10 per la potenza di dieci giusta.
 function massimoTondo(max: number) {
@@ -19,12 +20,23 @@ function massimoTondo(max: number) {
   return [1, 1.5, 2, 2.5, 5, 10].map((m) => m * e).find((v) => v >= max) ?? max;
 }
 
+const massimoSerie = (serie: Serie[]) =>
+  massimoTondo(Math.max(...serie.flatMap((s) => s.valori.filter((v): v is number => v !== null))));
+
+// Margine sinistro che contiene l'etichetta più lunga dell'asse verticale di tutti i grafici della pagina:
+// usato da ogni grafico, così gli anni restano allineati.
+export function margineSinistro(gruppi: Serie[][]) {
+  const lunghezza = Math.max(...gruppi.map((g) => nItal(massimoSerie(g)).length));
+  return Math.ceil(lunghezza * LARGHEZZA_CARATTERE) + 14;
+}
+
 // Linee su un asse comune 2015-2025; linee verticali tratteggiate sugli anni delle leggi. SVG statico, nessun JavaScript.
-export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, alt, altezza = 170 }: {
-  anni: string[]; serie: Serie[]; leggi: Legge[]; conEtichetteLeggi?: boolean; alt: string; altezza?: number;
+export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, alt, margineSx, altezza = 170 }: {
+  anni: string[]; serie: Serie[]; leggi: Legge[]; conEtichetteLeggi?: boolean; alt: string; margineSx: number; altezza?: number;
 }) {
+  const SX = margineSx;
   const SU = conEtichetteLeggi ? 30 : 14;
-  const max = massimoTondo(Math.max(...serie.flatMap((s) => s.valori.filter((v): v is number => v !== null))));
+  const max = massimoSerie(serie);
   const x = (i: number) => Math.round(10 * (SX + (i * (L - SX - DX)) / (anni.length - 1))) / 10;
   const y = (v: number) => Math.round(10 * (altezza - GIU - (v / max) * (altezza - GIU - SU))) / 10;
   const f = (v: number) => nItal(v);

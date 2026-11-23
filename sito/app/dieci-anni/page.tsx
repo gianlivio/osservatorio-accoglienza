@@ -1,6 +1,6 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
-import GraficoSerie, { type Serie } from "@/app/GraficoSerie";
+import GraficoSerie, { margineSinistro, type Serie } from "@/app/GraficoSerie";
 import { cronologia as c, notoCome, type Atto } from "@/lib/cronologia";
 import { centri as centriFonte } from "@/lib/centri";
 import { breadcrumb } from "@/lib/jsonld";
@@ -38,6 +38,7 @@ const serieCentri: Serie[] = [
   { nome: "Presenze nella prima accoglienza", valori: centri("prima_accoglienza"), lati: true, tono: 3 },
 ];
 const primoCentri = c.centri.anni[0];
+const margineSx = margineSinistro([serieNotizie, serieContratti, serieCentri]);
 
 const altNotizie =
   `Notizie sull'immigrazione, ${primo}–${ultimo}. Telegiornali di prima serata, anno intero: da ${nItal(tg[0])} nel ${primo} a ${nItal(c.telegiornali.notizie[anni[anni.length - 2]])} nel ${anni[anni.length - 2]}; ` +
@@ -105,7 +106,7 @@ export default function DieciAnni() {
         <h2 className="titolo-sezione">Le tre serie</h2>
         <figure className="dieci-grafico">
           <h3>Notizie</h3>
-          <GraficoSerie anni={anni} serie={serieNotizie} leggi={leggiGrafico} conEtichetteLeggi alt={altNotizie} />
+          <GraficoSerie anni={anni} serie={serieNotizie} leggi={leggiGrafico} conEtichetteLeggi alt={altNotizie} margineSx={margineSx} />
           <figcaption>
             <span><i className="g-sw gs1" />Telegiornali, anno intero</span>
             <span><i className="g-sw gs2" />Prime pagine, gennaio–ottobre</span>
@@ -115,12 +116,12 @@ export default function DieciAnni() {
         </figure>
         <figure className="dieci-grafico">
           <h3>Contratti da 40.000 € in su</h3>
-          <GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} />
+          <GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} margineSx={margineSx} />
           <figcaption>Punto vuoto: {ultimo}, dato provvisorio.</figcaption>
         </figure>
         <figure className="dieci-grafico">
           <h3>Presenze nei centri</h3>
-          <GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} />
+          <GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} />
           <figcaption>
             <span><i className="g-sw gs1" />CAS</span>
             <span><i className="g-sw gs2" />SAI</span>
