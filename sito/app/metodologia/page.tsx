@@ -50,7 +50,8 @@ export default function Metodologia() {
         <p>
           I confini delle province nella mappa della home sono quelli dell&apos;ISTAT: confini delle
           unità amministrative a fini statistici, versione generalizzata al 1° gennaio 2025
-          (licenza CC BY 4.0), semplificati per il sito con lo script script/mappa.py.
+          (licenza{" "}
+          <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank" rel="noopener" className="link-interno">CC BY 4.0</a>), semplificati per il sito con lo script script/mappa.py.
         </p>
         <p>
           Nella pagina <Link href="/quanto-costa">Quanto costa l&apos;accoglienza</Link> la cifra di{" "}
