@@ -16,21 +16,12 @@ const anni = c.anni;
 const primo = anni[0], ultimo = anni[anni.length - 1];
 const ultimoCentri = c.centri.anni[c.centri.anni.length - 1];
 const leggiGrafico = c.leggi.map((l) => ({ anno: l.anno, etichetta: l.sigla?.replace(/\/\d{4}$/, "") }));
-const rapporto = (anno: string) => (
-  <a href={c.rapporti[anno].url} target="_blank" rel="noopener" className="link-interno">rapporto {anno}</a>
-);
 const mesi = (iso: string) => dataLunga(iso).replace(/ \d{4}$/, "");
 
-const tg = anni.map((a) => c.telegiornali.notizie[a]);
-const prime = anni.map((a) => c.prime_pagine.per_anno[a].totale_5_testate);
 const contratti = anni.map((a) => c.contratti_40k.affidamenti_40k[a]);
 const centri = (k: "cas" | "prima_accoglienza" | "sai") => anni.map((a) => c.centri.presenze[a]?.[k] ?? null);
 const parziale = [ultimo];
 
-const serieNotizie: Serie[] = [
-  { nome: "Telegiornali di prima serata (anno intero)", valori: tg, tono: 1, vuoti: parziale, ultimaSotto: true },
-  { nome: "Prime pagine di cinque quotidiani (gennaio–ottobre)", valori: prime, tono: 2, ultimaSotto: true },
-];
 const serieContratti: Serie[] = [{ nome: "Contratti da 40.000 € in su", valori: contratti, tono: 1, vuoti: parziale, primaSotto: true, ultimaSotto: true }];
 const serieCentri: Serie[] = [
   { nome: "Presenze nei CAS", valori: centri("cas"), lati: true, tono: 1 },
@@ -38,12 +29,8 @@ const serieCentri: Serie[] = [
   { nome: "Presenze nella prima accoglienza", valori: centri("prima_accoglienza"), lati: true, tono: 3 },
 ];
 const primoCentri = c.centri.anni[0];
-const margineSx = margineSinistro([serieNotizie, serieContratti, serieCentri]);
+const margineSx = margineSinistro([serieContratti, serieCentri]);
 
-const altNotizie =
-  `Notizie sull'immigrazione, ${primo}–${ultimo}. Telegiornali di prima serata, anno intero: da ${nItal(tg[0])} nel ${primo} a ${nItal(c.telegiornali.notizie[anni[anni.length - 2]])} nel ${anni[anni.length - 2]}; ` +
-  `il ${ultimo} è un punto vuoto, gennaio–ottobre, dato parziale. Titoli sulle prime pagine di cinque quotidiani, gennaio–ottobre: da ${nItal(prime[0])} nel ${primo} a ${nItal(prime[prime.length - 1])} nel ${ultimo}. ` +
-  `Le linee tratteggiate segnano gli anni delle leggi. I valori di ogni anno sono nei blocchi sotto.`;
 const altContratti =
   `Contratti per l'accoglienza da 40.000 € in su, ${primo}–${ultimo}: da ${nItal(contratti[0])} nel ${primo} a ${nItal(contratti[contratti.length - 1])} nel ${ultimo}, anno provvisorio disegnato come punto vuoto. I valori di ogni anno sono nei blocchi sotto.`;
 const altCentri =
@@ -86,15 +73,6 @@ export default function DieciAnni() {
       <section className="sezione">
         <h2 className="titolo-sezione">Come leggere i numeri</h2>
         <ul className="elenco">
-          <li>Le notizie vengono dai rapporti annuali di Carta di Roma e dell&apos;Osservatorio di Pavia: non sono un dato di questo sito.</li>
-          <li>
-            Le prime pagine sono contate da gennaio a ottobre di ogni anno, su cinque quotidiani: {c.prime_pagine.testate.join(", ")}.
-            Il Fatto Quotidiano e l&apos;Unità, nel campione dei rapporti solo in alcuni anni, sono esclusi per avere una serie omogenea.
-          </li>
-          <li>
-            I telegiornali di prima serata ({c.telegiornali.reti.join(", ")}) sono contati sull&apos;anno intero. Per il {ultimo} il rapporto
-            dà solo gennaio–ottobre: è un dato parziale, disegnato come punto vuoto, e non si confronta con gli anni precedenti.
-          </li>
           <li>
             I contratti sono quelli da 40.000 € in su: dal 2024 entrano in archivio contratti più piccoli, e solo su questa soglia gli
             anni si confrontano. I dati sui centri partono dal {primoCentri}.
@@ -104,17 +82,6 @@ export default function DieciAnni() {
 
       <section className="sezione">
         <h2 className="titolo-sezione">Le tre serie</h2>
-        <figure className="dieci-grafico">
-          <h3>Notizie</h3>
-          <div className="g-largo"><GraficoSerie anni={anni} serie={serieNotizie} leggi={leggiGrafico} conEtichetteLeggi alt={altNotizie} margineSx={margineSx} /></div>
-          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieNotizie} leggi={leggiGrafico} conEtichetteLeggi alt={altNotizie} margineSx={margineSx} stretto altezza={210} /></div>
-          <figcaption>
-            <span><i className="g-sw gs1" />Telegiornali, anno intero</span>
-            <span><i className="g-sw gs2" />Prime pagine, gennaio–ottobre</span>
-            <span><i className="g-sw legge" />Anno di una legge</span>
-            <span>Punto vuoto: gennaio–ottobre, dato parziale.</span>
-          </figcaption>
-        </figure>
         <figure className="dieci-grafico">
           <h3>Contratti da 40.000 € in su</h3>
           <div className="g-largo"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} margineSx={margineSx} /></div>
@@ -167,14 +134,6 @@ export default function DieciAnni() {
               ) : (
                 a >= ultimoCentri && <p><b>Centri.</b> I dati arrivano al {ultimoCentri}; per quest&apos;anno non ci sono ancora.</p>
               )}
-              <p>
-                <b>Notizie.</b> {nItal(c.prime_pagine.per_anno[a].totale_5_testate)} titoli sulle prime pagine di cinque quotidiani da gennaio a ottobre;
-                telegiornali di prima serata: {nItal(c.telegiornali.notizie[a])} {a === ultimo ? "notizie da gennaio a ottobre (dato parziale)" : "notizie nell'anno"}.
-              </p>
-              <p className="fonte">
-                Fonti. Contratti: ANAC. Centri: Centri d&apos;Italia. Prime pagine: Carta di Roma, {rapporto(c.prime_pagine.rapporto_per_anno[a])}.
-                Telegiornali: {rapporto(c.telegiornali.rapporto)}.
-              </p>
             </section>
           );
         })}
@@ -183,16 +142,6 @@ export default function DieciAnni() {
       <section className="sezione" id="fonti">
         <h2 className="titolo-sezione">Fonti</h2>
         <ul className="elenco">
-          <li>
-            Notizie: rapporti annuali di Carta di Roma, a cura dell&apos;Osservatorio di Pavia. Le prime pagine {primo}–{anni[8]} sono lette dal grafico per
-            testata e anno del {rapporto(c.prime_pagine.rapporto_per_anno[primo])}; il {anni[9]} dal {rapporto(c.prime_pagine.rapporto_per_anno[anni[9]])};
-            il {ultimo} dal {rapporto(c.prime_pagine.rapporto_per_anno[ultimo])}. Il numero di ogni anno è la somma dei titoli delle cinque testate.
-          </li>
-          <li>
-            Telegiornali: la serie ricalcolata del {rapporto(c.telegiornali.rapporto)}, ad anno intero. Per questo differisce dai valori gennaio–ottobre dei
-            rapporti dei singoli anni: per il {c.telegiornali.esempio_differenza.anno}, {nItal(c.telegiornali.esempio_differenza.serie_ricalcolata)} contro{" "}
-            {nItal(c.telegiornali.esempio_differenza.gennaio_ottobre_rapporto_2018)} nel {rapporto(c.telegiornali.esempio_differenza.anno)}.
-          </li>
           <li>Contratti: ANAC, estratti di questo sito (<Link href="/metodologia" className="link-interno">Metodologia</Link>).</li>
           <li>
             Centri: <a href={centriFonte.url} target="_blank" rel="noopener" className="link-interno">Centri d&apos;Italia</a> (ActionAid e Openpolis, {centriFonte.licenza});
@@ -202,10 +151,6 @@ export default function DieciAnni() {
             Leggi: testi ufficiali su <a href="https://www.normattiva.it" target="_blank" rel="noopener" className="link-interno">Normattiva</a>.
           </li>
         </ul>
-        <p className="nota-tabella">
-          I rapporti sono dell&apos;Associazione Carta di Roma, che ne detiene i diritti: questa pagina ne cita solo le cifre, ciascuna con il rapporto da cui viene,
-          senza riprodurre testi o grafici. La <Link href="/metodologia">Metodologia</Link> spiega i cambi di metodo dichiarati dai rapporti.
-        </p>
       </section>
     </main>
   );
