@@ -11,7 +11,7 @@ export type Serie = {
 };
 export type Legge = { anno: string; etichetta?: string };
 
-const L = 440, DX = 22, GIU = 24;
+const L_LARGO = 440, DX_LARGO = 22, L_STRETTO = 300, DX_STRETTO = 12, GIU = 24;
 const LARGHEZZA_CARATTERE = 6.6; // px nel viewBox, carattere monospace a 11 px
 
 // Scala "tonda" verso l'alto: 1, 2, 2,5, 5 o 10 per la potenza di dieci giusta.
@@ -31,38 +31,48 @@ export function margineSinistro(gruppi: Serie[][]) {
 }
 
 // Linee su un asse comune 2015-2025; linee verticali tratteggiate sugli anni delle leggi. SVG statico, nessun JavaScript.
-export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, alt, margineSx, altezza = 170 }: {
-  anni: string[]; serie: Serie[]; leggi: Legge[]; conEtichetteLeggi?: boolean; alt: string; margineSx: number; altezza?: number;
+// `stretto`: versione per il telefono, viewBox di 300 unità con testo a 12 unità (circa 13 px a 327 px di larghezza):
+// asse verticale con le etichette sopra le linee della griglia, anni abbreviati, sigle delle leggi su due righe.
+export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, alt, margineSx, stretto = false, altezza }: {
+  anni: string[]; serie: Serie[]; leggi: Legge[]; conEtichetteLeggi?: boolean; alt: string; margineSx: number;
+  stretto?: boolean; altezza?: number;
 }) {
-  const SX = margineSx;
-  const SU = conEtichetteLeggi ? 30 : 14;
+  const L = stretto ? L_STRETTO : L_LARGO, DX = stretto ? DX_STRETTO : DX_LARGO;
+  const SX = stretto ? 14 : margineSx;
+  altezza = altezza ?? (stretto ? 190 : 170);
+  const SU = stretto ? (conEtichetteLeggi ? 48 : 24) : (conEtichetteLeggi ? 30 : 14);
+  const annoBreve = (a: string) => `’${a.slice(2)}`;
   const max = massimoSerie(serie);
   const x = (i: number) => Math.round(10 * (SX + (i * (L - SX - DX)) / (anni.length - 1))) / 10;
   const y = (v: number) => Math.round(10 * (altezza - GIU - (v / max) * (altezza - GIU - SU))) / 10;
   const f = (v: number) => nItal(v);
 
   return (
-    <svg viewBox={`0 0 ${L} ${altezza}`} role="img" aria-label={alt}>
+    <svg viewBox={`0 0 ${L} ${altezza}`} role="img" aria-label={alt} className={stretto ? "g-svg-stretto" : undefined}>
       <title>{alt}</title>
       {[0, max / 2, max].map((v) => (
         <g key={v}>
           <line className="g-asse" x1={SX} x2={L - DX} y1={y(v)} y2={y(v)} />
-          <text className="g-anno" x={SX - 6} y={y(v) + 4} textAnchor="end">{f(v)}</text>
+          {stretto
+            ? <text className="g-anno" x={SX + 5} y={y(v) - 4} textAnchor="start">{f(v)}</text>
+            : <text className="g-anno" x={SX - 6} y={y(v) + 4} textAnchor="end">{f(v)}</text>}
         </g>
       ))}
-      {leggi.map((l) => {
+      {leggi.map((l, k) => {
         const i = anni.indexOf(l.anno);
+        // sul telefono le sigle stanno su due righe alternate, per non sovrapporsi
+        const rigaY = stretto ? SU - (k % 2 === 0 ? 30 : 16) : SU - 12;
         return (
           <g key={l.anno}>
-            <line className="g-legge" x1={x(i)} x2={x(i)} y1={SU - 6} y2={altezza - GIU} />
+            <line className="g-legge" x1={x(i)} x2={x(i)} y1={stretto ? rigaY + 4 : SU - 6} y2={altezza - GIU} />
             {conEtichetteLeggi && l.etichetta && (
-              <text className="g-sigla" x={x(i)} y={SU - 12} textAnchor={i === 0 ? "start" : "middle"}>{l.etichetta}</text>
+              <text className="g-sigla" x={x(i)} y={rigaY} textAnchor={i === 0 ? "start" : "middle"}>{l.etichetta}</text>
             )}
           </g>
         );
       })}
       {anni.map((a, i) => (
-        <text key={a} className="g-anno" x={x(i)} y={altezza - 8} textAnchor="middle">{a}</text>
+        <text key={a} className="g-anno" x={x(i)} y={altezza - 8} textAnchor="middle">{stretto ? annoBreve(a) : a}</text>
       ))}
       {serie.map((s) => {
         const pieni = s.valori.map((v, i) => (v !== null && !s.vuoti?.includes(anni[i]) ? i : -1)).filter((i) => i >= 0);
@@ -85,12 +95,12 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
             {primo !== undefined && (
               s.lati && primo > 0
                 ? <text className="g-valore" x={x(primo) - 8} y={y(s.valori[primo]!) + 4} textAnchor="end">{f(s.valori[primo]!)}</text>
-                : <text className="g-valore" x={x(primo)} y={y(s.valori[primo]!) + (s.primaSotto ? 17 : -8)} textAnchor={primo === 0 ? "start" : "middle"}>{f(s.valori[primo]!)}</text>
+                : <text className="g-valore" x={x(primo) + (primo === 0 ? 5 : 0)} y={y(s.valori[primo]!) + (s.primaSotto ? 17 : -8)} textAnchor={primo === 0 ? "start" : "middle"}>{f(s.valori[primo]!)}</text>
             )}
             {ultimo !== undefined && ultimo !== primo && (
-              s.lati && ultimo < anni.length - 1
+              s.lati && !stretto && ultimo < anni.length - 1
                 ? <text className="g-valore" x={x(ultimo) + 8} y={y(s.valori[ultimo]!) + 4} textAnchor="start">{f(s.valori[ultimo]!)}</text>
-                : <text className="g-valore" x={x(ultimo)} y={y(s.valori[ultimo]!) + (s.ultimaSotto ? 17 : -8)} textAnchor={ultimo === anni.length - 1 ? "end" : "middle"}>{f(s.valori[ultimo]!)}</text>
+                : <text className="g-valore" x={x(ultimo)} y={y(s.valori[ultimo]!) + (s.ultimaSotto ? 17 : -8)} textAnchor={ultimo === anni.length - 1 || stretto ? "end" : "middle"}>{f(s.valori[ultimo]!)}</text>
             )}
           </g>
         );

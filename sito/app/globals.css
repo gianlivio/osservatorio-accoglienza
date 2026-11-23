@@ -222,3 +222,14 @@ th.num .ordina{flex-direction:row-reverse}
 .legge .titolo-ufficiale{font-size:14px;color:var(--tenue)}
 .elenco{margin:0 0 18px 20px;max-width:62ch}
 .elenco li{margin-bottom:8px}
+.g-stretto{display:none}
+@media (max-width:500px){
+  .g-largo{display:none}
+  .g-stretto{display:block}
+  .dieci-grafico svg{max-width:360px}
+  svg.g-svg-stretto .g-anno,svg.g-svg-stretto .g-valore,svg.g-svg-stretto .g-sigla{font-size:12px}
+  .grafico .g-anno,.grafico .g-valore{font-size:14px}
+}
+@media (max-width:360px){
+  .grafico .g-anno,.grafico .g-valore{font-size:16px}
+}

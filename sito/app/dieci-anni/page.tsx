@@ -31,7 +31,7 @@ const serieNotizie: Serie[] = [
   { nome: "Telegiornali di prima serata (anno intero)", valori: tg, tono: 1, vuoti: parziale, ultimaSotto: true },
   { nome: "Prime pagine di cinque quotidiani (gennaio–ottobre)", valori: prime, tono: 2, ultimaSotto: true },
 ];
-const serieContratti: Serie[] = [{ nome: "Contratti da 40.000 € in su", valori: contratti, tono: 1, vuoti: parziale, primaSotto: true }];
+const serieContratti: Serie[] = [{ nome: "Contratti da 40.000 € in su", valori: contratti, tono: 1, vuoti: parziale, primaSotto: true, ultimaSotto: true }];
 const serieCentri: Serie[] = [
   { nome: "Presenze nei CAS", valori: centri("cas"), lati: true, tono: 1 },
   { nome: "Presenze nel SAI", valori: centri("sai"), lati: true, tono: 2 },
@@ -106,7 +106,8 @@ export default function DieciAnni() {
         <h2 className="titolo-sezione">Le tre serie</h2>
         <figure className="dieci-grafico">
           <h3>Notizie</h3>
-          <GraficoSerie anni={anni} serie={serieNotizie} leggi={leggiGrafico} conEtichetteLeggi alt={altNotizie} margineSx={margineSx} />
+          <div className="g-largo"><GraficoSerie anni={anni} serie={serieNotizie} leggi={leggiGrafico} conEtichetteLeggi alt={altNotizie} margineSx={margineSx} /></div>
+          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieNotizie} leggi={leggiGrafico} conEtichetteLeggi alt={altNotizie} margineSx={margineSx} stretto altezza={210} /></div>
           <figcaption>
             <span><i className="g-sw gs1" />Telegiornali, anno intero</span>
             <span><i className="g-sw gs2" />Prime pagine, gennaio–ottobre</span>
@@ -116,12 +117,14 @@ export default function DieciAnni() {
         </figure>
         <figure className="dieci-grafico">
           <h3>Contratti da 40.000 € in su</h3>
-          <GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} margineSx={margineSx} />
+          <div className="g-largo"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} margineSx={margineSx} /></div>
+          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} margineSx={margineSx} stretto /></div>
           <figcaption>Punto vuoto: {ultimo}, dato provvisorio.</figcaption>
         </figure>
         <figure className="dieci-grafico">
           <h3>Presenze nei centri</h3>
-          <GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} />
+          <div className="g-largo"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} /></div>
+          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} stretto /></div>
           <figcaption>
             <span><i className="g-sw gs1" />CAS</span>
             <span><i className="g-sw gs2" />SAI</span>
