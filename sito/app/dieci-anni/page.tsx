@@ -1,12 +1,16 @@
 import Link from "next/link";
 import GraficoSerie, { type Serie } from "@/app/GraficoSerie";
 import { cronologia as c, notoCome, type Atto } from "@/lib/cronologia";
+import { centri as centriFonte } from "@/lib/centri";
 import { dataLunga, euroCent, nItal } from "@/lib/dati";
 
 const anni = c.anni;
 const primo = anni[0], ultimo = anni[anni.length - 1];
 const ultimoCentri = c.centri.anni[c.centri.anni.length - 1];
 const leggiGrafico = c.leggi.map((l) => ({ anno: l.anno, etichetta: l.sigla?.replace(/\/\d{4}$/, "") }));
+const rapporto = (anno: string) => (
+  <a href={c.rapporti[anno].url} target="_blank" rel="noopener" className="link-interno">rapporto {anno}</a>
+);
 const mesi = (iso: string) => dataLunga(iso).replace(/ \d{4}$/, "");
 
 const tg = anni.map((a) => c.telegiornali.notizie[a]);
@@ -154,9 +158,41 @@ export default function DieciAnni() {
                 <b>Notizie.</b> {nItal(c.prime_pagine.per_anno[a].totale_5_testate)} titoli sulle prime pagine di cinque quotidiani da gennaio a ottobre;
                 telegiornali di prima serata: {nItal(c.telegiornali.notizie[a])} {a === ultimo ? "notizie da gennaio a ottobre (dato parziale)" : "notizie nell'anno"}.
               </p>
+              <p className="fonte">
+                Fonti. Contratti: ANAC. Centri: Centri d&apos;Italia. Prime pagine: Carta di Roma, {rapporto(c.prime_pagine.rapporto_per_anno[a])}.
+                Telegiornali: {rapporto(c.telegiornali.rapporto)}.
+              </p>
             </section>
           );
         })}
+      </section>
+
+      <section className="sezione" id="fonti">
+        <h2 className="titolo-sezione">Fonti</h2>
+        <ul className="elenco">
+          <li>
+            Notizie: rapporti annuali di Carta di Roma, a cura dell&apos;Osservatorio di Pavia. Le prime pagine {primo}–{anni[8]} sono lette dal grafico per
+            testata e anno del {rapporto(c.prime_pagine.rapporto_per_anno[primo])}; il {anni[9]} dal {rapporto(c.prime_pagine.rapporto_per_anno[anni[9]])};
+            il {ultimo} dal {rapporto(c.prime_pagine.rapporto_per_anno[ultimo])}. Il numero di ogni anno è la somma dei titoli delle cinque testate.
+          </li>
+          <li>
+            Telegiornali: la serie ricalcolata del {rapporto(c.telegiornali.rapporto)}, ad anno intero. Per questo differisce dai valori gennaio–ottobre dei
+            rapporti dei singoli anni: per il {c.telegiornali.esempio_differenza.anno}, {nItal(c.telegiornali.esempio_differenza.serie_ricalcolata)} contro{" "}
+            {nItal(c.telegiornali.esempio_differenza.gennaio_ottobre_rapporto_2018)} nel {rapporto(c.telegiornali.esempio_differenza.anno)}.
+          </li>
+          <li>Contratti: ANAC, estratti di questo sito (<Link href="/metodologia" className="link-interno">Metodologia</Link>).</li>
+          <li>
+            Centri: <a href={centriFonte.url} target="_blank" rel="noopener" className="link-interno">Centri d&apos;Italia</a> (ActionAid e Openpolis, {centriFonte.licenza});
+            il costo dei CAS per adulti è spiegato in <Link href="/quanto-costa" className="link-interno">Quanto costa</Link>.
+          </li>
+          <li>
+            Leggi: testi ufficiali su <a href="https://www.normattiva.it" target="_blank" rel="noopener" className="link-interno">Normattiva</a>.
+          </li>
+        </ul>
+        <p className="nota-tabella">
+          I rapporti sono dell&apos;Associazione Carta di Roma, che ne detiene i diritti: questa pagina ne cita solo le cifre, ciascuna con il rapporto da cui viene,
+          senza riprodurre testi o grafici. La <Link href="/metodologia">Metodologia</Link> spiega i cambi di metodo dichiarati dai rapporti.
+        </p>
       </section>
     </main>
   );

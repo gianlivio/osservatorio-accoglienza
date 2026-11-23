@@ -2,6 +2,7 @@ import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { centri } from "@/lib/centri";
+import { cronologia } from "@/lib/cronologia";
 import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
@@ -64,6 +65,21 @@ export default function Metodologia() {
           protocollo n. 36387 del 22 aprile 2024). Entrambi applicano lo schema di capitolato del
           Ministero dell&apos;Interno approvato con decreto del 4 marzo 2024. Sono le uniche informazioni di
           quella pagina prese da fonti esterne; i due atti sono i documenti ufficiali linkati qui e nella pagina.
+        </p>
+        <p>
+          Nella pagina <Link href="/dieci-anni">Dieci anni di accoglienza</Link> le notizie sull&apos;immigrazione sono prese dai
+          rapporti annuali di Carta di Roma, a cura dell&apos;Osservatorio di Pavia: sono una fonte esterna, non un dato di questo
+          sito. I rapporti sono dell&apos;Associazione Carta di Roma, che ne detiene i diritti: il sito ne cita solo le cifre,
+          ciascuna con il rapporto da cui viene, senza riprodurre testi o grafici. Le prime pagine sono la somma dei titoli di
+          cinque quotidiani ({cronologia.prime_pagine.testate.join(", ")}), da gennaio a ottobre di ogni anno. Il Fatto Quotidiano
+          (nel campione dal 2019) e l&apos;Unità (fino al 2017) sono esclusi per avere una serie omogenea. I telegiornali di prima
+          serata vengono dalla serie ricalcolata del rapporto {cronologia.telegiornali.rapporto}, ad anno intero (per il{" "}
+          {anni[anni.length - 1]}, gennaio–ottobre, dato parziale): per questo differiscono dai valori gennaio–ottobre dei rapporti
+          dei singoli anni. Per il {cronologia.telegiornali.esempio_differenza.anno}, {nItal(cronologia.telegiornali.esempio_differenza.serie_ricalcolata)}{" "}
+          contro {nItal(cronologia.telegiornali.esempio_differenza.gennaio_ottobre_rapporto_2018)} nel rapporto di quell&apos;anno.
+          Cambi di metodo dichiarati dai rapporti: l&apos;Unità esce dal campione nel 2018, e il rapporto di quell&apos;anno ricalcola
+          la serie su cinque testate; il Fatto Quotidiano entra nel 2019. Dove rapporti diversi riportano per lo stesso anno un conteggio
+          che differisce di un titolo per una testata, si usa il valore dei rapporti più recenti.
         </p>
       </section>
 
