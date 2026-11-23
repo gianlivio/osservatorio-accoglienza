@@ -243,3 +243,7 @@ th.num .ordina{flex-direction:row-reverse}
   .tabella-leggi td:first-child{font-weight:600}
   .tabella-leggi td:nth-child(3){min-width:0}
 }
+.barra-anni{position:sticky;top:0;z-index:4;display:flex;gap:6px;overflow-x:auto;background:var(--carta);border-bottom:1px solid var(--linea);padding:8px 0;margin:0 0 28px;font-family:var(--dato);font-size:13px;-webkit-overflow-scrolling:touch}
+.barra-anni a{flex:0 0 auto;padding:4px 10px;border:1px solid var(--linea);white-space:nowrap}
+.barra-anni a:hover{background:var(--carta-scura)}
+.anno{scroll-margin-top:56px}

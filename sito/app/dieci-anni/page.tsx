@@ -93,6 +93,12 @@ export default function DieciAnni() {
         </table>
       </section>
 
+      <nav className="barra-anni" aria-label="Vai all'anno">
+        {anni.map((a) => (
+          <a key={a} href={`#anno-${a}`}>{a}</a>
+        ))}
+      </nav>
+
       <section className="sezione">
         <h2 className="titolo-sezione">Come leggere i numeri</h2>
         <ul className="elenco">
