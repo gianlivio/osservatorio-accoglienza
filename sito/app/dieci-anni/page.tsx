@@ -1,8 +1,16 @@
 import Link from "next/link";
+import JsonLd from "@/app/JsonLd";
 import GraficoSerie, { type Serie } from "@/app/GraficoSerie";
 import { cronologia as c, notoCome, type Atto } from "@/lib/cronologia";
 import { centri as centriFonte } from "@/lib/centri";
+import { breadcrumb } from "@/lib/jsonld";
+import { metadatiPagina } from "@/lib/metadati";
 import { dataLunga, euroCent, nItal } from "@/lib/dati";
+
+export const metadata = metadatiPagina(
+  "Accoglienza dei migranti 2015–2025: leggi, contratti, notizie · Osservatorio Accoglienza",
+  "Leggi sull'accoglienza, contratti, presenze e costo dei centri, notizie in prima pagina e nei telegiornali: i dati dal 2015 al 2025, anno per anno.",
+);
 
 const anni = c.anni;
 const primo = anni[0], ultimo = anni[anni.length - 1];
@@ -60,6 +68,7 @@ function Atto({ a }: { a: Atto }) {
 export default function DieciAnni() {
   return (
     <main>
+      <JsonLd dati={breadcrumb([{ nome: "Dieci anni di accoglienza", percorso: "/dieci-anni" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
       <p className="occhiello">{primo}–{ultimo} · leggi, centri, contratti, notizie</p>
       <h1 className="tesi">Dieci anni di accoglienza, <em>anno per anno</em>.</h1>

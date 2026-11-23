@@ -5,9 +5,9 @@ import { province, slug, aggiornato } from "@/lib/dati";
 const dominio = "https://osservatorioaccoglienza.org";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const pagine = ["/", "/che-cose", "/minori", "/metodologia", "/quanto-costa"].map((percorso) => ({
+  const pagine = ["/", "/che-cose", "/minori", "/metodologia", "/quanto-costa", "/dieci-anni"].map((percorso) => ({
     url: `${dominio}${percorso}`,
-    ...(percorso === "/" && { lastModified: aggiornato }),
+    ...((percorso === "/" || percorso === "/dieci-anni") && { lastModified: aggiornato }),
   }));
   const province_ = province.map((p) => ({
     url: `${dominio}/provincia/${slug(p.provincia)}`,
