@@ -30,6 +30,7 @@ const serieCentri: Serie[] = [
 ];
 const primoCentri = c.centri.anni[0];
 const margineSx = margineSinistro([serieContratti, serieCentri]);
+const margineSxStretto = margineSinistro([serieContratti, serieCentri], true);
 
 const altContratti =
   `Contratti per l'accoglienza da 40.000 € in su, ${primo}–${ultimo}: da ${nItal(contratti[0])} nel ${primo} a ${nItal(contratti[contratti.length - 1])} nel ${ultimo}, anno provvisorio disegnato come punto vuoto. Le linee tratteggiate segnano gli anni delle leggi. I valori di ogni anno sono nei blocchi sotto.`;
@@ -114,16 +115,16 @@ export default function DieciAnni() {
         <figure className="dieci-grafico">
           <h3>Contratti da 40.000 € in su</h3>
           <div className="g-largo"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} conEtichetteLeggi alt={altContratti} margineSx={margineSx} /></div>
-          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} conEtichetteLeggi alt={altContratti} margineSx={margineSx} stretto /></div>
+          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} conEtichetteLeggi alt={altContratti} margineSx={margineSxStretto} stretto /></div>
           <figcaption>
-            <span><i className="g-sw legge" />Anno di una legge della tabella (numero dell&apos;atto)</span>
+            <span><i className="g-sw g-sw-legge" />Anno di una legge della tabella (numero dell&apos;atto)</span>
             <span>Punto vuoto: {ultimo}, dato provvisorio.</span>
           </figcaption>
         </figure>
         <figure className="dieci-grafico">
           <h3>Presenze nei centri</h3>
           <div className="g-largo"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} /></div>
-          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} stretto /></div>
+          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSxStretto} stretto /></div>
           <figcaption>
             <span><i className="g-sw gs1" />CAS</span>
             <span><i className="g-sw gs2" />SAI</span>

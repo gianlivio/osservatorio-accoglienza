@@ -25,22 +25,22 @@ const massimoSerie = (serie: Serie[]) =>
 
 // Margine sinistro che contiene l'etichetta più lunga dell'asse verticale di tutti i grafici della pagina:
 // usato da ogni grafico, così gli anni restano allineati.
-export function margineSinistro(gruppi: Serie[][]) {
+export function margineSinistro(gruppi: Serie[][], stretto = false) {
   const lunghezza = Math.max(...gruppi.map((g) => nItal(massimoSerie(g)).length));
-  return Math.ceil(lunghezza * LARGHEZZA_CARATTERE) + 14;
+  return Math.ceil(lunghezza * LARGHEZZA_CARATTERE) + (stretto ? 10 : 14);
 }
 
 // Linee su un asse comune 2015-2025; linee verticali tratteggiate sugli anni delle leggi. SVG statico, nessun JavaScript.
 // `stretto`: versione per il telefono, viewBox di 300 unità con testo a 12 unità (circa 13 px a 327 px di larghezza):
-// asse verticale con le etichette sopra le linee della griglia (solo 0 e massimo), anni abbreviati; le sigle delle leggi sono numeri, su una riga.
+// asse verticale con le etichette a sinistra come nella versione larga (margine sull'etichetta più lunga), anni abbreviati; le sigle delle leggi sono numeri, su una riga.
 export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, alt, margineSx, stretto = false, altezza }: {
   anni: string[]; serie: Serie[]; leggi: Legge[]; conEtichetteLeggi?: boolean; alt: string; margineSx: number;
   stretto?: boolean; altezza?: number;
 }) {
   const L = stretto ? L_STRETTO : L_LARGO, DX = stretto ? DX_STRETTO : DX_LARGO;
-  const SX = stretto ? 14 : margineSx;
+  const SX = margineSx;
   altezza = altezza ?? (stretto ? 190 : 170);
-  const SU = stretto ? (conEtichetteLeggi ? 36 : 24) : (conEtichetteLeggi ? 30 : 14);
+  const SU = stretto ? (conEtichetteLeggi ? 38 : 24) : (conEtichetteLeggi ? 30 : 14);
   const annoBreve = (a: string) => `’${a.slice(2)}`;
   const max = massimoSerie(serie);
   const x = (i: number) => Math.round(10 * (SX + (i * (L - SX - DX)) / (anni.length - 1))) / 10;
@@ -50,12 +50,10 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
   return (
     <svg viewBox={`0 0 ${L} ${altezza}`} role="img" aria-label={alt} className={stretto ? "g-svg-stretto" : undefined}>
       <title>{alt}</title>
-      {(stretto ? [0, max] : [0, max / 2, max]).map((v) => (
+      {[0, max / 2, max].map((v) => (
         <g key={v}>
           <line className="g-asse" x1={SX} x2={L - DX} y1={y(v)} y2={y(v)} />
-          {stretto
-            ? <text className="g-anno" x={SX + 5} y={y(v) - 4} textAnchor="start">{f(v)}</text>
-            : <text className="g-anno" x={SX - 6} y={y(v) + 4} textAnchor="end">{f(v)}</text>}
+          <text className="g-anno" x={SX - 6} y={y(v) + 4} textAnchor="end">{f(v)}</text>
         </g>
       ))}
       {leggi.map((l) => {
@@ -64,7 +62,7 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
           <g key={l.anno}>
             <line className="g-legge" x1={x(i)} x2={x(i)} y1={SU - 6} y2={altezza - GIU} />
             {conEtichetteLeggi && l.etichetta && (
-              <text className="g-sigla" x={x(i)} y={SU - 12} textAnchor="middle">{l.etichetta}</text>
+              <text className="g-sigla" x={x(i)} y={stretto ? SU - 14 : SU - 12} textAnchor="middle">{l.etichetta}</text>
             )}
           </g>
         );

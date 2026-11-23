@@ -207,7 +207,7 @@ th.num .ordina{flex-direction:row-reverse}
 .g-vuoto{fill:var(--carta);stroke-width:2}
 .g-sw{display:inline-block;width:18px;height:0;border-top:3px solid;vertical-align:middle;margin-right:6px}
 .g-sw.gs1{border-color:var(--timbro)} .g-sw.gs2{border-color:color-mix(in srgb,var(--timbro) 62%,var(--carta))} .g-sw.gs3{border-color:color-mix(in srgb,var(--timbro) 36%,var(--carta))}
-.g-sw.legge{border-top:2px dashed var(--tenue);width:18px}
+.g-sw-legge{border-top:3px dashed var(--tenue)}
 .dieci-grafico{margin:0 0 30px;max-width:540px}
 .dieci-grafico svg{display:block;width:100%;height:auto}
 .dieci-grafico h3{font-family:var(--dato);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--tenue);margin:0 0 6px;font-weight:600}
@@ -227,7 +227,8 @@ th.num .ordina{flex-direction:row-reverse}
   .g-largo{display:none}
   .g-stretto{display:block}
   .dieci-grafico svg{max-width:360px}
-  svg.g-svg-stretto .g-anno,svg.g-svg-stretto .g-valore,svg.g-svg-stretto .g-sigla{font-size:12px}
+  svg.g-svg-stretto .g-anno{font-size:11px}
+  svg.g-svg-stretto .g-valore,svg.g-svg-stretto .g-sigla{font-size:12px}
   .grafico .g-anno,.grafico .g-valore{font-size:14px}
 }
 @media (max-width:360px){
