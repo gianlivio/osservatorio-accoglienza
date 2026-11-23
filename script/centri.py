@@ -72,12 +72,15 @@ if sconosciute:
 anni = sorted({a for _, a in gruppi} | set(date_sai))
 province = {}
 for (p, a), rr in sorted(gruppi.items()):
-    costi = [c for c in (num(r["costo_giornaliero_per_ospite"]) for r in rr) if c is not None]
+    # costo mediano come la serie nazionale: solo CAS per adulti (centri, capienza e presenze restano su tutti i tipi)
+    adulti = [r for r in rr if r["tipologia_centro"] == "CAS ADULTI"]
+    costi = [c for c in (num(r["costo_giornaliero_per_ospite"]) for r in adulti) if c is not None]
     province.setdefault(p, {}).setdefault(a, {})["cas"] = {
         "centri": len({r["centro_id"] for r in rr}),
         "capienza": somma(num(r["capienza"]) for r in rr),
         "presenze": somma(num(r["presenze_giornaliere"]) for r in rr),
         "costo_mediano": round(statistics.median(costi), 2) if costi else None,
+        "costo_centri": len({r["centro_id"] for r in adulti if num(r["costo_giornaliero_per_ospite"]) is not None}),
     }
 for (p, a), rr in sorted(progetti.items()):
     province.setdefault(p, {}).setdefault(a, {})["sai"] = {

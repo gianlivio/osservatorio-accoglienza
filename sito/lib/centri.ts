@@ -1,6 +1,6 @@
 import dati from "@/data/centri.json";
 
-export type BloccoCas = { centri: number; capienza: number | null; presenze: number | null; costo_mediano: number | null };
+export type BloccoCas = { centri: number; capienza: number | null; presenze: number | null; costo_mediano: number | null; costo_centri: number };
 export type BloccoSai = { progetti: number; capienza: number | null; presenze: number | null; senza_presenze: number };
 export type CentriAnno = { cas?: BloccoCas; sai?: BloccoSai };
 

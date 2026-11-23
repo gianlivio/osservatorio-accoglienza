@@ -95,7 +95,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           <div className="cifra"><b>{nItal(t.canale_ente_locale)}</b><span>firmati da comuni o enti locali</span></div>
           <div className="cifra"><b>{nItal(t.prosecuzioni)}</b><span>rinnovi di contratti già in corso</span></div>
           {costoUltimo !== null && (
-            <div className="cifra"><b>{euroCent(costoUltimo)}</b><span><a href="#posti-e-presenze" className="link-interno">costo mediano per ospite al giorno, {annoCosto}</a></span></div>
+            <div className="cifra"><b>{euroCent(costoUltimo)}</b><span><a href="#posti-e-presenze" className="link-interno">costo mediano dei CAS per adulti, {annoCosto}</a></span></div>
           )}
         </div>
       </section>
@@ -203,10 +203,10 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           CAS, centri di prima accoglienza e hotspot, un anno per volta.
         </p>
         <table className="tabella tabella-centri">
-          <caption className="sr-only">Centri di accoglienza straordinaria e di prima accoglienza: centri, posti, presenze e costo mediano</caption>
+          <caption className="sr-only">Centri di accoglienza straordinaria e di prima accoglienza: centri, posti, presenze e costo mediano dei CAS per adulti</caption>
           <thead>
             <tr><th>Anno</th><th className="num">Centri</th><th className="num">Capienza</th>
-            <th className="num">Presenze</th><th className="num">Costo mediano (€/giorno)</th></tr>
+            <th className="num">Presenze</th><th className="num">Costo mediano dei CAS per adulti (€/giorno)</th></tr>
           </thead>
           <tbody>
             {centri.anni.map((a) => {
@@ -266,7 +266,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           {Object.entries(centri.rilevazioni_sai).filter(([a]) => !sai31dic(a)).map(([a, d]) => (
             <span key={a}>; per il SAI {a}, al {dataIt(d)}</span>
           ))}
-          . n.d.: il valore non compare nel file della fonte. Nella colonna Presenze, sotto il valore, i progetti senza il dato. Costo mediano: valore centrale del costo giornaliero per ospite fra i centri della provincia.
+          . n.d.: il valore non compare nel file della fonte. Nella colonna Presenze, sotto il valore, i progetti senza il dato. Costo mediano dei CAS per adulti: valore centrale del costo giornaliero per ospite fra i CAS per adulti della provincia; n.d. se nessuno ha il dato.
         </p>
       </section>
 

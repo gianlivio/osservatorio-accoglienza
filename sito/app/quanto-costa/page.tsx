@@ -40,12 +40,13 @@ const datasetJsonLd = {
   isBasedOn: fonteCentri,
 };
 
-// Province con almeno SOGLIA_CENTRI centri nell'ultimo anno: estremi e valore centrale delle mediane provinciali.
+// Province con almeno SOGLIA_CENTRI CAS per adulti con il costo nell'ultimo anno: estremi e valore centrale delle mediane provinciali.
 const province = Object.entries(centri.province)
   .map(([nome, per]) => ({ nome, cas: per[ultimo]?.cas }))
   .filter((p): p is { nome: string; cas: NonNullable<typeof p.cas> } => !!p.cas && p.cas.costo_mediano !== null);
-const incluse = province.filter((p) => p.cas.centri >= SOGLIA_CENTRI).sort((a, b) => a.cas.costo_mediano! - b.cas.costo_mediano!);
-const escluse = province.length - incluse.length;
+const incluse = province.filter((p) => p.cas.costo_centri >= SOGLIA_CENTRI).sort((a, b) => a.cas.costo_mediano! - b.cas.costo_mediano!);
+const conCas = Object.values(centri.province).filter((per) => per[ultimo]?.cas).length;
+const escluse = conCas - incluse.length;
 const minima = incluse[0], massima = incluse[incluse.length - 1];
 const centrale = (() => {
   const v = incluse.map((p) => p.cas.costo_mediano!);
@@ -69,12 +70,12 @@ const elencoRegioni = Object.entries(regioni).map(([regione, nomi]) => ({
   righe: nomi.map((nome) => ({ nome, costo: centri.province[nome]?.[ultimo]?.cas?.costo_mediano ?? null })),
 }));
 
-function Estremo({ p }: { p: { nome: string; cas: { centri: number; costo_mediano: number | null } } }) {
+function Estremo({ p }: { p: { nome: string; cas: { costo_centri: number; costo_mediano: number | null } } }) {
   return (
     <>
       {nItal2(p.cas.costo_mediano!)} € a{" "}
       <Link href={`/provincia/${slug(p.nome)}`} className="link-interno">{nomeProvincia(p.nome)}</Link>
-      {" "}({nItal(p.cas.centri)} centri)
+      {" "}({nItal(p.cas.costo_centri)} CAS)
     </>
   );
 }
@@ -133,11 +134,11 @@ export default function QuantoCosta() {
 
       <section className="sezione sezione-ricerca">
         <h2 className="titolo-sezione">Quanto costa nella tua provincia</h2>
-        <p>Il costo mediano dei centri, provincia per provincia, nell&apos;ultimo anno disponibile.</p>
+        <p>Il costo mediano dei CAS per adulti, provincia per provincia, nell&apos;ultimo anno disponibile.</p>
         <Ricerca solo="province" />
         <details className="elenco-province" open>
           <summary>Tutte le province</summary>
-          <p className="nota-tabella">Costo giornaliero mediano per ospite, {ultimo}.</p>
+          <p className="nota-tabella">Costo mediano dei CAS per adulti, per ospite al giorno, {ultimo}. n.d.: nessun CAS per adulti della provincia ha il dato.</p>
           {elencoRegioni.map(({ regione, righe }) => (
             <div key={regione}>
               <h3 className="titolo-regione">{regione}</h3>
@@ -241,14 +242,14 @@ export default function QuantoCosta() {
       <section className="sezione">
         <h2 className="titolo-sezione">Differenze tra province, {ultimo}</h2>
         <p>
-          Tra le {nItal(incluse.length)} province con almeno {SOGLIA_CENTRI} centri, il costo giornaliero
-          mediano va da <Estremo p={minima} /> a <Estremo p={massima} />. Il valore centrale tra
+          Tra le {nItal(incluse.length)} province con almeno {SOGLIA_CENTRI} CAS per adulti con il costo, il
+          costo mediano dei CAS per adulti va da <Estremo p={minima} /> a <Estremo p={massima} />. Il valore centrale tra
           le mediane provinciali è {nItal2(centrale)} €.
         </p>
         <p className="nota-tabella">
-          Le province escluse perché hanno meno di {SOGLIA_CENTRI} centri sono {nItal(escluse)}. Il valore di
-          ogni provincia riunisce CAS e centri di prima accoglienza e non è pesato per numero di
-          centri o di posti.
+          Le province escluse perché hanno meno di {SOGLIA_CENTRI} CAS per adulti con il costo sono {nItal(escluse)}.
+          Il valore di ogni provincia è la mediana dei suoi CAS per adulti, come nella serie nazionale, e non è
+          pesato per numero di centri o di posti.
         </p>
       </section>
 
