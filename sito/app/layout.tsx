@@ -32,7 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <div className="guscio">
           <header className="testata">
             <Link href="/" className="marchio">Osservatorio Accoglienza</Link>
-            <span className="meta"><Link href="/che-cose">Che cos&apos;è</Link> · <Link href="/minori">Minori</Link> · <Link href="/metodologia">Metodologia</Link> </span>
+            <span className="meta"><Link href="/che-cose">Che cos&apos;è</Link> · <Link href="/quanto-costa">Quanto costa</Link> · <Link href="/minori">Minori</Link> · <Link href="/metodologia">Metodologia</Link> </span>
           </header>
           {children}
           <footer className="pie">
