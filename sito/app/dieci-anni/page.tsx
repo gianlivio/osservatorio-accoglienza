@@ -15,7 +15,7 @@ export const metadata = metadatiPagina(
 const anni = c.anni;
 const primo = anni[0], ultimo = anni[anni.length - 1];
 const ultimoCentri = c.centri.anni[c.centri.anni.length - 1];
-const leggiGrafico = c.leggi.map((l) => ({ anno: l.anno, etichetta: l.sigla?.replace(/\/\d{4}$/, "") }));
+const leggiGrafico = c.leggi.map((l) => ({ anno: l.anno, etichetta: l.sigla?.match(/(\d+)\/\d{4}$/)?.[1] }));
 const mesi = (iso: string) => dataLunga(iso).replace(/ \d{4}$/, "");
 
 const contratti = anni.map((a) => c.contratti_40k.affidamenti_40k[a]);
@@ -32,7 +32,7 @@ const primoCentri = c.centri.anni[0];
 const margineSx = margineSinistro([serieContratti, serieCentri]);
 
 const altContratti =
-  `Contratti per l'accoglienza da 40.000 € in su, ${primo}–${ultimo}: da ${nItal(contratti[0])} nel ${primo} a ${nItal(contratti[contratti.length - 1])} nel ${ultimo}, anno provvisorio disegnato come punto vuoto. I valori di ogni anno sono nei blocchi sotto.`;
+  `Contratti per l'accoglienza da 40.000 € in su, ${primo}–${ultimo}: da ${nItal(contratti[0])} nel ${primo} a ${nItal(contratti[contratti.length - 1])} nel ${ultimo}, anno provvisorio disegnato come punto vuoto. Le linee tratteggiate segnano gli anni delle leggi. I valori di ogni anno sono nei blocchi sotto.`;
 const altCentri =
   `Presenze nei centri, ${primoCentri}–${ultimoCentri}: CAS da ${nItal(c.centri.presenze[primoCentri].cas)} a ${nItal(c.centri.presenze[ultimoCentri].cas)}; ` +
   `SAI da ${nItal(c.centri.presenze[primoCentri].sai)} a ${nItal(c.centri.presenze[ultimoCentri].sai)}; ` +
@@ -81,12 +81,15 @@ export default function DieciAnni() {
       </section>
 
       <section className="sezione">
-        <h2 className="titolo-sezione">Le tre serie</h2>
+        <h2 className="titolo-sezione">Le due serie</h2>
         <figure className="dieci-grafico">
           <h3>Contratti da 40.000 € in su</h3>
-          <div className="g-largo"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} margineSx={margineSx} /></div>
-          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} alt={altContratti} margineSx={margineSx} stretto /></div>
-          <figcaption>Punto vuoto: {ultimo}, dato provvisorio.</figcaption>
+          <div className="g-largo"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} conEtichetteLeggi alt={altContratti} margineSx={margineSx} /></div>
+          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} conEtichetteLeggi alt={altContratti} margineSx={margineSx} stretto /></div>
+          <figcaption>
+            <span><i className="g-sw legge" />Anno di una legge della tabella (numero dell&apos;atto)</span>
+            <span>Punto vuoto: {ultimo}, dato provvisorio.</span>
+          </figcaption>
         </figure>
         <figure className="dieci-grafico">
           <h3>Presenze nei centri</h3>

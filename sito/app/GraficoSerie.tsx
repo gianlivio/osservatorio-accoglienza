@@ -32,7 +32,7 @@ export function margineSinistro(gruppi: Serie[][]) {
 
 // Linee su un asse comune 2015-2025; linee verticali tratteggiate sugli anni delle leggi. SVG statico, nessun JavaScript.
 // `stretto`: versione per il telefono, viewBox di 300 unità con testo a 12 unità (circa 13 px a 327 px di larghezza):
-// asse verticale con le etichette sopra le linee della griglia (solo 0 e massimo), anni abbreviati, sigle delle leggi su due righe.
+// asse verticale con le etichette sopra le linee della griglia (solo 0 e massimo), anni abbreviati; le sigle delle leggi sono numeri, su una riga.
 export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, alt, margineSx, stretto = false, altezza }: {
   anni: string[]; serie: Serie[]; leggi: Legge[]; conEtichetteLeggi?: boolean; alt: string; margineSx: number;
   stretto?: boolean; altezza?: number;
@@ -40,7 +40,7 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
   const L = stretto ? L_STRETTO : L_LARGO, DX = stretto ? DX_STRETTO : DX_LARGO;
   const SX = stretto ? 14 : margineSx;
   altezza = altezza ?? (stretto ? 190 : 170);
-  const SU = stretto ? (conEtichetteLeggi ? 48 : 24) : (conEtichetteLeggi ? 30 : 14);
+  const SU = stretto ? (conEtichetteLeggi ? 36 : 24) : (conEtichetteLeggi ? 30 : 14);
   const annoBreve = (a: string) => `’${a.slice(2)}`;
   const max = massimoSerie(serie);
   const x = (i: number) => Math.round(10 * (SX + (i * (L - SX - DX)) / (anni.length - 1))) / 10;
@@ -58,15 +58,13 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
             : <text className="g-anno" x={SX - 6} y={y(v) + 4} textAnchor="end">{f(v)}</text>}
         </g>
       ))}
-      {leggi.map((l, k) => {
+      {leggi.map((l) => {
         const i = anni.indexOf(l.anno);
-        // sul telefono le sigle stanno su due righe alternate, per non sovrapporsi
-        const rigaY = stretto ? SU - (k % 2 === 0 ? 30 : 16) : SU - 12;
         return (
           <g key={l.anno}>
-            <line className="g-legge" x1={x(i)} x2={x(i)} y1={stretto ? rigaY + 4 : SU - 6} y2={altezza - GIU} />
+            <line className="g-legge" x1={x(i)} x2={x(i)} y1={SU - 6} y2={altezza - GIU} />
             {conEtichetteLeggi && l.etichetta && (
-              <text className="g-sigla" x={x(i)} y={rigaY} textAnchor={i === 0 ? "start" : "middle"}>{l.etichetta}</text>
+              <text className="g-sigla" x={x(i)} y={SU - 12} textAnchor="middle">{l.etichetta}</text>
             )}
           </g>
         );
