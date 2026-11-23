@@ -1,6 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/next";
 import { anni } from "@/lib/dati";
 
 export const metadata: Metadata = {
@@ -43,6 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             Un progetto di <a href="https://gianlivioiemolo.com" target="_blank" rel="noopener">Gianlivio Iemolo</a>
           </footer>
         </div>
+        <Analytics />
       </body>
     </html>
   );
