@@ -7,12 +7,14 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - `script/estrai2.py`: filtra un file CIG mensile ANAC (CPV, FORTI/DEBOLI/VETO, esclusione della sola formazione); scrive `accoglienza_ANNO_MM.csv`.
 - `script/costruisci.py`: unisce estratti, aggiudicazioni e aggiudicatari; produce tutti i JSON e i CSV del sito.
 - `script/centri.py`: aggrega Centri d'Italia (CAS, prima accoglienza, SAI) per provincia e anno.
+- `script/cronologia.py`: scrive `sito/data/cronologia.json` per `/dieci-anni`: legge `province-lite.json` e `centri.json` e contiene, con rapporto e pagina, le cifre citate da Carta di Roma / Osservatorio di Pavia (i PDF stanno in `dati-media/`, non versionata).
+- `script/mappa.py`: tracciati delle province (confini ISTAT generalizzati, `dati-istat/confini/`) → `sito/data/mappa.json`, usato dalla mappa della home.
 - `script/estrai_msna.py`: estrae i minori non accompagnati dai PDF del Ministero in `sito/data/msna.json`.
 - `script/esclusi.csv`: CIG esclusi a mano (cig, motivo). `unisci.py`, `consolida.py`, `aggiudicatari.py`: analisi su un solo anno, fuori dalla pipeline.
 - `output/`: versionati solo gli estratti mensili `accoglienza_ANNO_MM.csv`; i `*_completo.csv` sono ignorati.
 - `dati-grezzi/`, `dati-centri/`, `dati-msna*/`, `dati-istat/`: non versionate (ANAC, Centri d'Italia, PDF del Ministero).
 - `.github/workflows/aggiorna.yml`: il 25 di ogni mese apre una issue con i comandi di aggiornamento.
-- `sito/app/`: pagine `/`, `/che-cose`, `/minori`, `/metodologia`, `/quanto-costa`, `/provincia/[slug]` (con `feed.xml`), `/ente/[slug]`, `/feed.xml`, `/ricerca.json`, `sitemap.ts`, `robots.ts`; `Ricerca.tsx` è l'unico componente caricato dalla home oltre alla tabella.
+- `sito/app/`: pagine `/`, `/che-cose`, `/minori`, `/metodologia`, `/quanto-costa`, `/dieci-anni`, `/provincia/[slug]` (con `feed.xml`), `/ente/[slug]`, `/feed.xml`, `/ricerca.json`, `sitemap.ts`, `robots.ts`; `Ricerca.tsx` è l'unico componente caricato dalla home oltre alla tabella.
 - `sito/lib/`: `dati.ts` (tipi, `slug`, `nomeProvincia`, `nItal`, `euro`), `enti.ts`, `centri.ts`, `regioni.ts` (provincia→regione), `nomi.ts` (`nomeEnte`), `jsonld.ts`, `metadati.ts`, `feed.ts`.
 - `sito/data/`: `province-lite.json` (totali e anni per provincia, caricato dalla home), `provincia/<slug>.json`, `ente/<slug>.json` + `enti.json`, `centri.json`, `msna.json`. `sito/public/dati/`: CSV scaricabili (uno per provincia, `contratti.csv`).
 
@@ -35,6 +37,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - Preciso, piano, senza interpretazioni (niente "solo", "elevato", "preoccupante"). Modello di voce: la pagina `/che-cose`.
 - Cifre solo dai dati, mai scritte a mano: si leggono da JSON o da `nItal`/`euro` (separatore delle migliaia sempre attivo).
 - Unica eccezione: il pocket money di 2,50 € al giorno in `/quanto-costa` non viene dai dati ma da una decisione di contrarre della Prefettura di Chieti (prot. 41889 del 10/05/2024, che applica il capitolato del D.M. 4 marzo 2024); l'obbligo di versarlo in denaro da una determinazione a contrarre della Prefettura di Avellino (prot. 36387 del 22/04/2024). Sta in `sito/lib/capitolato.ts` ed è dichiarata in `/metodologia` e nella pagina; nessun'altra cifra esterna senza dichiararla così.
+- Seconda eccezione: le notizie di `/dieci-anni` (prime pagine e telegiornali) sono cifre dei rapporti di Carta di Roma, scritte in `script/cronologia.py` con il rapporto di provenienza, citate nella pagina e dichiarate in `/metodologia`. Dei rapporti si citano solo le cifre, mai testi o grafici. I telegiornali vengono dalla serie ricalcolata del rapporto 2025 (anno intero) e non si mescolano con i valori gennaio–ottobre dei rapporti dei singoli anni.
 - Dove un dato manca, si dice ("n.d.", "nessun centro nei dati"), non si mette 0.
 
 ## SEO
