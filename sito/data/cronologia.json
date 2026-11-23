@@ -280,7 +280,23 @@
    "titolo": "Attuazione della direttiva 2013/33/UE recante norme relative all'accoglienza dei richiedenti protezione internazionale, nonché della direttiva 2013/32/UE, recante procedure comuni ai fini del riconoscimento e della revoca dello status di protezione internazionale.",
    "urn": "urn:nir:stato:decreto.legislativo:2015-08-18;142",
    "cosa_cambia": "Definisce il sistema di accoglienza in due fasi: prima accoglienza (centri governativi, art. 9; strutture temporanee disposte dal prefetto, art. 11) e seconda accoglienza (art. 14, sistema degli enti locali). I minori non accompagnati sono accolti in strutture di prima accoglienza per non più di sessanta giorni (art. 19).",
+   "in_breve": "Mette in ordine l'accoglienza dei richiedenti asilo in due fasi: prima i centri governativi, o le strutture temporanee aperte dal prefetto quando i posti finiscono, poi il sistema degli enti locali. I minori soli restano in prima accoglienza per non più di sessanta giorni.",
    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;142"
+  },
+  {
+   "anno": "2017",
+   "atto": "L. 7 aprile 2017, n. 47",
+   "data": "2017-04-07",
+   "gu": "2017-04-21",
+   "noto_come": [
+    "legge Zampa"
+   ],
+   "sigla": "L. 47/2017",
+   "titolo": "Disposizioni in materia di misure di protezione dei minori stranieri non accompagnati.",
+   "urn": "urn:nir:stato:legge:2017-04-07;47",
+   "cosa_cambia": "Per i minori stranieri non accompagnati: strutture di prima accoglienza a loro destinate, per non più di trenta giorni (erano sessanta), con identificazione da concludere entro dieci giorni (art. 4); accoglienza poi nel sistema di protezione degli enti locali, nei progetti destinati ai minori (art. 12); affidamento familiare da promuovere in via prioritaria rispetto al ricovero in una struttura (art. 7).",
+   "in_breve": "Per i minori soli prevede strutture di prima accoglienza dedicate, per non più di trenta giorni (prima erano sessanta), con l'identificazione entro dieci giorni. Poi li accoglie il sistema degli enti locali, in progetti per i minori; l'affidamento a una famiglia va promosso prima del ricovero in una struttura.",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-04-07;47"
   },
   {
    "anno": "2018",
@@ -297,6 +313,7 @@
    "urn": "urn:nir:stato:decreto.legge:2018-10-04;113",
    "urn_conversione": "urn:nir:stato:legge:2018-12-01;132",
    "cosa_cambia": "Il sistema di accoglienza degli enti locali (art. 1-sexies D.L. 416/1989) riguarda ora i titolari di protezione internazionale e i minori stranieri non accompagnati, non più i richiedenti asilo (art. 12). In conversione: monitoraggio dei flussi per la progressiva chiusura delle strutture temporanee (art. 12-bis) e obblighi di trasparenza per le cooperative sociali (art. 12-ter).",
+   "in_breve": "Il sistema degli enti locali è riservato a chi ha già la protezione internazionale e ai minori soli, non più ai richiedenti asilo. Il Ministero dell'Interno deve monitorare i flussi in vista della progressiva chiusura delle strutture temporanee. Le cooperative sociali che lavorano con gli stranieri devono pubblicare ogni tre mesi a chi versano somme per i servizi.",
    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113",
    "url_conversione": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-01;132"
   },
@@ -314,6 +331,7 @@
    "urn": "urn:nir:stato:decreto.legge:2020-10-21;130",
    "urn_conversione": "urn:nir:stato:legge:2020-12-18;173",
    "cosa_cambia": "I richiedenti protezione internazionale sono di nuovo accolti, nei limiti dei posti, nel «Sistema di accoglienza e integrazione», con servizi di primo livello e di secondo livello (integrazione, orientamento al lavoro, formazione) (art. 4). Percorsi di integrazione alla scadenza dell'accoglienza (art. 5).",
+   "in_breve": "I richiedenti asilo tornano nel sistema degli enti locali, che si chiama ora «accoglienza e integrazione», nei limiti dei posti. Ha due livelli di servizi: il secondo comprende orientamento al lavoro e formazione.",
    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-10-21;130",
    "url_conversione": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-18;173"
   },
@@ -331,6 +349,7 @@
    "urn": "urn:nir:stato:decreto.legge:2023-03-10;20",
    "urn_conversione": "urn:nir:stato:legge:2023-05-05;50",
    "cosa_cambia": "Aggiunti in conversione: i richiedenti protezione internazionale escono dal sistema dell'art. 1-sexies D.L. 416/1989, salvo chi è arrivato con corridoi umanitari, evacuazioni o reinsediamenti (art. 5-ter); potenziamento tecnico-logistico dei punti di crisi e dei centri di prima accoglienza, con deroghe fino al 31 dicembre 2025 (art. 5-bis); riduzione o revoca delle condizioni di accoglienza (art. 5-quater).",
+   "in_breve": "I richiedenti asilo escono di nuovo dal sistema degli enti locali, salvo chi è arrivato con corridoi umanitari, evacuazioni o reinsediamenti. Sono previste la riduzione o la revoca delle condizioni di accoglienza.",
    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-03-10;20",
    "url_conversione": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-05-05;50"
   }
@@ -348,6 +367,7 @@
    "urn": "urn:nir:stato:legge:1998-03-06;40",
    "nota": "Confluita nel D.Lgs. 25 luglio 1998, n. 286 (testo unico), di cui è l'origine: art. 12, 18 e 38 della legge corrispondono agli art. 14, 20 e 40 del testo unico.",
    "cosa_cambia": "Prevede centri di accoglienza predisposti dalle Regioni per stranieri regolarmente soggiornanti (art. 38), misure straordinarie di accoglienza per eventi eccezionali (art. 18) e il trattenimento nei centri di permanenza temporanea (art. 12). Non parla dell'accoglienza dei richiedenti asilo.",
+   "in_breve": "Prevede centri di accoglienza organizzati dalle Regioni per gli stranieri in regola con il soggiorno, e i centri in cui è trattenuto chi deve essere espulso. Non parla dei richiedenti asilo.",
    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-06;40"
   },
   {
@@ -361,6 +381,7 @@
    "titolo": "Modifica alla normativa in materia di immigrazione e di asilo.",
    "urn": "urn:nir:stato:legge:2002-07-30;189",
    "cosa_cambia": "Inserisce nel D.L. 416/1989 il «Sistema di protezione per richiedenti asilo e rifugiati»: gli enti locali che accolgono richiedenti asilo e rifugiati accedono al Fondo nazionale per le politiche e i servizi dell'asilo (art. 32, nuovi art. 1-sexies e 1-septies).",
+   "in_breve": "Crea il sistema con cui i Comuni e gli altri enti locali accolgono richiedenti asilo e rifugiati, con i soldi di un fondo nazionale. Dice anche in quali casi un richiedente asilo può essere trattenuto in un centro.",
    "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189"
   }
  ],

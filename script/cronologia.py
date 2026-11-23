@@ -74,6 +74,10 @@ LEGGI = [
      "titolo": "Attuazione della direttiva 2013/33/UE recante norme relative all'accoglienza dei richiedenti protezione internazionale, nonché della direttiva 2013/32/UE, recante procedure comuni ai fini del riconoscimento e della revoca dello status di protezione internazionale.",
      "urn": "urn:nir:stato:decreto.legislativo:2015-08-18;142",
      "cosa_cambia": "Definisce il sistema di accoglienza in due fasi: prima accoglienza (centri governativi, art. 9; strutture temporanee disposte dal prefetto, art. 11) e seconda accoglienza (art. 14, sistema degli enti locali). I minori non accompagnati sono accolti in strutture di prima accoglienza per non più di sessanta giorni (art. 19)."},
+    {"anno": "2017", "atto": "L. 7 aprile 2017, n. 47", "data": "2017-04-07", "gu": "2017-04-21", "noto_come": ["legge Zampa"], "sigla": "L. 47/2017",
+     "titolo": "Disposizioni in materia di misure di protezione dei minori stranieri non accompagnati.",
+     "urn": "urn:nir:stato:legge:2017-04-07;47",
+     "cosa_cambia": "Per i minori stranieri non accompagnati: strutture di prima accoglienza a loro destinate, per non più di trenta giorni (erano sessanta), con identificazione da concludere entro dieci giorni (art. 4); accoglienza poi nel sistema di protezione degli enti locali, nei progetti destinati ai minori (art. 12); affidamento familiare da promuovere in via prioritaria rispetto al ricovero in una struttura (art. 7)."},
     {"anno": "2018", "atto": "D.L. 4 ottobre 2018, n. 113, convertito dalla L. 1 dicembre 2018, n. 132", "data": "2018-10-04", "gu": "2018-10-04",
      "data_conversione": "2018-12-01", "noto_come": ["decreto sicurezza", "decreto Salvini"], "sigla": "D.L. 113/2018",
      "titolo": "Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonché misure per la funzionalità del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalità organizzata.",
@@ -101,8 +105,19 @@ ORIGINE = [
 ]
 
 
+IN_BREVE = {
+    "1998": "Prevede centri di accoglienza organizzati dalle Regioni per gli stranieri in regola con il soggiorno, e i centri in cui è trattenuto chi deve essere espulso. Non parla dei richiedenti asilo.",
+    "2002": "Crea il sistema con cui i Comuni e gli altri enti locali accolgono richiedenti asilo e rifugiati, con i soldi di un fondo nazionale. Dice anche in quali casi un richiedente asilo può essere trattenuto in un centro.",
+    "2015": "Mette in ordine l'accoglienza dei richiedenti asilo in due fasi: prima i centri governativi, o le strutture temporanee aperte dal prefetto quando i posti finiscono, poi il sistema degli enti locali. I minori soli restano in prima accoglienza per non più di sessanta giorni.",
+    "2017": "Per i minori soli prevede strutture di prima accoglienza dedicate, per non più di trenta giorni (prima erano sessanta), con l'identificazione entro dieci giorni. Poi li accoglie il sistema degli enti locali, in progetti per i minori; l'affidamento a una famiglia va promosso prima del ricovero in una struttura.",
+    "2018": "Il sistema degli enti locali è riservato a chi ha già la protezione internazionale e ai minori soli, non più ai richiedenti asilo. Il Ministero dell'Interno deve monitorare i flussi in vista della progressiva chiusura delle strutture temporanee. Le cooperative sociali che lavorano con gli stranieri devono pubblicare ogni tre mesi a chi versano somme per i servizi.",
+    "2020": "I richiedenti asilo tornano nel sistema degli enti locali, che si chiama ora «accoglienza e integrazione», nei limiti dei posti. Ha due livelli di servizi: il secondo comprende orientamento al lavoro e formazione.",
+    "2023": "I richiedenti asilo escono di nuovo dal sistema degli enti locali, salvo chi è arrivato con corridoi umanitari, evacuazioni o reinsediamenti. Sono previste la riduzione o la revoca delle condizioni di accoglienza.",
+}
+
 NORMATTIVA = "https://www.normattiva.it/uri-res/N2Ls?"
 for _l in LEGGI + ORIGINE:
+    _l["in_breve"] = IN_BREVE[_l["anno"]]
     _l["url"] = NORMATTIVA + _l["urn"]
     if "urn_conversione" in _l:
         _l["url_conversione"] = NORMATTIVA + _l["urn_conversione"]
