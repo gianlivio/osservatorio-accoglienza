@@ -69,6 +69,10 @@ export default function Home() {
           Le classi hanno più o meno lo stesso numero di province.
         </p>
         <MappaItalia />
+        <p className="nota-tabella">
+          Le province con pochi contratti hanno quote meno stabili: il numero di contratti di ogni
+          provincia compare passando sopra la mappa.
+        </p>
       </section>
 
       <section className="sezione">
