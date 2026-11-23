@@ -70,6 +70,29 @@ export default function DieciAnni() {
         </p>
       </div>
 
+      <section className="sezione" id="leggi-in-breve">
+        <h2 className="titolo-sezione">Le leggi in breve</h2>
+        <table className="tabella tabella-leggi">
+          <caption className="sr-only">Le leggi sul sistema di accoglienza: anno, nome, cosa cambia, link al blocco dell&apos;anno</caption>
+          <thead>
+            <tr><th>Anno</th><th>Nome</th><th>Cosa cambia</th><th>Blocco</th></tr>
+          </thead>
+          <tbody>
+            {[...c.origine, ...c.leggi].map((a) => (
+              <tr key={a.anno}>
+                <td>{a.anno}</td>
+                <td>
+                  {a.sigla ?? a.atto}
+                  {a.noto_come.length > 0 && <small>noto come {notoCome(a.noto_come)}</small>}
+                </td>
+                <td>{a.in_breve}</td>
+                <td><a href={Number(a.anno) < Number(primo) ? "#prima-del-2015" : `#anno-${a.anno}`} className="link-interno">vai →</a></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+
       <section className="sezione">
         <h2 className="titolo-sezione">Come leggere i numeri</h2>
         <ul className="elenco">
@@ -103,7 +126,7 @@ export default function DieciAnni() {
         </figure>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="prima-del-2015">
         <h2 className="titolo-sezione">Prima del {primo}</h2>
         <div className="prosa">
           {c.origine.map((a) => (
@@ -122,7 +145,7 @@ export default function DieciAnni() {
           const p = c.centri.presenze[a];
           const sai = c.centri.rilevazioni_sai[a];
           return (
-            <section className="anno" id={a} key={a}>
+            <section className="anno" id={`anno-${a}`} key={a}>
               <h3>{a}</h3>
               {legge && <Atto a={legge} />}
               <p>

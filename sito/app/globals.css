@@ -233,3 +233,13 @@ th.num .ordina{flex-direction:row-reverse}
 @media (max-width:360px){
   .grafico .g-anno,.grafico .g-valore{font-size:16px}
 }
+.tabella-leggi td:nth-child(3){font-family:var(--testo);font-size:15px;line-height:1.45;min-width:240px}
+.tabella-leggi td small{display:block;font-size:12px;color:var(--tenue)}
+.tabella-leggi td:first-child{white-space:nowrap}
+@media (max-width:600px){
+  .tabella-leggi thead{display:none}
+  .tabella-leggi tr{display:block;padding:10px 0;border-bottom:1px solid var(--linea)}
+  .tabella-leggi td{display:block;border:0;padding:0 0 4px;white-space:normal}
+  .tabella-leggi td:first-child{font-weight:600}
+  .tabella-leggi td:nth-child(3){min-width:0}
+}
