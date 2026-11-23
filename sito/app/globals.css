@@ -166,3 +166,12 @@ th.num .ordina{flex-direction:row-reverse}
 .elenco-province summary:focus-visible{outline:2px solid var(--timbro);outline-offset:2px}
 .titolo-regione{font-family:var(--dato);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--tenue);margin:22px 0 6px}
 @media (max-width: 640px){.sezione-ricerca{overflow:visible}}
+.grafico{margin:0 0 22px;max-width:520px}
+.grafico svg{display:block;width:100%;height:auto}
+.grafico figcaption{margin:6px 0 0}
+.g-asse{stroke:var(--linea);stroke-width:1}
+.g-fascia{fill:var(--timbro);fill-opacity:.14}
+.g-linea{fill:none;stroke:var(--timbro);stroke-width:2;stroke-linejoin:round}
+.g-punto{fill:var(--timbro)}
+.g-anno,.g-valore{font-family:var(--dato);font-size:12px;fill:var(--tenue)}
+.g-valore{font-weight:600;fill:var(--inchiostro)}

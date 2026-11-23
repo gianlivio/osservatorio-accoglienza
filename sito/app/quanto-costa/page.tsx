@@ -1,6 +1,7 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import Ricerca from "@/app/Ricerca";
+import GraficoCosto from "@/app/GraficoCosto";
 import { slug, nomeProvincia, nItal, nItal2, euroCent, dataLunga } from "@/lib/dati";
 import { centri, type Tipo } from "@/lib/centri";
 import { regioni } from "@/lib/regioni";
@@ -101,6 +102,7 @@ export default function QuantoCosta() {
           {" "}{ultimo}. Nella tabella, per ogni anno: la mediana, il primo e il terzo quartile (tra i
           quali cade la metà dei valori) e il numero di centri con il dato.
         </p>
+        <GraficoCosto punti={anni.map((a) => ({ anno: a, mediana: adulti(a).mediana!, q1: adulti(a).q1!, q3: adulti(a).q3! }))} />
         <table className="tabella">
           <caption className="sr-only">Costo giornaliero per ospite nei CAS per adulti: mediana, primo e terzo quartile, centri con il dato</caption>
           <thead>
