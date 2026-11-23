@@ -1,0 +1,49 @@
+import mappa from "@/data/mappa.json";
+import { province, slug, nomeProvincia, nItal } from "@/lib/dati";
+
+const CLASSI = 5;
+const perc = (n: number) => `${n.toLocaleString("it-IT", { minimumFractionDigits: 1, maximumFractionDigits: 1 })}%`;
+const tracciati = mappa.province as Record<string, { sigla: string; d: string }>;
+
+// Mappa a classi della quota di contratti senza gara (affidamenti diretti), totale dell'archivio.
+// SVG statico: ogni provincia è un link, il tracciato è già semplificato da script/mappa.py.
+export default function MappaItalia() {
+  const righe = province
+    .map((p) => ({ nome: p.provincia, quota: p.totale.quota_diretti, n: p.totale.affidamenti }))
+    .filter((r) => tracciati[r.nome]);
+  const ordinate = righe.map((r) => r.quota).sort((a, b) => a - b);
+  // Classi per quantili: ogni classe raccoglie circa lo stesso numero di province.
+  const soglie = Array.from({ length: CLASSI - 1 }, (_, k) => ordinate[Math.ceil(((k + 1) * ordinate.length) / CLASSI) - 1]);
+  const classe = (q: number) => { const i = soglie.findIndex((s) => q <= s); return i === -1 ? CLASSI - 1 : i; };
+  const intervalli = Array.from({ length: CLASSI }, (_, k) => {
+    const v = righe.filter((r) => classe(r.quota) === k).map((r) => r.quota);
+    return { k, da: Math.min(...v), a: Math.max(...v), n: v.length };
+  });
+  const minima = righe.reduce((m, r) => (r.quota < m.quota ? r : m));
+  const massima = righe.reduce((m, r) => (r.quota > m.quota ? r : m));
+  const alt =
+    `Mappa d'Italia: quota di contratti senza gara per provincia, totale dell'archivio, in ${CLASSI} classi. ` +
+    `Va da ${perc(minima.quota)} a ${nomeProvincia(minima.nome)} a ${perc(massima.quota)} a ${nomeProvincia(massima.nome)}. ` +
+    `Ogni provincia è un link alla sua pagina.`;
+  const [w, h] = mappa.viewBox;
+
+  return (
+    <figure className="mappa">
+      <svg viewBox={`0 0 ${w} ${h}`} role="group" aria-label={alt}>
+        <title>{alt}</title>
+        {righe.map((r) => (
+          <a key={r.nome} href={`/provincia/${slug(r.nome)}`}>
+            <path className={`m-c${classe(r.quota)}`} d={tracciati[r.nome].d}>
+              <title>{`${nomeProvincia(r.nome)}: ${perc(r.quota)} senza gara (${nItal(r.n)} contratti)`}</title>
+            </path>
+          </a>
+        ))}
+      </svg>
+      <ul className="mappa-legenda" aria-label="Legenda: quota di contratti senza gara">
+        {intervalli.map((c) => (
+          <li key={c.k}><i className={`m-c${c.k}`} aria-hidden="true" />da {perc(c.da)} a {perc(c.a)}</li>
+        ))}
+      </ul>
+    </figure>
+  );
+}

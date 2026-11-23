@@ -48,6 +48,11 @@ export default function Metodologia() {
           file delle strutture.
         </p>
         <p>
+          I confini delle province nella mappa della home sono quelli dell&apos;ISTAT: confini delle
+          unità amministrative a fini statistici, versione generalizzata al 1° gennaio 2025
+          (licenza CC BY 4.0), semplificati per il sito con lo script script/mappa.py.
+        </p>
+        <p>
           Nella pagina <Link href="/quanto-costa">Quanto costa l&apos;accoglienza</Link> la cifra di{" "}
           {euroCent(POCKET_MONEY)} al giorno per persona per il pocket money non viene dai nostri dati: è
           riportata da un atto della Prefettura di Chieti (

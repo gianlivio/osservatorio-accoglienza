@@ -175,3 +175,16 @@ th.num .ordina{flex-direction:row-reverse}
 .g-punto{fill:var(--timbro)}
 .g-anno,.g-valore{font-family:var(--dato);font-size:12px;fill:var(--tenue)}
 .g-valore{font-weight:600;fill:var(--inchiostro)}
+.mappa{margin:0 0 8px;max-width:520px}
+.mappa svg{display:block;width:100%;height:auto}
+.mappa path{stroke:var(--carta);stroke-width:.6;stroke-linejoin:round}
+.mappa a:hover path,.mappa a:focus-visible path{stroke:var(--inchiostro);stroke-width:1.4}
+.mappa a:focus-visible{outline:none}
+.m-c0{background:color-mix(in srgb,var(--timbro) 20%,var(--carta));fill:color-mix(in srgb,var(--timbro) 20%,var(--carta))}
+.m-c1{background:color-mix(in srgb,var(--timbro) 38%,var(--carta));fill:color-mix(in srgb,var(--timbro) 38%,var(--carta))}
+.m-c2{background:color-mix(in srgb,var(--timbro) 56%,var(--carta));fill:color-mix(in srgb,var(--timbro) 56%,var(--carta))}
+.m-c3{background:color-mix(in srgb,var(--timbro) 77%,var(--carta));fill:color-mix(in srgb,var(--timbro) 77%,var(--carta))}
+.m-c4{background:var(--timbro);fill:var(--timbro)}
+.mappa-legenda{list-style:none;display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:12px;font-family:var(--dato);font-size:12px;color:var(--tenue)}
+.mappa-legenda li{display:flex;align-items:center;gap:6px;white-space:nowrap}
+.mappa-legenda i{display:inline-block;width:14px;height:14px;border:1px solid var(--linea)}

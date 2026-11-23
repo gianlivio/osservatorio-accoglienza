@@ -2,6 +2,7 @@ import Link from "next/link";
 import Ricerca from "./Ricerca";
 import TabellaProvince from "./TabellaProvince";
 import JsonLd from "./JsonLd";
+import MappaItalia from "./MappaItalia";
 import { anni, province } from "@/lib/dati";
 import { creatore, distribuzioneCsv, fonteAnac, licenza } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
@@ -55,6 +56,16 @@ export default function Home() {
       <p className="sommario">
         <Link href="/quanto-costa" className="link-interno">Quanto costa l&apos;accoglienza →</Link>
       </p>
+
+      <section className="sezione">
+        <h2 className="titolo-sezione">Contratti senza gara, provincia per provincia</h2>
+        <p className="nota-tabella">
+          Quota dei contratti assegnati con affidamento diretto, sul totale dei contratti
+          dell&apos;archivio ({anni[0]}–{anni[anni.length - 1]}). Cliccando una provincia si apre la sua pagina.
+          Le classi hanno più o meno lo stesso numero di province.
+        </p>
+        <MappaItalia />
+      </section>
 
       <section className="sezione">
         <Ricerca />
