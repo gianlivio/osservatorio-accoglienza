@@ -57,6 +57,10 @@ export default function Home() {
         <Link href="/quanto-costa" className="link-interno">Quanto costa l&apos;accoglienza →</Link>
       </p>
 
+      <section className="sezione sezione-ricerca">
+        <Ricerca />
+      </section>
+
       <section className="sezione">
         <h2 className="titolo-sezione">Contratti senza gara, provincia per provincia</h2>
         <p className="nota-tabella">
@@ -68,7 +72,6 @@ export default function Home() {
       </section>
 
       <section className="sezione">
-        <Ricerca />
         <h2 className="titolo-sezione">Cerca la tua provincia</h2>
         <p className="nota-tabella">
           Scegli l&apos;anno, clicca il titolo di una colonna per riordinare. Le province senza
