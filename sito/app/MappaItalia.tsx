@@ -1,5 +1,5 @@
 import mappa from "@/data/mappa.json";
-import { province, slug, nomeProvincia, nItal } from "@/lib/dati";
+import { anni, province, slug, nomeProvincia, nItal } from "@/lib/dati";
 
 const CLASSI = 5;
 const perc = (n: number) => `${n.toLocaleString("it-IT", { minimumFractionDigits: 1, maximumFractionDigits: 1 })}%`;
@@ -28,22 +28,34 @@ export default function MappaItalia() {
   const [w, h] = mappa.viewBox;
 
   return (
-    <figure className="mappa">
-      <svg viewBox={`0 0 ${w} ${h}`} role="group" aria-label={alt}>
-        <title>{alt}</title>
-        {righe.map((r) => (
-          <a key={r.nome} href={`/provincia/${slug(r.nome)}`}>
-            <path className={`m-c${classe(r.quota)}`} d={tracciati[r.nome].d}>
-              <title>{`${nomeProvincia(r.nome)}: ${perc(r.quota)} senza gara (${nItal(r.n)} contratti)`}</title>
-            </path>
-          </a>
-        ))}
-      </svg>
+    <section className="sezione sezione-mappa">
+      <h2 className="titolo-sezione mappa-titolo">Contratti senza gara, provincia per provincia</h2>
+      <p className="nota-tabella mappa-nota">
+        Quota dei contratti assegnati con affidamento diretto, sul totale dei contratti
+        dell&apos;archivio ({anni[0]}–{anni[anni.length - 1]}). Cliccando una provincia si apre la sua pagina.
+        Le classi hanno più o meno lo stesso numero di province.
+      </p>
+      <figure className="mappa">
+        <svg viewBox={`0 0 ${w} ${h}`} role="group" aria-label={alt}>
+          <title>{alt}</title>
+          {righe.map((r) => (
+            <a key={r.nome} href={`/provincia/${slug(r.nome)}`}>
+              <path className={`m-c${classe(r.quota)}`} d={tracciati[r.nome].d}>
+                <title>{`${nomeProvincia(r.nome)}: ${perc(r.quota)} senza gara (${nItal(r.n)} contratti)`}</title>
+              </path>
+            </a>
+          ))}
+        </svg>
+      </figure>
       <ul className="mappa-legenda" aria-label="Legenda: quota di contratti senza gara">
         {intervalli.map((c) => (
           <li key={c.k}><i className={`m-c${c.k}`} aria-hidden="true" />da {perc(c.da)} a {perc(c.a)}</li>
         ))}
       </ul>
-    </figure>
+      <p className="nota-tabella mappa-avviso">
+        Le province con pochi contratti hanno quote meno stabili: il numero di contratti di ogni
+        provincia compare passando sopra la mappa.
+      </p>
+    </section>
   );
 }

@@ -61,19 +61,7 @@ export default function Home() {
         <Ricerca />
       </section>
 
-      <section className="sezione">
-        <h2 className="titolo-sezione">Contratti senza gara, provincia per provincia</h2>
-        <p className="nota-tabella">
-          Quota dei contratti assegnati con affidamento diretto, sul totale dei contratti
-          dell&apos;archivio ({anni[0]}–{anni[anni.length - 1]}). Cliccando una provincia si apre la sua pagina.
-          Le classi hanno più o meno lo stesso numero di province.
-        </p>
-        <MappaItalia />
-        <p className="nota-tabella">
-          Le province con pochi contratti hanno quote meno stabili: il numero di contratti di ogni
-          provincia compare passando sopra la mappa.
-        </p>
-      </section>
+      <MappaItalia />
 
       <section className="sezione">
         <h2 className="titolo-sezione">Cerca la tua provincia</h2>
