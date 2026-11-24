@@ -262,7 +262,7 @@ export default function QuantoCosta() {
           procedura e uffici che hanno assegnato.
         </p>
         <p>
-          Presenze nei centri, costo dei CAS e contratti, anno per anno e accanto alle leggi e alle notizie, sono nella pagina{" "}
+          Presenze nei centri, costo dei CAS e contratti, anno per anno e accanto alle leggi, sono nella pagina{" "}
           <Link href="/dieci-anni" className="link-interno">Dieci anni di accoglienza</Link>.
         </p>
       </section>
