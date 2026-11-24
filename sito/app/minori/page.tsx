@@ -43,6 +43,8 @@ function GraficoNazionale({ serie }: { serie: { periodo: string; presenti: numbe
   const semestrali = serie.map((p, i) => ({ p, i })).filter((o) => o.p.tipo === "semestrale");
   const primoAnno = serie[0].periodo.slice(0, 4);
   const ultimoAnno = serie[serie.length - 1].periodo.slice(0, 4);
+  const ultimoMensile = mensili[mensili.length - 1].periodo.slice(0, 4);
+  const primoSemestrale = semestrali[0].p.periodo.slice(0, 4);
   return (
     <div className="grafico-naz">
       <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="xMidYMid meet"
@@ -57,8 +59,8 @@ function GraficoNazionale({ serie }: { serie: { periodo: string; presenti: numbe
         <text x={pad} y={y(max) - 6} className="asse-txt">{nItal(max)}</text>
       </svg>
       <p className="legenda">
-        <span className="leg-linea" /> rilevazione mensile ({primoAnno}–2022)
-        <span className="leg-punto" /> rilevazione semestrale (2023–{ultimoAnno})
+        <span className="leg-linea" /> rilevazione mensile ({primoAnno}–{ultimoMensile})
+        <span className="leg-punto" /> rilevazione semestrale ({primoSemestrale}–{ultimoAnno})
       </p>
     </div>
   );
@@ -70,6 +72,9 @@ export default function Minori() {
   const mesi = ["", "gennaio","febbraio","marzo","aprile","maggio","giugno",
     "luglio","agosto","settembre","ottobre","novembre","dicembre"];
   const dataLeggibile = `${mesi[+pm]} ${pa}`;
+  const [ta, tm] = d.ultimo_totale_periodo.split("-");
+  const dataTotale = `${mesi[+tm]} ${ta}`;
+  const primoSemestraleTot = d.nazionale.find((x) => x.tipo === "semestrale")!.periodo.slice(0, 4);
   const primoAnno = d.primo_periodo.split("-")[0];
   const datasetJsonLd = {
     "@context": "https://schema.org",
@@ -98,8 +103,10 @@ export default function Minori() {
       <p className="sommario">
         I minori stranieri non accompagnati sono le persone sotto la maggiore età che si
         trovano in Italia senza un adulto legalmente responsabile per loro. La legge ne
-        affida l&apos;accoglienza allo Stato. Il Ministero del Lavoro ne pubblica il numero
-        presente in ciascuna regione, mese per mese. Qui è raccolto dal {primoAnno} al {pa}.
+        affida l&apos;accoglienza allo Stato. Il Ministero del Lavoro ne ha pubblicato il numero
+        presente in ciascuna regione, mese per mese, fino a {dataLeggibile}; da allora pubblica rapporti
+        semestrali con, tra l&apos;altro, il totale nazionale. Qui i dati vanno dal {primoAnno} a {dataTotale}:
+        per regione fino a {dataLeggibile}, per il totale nazionale fino a {dataTotale}.
       </p>
 
       <section className="sezione">
@@ -107,8 +114,8 @@ export default function Minori() {
           Minori presenti in Italia, {msnaData.nazionale[0].periodo.slice(0,4)}–{msnaData.ultimo_totale_periodo.slice(0,4)}
         </h2>
         <p className="nota-tabella">
-          Quanti minori non accompagnati ci sono in Italia. Fino al 2022 il conteggio era
-          mensile (la linea); dal 2023 il Ministero lo pubblica ogni sei mesi (i punti).
+          Quanti minori non accompagnati ci sono in Italia. Fino al {fineRegionale} il conteggio era
+          mensile (la linea); dal {+fineRegionale + 1} il Ministero lo pubblica ogni sei mesi (i punti).
         </p>
         <GraficoNazionale serie={msnaData.nazionale} />
       </section>
@@ -143,24 +150,25 @@ export default function Minori() {
       <section className="sezione">
         <h2 className="titolo-sezione">Da dove vengono questi dati</h2>
         <p>
-          Fonte: Ministero del Lavoro e delle Politiche Sociali, report mensili sulla
-          presenza dei minori stranieri non accompagnati. I numeri indicano i minori
-          presenti in ciascuna regione all&apos;ultimo giorno del mese.
+          Fonte: Ministero del Lavoro e delle Politiche Sociali. Fino a dicembre 2022, i report
+          mensili sulla presenza dei minori stranieri non accompagnati; dal 2023, i rapporti
+          semestrali di approfondimento, al 30 giugno e al 31 dicembre. I numeri indicano i
+          minori presenti all&apos;ultimo giorno del periodo.
         </p>
         <p>
-          La serie copre i mesi da {primoAnno} a {dataLeggibile}. Da allora il Ministero ha
-          smesso di pubblicare i report come documenti scaricabili e diffonde questi dati
-          solo attraverso una dashboard online: per questo la raccolta si ferma a questo
-          punto. Il dato è regionale, non provinciale, perché il Ministero non lo pubblica
-          a un dettaglio maggiore.
+          La serie per regione e la tabella qui sopra arrivano a {dataLeggibile}, perché sono
+          costruite sui report mensili. I punti del grafico dal {primoSemestraleTot} al {fineNazionale} sono il totale
+          nazionale dei rapporti semestrali. I semestrali riportano anche dati per regione, che
+          non sono ancora stati aggiunti a questa pagina. Il dato è regionale, non provinciale,
+          perché il Ministero non lo pubblica a un dettaglio maggiore.
         </p>
         <p className="avviso">
-          Nelle linee di andamento si nota un calo ricorrente a inizio di ogni anno.
-          Non è un errore: dipende da come funziona il censimento. Per i minori di cui non si
-          conosce la data di nascita esatta viene registrato in via presuntiva il 1° gennaio.
-          Al compimento della maggiore età escono dal conteggio, e poiché a molti risulta il
-          1° gennaio come compleanno, ogni gennaio una parte del gruppo esce insieme,
-          producendo il gradino visibile nel grafico.
+          Nelle linee di andamento si nota un calo a inizio di ogni anno. Secondo il Ministero
+          del Lavoro dipende in parte da come funziona il censimento: per i minori di cui non si
+          conoscono il giorno e il mese di nascita il sistema registra convenzionalmente il 1°
+          gennaio dell&apos;anno di nascita, e tutti questi minori escono dalla base dati a gennaio, al
+          compimento della maggiore età. Fonti: report mensile al 31 gennaio 2016, p. 2; rapporto
+          semestrale al 31 dicembre 2023, p. 25.
         </p>
       </section>
     </main>
