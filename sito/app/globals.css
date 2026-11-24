@@ -252,3 +252,12 @@ th.num .ordina{flex-direction:row-reverse}
 .vai-a{font-family:var(--dato);font-size:13px;color:var(--tenue);margin:0 0 44px}
 .chiuso summary{cursor:pointer;font-family:var(--dato);font-size:14px;margin-bottom:14px}
 .chiuso summary:focus-visible{outline:2px solid var(--timbro);outline-offset:2px}
+.grafico-barre{margin:0 0 28px;max-width:540px}
+.grafico-barre svg{display:block;width:100%;height:auto}
+.grafico-barre figcaption{margin:6px 0 0}
+.gb-barra{fill:color-mix(in srgb,var(--timbro) 38%,var(--carta))}
+.gb-ultima{fill:var(--timbro)}
+.gb-anno,.gb-valore{font-family:var(--dato);font-size:12px;fill:var(--inchiostro)}
+.gb-valore-ult{font-weight:600}
+.gb-centri,.gb-zero{font-family:var(--dato);font-size:11px;fill:var(--tenue)}
+@media (max-width:500px){.grafico-barre .g-stretto svg{max-width:360px}}

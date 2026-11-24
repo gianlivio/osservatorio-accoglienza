@@ -149,41 +149,44 @@ export default function QuantoCosta() {
         </details>
       </section>
 
-      <section className="sezione">
-        <h2 className="titolo-sezione">Il costo al giorno per ospite</h2>
-        <p className="nota-tabella">
-          Nei centri di accoglienza straordinaria (CAS) per adulti il costo giornaliero per
-          ospite, al valore centrale (mediana), è stato di {nItal2(adulti(ultimo).mediana!)} € nel
-          {" "}{ultimo}. Nella tabella, per ogni anno: la mediana, il primo e il terzo quartile (tra i
-          quali cade la metà dei valori) e il numero di centri con il dato.
-        </p>
-        <GraficoCosto punti={anni.map((a) => ({ anno: a, mediana: adulti(a).mediana!, q1: adulti(a).q1!, q3: adulti(a).q3! }))} />
-        <table className="tabella">
-          <caption className="sr-only">Costo giornaliero per ospite nei CAS per adulti: mediana, primo e terzo quartile, centri con il dato</caption>
-          <thead>
-            <tr><th>Anno</th><th className="num">Mediana</th><th className="num">1° quartile</th>
-            <th className="num">3° quartile</th><th className="num">Centri con il dato</th></tr>
-          </thead>
-          <tbody>
-            {anni.map((a) => {
-              const b = adulti(a);
-              return (
-                <tr key={a}>
-                  <td>{a}</td><td className="num">{cell(b.mediana)}</td><td className="num">{cell(b.q1)}</td>
-                  <td className="num">{cell(b.q3)}</td><td className="num">{nItal(b.centri_con_costo)}</td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
-        <p className="avviso">
-          La mediana è calcolata sulle righe del file, come nei dati delle pagine provincia.
-          {anniDoppioni.length > 0 && (
-            <> {elencoAnni[0].toUpperCase() + elencoAnni.slice(1)} alcuni centri compaiono in più righe: nel {ultimo} i valori usati sono{" "}
-            {nItal(adulti(ultimo).valori)} e i centri {nItal(adulti(ultimo).centri_con_costo)}.</>
-          )}
-          {" "}Il numero di centri è quello con almeno un valore.
-        </p>
+      <section className="sezione" id="grafico">
+        <h2 className="titolo-sezione">Dal {primo} al {ultimo}</h2>
+        <GraficoCosto punti={anni.map((a) => ({ anno: a, valore: adulti(a).mediana!, centri: adulti(a).centri_con_costo }))} />
+        <details className="chiuso">
+          <summary>La tabella, con i quartili</summary>
+          <p className="nota-tabella">
+            Nei CAS per adulti il costo giornaliero per ospite, al valore centrale (mediana), è stato di {nItal2(adulti(ultimo).mediana!)} € nel
+            {" "}{ultimo}. La mediana è la cifra sopra e sotto cui sta metà dei centri; il primo e il terzo quartile sono le cifre sotto cui
+            sta un quarto e tre quarti dei centri, e tra i due cade la metà dei valori. Nella tabella, per ogni anno: la mediana, il primo e
+            il terzo quartile e il numero di centri con il dato.
+          </p>
+          <table className="tabella">
+            <caption className="sr-only">Costo giornaliero per ospite nei CAS per adulti: mediana, primo e terzo quartile, centri con il dato</caption>
+            <thead>
+              <tr><th>Anno</th><th className="num">Mediana</th><th className="num">1° quartile</th>
+              <th className="num">3° quartile</th><th className="num">Centri con il dato</th></tr>
+            </thead>
+            <tbody>
+              {anni.map((a) => {
+                const b = adulti(a);
+                return (
+                  <tr key={a}>
+                    <td>{a}</td><td className="num">{cell(b.mediana)}</td><td className="num">{cell(b.q1)}</td>
+                    <td className="num">{cell(b.q3)}</td><td className="num">{nItal(b.centri_con_costo)}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+          <p className="avviso">
+            La mediana è calcolata sulle righe del file, come nei dati delle pagine provincia.
+            {anniDoppioni.length > 0 && (
+              <> {elencoAnni[0].toUpperCase() + elencoAnni.slice(1)} alcuni centri compaiono in più righe: nel {ultimo} i valori usati sono{" "}
+              {nItal(adulti(ultimo).valori)} e i centri {nItal(adulti(ultimo).centri_con_costo)}.</>
+            )}
+            {" "}Il numero di centri è quello con almeno un valore.
+          </p>
+        </details>
       </section>
 
       <section className="sezione sezione-ricerca" id="provincia">
