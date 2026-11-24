@@ -5,7 +5,7 @@ import { centri } from "@/lib/centri";
 import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
-import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano } from "@/lib/dati";
+import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct } from "@/lib/dati";
 
 export const metadata = metadatiPagina(
   "Metodologia e limiti · Osservatorio Accoglienza",
@@ -122,7 +122,7 @@ export default function Metodologia() {
           La banca dati contiene quello che le amministrazioni comunicano, e la comunicazione è
           manuale: l&apos;ANAC stessa avverte che i dati possono avere errori o buchi. Per una
           parte dei contratti manca il nome di chi ha vinto — oggi è noto nel
-          {" "}{totale.copertura_vincitore}% dei casi, ma prima del 2024 mancava per la
+          {" "}{pct(totale.copertura_vincitore)} dei casi, ma prima del 2024 mancava per la
           maggioranza. Le comunicazioni arrivano anche con anni di ritardo, quindi gli anni più
           recenti sono ancora provvisori.
         </p>
@@ -153,9 +153,9 @@ export default function Metodologia() {
               <tr key={a.anno}>
                 <td>{a.anno}</td>
                 <td className="num">{nItal(a.affidamenti)}</td>
-                <td className="num">{a.quota_diretti}%</td>
+                <td className="num">{pct(a.quota_diretti)}</td>
                 <td className="num">{nItal(a.affidamenti_40k)}</td>
-                <td className="num">{a.quota_diretti_40k !== null ? `${a.quota_diretti_40k}%` : "—"}</td>
+                <td className="num">{a.quota_diretti_40k !== null ? pct(a.quota_diretti_40k) : "—"}</td>
               </tr>
             ))}
           </tbody>

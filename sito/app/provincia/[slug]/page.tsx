@@ -9,7 +9,7 @@ import { nomeEnte } from "@/lib/nomi";
 import { slugEnteDaCf } from "@/lib/enti";
 import { centri } from "@/lib/centri";
 import { regioneDi, regioni } from "@/lib/regioni";
-import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, euroCent, nomeProvincia, nProvincia, descrizioneProvincia } from "@/lib/dati";
+import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, euroCent, nomeProvincia, nProvincia, descrizioneProvincia, pct } from "@/lib/dati";
 
 const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
 const MESI_LUNGHI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto",
@@ -89,7 +89,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
         <div className="cifre">
           <div className="cifra"><b>{nItal(t.affidamenti)}</b><span>contratti firmati</span></div>
-          <div className="cifra"><b>{nItal(t.diretti)}</b><span>assegnati senza gara ({t.quota_diretti}%)</span></div>
+          <div className="cifra"><b>{nItal(t.diretti)}</b><span>assegnati senza gara ({pct(t.quota_diretti)})</span></div>
           <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano</span></div>
           <div className="cifra"><b>{nItal(t.canale_prefettura)}</b><span>firmati dalla Prefettura</span></div>
           <div className="cifra"><b>{nItal(t.canale_ente_locale)}</b><span>firmati da comuni o enti locali</span></div>
@@ -115,7 +115,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
                 <tr key={a}>
                   <td>{a}</td>
                   <td className="num">{b ? nItal(b.affidamenti) : "—"}</td>
-                  <td className="num">{b ? `${b.quota_diretti}%` : "—"}</td>
+                  <td className="num">{b ? pct(b.quota_diretti) : "—"}</td>
                   <td className="num">{b ? euro(b.importo_mediano) : "—"}</td>
                   <td className="num">{b ? nItal(b.enti_gestori) : "—"}</td>
                 </tr>

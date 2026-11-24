@@ -82,6 +82,8 @@ export const dataLunga = (iso: string) => {
   return `${+g} ${MESI_LUNGHI[+m - 1]} ${a}`;
 };
 export const nItal = (n: number) => n.toLocaleString("it-IT", { useGrouping: "always" });
+/** Percentuale all'italiana, una cifra decimale: 54,3% */
+export const pct = (n: number) => `${n.toLocaleString("it-IT", { minimumFractionDigits: 1, maximumFractionDigits: 1 })}%`;
 
 
 import msnaRaw from "@/data/msna.json";

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import JsonLd from "@/app/JsonLd";
-import { slug as mkSlug, euro, nItal, nomeProvincia, totale } from "@/lib/dati";
+import { slug as mkSlug, euro, nItal, nomeProvincia, totale, pct } from "@/lib/dati";
 import { enti, trovaEnte, caricaEnte, type EnteDettaglio } from "@/lib/enti";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
@@ -47,7 +47,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
       <p className="occhiello">Ente gestore · {periodo(d)}</p>
       <h1 className="tesi">{nomeEnte(e.nome)}</h1>
       <p className="sommario">
-        L&apos;aggiudicatario è noto per il {nItal(totale.copertura_vincitore)}% dei
+        L&apos;aggiudicatario è noto per il {pct(totale.copertura_vincitore)} dei
         contratti dell&apos;archivio: questo elenco comprende solo quelli.
       </p>
 
@@ -55,7 +55,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
         <h2 className="titolo-sezione">Totale</h2>
         <div className="cifre">
           <div className="cifra"><b>{nItal(d.affidamenti)}</b><span>contratti firmati</span></div>
-          <div className="cifra"><b>{nItal(d.diretti)}</b><span>assegnati senza gara ({d.quota_diretti}%)</span></div>
+          <div className="cifra"><b>{nItal(d.diretti)}</b><span>assegnati senza gara ({pct(d.quota_diretti)})</span></div>
           <div className="cifra"><b>{d.province.length}</b><span>{d.province.length === 1 ? "provincia" : "province"}</span></div>
         </div>
       </section>
@@ -66,7 +66,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
           <caption className="sr-only">Contratti e quota senza gara dell&apos;ente, anno per anno</caption>
           <thead><tr><th>Anno</th><th className="num">Contratti</th><th className="num">Senza gara</th></tr></thead>
           <tbody>{Object.entries(d.per_anno).map(([a, b]) => (
-            <tr key={a}><td>{a}</td><td className="num">{nItal(b.affidamenti)}</td><td className="num">{b.quota_diretti}%</td></tr>
+            <tr key={a}><td>{a}</td><td className="num">{nItal(b.affidamenti)}</td><td className="num">{pct(b.quota_diretti)}</td></tr>
           ))}</tbody>
         </table>
       </section>
