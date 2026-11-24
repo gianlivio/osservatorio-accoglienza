@@ -48,11 +48,6 @@ const incluse = province.filter((p) => p.cas.costo_centri >= SOGLIA_CENTRI).sort
 const conCas = Object.values(centri.province).filter((per) => per[ultimo]?.cas).length;
 const escluse = conCas - incluse.length;
 const minima = incluse[0], massima = incluse[incluse.length - 1];
-const centrale = (() => {
-  const v = incluse.map((p) => p.cas.costo_mediano!);
-  const m = Math.floor(v.length / 2);
-  return v.length % 2 ? v[m] : (v[m - 1] + v[m]) / 2;
-})();
 
 const anniDoppioni = anni.filter((a) => adulti(a).valori > adulti(a).centri_con_costo);
 const elencoAnni = anniDoppioni.map((a) => `nel ${a}`).join(" e ");
@@ -73,7 +68,7 @@ const elencoRegioni = Object.entries(regioni).map(([regione, nomi]) => ({
 export default function QuantoCosta() {
   const cell = (n: number | null) => (n === null ? "n.d." : `${nItal2(n)} €`);
   return (
-    <main>
+    <main className="pagina-costo">
       <JsonLd dati={datasetJsonLd} />
       <JsonLd dati={breadcrumb([{ nome: "Quanto costa l'accoglienza", percorso: "/quanto-costa" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
@@ -215,7 +210,7 @@ export default function QuantoCosta() {
         <p className="nota-tabella nota-province">
           Le province escluse perché hanno meno di {SOGLIA_CENTRI} CAS per adulti con il costo sono {nItal(escluse)}. Il valore di ogni
           provincia è quello al centro dei suoi CAS per adulti (metà sopra, metà sotto), come nella serie nazionale, e non è pesato per
-          numero di centri o di posti. Il valore centrale tra le province è {nItal2(centrale)} €.
+          numero di centri o di posti.
         </p>
       </section>
 
