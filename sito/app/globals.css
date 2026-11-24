@@ -261,3 +261,4 @@ th.num .ordina{flex-direction:row-reverse}
 .gb-valore-ult{font-weight:600}
 .gb-centri,.gb-zero{font-family:var(--dato);font-size:11px;fill:var(--tenue)}
 @media (max-width:500px){.grafico-barre .g-stretto svg{max-width:360px}}
+.nota-province{margin:14px 0 0}

@@ -70,16 +70,6 @@ const elencoRegioni = Object.entries(regioni).map(([regione, nomi]) => ({
   righe: nomi.map((nome) => ({ nome, costo: centri.province[nome]?.[ultimo]?.cas?.costo_mediano ?? null })),
 }));
 
-function Estremo({ p }: { p: { nome: string; cas: { costo_centri: number; costo_mediano: number | null } } }) {
-  return (
-    <>
-      {nItal2(p.cas.costo_mediano!)} € a{" "}
-      <Link href={`/provincia/${slug(p.nome)}`} className="link-interno">{nomeProvincia(p.nome)}</Link>
-      {" "}({nItal(p.cas.costo_centri)} CAS)
-    </>
-  );
-}
-
 export default function QuantoCosta() {
   const cell = (n: number | null) => (n === null ? "n.d." : `${nItal2(n)} €`);
   return (
@@ -191,11 +181,20 @@ export default function QuantoCosta() {
 
       <section className="sezione sezione-ricerca" id="provincia">
         <h2 className="titolo-sezione">Quanto costa nella tua provincia</h2>
-        <p>Il costo mediano dei CAS per adulti, provincia per provincia, nell&apos;ultimo anno disponibile.</p>
+        <p>
+          Nel {ultimo} il costo va da {nItal2(minima.cas.costo_mediano!)} € a{" "}
+          <Link href={`/provincia/${slug(minima.nome)}`} className="link-interno">{nomeProvincia(minima.nome)}</Link> a{" "}
+          {nItal2(massima.cas.costo_mediano!)} € a{" "}
+          <Link href={`/provincia/${slug(massima.nome)}`} className="link-interno">{nomeProvincia(massima.nome)}</Link>, tra le{" "}
+          {nItal(incluse.length)} province con almeno {SOGLIA_CENTRI} CAS per adulti con il dato.
+        </p>
         <Ricerca solo="province" />
-        <details className="elenco-province" open>
+        <details className="elenco-province">
           <summary>Tutte le province</summary>
-          <p className="nota-tabella">Costo mediano dei CAS per adulti, per ospite al giorno, {ultimo}. n.d.: nessun CAS per adulti della provincia ha il dato.</p>
+          <p className="nota-tabella">
+            Costo giornaliero per ospite nei CAS per adulti, {ultimo}, provincia per provincia: metà dei CAS della provincia sta sopra la
+            cifra, metà sotto. n.d.: nessun CAS per adulti della provincia ha il dato.
+          </p>
           {elencoRegioni.map(({ regione, righe }) => (
             <div key={regione}>
               <h3 className="titolo-regione">{regione}</h3>
@@ -213,6 +212,11 @@ export default function QuantoCosta() {
             </div>
           ))}
         </details>
+        <p className="nota-tabella nota-province">
+          Le province escluse perché hanno meno di {SOGLIA_CENTRI} CAS per adulti con il costo sono {nItal(escluse)}. Il valore di ogni
+          provincia è quello al centro dei suoi CAS per adulti (metà sopra, metà sotto), come nella serie nazionale, e non è pesato per
+          numero di centri o di posti. Il valore centrale tra le province è {nItal2(centrale)} €.
+        </p>
       </section>
 
       <section className="sezione" id="tipo">
@@ -257,20 +261,6 @@ export default function QuantoCosta() {
         <p className="nota-tabella">
           Il totale SAI è calcolato sul file dei progetti. Centri d&apos;Italia pubblica
           {" "}{nItal(centri.sai_ultimo_anno.presenze_strutture)}, calcolato sul file delle strutture.
-        </p>
-      </section>
-
-      <section className="sezione">
-        <h2 className="titolo-sezione">Differenze tra province, {ultimo}</h2>
-        <p>
-          Tra le {nItal(incluse.length)} province con almeno {SOGLIA_CENTRI} CAS per adulti con il costo, il
-          costo mediano dei CAS per adulti va da <Estremo p={minima} /> a <Estremo p={massima} />. Il valore centrale tra
-          le mediane provinciali è {nItal2(centrale)} €.
-        </p>
-        <p className="nota-tabella">
-          Le province escluse perché hanno meno di {SOGLIA_CENTRI} CAS per adulti con il costo sono {nItal(escluse)}.
-          Il valore di ogni provincia è la mediana dei suoi CAS per adulti, come nella serie nazionale, e non è
-          pesato per numero di centri o di posti.
         </p>
       </section>
 
