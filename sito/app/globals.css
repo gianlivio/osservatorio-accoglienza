@@ -248,3 +248,4 @@ th.num .ordina{flex-direction:row-reverse}
 .barra-anni a{flex:0 0 auto;padding:4px 10px;border:1px solid var(--linea);white-space:nowrap}
 .barra-anni a:hover{background:var(--carta-scura)}
 .anno{scroll-margin-top:56px}
+.nota-enti{margin:8px 0 14px}

@@ -44,6 +44,8 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
   if (!p) notFound();
   const d = await caricaDettaglioProvincia(slug);
   const t = p.totale;
+  const senzaEnti = anni.filter((a) => { const b = p.per_anno[a]; return !!b && b.affidamenti > 0 && b.enti_gestori === 0; });
+  const elencoSenzaEnti = senzaEnti.length > 1 ? `${senzaEnti.slice(0, -1).join(", ")} e ${senzaEnti[senzaEnti.length - 1]}` : senzaEnti[0];
   const mesiDati = Object.entries(d.per_mese)
     .filter((voce): voce is [string, NonNullable<(typeof voce)[1]>] => voce[1] !== undefined)
     .sort(([a], [b]) => a.localeCompare(b));
@@ -123,6 +125,12 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             })}
           </tbody>
         </table>
+        {senzaEnti.length > 0 && (
+          <p className="nota-tabella nota-enti">
+            Enti diversi: conta gli aggiudicatari presenti nei dati ANAC. {senzaEnti.length === 1 ? "Nel" : "Negli anni"} {elencoSenzaEnti} i contratti
+            non hanno l&apos;aggiudicatario nei dati: lo 0 non vuol dire che nessun ente li abbia ricevuti.
+          </p>
+        )}
         <p className="avviso">
           Gli anni non sono confrontabili tra loro. Fino al 2023 molti contratti di piccolo
           importo non venivano registrati nell&apos;archivio pubblico, e i contratti
