@@ -89,10 +89,21 @@ export default function QuantoCosta() {
       <Link href="/" className="indietro">← vai ai dati</Link>
       <p className="occhiello">Centri d&apos;Italia · {primo}–{ultimo}</p>
       <h1 className="tesi">Quanto costa <em>l&apos;accoglienza al giorno</em>.</h1>
-      <p className="sommario">
-        Il costo giornaliero per ospite dei centri di accoglienza, anno per anno e per tipo di
-        centro, come lo pubblica Centri d&apos;Italia. Per la quota che arriva alla persona accolta
-        vale lo schema di capitolato del Ministero dell&apos;Interno, citato più sotto.
+      <div className="prosa">
+        <p>
+          Nel {ultimo} il costo giornaliero per ospite nei centri di accoglienza straordinaria (CAS) per adulti è di{" "}
+          {nItal2(adulti(ultimo).mediana!)} €: metà dei centri sta sopra questa cifra, metà sotto. Nel {primo} era{" "}
+          {nItal2(adulti(primo).mediana!)} €.
+        </p>
+        <p>
+          La somma va all&apos;ente che gestisce il centro, non alla persona accolta. Alla persona va il pocket money:{" "}
+          {euroCent(POCKET_MONEY)} al giorno.
+        </p>
+      </div>
+      <p className="vai-a">
+        <a href="#provincia" className="link-interno">Nella tua provincia</a> ·{" "}
+        <a href="#tipo" className="link-interno">Per tipo di centro</a> ·{" "}
+        <a href="#cosa-non-sappiamo" className="link-interno">Cosa non sappiamo</a>
       </p>
 
       <section className="sezione">
@@ -132,7 +143,7 @@ export default function QuantoCosta() {
         </p>
       </section>
 
-      <section className="sezione sezione-ricerca">
+      <section className="sezione sezione-ricerca" id="provincia">
         <h2 className="titolo-sezione">Quanto costa nella tua provincia</h2>
         <p>Il costo mediano dei CAS per adulti, provincia per provincia, nell&apos;ultimo anno disponibile.</p>
         <Ricerca solo="province" />
@@ -158,7 +169,7 @@ export default function QuantoCosta() {
         </details>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="tipo">
         <h2 className="titolo-sezione">Per tipo di centro</h2>
         <p className="nota-tabella">
           Costo giornaliero per ospite, mediana. Per i CAS per minori sono mostrati solo
@@ -267,7 +278,7 @@ export default function QuantoCosta() {
         </p>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="cosa-non-sappiamo">
         <h2 className="titolo-sezione">Cosa non sappiamo</h2>
         <p>I dati non dicono quanto resta ai gestori dopo i costi: i margini non sono nelle fonti.</p>
         <p>Nessuno dei file di Centri d&apos;Italia riporta un costo per il SAI.</p>

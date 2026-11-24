@@ -249,3 +249,6 @@ th.num .ordina{flex-direction:row-reverse}
 .barra-anni a:hover{background:var(--carta-scura)}
 .anno{scroll-margin-top:56px}
 .nota-enti{margin:8px 0 14px}
+.vai-a{font-family:var(--dato);font-size:13px;color:var(--tenue);margin:0 0 44px}
+.chiuso summary{cursor:pointer;font-family:var(--dato);font-size:14px;margin-bottom:14px}
+.chiuso summary:focus-visible{outline:2px solid var(--timbro);outline-offset:2px}
