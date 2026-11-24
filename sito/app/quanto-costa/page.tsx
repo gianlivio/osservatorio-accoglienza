@@ -222,11 +222,11 @@ export default function QuantoCosta() {
       <section className="sezione" id="tipo">
         <h2 className="titolo-sezione">Per tipo di centro</h2>
         <p className="nota-tabella">
-          Costo giornaliero per ospite, mediana. Per i CAS per minori sono mostrati solo
+          Costo giornaliero per ospite: metà dei centri sta sopra la cifra indicata, metà sotto. Per i CAS per minori sono mostrati solo
           {" "}il {casPrimoAnnoMinori} e il {ultimo}: nel {minoriSenzaCosto[0]} il file non riporta alcun costo
           ({nItal(minoriAnno(minoriSenzaCosto[0]).centri_con_costo)} centri su {nItal(minoriAnno(minoriSenzaCosto[0]).centri)}) e
-          {" "}nel {minoriPochi} i centri con il dato sono {nItal(minoriAnno(minoriPochi).centri_con_costo)}. Per CPA e hotspot
-          è mostrato solo l&apos;ultimo anno.
+          {" "}nel {minoriPochi} i centri con il dato sono {nItal(minoriAnno(minoriPochi).centri_con_costo)}. Per i centri di prima accoglienza (CPA) e per gli
+          hotspot, i centri di primo arrivo dove avviene l&apos;identificazione, è mostrato solo l&apos;ultimo anno.
         </p>
         <table className="tabella">
           <caption className="sr-only">Costo giornaliero per ospite per tipo di centro: mediana, quartili e centri con il dato</caption>
@@ -255,12 +255,26 @@ export default function QuantoCosta() {
         <h2 className="titolo-sezione">Quante persone nei centri</h2>
         <p>
           Al {dataLunga(centri.rilevazioni_cas[ultimo])} le presenze sono {nItal(pres.cas)} nei CAS e{" "}
-          {nItal(pres.prima_accoglienza)} nei centri di prima accoglienza (CPA e hotspot). Nel SAI,
+          {nItal(pres.prima_accoglienza)} nei centri di prima accoglienza (CPA e hotspot). Nel SAI, la rete di accoglienza dei Comuni,
           al {dataLunga(centri.rilevazioni_sai[ultimo])}, sono {nItal(pres.sai)}.
         </p>
         <p className="nota-tabella">
           Il totale SAI è calcolato sul file dei progetti. Centri d&apos;Italia pubblica
           {" "}{nItal(centri.sai_ultimo_anno.presenze_strutture)}, calcolato sul file delle strutture.
+        </p>
+      </section>
+
+      <section className="sezione" id="cosa-non-sappiamo">
+        <h2 className="titolo-sezione">Cosa non sappiamo</h2>
+        <p>I dati non dicono quanto resta ai gestori dopo i costi: i margini non sono nelle fonti.</p>
+        <p>Nessuno dei file di Centri d&apos;Italia riporta un costo per il SAI.</p>
+        <p>
+          Il costo di ogni centro conta una volta, qualunque sia il numero di posti: la cifra indicata mescola
+          centri di dimensioni molto diverse.
+        </p>
+        <p>
+          I dati non misurano quanto arriva alla persona accolta. Il pocket money di {euroCent(POCKET_MONEY)} è la
+          cifra degli atti citati sopra, non un dato di questo archivio.
         </p>
       </section>
 
@@ -278,20 +292,9 @@ export default function QuantoCosta() {
         </p>
       </section>
 
-      <section className="sezione" id="cosa-non-sappiamo">
-        <h2 className="titolo-sezione">Cosa non sappiamo</h2>
-        <p>I dati non dicono quanto resta ai gestori dopo i costi: i margini non sono nelle fonti.</p>
-        <p>Nessuno dei file di Centri d&apos;Italia riporta un costo per il SAI.</p>
-        <p>
-          Il costo di ogni centro conta una volta, qualunque sia il numero di posti: la mediana mescola
-          centri di dimensioni molto diverse.
-        </p>
-        <p>
-          I dati non misurano quanto arriva alla persona accolta. Il pocket money di {euroCent(POCKET_MONEY)} è la
-          cifra dell&apos;atto citato sopra, non un dato di questo archivio.
-        </p>
+      <section className="sezione" id="fonte">
+        <h2 className="titolo-sezione">Fonte dei dati</h2>
         <p className="nota-tabella">
-          Fonte dei dati:{" "}
           <a href={centri.url} target="_blank" rel="noopener">Centri d&apos;Italia</a> (ActionAid e Openpolis),
           licenza{" "}
           <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">{centri.licenza}</a>.
