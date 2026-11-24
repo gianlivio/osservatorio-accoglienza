@@ -7,3 +7,5 @@ export const ATTO_CAPITOLATO =
   "https://prefettura.interno.gov.it/sites/default/files/82/2024-09/decisione-di-contrarre-gara-migranti-2024-2026.pdf";
 export const ATTO_AVELLINO =
   "https://prefettura.interno.gov.it/sites/default/files/24/2024-06/determina_a_contrarre_xxiaq.pdf";
+// Anno dello schema di capitolato del Ministero dell'Interno (D.M. 4 marzo 2024), citato nella frase di /quanto-costa.
+export const ANNO_CAPITOLATO = "2024";

@@ -7,7 +7,7 @@ import { centri, type Tipo } from "@/lib/centri";
 import { regioni } from "@/lib/regioni";
 import { breadcrumb, creatore, dominio, fonteCentri, licenza } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
-import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
+import { ANNO_CAPITOLATO, ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 
 const SOGLIA_CENTRI = 10;
 
@@ -105,6 +105,49 @@ export default function QuantoCosta() {
         <a href="#tipo" className="link-interno">Per tipo di centro</a> ·{" "}
         <a href="#cosa-non-sappiamo" className="link-interno">Cosa non sappiamo</a>
       </p>
+
+      <section className="sezione" id="soldi">
+        <h2 className="titolo-sezione">A chi vanno i soldi</h2>
+        <p>
+          Il prezzo giornaliero non va alla persona accolta: va all&apos;ente che gestisce il centro, per
+          ogni persona e per ogni giorno di presenza. Alla persona va il pocket money, una piccola
+          somma per le spese di ogni giorno: {euroCent(POCKET_MONEY)} al giorno, che il gestore deve versare
+          in denaro e che la Prefettura gli rimborsa a parte.
+        </p>
+        <p>
+          La cifra di {euroCent(POCKET_MONEY)} viene dallo schema di capitolato del Ministero dell&apos;Interno del {ANNO_CAPITOLATO}, non dai dati
+          di questo sito. Il capitolato è lo schema di contratto con cui le Prefetture affidano i centri.
+        </p>
+        <details className="chiuso">
+          <summary>Gli atti</summary>
+          <p>
+            Secondo la decisione di contrarre della{" "}
+            <a href={ATTO_CAPITOLATO} target="_blank" rel="noopener" className="link-interno">Prefettura di Chieti</a>
+            {" "}(protocollo n. 41889 del 10 maggio 2024), che applica lo schema di capitolato per i
+            centri di accoglienza approvato con decreto del Ministro dell&apos;Interno del 4 marzo
+            2024, il corrispettivo al gestore è fissato per ogni persona e per ogni giorno di
+            effettiva presenza. Lo stesso atto prevede, oltre al prezzo a base d&apos;asta, un
+            rimborso di {euroCent(POCKET_MONEY)} al giorno per persona per il pocket money, non soggetto a ribasso
+            e riconosciuto su rendicontazione. Le voci di costo di riferimento stanno
+            nell&apos;Allegato B del capitolato, che non è in quell&apos;atto.
+          </p>
+          <p>
+            L&apos;obbligo per il gestore di versare il pocket money in denaro risulta dalla{" "}
+            <a href={ATTO_AVELLINO} target="_blank" rel="noopener" className="link-interno">determinazione a contrarre della
+            Prefettura di Avellino</a> (protocollo interno n. 36387 del 22 aprile 2024), che tra le
+            novità dello schema di capitolato approvato con il decreto del Ministro dell&apos;Interno
+            del 4 marzo 2024 indica l&apos;«obbligo per il gestore di erogare il pocket money unicamente
+            sotto forma di denaro».
+          </p>
+          <p className="avviso">
+            La cifra di {euroCent(POCKET_MONEY)} e i riferimenti ai due atti di Prefettura (Chieti e Avellino) vengono da
+            fonti esterne, non dai dati di questo sito: è l&apos;unica cifra della pagina che non viene dai nostri dati. Il costo mostrato
+            sopra è il valore che Centri d&apos;Italia pubblica con il nome «costo giornaliero per ospite»:
+            i dati non dicono se coincida con il prezzo previsto dal capitolato. Gli atti citati sono del
+            2024 e non descrivono gli anni precedenti.
+          </p>
+        </details>
+      </section>
 
       <section className="sezione">
         <h2 className="titolo-sezione">Il costo al giorno per ospite</h2>
@@ -211,42 +254,6 @@ export default function QuantoCosta() {
         <p className="nota-tabella">
           Il totale SAI è calcolato sul file dei progetti. Centri d&apos;Italia pubblica
           {" "}{nItal(centri.sai_ultimo_anno.presenze_strutture)}, calcolato sul file delle strutture.
-        </p>
-      </section>
-
-      <section className="sezione">
-        <h2 className="titolo-sezione">A chi vanno i soldi</h2>
-        <p>
-          Il prezzo giornaliero non va alla persona accolta: va all&apos;ente che gestisce il centro, per
-          ogni persona e per ogni giorno di presenza. Alla persona va il pocket money, una piccola
-          somma per le spese di ogni giorno: {euroCent(POCKET_MONEY)} al giorno, che il gestore deve versare
-          in denaro e che la Prefettura gli rimborsa a parte.
-        </p>
-        <p>
-          Secondo la decisione di contrarre della{" "}
-          <a href={ATTO_CAPITOLATO} target="_blank" rel="noopener" className="link-interno">Prefettura di Chieti</a>
-          {" "}(protocollo n. 41889 del 10 maggio 2024), che applica lo schema di capitolato per i
-          centri di accoglienza approvato con decreto del Ministro dell&apos;Interno del 4 marzo
-          2024, il corrispettivo al gestore è fissato per ogni persona e per ogni giorno di
-          effettiva presenza. Lo stesso atto prevede, oltre al prezzo a base d&apos;asta, un
-          rimborso di {euroCent(POCKET_MONEY)} al giorno per persona per il pocket money, non soggetto a ribasso
-          e riconosciuto su rendicontazione. Le voci di costo di riferimento stanno
-          nell&apos;Allegato B del capitolato, che non è in quell&apos;atto.
-        </p>
-        <p>
-          L&apos;obbligo per il gestore di versare il pocket money in denaro risulta dalla{" "}
-          <a href={ATTO_AVELLINO} target="_blank" rel="noopener" className="link-interno">determinazione a contrarre della
-          Prefettura di Avellino</a> (protocollo interno n. 36387 del 22 aprile 2024), che tra le
-          novità dello schema di capitolato approvato con il decreto del Ministro dell&apos;Interno
-          del 4 marzo 2024 indica l&apos;«obbligo per il gestore di erogare il pocket money unicamente
-          sotto forma di denaro».
-        </p>
-        <p className="avviso">
-          La cifra di {euroCent(POCKET_MONEY)} e i riferimenti ai due atti di Prefettura (Chieti e Avellino) vengono da
-          fonti esterne, non dai dati di questo sito: è l&apos;unica cifra della pagina che non viene dai nostri dati. Il costo mostrato
-          sopra è il valore che Centri d&apos;Italia pubblica con il nome «costo giornaliero per ospite»:
-          i dati non dicono se coincida con il prezzo previsto dal capitolato. Gli atti citati sono del
-          2024 e non descrivono gli anni precedenti.
         </p>
       </section>
 
