@@ -185,7 +185,7 @@ Valori Eurostat POS_HUM per le quattro righe «positive»: Egitto 2025 1.660, Ba
 
 **Come ho aggregato.** Somma della stima migliore (`bd_best`, `best_fatality_estimate`) per paese e anno. Il paese è quello di `gwno_loc` (BRD: località dell'incompatibilità) o `gwno_location` (OSV, non-state), codici Gleditsch-Ward; sono attribuite solo le righe con un solo paese. Le righe con più paesi (es. «Pakistan, Afghanistan») non sono attribuibili e non sono sommate: sono indicate a parte. Nel dataset BRD un conflitto-anno è presente solo se supera la soglia di 25 morti correlate a combattimenti: l'assenza di un anno significa «nessuna riga nel dataset», non zero morti. Tutte le cifre per paese e anno nel file `ucdp/ucdp_aggregato.json`.
 
-| Paese | Battle-related deaths (anni con riga) | One-sided (anni) | Non-state (anni) | Anni solo in righe multi-paese |
+| Paese | Battle-related deaths (anni con riga) | One-sided (anni) | Non-state (anni) | Anni con righe multi-paese (non sommate) |
 |---|---|---|---|---|
 | Afghanistan | 2015–2025 | 2015, 2017–2023 | 2015–2019 | 2015–2025 |
 | Albania | — | — | — | — |
