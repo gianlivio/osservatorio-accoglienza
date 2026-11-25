@@ -5,7 +5,7 @@ export type Decisioni = { totale: number; rifugiato: number; sussidiaria: number
 export type AnnoPaese = { richiedenti: number; minori_richiedenti: number; decisioni: Decisioni };
 export type SerieUcdp = Record<"battaglia" | "unilaterale" | "non_statale", Record<string, number>>;
 export type Paese = {
-  slug: string; nome: string; aggettivo: string; iso3: string; prime_dieci_richiedenti: number[];
+  slug: string; nome: string; aggettivo: string; da: string; iso3: string; prime_dieci_richiedenti: number[];
   anni: Record<string, AnnoPaese>;
   minori_presenti: Record<string, number>;
   ucdp: { morti: SerieUcdp; righe_multipaese: SerieUcdp };
@@ -89,7 +89,7 @@ export function descrizionePaese(p: Paese) {
   return t;
 }
 
-export const titoloPaese = (p: Paese) => `Migranti da ${p.nome} in Italia: domande d'asilo ed esiti ${periodoPaesi} · Osservatorio Accoglienza`;
+export const titoloPaese = (p: Paese) => `Migranti ${p.da} in Italia: domande d'asilo ed esiti ${periodoPaesi} · Osservatorio Accoglienza`;
 
 /** Somma dei richiedenti dei 24 paesi nell'anno e totale Italia. */
 export function quotaPaesi(anno: string) {
