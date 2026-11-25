@@ -233,7 +233,7 @@ export default function Metodologia() {
           <b>ecoi.net.</b> Ogni pagina rinvia alla pagina del paese su ecoi.net; il sito non ne riprende i testi.
         </p>
         <p>
-          <b>Globo.</b> I contorni sono quelli di world-atlas {dati.contorni.versione} (countries-110m, derivato da Natural Earth, pubblico dominio). Il punto di partenza di ogni
+          <b>Globo.</b> I contorni sono quelli di world-atlas {datiPaesi.contorni.versione} (countries-110m, derivato da Natural Earth, pubblico dominio). Il punto di partenza di ogni
           arco è il centroide del poligono principale del paese, o, se cade fuori dal territorio, il punto interno più vicino
           (<code>script/coordinate.mjs</code>). L&apos;arco è un cerchio massimo, sollevato sopra la superficie per essere leggibile: non rappresenta il percorso del
           viaggio. Lo spessore è proporzionale alla radice quadrata dei richiedenti asilo dell&apos;anno (Eurostat), con la stessa scala per tutti gli anni.
