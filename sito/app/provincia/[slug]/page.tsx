@@ -154,6 +154,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           Dal 2024 entrano nell&apos;archivio anche contratti di piccolo importo: per confrontare gli anni, usa la colonna Da 40.000 € in su.{" "}
           <Link href="/metodologia">Metodologia</Link>
         </p>
+        <p className="avviso">
+          I contratti pluriennali compaiono solo nell&apos;anno in cui vengono firmati.
+        </p>
         <p className="nota-tabella">
           In tutta Italia, {nItal(Object.values(senzaProvincia).reduce((n, v) => n + v.affidamenti, 0))} contratti su {nItal(totaleNazionale.affidamenti)} dell&apos;archivio
           non indicano la provincia: non sono in questa pagina. <Link href="/metodologia#senza-provincia">Come sono trattati</Link>
