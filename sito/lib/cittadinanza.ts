@@ -1,10 +1,9 @@
 import raw from "@/data/msna-cittadinanza.json";
 import { msnaData } from "@/lib/dati";
-import { nomeRapporto } from "@/lib/msnaIngressi";
 
 type Voce = { nome: string; presenti: number; percentuale: number | null };
 type Anno = {
-  tipo: "tabella" | "testo"; data: string; fonte: string; pagina: number; totale: number; cittadinanze: Voce[];
+  tipo: "tabella" | "testo"; data: string; fonte: string; titolo: string; url: string; pagina: number; totale: number; cittadinanze: Voce[];
   altre_nel_report?: number | null; gruppo_citato?: number; percentuale_gruppo?: number | null; percentuale_oltre?: boolean;
 };
 const dati = (raw as unknown as { anni: Record<string, Anno> }).anni;
@@ -45,7 +44,7 @@ export function cittadinanzaAnni(): CittadinanzaAnno[] {
   verifica();
   return Object.entries(dati).sort(([a], [b]) => a.localeCompare(b)).map(([anno, d]) => {
     const righe = (d.tipo === "tabella" ? d.cittadinanze.slice(0, 10) : d.cittadinanze).map((c) => ({ nome: c.nome, presenti: c.presenti }));
-    return { anno, data: d.data, fonteTitolo: nomeRapporto(d.fonte, d.data).titolo, fonteUrl: nomeRapporto(d.fonte, d.data).url, pagina: d.pagina, totale: d.totale, tipo: d.tipo, righe,
+    return { anno, data: d.data, fonteTitolo: d.titolo, fonteUrl: d.url, pagina: d.pagina, totale: d.totale, tipo: d.tipo, righe,
       altre: d.totale - righe.reduce((n, r) => n + r.presenti, 0) };
   });
 }

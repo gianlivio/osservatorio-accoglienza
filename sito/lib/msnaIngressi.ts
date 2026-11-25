@@ -114,13 +114,3 @@ export function cifreApprossimate() {
   }
   return out;
 }
-
-/** Nome per esteso e link del rapporto del Ministero del Lavoro da cui viene un file (es. «sem-2025-12.pdf», «Report-MSNA-mese-dicembre-2021.pdf»). */
-export function nomeRapporto(file: string, data: string): { titolo: string; url: string | null } {
-  const anno = data.slice(0, 4);
-  if (/^sem-\d{4}-12\.pdf$/.test(file)) {
-    const a = ingressi.anni[anno];
-    return { titolo: a?.titolo ?? `Rapporto semestrale al 31 dicembre ${anno}`, url: a?.url ?? null };
-  }
-  return { titolo: `Report mensile al 31 dicembre ${anno}`, url: null };
-}

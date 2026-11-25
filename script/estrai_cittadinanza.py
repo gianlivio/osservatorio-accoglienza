@@ -21,6 +21,16 @@ MENSILI = {
     2022: "Report-MSNA-mese-dicembre-2022.pdf",
 }
 SEMESTRALI = {2023: "sem-2023-12.pdf", 2024: "sem-2024-12.pdf", 2025: "sem-2025-12.pdf"}
+
+# Nome per esteso e indirizzo del PDF sul sito del Ministero del Lavoro, per anno. Gli indirizzi sono verificati: il file scaricato
+# è identico byte per byte a quello locale in dati-msna/ e dati-msna-sem/ (verifica del 25/11/2026). Gli stessi tre indirizzi dei
+# semestrali sono in script/estrai_ingressi.py.
+DOC = "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/"
+RAPPORTI = {a: (f"Report mensile al 31 dicembre {a}", DOC + f) for a, f in MENSILI.items()}
+RAPPORTI.update({
+    2023: ("Rapporto semestrale al 31 dicembre 2023", "https://www.lavoro.gov.it/documenti/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31dic2023"),
+    2024: ("Rapporto semestrale al 31 dicembre 2024", "https://www.lavoro.gov.it/documenti/report-approfondimento-semestrale-msna-31-dicembre-2024-bis"),
+    2025: ("Rapporto semestrale al 31 dicembre 2025", "https://www.lavoro.gov.it/documenti-e-norme/studi-e-statistiche/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31122025")})
 # titolo che precede la tabella dei presenti (le altre tabelle hanno titoli diversi: IRREPERIBILI, DELLE MINORI, IN INGRESSO, dal .. al ..)
 TITOLO_PRESENTI = re.compile(r"^(RIPARTIZIONE DEI MINORI PER CITTADINANZA|MSNA PER CITTADINANZA)\s*$", re.M)
 RIGA = re.compile(r"^([A-ZÀ-Ù][A-ZÀ-Ù'’ .,\-]+?)\s+(\d[\d.]*)\s+(\d+(?:,\d+)?)\s*$")
@@ -141,7 +151,9 @@ def main():
     for n in note: print("NOTA", n)
     for e in err: print("ERRORE", e, file=sys.stderr)
     if err: sys.exit(1)
-    for a, d in anni.items(): d["totale"] = d.get("totale") or naz[f"{a}-12"]
+    for a, d in anni.items():
+        d["totale"] = d.get("totale") or naz[f"{a}-12"]
+        d["titolo"], d["url"] = RAPPORTI[a]
     json.dump({"anni": {str(a): d for a, d in sorted(anni.items())}}, open("sito/data/msna-cittadinanza.json", "w"), ensure_ascii=False, indent=1)
     print("scritto sito/data/msna-cittadinanza.json")
 
