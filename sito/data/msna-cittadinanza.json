@@ -1,0 +1,1370 @@
+{
+ "anni": {
+  "2016": {
+   "tipo": "tabella",
+   "data": "2016-12-31",
+   "fonte": "Report-MSNA-31122016.pdf",
+   "pagina": 3,
+   "totale": 17373,
+   "cittadinanze": [
+    {
+     "nome": "Egitto",
+     "presenti": 2766,
+     "percentuale": 15.9
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 2302,
+     "percentuale": 13.3
+    },
+    {
+     "nome": "Albania",
+     "presenti": 1611,
+     "percentuale": 9.3
+    },
+    {
+     "nome": "Nigeria",
+     "presenti": 1437,
+     "percentuale": 8.3
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 1331,
+     "percentuale": 7.7
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 1168,
+     "percentuale": 6.7
+    },
+    {
+     "nome": "Costa D'avorio",
+     "presenti": 922,
+     "percentuale": 5.3
+    },
+    {
+     "nome": "Bangladesh",
+     "presenti": 885,
+     "percentuale": 5.1
+    },
+    {
+     "nome": "Mali",
+     "presenti": 865,
+     "percentuale": 5.0
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 841,
+     "percentuale": 4.8
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 818,
+     "percentuale": 4.7
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 372,
+     "percentuale": 2.1
+    },
+    {
+     "nome": "Ghana",
+     "presenti": 347,
+     "percentuale": 2.0
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 300,
+     "percentuale": 1.7
+    },
+    {
+     "nome": "Repubblica del Kosovo",
+     "presenti": 298,
+     "percentuale": 1.7
+    },
+    {
+     "nome": "Marocco",
+     "presenti": 179,
+     "percentuale": 1.0
+    },
+    {
+     "nome": "Sudan",
+     "presenti": 87,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Etiopia",
+     "presenti": 87,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 83,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Sierra Leone",
+     "presenti": 65,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Camerun",
+     "presenti": 65,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Burkina Faso",
+     "presenti": 64,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Guinea Bissau",
+     "presenti": 58,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Algeria",
+     "presenti": 51,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Siria",
+     "presenti": 49,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Benin",
+     "presenti": 47,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Iraq",
+     "presenti": 23,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Repubblica Moldava",
+     "presenti": 22,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Togo",
+     "presenti": 22,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Ucraina",
+     "presenti": 21,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Repubblica Serba",
+     "presenti": 19,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Liberia",
+     "presenti": 16,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Niger",
+     "presenti": 15,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Congo",
+     "presenti": 13,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Brasile",
+     "presenti": 13,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Bosnia-erzegovina",
+     "presenti": 10,
+     "percentuale": 0.1
+    }
+   ],
+   "altre_nel_report": 101
+  },
+  "2017": {
+   "tipo": "tabella",
+   "data": "2017-12-31",
+   "fonte": "Report-MSNA-mese-dicembre2017-31122017.pdf",
+   "pagina": 3,
+   "totale": 18303,
+   "cittadinanze": [
+    {
+     "nome": "Gambia",
+     "presenti": 2202,
+     "percentuale": 12.0
+    },
+    {
+     "nome": "Egitto",
+     "presenti": 1807,
+     "percentuale": 9.9
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 1752,
+     "percentuale": 9.6
+    },
+    {
+     "nome": "Albania",
+     "presenti": 1677,
+     "percentuale": 9.2
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 1459,
+     "percentuale": 8.0
+    },
+    {
+     "nome": "Costa D'avorio",
+     "presenti": 1388,
+     "percentuale": 7.6
+    },
+    {
+     "nome": "Nigeria",
+     "presenti": 1274,
+     "percentuale": 7.0
+    },
+    {
+     "nome": "Mali",
+     "presenti": 1071,
+     "percentuale": 5.9
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 1006,
+     "percentuale": 5.5
+    },
+    {
+     "nome": "Bangladesh",
+     "presenti": 860,
+     "percentuale": 4.7
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 837,
+     "percentuale": 4.6
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 392,
+     "percentuale": 2.1
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 353,
+     "percentuale": 1.9
+    },
+    {
+     "nome": "Ghana",
+     "presenti": 314,
+     "percentuale": 1.7
+    },
+    {
+     "nome": "Kosovo",
+     "presenti": 296,
+     "percentuale": 1.6
+    },
+    {
+     "nome": "Marocco",
+     "presenti": 256,
+     "percentuale": 1.4
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 251,
+     "percentuale": 1.4
+    },
+    {
+     "nome": "Sudan",
+     "presenti": 169,
+     "percentuale": 0.9
+    },
+    {
+     "nome": "Sierra Leone",
+     "presenti": 108,
+     "percentuale": 0.6
+    },
+    {
+     "nome": "Camerun",
+     "presenti": 99,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Etiopia",
+     "presenti": 92,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Burkina Faso",
+     "presenti": 90,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Guinea Bissau",
+     "presenti": 73,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Benin",
+     "presenti": 62,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Algeria",
+     "presenti": 52,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Siria",
+     "presenti": 40,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Togo",
+     "presenti": 33,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Niger",
+     "presenti": 30,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Iraq",
+     "presenti": 29,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Ciad",
+     "presenti": 26,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Liberia",
+     "presenti": 25,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Libia",
+     "presenti": 22,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Congo",
+     "presenti": 21,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Ucraina",
+     "presenti": 15,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Brasile",
+     "presenti": 15,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Moldova",
+     "presenti": 11,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Iran",
+     "presenti": 10,
+     "percentuale": 0.1
+    }
+   ],
+   "altre_nel_report": 86
+  },
+  "2018": {
+   "tipo": "tabella",
+   "data": "2018-12-31",
+   "fonte": "Report-MSNA-mese-dicembre-2018-15012019.pdf",
+   "pagina": 3,
+   "totale": 10787,
+   "cittadinanze": [
+    {
+     "nome": "Albania",
+     "presenti": 1550,
+     "percentuale": 14.4
+    },
+    {
+     "nome": "Egitto",
+     "presenti": 930,
+     "percentuale": 8.6
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 892,
+     "percentuale": 8.3
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 802,
+     "percentuale": 7.4
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 770,
+     "percentuale": 7.1
+    },
+    {
+     "nome": "Costa D'avorio",
+     "presenti": 769,
+     "percentuale": 7.1
+    },
+    {
+     "nome": "Mali",
+     "presenti": 596,
+     "percentuale": 5.5
+    },
+    {
+     "nome": "Nigeria",
+     "presenti": 563,
+     "percentuale": 5.2
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 552,
+     "percentuale": 5.1
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 505,
+     "percentuale": 4.7
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 475,
+     "percentuale": 4.4
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 398,
+     "percentuale": 3.7
+    },
+    {
+     "nome": "Bangladesh",
+     "presenti": 316,
+     "percentuale": 2.9
+    },
+    {
+     "nome": "Kosovo",
+     "presenti": 315,
+     "percentuale": 2.9
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 302,
+     "percentuale": 2.8
+    },
+    {
+     "nome": "Marocco",
+     "presenti": 217,
+     "percentuale": 2.0
+    },
+    {
+     "nome": "Ghana",
+     "presenti": 126,
+     "percentuale": 1.2
+    },
+    {
+     "nome": "Sudan",
+     "presenti": 101,
+     "percentuale": 0.9
+    },
+    {
+     "nome": "Sierra Leone",
+     "presenti": 79,
+     "percentuale": 0.7
+    },
+    {
+     "nome": "Camerun",
+     "presenti": 53,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Burkina Faso",
+     "presenti": 46,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Etiopia",
+     "presenti": 41,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Iraq",
+     "presenti": 38,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Guinea Bissau",
+     "presenti": 37,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Benin",
+     "presenti": 31,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Siria",
+     "presenti": 28,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Algeria",
+     "presenti": 23,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Niger",
+     "presenti": 17,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Ciad",
+     "presenti": 17,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Ucraina",
+     "presenti": 16,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Bosnia-erzegovina",
+     "presenti": 14,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Brasile",
+     "presenti": 14,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Moldova",
+     "presenti": 13,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Liberia",
+     "presenti": 13,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Congo",
+     "presenti": 13,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Libia",
+     "presenti": 12,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Iran",
+     "presenti": 12,
+     "percentuale": 0.1
+    }
+   ],
+   "altre_nel_report": 91
+  },
+  "2019": {
+   "tipo": "tabella",
+   "data": "2019-12-31",
+   "fonte": "Report-MSNA-mese-dicembre-2019.pdf",
+   "pagina": 3,
+   "totale": 6054,
+   "cittadinanze": [
+    {
+     "nome": "Albania",
+     "presenti": 1676,
+     "percentuale": 27.7
+    },
+    {
+     "nome": "Egitto",
+     "presenti": 531,
+     "percentuale": 8.8
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 501,
+     "percentuale": 8.3
+    },
+    {
+     "nome": "Bangladesh",
+     "presenti": 482,
+     "percentuale": 8.0
+    },
+    {
+     "nome": "Kosovo",
+     "presenti": 328,
+     "percentuale": 5.4
+    },
+    {
+     "nome": "Costa D'avorio",
+     "presenti": 286,
+     "percentuale": 4.7
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 278,
+     "percentuale": 4.6
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 260,
+     "percentuale": 4.3
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 239,
+     "percentuale": 4.0
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 217,
+     "percentuale": 3.6
+    },
+    {
+     "nome": "Mali",
+     "presenti": 184,
+     "percentuale": 3.0
+    },
+    {
+     "nome": "Nigeria",
+     "presenti": 176,
+     "percentuale": 2.9
+    },
+    {
+     "nome": "Marocco",
+     "presenti": 168,
+     "percentuale": 2.8
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 147,
+     "percentuale": 2.4
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 121,
+     "percentuale": 2.0
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 87,
+     "percentuale": 1.4
+    },
+    {
+     "nome": "Ghana",
+     "presenti": 43,
+     "percentuale": 0.7
+    },
+    {
+     "nome": "Sudan",
+     "presenti": 33,
+     "percentuale": 0.6
+    },
+    {
+     "nome": "Camerun",
+     "presenti": 30,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Sierra Leone",
+     "presenti": 27,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Iraq",
+     "presenti": 21,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Turchia",
+     "presenti": 21,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Guinea Bissau",
+     "presenti": 16,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Burkina Faso",
+     "presenti": 12,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Etiopia",
+     "presenti": 12,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Benin",
+     "presenti": 11,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Moldova",
+     "presenti": 11,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Congo, Rep.democratica",
+     "presenti": 10,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Ciad",
+     "presenti": 9,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "India",
+     "presenti": 9,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Siria",
+     "presenti": 8,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Ucraina",
+     "presenti": 8,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Algeria",
+     "presenti": 7,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Guinea Equatoriale",
+     "presenti": 7,
+     "percentuale": 0.1
+    },
+    {
+     "nome": "Peru'",
+     "presenti": 7,
+     "percentuale": 0.1
+    }
+   ],
+   "altre_nel_report": 71
+  },
+  "2020": {
+   "tipo": "tabella",
+   "data": "2020-12-31",
+   "fonte": "Report-MSNA-mese-dicembre-2020.pdf",
+   "pagina": 3,
+   "totale": 7080,
+   "cittadinanze": [
+    {
+     "nome": "Bangladesh",
+     "presenti": 1558,
+     "percentuale": 22.0
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 1084,
+     "percentuale": 15.3
+    },
+    {
+     "nome": "Albania",
+     "presenti": 972,
+     "percentuale": 13.7
+    },
+    {
+     "nome": "Egitto",
+     "presenti": 696,
+     "percentuale": 9.8
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 574,
+     "percentuale": 8.1
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 309,
+     "percentuale": 4.4
+    },
+    {
+     "nome": "Costa D'avorio",
+     "presenti": 244,
+     "percentuale": 3.4
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 242,
+     "percentuale": 3.4
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 178,
+     "percentuale": 2.5
+    },
+    {
+     "nome": "Kosovo",
+     "presenti": 163,
+     "percentuale": 2.3
+    },
+    {
+     "nome": "Marocco",
+     "presenti": 135,
+     "percentuale": 1.9
+    },
+    {
+     "nome": "Mali",
+     "presenti": 128,
+     "percentuale": 1.8
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 124,
+     "percentuale": 1.8
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 100,
+     "percentuale": 1.4
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 77,
+     "percentuale": 1.1
+    },
+    {
+     "nome": "Sudan",
+     "presenti": 69,
+     "percentuale": 1.0
+    },
+    {
+     "nome": "Nigeria",
+     "presenti": 61,
+     "percentuale": 0.9
+    },
+    {
+     "nome": "Sierra Leone",
+     "presenti": 52,
+     "percentuale": 0.7
+    },
+    {
+     "nome": "Ghana",
+     "presenti": 44,
+     "percentuale": 0.6
+    },
+    {
+     "nome": "Iran",
+     "presenti": 29,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Camerun",
+     "presenti": 27,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Algeria",
+     "presenti": 26,
+     "percentuale": 0.4
+    }
+   ],
+   "altre_nel_report": 188
+  },
+  "2021": {
+   "tipo": "tabella",
+   "data": "2021-12-31",
+   "fonte": "Report-MSNA-mese-dicembre-2021.pdf",
+   "pagina": 3,
+   "totale": 12284,
+   "cittadinanze": [
+    {
+     "nome": "Bangladesh",
+     "presenti": 2843,
+     "percentuale": 23.1
+    },
+    {
+     "nome": "Egitto",
+     "presenti": 2221,
+     "percentuale": 18.1
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 1560,
+     "percentuale": 12.7
+    },
+    {
+     "nome": "Albania",
+     "presenti": 1186,
+     "percentuale": 9.7
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 784,
+     "percentuale": 6.4
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 463,
+     "percentuale": 3.8
+    },
+    {
+     "nome": "Costa D'avorio",
+     "presenti": 460,
+     "percentuale": 3.7
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 446,
+     "percentuale": 3.6
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 359,
+     "percentuale": 2.9
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 263,
+     "percentuale": 2.1
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 232,
+     "percentuale": 1.9
+    },
+    {
+     "nome": "Mali",
+     "presenti": 203,
+     "percentuale": 1.7
+    },
+    {
+     "nome": "Kosovo",
+     "presenti": 175,
+     "percentuale": 1.4
+    },
+    {
+     "nome": "Marocco",
+     "presenti": 160,
+     "percentuale": 1.3
+    },
+    {
+     "nome": "Sudan",
+     "presenti": 131,
+     "percentuale": 1.1
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 120,
+     "percentuale": 1.0
+    },
+    {
+     "nome": "Nigeria",
+     "presenti": 85,
+     "percentuale": 0.7
+    },
+    {
+     "nome": "Iran",
+     "presenti": 65,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Ghana",
+     "presenti": 64,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Siria",
+     "presenti": 57,
+     "percentuale": 0.5
+    },
+    {
+     "nome": "Camerun",
+     "presenti": 54,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Burkina Faso",
+     "presenti": 41,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Sierra Leone",
+     "presenti": 39,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Algeria",
+     "presenti": 35,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Etiopia",
+     "presenti": 30,
+     "percentuale": 0.2
+    }
+   ],
+   "altre_nel_report": 208
+  },
+  "2022": {
+   "tipo": "tabella",
+   "data": "2022-12-31",
+   "fonte": "Report-MSNA-mese-dicembre-2022.pdf",
+   "pagina": 4,
+   "totale": 20089,
+   "cittadinanze": [
+    {
+     "nome": "Ucraina",
+     "presenti": 5042,
+     "percentuale": 25.1
+    },
+    {
+     "nome": "Egitto",
+     "presenti": 4899,
+     "percentuale": 24.4
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 1800,
+     "percentuale": 9.0
+    },
+    {
+     "nome": "Albania",
+     "presenti": 1347,
+     "percentuale": 6.7
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 1082,
+     "percentuale": 5.4
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 866,
+     "percentuale": 4.3
+    },
+    {
+     "nome": "Costa D'avorio",
+     "presenti": 706,
+     "percentuale": 3.5
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 667,
+     "percentuale": 3.3
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 610,
+     "percentuale": 3.0
+    },
+    {
+     "nome": "Bangladesh",
+     "presenti": 571,
+     "percentuale": 2.8
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 417,
+     "percentuale": 2.1
+    },
+    {
+     "nome": "Kosovo",
+     "presenti": 237,
+     "percentuale": 1.2
+    },
+    {
+     "nome": "Mali",
+     "presenti": 230,
+     "percentuale": 1.1
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 221,
+     "percentuale": 1.1
+    },
+    {
+     "nome": "Marocco",
+     "presenti": 200,
+     "percentuale": 1.0
+    },
+    {
+     "nome": "Turchia",
+     "presenti": 169,
+     "percentuale": 0.8
+    },
+    {
+     "nome": "Camerun",
+     "presenti": 150,
+     "percentuale": 0.7
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 137,
+     "percentuale": 0.7
+    },
+    {
+     "nome": "Siria",
+     "presenti": 135,
+     "percentuale": 0.7
+    },
+    {
+     "nome": "Nigeria",
+     "presenti": 89,
+     "percentuale": 0.4
+    },
+    {
+     "nome": "Ghana",
+     "presenti": 67,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Sudan",
+     "presenti": 58,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Burkina Faso",
+     "presenti": 55,
+     "percentuale": 0.3
+    },
+    {
+     "nome": "Sierra Leone",
+     "presenti": 45,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Iran",
+     "presenti": 42,
+     "percentuale": 0.2
+    },
+    {
+     "nome": "Iraq",
+     "presenti": 40,
+     "percentuale": 0.2
+    }
+   ],
+   "altre_nel_report": 207
+  },
+  "2023": {
+   "tipo": "testo",
+   "data": "2023-12-31",
+   "fonte": "sem-2023-12.pdf",
+   "pagina": 13,
+   "cittadinanze": [
+    {
+     "nome": "Egitto",
+     "presenti": 4667,
+     "percentuale": null
+    },
+    {
+     "nome": "Ucraina",
+     "presenti": 4131,
+     "percentuale": null
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 2438,
+     "percentuale": null
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 2141,
+     "percentuale": null
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 1925,
+     "percentuale": null
+    },
+    {
+     "nome": "Costa d'Avorio",
+     "presenti": 1261,
+     "percentuale": null
+    },
+    {
+     "nome": "Albania",
+     "presenti": 936,
+     "percentuale": null
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 820,
+     "percentuale": null
+    },
+    {
+     "nome": "Mali",
+     "presenti": 626,
+     "percentuale": null
+    },
+    {
+     "nome": "Burkina Faso",
+     "presenti": 468,
+     "percentuale": null
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 453,
+     "percentuale": null
+    },
+    {
+     "nome": "Afghanistan",
+     "presenti": 404,
+     "percentuale": null
+    }
+   ],
+   "gruppo_citato": 7,
+   "percentuale_gruppo": 75.4,
+   "percentuale_oltre": false,
+   "totale": 23226
+  },
+  "2024": {
+   "tipo": "testo",
+   "data": "2024-12-31",
+   "fonte": "sem-2024-12.pdf",
+   "pagina": 14,
+   "cittadinanze": [
+    {
+     "nome": "Egitto",
+     "presenti": 3792,
+     "percentuale": null
+    },
+    {
+     "nome": "Ucraina",
+     "presenti": 3503,
+     "percentuale": null
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 2176,
+     "percentuale": null
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 1789,
+     "percentuale": null
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 1512,
+     "percentuale": null
+    },
+    {
+     "nome": "Costa d'Avorio",
+     "presenti": 884,
+     "percentuale": null
+    },
+    {
+     "nome": "Albania",
+     "presenti": 586,
+     "percentuale": null
+    },
+    {
+     "nome": "Bangladesh",
+     "presenti": 487,
+     "percentuale": null
+    },
+    {
+     "nome": "Mali",
+     "presenti": 462,
+     "percentuale": null
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 462,
+     "percentuale": null
+    },
+    {
+     "nome": "Eritrea",
+     "presenti": 337,
+     "percentuale": null
+    },
+    {
+     "nome": "Senegal",
+     "presenti": 332,
+     "percentuale": null
+    }
+   ],
+   "gruppo_citato": 7,
+   "percentuale_gruppo": 76.5,
+   "percentuale_oltre": false,
+   "totale": 18625
+  },
+  "2025": {
+   "tipo": "testo",
+   "data": "2025-12-31",
+   "fonte": "sem-2025-12.pdf",
+   "pagina": 14,
+   "cittadinanze": [
+    {
+     "nome": "Egitto",
+     "presenti": 5159,
+     "percentuale": null
+    },
+    {
+     "nome": "Ucraina",
+     "presenti": 2963,
+     "percentuale": null
+    },
+    {
+     "nome": "Bangladesh",
+     "presenti": 1703,
+     "percentuale": null
+    },
+    {
+     "nome": "Gambia",
+     "presenti": 1114,
+     "percentuale": null
+    },
+    {
+     "nome": "Tunisia",
+     "presenti": 932,
+     "percentuale": null
+    },
+    {
+     "nome": "Guinea",
+     "presenti": 872,
+     "percentuale": null
+    },
+    {
+     "nome": "Costa d'Avorio",
+     "presenti": 564,
+     "percentuale": null
+    },
+    {
+     "nome": "Albania",
+     "presenti": 418,
+     "percentuale": null
+    },
+    {
+     "nome": "Pakistan",
+     "presenti": 408,
+     "percentuale": null
+    },
+    {
+     "nome": "Somalia",
+     "presenti": 367,
+     "percentuale": null
+    }
+   ],
+   "gruppo_citato": 8,
+   "percentuale_gruppo": 80.0,
+   "percentuale_oltre": true,
+   "totale": 17011
+  }
+ }
+}
