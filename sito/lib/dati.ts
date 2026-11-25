@@ -2,7 +2,7 @@ import dati from "@/data/province-lite.json";
 
 export type Blocco = {
   affidamenti: number; certi: number; diretti: number; quota_diretti: number;
-  quota_diretti_per_importo: number; sotto_soglia: number;
+  quota_diretti_per_importo: number; sotto_soglia: number; affidamenti_40k: number;
   quota_diretti_sotto_soglia: number | null; importo_mediano: number | null;
   prosecuzioni: number; canale_prefettura: number; canale_ente_locale: number;
   enti_gestori: number; copertura_vincitore: number;
@@ -64,6 +64,20 @@ export function descrizioneProvincia(p: Provincia) {
 }
 
 export const trovaProvincia = (s: string) => province.find((p) => slug(p.provincia) === s);
+// Controllo di build (da generateStaticParams delle pagine provincia): per ogni anno, province + contratti senza provincia
+// = totale nazionale, sia per tutti i contratti sia per quelli da 40.000 € in su. Se non tornano la build fallisce.
+export const senzaProvincia = (dati as unknown as { senza_provincia: Record<string, { affidamenti: number; affidamenti_40k: number }> }).senza_provincia;
+export async function verificaSommeProvince() {
+  const det = await Promise.all(province.map((p) => caricaDettaglioProvincia(slug(p.provincia))));
+  const errori: string[] = [];
+  for (const s of serieAnni) {
+    for (const campo of ["affidamenti", "affidamenti_40k"] as const) {
+      const somma = det.reduce((n, d) => n + (d.per_anno[s.anno]?.[campo] ?? 0), 0);
+      if (somma + senzaProvincia[s.anno][campo] !== s[campo]) errori.push(`${s.anno} ${campo}: ${somma} + ${senzaProvincia[s.anno][campo]} invece di ${s[campo]}`);
+    }
+  }
+  if (errori.length) throw new Error(`Le province non sommano al totale: ${errori.join("; ")}`);
+}
 export async function caricaDettaglioProvincia(slug: string): Promise<ProvinciaDettaglio> {
   const mod = await import(`@/data/provincia/${slug}.json`);
   return mod.default as unknown as ProvinciaDettaglio;

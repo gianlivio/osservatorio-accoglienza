@@ -152,6 +152,7 @@ def blocco(rr):
         "mod_gara": sum(1 for r in rr if modalita(r) == "gara"),
         "mod_altro": sum(1 for r in rr if modalita(r) == "altro"),
         "quota_diretti_per_importo": round(val_d / val * 100, 1),
+        "affidamenti_40k": sum(1 for r in rr if (num(r["importo_lotto"], 0) or 0) >= 40000),
         "sotto_soglia": len(sotto),
         "quota_diretti_sotto_soglia": round(sum(1 for r in sotto if diretto(r)) / len(sotto) * 100, 1) if sotto else None,
         "importo_mediano": round(statistics.median(imp)) if imp else None,
@@ -251,6 +252,17 @@ for p, rr in sorted(per_prov.items()):
                                 for (a, e), v in cop.most_common(8) if v >= 3],
     })
 
+# controllo: per ogni anno, province + contratti senza provincia = totale nazionale (tutti i contratti e quelli da 40.000 € in su)
+_errori = []
+for _a in ANNI:
+    for _campo in ("affidamenti", "affidamenti_40k"):
+        _prov = sum((p["per_anno"][_a] or {}).get(_campo, 0) for p in province)
+        _senza = sum(1 for r in righe if r["anno"] == _a and not (r["provincia"] or "").strip()
+                     and (_campo == "affidamenti" or (num(r["importo_lotto"], 0) or 0) >= 40000))
+        _tot = sum(1 for r in righe if r["anno"] == _a and (_campo == "affidamenti" or (num(r["importo_lotto"], 0) or 0) >= 40000))
+        if _prov + _senza != _tot: _errori.append(f"{_a} {_campo}: province {_prov} + senza provincia {_senza} ≠ totale {_tot}")
+if _errori: raise SystemExit("Le province non sommano al totale:\n" + "\n".join(_errori))
+
 dati = {
     "anni": ANNI,
     "fonte": "ANAC - Banca Dati Nazionale dei Contratti Pubblici (CIG, aggiudicazioni, aggiudicatari)",
@@ -271,6 +283,11 @@ dati = {
         for rr in [[r for r in righe if r["anno"] == a]] if rr
         for big in [[r for r in rr if (num(r["importo_lotto"], 0) or 0) >= 40000]]
     ],
+    "senza_provincia": {
+        a: {"affidamenti": len(rr), "affidamenti_40k": sum(1 for r in rr if (num(r["importo_lotto"], 0) or 0) >= 40000)}
+        for a in ANNI
+        for rr in [[r for r in righe if r["anno"] == a and not (r["provincia"] or "").strip()]]
+    },
     "anni_esito": sorted(ANNI_ESITO),
     "aggiornato": max(data_archivi(arch_agg), data_archivi(arch_vin)),
     "esclusi_a_mano": len(scartati),

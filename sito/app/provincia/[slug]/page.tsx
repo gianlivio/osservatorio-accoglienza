@@ -9,7 +9,7 @@ import { nomeEnte } from "@/lib/nomi";
 import { slugEnteDaCf } from "@/lib/enti";
 import { centri } from "@/lib/centri";
 import { regioneDi, regioni } from "@/lib/regioni";
-import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, euroCent, nomeProvincia, nProvincia, descrizioneProvincia, pct } from "@/lib/dati";
+import { province, trovaProvincia, caricaDettaglioProvincia, slug as mkSlug, euro, anni, nItal, euroCent, nomeProvincia, nProvincia, descrizioneProvincia, pct, verificaSommeProvince, senzaProvincia, totale as totaleNazionale } from "@/lib/dati";
 
 const NOMI_MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
 const MESI_LUNGHI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto",
@@ -19,7 +19,8 @@ function formatPeriodo(periodo: string) {
   return `${NOMI_MESI[+mese - 1]} ${anno}`;
 }
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  await verificaSommeProvince();
   return province.map((p) => ({ slug: mkSlug(p.provincia) }));
 }
 
