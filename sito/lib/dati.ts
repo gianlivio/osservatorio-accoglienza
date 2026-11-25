@@ -94,4 +94,20 @@ export type MsnaData = {
   nazionale: MsnaPunto[]; regioni: MsnaRegione[];
   ultimo_totale_periodo: string; ultimo_totale: number;
 };
+import msnaAttesi from "@/data/msna-attesi.json";
 export const msnaData = msnaRaw as unknown as MsnaData;
+
+// Controlli sui dati dei minori: valori letti a mano dai report del Ministero e somma delle regioni uguale al totale nazionale
+// di ogni mese. Se non tornano la build fallisce (gli stessi controlli sono in script/estrai_msna.py).
+(function verificaMsna(d: MsnaData) {
+  const errori: string[] = [];
+  const mensili = new Map(d.nazionale.filter((p) => p.tipo === "mensile").map((p) => [p.periodo, p.presenti]));
+  for (const a of msnaAttesi) {
+    if (mensili.get(a.periodo) !== a.presenti) errori.push(`${a.periodo}: ${mensili.get(a.periodo)} invece di ${a.presenti}`);
+  }
+  for (const [periodo, totale] of mensili) {
+    const somma = d.regioni.reduce((n, r) => n + (r.serie.find((p) => p.periodo === periodo)?.presenti ?? 0), 0);
+    if (somma !== totale) errori.push(`${periodo}: regioni ${somma}, totale ${totale}`);
+  }
+  if (errori.length) throw new Error(`Dati MSNA non coerenti: ${errori.join("; ")}`);
+})(msnaData);
