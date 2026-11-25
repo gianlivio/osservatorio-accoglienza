@@ -38,7 +38,8 @@ def intero(s): return int(s.replace(".", ""))
 
 def bello(nome):
     t = nome.replace("’", "'").title()
-    return re.sub(r"\b(D|Del|Di|Della)\b(?=['\s])", lambda m: m.group(1).lower(), t).replace("d'Avorio", "d'Avorio")
+    t = re.sub(r"\b(D|Del|Di|Della)\b(?=['\s])", lambda m: m.group(1).lower(), t).replace("d'Avorio", "d'Avorio")
+    return "Rep. Democratica del Congo" if t == "Congo, Rep.Democratica" else t
 
 
 def pagine(path):
