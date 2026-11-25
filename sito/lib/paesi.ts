@@ -1,5 +1,5 @@
 import raw from "@/data/paesi.json";
-import { nItal, pct, dataLunga } from "@/lib/dati";
+import { nItal, pct } from "@/lib/dati";
 
 export type Decisioni = { totale: number; rifugiato: number; sussidiaria: number; umanitaria: number; rifiuti: number };
 export type AnnoPaese = { richiedenti: number; minori_richiedenti: number; decisioni: Decisioni };
@@ -126,4 +126,3 @@ export const elencoAnni = (anni: string[]) => {
   return out.length > 1 ? `${out.slice(0, -1).join(", ")} e ${out[out.length - 1]}` : out[0];
 };
 
-export { dataLunga };

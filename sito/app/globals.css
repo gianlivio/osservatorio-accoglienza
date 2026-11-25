@@ -310,3 +310,12 @@ th.num .ordina{flex-direction:row-reverse}
 .barra-resto{background:var(--tenue)}
 @media (max-width:500px){.col-barra-cit{width:38%}}
 .tabella + .nota-tabella{margin-top:12px}
+
+/* Paesi di provenienza */
+.tabella-paese th small{display:block;font-weight:400;letter-spacing:0;text-transform:none;color:var(--tenue)}
+@media (max-width:500px){
+  .tabella-paese{font-size:12px}
+  .tabella-paese th{font-size:9px;letter-spacing:0}
+  .tabella-paese th.num,.tabella-paese td.num{padding-right:5px}
+  .tabella-paese td{padding-right:5px}
+}
