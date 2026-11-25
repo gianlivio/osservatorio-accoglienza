@@ -2,7 +2,7 @@ import dati from "@/data/cronologia.json";
 
 export type Atto = {
   anno: string; atto: string; data: string; gu: string; data_conversione?: string;
-  noto_come: string[]; sigla?: string; titolo: string; urn: string; url: string; urn_conversione?: string;
+  noto_come: string[]; sigla?: string; nome_breve?: string; titolo: string; urn: string; url: string; urn_conversione?: string;
   url_conversione?: string; cosa_cambia: string; in_breve: string; nota?: string;
 };
 export type Presenze = { cas: number; prima_accoglienza: number; sai: number };
