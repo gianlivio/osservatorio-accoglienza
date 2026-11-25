@@ -24,6 +24,8 @@ def C(nome, ingressi, quota, testo, pagina, sbarco=None, **extra):
 ANNI = {
  "2023": {
   "rapporto": "sem-2023-12.pdf",
+  "titolo": "Rapporto semestrale al 31 dicembre 2023",
+  "url": "https://www.lavoro.gov.it/documenti/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31dic2023",
   "ingressi_totali": N(27476, "ha censito nel SIM (Sistema Informativo Minori) l’ingresso nel Paese di 27.476 minori stranieri non accompagnati", 19),
   "sbarchi": {
     "numero": N(17000, "sono oltre 17mila i minori arrivati in Italia via mare", 19, "oltre"),
@@ -47,6 +49,8 @@ ANNI = {
   ]},
  "2024": {
   "rapporto": "sem-2024-12.pdf",
+  "titolo": "Rapporto semestrale al 31 dicembre 2024",
+  "url": "https://www.lavoro.gov.it/documenti/report-approfondimento-semestrale-msna-31-dicembre-2024-bis",
   "ingressi_totali": N(14828, "ha censito nel SIM (Sistema Informativo Minori) l’ingresso nel Paese di 14.828 minori stranieri non accompagnati", 20),
   "sbarchi": {
     "numero": N(8000, "sono quasi 8mila i minori arrivati in Italia via mare", 20, "quasi"),
@@ -69,6 +73,8 @@ ANNI = {
   ]},
  "2025": {
   "rapporto": "sem-2025-12.pdf",
+  "titolo": "Rapporto semestrale al 31 dicembre 2025",
+  "url": "https://www.lavoro.gov.it/documenti-e-norme/studi-e-statistiche/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31122025",
   "ingressi_totali": N(16228, "ha censito nel SIM (Sistema Informativo Minori) l’ingresso nel Paese di 16.228 minori stranieri non accompagnati", 20),
   "sbarchi": {
     "numero": N(9000, "sono oltre 9mila i minori arrivati in Italia via mare", 20, "oltre"),

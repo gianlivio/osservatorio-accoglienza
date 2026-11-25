@@ -42,7 +42,7 @@ export default function Cittadinanze({ anni }: { anni: CittadinanzaAnno[] }) {
         </tbody>
       </table>
       <p className="nota-tabella">
-        Fonte: Ministero del Lavoro, {d.fonte.replace(/\.pdf$/, "")}, p. {d.pagina}.
+        Fonte: Ministero del Lavoro, {d.fonteUrl ? <a href={d.fonteUrl} target="_blank" rel="noopener" className="link-interno">{d.fonteTitolo}</a> : d.fonteTitolo}, p. {d.pagina}.
         {d.tipo === "testo" && <> Dal 2023 i rapporti semestrali riportano nel testo solo le prime {d.righe.length} cittadinanze.</>}
       </p>
     </>

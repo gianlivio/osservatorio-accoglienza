@@ -41,7 +41,7 @@ export default function ComeSonoEntrati({ anni }: { anni: AnnoComeEntrati[] }) {
         {note.map((r) => <span key={r.nome}>{r.nome}: {r.nota} </span>)}
         Cittadinanze nell&apos;ordine del rapporto, che è per numero di ingressi. Le quote approssimate sono scritte con la parola del rapporto; la barra usa il valore
         numerico. Il Ministero del Lavoro divide gli ingressi in «eventi di sbarco» e «ritrovamenti nel territorio italiano, compresi quelli effettuati negli scali aeroportuali
-        e marittimi e nei valichi terrestri». Il Ministero non distingue tra arrivi via terra e via aerea. Fonte: {d.fonte}.{" "}
+        e marittimi e nei valichi terrestri». Il Ministero non distingue tra arrivi via terra e via aerea. Fonte: Ministero del Lavoro, {d.fonte.url ? <a href={d.fonte.url} target="_blank" rel="noopener" className="link-interno">{d.fonte.titolo}</a> : d.fonte.titolo}, {d.fonte.pagine}.{" "}
         <Link href="/metodologia#minori" className="link-interno">Metodologia</Link>
       </p>
     </>

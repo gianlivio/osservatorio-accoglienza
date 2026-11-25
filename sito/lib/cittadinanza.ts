@@ -1,5 +1,6 @@
 import raw from "@/data/msna-cittadinanza.json";
 import { msnaData } from "@/lib/dati";
+import { nomeRapporto } from "@/lib/msnaIngressi";
 
 type Voce = { nome: string; presenti: number; percentuale: number | null };
 type Anno = {
@@ -9,7 +10,7 @@ type Anno = {
 const dati = (raw as unknown as { anni: Record<string, Anno> }).anni;
 
 export type CittadinanzaAnno = {
-  anno: string; data: string; fonte: string; pagina: number; totale: number; tipo: "tabella" | "testo";
+  anno: string; data: string; fonteTitolo: string; fonteUrl: string | null; pagina: number; totale: number; tipo: "tabella" | "testo";
   righe: { nome: string; presenti: number }[]; altre: number;
 };
 
@@ -44,7 +45,7 @@ export function cittadinanzaAnni(): CittadinanzaAnno[] {
   verifica();
   return Object.entries(dati).sort(([a], [b]) => a.localeCompare(b)).map(([anno, d]) => {
     const righe = (d.tipo === "tabella" ? d.cittadinanze.slice(0, 10) : d.cittadinanze).map((c) => ({ nome: c.nome, presenti: c.presenti }));
-    return { anno, data: d.data, fonte: d.fonte, pagina: d.pagina, totale: d.totale, tipo: d.tipo, righe,
+    return { anno, data: d.data, fonteTitolo: nomeRapporto(d.fonte, d.data).titolo, fonteUrl: nomeRapporto(d.fonte, d.data).url, pagina: d.pagina, totale: d.totale, tipo: d.tipo, righe,
       altre: d.totale - righe.reduce((n, r) => n + r.presenti, 0) };
   });
 }

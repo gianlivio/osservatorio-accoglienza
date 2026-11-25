@@ -22,6 +22,8 @@
    "rapporto": "sem-2023-12.pdf",
    "data": "2023-12-31",
    "periodo": "anno solare",
+   "titolo": "Rapporto semestrale al 31 dicembre 2023",
+   "url": "https://www.lavoro.gov.it/documenti/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31dic2023",
    "ingressi_totali": {
     "valore": 27476,
     "approssimazione": null,
@@ -176,6 +178,8 @@
    "rapporto": "sem-2024-12.pdf",
    "data": "2024-12-31",
    "periodo": "anno solare",
+   "titolo": "Rapporto semestrale al 31 dicembre 2024",
+   "url": "https://www.lavoro.gov.it/documenti/report-approfondimento-semestrale-msna-31-dicembre-2024-bis",
    "ingressi_totali": {
     "valore": 14828,
     "approssimazione": null,
@@ -344,6 +348,8 @@
    "rapporto": "sem-2025-12.pdf",
    "data": "2025-12-31",
    "periodo": "anno solare",
+   "titolo": "Rapporto semestrale al 31 dicembre 2025",
+   "url": "https://www.lavoro.gov.it/documenti-e-norme/studi-e-statistiche/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31122025",
    "ingressi_totali": {
     "valore": 16228,
     "approssimazione": null,

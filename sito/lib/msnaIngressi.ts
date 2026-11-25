@@ -7,7 +7,7 @@ export type CittadinanzaIngressi = {
   nota?: { testo: string; pagina: number; avviso: string; rotte_terrestri?: number };
 };
 export type AnnoIngressi = {
-  rapporto: string; data: string; periodo: string; ingressi_totali: Cifra;
+  rapporto: string; titolo: string; url: string; data: string; periodo: string; ingressi_totali: Cifra;
   sbarchi: { numero: Cifra; percentuale: Cifra }; cittadinanze: CittadinanzaIngressi[];
 };
 export const ingressi = raw as unknown as {
@@ -74,7 +74,8 @@ const pagine = (n: number[]) => {
 };
 
 export type RigaIngressi = { nome: string; testo: string | null; valore: number | null; nota: string | null };
-export type AnnoComeEntrati = { anno: string; totale: number; percentuale: string; righe: RigaIngressi[]; fonte: string };
+export type FonteRapporto = { titolo: string; url: string | null; pagine: string };
+export type AnnoComeEntrati = { anno: string; totale: number; percentuale: string; righe: RigaIngressi[]; fonte: FonteRapporto };
 
 /** Per /minori: per ogni anno totale, percentuale via mare e righe nell'ordine del rapporto. */
 export function comeSonoEntrati(): AnnoComeEntrati[] {
@@ -88,7 +89,7 @@ export function comeSonoEntrati(): AnnoComeEntrati[] {
     }));
     const pp = [a.ingressi_totali.pagina, a.sbarchi.percentuale.pagina, ...a.cittadinanze.flatMap((c) => [c.pagina, ...(c.sbarco ? [c.sbarco.pagina] : [])])];
     return { anno, totale: a.ingressi_totali.valore, percentuale: testoPercentuale(a.sbarchi.percentuale), righe,
-      fonte: `Ministero del Lavoro, ${a.rapporto.replace(/\.pdf$/, "")}, ${pagine(pp)}` };
+      fonte: { titolo: a.titolo, url: a.url, pagine: pagine(pp) } };
   });
 }
 
@@ -96,7 +97,7 @@ export function comeSonoEntrati(): AnnoComeEntrati[] {
 export function sbarcoPaese(nome: string) {
   return anniIngressi.flatMap((anno) => {
     const c = ingressi.anni[anno].cittadinanze.find((x) => x.nome === nome);
-    return c?.sbarco ? [{ anno, testo: testoPercentuale(c.sbarco), pagina: c.sbarco.pagina, rapporto: ingressi.anni[anno].rapporto }] : [];
+    return c?.sbarco ? [{ anno, testo: testoPercentuale(c.sbarco), pagina: c.sbarco.pagina, rapporto: ingressi.anni[anno].titolo }] : [];
   });
 }
 
@@ -112,4 +113,14 @@ export function cifreApprossimate() {
     }
   }
   return out;
+}
+
+/** Nome per esteso e link del rapporto del Ministero del Lavoro da cui viene un file (es. «sem-2025-12.pdf», «Report-MSNA-mese-dicembre-2021.pdf»). */
+export function nomeRapporto(file: string, data: string): { titolo: string; url: string | null } {
+  const anno = data.slice(0, 4);
+  if (/^sem-\d{4}-12\.pdf$/.test(file)) {
+    const a = ingressi.anni[anno];
+    return { titolo: a?.titolo ?? `Rapporto semestrale al 31 dicembre ${anno}`, url: a?.url ?? null };
+  }
+  return { titolo: `Report mensile al 31 dicembre ${anno}`, url: null };
 }
