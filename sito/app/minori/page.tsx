@@ -46,10 +46,12 @@ function SvgNazionale({ serie, stretto }: { serie: { periodo: string; presenti: 
   const ultimo = serie.length - 1;
   const primoAnno = serie[0].periodo.slice(0, 4), ultimoAnno = serie[ultimo].periodo.slice(0, 4);
   const primoSem = semestrali[0].p.periodo.slice(0, 4);
-  const etichetta = (i: number, ancora: "start" | "end") => (
+  // primo valore: sopra la linea dei primi mesi; ultimo: sotto il punto, dove non passano né linea né punti
+  const yPrimo = Math.min(...mensili.slice(0, 10).map((p) => y(p.presenti)));
+  const etichetta = (i: number, ancora: "start" | "end", yv: number, dy: number) => (
     <g>
-      <text x={x(i) + (ancora === "start" ? -2 : 2)} y={y(serie[i].presenti) - 24} textAnchor={ancora} className="naz-valore">{nItal(serie[i].presenti)}</text>
-      <text x={x(i) + (ancora === "start" ? -2 : 2)} y={y(serie[i].presenti) - 10} textAnchor={ancora} className="naz-data">{dataLunga(serie[i].periodo)}</text>
+      <text x={x(i) + (ancora === "start" ? -2 : 2)} y={yv + dy} textAnchor={ancora} className="naz-valore">{nItal(serie[i].presenti)}</text>
+      <text x={x(i) + (ancora === "start" ? -2 : 2)} y={yv + dy + 14} textAnchor={ancora} className="naz-data">{dataLunga(serie[i].periodo)}</text>
     </g>
   );
   return (
@@ -62,8 +64,8 @@ function SvgNazionale({ serie, stretto }: { serie: { periodo: string; presenti: 
         <circle key={p.periodo} cx={x(i)} cy={y(p.presenti)} r="3.5" fill="var(--carta)" stroke="var(--timbro)" strokeWidth="1.6" />
       ))}
       <circle cx={x(0)} cy={y(serie[0].presenti)} r="3" fill="var(--timbro)" />
-      {etichetta(0, "start")}
-      {etichetta(ultimo, "end")}
+      {etichetta(0, "start", yPrimo, -30)}
+      {etichetta(ultimo, "end", y(serie[ultimo].presenti), 22)}
       <text x={pad} y={h - 10} className="asse-txt">{primoAnno}</text>
       <text x={w - pad} y={h - 10} className="asse-txt" textAnchor="end">Dal {primoSem} un dato ogni sei mesi</text>
     </svg>
@@ -172,9 +174,9 @@ export default function Minori() {
             {d.regioni.map((r) => (
               <tr key={r.regione}>
                 <td className="nome-prov">{r.regione}</td>
-                <td className="num cella-barra">
-                  <span className="barra-pista" aria-hidden="true"><span className="barra" style={{ width: `${(r.ultimo / maxRegione) * 100}%` }} /></span>
-                  <span className="barra-n">{nItal(r.ultimo)}</span>
+                <td className="num">
+                  <div className="cella-barra"><span className="barra-pista" aria-hidden="true"><span className="barra" style={{ width: `${(r.ultimo / maxRegione) * 100}%` }} /></span>
+                  <span className="barra-n">{nItal(r.ultimo)}</span></div>
                 </td>
                 <td className="cella-spark col-andamento"><Spark serie={r.serie} regione={r.regione} /></td>
               </tr>
