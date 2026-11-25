@@ -17,3 +17,5 @@ output/accoglienza_2025_ANNO
 dati-centri/
 dati-media/
 dati-msna-cittadinanza/
+dati-asilo/*
+!dati-asilo/inventario.md
