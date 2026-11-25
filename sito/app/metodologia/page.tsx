@@ -8,6 +8,7 @@ import { metadatiPagina } from "@/lib/metadati";
 import { sicuri, dalData } from "@/lib/paesiSicuri";
 import { dati as datiPaesi, paesi as elencoPaesi, periodoPaesi } from "@/lib/paesi";
 import msnaAttesi from "@/data/msna-attesi.json";
+import { ingressi, cifreApprossimate, totale2024Implicato } from "@/lib/msnaIngressi";
 import { msnaData, totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct, dataLunga } from "@/lib/dati";
 
 export const metadata = metadatiPagina(
@@ -25,6 +26,8 @@ export default function Metodologia() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
   const ue = datiPaesi.fonti.eurostat, uc = datiPaesi.fonti.ucdp, cu = datiPaesi.confronto_unhcr;
   const senzaProvincia = totale.affidamenti - province.reduce((n, p) => n + p.totale.affidamenti, 0);
+  const anniIngressi = Object.keys(ingressi.anni).sort();
+  const costa = ingressi.anni[anniIngressi[0]].cittadinanze.find((c) => c.nome === "Costa d'Avorio")!;
   const mensile = (periodo: string) => msnaData.nazionale.find((p) => p.periodo === periodo)!.presenti;
   return (
     <main>
@@ -210,6 +213,28 @@ export default function Metodologia() {
           Per le cittadinanze, il totale della tabella e la somma delle cittadinanze (con la riga delle altre, dove c&apos;è) devono essere uguali al totale nazionale di dicembre; le
           percentuali devono corrispondere ai numeri; per i rapporti semestrali le cittadinanze devono essere in ordine decrescente, con somma non oltre il totale, e la percentuale delle
           prime cittadinanze citate nel testo uguale a quella calcolata.
+        </p>
+        <p id="ingressi-minori">
+          <b>Come sono entrati.</b> La sezione «Come sono entrati» di <Link href="/minori#come-sono-entrati" className="link-interno">Minori non accompagnati</Link> usa solo i rapporti semestrali del Ministero del Lavoro
+          al 31 dicembre {anniIngressi.join(", ")}, paragrafo «Dati di flusso – Ingressi e uscite di competenza», che riferiscono le cifre all&apos;intero anno solare. I rapporti di giugno sono esclusi perché danno
+          solo il primo semestre. Il Ministero divide gli ingressi in «eventi di sbarco» e «ritrovamenti nel territorio italiano, compresi quelli effettuati negli scali aeroportuali e marittimi e nei valichi terrestri»;
+          non distingue tra arrivi via terra e via aerea. Per ogni cifra il file <code>sito/data/msna-ingressi.json</code> riporta il testo del rapporto e la pagina. Le cittadinanze sono quelle che il rapporto cita,
+          nel suo ordine; la quota via mare è quella scritta nel rapporto (per l&apos;Afghanistan nel 2023 il rapporto dà solo la quota per rotte terrestri). Il rapporto non dà il numero di minori via mare per cittadinanza.
+        </p>
+        <p>
+          <b>Cifre approssimate.</b> Sono riportate come nel testo del rapporto: {cifreApprossimate().map((c, i) => (
+            <span key={i}>{i > 0 && "; "}{c.anno}, {c.voce}: {c.testo}</span>
+          ))}. Nelle tabelle la barra usa il valore numerico.
+        </p>
+        <p>
+          <b>Controlli degli ingressi.</b> La build si ferma se una quota non è tra 0 e 100, se in un anno gli ingressi via mare superano gli ingressi totali o se la somma degli ingressi per cittadinanza supera il totale.
+          Numero e percentuale scritti insieme devono essere coerenti: scarto al più 0,1 punti, 0,5 punti se la percentuale è scritta senza decimali (arrotondamento), più l&apos;incertezza del numero se è «oltre» o
+          «quasi» un numero di migliaia. Un&apos;incoerenza del rapporto è ammessa solo se dichiarata e se l&apos;altra cifra del rapporto torna.
+        </p>
+        <p>
+          <b>Incoerenze nei rapporti del Ministero.</b> Costa d&apos;Avorio, {anniIngressi[0]}: a p. {costa.pagina} il rapporto scrive {nItal(costa.ingressi)} minori e {costa.quota_ingressi.valore.toLocaleString("it-IT")}%; a p. {costa.incoerenza!.altra_pagina} scrive
+          {" "}{nItal(costa.incoerenza!.altro_valore)} minori. {nItal(costa.incoerenza!.altro_valore)} corrisponde al {costa.quota_ingressi.valore.toLocaleString("it-IT")}% del totale degli ingressi, {nItal(costa.ingressi)} no. Totale 2024: {nItal(ingressi.anni["2024"].ingressi_totali.valore)} nel
+          rapporto 2024; il rapporto 2025 scrive che gli ingressi 2025 sono +{nItal(ingressi.confronto_2024_nel_rapporto_2025.differenza)} unità rispetto al 2024, cioè {nItal(totale2024Implicato)} per il 2024. Il sito usa per ogni anno la cifra del proprio rapporto.
         </p>
         <p id="correzione-minori">
           <b>Correzione del 25 novembre 2026.</b> Fino a quella data il grafico e le linee per regione da giugno 2016 a dicembre 2021 mostravano i totali delle sole minori di genere
