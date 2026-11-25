@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     ...metadatiPagina(title, description),
     alternates: {
       canonical: "./",
-      types: { "application/rss+xml": [{ url: `/provincia/${slug}/feed.xml`, title: `Affidamenti ${nProvincia(p.provincia)}` }] },
+      types: { "application/rss+xml": [{ url: `/provincia/${slug}/feed.xml`, title: `Contratti ${nProvincia(p.provincia)}` }] },
     },
   };
 }
@@ -91,8 +91,8 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
         <div className="cifre">
           <div className="cifra"><b>{nItal(t.affidamenti)}</b><span>contratti firmati</span></div>
-          <div className="cifra"><b>{nItal(t.diretti)}</b><span>assegnati senza gara ({pct(t.quota_diretti)})</span></div>
-          <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano</span></div>
+          <div className="cifra"><b>{nItal(t.diretti)}</b><span>assegnati con affidamento diretto ({pct(t.quota_diretti)})</span></div>
+          <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano<small>metà dei contratti vale meno, metà di più</small></span></div>
           <div className="cifra"><b>{nItal(t.canale_prefettura)}</b><span>firmati dalla Prefettura</span></div>
           <div className="cifra"><b>{nItal(t.canale_ente_locale)}</b><span>firmati da comuni o enti locali</span></div>
           <div className="cifra"><b>{nItal(t.prosecuzioni)}</b><span>rinnovi di contratti già in corso</span></div>
@@ -105,10 +105,10 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       <section className="sezione">
         <h2 className="titolo-sezione">Anno per anno</h2>
         <table className="tabella">
-          <caption className="sr-only">Andamento anno per anno di contratti, quota senza gara, valore tipico ed enti diversi</caption>
+          <caption className="sr-only">Andamento anno per anno di contratti, quota con affidamento diretto, importo mediano ed enti che hanno ricevuto contratti</caption>
           <thead>
-            <tr><th>Anno</th><th className="num">Contratti</th><th className="num">Senza gara</th>
-            <th className="num">Valore tipico</th><th className="num">Enti diversi</th></tr>
+            <tr><th>Anno</th><th className="num">Contratti</th><th className="num">Affidamento diretto</th>
+            <th className="num">Importo mediano</th><th className="num">Enti che hanno ricevuto contratti</th></tr>
           </thead>
           <tbody>
             {anni.map((a) => {
@@ -127,7 +127,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         </table>
         {senzaEnti.length > 0 && (
           <p className="nota-tabella nota-enti">
-            Enti diversi: conta gli aggiudicatari presenti nei dati ANAC. {senzaEnti.length === 1 ? "Nel" : "Negli anni"} {elencoSenzaEnti} i contratti
+            Enti che hanno ricevuto contratti: conta gli aggiudicatari presenti nei dati ANAC. {senzaEnti.length === 1 ? "Nel" : "Negli anni"} {elencoSenzaEnti} i contratti
             non hanno l&apos;aggiudicatario nei dati: lo 0 non vuol dire che nessun ente li abbia ricevuti.
           </p>
         )}
@@ -143,7 +143,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <section className="sezione">
           <h2 className="titolo-sezione">Mese per mese</h2>
           <p className="nota-tabella">
-            Ogni barra è un mese: la parte piena indica i contratti assegnati senza gara.
+            Ogni barra è un mese: la parte piena indica i contratti assegnati con affidamento diretto.
           </p>
           <div className="mesi" role="img"
             aria-label={`Contratti mese per mese a ${nomeProvincia(p.provincia)}, da ${formatPeriodo(mesiDati[0][0])} a ${formatPeriodo(mesiDati[mesiDati.length - 1][0])}: massimo ${nItal(maxMese)} in un mese`}>
@@ -199,7 +199,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           </table>
           <p className="avviso">
             Ogni riga conta quante volte lo stesso ufficio ha assegnato un contratto allo
-            stesso ente senza gara, nel {p.anni_enti.join(" e ")}. Assegnare direttamente sotto
+            stesso ente con affidamento diretto, nel {p.anni_enti.join(" e ")}. Assegnare direttamente sotto
             una certa cifra è una procedura prevista dalla legge.
           </p>
         </section>

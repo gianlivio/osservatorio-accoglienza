@@ -6,10 +6,10 @@ import { slug, euro, nItal, anni, type Provincia, type Blocco, type BloccoAnnoLi
 type Campo = "provincia" | "affidamenti" | "quota_diretti" | "importo_mediano" | "enti_gestori";
 const COLONNE: { campo: Campo; testo: string; num: boolean }[] = [
   { campo: "provincia", testo: "Provincia", num: false },
-  { campo: "affidamenti", testo: "Affidamenti", num: true },
-  { campo: "quota_diretti", testo: "Diretti", num: true },
+  { campo: "affidamenti", testo: "Contratti", num: true },
+  { campo: "quota_diretti", testo: "Affidamento diretto", num: true },
   { campo: "importo_mediano", testo: "Importo mediano", num: true },
-  { campo: "enti_gestori", testo: "Enti gestori", num: true },
+  { campo: "enti_gestori", testo: "Enti che hanno ricevuto contratti", num: true },
 ];
 
 const ANTEPRIMA = 10;
@@ -57,12 +57,12 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
         <span className="conteggio-prov">{righe.length} province</span>
       </div>
       <p className="nota-tabella nota-periodi">
-        Clicca il titolo di una colonna per riordinare. Le province senza contratti nell&apos;anno scelto non compaiono: non vuol dire
+        Clicca il titolo di una colonna per riordinare. Importo mediano: metà dei contratti vale meno, metà di più. Le province senza contratti nell&apos;anno scelto non compaiono: non vuol dire
         che lì manchi l&apos;accoglienza, ma che quell&apos;anno non è stato firmato nulla di nuovo.
       </p>
 
       <table className="tabella">
-        <caption className="sr-only">Elenco delle province con numero di affidamenti, quota diretti, importo mediano ed enti gestori</caption>
+        <caption className="sr-only">Elenco delle province con numero di contratti, quota con affidamento diretto, importo mediano ed enti che hanno ricevuto contratti</caption>
         <thead>
           <tr>{COLONNE.map((c) => (
             <th key={c.campo} className={c.num ? "num" : undefined}

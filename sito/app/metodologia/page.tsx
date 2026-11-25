@@ -134,8 +134,8 @@ export default function Metodologia() {
         <p>
           Le regole su cosa vada registrato sono cambiate. Dal 2024 entrano nell&apos;archivio
           anche i contratti di piccolo importo, prima quasi assenti. Poiché questi sono quasi
-          sempre affidati senza gara, il loro ingresso fa salire la quota di affidamenti
-          diretti: sembra una crescita, ma è cambiato solo cosa viene contato. La tabella tiene
+          sempre assegnati con affidamento diretto, il loro ingresso fa salire la quota di contratti
+          con affidamento diretto: sembra una crescita, ma è cambiato solo cosa viene contato. La tabella tiene
           separate le due letture — tutti i contratti, e i soli sopra i 40.000 euro, presenti
           in archivio anche prima e quindi confrontabili nel tempo.
         </p>
@@ -144,8 +144,8 @@ export default function Metodologia() {
           <thead>
             <tr>
               <th>Anno</th>
-              <th className="num">Contratti</th><th className="num">Senza gara</th>
-              <th className="num">Da 40.000 €</th><th className="num">Senza gara</th>
+              <th className="num">Contratti</th><th className="num">Affidamento diretto</th>
+              <th className="num">Da 40.000 €</th><th className="num">Affidamento diretto</th>
             </tr>
           </thead>
           <tbody>

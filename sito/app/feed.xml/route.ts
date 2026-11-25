@@ -39,7 +39,7 @@ export function GET() {
     provincia: col(r, "provincia") || null,
   }));
   return rispostaRss(rss({
-    titolo: "Affidamenti per l'accoglienza dei migranti · Osservatorio Accoglienza",
+    titolo: "Contratti per l'accoglienza dei migranti · Osservatorio Accoglienza",
     descrizione: `Gli ultimi ${QUANTI} contratti per data in tutta Italia, anche senza provincia indicata, da dati ANAC.`,
     link: dominio,
     self: `${dominio}/feed.xml`,

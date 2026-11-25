@@ -14,7 +14,7 @@ export const metadata = {
   ),
   alternates: {
     canonical: "./",
-    types: { "application/rss+xml": [{ url: "/feed.xml", title: "Ultimi affidamenti per l'accoglienza" }] },
+    types: { "application/rss+xml": [{ url: "/feed.xml", title: "Ultimi contratti per l'accoglienza" }] },
   },
 };
 

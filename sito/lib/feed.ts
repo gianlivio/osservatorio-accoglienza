@@ -26,7 +26,7 @@ function titolo(oggetto: string, cig: string) {
 
 function descrizione(v: VoceFeed) {
   const procedura = v.procedura.toLowerCase();
-  const gara = v.modalita === "diretto" ? " (senza gara)" : v.modalita === "gara" ? " (con gara)" : "";
+  const gara = v.modalita === "diretto" ? " (affidamento diretto)" : v.modalita === "gara" ? " (con gara)" : "";
   const importo = v.aggiudicato !== null ? `importo assegnato ${euro(v.aggiudicato)}`
     : v.base !== null ? `importo a bando ${euro(v.base)}` : null;
   return [

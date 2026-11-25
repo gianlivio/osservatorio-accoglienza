@@ -55,7 +55,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
         <h2 className="titolo-sezione">Totale</h2>
         <div className="cifre">
           <div className="cifra"><b>{nItal(d.affidamenti)}</b><span>contratti firmati</span></div>
-          <div className="cifra"><b>{nItal(d.diretti)}</b><span>assegnati senza gara ({pct(d.quota_diretti)})</span></div>
+          <div className="cifra"><b>{nItal(d.diretti)}</b><span>assegnati con affidamento diretto ({pct(d.quota_diretti)})</span></div>
           <div className="cifra"><b>{d.province.length}</b><span>{d.province.length === 1 ? "provincia" : "province"}</span></div>
         </div>
       </section>
@@ -63,8 +63,8 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
       <section className="sezione">
         <h2 className="titolo-sezione">Anno per anno</h2>
         <table className="tabella">
-          <caption className="sr-only">Contratti e quota senza gara dell&apos;ente, anno per anno</caption>
-          <thead><tr><th>Anno</th><th className="num">Contratti</th><th className="num">Senza gara</th></tr></thead>
+          <caption className="sr-only">Contratti e quota di affidamento diretto dell&apos;ente, anno per anno</caption>
+          <thead><tr><th>Anno</th><th className="num">Contratti</th><th className="num">Affidamento diretto</th></tr></thead>
           <tbody>{Object.entries(d.per_anno).map(([a, b]) => (
             <tr key={a}><td>{a}</td><td className="num">{nItal(b.affidamenti)}</td><td className="num">{pct(b.quota_diretti)}</td></tr>
           ))}</tbody>

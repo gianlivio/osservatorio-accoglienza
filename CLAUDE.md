@@ -25,7 +25,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - Dopo la rigenerazione committare i dati in un commit separato dal codice.
 
 ## Decisioni di metodo da non toccare
-- Procedura: `modalita()` in `costruisci.py` classifica ogni contratto in diretto, negoziata, gara (più un residuo "altro"); "senza gara" = affidamento diretto.
+- Procedura: `modalita()` in `costruisci.py` classifica ogni contratto in diretto, negoziata, gara (più un residuo "altro"); il termine pubblico è «affidamento diretto», non «senza gara»: `quota_diretti` conta le righe con "AFFIDAMENTO DIRETTO" in `tipo_scelta_contraente` (non la negoziata). Nei testi «contratti» (mai «affidamenti»), «importo mediano» (mai «valore tipico»), «enti che hanno ricevuto contratti» (mai «enti diversi»).
 - Dal 2024 entrano in archivio contratti di piccolo importo: gli anni non sono confrontabili tra loro. Il confronto corretto è tutti i contratti contro quelli da 40.000 € in su; esiti attendibili solo dal 2024 (`ANNI_ESITO`).
 - I corsi di formazione professionale non contano come accoglienza (`solo_formazione` in `estrai2.py`), salvo se uniti a ospitalità.
 - Falsi positivi esclusi a mano in `script/esclusi.csv`, con il motivo; per i mesi futuri si aggiunge anche un VETO in `estrai2.py`. Gli estratti in `output/` non si modificano.

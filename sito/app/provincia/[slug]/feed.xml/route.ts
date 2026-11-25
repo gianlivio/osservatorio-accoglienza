@@ -16,7 +16,7 @@ export async function GET(_: Request, { params }: { params: Promise<{ slug: stri
   const d = await caricaDettaglioProvincia(slug);
   const voci = piuRecenti(d.contratti, QUANTI).map((c) => ({ ...c, provincia: p.provincia }));
   return rispostaRss(rss({
-    titolo: `Affidamenti per l'accoglienza ${nProvincia(p.provincia)} · Osservatorio Accoglienza`,
+    titolo: `Contratti per l'accoglienza ${nProvincia(p.provincia)} · Osservatorio Accoglienza`,
     descrizione: `Gli ultimi ${voci.length} contratti per data, da dati ANAC.`,
     link: `${dominio}/provincia/${slug}`,
     self: `${dominio}/provincia/${slug}/feed.xml`,
