@@ -132,7 +132,7 @@ export default function Minori() {
         <b className="cifra-grande">{nItal(d.ultimo_totale)}</b>
         <p>
           minori stranieri non accompagnati presenti in Italia al {dataTotale}, secondo il Ministero del Lavoro.
-          Al {dataLeggibile} erano {nItal(naz(d.ultimo_periodo))}; al {lungo(d.primo_periodo)}, {nItal(naz(d.primo_periodo))}.
+          Al {dataLeggibile} erano {nItal(naz(d.ultimo_periodo))}; al {lungo(`${primoAnno}-12`)}, {nItal(naz(`${primoAnno}-12`))}.
         </p>
       </div>
       <p className="sommario">
