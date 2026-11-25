@@ -329,7 +329,7 @@ th.num .ordina{flex-direction:row-reverse}
 
 /* ---- globo di /paesi ---- */
 .globo{display:grid;grid-template-columns:minmax(0,1fr) 300px;column-gap:32px;align-items:start;
-  grid-template-areas:"tela legenda" "barra legenda" "assi legenda" "did did";margin:8px 0 48px}
+  grid-template-areas:"tela legenda" "barra legenda" "assi legenda" "vuoto legenda" "did did";grid-template-rows:auto auto auto 1fr auto;margin:8px 0 48px}
 .globo-tela{grid-area:tela;position:relative;width:100%;max-width:620px;aspect-ratio:1;margin:0 auto}
 .globo-tela canvas,.globo-tela svg{display:block;width:100%;height:100%;touch-action:pan-y;user-select:none;-webkit-user-select:none}
 .globo-tip{position:absolute;z-index:2;pointer-events:none;background:var(--inchiostro);color:var(--carta);
@@ -369,7 +369,7 @@ th.num .ordina{flex-direction:row-reverse}
 .globo-legenda .n{font-variant-numeric:tabular-nums;font-weight:600}
 .globo-didascalia{grid-area:did;font-size:14px;color:var(--tenue);max-width:70ch;margin-top:22px}
 @media (max-width: 760px){
-  .globo{grid-template-columns:minmax(0,1fr);grid-template-areas:"tela" "barra" "assi" "legenda" "did";margin-bottom:36px}
+  .globo{grid-template-columns:minmax(0,1fr);grid-template-areas:"tela" "barra" "assi" "legenda" "did";grid-template-rows:none;margin-bottom:36px}
   .globo-assi{padding-left:56px}
   .globo-legenda{margin-top:20px;font-size:13px}
   .globo-legenda li a{padding:9px 2px}

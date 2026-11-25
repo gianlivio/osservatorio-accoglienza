@@ -3,7 +3,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { geoOrthographic, geoPath, geoRotation, geoContains, geoGraticule10 } from "d3-geo";
 import { contorni, trovaContorno } from "@/lib/mondo";
-import { COLORE, costruisciArco, larghezza, massimoRichiedenti, numero, proietta, trattiArco, type PaeseGlobo, type Punto } from "@/lib/globoGeom";
+import { COLORE, costruisciArco, larghezza, massimoRichiedenti, numero, proietta, RAGGIO, trattiArco, type PaeseGlobo, type Punto } from "@/lib/globoGeom";
 import LegendaGlobo, { DidascaliaGlobo } from "./LegendaGlobo";
 
 const MAX_PX = 620;           // lato massimo del globo
@@ -94,7 +94,7 @@ export default function Globo({ paesi, anni, italia }: { paesi: PaeseGlobo[]; an
       if (!S) return;
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       ctx.clearRect(0, 0, S, S);
-      const R = S * 0.46, cx = S / 2, cy = S / 2;
+      const R = S * RAGGIO, cx = S / 2, cy = S / 2;
       const rotazione = geoRotation([rot[0], rot[1]]);
       proj = geoOrthographic().translate([cx, cy]).scale(R).rotate([rot[0], rot[1]]).clipAngle(90).precision(0.6);
       const path = geoPath(proj, ctx);
@@ -207,7 +207,7 @@ export default function Globo({ paesi, anni, italia }: { paesi: PaeseGlobo[]; an
       if (giu && giu.id === e.pointerId) {
         if (!giu.mosso && Math.hypot(x - giu.x, y - giu.y) > 5) { giu.mosso = true; canvas.style.cursor = "grabbing"; mostra(null, 0, 0, false); }
         if (giu.mosso) {
-          const k = 180 / (Math.PI * S * 0.46);
+          const k = 180 / (Math.PI * S * RAGGIO);
           rot = [giu.r0[0] + (x - giu.x) * k, Math.max(-90, Math.min(90, giu.r0[1] - (y - giu.y) * k))];
           pedi();
         }

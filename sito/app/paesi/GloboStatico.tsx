@@ -1,7 +1,7 @@
 import { geoOrthographic, geoPath, geoRotation, geoGraticule10 } from "d3-geo";
 import { contorni, trovaContorno } from "@/lib/mondo";
 import "@/lib/contorni"; // controllo di build su coordinate e contorni
-import { COLORE, costruisciArco, larghezza, massimoRichiedenti, trattiArco, type PaeseGlobo, type Punto } from "@/lib/globoGeom";
+import { COLORE, costruisciArco, larghezza, massimoRichiedenti, RAGGIO, trattiArco, type PaeseGlobo, type Punto } from "@/lib/globoGeom";
 import LegendaGlobo, { DidascaliaGlobo } from "./LegendaGlobo";
 
 const S = 600;
@@ -9,7 +9,7 @@ const S = 600;
 /** Stesso globo e stessi archi dell'ultimo anno, come SVG generato al build: si vede prima del caricamento del globo e senza JavaScript. */
 export default function GloboStatico({ paesi, anni, italia }: { paesi: PaeseGlobo[]; anni: string[]; italia: Punto }) {
   const anno = anni[anni.length - 1];
-  const R = S * 0.46, c = S / 2;
+  const R = S * RAGGIO, c = S / 2;
   const proj = geoOrthographic().translate([c, c]).scale(R).rotate([-italia[0], -italia[1]]).clipAngle(90).precision(0.6);
   const path = geoPath(proj);
   const rot = geoRotation([-italia[0], -italia[1]]);

@@ -8,6 +8,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - `script/costruisci.py`: unisce estratti, aggiudicazioni e aggiudicatari; produce tutti i JSON e i CSV del sito.
 - `script/centri.py`: aggrega Centri d'Italia (CAS, prima accoglienza, SAI) per provincia e anno.
 - `script/cronologia.py`: scrive `sito/data/cronologia.json` per `/dieci-anni`: legge `province-lite.json` e `centri.json` e contiene ancora, con rapporto e pagina, le cifre sulle notizie di Carta di Roma / Osservatorio di Pavia (i PDF stanno in `dati-media/`, non versionata): sono nel repo ma non usate da nessuna pagina.
+- `script/coordinate.mjs`: coordinate (centroidi dai contorni di world-atlas), contorno e continente di ogni paese di `paesi.json`, per il globo di `/paesi`; lo chiama `script/paesi.py` (servono node e le dipendenze di `sito/`).
 - `script/mappa.py`: tracciati delle province (confini ISTAT generalizzati, `dati-istat/confini/`) → `sito/data/mappa.json`, usato dalla mappa della home.
 - `script/estrai_msna.py`: estrae i minori non accompagnati dai PDF del Ministero in `sito/data/msna.json` (serve `pdfplumber`). Si ferma, e la build di `lib/dati.ts` fallisce, se un valore di `sito/data/msna-attesi.json` non coincide o se le regioni non sommano al totale di un mese. Nei report fino al 2021 la seconda tabella per regione è quella delle sole minori: si usa la prima, con il totale più alto.
 - `script/esclusi.csv`: CIG esclusi a mano (cig, motivo). `unisci.py`, `consolida.py`, `aggiudicatari.py`: analisi su un solo anno, fuori dalla pipeline.

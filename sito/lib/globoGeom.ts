@@ -12,6 +12,8 @@ export type Arco = { slug: string; da: Punto; dist: number; punti: { p: Punto; h
 // Quattro toni sobri, derivati dalla palette del sito (viola del timbro, verde-grigio del testo tenue, carta e inchiostro).
 export const COLORE: Record<Continente, string> = { Africa: "#4A3B7C", Asia: "#2F6F66", America: "#9A6B24", Europa: "#3E5C8A" };
 
+/** Raggio del globo in frazione del lato: lascia spazio agli archi sollevati oltre il bordo. */
+export const RAGGIO = 0.41;
 const SEGMENTI = 56;
 /** Altezza dell'arco sopra la superficie (in raggi), massima a metà percorso. */
 const alzata = (dist: number) => 0.04 + (0.3 * dist) / Math.PI;

@@ -23,6 +23,7 @@ type Dati = {
   estratto: string; anni: string[];
   italia: Record<string, { richiedenti: number } & Decisioni>;
   coordinate_italia: [number, number];
+  contorni: { versione: string };
   fonti: {
     eurostat: { richiedenti: FonteEurostat; decisioni: FonteEurostat; minori: FonteEurostat; estratto: string; arrotondamento: number; licenza: string; url: string };
     ucdp: { versione: string; estratto: string; licenza: string; url: string; soglia_morti: number };
