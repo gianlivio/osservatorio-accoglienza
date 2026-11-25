@@ -3,6 +3,8 @@ import JsonLd from "@/app/JsonLd";
 import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { msnaData, nItal } from "@/lib/dati";
+import { cittadinanzaAnni } from "@/lib/cittadinanza";
+import Cittadinanze from "./Cittadinanze";
 
 const primoAnno = msnaData.primo_periodo.slice(0, 4);
 const fineRegionale = msnaData.ultimo_periodo.slice(0, 4);
@@ -183,6 +185,15 @@ export default function Minori() {
             ))}
           </tbody>
         </table>
+      </section>
+
+      <section className="sezione">
+        <h2 className="titolo-sezione">Cittadinanza dei minori presenti</h2>
+        <p className="nota-tabella">
+          Minori non accompagnati presenti al 31 dicembre di ogni anno, per cittadinanza, in ordine di numero. Le cittadinanze elencate
+          cambiano da un anno all&apos;altro: una cittadinanza assente dall&apos;elenco non è necessariamente assente dall&apos;Italia.
+        </p>
+        <Cittadinanze anni={cittadinanzaAnni()} />
       </section>
 
       <section className="sezione">

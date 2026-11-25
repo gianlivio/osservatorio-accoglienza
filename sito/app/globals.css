@@ -305,3 +305,8 @@ th.num .ordina{flex-direction:row-reverse}
 @media (max-width:500px){.col-andamento{display:none}.cella-barra{min-width:0}}
 @media (max-width:500px){.col-mediano{display:none}}
 @media (max-width:500px){.tabella th.num,.tabella td.num{padding-right:8px}.tabella th{font-size:10px;letter-spacing:0}}
+.col-barra-cit{width:45%}
+.riga-totale td{border-top:1px solid var(--inchiostro);font-weight:600}
+.barra-resto{background:var(--tenue)}
+@media (max-width:500px){.col-barra-cit{width:38%}}
+.tabella + .nota-tabella{margin-top:12px}
