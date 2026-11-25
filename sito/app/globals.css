@@ -314,8 +314,12 @@ th.num .ordina{flex-direction:row-reverse}
 /* Paesi di provenienza */
 .tabella-paese th small{display:block;font-weight:400;letter-spacing:0;text-transform:none;color:var(--tenue)}
 @media (max-width:500px){
-  .tabella-paese{font-size:12px}
-  .tabella-paese th{font-size:9px;letter-spacing:0}
-  .tabella-paese th.num,.tabella-paese td.num{padding-right:5px}
-  .tabella-paese td{padding-right:5px}
+  .sezione:has(.tabella-paese){overflow-x:visible}
+  .tabella-paese{font-size:11px;margin-inline:-12px;width:calc(100% + 24px)}
+  .tabella-paese th:first-child,.tabella-paese td:first-child{padding-left:12px}
+  .tabella-paese th{font-size:9px;letter-spacing:0;text-transform:none}
+  .tabella-paese th.num,.tabella-paese td.num{padding-right:4px}
+  .tabella-paese td{padding-right:4px}
+  .tabella-paese td:first-child{padding-right:6px}
 }
+.sezione > p + .nota-tabella{margin-top:12px}

@@ -68,8 +68,8 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
         <table className="tabella tabella-paese">
           <caption className="sr-only">Richiedenti asilo e decisioni di prima istanza per anno: totale, status di rifugiato, protezione sussidiaria, motivi umanitari, rifiutate</caption>
           <thead>
-            <tr><th>Anno</th><th className="num">Richiedenti asilo</th><th className="num">Decisioni</th><th className="num">Status di rifugiato</th>
-            <th className="num">Protezione sussidiaria</th><th className="num">Motivi umanitari</th><th className="num">Rifiutate</th></tr>
+            <tr><th>Anno</th><th className="num">Richie&shy;denti</th><th className="num">Deci&shy;sioni</th><th className="num">Rifu&shy;giato</th>
+            <th className="num">Sussi&shy;diaria</th><th className="num">Umani&shy;taria</th><th className="num">Rifiu&shy;tate</th></tr>
           </thead>
           <tbody>
             {anniPaesi.map((a) => {
@@ -85,7 +85,7 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
           </tbody>
         </table>
         <p className="nota-tabella">
-          Decisioni di prima istanza: quelle prese nell&apos;anno, che non riguardano necessariamente le domande presentate nello stesso anno. Eurostat arrotonda i valori a multipli di {e.arrotondamento}: il totale delle decisioni può non coincidere con la somma dei quattro tipi.{" "}
+          Richiedenti: richiedenti asilo. Rifugiato: decisioni con lo status di rifugiato; Sussidiaria: con la protezione sussidiaria; Umanitaria: per motivi umanitari. Decisioni di prima istanza: quelle prese nell&apos;anno, che non riguardano necessariamente le domande presentate nello stesso anno. Eurostat arrotonda i valori a multipli di {e.arrotondamento}: il totale delle decisioni può non coincidere con la somma dei quattro tipi.{" "}
           <Link href="/metodologia#paesi" className="link-interno">Metodologia</Link>
         </p>
       </section>

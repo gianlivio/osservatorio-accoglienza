@@ -5,10 +5,10 @@ import { nItal, pct } from "@/lib/dati";
 import type { Paese } from "@/lib/paesi";
 
 const TIPI: { campo: "rifugiato" | "sussidiaria" | "umanitaria" | "rifiuti"; testo: string }[] = [
-  { campo: "rifugiato", testo: "Status di rifugiato" },
-  { campo: "sussidiaria", testo: "Protezione sussidiaria" },
-  { campo: "umanitaria", testo: "Motivi umanitari" },
-  { campo: "rifiuti", testo: "Rifiutate" },
+  { campo: "rifugiato", testo: "Rifu\u00ADgiato" },
+  { campo: "sussidiaria", testo: "Sussi\u00ADdiaria" },
+  { campo: "umanitaria", testo: "Umani\u00ADtaria" },
+  { campo: "rifiuti", testo: "Rifiu\u00ADtate" },
 ];
 
 export default function TabellaPaesi({ paesi, anni }: { paesi: Paese[]; anni: string[] }) {
@@ -25,7 +25,7 @@ export default function TabellaPaesi({ paesi, anni }: { paesi: Paese[]; anni: st
         <caption className="sr-only">I {paesi.length} paesi con richiedenti asilo, decisioni di prima istanza e quota di ciascun tipo di decisione sul totale delle decisioni, nel {anno}</caption>
         <thead>
           <tr>
-            <th>Paese</th><th className="num">Richiedenti asilo</th><th className="num">Decisioni</th>
+            <th>Paese</th><th className="num">Richie&shy;denti</th><th className="num">Deci&shy;sioni</th>
             {TIPI.map((t) => <th key={t.campo} className="num">{t.testo}<small>quota</small></th>)}
           </tr>
         </thead>
