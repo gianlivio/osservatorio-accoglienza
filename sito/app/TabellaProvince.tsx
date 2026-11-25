@@ -12,10 +12,13 @@ const COLONNE: { campo: Campo; testo: string; num: boolean }[] = [
   { campo: "enti_gestori", testo: "Enti gestori", num: true },
 ];
 
+const ANTEPRIMA = 10;
+
 export default function TabellaProvince({ province }: { province: Provincia[] }) {
   const [periodo, setPeriodo] = useState<string>("tutti");
   const [campo, setCampo] = useState<Campo>("affidamenti");
   const [cresc, setCresc] = useState(false);
+  const [tutte, setTutte] = useState(false);
 
   const dato = (p: Provincia): Blocco | BloccoAnnoLite | null =>
     periodo === "tutti" ? p.totale : p.per_anno[periodo];
@@ -38,6 +41,7 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
       const d = typeof x === "string" ? x.localeCompare(y as string, "it") : (x as number) - (y as number);
       return cresc ? d : -d;
     });
+  const visibili = tutte ? righe : righe.slice(0, ANTEPRIMA);
 
   return (
     <>
@@ -71,7 +75,7 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
           ))}</tr>
         </thead>
         <tbody>
-          {righe.map((p) => {
+          {visibili.map((p) => {
             const b = dato(p)!;
             return (
               <tr key={p.provincia}>
@@ -85,6 +89,11 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
           })}
         </tbody>
       </table>
+      {!tutte && righe.length > ANTEPRIMA && (
+        <p className="altre-province">
+          <button type="button" className="mostra-tutte" onClick={() => setTutte(true)}>Mostra tutte le {righe.length} province</button>
+        </p>
+      )}
     </>
   );
 }
