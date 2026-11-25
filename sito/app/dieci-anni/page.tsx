@@ -18,29 +18,35 @@ const numero = (n: number) => PAROLE[n] ?? String(n);
 const anni = c.anni;
 const primo = anni[0], ultimo = anni[anni.length - 1];
 const ultimoCentri = c.centri.anni[c.centri.anni.length - 1];
-const leggiGrafico = c.leggi.map((l) => ({ anno: l.anno, etichetta: l.sigla?.match(/(\d+)\/\d{4}$/)?.[1] }));
+const leggiGrafico = c.leggi.map((l) => ({ anno: l.anno, etichetta: l.nome_breve }));
 const mesi = (iso: string) => dataLunga(iso).replace(/ \d{4}$/, "");
 
 const contratti = anni.map((a) => c.contratti_40k.affidamenti_40k[a]);
 const centri = (k: "cas" | "prima_accoglienza" | "sai") => anni.map((a) => c.centri.presenze[a]?.[k] ?? null);
 const parziale = [ultimo];
 
-const serieContratti: Serie[] = [{ nome: "Contratti da 40.000 € in su", valori: contratti, tono: 1, vuoti: parziale, primaSotto: true, ultimaSotto: true }];
+const serieContratti: Serie[] = [{ nome: "Contratti da 40.000 € in su", valori: contratti, tono: 1, vuoti: parziale, primaSotto: true, ultimaSotto: true, massimo: true }];
 const serieCentri: Serie[] = [
-  { nome: "Presenze nei CAS", valori: centri("cas"), lati: true, tono: 1 },
-  { nome: "Presenze nel SAI", valori: centri("sai"), lati: true, tono: 2 },
-  { nome: "Presenze nella prima accoglienza", valori: centri("prima_accoglienza"), lati: true, tono: 3 },
+  { nome: "Presenze nei CAS", valori: centri("cas"), lati: true, tono: 1, nomeFine: "CAS" },
+  { nome: "Presenze nel SAI", valori: centri("sai"), lati: true, tono: 2, nomeFine: "SAI" },
 ];
 const primoCentri = c.centri.anni[0];
 const margineSx = margineSinistro([serieContratti, serieCentri]);
 const margineSxStretto = margineSinistro([serieContratti, serieCentri], true);
 
+// Prima accoglienza (CPA e hotspot): fuori dal grafico, estremi della serie per la didascalia.
+const primaAcc = c.centri.anni.map((a) => ({ anno: a, v: c.centri.presenze[a].prima_accoglienza }));
+const paMin = primaAcc.reduce((m, x) => (x.v < m.v ? x : m)), paMax = primaAcc.reduce((m, x) => (x.v > m.v ? x : m));
+const iMaxContratti = contratti.indexOf(Math.max(...contratti.slice(0, -1)));
+
 const altContratti =
-  `Contratti per l'accoglienza da 40.000 € in su, ${primo}–${ultimo}: da ${nItal(contratti[0])} nel ${primo} a ${nItal(contratti[contratti.length - 1])} nel ${ultimo}, anno provvisorio disegnato come punto vuoto. Le linee tratteggiate segnano gli anni delle leggi. I valori di ogni anno sono nei blocchi sotto.`;
+  `Contratti per l'accoglienza da 40.000 € in su, ${primo}–${ultimo}: ${nItal(contratti[0])} nel ${primo}, al massimo ${nItal(contratti[iMaxContratti])} nel ${anni[iMaxContratti]}, ` +
+  `${nItal(contratti[contratti.length - 2])} nel ${anni[anni.length - 2]}; il ${ultimo} è un punto vuoto, dato provvisorio. ` +
+  `Le linee tratteggiate segnano gli anni delle leggi, con il nome breve. I valori di ogni anno sono nei blocchi sotto.`;
 const altCentri =
   `Presenze nei centri, ${primoCentri}–${ultimoCentri}: CAS da ${nItal(c.centri.presenze[primoCentri].cas)} a ${nItal(c.centri.presenze[ultimoCentri].cas)}; ` +
-  `SAI da ${nItal(c.centri.presenze[primoCentri].sai)} a ${nItal(c.centri.presenze[ultimoCentri].sai)}; ` +
-  `prima accoglienza da ${nItal(c.centri.presenze[primoCentri].prima_accoglienza)} a ${nItal(c.centri.presenze[ultimoCentri].prima_accoglienza)}. I dati partono dal ${primoCentri}. I valori di ogni anno sono nei blocchi sotto.`;
+  `SAI da ${nItal(c.centri.presenze[primoCentri].sai)} a ${nItal(c.centri.presenze[ultimoCentri].sai)}. Gli anni prima del ${primoCentri} sono in una fascia grigia: dati non disponibili. ` +
+  `I valori di ogni anno sono nei blocchi sotto.`;
 
 function RigaLegge({ a }: { a: Atto }) {
   return (
@@ -108,37 +114,31 @@ export default function DieciAnni() {
         ))}
       </nav>
 
-      <section className="sezione">
-        <h2 className="titolo-sezione">Come leggere i numeri</h2>
-        <ul className="elenco">
-          <li>Le linee tratteggiate nei grafici segnano l&apos;anno di ogni legge della tabella; l&apos;etichetta è il numero dell&apos;atto.</li>
-          <li>
-            I contratti sono quelli da 40.000 € in su: dal 2024 entrano in archivio contratti più piccoli, e solo su questa soglia gli
-            anni si confrontano. I dati sui centri partono dal {primoCentri}.
-          </li>
-        </ul>
-      </section>
-
-      <section className="sezione">
-        <h2 className="titolo-sezione">Le due serie</h2>
+      <section className="sezione" id="numeri">
+        <h2 className="titolo-sezione">I numeri</h2>
         <figure className="dieci-grafico">
           <h3>Contratti da 40.000 € in su</h3>
           <div className="g-largo"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} conEtichetteLeggi alt={altContratti} margineSx={margineSx} /></div>
           <div className="g-stretto"><GraficoSerie anni={anni} serie={serieContratti} leggi={leggiGrafico} conEtichetteLeggi alt={altContratti} margineSx={margineSxStretto} stretto /></div>
           <figcaption>
-            <span><i className="g-sw g-sw-legge" />Anno di una legge della tabella (numero dell&apos;atto)</span>
+            <span><i className="g-sw g-sw-legge" />Anno di una legge della tabella</span>
             <span>Punto vuoto: {ultimo}, dato provvisorio.</span>
           </figcaption>
+          <p className="nota-grafico">
+            I contratti sono quelli da 40.000 € in su: dal 2024 entrano in archivio contratti più piccoli, e solo su questa soglia gli anni si
+            confrontano.
+          </p>
         </figure>
         <figure className="dieci-grafico">
           <h3>Presenze nei centri</h3>
-          <div className="g-largo"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} /></div>
-          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSxStretto} stretto /></div>
+          <div className="g-largo"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSx} senzaDati={["dati non", "disponibili"]} /></div>
+          <div className="g-stretto"><GraficoSerie anni={anni} serie={serieCentri} leggi={leggiGrafico} alt={altCentri} margineSx={margineSxStretto} stretto senzaDati={["dati non", "disponibili"]} /></div>
           <figcaption>
-            <span><i className="g-sw gs1" />CAS</span>
-            <span><i className="g-sw gs2" />SAI</span>
-            <span><i className="g-sw gs3" />Prima accoglienza</span>
+            <span>
+              La prima accoglienza (CPA e hotspot) non è nel grafico: le presenze vanno da {nItal(paMin.v)} nel {paMin.anno} a {nItal(paMax.v)} nel {paMax.anno}.
+            </span>
           </figcaption>
+          <p className="nota-grafico">I dati sui centri partono dal {primoCentri}.</p>
         </figure>
       </section>
 
