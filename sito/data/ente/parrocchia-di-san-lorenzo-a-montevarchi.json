@@ -26,7 +26,7 @@
    "ente": "PARROCCHIA DI SAN LORENZO A MONTEVARCHI",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 52560.0,
    "aggiudicato": 52560.0,
    "durata_gg": null,

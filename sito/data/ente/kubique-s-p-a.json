@@ -21,7 +21,7 @@
    "ente": "KUBIQUE S.P.A.",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 200000.0,
    "aggiudicato": 157660.0,
    "durata_gg": null,

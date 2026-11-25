@@ -26,7 +26,7 @@
    "ente": "AREA SOLIDALE ONLUS",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 126000.0,
    "aggiudicato": 126000.0,
    "durata_gg": null,

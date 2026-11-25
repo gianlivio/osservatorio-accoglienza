@@ -37,7 +37,7 @@
    "ente": "M & C - MANAGEMENT & CONSULTING S.R.L.",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 220000.0,
    "aggiudicato": 220000.0,
    "durata_gg": null,

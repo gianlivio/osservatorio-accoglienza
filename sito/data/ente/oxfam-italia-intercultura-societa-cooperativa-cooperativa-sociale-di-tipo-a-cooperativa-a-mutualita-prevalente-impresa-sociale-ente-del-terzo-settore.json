@@ -235,7 +235,7 @@
    "ente": "OXFAM ITALIA INTERCULTURA, SOCIETA' COOPERATIVA, COOPERATIVA SOCIALE DI TIPO A, COOPERATIVA A MUTUALITA' PREVALENTE, IMPRESA SOCIALE, ENTE DEL TERZO SETTORE",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 87197.6,
    "aggiudicato": 87197.6,
    "durata_gg": null,

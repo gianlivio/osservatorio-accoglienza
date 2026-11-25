@@ -26,7 +26,7 @@
    "ente": "AZIENDA AGRICOLA IL CARLOTTO",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 47779.2,
    "aggiudicato": 47779.2,
    "durata_gg": null,

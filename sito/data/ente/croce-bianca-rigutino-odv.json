@@ -47,7 +47,7 @@
    "ente": "CROCE BIANCA RIGUTINO - - ODV",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 45000.0,
    "aggiudicato": 45000.0,
    "durata_gg": null,

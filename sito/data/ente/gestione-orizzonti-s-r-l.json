@@ -108,7 +108,7 @@
    "ente": "GESTIONE ORIZZONTI S.R.L.",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 105600.0,
    "aggiudicato": 96550.08,
    "durata_gg": null,

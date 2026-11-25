@@ -265,7 +265,7 @@
    "ente": "GIOTTO S.A.S. DI GIARDINO VALENTINA & C.",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 58100.0,
    "aggiudicato": 58100.0,
    "durata_gg": null,

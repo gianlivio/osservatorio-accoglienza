@@ -26,7 +26,7 @@
    "ente": "ARCI COMITATO TERRITORIALE PRATO - APS",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 50000.0,
    "aggiudicato": 50.0,
    "durata_gg": null,

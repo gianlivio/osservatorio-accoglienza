@@ -26,7 +26,7 @@
    "ente": "GIOVE SRL",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 52080.0,
    "aggiudicato": 52080.0,
    "durata_gg": null,

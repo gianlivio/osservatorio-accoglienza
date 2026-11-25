@@ -84,7 +84,7 @@
    "ente": "TAHOMA APS",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 49500.0,
    "aggiudicato": 49500.0,
    "durata_gg": null,

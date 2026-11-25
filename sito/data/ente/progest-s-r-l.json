@@ -26,7 +26,7 @@
    "ente": "PROGEST S.R.L.",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 149500.0,
    "aggiudicato": 149500.0,
    "durata_gg": null,

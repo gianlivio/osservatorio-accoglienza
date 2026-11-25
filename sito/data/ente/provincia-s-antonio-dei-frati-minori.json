@@ -26,7 +26,7 @@
    "ente": "PROVINCIA S.ANTONIO DEI FRATI MINORI",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 97000.0,
    "aggiudicato": 80431.0,
    "durata_gg": null,

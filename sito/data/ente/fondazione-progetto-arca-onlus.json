@@ -309,7 +309,7 @@
    "ente": "FONDAZIONE PROGETTO ARCA ONLUS",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 40693.4,
    "aggiudicato": 40693.4,
    "durata_gg": null,

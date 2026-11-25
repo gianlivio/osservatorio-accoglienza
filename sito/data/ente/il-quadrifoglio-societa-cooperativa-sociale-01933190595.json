@@ -142,7 +142,7 @@
    "ente": "IL QUADRIFOGLIO SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 204560.0,
    "aggiudicato": 204560.0,
    "durata_gg": null,

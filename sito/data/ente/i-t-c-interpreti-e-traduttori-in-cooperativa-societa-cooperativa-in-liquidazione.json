@@ -202,7 +202,7 @@
    "ente": "I.T.C. - INTERPRETI E TRADUTTORI IN COOPERATIVA SOCIETA' COOPERATIVA IN LIQUIDAZIONE",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 264000.0,
    "aggiudicato": 96600.0,
    "durata_gg": null,

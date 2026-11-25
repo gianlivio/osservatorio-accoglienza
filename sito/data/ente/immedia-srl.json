@@ -42,7 +42,7 @@
    "ente": "IMMEDIA SRL",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 98840.0,
    "aggiudicato": 98840.0,
    "durata_gg": null,

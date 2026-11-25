@@ -110,7 +110,7 @@
    "ente": "ARCA ETRUSCA SOCIETA' COOPERATIVA SOCIALE ONLUS",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 81000.0,
    "aggiudicato": 81000.0,
    "durata_gg": null,

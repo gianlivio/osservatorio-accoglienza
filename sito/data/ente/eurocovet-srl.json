@@ -66,7 +66,7 @@
    "ente": "EUROCOVET SRL",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 80000.0,
    "aggiudicato": 80000.0,
    "durata_gg": null,

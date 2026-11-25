@@ -47,7 +47,7 @@
    "ente": "COOPERATIVA SOCIALE PROGETTO EMMAUS SOCIETA' COOPERATIVA SOCIALE",
    "procedura": "AFFIDAMENTO IN ECONOMIA - COTTIMO FIDUCIARIO",
    "diretto": false,
-   "modalita": "diretto",
+   "modalita": "cottimo",
    "base": 72000.0,
    "aggiudicato": 69300.0,
    "durata_gg": null,
