@@ -5,7 +5,7 @@ export type Decisioni = { totale: number; rifugiato: number; sussidiaria: number
 export type AnnoPaese = { richiedenti: number; minori_richiedenti: number; decisioni: Decisioni };
 export type SerieUcdp = Record<"battaglia" | "unilaterale" | "non_statale", Record<string, number>>;
 export type Paese = {
-  slug: string; nome: string; aggettivo: string; iso3: string;
+  slug: string; nome: string; aggettivo: string; iso3: string; prime_dieci_richiedenti: number[];
   anni: Record<string, AnnoPaese>;
   minori_presenti: Record<string, number>;
   ucdp: { morti: SerieUcdp; righe_multipaese: SerieUcdp };
@@ -43,7 +43,8 @@ const TOTALE_DECISIONI_2025 = 104560; // Asylum Information Database (AIDA), su 
 // Controlli: se non tornano la build fallisce (gli stessi sono in script/paesi.py).
 // - totale Italia delle decisioni 2025 uguale alla cifra pubblicata da AIDA su dati Eurostat;
 // - per ogni paese e anno, totale delle decisioni e somma dei quattro tipi differiscono al più di 10 (Eurostat arrotonda a 5);
-// - ogni paese ha tutti gli anni per le serie Eurostat.
+// - ogni paese ha tutti gli anni per le serie Eurostat;
+// - per ogni anno, le prime dieci cittadinanze dei richiedenti asilo in Italia sono tutte tra i paesi (dieci per anno).
 (function verifica(d: Dati) {
   const errori: string[] = [];
   if (d.italia["2025"]?.totale !== TOTALE_DECISIONI_2025)
@@ -58,6 +59,10 @@ const TOTALE_DECISIONI_2025 = 104560; // Asylum Information Database (AIDA), su 
       const s = x.decisioni.rifugiato + x.decisioni.sussidiaria + x.decisioni.umanitaria + x.decisioni.rifiuti;
       if (Math.abs(x.decisioni.totale - s) > 10) errori.push(`${p.nome} ${a}: totale ${x.decisioni.totale}, somma dei tipi ${s}`);
     }
+  }
+  for (const a of d.anni) {
+    const n = d.paesi.filter((p) => p.prime_dieci_richiedenti.includes(+a)).length;
+    if (n !== 10) errori.push(`${a}: ${n} paesi tra le prime dieci cittadinanze dei richiedenti, invece di 10`);
   }
   if (errori.length) throw new Error(`Dati sui paesi non coerenti: ${errori.join("; ")}`);
 })(dati);

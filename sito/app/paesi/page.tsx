@@ -25,7 +25,7 @@ export default function Paesi() {
         <h2 className="titolo-sezione">I {paesi.length} paesi</h2>
         <TabellaPaesi paesi={paesi} anni={anniPaesi} />
         <p className="nota-tabella">
-          I paesi sono quelli comparsi tra le prime dieci cittadinanze dei minori presenti o degli sbarcati dal 2016. Richiedenti: richiedenti asilo. Rifugiato: status di rifugiato; Sussidiaria: protezione sussidiaria; Umanitaria: motivi umanitari; Rifiutate. Quota: sul totale delle decisioni di prima istanza di quel paese
+          I paesi sono quelli comparsi tra le prime dieci cittadinanze dei minori presenti o degli sbarcati dal 2016, o dei richiedenti asilo in Italia in un anno dal 2015. Richiedenti: richiedenti asilo. Rifugiato: status di rifugiato; Sussidiaria: protezione sussidiaria; Umanitaria: motivi umanitari; Rifiutate. Quota: sul totale delle decisioni di prima istanza di quel paese
           e di quell&apos;anno. Eurostat arrotonda i valori a multipli di {e.arrotondamento}. Fonte: Eurostat, dati per l&apos;Italia, estratti il {dataLunga(dati.estratto)}.{" "}
           <Link href="/metodologia#paesi" className="link-interno">Metodologia</Link>
         </p>

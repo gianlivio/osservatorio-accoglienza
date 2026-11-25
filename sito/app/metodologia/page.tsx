@@ -168,7 +168,8 @@ export default function Metodologia() {
         <h2 className="titolo-sezione">Paesi di provenienza</h2>
         <p>
           Le pagine <Link href="/paesi" className="link-interno">Da dove arrivano</Link> riguardano {elencoPaesi.length} paesi: quelli comparsi tra le prime dieci
-          cittadinanze dei minori presenti (Ministero del Lavoro) o degli sbarcati (Ministero dell&apos;Interno) dal 2016. Gli anni sono {periodoPaesi}.
+          cittadinanze dei minori presenti (Ministero del Lavoro) o degli sbarcati (Ministero dell&apos;Interno) dal 2016, o dei richiedenti asilo in Italia (Eurostat) in un anno dal 2015.
+          Il terzo criterio è controllato a ogni aggiornamento: se una cittadinanza entra tra le prime dieci dei richiedenti e non è tra i paesi, lo script e la build si fermano. Gli anni sono {periodoPaesi}.
         </p>
         <p>
           <b>Richiedenti asilo e decisioni.</b> Eurostat, dati per l&apos;Italia: tabelle {ue.richiedenti.dataset} (richiedenti), {ue.decisioni.dataset} (decisioni di prima istanza per tipo)
