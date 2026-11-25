@@ -188,7 +188,9 @@
      "percentuale": 0.1
     }
    ],
-   "altre_nel_report": 101
+   "altre_nel_report": 101,
+   "titolo": "Report mensile al 31 dicembre 2016",
+   "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/Report-MSNA-31122016.pdf"
   },
   "2017": {
    "tipo": "tabella",
@@ -383,7 +385,9 @@
      "percentuale": 0.1
     }
    ],
-   "altre_nel_report": 86
+   "altre_nel_report": 86,
+   "titolo": "Report mensile al 31 dicembre 2017",
+   "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/Report-MSNA-mese-dicembre2017-31122017.pdf"
   },
   "2018": {
    "tipo": "tabella",
@@ -578,7 +582,9 @@
      "percentuale": 0.1
     }
    ],
-   "altre_nel_report": 91
+   "altre_nel_report": 91,
+   "titolo": "Report mensile al 31 dicembre 2018",
+   "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/Report-MSNA-mese-dicembre-2018-15012019.pdf"
   },
   "2019": {
    "tipo": "tabella",
@@ -763,7 +769,9 @@
      "percentuale": 0.1
     }
    ],
-   "altre_nel_report": 71
+   "altre_nel_report": 71,
+   "titolo": "Report mensile al 31 dicembre 2019",
+   "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/Report-MSNA-mese-dicembre-2019.pdf"
   },
   "2020": {
    "tipo": "tabella",
@@ -883,7 +891,9 @@
      "percentuale": 0.4
     }
    ],
-   "altre_nel_report": 188
+   "altre_nel_report": 188,
+   "titolo": "Report mensile al 31 dicembre 2020",
+   "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/Report-MSNA-mese-dicembre-2020.pdf"
   },
   "2021": {
    "tipo": "tabella",
@@ -1018,7 +1028,9 @@
      "percentuale": 0.2
     }
    ],
-   "altre_nel_report": 208
+   "altre_nel_report": 208,
+   "titolo": "Report mensile al 31 dicembre 2021",
+   "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/Report-MSNA-mese-dicembre-2021.pdf"
   },
   "2022": {
    "tipo": "tabella",
@@ -1158,7 +1170,9 @@
      "percentuale": 0.2
     }
    ],
-   "altre_nel_report": 207
+   "altre_nel_report": 207,
+   "titolo": "Report mensile al 31 dicembre 2022",
+   "url": "https://www.lavoro.gov.it/temi-e-priorita/immigrazione/focus-on/minori-stranieri/Documents/Report-MSNA-mese-dicembre-2022.pdf"
   },
   "2023": {
    "tipo": "testo",
@@ -1230,7 +1244,9 @@
    "gruppo_citato": 7,
    "percentuale_gruppo": 75.4,
    "percentuale_oltre": false,
-   "totale": 23226
+   "totale": 23226,
+   "titolo": "Rapporto semestrale al 31 dicembre 2023",
+   "url": "https://www.lavoro.gov.it/documenti/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31dic2023"
   },
   "2024": {
    "tipo": "testo",
@@ -1302,7 +1318,9 @@
    "gruppo_citato": 7,
    "percentuale_gruppo": 76.5,
    "percentuale_oltre": false,
-   "totale": 18625
+   "totale": 18625,
+   "titolo": "Rapporto semestrale al 31 dicembre 2024",
+   "url": "https://www.lavoro.gov.it/documenti/report-approfondimento-semestrale-msna-31-dicembre-2024-bis"
   },
   "2025": {
    "tipo": "testo",
@@ -1364,7 +1382,9 @@
    "gruppo_citato": 8,
    "percentuale_gruppo": 80.0,
    "percentuale_oltre": true,
-   "totale": 17011
+   "totale": 17011,
+   "titolo": "Rapporto semestrale al 31 dicembre 2025",
+   "url": "https://www.lavoro.gov.it/documenti-e-norme/studi-e-statistiche/rapporto-di-approfondimento-semestrale-sulla-presenza-dei-msna-31122025"
   }
  }
 }
