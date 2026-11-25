@@ -42,7 +42,7 @@ ANNI = {
       incoerenza={"altro_valore": 2063, "altro_testo": "la Costa d’Avorio: paese di origine di 2.063 minori entrati in Italia nel 2023", "altra_pagina": 22,
                   "nota": "A p. 21 il rapporto scrive 2.630 minori (7,5%); 2.630 sono il 9,6% di 27.476. A p. 22 scrive 2.063 minori, che sono il 7,5%: probabile inversione di cifre in p. 21."}),
     C("Afghanistan", 1295, P(4.7, "", 21, 1), "l’Afghanistan con 1.295 minori (4,7%)", 21, None,
-      nota={"testo": "i minori afghani hanno utilizzato nel 2023 soprattutto rotte terresti (94,7%)", "pagina": 21,
+      nota={"testo": "i minori afghani hanno utilizzato nel 2023 soprattutto rotte terresti (94,7%)", "pagina": 21, "rotte_terrestri": 94.7,
             "avviso": "Il rapporto non dà la quota via mare per l’Afghanistan: indica solo le rotte terrestri."}),
   ]},
  "2024": {
@@ -112,6 +112,7 @@ def main():
            "non_usati": [f"sem-{a}-06.pdf: dà solo il primo semestre" for a in ("2023", "2024", "2025")],
            "note": ["I rapporti consolidano i dati: il totale 2024 è 14.828 nel rapporto al 31 dicembre 2024; il rapporto 2025 scrive che il 2025 è +235 unità rispetto al 2024 (p. 20), cioè 15.993 per il 2024. Ogni anno porta la cifra del proprio rapporto.",
                     "Nei rapporti le quote per cittadinanza sono scritte con 0 o 1 decimale, a volte con «oltre», «quasi» o «circa»: si riportano come scritte."],
+           "confronto_2024_nel_rapporto_2025": {"differenza": 235, "testo": "il dato degli ingressi dei minori stranieri è risultato in leggero aumento rispetto agli ingressi registrati nel 2024 (+235 unità)", "pagina": 20, "rapporto": "sem-2025-12.pdf"},
            "anni": {}}
     for anno, d in ANNI.items():
         with pdfplumber.open(f"dati-msna-sem/{d['rapporto']}") as pdf:
@@ -125,6 +126,8 @@ def main():
             for t, n in voci:
                 if norm(t) not in pag(n): errori.append(f"{anno}: testo non trovato a p. {n} di {d['rapporto']}: {t}")
         out["anni"][anno] = {"rapporto": d["rapporto"], "data": f"{anno}-12-31", "periodo": "anno solare", **{k: v for k, v in d.items() if k != "rapporto"}}
+    with pdfplumber.open("dati-msna-sem/sem-2025-12.pdf") as pdf:
+        if norm(out["confronto_2024_nel_rapporto_2025"]["testo"]) not in norm(pdf.pages[19].extract_text()): errori.append("2025: testo del confronto con il 2024 non trovato a p. 20")
     if errori: sys.exit("Controlli non superati:\n  " + "\n  ".join(errori))
     json.dump(out, open("sito/data/msna-ingressi.json", "w"), ensure_ascii=False, indent=1)
     print("scritto sito/data/msna-ingressi.json:", ", ".join(f"{a} ({len(x['cittadinanze'])} cittadinanze)" for a, x in out["anni"].items()))
