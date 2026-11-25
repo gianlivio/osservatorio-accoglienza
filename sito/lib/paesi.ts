@@ -133,3 +133,15 @@ export const elencoAnni = (anni: string[]) => {
   return out.length > 1 ? `${out.slice(0, -1).join(", ")} e ${out[out.length - 1]}` : out[0];
 };
 
+
+/** Dati per il globo di /paesi: tutto da paesi.json. */
+export function datiGlobo() {
+  return {
+    paesi: paesi.map((p) => ({
+      slug: p.slug, nome: p.nome, continente: p.continente, coordinate: p.coordinate, contorno: p.contorno,
+      richiedenti: Object.fromEntries(anniPaesi.map((a) => [a, p.anni[a].richiedenti])),
+    })),
+    anni: anniPaesi,
+    italia: dati.coordinate_italia,
+  };
+}
