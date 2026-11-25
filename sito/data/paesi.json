@@ -153,7 +153,7 @@
    },
    "decisioni": {
     "celle": 312,
-    "mediana_pct": 1.0,
+    "mediana_pct": 1,
     "oltre_20_pct": 32
    },
    "decisioni positive": {
@@ -409,7 +409,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/afghanistan/"
+   "ecoi": "https://www.ecoi.net/en/countries/afghanistan/",
+   "coordinate": [
+    66,
+    33.84
+   ],
+   "contorno": "004",
+   "continente": "Asia"
   },
   {
    "slug": "albania",
@@ -567,7 +573,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/albania/"
+   "ecoi": "https://www.ecoi.net/en/countries/albania/",
+   "coordinate": [
+    20.03,
+    41.13
+   ],
+   "contorno": "008",
+   "continente": "Europa"
   },
   {
    "slug": "algeria",
@@ -725,7 +737,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/algeria/"
+   "ecoi": "https://www.ecoi.net/en/countries/algeria/",
+   "coordinate": [
+    2.61,
+    28.09
+   ],
+   "contorno": "012",
+   "continente": "Africa"
   },
   {
    "slug": "bangladesh",
@@ -904,7 +922,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/bangladesh/"
+   "ecoi": "https://www.ecoi.net/en/countries/bangladesh/",
+   "coordinate": [
+    90.28,
+    23.83
+   ],
+   "contorno": "050",
+   "continente": "Asia"
   },
   {
    "slug": "burkina-faso",
@@ -1097,7 +1121,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/burkina-faso/"
+   "ecoi": "https://www.ecoi.net/en/countries/burkina-faso/",
+   "coordinate": [
+    -1.78,
+    12.31
+   ],
+   "contorno": "854",
+   "continente": "Africa"
   },
   {
    "slug": "costa-d-avorio",
@@ -1264,7 +1294,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/cote-d-ivoire/"
+   "ecoi": "https://www.ecoi.net/en/countries/cote-d-ivoire/",
+   "coordinate": [
+    -5.61,
+    7.55
+   ],
+   "contorno": "384",
+   "continente": "Africa"
   },
   {
    "slug": "egitto",
@@ -1444,7 +1480,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/egypt/"
+   "ecoi": "https://www.ecoi.net/en/countries/egypt/",
+   "coordinate": [
+    29.86,
+    26.47
+   ],
+   "contorno": "818",
+   "continente": "Africa"
   },
   {
    "slug": "el-salvador",
@@ -1597,7 +1639,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/el-salvador/"
+   "ecoi": "https://www.ecoi.net/en/countries/el-salvador/",
+   "coordinate": [
+    -88.87,
+    13.73
+   ],
+   "contorno": "222",
+   "continente": "America"
   },
   {
    "slug": "eritrea",
@@ -1757,7 +1805,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/eritrea/"
+   "ecoi": "https://www.ecoi.net/en/countries/eritrea/",
+   "coordinate": [
+    38.69,
+    15.43
+   ],
+   "contorno": "232",
+   "continente": "Africa"
   },
   {
    "slug": "etiopia",
@@ -1950,7 +2004,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/ethiopia/"
+   "ecoi": "https://www.ecoi.net/en/countries/ethiopia/",
+   "coordinate": [
+    39.56,
+    8.65
+   ],
+   "contorno": "231",
+   "continente": "Africa"
   },
   {
    "slug": "gambia",
@@ -2112,7 +2172,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/gambia/"
+   "ecoi": "https://www.ecoi.net/en/countries/gambia/",
+   "coordinate": [
+    -15.43,
+    13.48
+   ],
+   "contorno": "270",
+   "continente": "Africa"
   },
   {
    "slug": "georgia",
@@ -2263,7 +2329,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/georgia/"
+   "ecoi": "https://www.ecoi.net/en/countries/georgia/",
+   "coordinate": [
+    43.5,
+    42.17
+   ],
+   "contorno": "268",
+   "continente": "Asia"
   },
   {
    "slug": "ghana",
@@ -2423,7 +2495,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/ghana/"
+   "ecoi": "https://www.ecoi.net/en/countries/ghana/",
+   "coordinate": [
+    -1.24,
+    7.92
+   ],
+   "contorno": "288",
+   "continente": "Africa"
   },
   {
    "slug": "guinea",
@@ -2585,7 +2663,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/guinea/"
+   "ecoi": "https://www.ecoi.net/en/countries/guinea/",
+   "coordinate": [
+    -11.06,
+    10.45
+   ],
+   "contorno": "324",
+   "continente": "Africa"
   },
   {
    "slug": "india",
@@ -2773,7 +2857,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/india/"
+   "ecoi": "https://www.ecoi.net/en/countries/india/",
+   "coordinate": [
+    79.54,
+    22.82
+   ],
+   "contorno": "356",
+   "continente": "Asia"
   },
   {
    "slug": "iran",
@@ -2951,7 +3041,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/islamic-republic-of-iran/"
+   "ecoi": "https://www.ecoi.net/en/countries/islamic-republic-of-iran/",
+   "coordinate": [
+    54.45,
+    32.47
+   ],
+   "contorno": "364",
+   "continente": "Asia"
   },
   {
    "slug": "iraq",
@@ -3135,7 +3231,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/iraq/"
+   "ecoi": "https://www.ecoi.net/en/countries/iraq/",
+   "coordinate": [
+    43.79,
+    33.01
+   ],
+   "contorno": "368",
+   "continente": "Asia"
   },
   {
    "slug": "kosovo",
@@ -3287,7 +3389,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/kosovo/"
+   "ecoi": "https://www.ecoi.net/en/countries/kosovo/",
+   "coordinate": [
+    20.9,
+    42.58
+   ],
+   "contorno": "Kosovo",
+   "continente": "Europa"
   },
   {
    "slug": "mali",
@@ -3501,7 +3609,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/mali/"
+   "ecoi": "https://www.ecoi.net/en/countries/mali/",
+   "coordinate": [
+    -3.59,
+    17.24
+   ],
+   "contorno": "466",
+   "continente": "Africa"
   },
   {
    "slug": "marocco",
@@ -3662,7 +3776,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/morocco/"
+   "ecoi": "https://www.ecoi.net/en/countries/morocco/",
+   "coordinate": [
+    -8.69,
+    29.82
+   ],
+   "contorno": "504",
+   "continente": "Africa"
   },
   {
    "slug": "nigeria",
@@ -3879,7 +3999,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/nigeria/"
+   "ecoi": "https://www.ecoi.net/en/countries/nigeria/",
+   "coordinate": [
+    7.99,
+    9.54
+   ],
+   "contorno": "566",
+   "continente": "Africa"
   },
   {
    "slug": "pakistan",
@@ -4094,7 +4220,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/pakistan/"
+   "ecoi": "https://www.ecoi.net/en/countries/pakistan/",
+   "coordinate": [
+    69.23,
+    29.91
+   ],
+   "contorno": "586",
+   "continente": "Asia"
   },
   {
    "slug": "peru",
@@ -4248,7 +4380,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/peru/"
+   "ecoi": "https://www.ecoi.net/en/countries/peru/",
+   "coordinate": [
+    -74.43,
+    -9.15
+   ],
+   "contorno": "604",
+   "continente": "America"
   },
   {
    "slug": "senegal",
@@ -4409,7 +4547,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/senegal/"
+   "ecoi": "https://www.ecoi.net/en/countries/senegal/",
+   "coordinate": [
+    -14.51,
+    14.35
+   ],
+   "contorno": "686",
+   "continente": "Africa"
   },
   {
    "slug": "siria",
@@ -4613,7 +4757,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/syrian-arab-republic/"
+   "ecoi": "https://www.ecoi.net/en/countries/syrian-arab-republic/",
+   "coordinate": [
+    38.52,
+    35.01
+   ],
+   "contorno": "760",
+   "continente": "Asia"
   },
   {
    "slug": "somalia",
@@ -4801,7 +4951,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/somalia/"
+   "ecoi": "https://www.ecoi.net/en/countries/somalia/",
+   "coordinate": [
+    45.7,
+    4.74
+   ],
+   "contorno": "706",
+   "continente": "Africa"
   },
   {
    "slug": "sri-lanka",
@@ -4951,7 +5107,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/sri-lanka/"
+   "ecoi": "https://www.ecoi.net/en/countries/sri-lanka/",
+   "coordinate": [
+    80.67,
+    7.7
+   ],
+   "contorno": "144",
+   "continente": "Asia"
   },
   {
    "slug": "sudan",
@@ -5149,7 +5311,13 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/sudan/"
+   "ecoi": "https://www.ecoi.net/en/countries/sudan/",
+   "coordinate": [
+    29.83,
+    15.97
+   ],
+   "contorno": "729",
+   "continente": "Africa"
   },
   {
    "slug": "tunisia",
@@ -5317,7 +5485,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/tunisia/"
+   "ecoi": "https://www.ecoi.net/en/countries/tunisia/",
+   "coordinate": [
+    9.54,
+    34.14
+   ],
+   "contorno": "788",
+   "continente": "Africa"
   },
   {
    "slug": "ucraina",
@@ -5496,7 +5670,13 @@
      "non_statale": {}
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/ukraine/"
+   "ecoi": "https://www.ecoi.net/en/countries/ukraine/",
+   "coordinate": [
+    31.29,
+    49.19
+   ],
+   "contorno": "804",
+   "continente": "Europa"
   },
   {
    "slug": "venezuela",
@@ -5657,7 +5837,25 @@
      }
     }
    },
-   "ecoi": "https://www.ecoi.net/en/countries/bolivarian-republic-of-venezuela/"
+   "ecoi": "https://www.ecoi.net/en/countries/bolivarian-republic-of-venezuela/",
+   "coordinate": [
+    -66.15,
+    7.16
+   ],
+   "contorno": "862",
+   "continente": "America"
   }
- ]
+ ],
+ "coordinate_italia": [
+  12.37,
+  43.43
+ ],
+ "contorni": {
+  "fonte": "world-atlas",
+  "versione": "2.0.2",
+  "file": "countries-110m",
+  "origine": "Natural Earth",
+  "licenza": "pubblico dominio",
+  "url": "https://github.com/topojson/world-atlas"
+ }
 }
