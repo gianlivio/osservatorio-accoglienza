@@ -14,6 +14,9 @@ I file scaricati stanno in dati-asilo/ (non versionata): se ci sono si usano, al
   conflitto solo sopra 25 morti l'anno.
 - UNHCR (Refugee Data Finder, API pubblica, coa=ITA): solo per il confronto con Eurostat (domande, decisioni totali, decisioni
   positive), riassunto in «confronto_unhcr»; le cifre UNHCR per paese non entrano nelle pagine.
+- Paesi: quelli comparsi tra le prime dieci cittadinanze dei minori presenti o degli sbarcati dal 2016 (elenco in
+  dati-asilo/inventario.md) o dei richiedenti asilo in Italia in un anno 2015–2025 (Eurostat migr_asyappctza): quest'ultimo
+  criterio è controllato qui, e uno sfuggito ferma lo script.
 - Se un controllo non torna lo script si ferma senza scrivere; la build ripete i controlli (sito/lib/paesi.ts)."""
 import csv, datetime, io, json, os, statistics, sys, urllib.request, zipfile
 
@@ -33,6 +36,7 @@ CACHE = "dati-asilo"
 TOTALE_DECISIONI_2025 = 104560  # Asylum Information Database (AIDA), su dati Eurostat
 
 # nome, aggettivo (per «cittadinanza ...»), ISO2 Eurostat, ISO3, codice Gleditsch-Ward UCDP, slug della pagina paese su ecoi.net
+# «da» + paese con la preposizione articolata (scritta a mano, per i titoli)
 PAESI = [
     ("Afghanistan", "afghana", "AF", "AFG", "700", "afghanistan"),
     ("Albania", "albanese", "AL", "ALB", "339", "albania"),
@@ -41,10 +45,14 @@ PAESI = [
     ("Burkina Faso", "burkinabé", "BF", "BFA", "439", "burkina-faso"),
     ("Costa d'Avorio", "ivoriana", "CI", "CIV", "437", "cote-d-ivoire"),
     ("Egitto", "egiziana", "EG", "EGY", "651", "egypt"),
+    ("El Salvador", "salvadoregna", "SV", "SLV", "92", "el-salvador"),
     ("Eritrea", "eritrea", "ER", "ERI", "531", "eritrea"),
     ("Etiopia", "etiope", "ET", "ETH", "530", "ethiopia"),
     ("Gambia", "gambiana", "GM", "GMB", "420", "gambia"),
+    ("Georgia", "georgiana", "GE", "GEO", "372", "georgia"),
+    ("Ghana", "ghanese", "GH", "GHA", "452", "ghana"),
     ("Guinea", "guineana", "GN", "GIN", "438", "guinea"),
+    ("India", "indiana", "IN", "IND", "750", "india"),
     ("Iran", "iraniana", "IR", "IRN", "630", "islamic-republic-of-iran"),
     ("Iraq", "irachena", "IQ", "IRQ", "645", "iraq"),
     ("Kosovo", "kosovara", "XK", "XKX", "347", "kosovo"),
@@ -52,13 +60,21 @@ PAESI = [
     ("Marocco", "marocchina", "MA", "MAR", "600", "morocco"),
     ("Nigeria", "nigeriana", "NG", "NGA", "475", "nigeria"),
     ("Pakistan", "pakistana", "PK", "PAK", "770", "pakistan"),
+    ("Perù", "peruviana", "PE", "PER", "135", "peru"),
     ("Senegal", "senegalese", "SN", "SEN", "433", "senegal"),
     ("Siria", "siriana", "SY", "SYR", "652", "syrian-arab-republic"),
     ("Somalia", "somala", "SO", "SOM", "520", "somalia"),
+    ("Sri Lanka", "srilankese", "LK", "LKA", "780", "sri-lanka"),
     ("Sudan", "sudanese", "SD", "SDN", "625", "sudan"),
     ("Tunisia", "tunisina", "TN", "TUN", "616", "tunisia"),
     ("Ucraina", "ucraina", "UA", "UKR", "369", "ukraine"),
+    ("Venezuela", "venezuelana", "VE", "VEN", "101", "bolivarian-republic-of-venezuela"),
 ]
+# nome nel file dei minori presenti, se diverso
+NOME_MSNA = {"Perù": "Peru'"}
+# voci aggregate di Eurostat, non paesi
+AGGREGATI = {"TOTAL", "EU27_2020", "EXT_EU27_2020", "NON_EU27_2020", "UK_OCT", "RNC", "STLS", "UNK"}
+PRIME = 10  # criterio: prime dieci cittadinanze dei richiedenti asilo in Italia, per ogni anno
 
 
 def slug(nome):
@@ -196,6 +212,13 @@ def main():
     if italia["2025"]["totale"] != TOTALE_DECISIONI_2025:
         errori.append(f"totale Italia decisioni 2025: {italia['2025']['totale']} invece di {TOTALE_DECISIONI_2025}")
 
+    # controllo: ogni cittadinanza tra le prime dieci dei richiedenti di un anno deve essere nell'elenco dei paesi
+    prime, ISO2 = {}, {p[2] for p in PAESI}
+    for a in ANNI:
+        r = sorted(((v, c) for (c, y, k), v in S.items() if y == a and k == "richiedenti" and c not in AGGREGATI), reverse=True)[:PRIME]
+        prime[a] = {c for v, c in r}
+        errori += [f"{a}: {c} è tra le prime {PRIME} cittadinanze dei richiedenti ma non è nell'elenco dei paesi" for c in sorted(prime[a] - ISO2)]
+
     paesi = []
     for nome, agg, iso2, iso3, gw, ecoi in PAESI:
         anni = {}
@@ -212,8 +235,9 @@ def main():
                                           "umanitaria": r["umanitaria"], "rifiuti": r["rifiuti"]}}
         paesi.append({
             "slug": slug(nome), "nome": nome, "aggettivo": agg, "iso3": iso3,
+            "prime_dieci_richiedenti": [a for a in ANNI if iso2 in prime[a]],
             "anni": anni,
-            "minori_presenti": {str(a): n for a, n in sorted(presenti.get(nome, {}).items())},
+            "minori_presenti": {str(a): n for a, n in sorted(presenti.get(NOME_MSNA.get(nome, nome), {}).items())},
             "ucdp": {
                 "morti": {k: {str(a): n for a, n in sorted(morti[k].get(gw, {}).items())} for k in UCDP_FILE},
                 "righe_multipaese": {k: {str(a): n for a, n in sorted(multi[k].get(gw, {}).items())} for k in UCDP_FILE},
