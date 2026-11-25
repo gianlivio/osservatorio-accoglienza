@@ -4,6 +4,7 @@ import JsonLd from "@/app/JsonLd";
 import { creatore, dominio, licenza, breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { nItal, dataLunga } from "@/lib/dati";
+import { sbarcoPaese } from "@/lib/msnaIngressi";
 import { sicuri, attoPerId, sicuroAl31Dicembre, testoSicuro, frasiSicuro, dalData } from "@/lib/paesiSicuri";
 import {
   dati, paesi, trovaPaese, anniPaesi, periodoPaesi, ultimoAnno, aperturaPaese, descrizionePaese, titoloPaese,
@@ -32,6 +33,7 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
   const p = trovaPaese(slug);
   if (!p) notFound();
   const e = dati.fonti.eurostat, u = dati.fonti.ucdp;
+  const sbarco = sbarcoPaese(p.nome);
   const anniMinori = anniPaesi.filter((a) => p.minori_presenti[a] !== undefined);
   const multi = multipaese(p);
   const conRighe = haRigheUcdp(p);
@@ -119,6 +121,12 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
           {anniMinori.length > 0 ? ` (${elencoAnni(anniMinori)})` : ""}; n.d. negli altri anni. Dal 2023 i report riportano solo le prime cittadinanze.{" "}
           <Link href="/minori" className="link-interno">Minori non accompagnati →</Link>
         </p>
+        {sbarco.map((x) => (
+          <p key={x.anno} className="nota-tabella">
+            Minori entrati nel {x.anno} con eventi di sbarco: {x.testo}.{" "}
+            <Link href="/minori#come-sono-entrati" className="link-interno">Come sono entrati →</Link>
+          </p>
+        ))}
       </section>
 
       <section className="sezione">
