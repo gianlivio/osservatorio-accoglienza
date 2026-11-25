@@ -53,4 +53,4 @@ La pagina `/metodologia` del sito riporta questi limiti per esteso.
 
 ## Licenza
 
-Codice: MIT. Dati derivati: CC BY-SA 4.0, la stessa licenza della fonte.
+Codice: MIT ([LICENSE](LICENSE)), riferito al codice. Dati derivati: CC BY-SA 4.0, la stessa licenza della fonte.
