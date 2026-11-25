@@ -4,6 +4,7 @@ import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { dataLunga } from "@/lib/dati";
 import { dati, paesi, anniPaesi, periodoPaesi, aperturaPaesi, descrizionePaesi } from "@/lib/paesi";
+import { sicuroAl31Dicembre, testoSicuro, sicuri } from "@/lib/paesiSicuri";
 import TabellaPaesi from "./TabellaPaesi";
 
 export const metadata = {
@@ -13,6 +14,8 @@ export const metadata = {
 
 export default function Paesi() {
   const e = dati.fonti.eurostat;
+  const sicuro: Record<string, Record<string, string>> = Object.fromEntries(
+    paesi.map((p) => [p.slug, Object.fromEntries(anniPaesi.map((a) => [a, testoSicuro(sicuroAl31Dicembre(p.slug, a))]))]));
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Da dove arrivano", percorso: "/paesi" }])} />
@@ -23,9 +26,9 @@ export default function Paesi() {
 
       <section className="sezione">
         <h2 className="titolo-sezione">I {paesi.length} paesi</h2>
-        <TabellaPaesi paesi={paesi} anni={anniPaesi} />
+        <TabellaPaesi paesi={paesi} anni={anniPaesi} sicuro={sicuro} />
         <p className="nota-tabella">
-          I paesi sono quelli comparsi tra le prime dieci cittadinanze dei minori presenti o degli sbarcati dal 2016, o dei richiedenti asilo in Italia in un anno dal 2015. Richiedenti: richiedenti asilo. Rifugiato: status di rifugiato; Sussidiaria: protezione sussidiaria; Umanitaria: motivi umanitari; Rifiutate. Quota: sul totale delle decisioni di prima istanza di quel paese
+          I paesi sono quelli comparsi tra le prime dieci cittadinanze dei minori presenti o degli sbarcati dal 2016, o dei richiedenti asilo in Italia in un anno dal 2015. Richiedenti: richiedenti asilo. Rifugiato: status di rifugiato; Sussidiaria: protezione sussidiaria; Umanitaria: motivi umanitari; Rifiutate. Paese sicuro: se il paese è nell&apos;elenco italiano dei paesi di origine sicuri al 31 dicembre dell&apos;anno; — : prima del {dataLunga(sicuri.primo_elenco_dal)} non c&apos;era un elenco. Quota: sul totale delle decisioni di prima istanza di quel paese
           e di quell&apos;anno. Eurostat arrotonda i valori a multipli di {e.arrotondamento}. Fonte: Eurostat, dati per l&apos;Italia, estratti il {dataLunga(dati.estratto)}.{" "}
           <Link href="/metodologia#paesi" className="link-interno">Metodologia</Link>
         </p>

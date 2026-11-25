@@ -5,6 +5,7 @@ import { centri } from "@/lib/centri";
 import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
+import { sicuri } from "@/lib/paesiSicuri";
 import { dati as datiPaesi, paesi as elencoPaesi, periodoPaesi } from "@/lib/paesi";
 import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct, dataLunga } from "@/lib/dati";
 
@@ -201,6 +202,26 @@ export default function Metodologia() {
           One-sided Violence (morti per violenza di un governo o di un gruppo organizzato contro civili) e Non-state Conflict (morti in conflitti tra gruppi non statali). Si usa la stima migliore.
           UCDP include un conflitto solo se causa almeno {uc.soglia_morti} morti in un anno: un anno senza riga non significa zero morti. Si sommano per paese e anno le sole righe riferite a un paese; le
           righe che riguardano più paesi insieme non si attribuiscono a nessuno e nelle pagine sono segnalate a parte.
+        </p>
+        <p id="paesi-sicuri">
+          <b>Elenco italiano dei paesi di origine sicuri.</b> Dal {dataLunga(sicuri.primo_elenco_dal)} l&apos;elenco è stabilito da {nItal(sicuri.atti.length)} atti successivi; ogni pagina lo ricostruisce per il suo paese dai testi, non da fonti secondarie. Fino al 23 ottobre 2024 l&apos;art. 2-bis, comma 1, del d.lgs. 28 gennaio 2008, n. 25, rinviava a un decreto del Ministro degli affari esteri, di concerto con Interno e Giustizia;
+          dal 24 ottobre 2024 l&apos;elenco è scritto nella legge. Gli atti, in ordine:
+        </p>
+        <ul className="elenco-atti">
+          {sicuri.atti.map((a) => (
+            <li key={a.id}>
+              <a href={a.url} target="_blank" rel="noopener" className="link-interno">{a.titolo}</a>, {a.pubblicazione.fonte} del {dataLunga(a.pubblicazione.data)}, {nItal(a.elenco.length)} paesi; in applicazione dal {dataLunga(a.in_applicazione_dal)} ({a.regola_inizio}).
+            </li>
+          ))}
+        </ul>
+        <p>
+          La data di inizio di ogni decreto è calcolata come il quindicesimo giorno dopo la pubblicazione in Gazzetta Ufficiale, come scritto nel decreto; la data di fine di un elenco è il giorno prima dell&apos;inizio del successivo.
+          Il decreto-legge 158/2024 è stato abrogato dalla legge 9 dicembre 2024, n. 187, che ne ha fatto salvi gli effetti: dall&apos;11 dicembre 2024 la stessa lista è nell&apos;art. 12-bis del decreto-legge 145/2024, come convertito. Il testo vigente dell&apos;art. 2-bis è su Normattiva, verificato il {dataLunga(sicuri.controllato)}.
+          {sicuri.atti.find((a) => a.premessa) && <> Il decreto-legge 158/2024 premette: «{sicuri.atti.find((a) => a.premessa)!.premessa}».</>}
+        </p>
+        <p>
+          {sicuri.eccezioni} Le norme transitorie dei decreti 2023 e 2024 (art. 4, comma 1) sono riportate nella pagina dei paesi interessati. La colonna «Paese sicuro» dà lo stato al 31 dicembre di ogni anno: «—» prima del {dataLunga(sicuri.primo_elenco_dal)}, quando non c&apos;era un elenco.
+          Questo sito non pubblica l&apos;elenco dei paesi di origine sicuri dell&apos;Unione europea.
         </p>
         <p>
           <b>Minori presenti.</b> Dal file della cittadinanza dei minori (vedi <Link href="/minori" className="link-interno">Minori non accompagnati</Link>): compare solo se il paese è tra le

@@ -323,3 +323,6 @@ th.num .ordina{flex-direction:row-reverse}
   .tabella-paese td:first-child{padding-right:6px}
 }
 .sezione > p + .nota-tabella{margin-top:12px}
+.elenco-atti{margin:0 0 14px;padding-left:18px;font-size:15px;max-width:62ch}
+.elenco-atti li{margin-bottom:6px}
+.elenco-atti a{white-space:normal}

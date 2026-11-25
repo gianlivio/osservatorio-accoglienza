@@ -4,6 +4,7 @@ import JsonLd from "@/app/JsonLd";
 import { creatore, dominio, licenza, breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { nItal, dataLunga } from "@/lib/dati";
+import { sicuri, attoPerId, sicuroAl31Dicembre, testoSicuro, frasiSicuro } from "@/lib/paesiSicuri";
 import {
   dati, paesi, trovaPaese, anniPaesi, periodoPaesi, ultimoAnno, aperturaPaese, descrizionePaese, titoloPaese,
   multipaese, haRigheUcdp, elencoAnni, SERIE_UCDP,
@@ -35,6 +36,8 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
   const multi = multipaese(p);
   const conRighe = haRigheUcdp(p);
   const url = `${dominio}/paesi/${slug}`;
+  const fs = frasiSicuro(slug);
+  const atti = [...new Set(fs.intervalli.flatMap((i) => i.atti))].map(attoPerId);
 
   const datasetJsonLd = {
     "@context": "https://schema.org",
@@ -51,6 +54,7 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
     citation: [
       "Eurostat, migr_asyappctza, migr_asydcfsta, migr_asyunaa",
       `Uppsala Conflict Data Program (UCDP), Battle-related Deaths, One-sided Violence e Non-state Conflict, versione ${u.versione}`,
+      "Elenco dei paesi di origine sicuri: art. 2-bis del decreto legislativo 28 gennaio 2008, n. 25, e atti che l'hanno stabilito",
     ],
   };
 
@@ -69,7 +73,7 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
           <caption className="sr-only">Richiedenti asilo e decisioni di prima istanza per anno: totale, status di rifugiato, protezione sussidiaria, motivi umanitari, rifiutate</caption>
           <thead>
             <tr><th>Anno</th><th className="num">Richie&shy;denti</th><th className="num">Deci&shy;sioni</th><th className="num">Rifu&shy;giato</th>
-            <th className="num">Sussi&shy;diaria</th><th className="num">Umani&shy;taria</th><th className="num">Rifiu&shy;tate</th></tr>
+            <th className="num">Sussi&shy;diaria</th><th className="num">Umani&shy;taria</th><th className="num">Rifiu&shy;tate</th><th className="num">Paese sicuro</th></tr>
           </thead>
           <tbody>
             {anniPaesi.map((a) => {
@@ -79,13 +83,14 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
                   <td>{a}</td><td className="num">{nItal(x.richiedenti)}</td><td className="num">{nItal(d.totale)}</td>
                   <td className="num">{nItal(d.rifugiato)}</td><td className="num">{nItal(d.sussidiaria)}</td>
                   <td className="num">{nItal(d.umanitaria)}</td><td className="num">{nItal(d.rifiuti)}</td>
+                  <td className="num">{testoSicuro(sicuroAl31Dicembre(slug, a))}</td>
                 </tr>
               );
             })}
           </tbody>
         </table>
         <p className="nota-tabella">
-          Richiedenti: richiedenti asilo. Rifugiato: decisioni con lo status di rifugiato; Sussidiaria: con la protezione sussidiaria; Umanitaria: per motivi umanitari. Decisioni di prima istanza: quelle prese nell&apos;anno, che non riguardano necessariamente le domande presentate nello stesso anno. Eurostat arrotonda i valori a multipli di {e.arrotondamento}: il totale delle decisioni può non coincidere con la somma dei quattro tipi.{" "}
+          Richiedenti: richiedenti asilo. Rifugiato: decisioni con lo status di rifugiato; Sussidiaria: con la protezione sussidiaria; Umanitaria: per motivi umanitari. Decisioni di prima istanza: quelle prese nell&apos;anno, che non riguardano necessariamente le domande presentate nello stesso anno. Eurostat arrotonda i valori a multipli di {e.arrotondamento}: il totale delle decisioni può non coincidere con la somma dei quattro tipi. Paese sicuro: se il paese è nell&apos;elenco italiano dei paesi di origine sicuri al 31 dicembre dell&apos;anno; — : prima del {dataLunga(sicuri.primo_elenco_dal)} non c&apos;era un elenco.{" "}
           <Link href="/metodologia#paesi" className="link-interno">Metodologia</Link>
         </p>
       </section>
@@ -146,6 +151,31 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
             UCDP registra {multi.righe === 1 ? "1 riga" : `${nItal(multi.righe)} righe`} che riguardano {p.nome} insieme ad altri paesi ({elencoAnni(multi.anni)}): non sono attribuite a nessun paese e non sono nella tabella.
           </p>
         )}
+      </section>
+
+      <section className="sezione" id="paesi-sicuri">
+        <h2 className="titolo-sezione">Elenco dei paesi di origine sicuri</h2>
+        <p>{fs.prima}{fs.passati.length > 0 && " " + fs.passati.join(" ")}</p>
+        {atti.length > 0 && (
+          <ul className="elenco-atti">
+            {atti.map((a) => (
+              <li key={a.id}>
+                <a href={a.url} target="_blank" rel="noopener" className="link-interno">{a.titolo}</a>, {a.pubblicazione.fonte} del {dataLunga(a.pubblicazione.data)}; in applicazione dal {dataLunga(a.in_applicazione_dal)}.
+              </li>
+            ))}
+          </ul>
+        )}
+        {fs.intervalli.length > 0 && <p className="nota-tabella">{sicuri.eccezioni}</p>}
+        {fs.intervalli.filter((i) => i.norma_transitoria).map((i) => (
+          <p key={i.atto} className="nota-tabella">Norma transitoria ({attoPerId(i.atto).breve}, {i.norma_transitoria!.riferimento}): «{i.norma_transitoria!.testo}»</p>
+        ))}
+        <p className="avviso">
+          Per la domanda d&apos;asilo, {sicuri.effetto.riferimento}, prevede: «{sicuri.effetto.testo}»{" "}
+          <a href={sicuri.effetto.url} target="_blank" rel="noopener">Testo su Normattiva</a>
+        </p>
+        <p className="nota-tabella">
+          Elenco verificato il {dataLunga(sicuri.controllato)}. <Link href="/metodologia#paesi-sicuri" className="link-interno">Come è costruito</Link>
+        </p>
       </section>
 
       <section className="sezione">
