@@ -279,7 +279,7 @@ export default function Globo({ paesi, anni, italia }: { paesi: PaeseGlobo[]; an
       </div>
       <div className="globo-assi">
         <span>{anni[0]}</span>
-        <button type="button" className="globo-ricentra" onClick={() => motore.current?.ricentra()}>Ricentra sull&apos;Italia</button>
+        <button type="button" className="globo-ricentra" onClick={() => motore.current?.ricentra()}><span>Ricentra sull&apos;Italia</span></button>
         <span>{anni[anni.length - 1]}</span>
       </div>
       <LegendaGlobo paesi={paesi} anno={anno} attivo={hover} onEntra={setHover} onEsce={() => setHover(null)} />

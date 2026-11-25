@@ -374,4 +374,10 @@ th.num .ordina{flex-direction:row-reverse}
   .globo-legenda{margin-top:20px;font-size:13px}
   .globo-legenda li a{padding:9px 2px}
 }
+@media (max-width: 500px){
+  .globo-assi{flex-wrap:wrap}
+  .globo-ricentra{order:3;flex:0 0 100%;text-align:left;min-height:44px;padding:0;margin-left:-56px;width:calc(100% + 56px);
+    display:flex;align-items:center;border-bottom:0}
+  .globo-ricentra span{border-bottom:1px solid var(--linea)}
+}
 @media (prefers-reduced-motion:reduce){.globo-play,.globo-ricentra{transition:none}}
