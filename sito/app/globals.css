@@ -191,8 +191,10 @@ th.num .ordina{flex-direction:row-reverse}
 .mappa-avviso{margin:14px 0 0}
 @media (min-width: 900px){
   .sezione-mappa{display:grid;grid-template-columns:minmax(0,520px) minmax(0,1fr);column-gap:40px;
-    grid-template-areas:"mappa titolo" "mappa nota" "mappa legenda" "mappa avviso" "mappa .";
-    grid-template-rows:auto auto auto auto 1fr}
+    grid-template-areas:"mappa titolo" "mappa nota" "mappa spiega" "mappa legenda" "mappa avviso" "mappa ." "riga .";
+    grid-template-rows:auto auto auto auto auto 1fr auto}
+  .mappa-spiega{grid-area:spiega}
+  .mappa-range{grid-area:riga}
   .sezione-mappa .mappa{grid-area:mappa;max-width:none}
   .mappa-titolo{grid-area:titolo}
   .mappa-nota{grid-area:nota}
@@ -277,3 +279,5 @@ th.num .ordina{flex-direction:row-reverse}
 .dieci-grafico .nota-grafico{margin:6px 0 0;font-size:14px;color:var(--tenue);max-width:62ch}
 .nota-anni{font-family:var(--testo);font-size:13px;color:var(--tenue);margin-left:10px}
 .nota-periodi{margin:-8px 0 14px}
+.mappa-range{margin:10px 0 0;font-size:14px;color:var(--tenue)}
+.mappa-spiega{margin:12px 0 0;font-size:14px}
