@@ -10,6 +10,7 @@ export type Paese = {
   minori_presenti: Record<string, number>;
   ucdp: { morti: SerieUcdp; righe_multipaese: SerieUcdp };
   ecoi: string;
+  coordinate: [number, number]; contorno: string; continente: "Africa" | "Asia" | "America" | "Europa";
 };
 type FonteEurostat = { dataset: string; titolo: string; aggiornamento: string; versione: string; ultimo_anno: string };
 type Misura = { celle: number; mediana_pct: number; oltre_20_pct: number };
@@ -21,6 +22,7 @@ export type Confronto = {
 type Dati = {
   estratto: string; anni: string[];
   italia: Record<string, { richiedenti: number } & Decisioni>;
+  coordinate_italia: [number, number];
   fonti: {
     eurostat: { richiedenti: FonteEurostat; decisioni: FonteEurostat; minori: FonteEurostat; estratto: string; arrotondamento: number; licenza: string; url: string };
     ucdp: { versione: string; estratto: string; licenza: string; url: string; soglia_morti: number };

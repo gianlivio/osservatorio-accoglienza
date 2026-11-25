@@ -17,8 +17,9 @@ I file scaricati stanno in dati-asilo/ (non versionata): se ci sono si usano, al
 - Paesi: quelli comparsi tra le prime dieci cittadinanze dei minori presenti o degli sbarcati dal 2016 (elenco in
   dati-asilo/inventario.md) o dei richiedenti asilo in Italia in un anno 2015–2025 (Eurostat migr_asyappctza): quest'ultimo
   criterio è controllato qui, e uno sfuggito ferma lo script.
+- Alla fine chiama script/coordinate.mjs (node): coordinate, contorno e continente dei paesi, dai contorni di world-atlas.
 - Se un controllo non torna lo script si ferma senza scrivere; la build ripete i controlli (sito/lib/paesi.ts)."""
-import csv, datetime, io, json, os, statistics, sys, urllib.request, zipfile
+import csv, datetime, io, json, os, statistics, subprocess, sys, urllib.request, zipfile
 
 ANNI = list(range(2015, 2026))
 ES = "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/{}?format=JSON&lang=EN&geo=IT"
@@ -262,6 +263,8 @@ def main():
     }
     json.dump(out, open("sito/data/paesi.json", "w"), ensure_ascii=False, indent=1)
     print("scritto sito/data/paesi.json:", len(paesi), "paesi")
+    # coordinate, contorno e continente per il globo di /paesi (servono node e le dipendenze di sito/)
+    subprocess.run(["node", "script/coordinate.mjs"], check=True)
     print(f"scarti totale decisioni − somma dei tipi diversi da 0: {len(scarti)}")
     for s in scarti: print("  ", *s)
 
