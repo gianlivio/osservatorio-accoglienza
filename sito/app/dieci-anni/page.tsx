@@ -12,6 +12,9 @@ export const metadata = metadatiPagina(
   "Le leggi sull'accoglienza e i numeri dal 2015 al 2025: contratti da 40.000 € in su, presenze nei centri e costo dei CAS, anno per anno.",
 );
 
+const PAROLE = ["zero", "una", "due", "tre", "quattro", "cinque", "sei", "sette", "otto", "nove", "dieci"];
+const numero = (n: number) => PAROLE[n] ?? String(n);
+
 const anni = c.anni;
 const primo = anni[0], ultimo = anni[anni.length - 1];
 const ultimoCentri = c.centri.anni[c.centri.anni.length - 1];
@@ -59,14 +62,14 @@ export default function DieciAnni() {
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Dieci anni di accoglienza", percorso: "/dieci-anni" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
-      <p className="occhiello">{primo}–{ultimo} · leggi, contratti, centri</p>
-      <h1 className="tesi">Dieci anni di accoglienza, <em>anno per anno</em>.</h1>
+      <p className="occhiello">{primo}–{ultimo}</p>
+      <h1 className="tesi">Leggi e numeri <em>dell&apos;accoglienza</em>.</h1>
 
       <div className="prosa">
         <p>
-          Questa pagina mette in fila, dal {primo} al {ultimo}, due serie di numeri: i contratti per l&apos;accoglienza e i
-          centri. Segna anche le leggi sul sistema di accoglienza. Le due serie sono messe una accanto all&apos;altra, anno per
-          anno, con le leggi. Il sito non dice che l&apos;una dipenda dall&apos;altra, né dalle leggi.
+          Dal {primo} al {ultimo} {numero(c.leggi.length)} leggi hanno cambiato il sistema di accoglienza: chi è accolto dagli enti locali e chi nei
+          centri delle Prefetture, quanto restano i minori soli in prima accoglienza. Accanto a ogni legge la pagina riporta i contratti ANAC
+          da 40.000 € in su e le presenze nei centri, senza stabilire nessi tra le une e gli altri.
         </p>
       </div>
 

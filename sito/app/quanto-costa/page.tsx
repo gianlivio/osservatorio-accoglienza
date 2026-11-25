@@ -283,7 +283,7 @@ export default function QuantoCosta() {
         </p>
         <p>
           Presenze nei centri, costo dei CAS e contratti, anno per anno e accanto alle leggi, sono nella pagina{" "}
-          <Link href="/dieci-anni" className="link-interno">Dieci anni di accoglienza</Link>.
+          <Link href="/dieci-anni" className="link-interno">Leggi e numeri dell&apos;accoglienza</Link>.
         </p>
       </section>
 
