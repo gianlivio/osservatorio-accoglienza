@@ -143,6 +143,70 @@
    "verificato": "2026-11-25"
   }
  },
+ "confronto_unhcr": {
+  "soglia": 100,
+  "misure": {
+   "domande": {
+    "celle": 238,
+    "mediana_pct": 1.6,
+    "oltre_20_pct": 36
+   },
+   "decisioni": {
+    "celle": 243,
+    "mediana_pct": 1.0,
+    "oltre_20_pct": 26
+   },
+   "decisioni positive": {
+    "celle": 215,
+    "mediana_pct": 1.1,
+    "oltre_20_pct": 56
+   }
+  },
+  "maggiori": [
+   {
+    "paese": "Guinea",
+    "anno": 2023,
+    "misura": "decisioni",
+    "eurostat": 480,
+    "unhcr": 994,
+    "scarto_pct": 107.1
+   },
+   {
+    "paese": "Egitto",
+    "anno": 2025,
+    "misura": "decisioni positive",
+    "eurostat": 1785,
+    "unhcr": 124,
+    "scarto_pct": -93.1
+   },
+   {
+    "paese": "Bangladesh",
+    "anno": 2023,
+    "misura": "decisioni positive",
+    "eurostat": 2020,
+    "unhcr": 178,
+    "scarto_pct": -91.2
+   },
+   {
+    "paese": "Egitto",
+    "anno": 2024,
+    "misura": "decisioni positive",
+    "eurostat": 965,
+    "unhcr": 97,
+    "scarto_pct": -89.9
+   },
+   {
+    "paese": "Bangladesh",
+    "anno": 2022,
+    "misura": "decisioni positive",
+    "eurostat": 1620,
+    "unhcr": 182,
+    "scarto_pct": -88.8
+   }
+  ],
+  "url": "https://api.unhcr.org/population/v1/",
+  "estratto": "2026-11-25"
+ },
  "paesi": [
   {
    "slug": "afghanistan",
