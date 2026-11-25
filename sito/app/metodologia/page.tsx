@@ -7,17 +7,26 @@ import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { sicuri, dalData } from "@/lib/paesiSicuri";
 import { dati as datiPaesi, paesi as elencoPaesi, periodoPaesi } from "@/lib/paesi";
-import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct, dataLunga } from "@/lib/dati";
+import msnaAttesi from "@/data/msna-attesi.json";
+import { msnaData, totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct, dataLunga } from "@/lib/dati";
 
 export const metadata = metadatiPagina(
   "Metodologia e limiti · Osservatorio Accoglienza",
   "Come è costruito l'archivio: le fonti (ANAC, Centri d'Italia), i criteri di selezione, cosa viene contato e cosa no, i limiti.",
 );
 
+const REPO = "https://github.com/gianlivio/osservatorio-accoglienza";
+const PORTALE = "https://dati.anticorruzione.it/opendata/dataset";
+// Cifre che non stanno nei dati del sito, riportate dalla fonte o dal vecchio errore e dichiarate nel testo.
+const SEMESTRALE_2022 = 20287; // rapporto semestrale del Ministero al 30 giugno 2023, p. 13, riga del 31 dicembre 2022
+const ERRORE_2016_12 = 1165, ERRORE_2021_12 = 333; // totali delle sole minori, letti per errore
+
 export default function Metodologia() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
   const ue = datiPaesi.fonti.eurostat, uc = datiPaesi.fonti.ucdp, cu = datiPaesi.confronto_unhcr;
   const senzaProvincia = totale.affidamenti - province.reduce((n, p) => n + p.totale.affidamenti, 0);
+  const mensile = (periodo: string) => msnaData.nazionale.find((p) => p.periodo === periodo)!.presenti;
+  const diversiDaDiretto = (totale as unknown as { mod_diretto: number }).mod_diretto - totale.diretti;
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Metodologia e limiti", percorso: "/metodologia" }])} />
@@ -36,6 +45,14 @@ export default function Metodologia() {
           finiscono tutti i contratti pubblici italiani: le gare, le aggiudicazioni, i nomi di
           chi vince. Sono collegati tra loro dal codice di gara che accompagna ogni contratto.
           L&apos;archivio copre gli anni dal {primo} al {ultimo}.
+        </p>
+        <p>
+          I tre dataset usati — <a href={`${PORTALE}/cig`} target="_blank" rel="noopener" className="link-interno">CIG</a>,{" "}
+          <a href={`${PORTALE}/aggiudicazioni`} target="_blank" rel="noopener" className="link-interno">aggiudicazioni</a> e{" "}
+          <a href={`${PORTALE}/aggiudicatari`} target="_blank" rel="noopener" className="link-interno">aggiudicatari</a> — sono pubblicati
+          dal portale dei dati aperti dell&apos;ANAC con licenza{" "}
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener" className="link-interno">Creative Commons Attribution Share-Alike 4.0</a>{" "}
+          (CC BY-SA 4.0), come indicato nella pagina di ciascun dataset; verificato il {dataLunga("2026-11-25")}. I dati derivati di questo sito hanno la stessa licenza.
         </p>
         <p>
           I dati su posti, presenze e costi dei centri vengono da Centri d&apos;Italia, di ActionAid
@@ -117,6 +134,13 @@ export default function Metodologia() {
           quanto si è speso. Gli importi non vanno sommati: negli accordi quadro indicano un
           tetto di spesa su più anni, non i soldi effettivamente usati.
         </p>
+        <p>
+          La quota di affidamento diretto conta solo i contratti che nel campo <code>tipo_scelta_contraente</code> della banca dati ANAC riportano
+          «AFFIDAMENTO DIRETTO»: non comprende la procedura negoziata. L&apos;elenco dei contratti nelle pagine delle province e degli enti classifica invece
+          come «affidamento diretto» anche il cottimo fiduciario e l&apos;affidamento riservato: nell&apos;archivio sono {nItal(diversiDaDiretto)} contratti
+          ({nItal(totale.diretti)} contano nella quota, {nItal(totale.diretti + diversiDaDiretto)} portano l&apos;etichetta nell&apos;elenco). Per questi
+          {" "}{nItal(diversiDaDiretto)} l&apos;etichetta dell&apos;elenco e la quota non coincidono.
+        </p>
       </section>
 
       <section className="sezione">
@@ -140,7 +164,7 @@ export default function Metodologia() {
           sempre assegnati con affidamento diretto, il loro ingresso fa salire la quota di contratti
           con affidamento diretto: sembra una crescita, ma è cambiato solo cosa viene contato. La tabella tiene
           separate le due letture — tutti i contratti, e i soli sopra i 40.000 euro, presenti
-          in archivio anche prima e quindi confrontabili nel tempo.
+          in archivio anche prima e quindi confrontabili nel tempo. Le pagine delle province hanno la stessa lettura: la tabella «Anno per anno» ha la colonna «Da 40.000 € in su».
         </p>
         <table className="tabella">
           <caption className="sr-only">Confronto anno per anno tra tutti i contratti e i soli contratti sopra i 40.000 euro</caption>
@@ -165,6 +189,38 @@ export default function Metodologia() {
         </table>
       </section>
 
+      <section className="sezione" id="minori">
+        <h2 className="titolo-sezione">Minori non accompagnati</h2>
+        <p>
+          I dati sui minori stranieri non accompagnati presenti in Italia vengono dal Ministero del Lavoro e delle Politiche Sociali e sono usati nella pagina{" "}
+          <Link href="/minori" className="link-interno">Minori non accompagnati</Link>. Le fonti sono due. Fino a dicembre 2022 i report mensili danno i presenti per
+          regione ({nItal(msnaData.regioni.length)} regioni e province autonome) e il totale nazionale; dal 2023 i rapporti semestrali danno il totale nazionale e le
+          cittadinanze citate nel testo, senza il dettaglio per regione.
+        </p>
+        <p>
+          Le due serie non coincidono per la stessa data e non vanno mescolate: al 31 dicembre 2022 il report mensile indica {nItal(mensile("2022-12"))} minori presenti, il rapporto
+          semestrale {nItal(SEMESTRALE_2022)} (rapporto al 30 giugno 2023, p. 13). Nel grafico e nelle tabelle le due serie sono tenute separate.
+        </p>
+        <p>
+          <b>Cittadinanze.</b> Per il 2016–2022 si usa la tabella completa del report di dicembre. Per il 2023–2025 solo le cittadinanze citate nel testo del rapporto di dicembre,
+          che sono le prime: le altre non sono pubblicate.
+        </p>
+        <p>
+          <b>Controlli.</b> Se uno non torna, lo script <code>script/estrai_msna.py</code> si ferma e la build fallisce. {nItal(msnaAttesi.length)} totali nazionali sono letti a mano dai report
+          e conservati in <code>sito/data/msna-attesi.json</code>: il valore estratto deve coincidere. Per ogni mese la somma delle regioni deve essere uguale al totale nazionale.
+          Per le cittadinanze, il totale della tabella e la somma delle cittadinanze (con la riga delle altre, dove c&apos;è) devono essere uguali al totale nazionale di dicembre; le
+          percentuali devono corrispondere ai numeri; per i rapporti semestrali le cittadinanze devono essere in ordine decrescente, con somma non oltre il totale, e la percentuale delle
+          prime cittadinanze citate nel testo uguale a quella calcolata.
+        </p>
+        <p id="correzione-minori">
+          <b>Correzione del 25 novembre 2026.</b> Fino a quella data il grafico e le linee per regione da giugno 2016 a dicembre 2021 mostravano i totali delle sole minori di genere
+          femminile, letti per errore da una seconda tabella con lo stesso titolo: dicembre 2016 era {nItal(ERRORE_2016_12)} invece di {nItal(mensile("2016-12"))}, dicembre 2021 {nItal(ERRORE_2021_12)} invece
+          di {nItal(mensile("2021-12"))}. Lo script è stato corretto (
+          <a href={`${REPO}/commit/c296664040461ed6ffd188d1f41fb85f819f48de`} target="_blank" rel="noopener" className="link-interno">commit della correzione</a>) e i controlli
+          sopra (<a href={`${REPO}/commit/484afd2bcd0d9289dceac78b60e11761513c1992`} target="_blank" rel="noopener" className="link-interno">commit dei controlli</a>) impediscono che si ripeta.
+        </p>
+      </section>
+
       <section className="sezione" id="paesi">
         <h2 className="titolo-sezione">Paesi di provenienza</h2>
         <p>
@@ -185,7 +241,7 @@ export default function Metodologia() {
           Ogni paese ha tutti gli anni {periodoPaesi} in tutte e tre le tabelle Eurostat.
         </p>
         <p>
-          <b>Confronto con UNHCR.</b> Ho confrontato Eurostat con i dati UNHCR (Refugee Data Finder, API pubblica) sull&apos;Italia, per domande, decisioni totali e decisioni positive
+          <b>Confronto con UNHCR.</b> Eurostat è stato confrontato con i dati UNHCR (Refugee Data Finder, API pubblica) sull&apos;Italia, per domande, decisioni totali e decisioni positive
           (riconosciute e altre), nelle celle con almeno una cifra di {nItal(cu.soglia)}. La mediana dello scarto assoluto è {pct(cu.misure.domande.mediana_pct)} per le domande,{" "}
           {pct(cu.misure.decisioni.mediana_pct)} per le decisioni totali, {pct(cu.misure["decisioni positive"].mediana_pct)} per le decisioni positive; gli scarti oltre il 20% sono
           {" "}{nItal(cu.misure.domande.oltre_20_pct)} su {nItal(cu.misure.domande.celle)}, {nItal(cu.misure.decisioni.oltre_20_pct)} su {nItal(cu.misure.decisioni.celle)} e{" "}
@@ -193,8 +249,8 @@ export default function Metodologia() {
           {cu.maggiori.map((m, i) => (
             <span key={i}>{i > 0 && "; "}{m.paese} {m.anno}, {m.misura}, Eurostat {nItal(m.eurostat)} e UNHCR {nItal(m.unhcr)}</span>
           ))}.
-          Per le decisioni positive, nei casi più grandi la cifra UNHCR è vicina a quella di Eurostat senza i motivi umanitari. È un&apos;ipotesi, non verificata: non ho potuto leggere
-          la definizione UNHCR di decisione positiva, e le pagine di metodologia e di licenza del sito UNHCR non erano raggiungibili. Per questo le cifre UNHCR non sono usate nelle pagine dei paesi.
+          Per le decisioni positive, nei casi più grandi la cifra UNHCR è vicina a quella di Eurostat senza i motivi umanitari. È un&apos;ipotesi, non verificata: la definizione UNHCR di decisione positiva non è stata letta,
+          e le pagine di metodologia e di licenza del sito UNHCR non erano raggiungibili. Per questo le cifre UNHCR non sono usate nelle pagine dei paesi.
           Il Kosovo non è confrontabile: UNHCR lo riporta insieme alla Serbia.
         </p>
         <p>
