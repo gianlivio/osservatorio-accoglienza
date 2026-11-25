@@ -123,10 +123,10 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       <section className="sezione">
         <h2 className="titolo-sezione">Anno per anno</h2>
         <table className="tabella">
-          <caption className="sr-only">Andamento anno per anno di contratti, quota con affidamento diretto, importo mediano ed enti che hanno ricevuto contratti</caption>
+          <caption className="sr-only">Andamento anno per anno di contratti, contratti da 40.000 € in su, quota con affidamento diretto, importo mediano ed enti che hanno ricevuto contratti</caption>
           <thead>
-            <tr><th>Anno</th><th className="num">Contratti</th><th className="num">Affidamento diretto</th>
-            <th className="num">Importo mediano</th><th className="num">Enti che hanno ricevuto contratti</th></tr>
+            <tr><th>Anno</th><th className="num">Contratti</th><th className="num">Da 40.000 € in su</th><th className="num">Affidamento diretto</th>
+            <th className="num col-mediano">Importo mediano</th><th className="num">Enti che hanno ricevuto contratti</th></tr>
           </thead>
           <tbody>
             {anni.map((a) => {
@@ -135,8 +135,9 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
                 <tr key={a}>
                   <td>{a}</td>
                   <td className="num">{b ? nItal(b.affidamenti) : "—"}</td>
+                  <td className="num">{b ? nItal(d.per_anno[a]?.affidamenti_40k ?? 0) : "—"}</td>
                   <td className="num">{b ? pct(b.quota_diretti) : "—"}</td>
-                  <td className="num">{b ? euro(b.importo_mediano) : "—"}</td>
+                  <td className="num col-mediano">{b ? euro(b.importo_mediano) : "—"}</td>
                   <td className="num">{b ? nItal(b.enti_gestori) : "—"}</td>
                 </tr>
               );
@@ -150,10 +151,12 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           </p>
         )}
         <p className="avviso">
-          Gli anni non sono confrontabili tra loro. Fino al 2023 molti contratti di piccolo
-          importo non venivano registrati nell&apos;archivio pubblico, e i contratti
-          pluriennali compaiono solo nell&apos;anno in cui vengono firmati. Un anno con pochi
-          contratti non significa poca accoglienza: la <Link href="/metodologia">Metodologia</Link>{" "}spiega perché.
+          Dal 2024 entrano nell&apos;archivio anche contratti di piccolo importo: per confrontare gli anni, usa la colonna Da 40.000 € in su.{" "}
+          <Link href="/metodologia">Metodologia</Link>
+        </p>
+        <p className="nota-tabella">
+          In tutta Italia, {nItal(Object.values(senzaProvincia).reduce((n, v) => n + v.affidamenti, 0))} contratti su {nItal(totaleNazionale.affidamenti)} dell&apos;archivio
+          non indicano la provincia: non sono in questa pagina. <Link href="/metodologia#senza-provincia">Come sono trattati</Link>
         </p>
       </section>
 

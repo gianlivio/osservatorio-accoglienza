@@ -303,3 +303,5 @@ th.num .ordina{flex-direction:row-reverse}
 .barra{display:block;height:100%;background:var(--timbro);min-width:1px}
 .barra-n{min-width:52px;text-align:right}
 @media (max-width:500px){.col-andamento{display:none}.cella-barra{min-width:0}}
+@media (max-width:500px){.col-mediano{display:none}}
+@media (max-width:500px){.tabella th.num,.tabella td.num{padding-right:8px}.tabella th{font-size:10px;letter-spacing:0}}

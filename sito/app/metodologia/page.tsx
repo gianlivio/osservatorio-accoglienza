@@ -126,7 +126,7 @@ export default function Metodologia() {
           maggioranza. Le comunicazioni arrivano anche con anni di ritardo, quindi gli anni più
           recenti sono ancora provvisori.
         </p>
-        <p>
+        <p id="senza-provincia">
           Dei {nItal(totale.affidamenti)} contratti dell&apos;archivio, {nItal(senzaProvincia)} non
           indicano la provincia nei dati ANAC: compaiono nei totali nazionali, nei file CSV e
           nelle pagine degli enti, ma non nelle pagine delle province.
