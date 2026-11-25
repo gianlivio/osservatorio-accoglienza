@@ -12,8 +12,10 @@ I file scaricati stanno in dati-asilo/ (non versionata): se ci sono si usano, al
   migliore per paese (codice Gleditsch-Ward della località) e anno, solo righe a paese singolo; le righe con più paesi
   non si attribuiscono a nessuno e si contano a parte. Un anno senza riga non è «zero morti»: UCDP registra un
   conflitto solo sopra 25 morti l'anno.
+- UNHCR (Refugee Data Finder, API pubblica, coa=ITA): solo per il confronto con Eurostat (domande, decisioni totali, decisioni
+  positive), riassunto in «confronto_unhcr»; le cifre UNHCR per paese non entrano nelle pagine.
 - Se un controllo non torna lo script si ferma senza scrivere; la build ripete i controlli (sito/lib/paesi.ts)."""
-import csv, datetime, io, json, os, sys, urllib.request, zipfile
+import csv, datetime, io, json, os, statistics, sys, urllib.request, zipfile
 
 ANNI = list(range(2015, 2026))
 ES = "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/{}?format=JSON&lang=EN&geo=IT"
@@ -25,6 +27,8 @@ UCDP_FILE = {  # chiave: (zip, csv interno, colonna del paese, colonna dei morti
     "unilaterale": ("nsos/ucdp-onesided-261-csv.zip", "OneSided_v26_1.csv", "gwno_location", "best_fatality_estimate"),
     "non_statale": ("nsos/ucdp-nonstate-261-csv.zip", "NonState_v26_1.csv", "gwno_location", "best_fatality_estimate"),
 }
+UNHCR = "https://api.unhcr.org/population/v1/{}/?coa=ITA&coo_all=true&year_from=2015&year_to=2025&limit=10000&cf_type=ISO"
+SOGLIA_CONFRONTO = 100  # sotto questa cifra (entrambe le fonti) lo scarto % non è significativo: Eurostat arrotonda a 5
 CACHE = "dati-asilo"
 TOTALE_DECISIONI_2025 = 104560  # Asylum Information Database (AIDA), su dati Eurostat
 
@@ -100,7 +104,7 @@ def serie_eurostat():
         if d["sex"] == "T" and d["age"] == "TOTAL" and d["applicant"] == "TOTAL":
             S[(d["citizen"], int(d["time"]), "richiedenti")] = x
     ids, v, fonti["decisioni"] = eurostat(DATASET["decisioni"])
-    voce = {"TOTAL": "totale", "POS_RFG": "rifugiato", "POS_SPROT": "sussidiaria", "POS_HUM": "umanitaria", "NEG": "rifiuti"}
+    voce = {"TOTAL": "totale", "POS": "positive", "POS_RFG": "rifugiato", "POS_SPROT": "sussidiaria", "POS_HUM": "umanitaria", "NEG": "rifiuti"}
     for t, x in v.items():
         d = dict(zip(ids, t))
         if d["sex"] == "T" and d["age"] == "TOTAL" and d["decision"] in voce:
@@ -135,6 +139,39 @@ def ucdp():
                     d = multi[k].setdefault(c, {})
                     d[a] = d.get(a, 0) + 1
     return morti, multi
+
+
+def confronto_unhcr(S):
+    """Scarto % di UNHCR su Eurostat per domande (N+R), decisioni totali e decisioni positive (riconosciute + altre):
+    mediana dello scarto assoluto, celle con scarto oltre il 20% e i cinque scarti maggiori. Solo celle con almeno una
+    cifra >= SOGLIA_CONFRONTO; Kosovo escluso (UNHCR lo accorpa alla Serbia)."""
+    app, dec = {}, {}
+    for nome, url in (("asylum-applications", app), ("asylum-decisions", dec)):
+        dest = f"{CACHE}/unhcr_{nome}.json"
+        scarica(UNHCR.format(nome), dest)
+        url["items"] = json.load(open(dest))["items"]
+    n = lambda x: int(x) if x not in (None, "") else 0
+    ua, ud = {}, {}
+    for i in app["items"]:
+        if i["app_type"] in ("N", "R"): ua[(i["coo_iso"], i["year"])] = ua.get((i["coo_iso"], i["year"]), 0) + n(i["applied"])
+    for i in dec["items"]:
+        ud[(i["coo_iso"], i["year"])] = (n(i["dec_total"]), n(i["dec_recognized"]) + n(i["dec_other"]))
+    celle = []
+    for nome, agg, iso2, iso3, gw, ecoi in PAESI:
+        if nome == "Kosovo": continue
+        for a in ANNI:
+            for misura, e, u in (("domande", S.get((iso2, a, "richiedenti")), ua.get((iso3, a))),
+                                 ("decisioni", S.get((iso2, a, "totale")), ud[(iso3, a)][0] if (iso3, a) in ud else None),
+                                 ("decisioni positive", S.get((iso2, a, "positive")), ud[(iso3, a)][1] if (iso3, a) in ud else None)):
+                if e is None or u is None or e == 0 or max(e, u) < SOGLIA_CONFRONTO: continue
+                celle.append({"paese": nome, "anno": a, "misura": misura, "eurostat": e, "unhcr": u, "scarto_pct": round((u - e) / e * 100, 1)})
+    misure = {}
+    for m in ("domande", "decisioni", "decisioni positive"):
+        s = [abs(c["scarto_pct"]) for c in celle if c["misura"] == m]
+        misure[m] = {"celle": len(s), "mediana_pct": round(statistics.median(s), 1), "oltre_20_pct": sum(x > 20 for x in s)}
+    maggiori = sorted(celle, key=lambda c: -abs(c["scarto_pct"]))[:5]
+    return {"soglia": SOGLIA_CONFRONTO, "misure": misure, "maggiori": maggiori,
+            "url": "https://api.unhcr.org/population/v1/", "estratto": datetime.date.today().isoformat()}
 
 
 def minori_presenti():
@@ -196,6 +233,7 @@ def main():
                      "soglia_morti": 25},
             "ecoi": {"url": "https://www.ecoi.net/en/countries/", "verificato": "2026-11-25"},
         },
+        "confronto_unhcr": confronto_unhcr(S),
         "paesi": paesi,
     }
     json.dump(out, open("sito/data/paesi.json", "w"), ensure_ascii=False, indent=1)
