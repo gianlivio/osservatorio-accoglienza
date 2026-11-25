@@ -73,6 +73,7 @@ ATTI = [
         "elenco": ["Albania", "Algeria", "Bangladesh", "Bosnia-Erzegovina", "Capo Verde", "Costa d'Avorio", "Egitto", "Gambia", "Georgia",
                    "Ghana", "Kosovo", "Macedonia del Nord", "Marocco", "Montenegro", "Perù", "Senegal", "Serbia", "Sri Lanka", "Tunisia"],
         "transitoria": None,
+        "premessa": "Considerata la straordinaria necessità ed urgenza di designare i Paesi di origine sicuri, tenendo conto della sentenza della Corte di Giustizia dell'Unione Europea, del 4 ottobre 2024 (causa C-406/22), escludendo i Paesi che non soddisfano le condizioni per determinate parti del loro territorio (Camerun, Colombia e Nigeria)",
     },
     {
         "id": "dl-2024-145-art-12-bis",
@@ -135,7 +136,7 @@ def main():
         "effetto": EFFETTO,
         "atti": [{"id": a["id"], "titolo": a["titolo"], "breve": a["breve"], "pubblicazione": a["pubblicazione"],
                   "in_applicazione_dal": inizio(a).isoformat(), "regola_inizio": a["inizio"]["regola"], "url": a["url"],
-                  "elenco": a["elenco"], "norma_transitoria": a["transitoria"]} for a in atti],
+                  "elenco": a["elenco"], "norma_transitoria": a["transitoria"], "premessa": a.get("premessa")} for a in atti],
         "paesi": out_paesi,
     }
     json.dump(out, open("sito/data/paesi-sicuri.json", "w"), ensure_ascii=False, indent=1)
