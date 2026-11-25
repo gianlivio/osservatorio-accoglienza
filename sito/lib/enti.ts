@@ -18,5 +18,9 @@ export const trovaEnte = (s: string) => enti.find((e) => e.slug === s);
 export const slugEnteDaCf = new Map(enti.map((e) => [e.cf, e.slug]));
 export async function caricaEnte(slug: string): Promise<EnteDettaglio> {
   const mod = await import(`@/data/ente/${slug}.json`);
-  return mod.default as unknown as EnteDettaglio;
+  const d = mod.default as unknown as EnteDettaglio;
+  const etichettati = d.contratti.filter((c) => c.modalita === "diretto").length;
+  if (etichettati !== d.diretti)
+    throw new Error(`${slug}: ${etichettati} contratti con etichetta «affidamento diretto» nell'elenco, ${d.diretti} nel numeratore della quota`);
+  return d;
 }

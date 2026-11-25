@@ -124,9 +124,15 @@ def diretto(r):
     return "AFFIDAMENTO DIRETTO" in (r["tipo_scelta_contraente"] or "")
 
 def modalita(r):
+    """Etichetta della procedura nell'elenco dei contratti. «diretto» solo per i contratti che contano nella quota
+    (diretto(r)); cottimo fiduciario e affidamento riservato hanno la loro etichetta."""
     t = (r["tipo_scelta_contraente"] or "").upper()
-    if "AFFIDAMENTO DIRETTO" in t or "COTTIMO FIDUCIARIO" in t or "AFFIDAMENTO RISERVATO" in t:
+    if diretto(r):
         return "diretto"
+    if "COTTIMO FIDUCIARIO" in t:
+        return "cottimo"
+    if "AFFIDAMENTO RISERVATO" in t:
+        return "riservato"
     if "APERTA" in t or "RISTRETTA" in t or "DIALOGO" in t or "CONFRONTO COMPETITIVO" in t or "PROCEDURA DI GARA" in t or "SISTEMA DINAMICO" in t or ("PREVIA PUBBLICAZIONE" in t and "SENZA" not in t) or "PREVIA INDIZIONE" in t or "AVVISI CON CUI SI INDICE" in t:
         return "gara"
     if "NEGOZIATA" in t or "COMPETITIVA CON NEGOZIAZIONE" in t or "PARTE" in t or "ALTRA PROCEDURA" in t:
@@ -150,7 +156,7 @@ def blocco(rr):
         "mod_diretto": sum(1 for r in rr if modalita(r) == "diretto"),
         "mod_negoziata": sum(1 for r in rr if modalita(r) == "negoziata"),
         "mod_gara": sum(1 for r in rr if modalita(r) == "gara"),
-        "mod_altro": sum(1 for r in rr if modalita(r) == "altro"),
+        "mod_altro": sum(1 for r in rr if modalita(r) not in ("diretto", "negoziata", "gara")),  # compresi cottimo fiduciario e affidamento riservato
         "quota_diretti_per_importo": round(val_d / val * 100, 1),
         "affidamenti_40k": sum(1 for r in rr if (num(r["importo_lotto"], 0) or 0) >= 40000),
         "sotto_soglia": len(sotto),

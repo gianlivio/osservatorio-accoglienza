@@ -26,7 +26,6 @@ export default function Metodologia() {
   const ue = datiPaesi.fonti.eurostat, uc = datiPaesi.fonti.ucdp, cu = datiPaesi.confronto_unhcr;
   const senzaProvincia = totale.affidamenti - province.reduce((n, p) => n + p.totale.affidamenti, 0);
   const mensile = (periodo: string) => msnaData.nazionale.find((p) => p.periodo === periodo)!.presenti;
-  const diversiDaDiretto = (totale as unknown as { mod_diretto: number }).mod_diretto - totale.diretti;
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Metodologia e limiti", percorso: "/metodologia" }])} />
@@ -136,10 +135,10 @@ export default function Metodologia() {
         </p>
         <p>
           La quota di affidamento diretto conta solo i contratti che nel campo <code>tipo_scelta_contraente</code> della banca dati ANAC riportano
-          «AFFIDAMENTO DIRETTO»: non comprende la procedura negoziata. L&apos;elenco dei contratti nelle pagine delle province e degli enti classifica invece
-          come «affidamento diretto» anche il cottimo fiduciario e l&apos;affidamento riservato: nell&apos;archivio sono {nItal(diversiDaDiretto)} contratti
-          ({nItal(totale.diretti)} contano nella quota, {nItal(totale.diretti + diversiDaDiretto)} portano l&apos;etichetta nell&apos;elenco). Per questi
-          {" "}{nItal(diversiDaDiretto)} l&apos;etichetta dell&apos;elenco e la quota non coincidono.
+          «AFFIDAMENTO DIRETTO»: non comprende la procedura negoziata, il cottimo fiduciario né l&apos;affidamento riservato. Lo stesso criterio vale per l&apos;etichetta
+          «affidamento diretto» nell&apos;elenco dei contratti delle pagine delle province e degli enti, nel feed RSS e nel file CSV: cottimo fiduciario e affidamento
+          riservato hanno ciascuno la propria etichetta, uguale al valore ANAC. Per ogni provincia e per ogni ente i contratti con l&apos;etichetta «affidamento diretto» sono
+          quelli del numeratore della quota: se non coincidono, la build si ferma.
         </p>
       </section>
 

@@ -31,6 +31,8 @@ export default function ElencoContratti({ contratti }: { contratti: Contratto[] 
                 {c.modalita === "diretto" ? "affidamento diretto"
                   : c.modalita === "negoziata" ? "negoziata, senza bando"
                   : c.modalita === "gara" ? "gara con bando"
+                  : c.modalita === "cottimo" ? "cottimo fiduciario"
+                  : c.modalita === "riservato" ? "affidamento riservato"
                   : "altra procedura"}
               </span>
               {c.da_accordo && <span className="badge badge-neutro">da accordo quadro</span>}

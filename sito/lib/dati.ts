@@ -80,7 +80,13 @@ export async function verificaSommeProvince() {
 }
 export async function caricaDettaglioProvincia(slug: string): Promise<ProvinciaDettaglio> {
   const mod = await import(`@/data/provincia/${slug}.json`);
-  return mod.default as unknown as ProvinciaDettaglio;
+  const d = mod.default as unknown as ProvinciaDettaglio;
+  // l'etichetta «affidamento diretto» dell'elenco conta le stesse cose del numeratore della quota
+  const p = trovaProvincia(slug);
+  const etichettati = d.contratti.filter((c) => c.modalita === "diretto").length;
+  if (p && etichettati !== p.totale.diretti)
+    throw new Error(`${slug}: ${etichettati} contratti con etichetta «affidamento diretto» nell'elenco, ${p.totale.diretti} nel numeratore della quota`);
+  return d;
 }
 export const euro = (n: number | null) =>
   n === null ? "n.d." : new Intl.NumberFormat("it-IT",
