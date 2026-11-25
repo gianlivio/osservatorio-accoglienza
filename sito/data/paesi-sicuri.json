@@ -1,0 +1,555 @@
+{
+ "controllato": "2026-11-25",
+ "primo_elenco_dal": "2019-10-22",
+ "eccezioni": "Nessun atto indica eccezioni per parti del territorio o categorie di persone nell'elenco (art. 1 di ciascun decreto; comma 1 dell'art. 2-bis).",
+ "effetto": {
+  "riferimento": "art. 2-bis, comma 5, del decreto legislativo 28 gennaio 2008, n. 25 (testo vigente)",
+  "testo": "Un Paese designato di origine sicuro ai sensi del presente articolo può essere considerato Paese di origine sicuro per il richiedente solo se questi ha la cittadinanza di quel Paese o è un apolide che in precedenza soggiornava abitualmente in quel Paese e non ha invocato gravi motivi per ritenere che quel Paese non è sicuro per la situazione particolare in cui lo stesso richiedente si trova.",
+  "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25~art2bis"
+ },
+ "atti": [
+  {
+   "id": "dm-2019-10-04",
+   "titolo": "Decreto del Ministro degli affari esteri e della cooperazione internazionale 4 ottobre 2019, «Individuazione dei Paesi di origine sicuri, ai sensi dell'articolo 2-bis del decreto legislativo 28 gennaio 2008, n. 25»",
+   "breve": "decreto del Ministro degli affari esteri 4 ottobre 2019",
+   "pubblicazione": {
+    "fonte": "Gazzetta Ufficiale, Serie generale n. 235",
+    "data": "2019-10-07",
+    "codice": "19A06239"
+   },
+   "in_applicazione_dal": "2019-10-22",
+   "regola_inizio": "art. 4, comma 1: si applica dal quindicesimo giorno successivo a quello della pubblicazione",
+   "url": "https://www.gazzettaufficiale.it/eli/id/2019/10/07/19A06239/sg",
+   "elenco": [
+    "Albania",
+    "Algeria",
+    "Bosnia-Erzegovina",
+    "Capo Verde",
+    "Ghana",
+    "Kosovo",
+    "Macedonia del Nord",
+    "Marocco",
+    "Montenegro",
+    "Senegal",
+    "Serbia",
+    "Tunisia",
+    "Ucraina"
+   ],
+   "norma_transitoria": null
+  },
+  {
+   "id": "dm-2023-03-17",
+   "titolo": "Decreto del Ministro degli affari esteri e della cooperazione internazionale 17 marzo 2023, «Aggiornamento periodico della lista dei Paesi di origine sicuri per i richiedenti protezione internazionale»",
+   "breve": "decreto del Ministro degli affari esteri 17 marzo 2023",
+   "pubblicazione": {
+    "fonte": "Gazzetta Ufficiale, Serie generale n. 72",
+    "data": "2023-03-25",
+    "codice": "23A01952"
+   },
+   "in_applicazione_dal": "2023-04-09",
+   "regola_inizio": "art. 5, comma 1: si applica dal quindicesimo giorno successivo a quello della pubblicazione",
+   "url": "https://www.gazzettaufficiale.it/eli/id/2023/03/25/23A01952/sg",
+   "elenco": [
+    "Albania",
+    "Algeria",
+    "Bosnia-Erzegovina",
+    "Capo Verde",
+    "Costa d'Avorio",
+    "Gambia",
+    "Georgia",
+    "Ghana",
+    "Kosovo",
+    "Macedonia del Nord",
+    "Marocco",
+    "Montenegro",
+    "Nigeria",
+    "Senegal",
+    "Serbia",
+    "Tunisia"
+   ],
+   "norma_transitoria": {
+    "riferimento": "art. 4, comma 1",
+    "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione della Costa d'Avorio, del Gambia, della Georgia e della Nigeria nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto.",
+    "paesi": [
+     "Costa d'Avorio",
+     "Gambia",
+     "Georgia",
+     "Nigeria"
+    ]
+   }
+  },
+  {
+   "id": "dm-2024-05-07",
+   "titolo": "Decreto del Ministro degli affari esteri e della cooperazione internazionale 7 maggio 2024, «Aggiornamento della lista dei Paesi di origine sicuri prevista dall'articolo 2-bis del decreto legislativo 28 gennaio 2008, n. 25»",
+   "breve": "decreto del Ministro degli affari esteri 7 maggio 2024",
+   "pubblicazione": {
+    "fonte": "Gazzetta Ufficiale, Serie generale n. 105",
+    "data": "2024-05-07",
+    "codice": "24A02369"
+   },
+   "in_applicazione_dal": "2024-05-22",
+   "regola_inizio": "art. 5, comma 1: si applica dal quindicesimo giorno successivo a quello della pubblicazione",
+   "url": "https://www.gazzettaufficiale.it/eli/id/2024/05/07/24A02369/sg",
+   "elenco": [
+    "Albania",
+    "Algeria",
+    "Bangladesh",
+    "Bosnia-Erzegovina",
+    "Camerun",
+    "Capo Verde",
+    "Colombia",
+    "Costa d'Avorio",
+    "Egitto",
+    "Gambia",
+    "Georgia",
+    "Ghana",
+    "Kosovo",
+    "Macedonia del Nord",
+    "Marocco",
+    "Montenegro",
+    "Nigeria",
+    "Perù",
+    "Senegal",
+    "Serbia",
+    "Sri Lanka",
+    "Tunisia"
+   ],
+   "norma_transitoria": {
+    "riferimento": "art. 4, comma 1",
+    "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione di Bangladesh, Camerun, Colombia, Egitto, Perù e Sri Lanka, nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto.",
+    "paesi": [
+     "Bangladesh",
+     "Egitto",
+     "Perù",
+     "Sri Lanka"
+    ]
+   }
+  },
+  {
+   "id": "dl-2024-158",
+   "titolo": "Decreto-legge 23 ottobre 2024, n. 158, art. 1, che sostituisce il comma 1 dell'art. 2-bis del decreto legislativo 28 gennaio 2008, n. 25 (elenco dei Paesi di origine sicuri nella legge)",
+   "breve": "decreto-legge 23 ottobre 2024, n. 158",
+   "pubblicazione": {
+    "fonte": "Gazzetta Ufficiale, Serie generale n. 249",
+    "data": "2024-10-23",
+    "codice": "24G00177"
+   },
+   "in_applicazione_dal": "2024-10-24",
+   "regola_inizio": "in vigore dal 24 ottobre 2024 (Normattiva)",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25~art2bis!vig=2024-10-24",
+   "elenco": [
+    "Albania",
+    "Algeria",
+    "Bangladesh",
+    "Bosnia-Erzegovina",
+    "Capo Verde",
+    "Costa d'Avorio",
+    "Egitto",
+    "Gambia",
+    "Georgia",
+    "Ghana",
+    "Kosovo",
+    "Macedonia del Nord",
+    "Marocco",
+    "Montenegro",
+    "Perù",
+    "Senegal",
+    "Serbia",
+    "Sri Lanka",
+    "Tunisia"
+   ],
+   "norma_transitoria": null
+  },
+  {
+   "id": "dl-2024-145-art-12-bis",
+   "titolo": "Decreto-legge 11 ottobre 2024, n. 145, art. 12-bis, introdotto dalla legge 9 dicembre 2024, n. 187 di conversione, che sostituisce il comma 1 dell'art. 2-bis del decreto legislativo 28 gennaio 2008, n. 25 (testo vigente)",
+   "breve": "art. 12-bis del decreto-legge 11 ottobre 2024, n. 145, come convertito dalla legge 9 dicembre 2024, n. 187",
+   "pubblicazione": {
+    "fonte": "Gazzetta Ufficiale, Serie generale n. 289",
+    "data": "2024-12-10",
+    "codice": "24G00206"
+   },
+   "in_applicazione_dal": "2024-12-11",
+   "regola_inizio": "in vigore dall'11 dicembre 2024 (Normattiva)",
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25~art2bis",
+   "elenco": [
+    "Albania",
+    "Algeria",
+    "Bangladesh",
+    "Bosnia-Erzegovina",
+    "Capo Verde",
+    "Costa d'Avorio",
+    "Egitto",
+    "Gambia",
+    "Georgia",
+    "Ghana",
+    "Kosovo",
+    "Macedonia del Nord",
+    "Marocco",
+    "Montenegro",
+    "Perù",
+    "Senegal",
+    "Serbia",
+    "Sri Lanka",
+    "Tunisia"
+   ],
+   "norma_transitoria": null
+  }
+ ],
+ "paesi": {
+  "afghanistan": {
+   "nome": "Afghanistan",
+   "intervalli": []
+  },
+  "albania": {
+   "nome": "Albania",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": null,
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04",
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ]
+    }
+   ]
+  },
+  "algeria": {
+   "nome": "Algeria",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": null,
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04",
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ]
+    }
+   ]
+  },
+  "bangladesh": {
+   "nome": "Bangladesh",
+   "intervalli": [
+    {
+     "dal": "2024-05-22",
+     "al": null,
+     "atto": "dm-2024-05-07",
+     "atti": [
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2024-05-07",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione di Bangladesh, Camerun, Colombia, Egitto, Perù e Sri Lanka, nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "burkina-faso": {
+   "nome": "Burkina Faso",
+   "intervalli": []
+  },
+  "costa-d-avorio": {
+   "nome": "Costa d'Avorio",
+   "intervalli": [
+    {
+     "dal": "2023-04-09",
+     "al": null,
+     "atto": "dm-2023-03-17",
+     "atti": [
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2023-03-17",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione della Costa d'Avorio, del Gambia, della Georgia e della Nigeria nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "egitto": {
+   "nome": "Egitto",
+   "intervalli": [
+    {
+     "dal": "2024-05-22",
+     "al": null,
+     "atto": "dm-2024-05-07",
+     "atti": [
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2024-05-07",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione di Bangladesh, Camerun, Colombia, Egitto, Perù e Sri Lanka, nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "el-salvador": {
+   "nome": "El Salvador",
+   "intervalli": []
+  },
+  "eritrea": {
+   "nome": "Eritrea",
+   "intervalli": []
+  },
+  "etiopia": {
+   "nome": "Etiopia",
+   "intervalli": []
+  },
+  "gambia": {
+   "nome": "Gambia",
+   "intervalli": [
+    {
+     "dal": "2023-04-09",
+     "al": null,
+     "atto": "dm-2023-03-17",
+     "atti": [
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2023-03-17",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione della Costa d'Avorio, del Gambia, della Georgia e della Nigeria nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "georgia": {
+   "nome": "Georgia",
+   "intervalli": [
+    {
+     "dal": "2023-04-09",
+     "al": null,
+     "atto": "dm-2023-03-17",
+     "atti": [
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2023-03-17",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione della Costa d'Avorio, del Gambia, della Georgia e della Nigeria nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "ghana": {
+   "nome": "Ghana",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": null,
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04",
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ]
+    }
+   ]
+  },
+  "guinea": {
+   "nome": "Guinea",
+   "intervalli": []
+  },
+  "india": {
+   "nome": "India",
+   "intervalli": []
+  },
+  "iran": {
+   "nome": "Iran",
+   "intervalli": []
+  },
+  "iraq": {
+   "nome": "Iraq",
+   "intervalli": []
+  },
+  "kosovo": {
+   "nome": "Kosovo",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": null,
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04",
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ]
+    }
+   ]
+  },
+  "mali": {
+   "nome": "Mali",
+   "intervalli": []
+  },
+  "marocco": {
+   "nome": "Marocco",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": null,
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04",
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ]
+    }
+   ]
+  },
+  "nigeria": {
+   "nome": "Nigeria",
+   "intervalli": [
+    {
+     "dal": "2023-04-09",
+     "al": "2024-10-23",
+     "atto": "dm-2023-03-17",
+     "atti": [
+      "dm-2023-03-17",
+      "dm-2024-05-07"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2023-03-17",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione della Costa d'Avorio, del Gambia, della Georgia e della Nigeria nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "pakistan": {
+   "nome": "Pakistan",
+   "intervalli": []
+  },
+  "peru": {
+   "nome": "Perù",
+   "intervalli": [
+    {
+     "dal": "2024-05-22",
+     "al": null,
+     "atto": "dm-2024-05-07",
+     "atti": [
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2024-05-07",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione di Bangladesh, Camerun, Colombia, Egitto, Perù e Sri Lanka, nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "senegal": {
+   "nome": "Senegal",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": null,
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04",
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ]
+    }
+   ]
+  },
+  "siria": {
+   "nome": "Siria",
+   "intervalli": []
+  },
+  "somalia": {
+   "nome": "Somalia",
+   "intervalli": []
+  },
+  "sri-lanka": {
+   "nome": "Sri Lanka",
+   "intervalli": [
+    {
+     "dal": "2024-05-22",
+     "al": null,
+     "atto": "dm-2024-05-07",
+     "atti": [
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ],
+     "norma_transitoria": {
+      "atto": "dm-2024-05-07",
+      "riferimento": "art. 4, comma 1",
+      "testo": "Ai fini dell'esame delle domande di protezione internazionale, l'inclusione di Bangladesh, Camerun, Colombia, Egitto, Perù e Sri Lanka, nell'elenco di cui all'art. 1 non ha effetto sulle domande presentate da cittadini di detti Paesi prima dell'adozione del presente decreto."
+     }
+    }
+   ]
+  },
+  "sudan": {
+   "nome": "Sudan",
+   "intervalli": []
+  },
+  "tunisia": {
+   "nome": "Tunisia",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": null,
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04",
+      "dm-2023-03-17",
+      "dm-2024-05-07",
+      "dl-2024-158",
+      "dl-2024-145-art-12-bis"
+     ]
+    }
+   ]
+  },
+  "ucraina": {
+   "nome": "Ucraina",
+   "intervalli": [
+    {
+     "dal": "2019-10-22",
+     "al": "2023-04-08",
+     "atto": "dm-2019-10-04",
+     "atti": [
+      "dm-2019-10-04"
+     ]
+    }
+   ]
+  },
+  "venezuela": {
+   "nome": "Venezuela",
+   "intervalli": []
+  }
+ }
+}
