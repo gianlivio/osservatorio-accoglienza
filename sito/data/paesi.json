@@ -147,19 +147,19 @@
   "soglia": 100,
   "misure": {
    "domande": {
-    "celle": 238,
-    "mediana_pct": 1.6,
-    "oltre_20_pct": 36
+    "celle": 310,
+    "mediana_pct": 1.4,
+    "oltre_20_pct": 44
    },
    "decisioni": {
-    "celle": 243,
+    "celle": 312,
     "mediana_pct": 1.0,
-    "oltre_20_pct": 26
+    "oltre_20_pct": 32
    },
    "decisioni positive": {
-    "celle": 215,
-    "mediana_pct": 1.1,
-    "oltre_20_pct": 56
+    "celle": 264,
+    "mediana_pct": 1.4,
+    "oltre_20_pct": 76
    }
   },
   "maggiori": [
@@ -188,20 +188,20 @@
     "scarto_pct": -91.2
    },
    {
+    "paese": "Georgia",
+    "anno": 2025,
+    "misura": "decisioni positive",
+    "eurostat": 825,
+    "unhcr": 81,
+    "scarto_pct": -90.2
+   },
+   {
     "paese": "Egitto",
     "anno": 2024,
     "misura": "decisioni positive",
     "eurostat": 965,
     "unhcr": 97,
     "scarto_pct": -89.9
-   },
-   {
-    "paese": "Bangladesh",
-    "anno": 2022,
-    "misura": "decisioni positive",
-    "eurostat": 1620,
-    "unhcr": 182,
-    "scarto_pct": -88.8
    }
   ],
   "url": "https://api.unhcr.org/population/v1/",
@@ -213,6 +213,11 @@
    "nome": "Afghanistan",
    "aggettivo": "afghana",
    "iso3": "AFG",
+   "prime_dieci_richiedenti": [
+    2015,
+    2021,
+    2022
+   ],
    "anni": {
     "2015": {
      "richiedenti": 3975,
@@ -410,6 +415,9 @@
    "nome": "Albania",
    "aggettivo": "albanese",
    "iso3": "ALB",
+   "prime_dieci_richiedenti": [
+    2019
+   ],
    "anni": {
     "2015": {
      "richiedenti": 425,
@@ -564,6 +572,7 @@
    "nome": "Algeria",
    "aggettivo": "algerina",
    "iso3": "DZA",
+   "prime_dieci_richiedenti": [],
    "anni": {
     "2015": {
      "richiedenti": 165,
@@ -720,6 +729,19 @@
    "nome": "Bangladesh",
    "aggettivo": "bangladese",
    "iso3": "BGD",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
    "anni": {
     "2015": {
      "richiedenti": 6030,
@@ -885,6 +907,10 @@
    "nome": "Burkina Faso",
    "aggettivo": "burkinabé",
    "iso3": "BFA",
+   "prime_dieci_richiedenti": [
+    2023,
+    2024
+   ],
    "anni": {
     "2015": {
      "richiedenti": 410,
@@ -1073,6 +1099,14 @@
    "nome": "Costa d'Avorio",
    "aggettivo": "ivoriana",
    "iso3": "CIV",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2021,
+    2023
+   ],
    "anni": {
     "2015": {
      "richiedenti": 3090,
@@ -1231,6 +1265,13 @@
    "nome": "Egitto",
    "aggettivo": "egiziana",
    "iso3": "EGY",
+   "prime_dieci_richiedenti": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
    "anni": {
     "2015": {
      "richiedenti": 565,
@@ -1399,10 +1440,166 @@
    "ecoi": "https://www.ecoi.net/en/countries/egypt/"
   },
   {
+   "slug": "el-salvador",
+   "nome": "El Salvador",
+   "aggettivo": "salvadoregna",
+   "iso3": "SLV",
+   "prime_dieci_richiedenti": [
+    2018,
+    2019,
+    2020
+   ],
+   "anni": {
+    "2015": {
+     "richiedenti": 205,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 75,
+      "rifugiato": 5,
+      "sussidiaria": 10,
+      "umanitaria": 30,
+      "rifiuti": 30
+     }
+    },
+    "2016": {
+     "richiedenti": 1060,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 160,
+      "rifugiato": 45,
+      "sussidiaria": 15,
+      "umanitaria": 65,
+      "rifiuti": 30
+     }
+    },
+    "2017": {
+     "richiedenti": 1365,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 435,
+      "rifugiato": 150,
+      "sussidiaria": 20,
+      "umanitaria": 220,
+      "rifiuti": 50
+     }
+    },
+    "2018": {
+     "richiedenti": 2275,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 1145,
+      "rifugiato": 295,
+      "sussidiaria": 75,
+      "umanitaria": 595,
+      "rifiuti": 180
+     }
+    },
+    "2019": {
+     "richiedenti": 2525,
+     "minori_richiedenti": 10,
+     "decisioni": {
+      "totale": 3235,
+      "rifugiato": 705,
+      "sussidiaria": 910,
+      "umanitaria": 45,
+      "rifiuti": 1575
+     }
+    },
+    "2020": {
+     "richiedenti": 1070,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 1785,
+      "rifugiato": 455,
+      "sussidiaria": 565,
+      "umanitaria": 60,
+      "rifiuti": 705
+     }
+    },
+    "2021": {
+     "richiedenti": 640,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 1175,
+      "rifugiato": 295,
+      "sussidiaria": 340,
+      "umanitaria": 260,
+      "rifiuti": 285
+     }
+    },
+    "2022": {
+     "richiedenti": 1255,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 1020,
+      "rifugiato": 195,
+      "sussidiaria": 170,
+      "umanitaria": 355,
+      "rifiuti": 295
+     }
+    },
+    "2023": {
+     "richiedenti": 1005,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 615,
+      "rifugiato": 95,
+      "sussidiaria": 145,
+      "umanitaria": 240,
+      "rifiuti": 135
+     }
+    },
+    "2024": {
+     "richiedenti": 1400,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 525,
+      "rifugiato": 55,
+      "sussidiaria": 145,
+      "umanitaria": 145,
+      "rifiuti": 175
+     }
+    },
+    "2025": {
+     "richiedenti": 1170,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 370,
+      "rifugiato": 45,
+      "sussidiaria": 35,
+      "umanitaria": 160,
+      "rifiuti": 130
+     }
+    }
+   },
+   "minori_presenti": {},
+   "ucdp": {
+    "morti": {
+     "battaglia": {},
+     "unilaterale": {},
+     "non_statale": {}
+    },
+    "righe_multipaese": {
+     "battaglia": {},
+     "unilaterale": {
+      "2022": 1
+     },
+     "non_statale": {
+      "2016": 1
+     }
+    }
+   },
+   "ecoi": "https://www.ecoi.net/en/countries/el-salvador/"
+  },
+  {
    "slug": "eritrea",
    "nome": "Eritrea",
    "aggettivo": "eritrea",
    "iso3": "ERI",
+   "prime_dieci_richiedenti": [
+    2016,
+    2017
+   ],
    "anni": {
     "2015": {
      "richiedenti": 695,
@@ -1558,6 +1755,7 @@
    "nome": "Etiopia",
    "aggettivo": "etiope",
    "iso3": "ETH",
+   "prime_dieci_richiedenti": [],
    "anni": {
     "2015": {
      "richiedenti": 95,
@@ -1749,6 +1947,13 @@
    "nome": "Gambia",
    "aggettivo": "gambiana",
    "iso3": "GMB",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2020
+   ],
    "anni": {
     "2015": {
      "richiedenti": 7995,
@@ -1899,10 +2104,324 @@
    "ecoi": "https://www.ecoi.net/en/countries/gambia/"
   },
   {
+   "slug": "georgia",
+   "nome": "Georgia",
+   "aggettivo": "georgiana",
+   "iso3": "GEO",
+   "prime_dieci_richiedenti": [
+    2021,
+    2022,
+    2025
+   ],
+   "anni": {
+    "2015": {
+     "richiedenti": 135,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 115,
+      "rifugiato": 5,
+      "sussidiaria": 5,
+      "umanitaria": 45,
+      "rifiuti": 55
+     }
+    },
+    "2016": {
+     "richiedenti": 195,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 115,
+      "rifugiato": 5,
+      "sussidiaria": 0,
+      "umanitaria": 65,
+      "rifiuti": 45
+     }
+    },
+    "2017": {
+     "richiedenti": 540,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 130,
+      "rifugiato": 0,
+      "sussidiaria": 0,
+      "umanitaria": 85,
+      "rifiuti": 45
+     }
+    },
+    "2018": {
+     "richiedenti": 1165,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 430,
+      "rifugiato": 10,
+      "sussidiaria": 5,
+      "umanitaria": 180,
+      "rifiuti": 235
+     }
+    },
+    "2019": {
+     "richiedenti": 975,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 1365,
+      "rifugiato": 170,
+      "sussidiaria": 35,
+      "umanitaria": 15,
+      "rifiuti": 1145
+     }
+    },
+    "2020": {
+     "richiedenti": 500,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 675,
+      "rifugiato": 60,
+      "sussidiaria": 10,
+      "umanitaria": 45,
+      "rifiuti": 560
+     }
+    },
+    "2021": {
+     "richiedenti": 1360,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 640,
+      "rifugiato": 55,
+      "sussidiaria": 5,
+      "umanitaria": 200,
+      "rifiuti": 375
+     }
+    },
+    "2022": {
+     "richiedenti": 3270,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 1665,
+      "rifugiato": 130,
+      "sussidiaria": 5,
+      "umanitaria": 540,
+      "rifiuti": 990
+     }
+    },
+    "2023": {
+     "richiedenti": 3105,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 1775,
+      "rifugiato": 90,
+      "sussidiaria": 10,
+      "umanitaria": 730,
+      "rifiuti": 950
+     }
+    },
+    "2024": {
+     "richiedenti": 3455,
+     "minori_richiedenti": 15,
+     "decisioni": {
+      "totale": 1440,
+      "rifugiato": 100,
+      "sussidiaria": 10,
+      "umanitaria": 410,
+      "rifiuti": 915
+     }
+    },
+    "2025": {
+     "richiedenti": 4490,
+     "minori_richiedenti": 10,
+     "decisioni": {
+      "totale": 1730,
+      "rifugiato": 70,
+      "sussidiaria": 10,
+      "umanitaria": 745,
+      "rifiuti": 905
+     }
+    }
+   },
+   "minori_presenti": {},
+   "ucdp": {
+    "morti": {
+     "battaglia": {},
+     "unilaterale": {},
+     "non_statale": {}
+    },
+    "righe_multipaese": {
+     "battaglia": {},
+     "unilaterale": {
+      "2023": 1
+     },
+     "non_statale": {}
+    }
+   },
+   "ecoi": "https://www.ecoi.net/en/countries/georgia/"
+  },
+  {
+   "slug": "ghana",
+   "nome": "Ghana",
+   "aggettivo": "ghanese",
+   "iso3": "GHA",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017
+   ],
+   "anni": {
+    "2015": {
+     "richiedenti": 3675,
+     "minori_richiedenti": 245,
+     "decisioni": {
+      "totale": 2670,
+      "rifugiato": 40,
+      "sussidiaria": 45,
+      "umanitaria": 710,
+      "rifiuti": 1870
+     }
+    },
+    "2016": {
+     "richiedenti": 4940,
+     "minori_richiedenti": 260,
+     "decisioni": {
+      "totale": 3995,
+      "rifugiato": 55,
+      "sussidiaria": 50,
+      "umanitaria": 1190,
+      "rifiuti": 2695
+     }
+    },
+    "2017": {
+     "richiedenti": 5435,
+     "minori_richiedenti": 390,
+     "decisioni": {
+      "totale": 3460,
+      "rifugiato": 50,
+      "sussidiaria": 25,
+      "umanitaria": 1195,
+      "rifiuti": 2185
+     }
+    },
+    "2018": {
+     "richiedenti": 1320,
+     "minori_richiedenti": 105,
+     "decisioni": {
+      "totale": 3985,
+      "rifugiato": 60,
+      "sussidiaria": 15,
+      "umanitaria": 920,
+      "rifiuti": 2990
+     }
+    },
+    "2019": {
+     "richiedenti": 545,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 2855,
+      "rifugiato": 135,
+      "sussidiaria": 25,
+      "umanitaria": 70,
+      "rifiuti": 2625
+     }
+    },
+    "2020": {
+     "richiedenti": 415,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 875,
+      "rifugiato": 35,
+      "sussidiaria": 20,
+      "umanitaria": 65,
+      "rifiuti": 750
+     }
+    },
+    "2021": {
+     "richiedenti": 795,
+     "minori_richiedenti": 20,
+     "decisioni": {
+      "totale": 790,
+      "rifugiato": 30,
+      "sussidiaria": 50,
+      "umanitaria": 165,
+      "rifiuti": 545
+     }
+    },
+    "2022": {
+     "richiedenti": 750,
+     "minori_richiedenti": 20,
+     "decisioni": {
+      "totale": 675,
+      "rifugiato": 20,
+      "sussidiaria": 25,
+      "umanitaria": 230,
+      "rifiuti": 400
+     }
+    },
+    "2023": {
+     "richiedenti": 590,
+     "minori_richiedenti": 20,
+     "decisioni": {
+      "totale": 440,
+      "rifugiato": 20,
+      "sussidiaria": 15,
+      "umanitaria": 105,
+      "rifiuti": 300
+     }
+    },
+    "2024": {
+     "richiedenti": 825,
+     "minori_richiedenti": 10,
+     "decisioni": {
+      "totale": 635,
+      "rifugiato": 30,
+      "sussidiaria": 25,
+      "umanitaria": 60,
+      "rifiuti": 520
+     }
+    },
+    "2025": {
+     "richiedenti": 720,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 710,
+      "rifugiato": 20,
+      "sussidiaria": 5,
+      "umanitaria": 75,
+      "rifiuti": 605
+     }
+    }
+   },
+   "minori_presenti": {
+    "2016": 347,
+    "2017": 314,
+    "2018": 126,
+    "2019": 43,
+    "2020": 44,
+    "2021": 64,
+    "2022": 67
+   },
+   "ucdp": {
+    "morti": {
+     "battaglia": {},
+     "unilaterale": {},
+     "non_statale": {
+      "2024": 30,
+      "2025": 98
+     }
+    },
+    "righe_multipaese": {
+     "battaglia": {},
+     "unilaterale": {},
+     "non_statale": {}
+    }
+   },
+   "ecoi": "https://www.ecoi.net/en/countries/ghana/"
+  },
+  {
    "slug": "guinea",
    "nome": "Guinea",
    "aggettivo": "guineana",
    "iso3": "GIN",
+   "prime_dieci_richiedenti": [
+    2016,
+    2017,
+    2023
+   ],
    "anni": {
     "2015": {
      "richiedenti": 1675,
@@ -2055,10 +2574,198 @@
    "ecoi": "https://www.ecoi.net/en/countries/guinea/"
   },
   {
+   "slug": "india",
+   "nome": "India",
+   "aggettivo": "indiana",
+   "iso3": "IND",
+   "prime_dieci_richiedenti": [
+    2024,
+    2025
+   ],
+   "anni": {
+    "2015": {
+     "richiedenti": 250,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 85,
+      "rifugiato": 5,
+      "sussidiaria": 5,
+      "umanitaria": 10,
+      "rifiuti": 70
+     }
+    },
+    "2016": {
+     "richiedenti": 535,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 255,
+      "rifugiato": 5,
+      "sussidiaria": 5,
+      "umanitaria": 25,
+      "rifiuti": 220
+     }
+    },
+    "2017": {
+     "richiedenti": 510,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 275,
+      "rifugiato": 10,
+      "sussidiaria": 0,
+      "umanitaria": 80,
+      "rifiuti": 190
+     }
+    },
+    "2018": {
+     "richiedenti": 930,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 540,
+      "rifugiato": 25,
+      "sussidiaria": 5,
+      "umanitaria": 95,
+      "rifiuti": 420
+     }
+    },
+    "2019": {
+     "richiedenti": 1070,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 1200,
+      "rifugiato": 60,
+      "sussidiaria": 10,
+      "umanitaria": 5,
+      "rifiuti": 1125
+     }
+    },
+    "2020": {
+     "richiedenti": 215,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 690,
+      "rifugiato": 10,
+      "sussidiaria": 0,
+      "umanitaria": 10,
+      "rifiuti": 670
+     }
+    },
+    "2021": {
+     "richiedenti": 155,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 215,
+      "rifugiato": 15,
+      "sussidiaria": 0,
+      "umanitaria": 35,
+      "rifiuti": 165
+     }
+    },
+    "2022": {
+     "richiedenti": 545,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 190,
+      "rifugiato": 0,
+      "sussidiaria": 0,
+      "umanitaria": 60,
+      "rifiuti": 130
+     }
+    },
+    "2023": {
+     "richiedenti": 1800,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 235,
+      "rifugiato": 15,
+      "sussidiaria": 0,
+      "umanitaria": 60,
+      "rifiuti": 160
+     }
+    },
+    "2024": {
+     "richiedenti": 4885,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 510,
+      "rifugiato": 20,
+      "sussidiaria": 0,
+      "umanitaria": 70,
+      "rifiuti": 415
+     }
+    },
+    "2025": {
+     "richiedenti": 7315,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 985,
+      "rifugiato": 20,
+      "sussidiaria": 0,
+      "umanitaria": 100,
+      "rifiuti": 865
+     }
+    }
+   },
+   "minori_presenti": {
+    "2019": 9
+   },
+   "ucdp": {
+    "morti": {
+     "battaglia": {
+      "2015": 472,
+      "2016": 597,
+      "2017": 606,
+      "2018": 722,
+      "2019": 483,
+      "2020": 464,
+      "2021": 431,
+      "2022": 310,
+      "2023": 215,
+      "2024": 438,
+      "2025": 537
+     },
+     "unilaterale": {
+      "2015": 70,
+      "2016": 90,
+      "2017": 154,
+      "2018": 103,
+      "2019": 111,
+      "2020": 72,
+      "2021": 40,
+      "2022": 48,
+      "2023": 43,
+      "2024": 54,
+      "2025": 81
+     },
+     "non_statale": {
+      "2020": 50,
+      "2023": 102,
+      "2024": 28
+     }
+    },
+    "righe_multipaese": {
+     "battaglia": {
+      "2015": 1,
+      "2016": 1,
+      "2017": 1,
+      "2018": 1,
+      "2019": 1,
+      "2020": 2,
+      "2025": 1
+     },
+     "unilaterale": {
+      "2021": 1
+     },
+     "non_statale": {}
+    }
+   },
+   "ecoi": "https://www.ecoi.net/en/countries/india/"
+  },
+  {
    "slug": "iran",
    "nome": "Iran",
    "aggettivo": "iraniana",
    "iso3": "IRN",
+   "prime_dieci_richiedenti": [],
    "anni": {
     "2015": {
      "richiedenti": 255,
@@ -2235,6 +2942,7 @@
    "nome": "Iraq",
    "aggettivo": "irachena",
    "iso3": "IRQ",
+   "prime_dieci_richiedenti": [],
    "anni": {
     "2015": {
      "richiedenti": 505,
@@ -2417,6 +3125,7 @@
    "nome": "Kosovo",
    "aggettivo": "kosovara",
    "iso3": "XKX",
+   "prime_dieci_richiedenti": [],
    "anni": {
     "2015": {
      "richiedenti": 350,
@@ -2567,6 +3276,13 @@
    "nome": "Mali",
    "aggettivo": "maliana",
    "iso3": "MLI",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2021
+   ],
    "anni": {
     "2015": {
      "richiedenti": 5425,
@@ -2773,6 +3489,15 @@
    "nome": "Marocco",
    "aggettivo": "marocchina",
    "iso3": "MAR",
+   "prime_dieci_richiedenti": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
    "anni": {
     "2015": {
      "richiedenti": 580,
@@ -2924,6 +3649,19 @@
    "nome": "Nigeria",
    "aggettivo": "nigeriana",
    "iso3": "NGA",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
    "anni": {
     "2015": {
      "richiedenti": 18145,
@@ -3127,6 +3865,19 @@
    "nome": "Pakistan",
    "aggettivo": "pakistana",
    "iso3": "PAK",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
    "anni": {
     "2015": {
      "richiedenti": 10425,
@@ -3324,10 +4075,171 @@
    "ecoi": "https://www.ecoi.net/en/countries/pakistan/"
   },
   {
+   "slug": "peru",
+   "nome": "Perù",
+   "aggettivo": "peruviana",
+   "iso3": "PER",
+   "prime_dieci_richiedenti": [
+    2019,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "anni": {
+    "2015": {
+     "richiedenti": 35,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 15,
+      "rifugiato": 0,
+      "sussidiaria": 0,
+      "umanitaria": 5,
+      "rifiuti": 10
+     }
+    },
+    "2016": {
+     "richiedenti": 40,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 25,
+      "rifugiato": 0,
+      "sussidiaria": 0,
+      "umanitaria": 10,
+      "rifiuti": 10
+     }
+    },
+    "2017": {
+     "richiedenti": 120,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 25,
+      "rifugiato": 0,
+      "sussidiaria": 0,
+      "umanitaria": 15,
+      "rifiuti": 10
+     }
+    },
+    "2018": {
+     "richiedenti": 755,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 75,
+      "rifugiato": 10,
+      "sussidiaria": 5,
+      "umanitaria": 15,
+      "rifiuti": 45
+     }
+    },
+    "2019": {
+     "richiedenti": 2450,
+     "minori_richiedenti": 10,
+     "decisioni": {
+      "totale": 1305,
+      "rifugiato": 120,
+      "sussidiaria": 25,
+      "umanitaria": 5,
+      "rifiuti": 1155
+     }
+    },
+    "2020": {
+     "richiedenti": 740,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 1295,
+      "rifugiato": 105,
+      "sussidiaria": 30,
+      "umanitaria": 30,
+      "rifiuti": 1130
+     }
+    },
+    "2021": {
+     "richiedenti": 610,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 870,
+      "rifugiato": 150,
+      "sussidiaria": 15,
+      "umanitaria": 265,
+      "rifiuti": 435
+     }
+    },
+    "2022": {
+     "richiedenti": 3035,
+     "minori_richiedenti": 20,
+     "decisioni": {
+      "totale": 840,
+      "rifugiato": 70,
+      "sussidiaria": 0,
+      "umanitaria": 325,
+      "rifiuti": 445
+     }
+    },
+    "2023": {
+     "richiedenti": 7530,
+     "minori_richiedenti": 55,
+     "decisioni": {
+      "totale": 1255,
+      "rifugiato": 90,
+      "sussidiaria": 10,
+      "umanitaria": 515,
+      "rifiuti": 635
+     }
+    },
+    "2024": {
+     "richiedenti": 15705,
+     "minori_richiedenti": 120,
+     "decisioni": {
+      "totale": 1930,
+      "rifugiato": 125,
+      "sussidiaria": 35,
+      "umanitaria": 505,
+      "rifiuti": 1270
+     }
+    },
+    "2025": {
+     "richiedenti": 15655,
+     "minori_richiedenti": 70,
+     "decisioni": {
+      "totale": 5340,
+      "rifugiato": 245,
+      "sussidiaria": 55,
+      "umanitaria": 830,
+      "rifiuti": 4210
+     }
+    }
+   },
+   "minori_presenti": {
+    "2019": 7
+   },
+   "ucdp": {
+    "morti": {
+     "battaglia": {},
+     "unilaterale": {},
+     "non_statale": {}
+    },
+    "righe_multipaese": {
+     "battaglia": {},
+     "unilaterale": {},
+     "non_statale": {}
+    }
+   },
+   "ecoi": "https://www.ecoi.net/en/countries/peru/"
+  },
+  {
    "slug": "senegal",
    "nome": "Senegal",
    "aggettivo": "senegalese",
    "iso3": "SEN",
+   "prime_dieci_richiedenti": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+   ],
    "anni": {
     "2015": {
      "richiedenti": 6360,
@@ -3480,6 +4392,7 @@
    "nome": "Siria",
    "aggettivo": "siriana",
    "iso3": "SYR",
+   "prime_dieci_richiedenti": [],
    "anni": {
     "2015": {
      "richiedenti": 500,
@@ -3682,6 +4595,9 @@
    "nome": "Somalia",
    "aggettivo": "somala",
    "iso3": "SOM",
+   "prime_dieci_richiedenti": [
+    2020
+   ],
    "anni": {
     "2015": {
      "richiedenti": 720,
@@ -3862,10 +4778,160 @@
    "ecoi": "https://www.ecoi.net/en/countries/somalia/"
   },
   {
+   "slug": "sri-lanka",
+   "nome": "Sri Lanka",
+   "aggettivo": "srilankese",
+   "iso3": "LKA",
+   "prime_dieci_richiedenti": [
+    2024,
+    2025
+   ],
+   "anni": {
+    "2015": {
+     "richiedenti": 90,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 110,
+      "rifugiato": 20,
+      "sussidiaria": 35,
+      "umanitaria": 15,
+      "rifiuti": 45
+     }
+    },
+    "2016": {
+     "richiedenti": 140,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 100,
+      "rifugiato": 5,
+      "sussidiaria": 20,
+      "umanitaria": 30,
+      "rifiuti": 45
+     }
+    },
+    "2017": {
+     "richiedenti": 325,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 90,
+      "rifugiato": 10,
+      "sussidiaria": 10,
+      "umanitaria": 30,
+      "rifiuti": 45
+     }
+    },
+    "2018": {
+     "richiedenti": 500,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 205,
+      "rifugiato": 15,
+      "sussidiaria": 0,
+      "umanitaria": 75,
+      "rifiuti": 115
+     }
+    },
+    "2019": {
+     "richiedenti": 390,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 610,
+      "rifugiato": 35,
+      "sussidiaria": 10,
+      "umanitaria": 10,
+      "rifiuti": 555
+     }
+    },
+    "2020": {
+     "richiedenti": 85,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 330,
+      "rifugiato": 10,
+      "sussidiaria": 20,
+      "umanitaria": 15,
+      "rifiuti": 285
+     }
+    },
+    "2021": {
+     "richiedenti": 120,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 130,
+      "rifugiato": 5,
+      "sussidiaria": 15,
+      "umanitaria": 25,
+      "rifiuti": 85
+     }
+    },
+    "2022": {
+     "richiedenti": 415,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 155,
+      "rifugiato": 10,
+      "sussidiaria": 5,
+      "umanitaria": 55,
+      "rifiuti": 90
+     }
+    },
+    "2023": {
+     "richiedenti": 1340,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 170,
+      "rifugiato": 5,
+      "sussidiaria": 0,
+      "umanitaria": 80,
+      "rifiuti": 85
+     }
+    },
+    "2024": {
+     "richiedenti": 4365,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 570,
+      "rifugiato": 25,
+      "sussidiaria": 10,
+      "umanitaria": 140,
+      "rifiuti": 395
+     }
+    },
+    "2025": {
+     "richiedenti": 3980,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 1960,
+      "rifugiato": 50,
+      "sussidiaria": 5,
+      "umanitaria": 165,
+      "rifiuti": 1745
+     }
+    }
+   },
+   "minori_presenti": {},
+   "ucdp": {
+    "morti": {
+     "battaglia": {},
+     "unilaterale": {},
+     "non_statale": {}
+    },
+    "righe_multipaese": {
+     "battaglia": {},
+     "unilaterale": {
+      "2019": 1
+     },
+     "non_statale": {}
+    }
+   },
+   "ecoi": "https://www.ecoi.net/en/countries/sri-lanka/"
+  },
+  {
    "slug": "sudan",
    "nome": "Sudan",
    "aggettivo": "sudanese",
    "iso3": "SDN",
+   "prime_dieci_richiedenti": [],
    "anni": {
     "2015": {
      "richiedenti": 145,
@@ -4062,6 +5128,14 @@
    "nome": "Tunisia",
    "aggettivo": "tunisina",
    "iso3": "TUN",
+   "prime_dieci_richiedenti": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
    "anni": {
     "2015": {
      "richiedenti": 305,
@@ -4221,6 +5295,12 @@
    "nome": "Ucraina",
    "aggettivo": "ucraina",
    "iso3": "UKR",
+   "prime_dieci_richiedenti": [
+    2015,
+    2018,
+    2019,
+    2022
+   ],
    "anni": {
     "2015": {
      "richiedenti": 4665,
@@ -4387,6 +5467,166 @@
     }
    },
    "ecoi": "https://www.ecoi.net/en/countries/ukraine/"
+  },
+  {
+   "slug": "venezuela",
+   "nome": "Venezuela",
+   "aggettivo": "venezuelana",
+   "iso3": "VEN",
+   "prime_dieci_richiedenti": [
+    2019,
+    2020
+   ],
+   "anni": {
+    "2015": {
+     "richiedenti": 45,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 30,
+      "rifugiato": 0,
+      "sussidiaria": 0,
+      "umanitaria": 15,
+      "rifiuti": 15
+     }
+    },
+    "2016": {
+     "richiedenti": 140,
+     "minori_richiedenti": 0,
+     "decisioni": {
+      "totale": 50,
+      "rifugiato": 5,
+      "sussidiaria": 0,
+      "umanitaria": 30,
+      "rifiuti": 15
+     }
+    },
+    "2017": {
+     "richiedenti": 520,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 115,
+      "rifugiato": 35,
+      "sussidiaria": 10,
+      "umanitaria": 65,
+      "rifiuti": 5
+     }
+    },
+    "2018": {
+     "richiedenti": 1260,
+     "minori_richiedenti": 10,
+     "decisioni": {
+      "totale": 410,
+      "rifugiato": 110,
+      "sussidiaria": 160,
+      "umanitaria": 110,
+      "rifiuti": 20
+     }
+    },
+    "2019": {
+     "richiedenti": 1550,
+     "minori_richiedenti": 10,
+     "decisioni": {
+      "totale": 1560,
+      "rifugiato": 445,
+      "sussidiaria": 980,
+      "umanitaria": 0,
+      "rifiuti": 135
+     }
+    },
+    "2020": {
+     "richiedenti": 835,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 960,
+      "rifugiato": 165,
+      "sussidiaria": 710,
+      "umanitaria": 5,
+      "rifiuti": 75
+     }
+    },
+    "2021": {
+     "richiedenti": 465,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 810,
+      "rifugiato": 195,
+      "sussidiaria": 525,
+      "umanitaria": 55,
+      "rifiuti": 35
+     }
+    },
+    "2022": {
+     "richiedenti": 1360,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 705,
+      "rifugiato": 90,
+      "sussidiaria": 425,
+      "umanitaria": 100,
+      "rifiuti": 85
+     }
+    },
+    "2023": {
+     "richiedenti": 1425,
+     "minori_richiedenti": 5,
+     "decisioni": {
+      "totale": 835,
+      "rifugiato": 90,
+      "sussidiaria": 530,
+      "umanitaria": 180,
+      "rifiuti": 40
+     }
+    },
+    "2024": {
+     "richiedenti": 2410,
+     "minori_richiedenti": 20,
+     "decisioni": {
+      "totale": 725,
+      "rifugiato": 65,
+      "sussidiaria": 470,
+      "umanitaria": 130,
+      "rifiuti": 60
+     }
+    },
+    "2025": {
+     "richiedenti": 2015,
+     "minori_richiedenti": 20,
+     "decisioni": {
+      "totale": 830,
+      "rifugiato": 55,
+      "sussidiaria": 660,
+      "umanitaria": 95,
+      "rifiuti": 20
+     }
+    }
+   },
+   "minori_presenti": {},
+   "ucdp": {
+    "morti": {
+     "battaglia": {},
+     "unilaterale": {
+      "2015": 32,
+      "2016": 60,
+      "2018": 87,
+      "2019": 78
+     },
+     "non_statale": {}
+    },
+    "righe_multipaese": {
+     "battaglia": {},
+     "unilaterale": {
+      "2017": 1,
+      "2018": 1,
+      "2021": 1,
+      "2022": 1,
+      "2023": 2
+     },
+     "non_statale": {
+      "2022": 1
+     }
+    }
+   },
+   "ecoi": "https://www.ecoi.net/en/countries/bolivarian-republic-of-venezuela/"
   }
  ]
 }
