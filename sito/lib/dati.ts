@@ -58,8 +58,8 @@ export const nProvincia = (nome: string) =>
 export function descrizioneProvincia(p: Provincia) {
   const t = p.totale;
   const contratti = `${nItal(t.affidamenti)} ${t.affidamenti === 1 ? "contratto" : "contratti"}`;
-  const base = `${contratti} dal ${anni[0]} al ${anni[anni.length - 1]}, ${nItal(t.diretti)} senza gara. ` +
-    `Importi, enti gestori e affidamenti ${nProvincia(p.provincia)}, da dati ANAC.`;
+  const base = `${contratti} dal ${anni[0]} al ${anni[anni.length - 1]}, ${nItal(t.diretti)} con affidamento diretto. ` +
+    `Importi, enti gestori e contratti ${nProvincia(p.provincia)}, da dati ANAC.`;
   return base;
 }
 

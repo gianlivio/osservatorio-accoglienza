@@ -23,7 +23,7 @@ function descrizione(d: EnteDettaglio) {
     : d.province.length === 1 ? ` in provincia di ${nomeProvincia(d.province[0].provincia)}`
     : ` in ${d.province.length} province`;
   const n = `${nItal(d.affidamenti)} ${d.affidamenti === 1 ? "contratto" : "contratti"}`;
-  return `${n} ${quando}${dove}, ${nItal(d.diretti)} senza gara. Importi e uffici che hanno assegnato, da dati ANAC.`;
+  return `${n} ${quando}${dove}, ${nItal(d.diretti)} con affidamento diretto. Importi e uffici che hanno assegnato, da dati ANAC.`;
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
