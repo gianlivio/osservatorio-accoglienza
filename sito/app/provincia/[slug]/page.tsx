@@ -86,6 +86,12 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       <Link href="/" className="indietro">← tutte le province</Link>
       <p className="occhiello">Provincia · {anni[0]}–{anni[anni.length - 1]}</p>
       <h1 className="tesi">{nomeProvincia(p.provincia)}</h1>
+      <p className="frase-provincia">
+        {nomeProvincia(p.provincia)}, {anni[0]}–{anni[anni.length - 1]}: {nItal(t.affidamenti)} {t.affidamenti === 1 ? "contratto" : "contratti"} per
+        l&apos;accoglienza nell&apos;archivio ANAC; {nItal(t.diretti)} ({pct(t.quota_diretti)}) {t.diretti === 1 ? "assegnato" : "assegnati"} con affidamento
+        diretto. {nItal(t.canale_prefettura)} {t.canale_prefettura === 1 ? "firmato" : "firmati"} dalla Prefettura, {nItal(t.canale_ente_locale)} da comuni o enti
+        locali.
+      </p>
 
       <section className="sezione">
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
@@ -97,10 +103,25 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           <div className="cifra"><b>{nItal(t.canale_ente_locale)}</b><span>firmati da comuni o enti locali</span></div>
           <div className="cifra"><b>{nItal(t.prosecuzioni)}</b><span>rinnovi di contratti già in corso</span></div>
           {costoUltimo !== null && (
-            <div className="cifra"><b>{euroCent(costoUltimo)}</b><span><a href="#posti-e-presenze" className="link-interno">costo mediano dei CAS per adulti, {annoCosto}</a></span></div>
+            <div className="cifra"><b>{euroCent(costoUltimo)}</b><span><a href="#posti-e-presenze" className="link-interno">costo mediano dei CAS per adulti, {annoCosto}</a><small>fonte: Centri d&apos;Italia</small></span></div>
           )}
         </div>
       </section>
+
+      {d.top_enti.length > 0 && (
+        <section className="sezione">
+          <h2 className="titolo-sezione">Enti gestori · {p.anni_enti.join(" e ")}</h2>
+          <table className="tabella">
+            <caption className="sr-only">Enti gestori e numero di contratti ricevuti</caption>
+            <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
+            <tbody>{d.top_enti.map((e) => (
+              <tr key={e.nome}><td>{e.cf && slugEnteDaCf.has(e.cf)
+                ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} className="link-ente">{nomeEnte(e.nome)}</Link>
+                : nomeEnte(e.nome)}</td><td className="num">{nItal(e.affidamenti)}</td></tr>
+            ))}</tbody>
+          </table>
+        </section>
+      )}
 
       <section className="sezione">
         <h2 className="titolo-sezione">Anno per anno</h2>
@@ -170,21 +191,6 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         <ScaricaCsv percorso={`/dati/provincia/${slug}.csv`} rss={`/provincia/${slug}/feed.xml`} />
         <ElencoContratti contratti={d.contratti} />
       </section>
-
-      {d.top_enti.length > 0 && (
-        <section className="sezione">
-          <h2 className="titolo-sezione">Enti gestori · {p.anni_enti.join(" e ")}</h2>
-          <table className="tabella">
-            <caption className="sr-only">Enti gestori e numero di contratti ricevuti</caption>
-            <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
-            <tbody>{d.top_enti.map((e) => (
-              <tr key={e.nome}><td>{e.cf && slugEnteDaCf.has(e.cf)
-                ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} className="link-ente">{nomeEnte(e.nome)}</Link>
-                : nomeEnte(e.nome)}</td><td className="num">{nItal(e.affidamenti)}</td></tr>
-            ))}</tbody>
-          </table>
-        </section>
-      )}
 
       {d.rapporti_ricorrenti.length > 0 && (
         <section className="sezione">
