@@ -298,3 +298,8 @@ th.num .ordina{flex-direction:row-reverse}
 .naz-asse{stroke:var(--linea);stroke-width:1}
 .naz-stacco{stroke:var(--tenue);stroke-width:1;stroke-dasharray:3 3}
 @media (max-width:500px){.grafico-naz .naz-valore{font-size:14px}.grafico-naz .naz-data,.grafico-naz .asse-txt{font-size:12px}}
+.cella-barra{display:flex;align-items:center;gap:10px;min-width:170px}
+.barra-pista{flex:1;height:10px;display:block}
+.barra{display:block;height:100%;background:var(--timbro);min-width:1px}
+.barra-n{min-width:52px;text-align:right}
+@media (max-width:500px){.col-andamento{display:none}.cella-barra{min-width:0}}

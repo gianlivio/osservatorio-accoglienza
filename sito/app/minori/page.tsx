@@ -99,6 +99,7 @@ export default function Minori() {
   const dataTotale = `${mesi[+tm]} ${ta}`;
   const primoSemestraleTot = d.nazionale.find((x) => x.tipo === "semestrale")!.periodo.slice(0, 4);
   const primoAnno = d.primo_periodo.split("-")[0];
+  const maxRegione = Math.max(...d.regioni.map((r) => r.ultimo), 1);
   const naz = (periodo: string) => d.nazionale.find((x) => x.periodo === periodo)!.presenti;
   const lungo = (periodo: string) => { const [a, m] = periodo.split("-"); return `${mesi[+m]} ${a}`; };
   const datasetJsonLd = {
@@ -164,15 +165,18 @@ export default function Minori() {
             <tr>
               <th>Regione</th>
               <th className="num">Al {dataLeggibile}</th>
-              <th>Andamento dal {primoAnno}</th>
+              <th className="col-andamento">Andamento {primoAnno}–{fineRegionale}, scala propria per ogni regione</th>
             </tr>
           </thead>
           <tbody>
             {d.regioni.map((r) => (
               <tr key={r.regione}>
                 <td className="nome-prov">{r.regione}</td>
-                <td className="num">{nItal(r.ultimo)}</td>
-                <td className="cella-spark"><Spark serie={r.serie} regione={r.regione} /></td>
+                <td className="num cella-barra">
+                  <span className="barra-pista" aria-hidden="true"><span className="barra" style={{ width: `${(r.ultimo / maxRegione) * 100}%` }} /></span>
+                  <span className="barra-n">{nItal(r.ultimo)}</span>
+                </td>
+                <td className="cella-spark col-andamento"><Spark serie={r.serie} regione={r.regione} /></td>
               </tr>
             ))}
           </tbody>
