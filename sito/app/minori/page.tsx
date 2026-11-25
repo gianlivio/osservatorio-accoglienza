@@ -1,5 +1,7 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
+import "@/lib/msnaIngressi"; // controlli di build sui dati degli ingressi
+
 import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { msnaData, nItal } from "@/lib/dati";
