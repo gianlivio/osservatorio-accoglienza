@@ -95,12 +95,8 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
 
       <section className="sezione">
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
-        <div className="cifre">
-          <div className="cifra"><b>{nItal(t.affidamenti)}</b><span>contratti firmati</span></div>
-          <div className="cifra"><b>{nItal(t.diretti)}</b><span>assegnati con affidamento diretto ({pct(t.quota_diretti)})</span></div>
+        <div className="cifre cifre-riga">
           <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano<small>metà dei contratti vale meno, metà di più</small></span></div>
-          <div className="cifra"><b>{nItal(t.canale_prefettura)}</b><span>firmati dalla Prefettura</span></div>
-          <div className="cifra"><b>{nItal(t.canale_ente_locale)}</b><span>firmati da comuni o enti locali</span></div>
           <div className="cifra"><b>{nItal(t.prosecuzioni)}</b><span>rinnovi di contratti già in corso</span></div>
           {costoUltimo !== null && (
             <div className="cifra"><b>{euroCent(costoUltimo)}</b><span><a href="#posti-e-presenze" className="link-interno">costo mediano dei CAS per adulti, {annoCosto}</a><small>fonte: Centri d&apos;Italia</small></span></div>

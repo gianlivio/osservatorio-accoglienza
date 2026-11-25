@@ -287,3 +287,6 @@ th.num .ordina{flex-direction:row-reverse}
 .mostra-tutte:focus-visible{outline:2px solid var(--timbro);outline-offset:2px}
 .cifra small{display:block;font-size:12px;color:var(--tenue);line-height:1.35;margin-top:2px}
 .frase-provincia{font-size:19px;max-width:62ch;margin:0 0 40px}
+.cifre-riga{display:flex;flex-wrap:wrap}
+.cifre-riga .cifra{flex:1 1 150px}
+@media (max-width:500px){.cifre-riga .cifra{flex:1 1 100px;padding:14px 10px}.cifre-riga .cifra b{font-size:22px}}
