@@ -5,7 +5,7 @@ import { centri } from "@/lib/centri";
 import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
-import { sicuri } from "@/lib/paesiSicuri";
+import { sicuri, dalData } from "@/lib/paesiSicuri";
 import { dati as datiPaesi, paesi as elencoPaesi, periodoPaesi } from "@/lib/paesi";
 import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct, dataLunga } from "@/lib/dati";
 
@@ -210,7 +210,7 @@ export default function Metodologia() {
         <ul className="elenco-atti">
           {sicuri.atti.map((a) => (
             <li key={a.id}>
-              <a href={a.url} target="_blank" rel="noopener" className="link-interno">{a.titolo}</a>, {a.pubblicazione.fonte} del {dataLunga(a.pubblicazione.data)}, {nItal(a.elenco.length)} paesi; in applicazione dal {dataLunga(a.in_applicazione_dal)} ({a.regola_inizio}).
+              <a href={a.url} target="_blank" rel="noopener" className="link-interno">{a.titolo}</a>, {a.pubblicazione.fonte} del {dataLunga(a.pubblicazione.data)}, {nItal(a.elenco.length)} paesi; in applicazione {dalData(a.in_applicazione_dal)} ({a.regola_inizio}).
             </li>
           ))}
         </ul>
@@ -220,7 +220,9 @@ export default function Metodologia() {
           {sicuri.atti.find((a) => a.premessa) && <> Il decreto-legge 158/2024 premette: «{sicuri.atti.find((a) => a.premessa)!.premessa}».</>}
         </p>
         <p>
-          {sicuri.eccezioni} Le norme transitorie dei decreti 2023 e 2024 (art. 4, comma 1) sono riportate nella pagina dei paesi interessati. La colonna «Paese sicuro» dà lo stato al 31 dicembre di ogni anno: «—» prima del {dataLunga(sicuri.primo_elenco_dal)}, quando non c&apos;era un elenco.
+          {sicuri.eccezioni_atti} Le eccezioni sono nella <a href={sicuri.relazione.url} target="_blank" rel="noopener" className="link-interno">{sicuri.relazione.breve}</a>: a {sicuri.relazione.pagina} scrive che «per taluni dei Paesi in elenco sono state applicate alla designazione» eccezioni «per categorie di persone o per parti di territorio», nel paragrafo sul decreto 17 marzo 2023.
+          La Relazione non dice per quali paesi né quali eccezioni, e nessun&apos;altra sua pagina le riporta per paese: per questo le pagine dei paesi presenti nell&apos;elenco dal 9 aprile 2023 riportano la frase della Relazione e quella sola, e i paesi entrati dopo non hanno una frase («non indicate nella fonte» nel file dei dati).
+          Il decreto-legge 158/2024 ha soppresso dal comma 2 dell&apos;art. 2-bis le parole «{sicuri.norma_eccezioni.soppresso}»: dal {dataLunga(sicuri.norma_eccezioni.dal)} la designazione può avere eccezioni solo per categorie di persone. La Relazione scrive che Camerun, Colombia e Nigeria sono state tolte dall&apos;elenco per le situazioni di criticità presenti in parte dei loro territori. Le norme transitorie dei decreti 2023 e 2024 (art. 4, comma 1) sono riportate nella pagina dei paesi interessati. La colonna «Paese sicuro» dà lo stato al 31 dicembre di ogni anno: «—» prima del {dataLunga(sicuri.primo_elenco_dal)}, quando non c&apos;era un elenco.
           Questo sito non pubblica l&apos;elenco dei paesi di origine sicuri dell&apos;Unione europea.
         </p>
         <p>

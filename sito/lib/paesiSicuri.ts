@@ -8,9 +8,15 @@ export type Atto = {
   in_applicazione_dal: string; regola_inizio: string; url: string; elenco: string[];
   norma_transitoria: (Transitoria & { paesi: string[] }) | null; premessa: string | null;
 };
-export type Intervallo = { dal: string; al: string | null; atto: string; atti: string[]; norma_transitoria?: Transitoria & { atto: string } };
+export type Eccezioni = { testo: string; fonte: string; pagina: string; per_paese: boolean };
+export type Intervallo = {
+  dal: string; al: string | null; atto: string; atti: string[]; norma_transitoria?: Transitoria & { atto: string };
+  eccezioni: Eccezioni | "non indicate nella fonte"; uscita?: { testo: string; fonte: string; pagina: string };
+};
 type Dati = {
-  controllato: string; primo_elenco_dal: string; eccezioni: string;
+  controllato: string; primo_elenco_dal: string; eccezioni_atti: string;
+  relazione: { titolo: string; breve: string; url: string; pagina: string; letto: string };
+  norma_eccezioni: { dal: string; riferimento: string; testo: string; soppresso: string };
   effetto: { riferimento: string; testo: string; url: string };
   atti: Atto[]; paesi: Record<string, { nome: string; intervalli: Intervallo[] }>;
 };
@@ -32,6 +38,7 @@ export const attoPerId = (id: string) => sicuri.atti.find((a) => a.id === id)!;
       if (!d.atti.some((a) => a.id === i.atto && a.in_applicazione_dal === i.dal)) errori.push(`${p.nome}: l'intervallo non inizia con la data di un atto`);
       prec = i.al ?? "9999-12-31";
     }
+    if (v.intervalli.some((i) => !i.eccezioni)) errori.push(`${p.nome}: eccezioni non valorizzate`);
     if (v.intervalli.slice(0, -1).some((i) => i.al === null)) errori.push(`${p.nome}: intervallo aperto non ultimo`);
   }
   for (const a of d.atti) if (!iso.test(a.in_applicazione_dal) || !a.url.startsWith("https://")) errori.push(`${a.id}: data o link`);
@@ -44,6 +51,11 @@ export function sicuroAl31Dicembre(slug: string, anno: string): boolean | null {
   if (data < sicuri.primo_elenco_dal) return null;
   return sicuri.paesi[slug].intervalli.some((i) => i.dal <= data && (i.al === null || i.al >= data));
 }
+const apostrofo = (iso: string) => [8, 11].includes(+iso.split("-")[2]);
+/** «dal 22 maggio 2024», «dall'11 dicembre 2024» */
+export const dalData = (iso: string) => `${apostrofo(iso) ? "dall'" : "dal "}${dataLunga(iso)}`;
+/** «al 23 ottobre 2024», «all'8 aprile 2023» */
+export const alData = (iso: string) => `${apostrofo(iso) ? "all'" : "al "}${dataLunga(iso)}`;
 export const testoSicuro = (v: boolean | null) => (v === null ? "—" : v ? "sì" : "no");
 
 export function frasiSicuro(slug: string) {
@@ -53,9 +65,9 @@ export function frasiSicuro(slug: string) {
   const inElenco = !!ultimo && ultimo.al === null;
   const passati = v.intervalli.filter((i) => i.al !== null);
   const prima = inElenco
-    ? `${nome} è nell'elenco italiano dei paesi di origine sicuri dal ${dataLunga(ultimo.dal)} (${attoPerId(ultimo.atto).breve}).`
+    ? `${nome} è nell'elenco italiano dei paesi di origine sicuri ${dalData(ultimo.dal)} (${attoPerId(ultimo.atto).breve}).`
     : `${nome} non è nell'elenco italiano dei paesi di origine sicuri.`;
-  const stato = passati.map((i) => `Vi è stato dal ${dataLunga(i.dal)} al ${dataLunga(i.al!)} (${attoPerId(i.atto).breve}).`);
+  const stato = passati.map((i) => `Era nell'elenco ${dalData(i.dal)} ${alData(i.al!)} (${attoPerId(i.atto).breve}).`);
   return { inElenco, prima, passati: stato, intervalli: v.intervalli };
 }
 export { dataLunga };

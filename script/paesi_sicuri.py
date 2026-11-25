@@ -12,7 +12,11 @@ Gli atti e gli elenchi qui sotto sono trascritti a mano dai testi ufficiali, let
   (che abroga il d.l. 158/2024 facendone salvi gli effetti): testo vigente dell'art. 2-bis su Normattiva, invariato al 25/11/2026.
 Ogni decreto «si applica dal quindicesimo giorno successivo a quello della sua pubblicazione» (art. 4 o 5 di ciascuno): la data di
 inizio è calcolata così. La data di fine di un elenco è il giorno prima dell'inizio del successivo.
-Nessuno degli atti indica eccezioni per parti del territorio o categorie di persone nell'elenco (art. 1).
+Il testo dell'art. 1 di ogni decreto è un elenco di nomi, senza eccezioni. Le eccezioni sono nella Relazione del Governo al Parlamento sulla situazione
+dei Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX n. 1, trasmessa il 1° aprile 2025; PDF letto il 25/11/2026): a p. 5 del documento
+(p. 3 della Relazione) scrive che «per taluni dei Paesi in elenco» sono state applicate eccezioni «per categorie di persone o per parti di
+territorio», senza dire per quali paesi né quali. Lo dice nel paragrafo sul decreto 17 marzo 2023: l'eccezione si attribuisce agli intervalli
+che includono il 9 aprile 2023; gli altri hanno «non indicate nella fonte». Nessun'altra pagina della Relazione (132 p.) riporta eccezioni per paese.
 Lo script si ferma se il numero di paesi di un elenco non è quello dell'atto, o se ci sono doppioni."""
 import datetime, json, sys
 
@@ -97,6 +101,33 @@ EFFETTO = {
 }
 ULTIMO_CONTROLLO = "2026-11-25"
 
+RELAZIONE = {
+    "titolo": "Relazione del Governo al Parlamento sulla situazione dei Paesi di origine sicuri inclusi nell'elenco di cui all'articolo 2-bis, comma 1, del decreto legislativo 28 gennaio 2008, n. 25 (anno 2024), Camera dei deputati, Doc. CCXXXIX, n. 1",
+    "breve": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+    "url": "https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/indiceetesti/239/001_RS/INTERO_COM.pdf",
+    "pagina": "p. 5 del documento (p. 3 della Relazione)",
+    "letto": "2026-11-25",
+}
+ECCEZIONI_RELAZIONE = {
+    "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+    "contesto": "paragrafo sul decreto 17 marzo 2023",
+    "per_paese": False,  # la Relazione non dice per quali paesi né quali eccezioni
+    "data_riferimento": "2023-04-09",  # inizio dell'applicazione del decreto 17 marzo 2023
+}
+NON_INDICATE = "non indicate nella fonte"
+# Paesi usciti dall'elenco col d.l. 158/2024, con le parole della Relazione (stessa pagina) e della premessa del decreto-legge
+USCITA_DL_158 = {
+    "testo": "tre Paesi (Camerun, Colombia e Nigeria) sono stati espunti dalla lista avendo il Governo ritenuto che, alla luce degli approfondimenti condotti sulle schede a corredo dell'istruttoria del D.I. 7 maggio 2024, le situazioni di criticità presenti in parte dei relativi territori non giustificassero più l'inclusione di tali paesi nell'elenco",
+    "paesi": ["Nigeria"],
+}
+# Art. 2-bis, comma 2, secondo periodo, dopo l'art. 1, lett. b), d.l. 158/2024 (GU n. 249 del 23-10-2024): soppresse le parole «di parti del territorio o»
+NORMA_ECCEZIONI = {
+    "dal": "2024-10-24",
+    "riferimento": "art. 2-bis, comma 2, del d.lgs. 25/2008, come modificato dall'art. 1, comma 1, lettera b), del d.l. 158/2024 e dall'art. 12-bis del d.l. 145/2024 convertito",
+    "testo": "La designazione di un Paese di origine sicuro può essere fatta con l'eccezione di categorie di persone.",
+    "soppresso": "di parti del territorio o",
+}
+
 
 def inizio(a):
     i = a["inizio"]
@@ -124,6 +155,14 @@ def main():
             al = inizio(atti[j + 1]) - datetime.timedelta(days=1) if j + 1 < len(atti) else None
             iv = {"dal": dal.isoformat(), "al": al.isoformat() if al else None, "atto": atti[i]["id"],
                   "atti": [a["id"] for a in atti[i:j + 1]]}
+            rif = D(ECCEZIONI_RELAZIONE["data_riferimento"])
+            if dal <= rif and (al is None or al >= rif):
+                iv["eccezioni"] = {"testo": ECCEZIONI_RELAZIONE["testo"], "fonte": RELAZIONE["breve"], "pagina": RELAZIONE["pagina"],
+                                   "per_paese": False}
+            else:
+                iv["eccezioni"] = NON_INDICATE
+            if al is not None and p["nome"] in USCITA_DL_158["paesi"]:
+                iv["uscita"] = {"testo": USCITA_DL_158["testo"], "fonte": RELAZIONE["breve"], "pagina": RELAZIONE["pagina"]}
             t = atti[i]["transitoria"]
             if t and p["nome"] in t["paesi"]: iv["norma_transitoria"] = {"atto": atti[i]["id"], "riferimento": t["riferimento"], "testo": t["testo"]}
             intervalli.append(iv)
@@ -132,7 +171,9 @@ def main():
     out = {
         "controllato": ULTIMO_CONTROLLO,
         "primo_elenco_dal": inizio(atti[0]).isoformat(),
-        "eccezioni": "Nessun atto indica eccezioni per parti del territorio o categorie di persone nell'elenco (art. 1 di ciascun decreto; comma 1 dell'art. 2-bis).",
+        "eccezioni_atti": "Il testo dell'art. 1 di ciascun decreto e del comma 1 dell'art. 2-bis è un elenco di nomi di paesi, senza eccezioni.",
+        "relazione": RELAZIONE,
+        "norma_eccezioni": NORMA_ECCEZIONI,
         "effetto": EFFETTO,
         "atti": [{"id": a["id"], "titolo": a["titolo"], "breve": a["breve"], "pubblicazione": a["pubblicazione"],
                   "in_applicazione_dal": inizio(a).isoformat(), "regola_inizio": a["inizio"]["regola"], "url": a["url"],

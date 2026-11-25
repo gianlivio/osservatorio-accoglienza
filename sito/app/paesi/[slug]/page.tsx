@@ -4,7 +4,7 @@ import JsonLd from "@/app/JsonLd";
 import { creatore, dominio, licenza, breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { nItal, dataLunga } from "@/lib/dati";
-import { sicuri, attoPerId, sicuroAl31Dicembre, testoSicuro, frasiSicuro } from "@/lib/paesiSicuri";
+import { sicuri, attoPerId, sicuroAl31Dicembre, testoSicuro, frasiSicuro, dalData } from "@/lib/paesiSicuri";
 import {
   dati, paesi, trovaPaese, anniPaesi, periodoPaesi, ultimoAnno, aperturaPaese, descrizionePaese, titoloPaese,
   multipaese, haRigheUcdp, elencoAnni, SERIE_UCDP,
@@ -38,6 +38,9 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
   const url = `${dominio}/paesi/${slug}`;
   const fs = frasiSicuro(slug);
   const atti = [...new Set(fs.intervalli.flatMap((i) => i.atti))].map(attoPerId);
+  const eccezioni = fs.intervalli.map((i) => i.eccezioni).find((e) => typeof e !== "string");
+  const uscita = fs.intervalli.map((i) => i.uscita).find(Boolean);
+  const premessa = sicuri.atti.find((a) => a.premessa)?.premessa;
 
   const datasetJsonLd = {
     "@context": "https://schema.org",
@@ -160,12 +163,27 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
           <ul className="elenco-atti">
             {atti.map((a) => (
               <li key={a.id}>
-                <a href={a.url} target="_blank" rel="noopener" className="link-interno">{a.titolo}</a>, {a.pubblicazione.fonte} del {dataLunga(a.pubblicazione.data)}; in applicazione dal {dataLunga(a.in_applicazione_dal)}.
+                <a href={a.url} target="_blank" rel="noopener" className="link-interno">{a.titolo}</a>, {a.pubblicazione.fonte} del {dataLunga(a.pubblicazione.data)}; in applicazione {dalData(a.in_applicazione_dal)}.
               </li>
             ))}
           </ul>
         )}
-        {fs.intervalli.length > 0 && <p className="nota-tabella">{sicuri.eccezioni}</p>}
+        {fs.intervalli.length > 0 && (
+          <p className="nota-tabella">
+            {sicuri.eccezioni_atti}
+            {eccezioni && <> <a href={sicuri.relazione.url} target="_blank" rel="noopener">{sicuri.relazione.breve}</a>, {sicuri.relazione.pagina}, scrive: «{eccezioni.testo}»{" "}
+            {eccezioni.per_paese ? "" : "La Relazione non indica per quali paesi né quali eccezioni."}</>}
+          </p>
+        )}
+        {fs.inElenco && (
+          <p className="nota-tabella">Dal {dataLunga(sicuri.norma_eccezioni.dal)}, {sicuri.norma_eccezioni.riferimento}: «{sicuri.norma_eccezioni.testo}» Sono state soppresse le parole «{sicuri.norma_eccezioni.soppresso}».</p>
+        )}
+        {uscita && (
+          <p className="nota-tabella">
+            {premessa && <>Il decreto-legge 158/2024 premette: «{premessa}». </>}
+            <a href={sicuri.relazione.url} target="_blank" rel="noopener">{sicuri.relazione.breve}</a>, {uscita.pagina}: «{uscita.testo}».
+          </p>
+        )}
         {fs.intervalli.filter((i) => i.norma_transitoria).map((i) => (
           <p key={i.atto} className="nota-tabella">Norma transitoria ({attoPerId(i.atto).breve}, {i.norma_transitoria!.riferimento}): «{i.norma_transitoria!.testo}»</p>
         ))}
