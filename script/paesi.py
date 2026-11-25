@@ -35,40 +35,40 @@ SOGLIA_CONFRONTO = 100  # sotto questa cifra (entrambe le fonti) lo scarto % non
 CACHE = "dati-asilo"
 TOTALE_DECISIONI_2025 = 104560  # Asylum Information Database (AIDA), su dati Eurostat
 
-# nome, aggettivo (per «cittadinanza ...»), ISO2 Eurostat, ISO3, codice Gleditsch-Ward UCDP, slug della pagina paese su ecoi.net
-# «da» + paese con la preposizione articolata (scritta a mano, per i titoli)
+# nome, aggettivo (per «cittadinanza ...»), ISO2 Eurostat, ISO3, codice Gleditsch-Ward UCDP, slug della pagina paese su ecoi.net,
+# «da» + paese con la preposizione articolata (scritta a mano e controllata paese per paese, per i titoli)
 PAESI = [
-    ("Afghanistan", "afghana", "AF", "AFG", "700", "afghanistan"),
-    ("Albania", "albanese", "AL", "ALB", "339", "albania"),
-    ("Algeria", "algerina", "DZ", "DZA", "615", "algeria"),
-    ("Bangladesh", "bangladese", "BD", "BGD", "771", "bangladesh"),
-    ("Burkina Faso", "burkinabé", "BF", "BFA", "439", "burkina-faso"),
-    ("Costa d'Avorio", "ivoriana", "CI", "CIV", "437", "cote-d-ivoire"),
-    ("Egitto", "egiziana", "EG", "EGY", "651", "egypt"),
-    ("El Salvador", "salvadoregna", "SV", "SLV", "92", "el-salvador"),
-    ("Eritrea", "eritrea", "ER", "ERI", "531", "eritrea"),
-    ("Etiopia", "etiope", "ET", "ETH", "530", "ethiopia"),
-    ("Gambia", "gambiana", "GM", "GMB", "420", "gambia"),
-    ("Georgia", "georgiana", "GE", "GEO", "372", "georgia"),
-    ("Ghana", "ghanese", "GH", "GHA", "452", "ghana"),
-    ("Guinea", "guineana", "GN", "GIN", "438", "guinea"),
-    ("India", "indiana", "IN", "IND", "750", "india"),
-    ("Iran", "iraniana", "IR", "IRN", "630", "islamic-republic-of-iran"),
-    ("Iraq", "irachena", "IQ", "IRQ", "645", "iraq"),
-    ("Kosovo", "kosovara", "XK", "XKX", "347", "kosovo"),
-    ("Mali", "maliana", "ML", "MLI", "432", "mali"),
-    ("Marocco", "marocchina", "MA", "MAR", "600", "morocco"),
-    ("Nigeria", "nigeriana", "NG", "NGA", "475", "nigeria"),
-    ("Pakistan", "pakistana", "PK", "PAK", "770", "pakistan"),
-    ("Perù", "peruviana", "PE", "PER", "135", "peru"),
-    ("Senegal", "senegalese", "SN", "SEN", "433", "senegal"),
-    ("Siria", "siriana", "SY", "SYR", "652", "syrian-arab-republic"),
-    ("Somalia", "somala", "SO", "SOM", "520", "somalia"),
-    ("Sri Lanka", "srilankese", "LK", "LKA", "780", "sri-lanka"),
-    ("Sudan", "sudanese", "SD", "SDN", "625", "sudan"),
-    ("Tunisia", "tunisina", "TN", "TUN", "616", "tunisia"),
-    ("Ucraina", "ucraina", "UA", "UKR", "369", "ukraine"),
-    ("Venezuela", "venezuelana", "VE", "VEN", "101", "bolivarian-republic-of-venezuela"),
+    ("Afghanistan", "afghana", "AF", "AFG", "700", "afghanistan", "dall'Afghanistan"),
+    ("Albania", "albanese", "AL", "ALB", "339", "albania", "dall'Albania"),
+    ("Algeria", "algerina", "DZ", "DZA", "615", "algeria", "dall'Algeria"),
+    ("Bangladesh", "bangladese", "BD", "BGD", "771", "bangladesh", "dal Bangladesh"),
+    ("Burkina Faso", "burkinabé", "BF", "BFA", "439", "burkina-faso", "dal Burkina Faso"),
+    ("Costa d'Avorio", "ivoriana", "CI", "CIV", "437", "cote-d-ivoire", "dalla Costa d'Avorio"),
+    ("Egitto", "egiziana", "EG", "EGY", "651", "egypt", "dall'Egitto"),
+    ("El Salvador", "salvadoregna", "SV", "SLV", "92", "el-salvador", "da El Salvador"),
+    ("Eritrea", "eritrea", "ER", "ERI", "531", "eritrea", "dall'Eritrea"),
+    ("Etiopia", "etiope", "ET", "ETH", "530", "ethiopia", "dall'Etiopia"),
+    ("Gambia", "gambiana", "GM", "GMB", "420", "gambia", "dal Gambia"),
+    ("Georgia", "georgiana", "GE", "GEO", "372", "georgia", "dalla Georgia"),
+    ("Ghana", "ghanese", "GH", "GHA", "452", "ghana", "dal Ghana"),
+    ("Guinea", "guineana", "GN", "GIN", "438", "guinea", "dalla Guinea"),
+    ("India", "indiana", "IN", "IND", "750", "india", "dall'India"),
+    ("Iran", "iraniana", "IR", "IRN", "630", "islamic-republic-of-iran", "dall'Iran"),
+    ("Iraq", "irachena", "IQ", "IRQ", "645", "iraq", "dall'Iraq"),
+    ("Kosovo", "kosovara", "XK", "XKX", "347", "kosovo", "dal Kosovo"),
+    ("Mali", "maliana", "ML", "MLI", "432", "mali", "dal Mali"),
+    ("Marocco", "marocchina", "MA", "MAR", "600", "morocco", "dal Marocco"),
+    ("Nigeria", "nigeriana", "NG", "NGA", "475", "nigeria", "dalla Nigeria"),
+    ("Pakistan", "pakistana", "PK", "PAK", "770", "pakistan", "dal Pakistan"),
+    ("Perù", "peruviana", "PE", "PER", "135", "peru", "dal Perù"),
+    ("Senegal", "senegalese", "SN", "SEN", "433", "senegal", "dal Senegal"),
+    ("Siria", "siriana", "SY", "SYR", "652", "syrian-arab-republic", "dalla Siria"),
+    ("Somalia", "somala", "SO", "SOM", "520", "somalia", "dalla Somalia"),
+    ("Sri Lanka", "srilankese", "LK", "LKA", "780", "sri-lanka", "dallo Sri Lanka"),
+    ("Sudan", "sudanese", "SD", "SDN", "625", "sudan", "dal Sudan"),
+    ("Tunisia", "tunisina", "TN", "TUN", "616", "tunisia", "dalla Tunisia"),
+    ("Ucraina", "ucraina", "UA", "UKR", "369", "ukraine", "dall'Ucraina"),
+    ("Venezuela", "venezuelana", "VE", "VEN", "101", "bolivarian-republic-of-venezuela", "dal Venezuela"),
 ]
 # nome nel file dei minori presenti, se diverso
 NOME_MSNA = {"Perù": "Peru'"}
@@ -173,7 +173,7 @@ def confronto_unhcr(S):
     for i in dec["items"]:
         ud[(i["coo_iso"], i["year"])] = (n(i["dec_total"]), n(i["dec_recognized"]) + n(i["dec_other"]))
     celle = []
-    for nome, agg, iso2, iso3, gw, ecoi in PAESI:
+    for nome, agg, iso2, iso3, gw, ecoi, da in PAESI:
         if nome == "Kosovo": continue
         for a in ANNI:
             for misura, e, u in (("domande", S.get((iso2, a, "richiedenti")), ua.get((iso3, a))),
@@ -220,7 +220,7 @@ def main():
         errori += [f"{a}: {c} è tra le prime {PRIME} cittadinanze dei richiedenti ma non è nell'elenco dei paesi" for c in sorted(prime[a] - ISO2)]
 
     paesi = []
-    for nome, agg, iso2, iso3, gw, ecoi in PAESI:
+    for nome, agg, iso2, iso3, gw, ecoi, da in PAESI:
         anni = {}
         for a in ANNI:
             r = {k: S.get((iso2, a, k)) for k in ("richiedenti", "minori", "totale", "rifugiato", "sussidiaria", "umanitaria", "rifiuti")}
@@ -234,7 +234,7 @@ def main():
                             "decisioni": {"totale": r["totale"], "rifugiato": r["rifugiato"], "sussidiaria": r["sussidiaria"],
                                           "umanitaria": r["umanitaria"], "rifiuti": r["rifiuti"]}}
         paesi.append({
-            "slug": slug(nome), "nome": nome, "aggettivo": agg, "iso3": iso3,
+            "slug": slug(nome), "nome": nome, "aggettivo": agg, "da": da, "iso3": iso3,
             "prime_dieci_richiedenti": [a for a in ANNI if iso2 in prime[a]],
             "anni": anni,
             "minori_presenti": {str(a): n for a, n in sorted(presenti.get(NOME_MSNA.get(nome, nome), {}).items())},
