@@ -1,17 +1,8 @@
-import { feature } from "topojson-client";
-import type { Topology, GeometryCollection } from "topojson-specification";
-import type { Feature, Geometry } from "geojson";
-import topo from "world-atlas/countries-110m.json";
 import raw from "@/data/paesi.json";
+import { trovaContorno } from "@/lib/mondo";
 
-// Contorni del mondo: world-atlas countries-110m (Natural Earth, pubblico dominio).
 export type Continente = "Africa" | "Asia" | "America" | "Europa";
-export type Contorno = Feature<Geometry, { name: string }>;
 export const CONTINENTI: Continente[] = ["Africa", "Asia", "America", "Europa"];
-
-const t = topo as unknown as Topology<{ countries: GeometryCollection<{ name: string }> }>;
-export const contorni = (feature(t, t.objects.countries) as unknown as { features: Contorno[] }).features;
-export const trovaContorno = (id: string) => contorni.find((f) => (/^\d+$/.test(id) ? f.id === id : f.properties.name === id));
 
 type PaeseGeo = { nome: string; iso3: string; coordinate?: [number, number]; contorno?: string; continente?: string };
 const d = raw as unknown as { coordinate_italia?: [number, number]; contorni?: { versione: string }; paesi: PaeseGeo[] };

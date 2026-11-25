@@ -326,3 +326,52 @@ th.num .ordina{flex-direction:row-reverse}
 .elenco-atti{margin:0 0 14px;padding-left:18px;font-size:15px;max-width:62ch}
 .elenco-atti li{margin-bottom:6px}
 .elenco-atti a{white-space:normal}
+
+/* ---- globo di /paesi ---- */
+.globo{display:grid;grid-template-columns:minmax(0,1fr) 300px;column-gap:32px;align-items:start;
+  grid-template-areas:"tela legenda" "barra legenda" "assi legenda" "did did";margin:8px 0 48px}
+.globo-tela{grid-area:tela;position:relative;width:100%;max-width:620px;aspect-ratio:1;margin:0 auto}
+.globo-tela canvas,.globo-tela svg{display:block;width:100%;height:100%;touch-action:pan-y;user-select:none;-webkit-user-select:none}
+.globo-tip{position:absolute;z-index:2;pointer-events:none;background:var(--inchiostro);color:var(--carta);
+  font-family:var(--dato);font-size:12px;line-height:1.35;padding:6px 10px;display:flex;flex-direction:column;
+  max-width:230px;width:max-content}
+.globo-tip[hidden]{display:none}
+.globo-tip strong{font-family:var(--display);font-weight:700;font-size:14px}
+.globo-tip small{font-size:11px;opacity:.75;margin-top:2px}
+.globo-barra{grid-area:barra;display:flex;align-items:center;gap:12px;max-width:620px;width:100%;margin:10px auto 0}
+.globo-play{flex:none;width:44px;height:44px;border-radius:50%;border:1.5px solid var(--timbro);background:var(--carta);
+  color:var(--timbro);display:grid;place-items:center;cursor:pointer}
+.globo-play:hover{background:var(--timbro);color:var(--carta)}
+.globo-play:focus-visible,.globo-ricentra:focus-visible,.globo-anni:focus-visible{outline:2px solid var(--timbro);outline-offset:3px}
+.globo-anni{flex:1;min-width:0;height:44px;background:transparent;cursor:pointer;-webkit-appearance:none;appearance:none}
+.globo-anni::-webkit-slider-runnable-track{height:4px;background:var(--linea);border-radius:2px}
+.globo-anni::-moz-range-track{height:4px;background:var(--linea);border-radius:2px}
+.globo-anni::-webkit-slider-thumb{-webkit-appearance:none;width:28px;height:28px;margin-top:-12px;border-radius:50%;
+  background:var(--timbro);border:3px solid var(--carta);box-shadow:0 0 0 1px var(--timbro)}
+.globo-anni::-moz-range-thumb{width:22px;height:22px;border-radius:50%;background:var(--timbro);border:3px solid var(--carta);box-shadow:0 0 0 1px var(--timbro)}
+.globo-anno{flex:none;font-family:var(--dato);font-weight:600;font-size:20px;min-width:3.2em;text-align:right}
+.globo-assi{grid-area:assi;display:flex;justify-content:space-between;align-items:center;gap:12px;max-width:620px;
+  width:100%;margin:0 auto;font-family:var(--dato);font-size:11px;color:var(--tenue);padding-left:56px}
+.globo-ricentra{font-family:var(--dato);font-size:12px;color:var(--tenue);background:none;border:0;border-bottom:1px solid var(--linea);
+  padding:10px 0;cursor:pointer}
+.globo-ricentra:hover{color:var(--inchiostro);border-color:var(--inchiostro)}
+.globo-legenda{grid-area:legenda;font-family:var(--dato);font-size:12px}
+.globo-chiave{display:flex;flex-wrap:wrap;gap:4px 14px;color:var(--tenue);margin-bottom:12px}
+.globo-chiave span,.globo-legenda li a{display:flex;align-items:center;gap:8px}
+.globo-chiave i,.globo-legenda li i{display:inline-block;width:10px;height:10px;border-radius:2px;flex:none}
+.globo-legenda-titolo{color:var(--tenue);border-bottom:1px solid var(--inchiostro);padding-bottom:6px;margin-bottom:2px}
+.globo-legenda ol{list-style:none}
+.globo-legenda li{border-bottom:1px solid var(--linea)}
+.globo-legenda li.attivo{background:var(--carta-scura)}
+.globo-legenda li a{padding:4px 2px}
+.globo-legenda li a:hover .nome{text-decoration:underline}
+.globo-legenda .nome{flex:1;min-width:0;overflow-wrap:anywhere}
+.globo-legenda .n{font-variant-numeric:tabular-nums;font-weight:600}
+.globo-didascalia{grid-area:did;font-size:14px;color:var(--tenue);max-width:70ch;margin-top:22px}
+@media (max-width: 760px){
+  .globo{grid-template-columns:minmax(0,1fr);grid-template-areas:"tela" "barra" "assi" "legenda" "did";margin-bottom:36px}
+  .globo-assi{padding-left:56px}
+  .globo-legenda{margin-top:20px;font-size:13px}
+  .globo-legenda li a{padding:9px 2px}
+}
+@media (prefers-reduced-motion:reduce){.globo-play,.globo-ricentra{transition:none}}
