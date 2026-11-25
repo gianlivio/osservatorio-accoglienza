@@ -293,3 +293,8 @@ th.num .ordina{flex-direction:row-reverse}
 .apertura{margin:0 0 28px}
 .cifra-grande{display:block;font-family:var(--dato);font-weight:600;font-size:clamp(44px,12vw,72px);letter-spacing:-.03em;line-height:1}
 .apertura p{font-size:19px;max-width:60ch;margin:10px 0 0}
+.naz-valore{font-family:var(--dato);font-weight:600;font-size:13px;fill:var(--inchiostro)}
+.naz-data{font-family:var(--dato);font-size:11px;fill:var(--tenue)}
+.naz-asse{stroke:var(--linea);stroke-width:1}
+.naz-stacco{stroke:var(--tenue);stroke-width:1;stroke-dasharray:3 3}
+@media (max-width:500px){.grafico-naz .naz-valore{font-size:14px}.grafico-naz .naz-data,.grafico-naz .asse-txt{font-size:12px}}

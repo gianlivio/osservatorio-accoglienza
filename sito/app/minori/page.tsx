@@ -28,36 +28,59 @@ function Spark({ serie, regione }: { serie: { presenti: number }[]; regione: str
 }
 
 
-function GraficoNazionale({ serie }: { serie: { periodo: string; presenti: number; tipo?: string }[] }) {
-  const w = 720, h = 200, pad = 34;
+const MESI = ["", "gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"];
+const dataLunga = (periodo: string) => { const [a, m] = periodo.split("-"); return `${MESI[+m]} ${a}`; };
+
+function SvgNazionale({ serie, stretto }: { serie: { periodo: string; presenti: number; tipo?: string }[]; stretto: boolean }) {
+  const w = stretto ? 360 : 720, h = stretto ? 210 : 200, pad = stretto ? 24 : 34, top = 44;
   const vals = serie.map((p) => p.presenti);
   const max = Math.max(...vals), min = Math.min(...vals);
   const range = max - min || 1;
   const x = (i: number) => pad + (i / (serie.length - 1)) * (w - pad * 2);
-  const y = (v: number) => h - pad - ((v - min) / range) * (h - pad * 2);
+  const y = (v: number) => h - 30 - ((v - min) / range) * (h - 30 - top);
   const mensili = serie.filter((p) => p.tipo === "mensile");
-  const linea = mensili.map((p) => {
-    const i = serie.indexOf(p);
-    return `${x(i)},${y(p.presenti)}`;
-  }).join(" ");
+  const linea = mensili.map((p) => `${x(serie.indexOf(p))},${y(p.presenti)}`).join(" ");
   const semestrali = serie.map((p, i) => ({ p, i })).filter((o) => o.p.tipo === "semestrale");
+  const iUltimoMensile = serie.indexOf(mensili[mensili.length - 1]);
+  const xStacco = (x(iUltimoMensile) + x(semestrali[0].i)) / 2;
+  const ultimo = serie.length - 1;
+  const primoAnno = serie[0].periodo.slice(0, 4), ultimoAnno = serie[ultimo].periodo.slice(0, 4);
+  const primoSem = semestrali[0].p.periodo.slice(0, 4);
+  const etichetta = (i: number, ancora: "start" | "end") => (
+    <g>
+      <text x={x(i) + (ancora === "start" ? -2 : 2)} y={y(serie[i].presenti) - 24} textAnchor={ancora} className="naz-valore">{nItal(serie[i].presenti)}</text>
+      <text x={x(i) + (ancora === "start" ? -2 : 2)} y={y(serie[i].presenti) - 10} textAnchor={ancora} className="naz-data">{dataLunga(serie[i].periodo)}</text>
+    </g>
+  );
+  return (
+    <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="xMidYMid meet" role="img"
+      aria-label={`Andamento nazionale dei minori non accompagnati presenti, ${primoAnno}–${ultimoAnno}: ${nItal(serie[0].presenti)} a ${dataLunga(serie[0].periodo)}, ${nItal(serie[ultimo].presenti)} a ${dataLunga(serie[ultimo].periodo)}`}>
+      <line x1={pad} x2={w - pad} y1={h - 30} y2={h - 30} className="naz-asse" />
+      <polyline points={linea} fill="none" stroke="var(--timbro)" strokeWidth="1.6" />
+      <line x1={xStacco} x2={xStacco} y1={top - 6} y2={h - 30} className="naz-stacco" />
+      {semestrali.map(({ p, i }) => (
+        <circle key={p.periodo} cx={x(i)} cy={y(p.presenti)} r="3.5" fill="var(--carta)" stroke="var(--timbro)" strokeWidth="1.6" />
+      ))}
+      <circle cx={x(0)} cy={y(serie[0].presenti)} r="3" fill="var(--timbro)" />
+      {etichetta(0, "start")}
+      {etichetta(ultimo, "end")}
+      <text x={pad} y={h - 10} className="asse-txt">{primoAnno}</text>
+      <text x={w - pad} y={h - 10} className="asse-txt" textAnchor="end">Dal {primoSem} un dato ogni sei mesi</text>
+    </svg>
+  );
+}
+
+function GraficoNazionale({ serie }: { serie: { periodo: string; presenti: number; tipo?: string }[] }) {
+  const mensili = serie.filter((p) => p.tipo === "mensile");
+  const semestrali = serie.filter((p) => p.tipo === "semestrale");
   const primoAnno = serie[0].periodo.slice(0, 4);
   const ultimoAnno = serie[serie.length - 1].periodo.slice(0, 4);
   const ultimoMensile = mensili[mensili.length - 1].periodo.slice(0, 4);
-  const primoSemestrale = semestrali[0].p.periodo.slice(0, 4);
+  const primoSemestrale = semestrali[0].periodo.slice(0, 4);
   return (
     <div className="grafico-naz">
-      <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="xMidYMid meet"
-        role="img" aria-label={`Andamento nazionale dei minori non accompagnati presenti, ${primoAnno}–${ultimoAnno}`}>
-        <polyline points={linea} fill="none" stroke="var(--timbro)" strokeWidth="1.6" />
-        {semestrali.map(({ p, i }) => (
-          <circle key={p.periodo} cx={x(i)} cy={y(p.presenti)} r="3.5"
-            fill="var(--carta)" stroke="var(--timbro)" strokeWidth="1.6" />
-        ))}
-        <text x={pad} y={h - 8} className="asse-txt">{primoAnno}</text>
-        <text x={w - pad} y={h - 8} className="asse-txt" textAnchor="end">{ultimoAnno}</text>
-        <text x={pad} y={y(max) - 6} className="asse-txt">{nItal(max)}</text>
-      </svg>
+      <div className="g-largo"><SvgNazionale serie={serie} stretto={false} /></div>
+      <div className="g-stretto"><SvgNazionale serie={serie} stretto /></div>
       <p className="legenda">
         <span className="leg-linea" /> rilevazione mensile ({primoAnno}–{ultimoMensile})
         <span className="leg-punto" /> rilevazione semestrale ({primoSemestrale}–{ultimoAnno})
