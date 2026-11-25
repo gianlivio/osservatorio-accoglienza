@@ -66,15 +66,7 @@ export default function Home() {
 
       <MappaItalia />
 
-      <section className="sezione">
-        <h2 className="titolo-sezione">Cerca la tua provincia</h2>
-        <p className="nota-tabella">
-          Scegli l&apos;anno, clicca il titolo di una colonna per riordinare. Le province senza
-          contratti nell&apos;anno scelto non compaiono: non vuol dire che lì manchi
-          l&apos;accoglienza, ma che quell&apos;anno non è stato firmato nulla di nuovo. Gli
-          anni non sono confrontabili tra loro — la{" "}
-          <Link href="/metodologia">Metodologia</Link> spiega perché.
-        </p>
+      <section className="sezione" aria-label="Tabella delle province">
         <TabellaProvince province={province} />
       </section>
     </main>

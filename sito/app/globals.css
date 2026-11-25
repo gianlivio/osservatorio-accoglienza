@@ -275,3 +275,5 @@ th.num .ordina{flex-direction:row-reverse}
 .g-nodati{fill:var(--carta-scura);opacity:.75}
 .g-nodati-txt{font-family:var(--dato);font-size:11px;fill:var(--tenue);paint-order:stroke;stroke:var(--carta-scura);stroke-width:3px}
 .dieci-grafico .nota-grafico{margin:6px 0 0;font-size:14px;color:var(--tenue);max-width:62ch}
+.nota-anni{font-family:var(--testo);font-size:13px;color:var(--tenue);margin-left:10px}
+.nota-periodi{margin:-8px 0 14px}

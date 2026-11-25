@@ -49,8 +49,13 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
             {a === "tutti" ? `${anni[0]}–${anni[anni.length - 1]}` : a}
           </button>
         ))}
+        <span className="nota-anni">Gli anni non sono confrontabili tra loro: la <Link href="/metodologia" className="link-interno">Metodologia</Link> spiega perché.</span>
         <span className="conteggio-prov">{righe.length} province</span>
       </div>
+      <p className="nota-tabella nota-periodi">
+        Clicca il titolo di una colonna per riordinare. Le province senza contratti nell&apos;anno scelto non compaiono: non vuol dire
+        che lì manchi l&apos;accoglienza, ma che quell&apos;anno non è stato firmato nulla di nuovo.
+      </p>
 
       <table className="tabella">
         <caption className="sr-only">Elenco delle province con numero di affidamenti, quota diretti, importo mediano ed enti gestori</caption>
