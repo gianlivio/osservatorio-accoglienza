@@ -1,7 +1,20 @@
 {
  "controllato": "2026-11-25",
  "primo_elenco_dal": "2019-10-22",
- "eccezioni": "Nessun atto indica eccezioni per parti del territorio o categorie di persone nell'elenco (art. 1 di ciascun decreto; comma 1 dell'art. 2-bis).",
+ "eccezioni_atti": "Il testo dell'art. 1 di ciascun decreto e del comma 1 dell'art. 2-bis è un elenco di nomi di paesi, senza eccezioni.",
+ "relazione": {
+  "titolo": "Relazione del Governo al Parlamento sulla situazione dei Paesi di origine sicuri inclusi nell'elenco di cui all'articolo 2-bis, comma 1, del decreto legislativo 28 gennaio 2008, n. 25 (anno 2024), Camera dei deputati, Doc. CCXXXIX, n. 1",
+  "breve": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+  "url": "https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/indiceetesti/239/001_RS/INTERO_COM.pdf",
+  "pagina": "p. 5 del documento (p. 3 della Relazione)",
+  "letto": "2026-11-25"
+ },
+ "norma_eccezioni": {
+  "dal": "2024-10-24",
+  "riferimento": "art. 2-bis, comma 2, del d.lgs. 25/2008, come modificato dall'art. 1, comma 1, lettera b), del d.l. 158/2024 e dall'art. 12-bis del d.l. 145/2024 convertito",
+  "testo": "La designazione di un Paese di origine sicuro può essere fatta con l'eccezione di categorie di persone.",
+  "soppresso": "di parti del territorio o"
+ },
  "effetto": {
   "riferimento": "art. 2-bis, comma 5, del decreto legislativo 28 gennaio 2008, n. 25 (testo vigente)",
   "testo": "Un Paese designato di origine sicuro ai sensi del presente articolo può essere considerato Paese di origine sicuro per il richiedente solo se questi ha la cittadinanza di quel Paese o è un apolide che in precedenza soggiornava abitualmente in quel Paese e non ha invocato gravi motivi per ritenere che quel Paese non è sicuro per la situazione particolare in cui lo stesso richiedente si trova.",
@@ -219,7 +232,13 @@
       "dm-2024-05-07",
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
-     ]
+     ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     }
     }
    ]
   },
@@ -236,7 +255,13 @@
       "dm-2024-05-07",
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
-     ]
+     ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     }
     }
    ]
   },
@@ -252,6 +277,7 @@
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
      ],
+     "eccezioni": "non indicate nella fonte",
      "norma_transitoria": {
       "atto": "dm-2024-05-07",
       "riferimento": "art. 4, comma 1",
@@ -277,6 +303,12 @@
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
      ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     },
      "norma_transitoria": {
       "atto": "dm-2023-03-17",
       "riferimento": "art. 4, comma 1",
@@ -297,6 +329,7 @@
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
      ],
+     "eccezioni": "non indicate nella fonte",
      "norma_transitoria": {
       "atto": "dm-2024-05-07",
       "riferimento": "art. 4, comma 1",
@@ -330,6 +363,12 @@
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
      ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     },
      "norma_transitoria": {
       "atto": "dm-2023-03-17",
       "riferimento": "art. 4, comma 1",
@@ -351,6 +390,12 @@
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
      ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     },
      "norma_transitoria": {
       "atto": "dm-2023-03-17",
       "riferimento": "art. 4, comma 1",
@@ -372,7 +417,13 @@
       "dm-2024-05-07",
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
-     ]
+     ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     }
     }
    ]
   },
@@ -405,7 +456,13 @@
       "dm-2024-05-07",
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
-     ]
+     ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     }
     }
    ]
   },
@@ -426,7 +483,13 @@
       "dm-2024-05-07",
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
-     ]
+     ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     }
     }
    ]
   },
@@ -441,6 +504,17 @@
       "dm-2023-03-17",
       "dm-2024-05-07"
      ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     },
+     "uscita": {
+      "testo": "tre Paesi (Camerun, Colombia e Nigeria) sono stati espunti dalla lista avendo il Governo ritenuto che, alla luce degli approfondimenti condotti sulle schede a corredo dell'istruttoria del D.I. 7 maggio 2024, le situazioni di criticità presenti in parte dei relativi territori non giustificassero più l'inclusione di tali paesi nell'elenco",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)"
+     },
      "norma_transitoria": {
       "atto": "dm-2023-03-17",
       "riferimento": "art. 4, comma 1",
@@ -465,6 +539,7 @@
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
      ],
+     "eccezioni": "non indicate nella fonte",
      "norma_transitoria": {
       "atto": "dm-2024-05-07",
       "riferimento": "art. 4, comma 1",
@@ -486,7 +561,13 @@
       "dm-2024-05-07",
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
-     ]
+     ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     }
     }
    ]
   },
@@ -510,6 +591,7 @@
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
      ],
+     "eccezioni": "non indicate nella fonte",
      "norma_transitoria": {
       "atto": "dm-2024-05-07",
       "riferimento": "art. 4, comma 1",
@@ -535,7 +617,13 @@
       "dm-2024-05-07",
       "dl-2024-158",
       "dl-2024-145-art-12-bis"
-     ]
+     ],
+     "eccezioni": {
+      "testo": "Per taluni dei Paesi in elenco sono state applicate alla designazione di \"Paese di origine sicuro\" eccezioni per categorie di persone o per parti di territorio.",
+      "fonte": "Relazione del Governo al Parlamento sui Paesi di origine sicuri, anno 2024 (Camera, Doc. CCXXXIX, n. 1)",
+      "pagina": "p. 5 del documento (p. 3 della Relazione)",
+      "per_paese": false
+     }
     }
    ]
   },
@@ -548,7 +636,8 @@
      "atto": "dm-2019-10-04",
      "atti": [
       "dm-2019-10-04"
-     ]
+     ],
+     "eccezioni": "non indicate nella fonte"
     }
    ]
   },
