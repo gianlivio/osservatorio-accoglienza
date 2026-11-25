@@ -377,3 +377,21 @@ Formato: Eurostat / UNHCR (differenza % di UNHCR su Eurostat). «n.d.»: valore 
 - Kosovo: non confrontabile con UNHCR (Serbia e Kosovo accorpati).
 - UCDP: aggregazione per paese con le sole righe a paese singolo; le righe multi-paese non sono attribuite. Pubblicazioni da citare non lette.
 - ecoi.net: tre slug ipotizzati davano 404 e sono stati corretti dall'elenco dei paesi.
+
+---
+
+# Terza parte: paesi aggiunti per il criterio dei richiedenti asilo
+
+Generato il 25/11/2026. Terzo criterio di selezione dei paesi: le prime dieci cittadinanze dei richiedenti asilo in Italia in ciascun anno 2015–2025 (Eurostat `migr_asyappctza`, sesso ed età totali, esclusi i totali e le voci aggregate). Con i 24 paesi precedenti, le prime dieci di ogni anno sono tutte coperte: il controllo è nello script (`script/paesi.py`) e nella build. Aggiunti 7 paesi, per un totale di 31. I dati sono gli stessi degli altri paesi (Eurostat, UCDP 26.1, minori presenti se presenti, ecoi.net).
+
+| Paese | Anni tra le prime dieci dei richiedenti (richiedenti nell'anno) | Eurostat 2015–2025 | UCDP (anni con riga a paese singolo) | UCDP: anni con righe multi-paese | Minori presenti (anni) | ecoi.net |
+|---|---|---|---|---|---|---|
+| Ghana | 2015 (3.675), 2016 (4.940), 2017 (5.435) | sì, tutti gli anni nelle tre tabelle | non_statale: 2024–2025 | — | 2016–2022 | [ghana](https://www.ecoi.net/en/countries/ghana/) |
+| El Salvador | 2018 (2.275), 2019 (2.525), 2020 (1.070) | sì, tutti gli anni nelle tre tabelle | nessuna riga | 2016, 2022 | non compare | [el-salvador](https://www.ecoi.net/en/countries/el-salvador/) |
+| Perù | 2019 (2.450), 2020 (740), 2022 (3.035), 2023 (7.530), 2024 (15.705), 2025 (15.655) | sì, tutti gli anni nelle tre tabelle | nessuna riga | — | 2019 | [peru](https://www.ecoi.net/en/countries/peru/) |
+| Venezuela | 2019 (1.550), 2020 (835) | sì, tutti gli anni nelle tre tabelle | unilaterale: 2015–2016, 2018–2019 | 2017–2018, 2021–2023 | non compare | [bolivarian-republic-of-venezuela](https://www.ecoi.net/en/countries/bolivarian-republic-of-venezuela/) |
+| Georgia | 2021 (1.360), 2022 (3.270), 2025 (4.490) | sì, tutti gli anni nelle tre tabelle | nessuna riga | 2023 | non compare | [georgia](https://www.ecoi.net/en/countries/georgia/) |
+| India | 2024 (4.885), 2025 (7.315) | sì, tutti gli anni nelle tre tabelle | battaglia: 2015–2025 ; unilaterale: 2015–2025 ; non_statale: 2020, 2023–2024 | 2015–2021, 2025 | 2019 | [india](https://www.ecoi.net/en/countries/india/) |
+| Sri Lanka | 2024 (4.365), 2025 (3.980) | sì, tutti gli anni nelle tre tabelle | nessuna riga | 2019 | non compare | [sri-lanka](https://www.ecoi.net/en/countries/sri-lanka/) |
+
+Note: per il Venezuela lo slug ipotizzato `venezuela` rispondeva 404; la pagina corretta, presa dall'elenco dei paesi di ecoi.net, risponde 200. Le altre sei pagine ecoi.net rispondono 200 (titolo della pagina uguale al paese). Il Perù compare nel file dei minori presenti come «Peru'» (solo 2019). Perù 2025: 15.655 richiedenti, secondo per numero nel 2025 dopo il Bangladesh.
