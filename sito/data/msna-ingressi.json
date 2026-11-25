@@ -11,6 +11,12 @@
   "I rapporti consolidano i dati: il totale 2024 è 14.828 nel rapporto al 31 dicembre 2024; il rapporto 2025 scrive che il 2025 è +235 unità rispetto al 2024 (p. 20), cioè 15.993 per il 2024. Ogni anno porta la cifra del proprio rapporto.",
   "Nei rapporti le quote per cittadinanza sono scritte con 0 o 1 decimale, a volte con «oltre», «quasi» o «circa»: si riportano come scritte."
  ],
+ "confronto_2024_nel_rapporto_2025": {
+  "differenza": 235,
+  "testo": "il dato degli ingressi dei minori stranieri è risultato in leggero aumento rispetto agli ingressi registrati nel 2024 (+235 unità)",
+  "pagina": 20,
+  "rapporto": "sem-2025-12.pdf"
+ },
  "anni": {
   "2023": {
    "rapporto": "sem-2023-12.pdf",
@@ -160,6 +166,7 @@
      "nota": {
       "testo": "i minori afghani hanno utilizzato nel 2023 soprattutto rotte terresti (94,7%)",
       "pagina": 21,
+      "rotte_terrestri": 94.7,
       "avviso": "Il rapporto non dà la quota via mare per l’Afghanistan: indica solo le rotte terrestri."
      }
     }
