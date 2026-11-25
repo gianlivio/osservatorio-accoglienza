@@ -4,13 +4,16 @@ type Cifra = { valore: number; approssimazione: string | null; testo: string; pa
 export type CittadinanzaIngressi = {
   nome: string; ingressi: number; quota_ingressi: Cifra; testo: string; pagina: number; sbarco: Cifra | null;
   incoerenza?: { altro_valore: number; altro_testo: string; altra_pagina: number; nota: string };
-  nota?: { testo: string; pagina: number; avviso: string };
+  nota?: { testo: string; pagina: number; avviso: string; rotte_terrestri?: number };
 };
 export type AnnoIngressi = {
   rapporto: string; data: string; periodo: string; ingressi_totali: Cifra;
   sbarchi: { numero: Cifra; percentuale: Cifra }; cittadinanze: CittadinanzaIngressi[];
 };
-export const ingressi = raw as unknown as { estratto: string; fonte: string; periodo: string; non_usati: string[]; note: string[]; anni: Record<string, AnnoIngressi> };
+export const ingressi = raw as unknown as {
+  estratto: string; fonte: string; periodo: string; non_usati: string[]; note: string[]; anni: Record<string, AnnoIngressi>;
+  confronto_2024_nel_rapporto_2025: { differenza: number; testo: string; pagina: number; rapporto: string };
+};
 
 // Controlli (se uno non torna la build fallisce):
 // - ogni cifra ha testo e pagina del rapporto; ogni quota è tra 0 e 100;
@@ -53,3 +56,60 @@ function verifica(d: typeof ingressi) {
   if (errori.length) throw new Error(`Dati sugli ingressi dei minori non coerenti: ${errori.join("; ")}`);
 }
 verifica(ingressi);
+
+// ---- testi generati dai dati ----
+
+const num = (v: number, dec: number) => v.toLocaleString("it-IT", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+/** Una percentuale come scritta nel rapporto: «62%», «87,6%», «quasi 65%», «oltre 63%». */
+export const testoPercentuale = (c: Cifra) => `${c.approssimazione ? c.approssimazione + " " : ""}${num(c.valore, c.decimali ?? 0)}%`;
+const migliaia = (c: Cifra) => `${c.approssimazione ? c.approssimazione + " " : ""}${num(c.valore / 1000, 0)}mila`;
+export const testoSbarchiNumero = migliaia;
+export const anniIngressi = Object.keys(ingressi.anni).sort();
+/** Totale del 2024 implicato dal rapporto 2025: totale 2025 meno la differenza scritta nel rapporto. */
+export const totale2024Implicato = ingressi.anni["2025"].ingressi_totali.valore - ingressi.confronto_2024_nel_rapporto_2025.differenza;
+
+const pagine = (n: number[]) => {
+  const u = [...new Set(n)].sort((a, b) => a - b);
+  return `${u.length > 1 ? "pp." : "p."} ${u.length > 1 ? u.slice(0, -1).join(", ") + " e " + u[u.length - 1] : u[0]}`;
+};
+
+export type RigaIngressi = { nome: string; testo: string | null; valore: number | null; nota: string | null };
+export type AnnoComeEntrati = { anno: string; totale: number; percentuale: string; righe: RigaIngressi[]; fonte: string };
+
+/** Per /minori: per ogni anno totale, percentuale via mare e righe nell'ordine del rapporto. */
+export function comeSonoEntrati(): AnnoComeEntrati[] {
+  return anniIngressi.map((anno) => {
+    const a = ingressi.anni[anno];
+    const righe = a.cittadinanze.map((c) => ({
+      nome: c.nome,
+      testo: c.sbarco ? testoPercentuale(c.sbarco) : null,
+      valore: c.sbarco ? c.sbarco.valore : null,
+      nota: !c.sbarco && c.nota?.rotte_terrestri !== undefined ? `Il rapporto indica il ${num(c.nota.rotte_terrestri, 1)}% entrato per rotte terrestri.` : null,
+    }));
+    const pp = [a.ingressi_totali.pagina, a.sbarchi.percentuale.pagina, ...a.cittadinanze.flatMap((c) => [c.pagina, ...(c.sbarco ? [c.sbarco.pagina] : [])])];
+    return { anno, totale: a.ingressi_totali.valore, percentuale: testoPercentuale(a.sbarchi.percentuale), righe,
+      fonte: `Ministero del Lavoro, ${a.rapporto.replace(/\.pdf$/, "")}, ${pagine(pp)}` };
+  });
+}
+
+/** Per /paesi/[slug]: quota via mare di ogni anno in cui il rapporto la riporta per quel paese. */
+export function sbarcoPaese(nome: string) {
+  return anniIngressi.flatMap((anno) => {
+    const c = ingressi.anni[anno].cittadinanze.find((x) => x.nome === nome);
+    return c?.sbarco ? [{ anno, testo: testoPercentuale(c.sbarco), pagina: c.sbarco.pagina, rapporto: ingressi.anni[anno].rapporto }] : [];
+  });
+}
+
+/** Cifre approssimate come scritte nel rapporto, per /metodologia. */
+export function cifreApprossimate() {
+  const out: { anno: string; voce: string; testo: string }[] = [];
+  for (const anno of anniIngressi) {
+    const a = ingressi.anni[anno];
+    if (a.sbarchi.numero.approssimazione) out.push({ anno, voce: "ingressi via mare", testo: testoSbarchiNumero(a.sbarchi.numero) });
+    for (const c of a.cittadinanze) {
+      if (c.quota_ingressi.approssimazione) out.push({ anno, voce: `${c.nome}, quota sul totale degli ingressi`, testo: testoPercentuale(c.quota_ingressi) });
+      if (c.sbarco?.approssimazione) out.push({ anno, voce: `${c.nome}, quota via mare`, testo: testoPercentuale(c.sbarco) });
+    }
+  }
+  return out;
+}

@@ -1,12 +1,13 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
-import "@/lib/msnaIngressi"; // controlli di build sui dati degli ingressi
 
 import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 import { msnaData, nItal } from "@/lib/dati";
 import { cittadinanzaAnni } from "@/lib/cittadinanza";
+import { comeSonoEntrati } from "@/lib/msnaIngressi"; // importarlo esegue i controlli di build sui dati degli ingressi
 import Cittadinanze from "./Cittadinanze";
+import ComeSonoEntrati from "./ComeSonoEntrati";
 
 const primoAnno = msnaData.primo_periodo.slice(0, 4);
 const fineRegionale = msnaData.ultimo_periodo.slice(0, 4);
@@ -196,6 +197,11 @@ export default function Minori() {
           cambiano da un anno all&apos;altro: una cittadinanza assente dall&apos;elenco non è necessariamente assente dall&apos;Italia.
         </p>
         <Cittadinanze anni={cittadinanzaAnni()} />
+      </section>
+
+      <section className="sezione" id="come-sono-entrati">
+        <h2 className="titolo-sezione">Come sono entrati</h2>
+        <ComeSonoEntrati anni={comeSonoEntrati()} />
       </section>
 
       <section className="sezione">
