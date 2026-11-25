@@ -76,6 +76,8 @@ export default function Minori() {
   const dataTotale = `${mesi[+tm]} ${ta}`;
   const primoSemestraleTot = d.nazionale.find((x) => x.tipo === "semestrale")!.periodo.slice(0, 4);
   const primoAnno = d.primo_periodo.split("-")[0];
+  const naz = (periodo: string) => d.nazionale.find((x) => x.periodo === periodo)!.presenti;
+  const lungo = (periodo: string) => { const [a, m] = periodo.split("-"); return `${mesi[+m]} ${a}`; };
   const datasetJsonLd = {
     "@context": "https://schema.org",
     "@type": "Dataset",
@@ -100,6 +102,13 @@ export default function Minori() {
       <Link href="/" className="indietro">← torna all&apos;archivio contratti</Link>
       <p className="occhiello">Dati del Ministero del Lavoro</p>
       <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>
+      <div className="apertura">
+        <b className="cifra-grande">{nItal(d.ultimo_totale)}</b>
+        <p>
+          minori stranieri non accompagnati presenti in Italia al {dataTotale}, secondo il Ministero del Lavoro.
+          Al {dataLeggibile} erano {nItal(naz(d.ultimo_periodo))}; al {lungo(d.primo_periodo)}, {nItal(naz(d.primo_periodo))}.
+        </p>
+      </div>
       <p className="sommario">
         I minori stranieri non accompagnati sono le persone sotto la maggiore età che si
         trovano in Italia senza un adulto legalmente responsabile per loro. La legge ne

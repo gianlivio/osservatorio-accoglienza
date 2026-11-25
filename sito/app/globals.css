@@ -290,3 +290,6 @@ th.num .ordina{flex-direction:row-reverse}
 .cifre-riga{display:flex;flex-wrap:wrap}
 .cifre-riga .cifra{flex:1 1 150px}
 @media (max-width:500px){.cifre-riga .cifra{flex:1 1 100px;padding:14px 10px}.cifre-riga .cifra b{font-size:22px}}
+.apertura{margin:0 0 28px}
+.cifra-grande{display:block;font-family:var(--dato);font-weight:600;font-size:clamp(44px,12vw,72px);letter-spacing:-.03em;line-height:1}
+.apertura p{font-size:19px;max-width:60ch;margin:10px 0 0}
