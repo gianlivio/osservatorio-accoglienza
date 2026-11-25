@@ -35,7 +35,8 @@
     "Tunisia",
     "Ucraina"
    ],
-   "norma_transitoria": null
+   "norma_transitoria": null,
+   "premessa": null
   },
   {
    "id": "dm-2023-03-17",
@@ -76,7 +77,8 @@
      "Georgia",
      "Nigeria"
     ]
-   }
+   },
+   "premessa": null
   },
   {
    "id": "dm-2024-05-07",
@@ -123,7 +125,8 @@
      "Perù",
      "Sri Lanka"
     ]
-   }
+   },
+   "premessa": null
   },
   {
    "id": "dl-2024-158",
@@ -158,7 +161,8 @@
     "Sri Lanka",
     "Tunisia"
    ],
-   "norma_transitoria": null
+   "norma_transitoria": null,
+   "premessa": "Considerata la straordinaria necessità ed urgenza di designare i Paesi di origine sicuri, tenendo conto della sentenza della Corte di Giustizia dell'Unione Europea, del 4 ottobre 2024 (causa C-406/22), escludendo i Paesi che non soddisfano le condizioni per determinate parti del loro territorio (Camerun, Colombia e Nigeria)"
   },
   {
    "id": "dl-2024-145-art-12-bis",
@@ -193,7 +197,8 @@
     "Sri Lanka",
     "Tunisia"
    ],
-   "norma_transitoria": null
+   "norma_transitoria": null,
+   "premessa": null
   }
  ],
  "paesi": {
