@@ -48,12 +48,18 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
   const x = (i: number) => Math.round(10 * (SX + (i * (L - SX - DX)) / (anni.length - 1))) / 10;
   const f = (v: number) => nItal(v);
 
-  // righe delle etichette delle leggi: la prima riga in cui il nome non tocca quello precedente
+  // etichette delle leggi: una riga sola, centrate sulla loro linea (allineate al bordo del grafico se ne uscirebbero),
+  // su due righe alternate nell'ordine degli anni (la prima in basso). Nella versione stretta «D.Lgs. 142» diventa «142».
   const cw = stretto ? 6.6 : 6.0;
-  const etichette = conEtichetteLeggi ? leggi.filter((l) => l.etichetta).map((l) => ({ l, a: x(anni.indexOf(l.anno)) + 3, w: l.etichetta!.length * cw })) : [];
-  const fineRiga: number[] = [];
-  const righe = etichette.map((e) => { let r = 0; while ((fineRiga[r] ?? -Infinity) + 2 > e.a) r++; fineRiga[r] = e.a + e.w; return r; });
-  const nRighe = Math.max(1, fineRiga.length);
+  const etichette = conEtichetteLeggi
+    ? leggi.filter((l) => l.etichetta).map((l, k) => {
+        const t = stretto ? l.etichetta!.replace(/^.*\s(\d+)$/, "$1") : l.etichetta!;
+        const cx = x(anni.indexOf(l.anno)), w = t.length * cw;
+        const sinistra = cx - w / 2 < SX, destra = cx + w / 2 > L - DX;
+        return { l, t, riga: k % 2, ancora: sinistra ? "start" : destra ? "end" : "middle", ax: sinistra ? SX : destra ? L - DX : cx };
+      })
+    : [];
+  const nRighe = etichette.length > 1 ? 2 : 1;
   const TOP = conEtichetteLeggi ? (stretto ? 38 : 30) + 14 * (nRighe - 1) : (stretto ? 24 : 14);
   const SU = TOP + (serie.some((s) => s.massimo) ? 12 : 0); // spazio per l'etichetta del massimo sopra il punto
   const yRiga = (r: number) => TOP - 12 - 14 * r;
@@ -82,10 +88,10 @@ export default function GraficoSerie({ anni, serie, leggi, conEtichetteLeggi, al
       ))}
       {leggi.map((l) => {
         const i = anni.indexOf(l.anno), k = etichette.findIndex((e) => e.l === l);
-        return <line key={l.anno} className="g-legge" x1={x(i)} x2={x(i)} y1={k >= 0 ? yRiga(righe[k]) + 3 : SU - 6} y2={altezza - GIU} />;
+        return <line key={l.anno} className="g-legge" x1={x(i)} x2={x(i)} y1={k >= 0 ? yRiga(etichette[k].riga) + 3 : SU - 6} y2={altezza - GIU} />;
       })}
-      {etichette.map((e, k) => (
-        <text key={e.l.anno} className="g-sigla" x={e.a} y={yRiga(righe[k])}>{e.l.etichetta}</text>
+      {etichette.map((e) => (
+        <text key={e.l.anno} className="g-sigla" x={e.ax} y={yRiga(e.riga)} textAnchor={e.ancora as "start" | "middle" | "end"}>{e.t}</text>
       ))}
       {anni.map((a, i) => (
         <text key={a} className="g-anno" x={x(i)} y={altezza - 8} textAnchor="middle">{stretto ? annoBreve(a) : a}</text>
