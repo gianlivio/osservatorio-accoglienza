@@ -264,3 +264,9 @@ th.num .ordina{flex-direction:row-reverse}
 .nota-province{margin:14px 0 0}
 .pagina-costo .sezione > p:not([class]),.pagina-costo .chiuso > p:not([class]){margin-bottom:14px}
 .pagina-costo .chiuso{margin-top:14px}
+.barra-anni a.con-legge{font-weight:700}
+.tabella-leggi tr.gruppo th{text-align:left;font-family:var(--dato);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--tenue);padding:22px 0 8px;border-bottom:1px solid var(--linea)}
+@media (max-width:600px){
+  .tabella-leggi tr.gruppo{display:block;padding:18px 0 0;border-bottom:0}
+  .tabella-leggi tr.gruppo th{display:block;padding:0 0 6px}
+}

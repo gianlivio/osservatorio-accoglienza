@@ -42,6 +42,20 @@ const altCentri =
   `SAI da ${nItal(c.centri.presenze[primoCentri].sai)} a ${nItal(c.centri.presenze[ultimoCentri].sai)}; ` +
   `prima accoglienza da ${nItal(c.centri.presenze[primoCentri].prima_accoglienza)} a ${nItal(c.centri.presenze[ultimoCentri].prima_accoglienza)}. I dati partono dal ${primoCentri}. I valori di ogni anno sono nei blocchi sotto.`;
 
+function RigaLegge({ a }: { a: Atto }) {
+  return (
+    <tr>
+      <td>{a.anno}</td>
+      <td>
+        {a.sigla ?? a.atto}
+        {a.noto_come.length > 0 && <small>noto come {notoCome(a.noto_come)}</small>}
+      </td>
+      <td>{a.in_breve}</td>
+      <td><a href={Number(a.anno) < Number(primo) ? "#prima-del-2015" : `#anno-${a.anno}`} className="link-interno">vai →</a></td>
+    </tr>
+  );
+}
+
 function Atto({ a }: { a: Atto }) {
   const noto = notoCome(a.noto_come);
   return (
@@ -81,24 +95,16 @@ export default function DieciAnni() {
             <tr><th>Anno</th><th>Nome</th><th>Cosa cambia</th><th>Blocco</th></tr>
           </thead>
           <tbody>
-            {[...c.origine, ...c.leggi].map((a) => (
-              <tr key={a.anno}>
-                <td>{a.anno}</td>
-                <td>
-                  {a.sigla ?? a.atto}
-                  {a.noto_come.length > 0 && <small>noto come {notoCome(a.noto_come)}</small>}
-                </td>
-                <td>{a.in_breve}</td>
-                <td><a href={Number(a.anno) < Number(primo) ? "#prima-del-2015" : `#anno-${a.anno}`} className="link-interno">vai →</a></td>
-              </tr>
-            ))}
+            {c.leggi.map((a) => <RigaLegge key={a.anno} a={a} />)}
+            <tr className="gruppo"><th colSpan={4}>Prima del {primo}</th></tr>
+            {c.origine.map((a) => <RigaLegge key={a.anno} a={a} />)}
           </tbody>
         </table>
       </section>
 
       <nav className="barra-anni" aria-label="Vai all'anno">
         {anni.map((a) => (
-          <a key={a} href={`#anno-${a}`}>{a}</a>
+          <a key={a} href={`#anno-${a}`} className={c.leggi.some((l) => l.anno === a) ? "con-legge" : undefined}>{a}</a>
         ))}
       </nav>
 
