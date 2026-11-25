@@ -1,0 +1,510 @@
+{
+ "estratto": "2026-11-25",
+ "fonte": "Ministero del Lavoro e delle Politiche Sociali, rapporti semestrali sui minori stranieri non accompagnati in Italia, dati al 31 dicembre; paragrafo 3.3 «Dati di flusso – Ingressi e uscite di competenza»",
+ "periodo": "anno solare",
+ "non_usati": [
+  "sem-2023-06.pdf: dà solo il primo semestre",
+  "sem-2024-06.pdf: dà solo il primo semestre",
+  "sem-2025-06.pdf: dà solo il primo semestre"
+ ],
+ "note": [
+  "I rapporti consolidano i dati: il totale 2024 è 14.828 nel rapporto al 31 dicembre 2024; il rapporto 2025 scrive che il 2025 è +235 unità rispetto al 2024 (p. 20), cioè 15.993 per il 2024. Ogni anno porta la cifra del proprio rapporto.",
+  "Nei rapporti le quote per cittadinanza sono scritte con 0 o 1 decimale, a volte con «oltre», «quasi» o «circa»: si riportano come scritte."
+ ],
+ "anni": {
+  "2023": {
+   "rapporto": "sem-2023-12.pdf",
+   "data": "2023-12-31",
+   "periodo": "anno solare",
+   "ingressi_totali": {
+    "valore": 27476,
+    "approssimazione": null,
+    "testo": "ha censito nel SIM (Sistema Informativo Minori) l’ingresso nel Paese di 27.476 minori stranieri non accompagnati",
+    "pagina": 19
+   },
+   "sbarchi": {
+    "numero": {
+     "valore": 17000,
+     "approssimazione": "oltre",
+     "testo": "sono oltre 17mila i minori arrivati in Italia via mare",
+     "pagina": 19
+    },
+    "percentuale": {
+     "valore": 62,
+     "decimali": 0,
+     "approssimazione": null,
+     "testo": "rappresentano il 62% del totale dei minori censiti nell’anno 2023 come nuovi ingressi",
+     "pagina": 19
+    }
+   },
+   "cittadinanze": [
+    {
+     "nome": "Egitto",
+     "ingressi": 4984,
+     "quota_ingressi": {
+      "valore": 18,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "l’Egitto, con 4.984 minori, pari al 18% dei nuovi ingressi",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 42,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "il 42% dei minori egiziani è arrivato via mare",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Tunisia",
+     "ingressi": 4034,
+     "quota_ingressi": {
+      "valore": 14.7,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "la Tunisia, con 4.034 minori, pari al 14,7% del totale degli ingressi censiti",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 65,
+      "decimali": 0,
+      "approssimazione": "quasi",
+      "testo": "Quasi il 65% dei tunisini sono arrivati in seguito ad eventi di sbarchi",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Guinea",
+     "ingressi": 3650,
+     "quota_ingressi": {
+      "valore": 13.3,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "la Guinea, con 3.650 minori, pari al 13,3% del totale degli ingressi censiti nel 2023",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 87.6,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "ha fatto ingresso in Italia in seguito ad eventi di sbarco (l’87,6%)",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Gambia",
+     "ingressi": 2261,
+     "quota_ingressi": {
+      "valore": 8.3,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "il Gambia, con 2.261 minori, pari all’8,3% del totale dei nuovi ingressi",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 85.6,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "la modalità di ingresso prevalente è in seguito ad eventi di sbarco (85,6%)",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Costa d'Avorio",
+     "ingressi": 2630,
+     "quota_ingressi": {
+      "valore": 7.5,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "la Costa d’Avorio con 2.630 minori (7,5%)",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 85.5,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "I minori dalla Costa d’Avorio arrivano prevalentemente via mare (85,5%)",
+      "pagina": 21
+     },
+     "incoerenza": {
+      "altro_valore": 2063,
+      "altro_testo": "la Costa d’Avorio: paese di origine di 2.063 minori entrati in Italia nel 2023",
+      "altra_pagina": 22,
+      "nota": "A p. 21 il rapporto scrive 2.630 minori (7,5%); 2.630 sono il 9,6% di 27.476. A p. 22 scrive 2.063 minori, che sono il 7,5%: probabile inversione di cifre in p. 21."
+     }
+    },
+    {
+     "nome": "Afghanistan",
+     "ingressi": 1295,
+     "quota_ingressi": {
+      "valore": 4.7,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "l’Afghanistan con 1.295 minori (4,7%)",
+     "pagina": 21,
+     "sbarco": null,
+     "nota": {
+      "testo": "i minori afghani hanno utilizzato nel 2023 soprattutto rotte terresti (94,7%)",
+      "pagina": 21,
+      "avviso": "Il rapporto non dà la quota via mare per l’Afghanistan: indica solo le rotte terrestri."
+     }
+    }
+   ]
+  },
+  "2024": {
+   "rapporto": "sem-2024-12.pdf",
+   "data": "2024-12-31",
+   "periodo": "anno solare",
+   "ingressi_totali": {
+    "valore": 14828,
+    "approssimazione": null,
+    "testo": "ha censito nel SIM (Sistema Informativo Minori) l’ingresso nel Paese di 14.828 minori stranieri non accompagnati",
+    "pagina": 20
+   },
+   "sbarchi": {
+    "numero": {
+     "valore": 8000,
+     "approssimazione": "quasi",
+     "testo": "sono quasi 8mila i minori arrivati in Italia via mare",
+     "pagina": 20
+    },
+    "percentuale": {
+     "valore": 53,
+     "decimali": 0,
+     "approssimazione": null,
+     "testo": "rappresentano il 53% del totale dei minori censiti nell’anno 2024 come nuovi ingressi",
+     "pagina": 20
+    }
+   },
+   "cittadinanze": [
+    {
+     "nome": "Egitto",
+     "ingressi": 3140,
+     "quota_ingressi": {
+      "valore": 21,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "l’Egitto, con 3.140 minori, pari al 21% dei nuovi ingressi",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 25,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "il 25% dei minori egiziani è arrivato via mare",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Tunisia",
+     "ingressi": 2213,
+     "quota_ingressi": {
+      "valore": 15,
+      "decimali": 0,
+      "approssimazione": "circa",
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "la Tunisia, con 2.213 minori, pari al 15% circa del totale degli ingressi censiti",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 63,
+      "decimali": 0,
+      "approssimazione": "oltre",
+      "testo": "Oltre il 63% dei tunisini è arrivato in seguito ad eventi di sbarchi",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Gambia",
+     "ingressi": 1280,
+     "quota_ingressi": {
+      "valore": 8.6,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 22
+     },
+     "testo": "il Gambia, con 1.280 minori, pari all’8,6% del totale dei nuovi ingressi",
+     "pagina": 22,
+     "sbarco": {
+      "valore": 74.3,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "la modalità di ingresso prevalente è in seguito ad eventi di sbarco (74,3%)",
+      "pagina": 22
+     }
+    },
+    {
+     "nome": "Guinea",
+     "ingressi": 1262,
+     "quota_ingressi": {
+      "valore": 8.5,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 22
+     },
+     "testo": "la Guinea, con 1.262 minori, pari all’8,5% del totale degli ingressi censiti nel 2024",
+     "pagina": 22,
+     "sbarco": {
+      "valore": 88,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "ha fatto ingresso in Italia in seguito ad eventi di sbarco (l’88%)",
+      "pagina": 22
+     }
+    },
+    {
+     "nome": "Eritrea",
+     "ingressi": 699,
+     "quota_ingressi": {
+      "valore": 4.7,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 22
+     },
+     "testo": "l’Eritrea con 699 minori (4,7% del totale)",
+     "pagina": 22,
+     "sbarco": {
+      "valore": 82,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "arrivati in gran parte in seguito ad eventi di sbarco (82%)",
+      "pagina": 22
+     }
+    },
+    {
+     "nome": "Siria",
+     "ingressi": 699,
+     "quota_ingressi": {
+      "valore": 4.7,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 22
+     },
+     "testo": "la Siria con 699 minori (4,7%)",
+     "pagina": 22,
+     "sbarco": {
+      "valore": 78.4,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "I minori dalla Siria sono arrivati prevalentemente via mare (78,4%)",
+      "pagina": 22
+     }
+    },
+    {
+     "nome": "Bangladesh",
+     "ingressi": 661,
+     "quota_ingressi": {
+      "valore": 4.5,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 22
+     },
+     "testo": "il Bangladesh con 661 minori (4,5%)",
+     "pagina": 22,
+     "sbarco": {
+      "valore": 61,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "i minori bangladesi arrivati via mare sono stati il 61%",
+      "pagina": 22
+     }
+    }
+   ]
+  },
+  "2025": {
+   "rapporto": "sem-2025-12.pdf",
+   "data": "2025-12-31",
+   "periodo": "anno solare",
+   "ingressi_totali": {
+    "valore": 16228,
+    "approssimazione": null,
+    "testo": "ha censito nel SIM (Sistema Informativo Minori) l’ingresso nel Paese di 16.228 minori stranieri non accompagnati",
+    "pagina": 20
+   },
+   "sbarchi": {
+    "numero": {
+     "valore": 9000,
+     "approssimazione": "oltre",
+     "testo": "sono oltre 9mila i minori arrivati in Italia via mare",
+     "pagina": 20
+    },
+    "percentuale": {
+     "valore": 56,
+     "decimali": 0,
+     "approssimazione": null,
+     "testo": "rappresentano il 56% del totale dei minori censiti nell’anno come nuovi ingressi",
+     "pagina": 20
+    }
+   },
+   "cittadinanze": [
+    {
+     "nome": "Egitto",
+     "ingressi": 5656,
+     "quota_ingressi": {
+      "valore": 35,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "l’Egitto, con 5.656 minori, pari al 35% dei nuovi ingressi",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 43,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "il 43% dei minori egiziani è arrivato via mare",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Bangladesh",
+     "ingressi": 2096,
+     "quota_ingressi": {
+      "valore": 13,
+      "decimali": 0,
+      "approssimazione": "circa",
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "il Bangladesh, con 2.096 minori, pari al 13% circa del totale degli ingressi censiti",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 65,
+      "decimali": 0,
+      "approssimazione": "quasi",
+      "testo": "Quasi il 65% dei bangladesi è arrivato in seguito ad eventi di sbarchi",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Eritrea",
+     "ingressi": 1793,
+     "quota_ingressi": {
+      "valore": 11,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "l’Eritrea, con 1.793 minori, pari all’11% del totale dei nuovi ingressi",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 93.4,
+      "decimali": 1,
+      "approssimazione": null,
+      "testo": "la modalità di ingresso prevalente è in seguito ad eventi di sbarco (93,4%)",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Somalia",
+     "ingressi": 1115,
+     "quota_ingressi": {
+      "valore": 7,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "la Somalia, con 1.115 minori, pari al 7% del totale degli ingressi censiti nel 2025",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 92,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "ha fatto ingresso in Italia in seguito ad eventi di sbarco (il 92%)",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Tunisia",
+     "ingressi": 641,
+     "quota_ingressi": {
+      "valore": 4,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "Tunisia con 641 minori (4% del totale)",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 41,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "i minori arrivati via mare sono stati rispettivamente il 41%, il 92% e l’85%",
+      "pagina": 21
+     },
+     "nota": {
+      "testo": "Per i tre paesi i minori arrivati via mare sono stati rispettivamente il 41%, il 92% e l’85%",
+      "pagina": 21,
+      "avviso": "Il rapporto dà le tre quote insieme, nell’ordine Tunisia, Etiopia, Sudan."
+     }
+    },
+    {
+     "nome": "Etiopia",
+     "ingressi": 508,
+     "quota_ingressi": {
+      "valore": 3,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "l’Etiopia con 508 minori (3%)",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 92,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "i minori arrivati via mare sono stati rispettivamente il 41%, il 92% e l’85%",
+      "pagina": 21
+     }
+    },
+    {
+     "nome": "Sudan",
+     "ingressi": 473,
+     "quota_ingressi": {
+      "valore": 3,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "",
+      "pagina": 21
+     },
+     "testo": "il Sudan con 473 minori (3%)",
+     "pagina": 21,
+     "sbarco": {
+      "valore": 85,
+      "decimali": 0,
+      "approssimazione": null,
+      "testo": "i minori arrivati via mare sono stati rispettivamente il 41%, il 92% e l’85%",
+      "pagina": 21
+     }
+    }
+   ]
+  }
+ }
+}
