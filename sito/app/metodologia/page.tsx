@@ -5,7 +5,8 @@ import { centri } from "@/lib/centri";
 import { ATTO_AVELLINO, ATTO_CAPITOLATO, POCKET_MONEY } from "@/lib/capitolato";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
-import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct } from "@/lib/dati";
+import { dati as datiPaesi, paesi as elencoPaesi, periodoPaesi } from "@/lib/paesi";
+import { totale, anni, serieAnni, euro, euroCent, province, nItal, esclusiAMano, pct, dataLunga } from "@/lib/dati";
 
 export const metadata = metadatiPagina(
   "Metodologia e limiti · Osservatorio Accoglienza",
@@ -14,6 +15,7 @@ export const metadata = metadatiPagina(
 
 export default function Metodologia() {
   const primo = anni[0], ultimo = anni[anni.length - 1];
+  const ue = datiPaesi.fonti.eurostat, uc = datiPaesi.fonti.ucdp, cu = datiPaesi.confronto_unhcr;
   const senzaProvincia = totale.affidamenti - province.reduce((n, p) => n + p.totale.affidamenti, 0);
   return (
     <main>
@@ -160,6 +162,52 @@ export default function Metodologia() {
             ))}
           </tbody>
         </table>
+      </section>
+
+      <section className="sezione" id="paesi">
+        <h2 className="titolo-sezione">Paesi di provenienza</h2>
+        <p>
+          Le pagine <Link href="/paesi" className="link-interno">Da dove arrivano</Link> riguardano {elencoPaesi.length} paesi: quelli comparsi tra le prime dieci
+          cittadinanze dei minori presenti (Ministero del Lavoro) o degli sbarcati (Ministero dell&apos;Interno) dal 2016. Gli anni sono {periodoPaesi}.
+        </p>
+        <p>
+          <b>Richiedenti asilo e decisioni.</b> Eurostat, dati per l&apos;Italia: tabelle {ue.richiedenti.dataset} (richiedenti), {ue.decisioni.dataset} (decisioni di prima istanza per tipo)
+          e {ue.minori.dataset} (minori non accompagnati richiedenti), sesso ed età totali. Estratti il {dataLunga(datiPaesi.estratto)}; ultimo aggiornamento della tabella delle decisioni:{" "}
+          {dataLunga(ue.decisioni.aggiornamento)}. Eurostat arrotonda i valori a multipli di {ue.arrotondamento} e, nel file scaricato, un valore assente non ha un simbolo: qui un valore assente
+          fermerebbe la build. Licenza CC BY 4.0; i dati sono rielaborati da questo sito.
+        </p>
+        <p>
+          <b>Controlli.</b> Sono tre, e se uno non torna la build si ferma. Il totale delle decisioni dell&apos;Italia nel 2025 è {nItal(datiPaesi.italia["2025"].totale)}, la cifra pubblicata
+          dall&apos;Asylum Information Database (AIDA) su dati Eurostat: l&apos;unica cifra esterna ai dati di questa sezione, usata solo per il controllo. Per ogni paese e anno, il totale delle decisioni e la
+          somma dei quattro tipi (status di rifugiato, protezione sussidiaria, motivi umanitari, rifiuti) possono differire al più di 10, per l&apos;arrotondamento a {ue.arrotondamento}.
+          Ogni paese ha tutti gli anni {periodoPaesi} in tutte e tre le tabelle Eurostat.
+        </p>
+        <p>
+          <b>Confronto con UNHCR.</b> Ho confrontato Eurostat con i dati UNHCR (Refugee Data Finder, API pubblica) sull&apos;Italia, per domande, decisioni totali e decisioni positive
+          (riconosciute e altre), nelle celle con almeno una cifra di {nItal(cu.soglia)}. La mediana dello scarto assoluto è {pct(cu.misure.domande.mediana_pct)} per le domande,{" "}
+          {pct(cu.misure.decisioni.mediana_pct)} per le decisioni totali, {pct(cu.misure["decisioni positive"].mediana_pct)} per le decisioni positive; gli scarti oltre il 20% sono
+          {" "}{nItal(cu.misure.domande.oltre_20_pct)} su {nItal(cu.misure.domande.celle)}, {nItal(cu.misure.decisioni.oltre_20_pct)} su {nItal(cu.misure.decisioni.celle)} e{" "}
+          {nItal(cu.misure["decisioni positive"].oltre_20_pct)} su {nItal(cu.misure["decisioni positive"].celle)}. I cinque scarti maggiori:{" "}
+          {cu.maggiori.map((m, i) => (
+            <span key={i}>{i > 0 && "; "}{m.paese} {m.anno}, {m.misura}, Eurostat {nItal(m.eurostat)} e UNHCR {nItal(m.unhcr)}</span>
+          ))}.
+          Per le decisioni positive, nei casi più grandi la cifra UNHCR è vicina a quella di Eurostat senza i motivi umanitari. È un&apos;ipotesi, non verificata: non ho potuto leggere
+          la definizione UNHCR di decisione positiva, e le pagine di metodologia e di licenza del sito UNHCR non erano raggiungibili. Per questo le cifre UNHCR non sono usate nelle pagine dei paesi.
+          Il Kosovo non è confrontabile: UNHCR lo riporta insieme alla Serbia.
+        </p>
+        <p>
+          <b>Conflitti armati.</b> Uppsala Conflict Data Program (UCDP), versione {uc.versione}, licenza {uc.licenza}: Battle-related Deaths (morti in combattimenti tra forze armate, per conflitto e anno),
+          One-sided Violence (morti per violenza di un governo o di un gruppo organizzato contro civili) e Non-state Conflict (morti in conflitti tra gruppi non statali). Si usa la stima migliore.
+          UCDP include un conflitto solo se causa almeno {uc.soglia_morti} morti in un anno: un anno senza riga non significa zero morti. Si sommano per paese e anno le sole righe riferite a un paese; le
+          righe che riguardano più paesi insieme non si attribuiscono a nessuno e nelle pagine sono segnalate a parte.
+        </p>
+        <p>
+          <b>Minori presenti.</b> Dal file della cittadinanza dei minori (vedi <Link href="/minori" className="link-interno">Minori non accompagnati</Link>): compare solo se il paese è tra le
+          cittadinanze riportate dal report del 31 dicembre; dal 2023 i report riportano solo le prime.
+        </p>
+        <p>
+          <b>ecoi.net.</b> Ogni pagina rinvia alla pagina del paese su ecoi.net; il sito non ne riprende i testi.
+        </p>
       </section>
 
       <section className="sezione">
