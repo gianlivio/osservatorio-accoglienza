@@ -1,5 +1,6 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
+import Televisore from "@/app/Televisore";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
 
@@ -13,42 +14,47 @@ export default function CheCose() {
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Che cos'è", percorso: "/che-cose" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
-      <p className="occhiello">In parole semplici</p>
-      <h1 className="tesi">Che cos&apos;è <em>questo sito</em>.</h1>
+      <div className="apertura-figura">
+        <div>
+          <p className="occhiello">In parole semplici</p>
+          <h1 className="tesi">Che cos&apos;è <em>questo sito</em>.</h1>
 
-      <div className="prosa">
-        <p>
-          Quando in Italia arriva una persona che chiede asilo, qualcuno deve darle un posto
-          dove dormire, da mangiare, qualcuno che la segua. Lo Stato questo lavoro non lo fa
-          da sé: lo compra da cooperative e associazioni.
-        </p>
-        <p>
-          Funziona come quando il Comune deve rifare una strada e chiama un&apos;impresa. Si fa
-          un contratto, si stabilisce un prezzo, si firma. Ogni contratto di questo tipo è
-          pubblico: chiunque potrebbe andare a vederlo.
-        </p>
-        <p>
-          Il problema è che &laquo;chiunque potrebbe&raquo; non vuol dire &laquo;qualcuno lo
-          fa&raquo;. Quei contratti sono migliaia, scritti in un linguaggio che capiscono solo
-          gli addetti ai lavori, sparsi in archivi diversi. Per sapere chi si occupa
-          dell&apos;accoglienza nella tua provincia, e a quali condizioni, oggi servono
-          settimane di richieste agli uffici.
-        </p>
-        <p>
-          Questo sito prende quei contratti, li mette in ordine e li scrive in modo leggibile.
-          Provincia per provincia: quanti sono, quanto valgono, chi li ha ricevuti, se sono
-          stati assegnati con una gara oppure scegliendo direttamente.
-        </p>
-        <p>
-          Non dice se le cose vanno bene o male. Non accusa nessuno. Mostra i numeri e lascia
-          che ognuno se ne faccia un&apos;idea: un giornalista che vuole scrivere sulla propria
-          città, un operatore che vuole capire perché nel suo centro mancano le risorse, un
-          cittadino che vuole sapere dove finiscono i soldi pubblici.
-        </p>
-        <p>
-          Tutto quello che c&apos;è dentro viene da archivi ufficiali. Chiunque può controllare
-          che i conti tornino.
-        </p>
+          <div className="prosa">
+            <p>
+              Quando in Italia arriva una persona che chiede asilo, qualcuno deve darle un posto
+              dove dormire, da mangiare, qualcuno che la segua. Lo Stato questo lavoro non lo fa
+              da sé: lo compra da cooperative e associazioni.
+            </p>
+            <p>
+              Funziona come quando il Comune deve rifare una strada e chiama un&apos;impresa. Si fa
+              un contratto, si stabilisce un prezzo, si firma. Ogni contratto di questo tipo è
+              pubblico: chiunque potrebbe andare a vederlo.
+            </p>
+            <p>
+              Il problema è che &laquo;chiunque potrebbe&raquo; non vuol dire &laquo;qualcuno lo
+              fa&raquo;. Quei contratti sono migliaia, scritti in un linguaggio che capiscono solo
+              gli addetti ai lavori, sparsi in archivi diversi. Per sapere chi si occupa
+              dell&apos;accoglienza nella tua provincia, e a quali condizioni, oggi servono
+              settimane di richieste agli uffici.
+            </p>
+            <p>
+              Questo sito prende quei contratti, li mette in ordine e li scrive in modo leggibile.
+              Provincia per provincia: quanti sono, quanto valgono, chi li ha ricevuti, se sono
+              stati assegnati con una gara oppure scegliendo direttamente.
+            </p>
+            <p>
+              Non dice se le cose vanno bene o male. Non accusa nessuno. Mostra i numeri e lascia
+              che ognuno se ne faccia un&apos;idea: un giornalista che vuole scrivere sulla propria
+              città, un operatore che vuole capire perché nel suo centro mancano le risorse, un
+              cittadino che vuole sapere dove finiscono i soldi pubblici.
+            </p>
+            <p>
+              Tutto quello che c&apos;è dentro viene da archivi ufficiali. Chiunque può controllare
+              che i conti tornino.
+            </p>
+          </div>
+        </div>
+        <Televisore />
       </div>
 
       <section className="sezione">

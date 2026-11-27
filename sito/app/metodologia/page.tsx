@@ -76,7 +76,7 @@ export default function Metodologia() {
           <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank" rel="noopener" className="link-interno">CC BY 4.0</a>), semplificati per il sito con lo script script/mappa.py.
         </p>
         <p>
-          Nella pagina <Link href="/quanto-costa">Quanto costa l&apos;accoglienza</Link> la cifra di{" "}
+          Nella pagina <Link href="/quanto-costa">Quanto costa l&apos;accoglienza</Link> e nel sottopancia di <Link href="/che-cose">Che cos&apos;è</Link> la cifra di{" "}
           {euroCent(POCKET_MONEY)} al giorno per persona per il pocket money non viene dai nostri dati: è
           riportata da un atto della Prefettura di Chieti (
           <a href={ATTO_CAPITOLATO} target="_blank" rel="noopener" className="link-interno">decisione di contrarre</a>,

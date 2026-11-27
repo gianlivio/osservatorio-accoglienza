@@ -18,6 +18,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - `.github/workflows/aggiorna.yml`: il 25 di ogni mese apre una issue con i comandi di aggiornamento.
 - `sito/app/`: pagine `/`, `/che-cose`, `/minori`, `/metodologia`, `/quanto-costa`, `/dieci-anni`, `/provincia/[slug]` (con `feed.xml`), `/ente/[slug]`, `/feed.xml`, `/ricerca.json`, `sitemap.ts`, `robots.ts`; nel primo caricamento della home ci sono, oltre alla tabella, solo `Ricerca.tsx` e `Figura3DLoader.tsx`. Le figure in rilievo (home, `/quanto-costa`, `/dieci-anni`, `/minori`) passano da `Figura3D.tsx`: SVG statico al build (`Figura3DStatico.tsx`) e canvas in un pacchetto separato (`Figura3DTela.tsx`).
 - `sito/lib/`: `dati.ts` (tipi, `slug`, `nomeProvincia`, `nItal`, `euro`), `enti.ts`, `centri.ts`, `regioni.ts` (provincia→regione), `scena3d.ts`, `mappa3d.ts`, `anni3d.ts` e `motori.ts` (motori delle figure in rilievo, comuni all'SVG del build e al canvas; non importano dati), `figure.ts` e `italiaDati.ts` (dati e testi delle figure, scaricati dal browser da `/figure/[nome]`), `nomi.ts` (`nomeEnte`), `jsonld.ts`, `metadati.ts`, `feed.ts`.
+- Televisore di `/che-cose` (`Televisore.tsx`, `SchermoTv.tsx`, `lib/tv.ts`): foto in `sito/public/tv/`, con autore, licenza e pagina di Wikimedia Commons in `sito/data/tv.json`. Solo licenze libere (CC0, pubblico dominio, CC BY, CC BY-SA); niente volti riconoscibili, minori, sofferenza esplicita o loghi di testate.
 - `sito/data/`: `province-lite.json` (totali e anni per provincia, caricato dalla home), `provincia/<slug>.json`, `ente/<slug>.json` + `enti.json`, `centri.json`, `msna.json`. `sito/public/dati/`: CSV scaricabili (uno per provincia, `contratti.csv`).
 
 ## Rigenerare i dati (dalla radice del repo)
@@ -39,7 +40,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 ## Registro del copy
 - Preciso, piano, senza interpretazioni (niente "solo", "elevato", "preoccupante"). Modello di voce: la pagina `/che-cose`.
 - Cifre solo dai dati, mai scritte a mano: si leggono da JSON o da `nItal`/`euro` (separatore delle migliaia sempre attivo).
-- Unica eccezione: il pocket money di 2,50 € al giorno in `/quanto-costa` non viene dai dati ma da una decisione di contrarre della Prefettura di Chieti (prot. 41889 del 10/05/2024, che applica il capitolato del D.M. 4 marzo 2024); l'obbligo di versarlo in denaro da una determinazione a contrarre della Prefettura di Avellino (prot. 36387 del 22/04/2024). Sta in `sito/lib/capitolato.ts` ed è dichiarata in `/metodologia` e nella pagina; nessun'altra cifra esterna senza dichiararla così.
+- Unica eccezione: il pocket money di 2,50 € al giorno in `/quanto-costa` non viene dai dati ma da una decisione di contrarre della Prefettura di Chieti (prot. 41889 del 10/05/2024, che applica il capitolato del D.M. 4 marzo 2024); l'obbligo di versarlo in denaro da una determinazione a contrarre della Prefettura di Avellino (prot. 36387 del 22/04/2024). Sta in `sito/lib/capitolato.ts`, è usata in `/quanto-costa` e nel sottopancia di `/che-cose` ed è dichiarata in `/metodologia` e nelle due pagine; nessun'altra cifra esterna senza dichiararla così.
 - Dove un dato manca, si dice ("n.d.", "nessun centro nei dati"), non si mette 0.
 
 ## SEO

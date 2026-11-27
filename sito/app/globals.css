@@ -392,3 +392,39 @@ th.num .ordina{flex-direction:row-reverse}
   .globo-ricentra span{border-bottom:1px solid var(--linea)}
 }
 @media (prefers-reduced-motion:reduce){.globo-play,.globo-ricentra{transition:none}}
+.tv{margin-bottom:10px}
+.tv-antenna{display:block;width:120px;height:36px;margin:0 auto -2px;stroke:var(--inchiostro);stroke-width:2.5;fill:var(--inchiostro)}
+.tv-mobile{background:var(--inchiostro);border-radius:22px;padding:14px 14px 10px}
+.tv-schermo{position:relative;aspect-ratio:4/3;background:#101311;border-radius:14px;overflow:hidden}
+.tv-schermo canvas{display:block;width:100%;height:100%}
+.tv-schermo noscript img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+/* effetto da schermo, uguale per tutte le foto: righe e vignettatura sopra l'immagine */
+.tv-schermo::after{content:"";position:absolute;inset:0;pointer-events:none;border-radius:inherit;
+  background:repeating-linear-gradient(to bottom,rgba(0,0,0,.09) 0 1px,transparent 1px 3px);
+  box-shadow:inset 0 0 46px 8px rgba(0,0,0,.45)}
+.tv-sottopancia{margin-top:10px;overflow:hidden;background:var(--timbro);color:var(--carta);font-family:var(--dato);font-size:13px;line-height:20px}
+.tv-nastro{display:flex;width:max-content;animation:tv-scorri 60s linear infinite}
+.tv-nastro ul{display:flex;list-style:none}
+.tv-nastro li{white-space:nowrap}
+.tv-nastro li::after{content:"■";font-size:8px;vertical-align:middle;opacity:.7}
+.tv-nastro a{display:inline-block;padding:10px 14px;color:inherit}
+.tv-nastro a:hover{text-decoration:underline}
+.tv-nastro a:focus-visible{outline:2px solid var(--carta);outline-offset:-4px}
+.tv:hover .tv-nastro{animation-play-state:paused}
+/* con la tastiera il nastro si ferma e scorre fino al collegamento scelto */
+.tv-sottopancia:focus-within{overflow-x:auto}
+.tv-sottopancia:focus-within .tv-nastro{animation:none}
+@keyframes tv-scorri{to{transform:translateX(-50%)}}
+.tv-comandi{display:flex;align-items:center;gap:8px;padding:10px 6px 0}
+.tv-comandi i{width:12px;height:12px;border-radius:50%;background:var(--tenue)}
+.tv-comandi span{margin-left:auto;width:90px;height:10px;background:repeating-linear-gradient(to right,var(--tenue) 0 3px,transparent 3px 8px)}
+.tv-crediti{font-size:12px;line-height:1.5;color:var(--tenue);margin-top:8px}
+.tv-crediti a{text-decoration:underline;text-decoration-color:var(--linea)}
+@media (prefers-reduced-motion:reduce){
+  .tv-nastro{animation:none;display:block;width:auto}
+  .tv-nastro ul{display:block}
+  .tv-nastro li{white-space:normal;border-bottom:1px solid color-mix(in srgb,var(--carta) 25%,transparent)}
+  .tv-nastro li::after{content:none}
+  .tv-nastro a{padding:7px 12px}
+  .tv-nastro .tv-copia{display:none}
+}
