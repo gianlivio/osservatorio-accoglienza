@@ -9,7 +9,8 @@ export default function GloboLoader({ children, ...props }: Props & { children: 
   const [Globo, setGlobo] = useState<ComponentType<Props> | null>(null);
   const ref = useRef<HTMLDivElement>(null);
   useEffect(() => {
-    const el = ref.current;
+    // il contenitore non ha un proprio riquadro (display: contents): si osserva il globo
+    const el = ref.current?.querySelector(".globo-tela");
     if (!el) return;
     let fatto = false, t = 0, idle = false;
     const carica = () => {
@@ -26,5 +27,5 @@ export default function GloboLoader({ children, ...props }: Props & { children: 
     io.observe(el);
     return () => { io.disconnect(); if (idle) (window as Window & { cancelIdleCallback?: (n: number) => void }).cancelIdleCallback?.(t); else clearTimeout(t); };
   }, []);
-  return Globo ? <Globo {...props} /> : <div ref={ref}>{children}</div>;
+  return Globo ? <Globo {...props} /> : <div ref={ref} className="globo-attesa">{children}</div>;
 }

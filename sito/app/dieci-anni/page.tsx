@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import Figura3D from "@/app/Figura3D";
 import GraficoSerie, { margineSinistro, type Serie } from "@/app/GraficoSerie";
@@ -82,12 +83,15 @@ export default function DieciAnni() {
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Dieci anni di accoglienza", percorso: "/dieci-anni" }])} />
-      <Link href="/" className="indietro">← vai ai dati</Link>
+      <Intestazione ritorno="vai ai dati">{primo}–{ultimo}</Intestazione>
       <div className="apertura-figura">
-        <div>
-          <p className="occhiello">{primo}–{ultimo}</p>
-          <h1 className="tesi">Leggi e numeri <em>dell&apos;accoglienza</em>.</h1>
-
+        <h1 className="tesi">Leggi e numeri <em>dell&apos;accoglienza</em>.</h1>
+        <Figura3D nome="dieci-anni">
+          <p className="mappa-didascalia">
+            Altezza: contratti per l&apos;accoglienza da 40.000 € in su, per anno (ANAC). I pannelli segnano l&apos;anno di ogni legge della tabella.
+          </p>
+        </Figura3D>
+        <div className="apertura-testo">
           <div className="prosa">
             <p>
               Dal {primo} al {ultimo} {numero(c.leggi.length)} leggi hanno cambiato il sistema di accoglienza: chi è accolto dagli enti locali e chi nei
@@ -96,11 +100,6 @@ export default function DieciAnni() {
             </p>
           </div>
         </div>
-        <Figura3D nome="dieci-anni">
-          <p className="mappa-didascalia">
-            Altezza: contratti per l&apos;accoglienza da 40.000 € in su, per anno (ANAC). I pannelli segnano l&apos;anno di ogni legge della tabella.
-          </p>
-        </Figura3D>
       </div>
 
       <section className="sezione" id="leggi-in-breve">

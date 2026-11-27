@@ -14,7 +14,7 @@ a{color:inherit;text-decoration:none}
 a:focus-visible{outline:2px solid var(--timbro);outline-offset:3px}
 
 .guscio{max-width:940px;margin:0 auto;padding:0 24px}
-.testata{border-bottom:2px solid var(--inchiostro);padding:28px 0 14px;margin-bottom:52px;
+.testata{border-bottom:2px solid var(--inchiostro);padding:16px 0 10px;margin-bottom:20px;
   display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap}
 .marchio{font-family:var(--display);font-weight:900;font-size:19px;
   letter-spacing:-.02em;text-transform:uppercase}
@@ -202,9 +202,16 @@ th.num .ordina{flex-direction:row-reverse}
 .mappa-legenda{list-style:none;display:flex;flex-wrap:wrap;gap:6px 18px;margin:12px 0 0;font-family:var(--dato);font-size:12px;color:var(--tenue)}
 .mappa-legenda li{display:flex;align-items:center;gap:6px;white-space:nowrap}
 .mappa-legenda i{display:inline-block;width:14px;height:14px;border:1px solid var(--linea)}
-.figura-a-lato{margin:0 auto 44px;max-width:540px}
+.intestazione{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:4px 16px;margin-bottom:12px}
+.intestazione .indietro,.intestazione .occhiello{margin:0}
+@media (max-width: 640px){.intestazione .indietro,.intestazione .occhiello{font-size:11px;letter-spacing:.08em}}
+.figura-a-lato{margin:0 auto 28px;max-width:540px}
 @media (min-width: 900px){
-  .apertura-figura{display:grid;grid-template-columns:minmax(0,1fr) 480px;column-gap:32px;align-items:start}
+  .apertura-figura{display:grid;grid-template-columns:minmax(0,1fr) 480px;column-gap:32px;align-items:start;
+    grid-template-areas:"titolo figura" "testo figura";grid-template-rows:auto 1fr}
+  .apertura-figura > .tesi{grid-area:titolo}
+  .apertura-figura > .apertura-testo{grid-area:testo}
+  .apertura-figura > .figura-a-lato{grid-area:figura}
   .apertura-figura .tesi{font-size:clamp(44px,5.4vw,52px)}
   .apertura-figura .sommario{margin-bottom:28px}
   .figura-a-lato{width:100%;margin:0 0 44px}
@@ -338,10 +345,12 @@ th.num .ordina{flex-direction:row-reverse}
 .elenco-atti li{margin-bottom:6px}
 .elenco-atti a{white-space:normal}
 
-/* ---- globo di /paesi ---- */
-.globo{display:grid;grid-template-columns:minmax(0,1fr) 300px;column-gap:32px;align-items:start;
-  grid-template-areas:"tela legenda" "barra legenda" "assi legenda" "vuoto legenda" "did did";grid-template-rows:auto auto auto 1fr auto;margin:8px 0 48px}
-.globo-tela{grid-area:tela;position:relative;width:100%;max-width:620px;aspect-ratio:1;margin:0 auto}
+/* ---- globo di /paesi: il globo nell'apertura, barra degli anni e legenda sotto, a tutta larghezza ---- */
+.apertura-globo{display:grid;grid-template-columns:minmax(0,1fr);grid-template-areas:"titolo" "tela" "testo" "barra" "assi" "legenda" "did";margin-bottom:36px}
+.apertura-globo > .tesi{grid-area:titolo}
+.apertura-globo > .apertura-testo{grid-area:testo}
+.globo,.globo-attesa{display:contents}
+.globo-tela{grid-area:tela;position:relative;width:100%;max-width:min(55vw,300px);aspect-ratio:1;margin:0 auto 20px;align-self:start}
 .globo-tela canvas,.globo-tela svg{display:block;width:100%;height:100%;touch-action:pan-y;user-select:none;-webkit-user-select:none}
 .globo-tip{position:absolute;z-index:2;pointer-events:none;background:var(--inchiostro);color:var(--carta);
   font-family:var(--dato);font-size:12px;line-height:1.35;padding:6px 10px;display:flex;flex-direction:column;
@@ -349,7 +358,7 @@ th.num .ordina{flex-direction:row-reverse}
 .globo-tip[hidden]{display:none}
 .globo-tip strong{font-family:var(--display);font-weight:700;font-size:14px}
 .globo-tip small{font-size:11px;opacity:.75;margin-top:2px}
-.globo-barra{grid-area:barra;display:flex;align-items:center;gap:12px;max-width:620px;width:100%;margin:10px auto 0}
+.globo-barra{grid-area:barra;display:flex;align-items:center;gap:12px;width:100%;min-height:44px;margin-top:10px}
 .globo-play{flex:none;width:44px;height:44px;border-radius:50%;border:1.5px solid var(--timbro);background:var(--carta);
   color:var(--timbro);display:grid;place-items:center;cursor:pointer}
 .globo-play:hover{background:var(--timbro);color:var(--carta)}
@@ -361,18 +370,18 @@ th.num .ordina{flex-direction:row-reverse}
   background:var(--timbro);border:3px solid var(--carta);box-shadow:0 0 0 1px var(--timbro)}
 .globo-anni::-moz-range-thumb{width:22px;height:22px;border-radius:50%;background:var(--timbro);border:3px solid var(--carta);box-shadow:0 0 0 1px var(--timbro)}
 .globo-anno{flex:none;font-family:var(--dato);font-weight:600;font-size:20px;min-width:3.2em;text-align:right}
-.globo-assi{grid-area:assi;display:flex;justify-content:space-between;align-items:center;gap:12px;max-width:620px;
-  width:100%;margin:0 auto;font-family:var(--dato);font-size:11px;color:var(--tenue);padding-left:56px}
+.globo-assi{grid-area:assi;display:flex;justify-content:space-between;align-items:center;gap:12px;
+  width:100%;min-height:38px;font-family:var(--dato);font-size:11px;color:var(--tenue);padding-left:56px}
 .globo-ricentra{font-family:var(--dato);font-size:12px;color:var(--tenue);background:none;border:0;border-bottom:1px solid var(--linea);
   padding:10px 0;cursor:pointer}
 .globo-ricentra:hover{color:var(--inchiostro);border-color:var(--inchiostro)}
-.globo-legenda{grid-area:legenda;font-family:var(--dato);font-size:12px}
+.globo-legenda{grid-area:legenda;margin-top:16px;font-family:var(--dato);font-size:12px}
 .globo-chiave{display:flex;flex-wrap:wrap;gap:4px 14px;color:var(--tenue);margin-bottom:12px}
 .globo-chiave span,.globo-legenda li a{display:flex;align-items:center;gap:8px}
 .globo-chiave i,.globo-legenda li i{display:inline-block;width:10px;height:10px;border-radius:2px;flex:none}
 .globo-legenda-titolo{color:var(--tenue);border-bottom:1px solid var(--inchiostro);padding-bottom:6px;margin-bottom:2px}
-.globo-legenda ol{list-style:none}
-.globo-legenda li{border-bottom:1px solid var(--linea)}
+.globo-legenda ol{list-style:none;columns:230px;column-gap:28px}
+.globo-legenda li{border-bottom:1px solid var(--linea);break-inside:avoid}
 .globo-legenda li.attivo{background:var(--carta-scura)}
 .globo-legenda li a{padding:4px 2px}
 .globo-legenda li a:hover .nome{text-decoration:underline}
@@ -380,18 +389,21 @@ th.num .ordina{flex-direction:row-reverse}
 .globo-legenda .n{font-variant-numeric:tabular-nums;font-weight:600}
 .globo-didascalia{grid-area:did;font-size:14px;color:var(--tenue);max-width:70ch;margin-top:22px}
 @media (max-width: 760px){
-  .globo{grid-template-columns:minmax(0,1fr);grid-template-areas:"tela" "barra" "assi" "legenda" "did";grid-template-rows:none;margin-bottom:36px}
-  .globo-assi{padding-left:56px}
-  .globo-legenda{margin-top:20px;font-size:13px}
+  .globo-legenda{font-size:13px}
   .globo-legenda li a{padding:9px 2px}
 }
 @media (max-width: 500px){
-  .globo-assi{flex-wrap:wrap}
+  .globo-assi{flex-wrap:wrap;align-content:flex-start;min-height:74px}
   .globo-ricentra{order:3;flex:0 0 100%;text-align:left;min-height:44px;padding:0;margin-left:-56px;width:calc(100% + 56px);
     display:flex;align-items:center;border-bottom:0}
   .globo-ricentra span{border-bottom:1px solid var(--linea)}
 }
 @media (prefers-reduced-motion:reduce){.globo-play,.globo-ricentra{transition:none}}
+@media (min-width: 900px){
+  .apertura-globo{grid-template-columns:minmax(0,1fr) 480px;column-gap:32px;
+    grid-template-areas:"titolo tela" "testo tela" "barra barra" "assi assi" "legenda legenda" "did did";grid-template-rows:auto 1fr auto auto auto auto}
+  .globo-tela{max-width:none;margin-bottom:0}
+}
 .tv{margin-bottom:10px}
 .tv-antenna{display:block;width:120px;height:36px;margin:0 auto -2px;stroke:var(--inchiostro);stroke-width:2.5;fill:var(--inchiostro)}
 .tv-mobile{background:var(--inchiostro);border-radius:22px;padding:14px 14px 10px}
@@ -410,7 +422,8 @@ th.num .ordina{flex-direction:row-reverse}
 .tv-nastro a{display:inline-block;padding:10px 14px;color:inherit}
 .tv-nastro a:hover{text-decoration:underline}
 .tv-nastro a:focus-visible{outline:2px solid var(--carta);outline-offset:-4px}
-.tv:hover .tv-nastro{animation-play-state:paused}
+@media (hover:hover){.tv:hover .tv-nastro{animation-play-state:paused}}
+.tv.in-pausa .tv-nastro{animation-play-state:paused}
 /* con la tastiera il nastro si ferma e scorre fino al collegamento scelto */
 .tv-sottopancia:focus-within{overflow-x:auto}
 .tv-sottopancia:focus-within .tv-nastro{animation:none}
@@ -427,4 +440,18 @@ th.num .ordina{flex-direction:row-reverse}
   .tv-nastro li::after{content:none}
   .tv-nastro a{padding:7px 12px}
   .tv-nastro .tv-copia{display:none}
+}
+/* sotto i 900 px la figura segue il titolo, in un'altezza che sta con lui nella prima schermata */
+@media (max-width: 899px){
+  .apertura-figura > .tesi{margin-bottom:12px}
+  .apertura-globo > .tesi{margin-bottom:12px}
+  .apertura-figura .figura3d{max-width:calc(min(55vw,300px) * var(--rapporto));margin-inline:auto}
+  .apertura-figura .tv{max-width:280px;margin-inline:auto}
+  .tv-antenna{height:20px;width:70px}
+  .tv-mobile{border-radius:16px;padding:8px 8px 6px}
+  .tv-schermo{border-radius:10px}
+  .tv-sottopancia{margin-top:6px}
+  .tv-comandi{padding-top:6px}
+  .tv-comandi i{width:8px;height:8px}
+  .tv-comandi span{height:8px}
 }

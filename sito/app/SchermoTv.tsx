@@ -23,7 +23,7 @@ export default function SchermoTv({ immagini }: { immagini: Immagine[] }) {
       img.src = immagini[i].file;
     }));
     let indice = 0, mostrata: HTMLImageElement | null = null;
-    let visibile = false, sopra = false, fuoco = false, smontato = false, occupato = false;
+    let visibile = false, sopra = false, fuoco = false, toccata = false, smontato = false, occupato = false;
     let attesa = 0, quadro = 0;
 
     function disegna(img: HTMLImageElement, opacita: number) {
@@ -46,7 +46,7 @@ export default function SchermoTv({ immagini }: { immagini: Immagine[] }) {
       };
       quadro = requestAnimationFrame(passo);
     }
-    const inMoto = () => visibile && !sopra && !fuoco && !mq.matches && !document.hidden;
+    const inMoto = () => visibile && !sopra && !fuoco && !toccata && !mq.matches && !document.hidden;
     function programma() {
       clearTimeout(attesa);
       if (occupato || !visibile) return;
@@ -65,17 +65,29 @@ export default function SchermoTv({ immagini }: { immagini: Immagine[] }) {
     const onEsce = () => { sopra = false; programma(); };
     const onFuoco = () => { fuoco = true; clearTimeout(attesa); };
     const onSfuoco = () => { fuoco = false; programma(); };
+    // sul telefono il tocco sul televisore mette in pausa e riprende; i collegamenti del sottopancia si aprono
+    let tocco = false;
+    const onGiu = (e: Event) => { tocco = (e as PointerEvent).pointerType !== "mouse"; };
+    const onTocco = (e: Event) => {
+      if (!tocco || (e.target as Element).closest("a")) return;
+      toccata = televisore.classList.toggle("in-pausa");
+      clearTimeout(attesa);
+      programma();
+    };
     const avvio = window.setTimeout(() => io.observe(canvas), 200);
     televisore.addEventListener("pointerenter", onEntra);
     televisore.addEventListener("pointerleave", onEsce);
     televisore.addEventListener("focusin", onFuoco);
     televisore.addEventListener("focusout", onSfuoco);
+    televisore.addEventListener("pointerdown", onGiu);
+    televisore.addEventListener("click", onTocco);
     document.addEventListener("visibilitychange", programma);
     mq.addEventListener("change", programma);
     return () => {
       smontato = true; clearTimeout(avvio); clearTimeout(attesa); cancelAnimationFrame(quadro); io.disconnect();
       televisore.removeEventListener("pointerenter", onEntra); televisore.removeEventListener("pointerleave", onEsce);
       televisore.removeEventListener("focusin", onFuoco); televisore.removeEventListener("focusout", onSfuoco);
+      televisore.removeEventListener("pointerdown", onGiu); televisore.removeEventListener("click", onTocco);
       document.removeEventListener("visibilitychange", programma); mq.removeEventListener("change", programma);
     };
   }, [immagini]);

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import { breadcrumb } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
@@ -22,14 +23,14 @@ export default function Paesi() {
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Da dove arrivano", percorso: "/paesi" }])} />
-      <Link href="/" className="indietro">← vai ai dati</Link>
-      <p className="occhiello">Paesi di cittadinanza · {periodoPaesi}</p>
-      <h1 className="tesi">Da dove arrivano.</h1>
-      <p className="frase-provincia">{aperturaPaesi()}</p>
-
-      <section className="sezione" aria-label="Globo: richiedenti asilo in Italia per paese di cittadinanza">
+      <Intestazione ritorno="vai ai dati">Paesi di cittadinanza · {periodoPaesi}</Intestazione>
+      <div className="apertura-globo">
+        <h1 className="tesi">Da dove arrivano.</h1>
         <GloboLoader {...globo}><GloboStatico {...globo} /></GloboLoader>
-      </section>
+        <div className="apertura-testo">
+          <p className="frase-provincia">{aperturaPaesi()}</p>
+        </div>
+      </div>
 
       <section className="sezione">
         <h2 className="titolo-sezione">I {paesi.length} paesi</h2>

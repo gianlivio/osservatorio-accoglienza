@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
 import JsonLd from "@/app/JsonLd";
@@ -84,8 +85,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
     <main>
       <JsonLd dati={datasetJsonLd} />
       <JsonLd dati={breadcrumb([{ nome, percorso: `/provincia/${slug}` }])} />
-      <Link href="/" className="indietro">← tutte le province</Link>
-      <p className="occhiello">Provincia · {anni[0]}–{anni[anni.length - 1]}</p>
+      <Intestazione ritorno="tutte le province">Provincia · {anni[0]}–{anni[anni.length - 1]}</Intestazione>
       <h1 className="tesi">{nomeProvincia(p.provincia)}</h1>
       <p className="frase-provincia">
         {nomeProvincia(p.provincia)}, {anni[0]}–{anni[anni.length - 1]}: {nItal(t.affidamenti)} {t.affidamenti === 1 ? "contratto" : "contratti"} per

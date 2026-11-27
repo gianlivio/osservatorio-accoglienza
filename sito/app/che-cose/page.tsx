@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import Televisore from "@/app/Televisore";
 import { breadcrumb } from "@/lib/jsonld";
@@ -13,12 +14,11 @@ export default function CheCose() {
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Che cos'è", percorso: "/che-cose" }])} />
-      <Link href="/" className="indietro">← vai ai dati</Link>
+      <Intestazione ritorno="vai ai dati">In parole semplici</Intestazione>
       <div className="apertura-figura">
-        <div>
-          <p className="occhiello">In parole semplici</p>
-          <h1 className="tesi">Che cos&apos;è <em>questo sito</em>.</h1>
-
+        <h1 className="tesi">Che cos&apos;è <em>questo sito</em>.</h1>
+        <Televisore />
+        <div className="apertura-testo">
           <div className="prosa">
             <p>
               Quando in Italia arriva una persona che chiede asilo, qualcuno deve darle un posto
@@ -54,7 +54,6 @@ export default function CheCose() {
             </p>
           </div>
         </div>
-        <Televisore />
       </div>
 
       <section className="sezione">

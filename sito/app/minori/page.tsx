@@ -1,5 +1,5 @@
-import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
+import Intestazione from "@/app/Intestazione";
 import Figura3D from "@/app/Figura3D";
 
 import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
@@ -133,11 +133,20 @@ export default function Minori() {
     <main>
       <JsonLd dati={datasetJsonLd} />
       <JsonLd dati={breadcrumb([{ nome: "Minori non accompagnati", percorso: "/minori" }])} />
-      <Link href="/" className="indietro">← torna all&apos;archivio contratti</Link>
+      <Intestazione ritorno="torna all'archivio contratti">Dati del Ministero del Lavoro</Intestazione>
       <div className="apertura-figura">
-        <div>
-          <p className="occhiello">Dati del Ministero del Lavoro</p>
-          <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>
+        <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>
+        <Figura3D nome="minori">
+          <p className="mappa-didascalia">
+            Altezza: minori stranieri non accompagnati presenti al 31 {dataLeggibile}, per regione (Ministero del Lavoro). Dal {+fineRegionale + 1} il
+            dato per regione non è pubblicato nello stesso formato.
+          </p>
+          <ul className="mappa-legenda" aria-label="Legenda del colore: minori presenti, dal minimo al massimo">
+            <li><i className="m-c0" aria-hidden="true" />minimo {nItal(regioneMin.ultimo)} ({regioneMin.regione})</li>
+            <li><i className="m-c4" aria-hidden="true" />massimo {nItal(regioneMax.ultimo)} ({regioneMax.regione})</li>
+          </ul>
+        </Figura3D>
+        <div className="apertura-testo">
           <div className="apertura">
             <b className="cifra-grande">{nItal(d.ultimo_totale)}</b>
             <p>
@@ -154,16 +163,6 @@ export default function Minori() {
             per regione fino a {dataLeggibile}, per il totale nazionale fino a {dataTotale}.
           </p>
         </div>
-        <Figura3D nome="minori">
-          <p className="mappa-didascalia">
-            Altezza: minori stranieri non accompagnati presenti al 31 {dataLeggibile}, per regione (Ministero del Lavoro). Dal {+fineRegionale + 1} il
-            dato per regione non è pubblicato nello stesso formato.
-          </p>
-          <ul className="mappa-legenda" aria-label="Legenda del colore: minori presenti, dal minimo al massimo">
-            <li><i className="m-c0" aria-hidden="true" />minimo {nItal(regioneMin.ultimo)} ({regioneMin.regione})</li>
-            <li><i className="m-c4" aria-hidden="true" />massimo {nItal(regioneMax.ultimo)} ({regioneMax.regione})</li>
-          </ul>
-        </Figura3D>
       </div>
 
       <section className="sezione">

@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useRef, useState, type ComponentType, type ReactNode } from "react";
+import { useEffect, useRef, useState, type ComponentType, type CSSProperties, type ReactNode } from "react";
 import type { DatiFigura } from "@/lib/motori";
 
 type Tela = ComponentType<{ dati: DatiFigura }>;
@@ -25,5 +25,5 @@ export default function Figura3DLoader({ fonte, proporzioni, children }: { fonte
     io.observe(ref.current!);
     return () => { io.disconnect(); clearTimeout(attesa); };
   }, [fonte]);
-  return <div ref={ref} className="figura3d" style={{ aspectRatio: proporzioni }}>{pronto ? <pronto.Tela dati={pronto.dati} /> : children}</div>;
+  return <div ref={ref} className="figura3d" style={{ aspectRatio: proporzioni, "--rapporto": `calc(${proporzioni})` } as CSSProperties}>{pronto ? <pronto.Tela dati={pronto.dati} /> : children}</div>;
 }

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import Ricerca from "@/app/Ricerca";
 import GraficoCosto from "@/app/GraficoCosto";
@@ -72,11 +73,16 @@ export default function QuantoCosta() {
     <main className="pagina-costo">
       <JsonLd dati={datasetJsonLd} />
       <JsonLd dati={breadcrumb([{ nome: "Quanto costa l'accoglienza", percorso: "/quanto-costa" }])} />
-      <Link href="/" className="indietro">← vai ai dati</Link>
+      <Intestazione ritorno="vai ai dati">Centri d&apos;Italia · {primo}–{ultimo}</Intestazione>
       <div className="apertura-figura">
-        <div>
-          <p className="occhiello">Centri d&apos;Italia · {primo}–{ultimo}</p>
-          <h1 className="tesi">Quanto costa <em>l&apos;accoglienza al giorno</em>.</h1>
+        <h1 className="tesi">Quanto costa <em>l&apos;accoglienza al giorno</em>.</h1>
+        <Figura3D nome="quanto-costa">
+          <p className="mappa-didascalia">
+            Altezza: costo giornaliero per ospite nei CAS per adulti, {ultimo}: metà dei centri sta sopra, metà sotto (Centri d&apos;Italia). Province in
+            grigio: nessun CAS per adulti con il dato.
+          </p>
+        </Figura3D>
+        <div className="apertura-testo">
           <div className="prosa">
             <p>
               Nel {ultimo} il costo giornaliero per ospite nei centri di accoglienza straordinaria (CAS) per adulti è di{" "}
@@ -94,12 +100,6 @@ export default function QuantoCosta() {
             <a href="#cosa-non-sappiamo" className="link-interno">Cosa non sappiamo</a>
           </p>
         </div>
-        <Figura3D nome="quanto-costa">
-          <p className="mappa-didascalia">
-            Altezza: costo giornaliero per ospite nei CAS per adulti, {ultimo}: metà dei centri sta sopra, metà sotto (Centri d&apos;Italia). Province in
-            grigio: nessun CAS per adulti con il dato.
-          </p>
-        </Figura3D>
       </div>
 
       <section className="sezione" id="soldi">

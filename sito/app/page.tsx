@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import Ricerca from "./Ricerca";
 import TabellaProvince from "./TabellaProvince";
 import JsonLd from "./JsonLd";
@@ -39,10 +40,11 @@ export default function Home() {
   return (
     <main>
       <JsonLd dati={datasetJsonLd} />
+      <Intestazione>Contratti pubblici · {primo}–{ultimo}</Intestazione>
       <div className="apertura-figura">
-        <div>
-          <p className="occhiello">Contratti pubblici · {primo}–{ultimo}</p>
-          <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>
+        <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>
+        <FiguraItalia />
+        <div className="apertura-testo">
           <p className="sommario">
             Quando si parla di immigrazione si parla, quasi sempre, di chi arriva. Si parla poco di
             chi accoglie: degli uffici che firmano i contratti, delle cooperative che li ricevono,
@@ -62,7 +64,6 @@ export default function Home() {
             <Link href="/dieci-anni" className="link-interno">Leggi e numeri dell&apos;accoglienza →</Link>
           </p>
         </div>
-        <FiguraItalia />
       </div>
 
       <section className="sezione sezione-ricerca">

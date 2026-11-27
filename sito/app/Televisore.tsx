@@ -44,6 +44,7 @@ export default function Televisore() {
           {tv.immagini.map((i, n) => (
             <Fragment key={i.file}>
               {n > 0 && "; "}
+              {"didascalia" in i && `${i.didascalia}: `}
               <a href={i.pagina} target="_blank" rel="noopener" title={i.alt}>{i.autore}</a>,{" "}
               <a href={i.licenza_url} target="_blank" rel="noopener license">{i.licenza}</a>
             </Fragment>

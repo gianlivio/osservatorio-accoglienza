@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import { notFound } from "next/navigation";
 import JsonLd from "@/app/JsonLd";
 import { creatore, dominio, licenza, breadcrumb } from "@/lib/jsonld";
@@ -67,8 +68,7 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
     <main>
       <JsonLd dati={datasetJsonLd} />
       <JsonLd dati={breadcrumb([{ nome: "Da dove arrivano", percorso: "/paesi" }, { nome: p.nome, percorso: `/paesi/${slug}` }])} />
-      <Link href="/paesi" className="indietro">← tutti i paesi</Link>
-      <p className="occhiello">Paese · {periodoPaesi}</p>
+      <Intestazione ritorno="tutti i paesi" href="/paesi">Paese · {periodoPaesi}</Intestazione>
       <h1 className="tesi">{p.nome}</h1>
       <p className="frase-provincia">{aperturaPaese(p)}</p>
 

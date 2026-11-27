@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { centri } from "@/lib/centri";
@@ -32,8 +33,7 @@ export default function Metodologia() {
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Metodologia e limiti", percorso: "/metodologia" }])} />
-      <Link href="/" className="indietro">← torna all&apos;archivio</Link>
-      <p className="occhiello">Come è fatto questo archivio</p>
+      <Intestazione ritorno="torna all'archivio">Come è fatto questo archivio</Intestazione>
       <h1 className="tesi">Metodologia <em>e limiti</em></h1>
       <p className="sommario">
         Questi dati sono ricostruiti da fonti pubbliche con un metodo automatico. Hanno errori

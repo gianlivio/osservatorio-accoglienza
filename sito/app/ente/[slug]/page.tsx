@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Intestazione from "@/app/Intestazione";
 import { notFound } from "next/navigation";
 import JsonLd from "@/app/JsonLd";
 import { slug as mkSlug, euro, nItal, nomeProvincia, totale, pct } from "@/lib/dati";
@@ -43,8 +44,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
   return (
     <main>
       <JsonLd dati={breadcrumb([{ nome: nomeEnte(e.nome), percorso: `/ente/${slug}` }])} />
-      <Link href="/" className="indietro">← tutte le province</Link>
-      <p className="occhiello">Ente gestore · {periodo(d)}</p>
+      <Intestazione ritorno="tutte le province">Ente gestore · {periodo(d)}</Intestazione>
       <h1 className="tesi">{nomeEnte(e.nome)}</h1>
       <p className="sommario">
         L&apos;aggiudicatario è noto per il {pct(totale.copertura_vincitore)} dei
