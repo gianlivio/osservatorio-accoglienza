@@ -188,18 +188,12 @@ th.num .ordina{flex-direction:row-reverse}
 .mappa-legenda{list-style:none;display:flex;flex-wrap:wrap;gap:6px 18px;margin:12px 0 0;font-family:var(--dato);font-size:12px;color:var(--tenue)}
 .mappa-legenda li{display:flex;align-items:center;gap:6px;white-space:nowrap}
 .mappa-legenda i{display:inline-block;width:14px;height:14px;border:1px solid var(--linea)}
-.mappa-avviso{margin:14px 0 0}
+.figura-italia{margin:0 auto 44px;max-width:540px}
 @media (min-width: 900px){
-  .sezione-mappa{display:grid;grid-template-columns:minmax(0,520px) minmax(0,1fr);column-gap:40px;
-    grid-template-areas:"mappa titolo" "mappa nota" "mappa spiega" "mappa legenda" "mappa avviso" "mappa ." "riga .";
-    grid-template-rows:auto auto auto auto auto 1fr auto}
-  .mappa-spiega{grid-area:spiega}
-  .mappa-range{grid-area:riga}
-  .sezione-mappa .mappa{grid-area:mappa;max-width:none}
-  .mappa-titolo{grid-area:titolo}
-  .mappa-nota{grid-area:nota}
-  .mappa-legenda{grid-area:legenda;flex-direction:column;flex-wrap:nowrap}
-  .mappa-avviso{grid-area:avviso}
+  .home-apertura{display:grid;grid-template-columns:minmax(0,1fr) 480px;column-gap:32px;align-items:start}
+  .home-apertura .tesi{font-size:clamp(44px,5.4vw,52px)}
+  .home-apertura .sommario{margin-bottom:28px}
+  .figura-italia{width:100%;margin:0 0 44px}
 }
 .g-legge{stroke:var(--tenue);stroke-width:1;stroke-dasharray:3 3;opacity:.75}
 .g-sigla{font-family:var(--dato);font-size:10px;fill:var(--tenue);paint-order:stroke;stroke:var(--carta);stroke-width:3px;stroke-linejoin:round}

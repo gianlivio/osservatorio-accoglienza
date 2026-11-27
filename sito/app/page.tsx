@@ -39,32 +39,35 @@ export default function Home() {
   return (
     <main>
       <JsonLd dati={datasetJsonLd} />
-      <p className="occhiello">Contratti pubblici · {primo}–{ultimo}</p>
-      <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>
-      <p className="sommario">
-        Quando si parla di immigrazione si parla, quasi sempre, di chi arriva. Si parla poco di
-        chi accoglie: degli uffici che firmano i contratti, delle cooperative che li ricevono,
-        dei soldi che passano dagli uni alle altre.
-      </p>
-      <p className="sommario">
-        Lo Stato non gestisce da sé l&apos;accoglienza di chi chiede asilo: la affida a
-        cooperative e associazioni, con contratti pubblici. Questo archivio raccoglie quei
-        contratti, provincia per provincia: quanti sono, quanto valgono, chi li ha ricevuti,
-        e se sono stati assegnati con una gara o scegliendo direttamente.{" "}
-        <Link href="/che-cose" className="link-interno">Come funziona →</Link>
-      </p>
-      <p className="sommario">
-        <Link href="/quanto-costa" className="link-interno">Quanto costa l&apos;accoglienza →</Link>
-      </p>
-      <p className="sommario">
-        <Link href="/dieci-anni" className="link-interno">Leggi e numeri dell&apos;accoglienza →</Link>
-      </p>
+      <div className="home-apertura">
+        <div>
+          <p className="occhiello">Contratti pubblici · {primo}–{ultimo}</p>
+          <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>
+          <p className="sommario">
+            Quando si parla di immigrazione si parla, quasi sempre, di chi arriva. Si parla poco di
+            chi accoglie: degli uffici che firmano i contratti, delle cooperative che li ricevono,
+            dei soldi che passano dagli uni alle altre.
+          </p>
+          <p className="sommario">
+            Lo Stato non gestisce da sé l&apos;accoglienza di chi chiede asilo: la affida a
+            cooperative e associazioni, con contratti pubblici. Questo archivio raccoglie quei
+            contratti, provincia per provincia: quanti sono, quanto valgono, chi li ha ricevuti,
+            e se sono stati assegnati con una gara o scegliendo direttamente.{" "}
+            <Link href="/che-cose" className="link-interno">Come funziona →</Link>
+          </p>
+          <p className="sommario">
+            <Link href="/quanto-costa" className="link-interno">Quanto costa l&apos;accoglienza →</Link>
+          </p>
+          <p className="sommario">
+            <Link href="/dieci-anni" className="link-interno">Leggi e numeri dell&apos;accoglienza →</Link>
+          </p>
+        </div>
+        <MappaItalia />
+      </div>
 
       <section className="sezione sezione-ricerca">
         <Ricerca />
       </section>
-
-      <MappaItalia />
 
       <section className="sezione" aria-label="Tabella delle province">
         <TabellaProvince province={province} />

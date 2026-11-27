@@ -1,5 +1,5 @@
 import mappa from "@/data/mappa.json";
-import { anni, province, slug, nomeProvincia, nItal } from "@/lib/dati";
+import { province, slug, nomeProvincia, nItal } from "@/lib/dati";
 
 const CLASSI = 5;
 const perc = (n: number) => `${n.toLocaleString("it-IT", { minimumFractionDigits: 1, maximumFractionDigits: 1 })}%`;
@@ -28,14 +28,8 @@ export default function MappaItalia() {
   const [w, h] = mappa.viewBox;
 
   return (
-    <section className="sezione sezione-mappa">
-      <h2 className="titolo-sezione mappa-titolo">Contratti con affidamento diretto, provincia per provincia</h2>
-      <p className="nota-tabella mappa-nota">
-        Quota dei contratti assegnati con affidamento diretto, sul totale dei contratti
-        dell&apos;archivio ({anni[0]}–{anni[anni.length - 1]}). Cliccando una provincia si apre la sua pagina.
-        Le classi hanno più o meno lo stesso numero di province.
-      </p>
-      <figure className="mappa">
+    <figure className="figura-italia">
+      <div className="mappa">
         <svg viewBox={`0 0 ${w} ${h}`} role="group" aria-label={alt}>
           <title>{alt}</title>
           {righe.map((r) => (
@@ -46,21 +40,19 @@ export default function MappaItalia() {
             </a>
           ))}
         </svg>
-      </figure>
-      <p className="mappa-range">
-        Va da {perc(minima.quota)} a <a href={`/provincia/${slug(minima.nome)}`} className="link-interno">{nomeProvincia(minima.nome)}</a> a{" "}
-        {perc(massima.quota)} a <a href={`/provincia/${slug(massima.nome)}`} className="link-interno">{nomeProvincia(massima.nome)}</a>.
-      </p>
-      <p className="mappa-spiega">Più la provincia è scura, più contratti sono stati assegnati con affidamento diretto.</p>
-      <ul className="mappa-legenda" aria-label="Legenda: quota di contratti con affidamento diretto">
-        {intervalli.map((c) => (
-          <li key={c.k}><i className={`m-c${c.k}`} aria-hidden="true" />da {perc(c.da)} a {perc(c.a)}</li>
-        ))}
-      </ul>
-      <p className="nota-tabella mappa-avviso">
-        Le province con pochi contratti hanno quote meno stabili: il numero di contratti di ogni
-        provincia compare passando sopra la mappa.
-      </p>
-    </section>
+      </div>
+      <figcaption>
+        <p className="mappa-spiega">Più la provincia è scura, più contratti sono stati assegnati con affidamento diretto.</p>
+        <ul className="mappa-legenda" aria-label="Legenda: quota di contratti con affidamento diretto">
+          {intervalli.map((c) => (
+            <li key={c.k}><i className={`m-c${c.k}`} aria-hidden="true" />da {perc(c.da)} a {perc(c.a)}</li>
+          ))}
+        </ul>
+        <p className="mappa-range">
+          Va da {perc(minima.quota)} a <a href={`/provincia/${slug(minima.nome)}`} className="link-interno">{nomeProvincia(minima.nome)}</a> a{" "}
+          {perc(massima.quota)} a <a href={`/provincia/${slug(massima.nome)}`} className="link-interno">{nomeProvincia(massima.nome)}</a>.
+        </p>
+      </figcaption>
+    </figure>
   );
 }
