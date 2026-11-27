@@ -79,7 +79,7 @@ export default function TabellaProvince({ province }: { province: Provincia[] })
             const b = dato(p)!;
             return (
               <tr key={p.provincia}>
-                <td><Link href={`/provincia/${slug(p.provincia)}`} className="nome-prov">{p.provincia}</Link></td>
+                <td><Link href={`/provincia/${slug(p.provincia)}`} prefetch={false} className="nome-prov">{p.provincia}</Link></td>
                 <td className="num">{nItal(b.affidamenti)}</td>
                 <td className="num">{pct(b.quota_diretti)}</td>
                 <td className="num">{euro(b.importo_mediano)}</td>

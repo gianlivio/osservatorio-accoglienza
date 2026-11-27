@@ -113,7 +113,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             <thead><tr><th>Ente</th><th className="num">Contratti</th></tr></thead>
             <tbody>{d.top_enti.map((e) => (
               <tr key={e.nome}><td>{e.cf && slugEnteDaCf.has(e.cf)
-                ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} className="link-ente">{nomeEnte(e.nome)}</Link>
+                ? <Link href={`/ente/${slugEnteDaCf.get(e.cf)}`} prefetch={false} className="link-ente">{nomeEnte(e.nome)}</Link>
                 : nomeEnte(e.nome)}</td><td className="num">{nItal(e.affidamenti)}</td></tr>
             ))}</tbody>
           </table>
@@ -294,7 +294,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
             {altre.map((n, i) => (
               <span key={n}>
                 {i > 0 && " · "}
-                <Link href={`/provincia/${mkSlug(n)}`} className="link-interno">{nomeProvincia(n)}</Link>
+                <Link href={`/provincia/${mkSlug(n)}`} prefetch={false} className="link-interno">{nomeProvincia(n)}</Link>
               </span>
             ))}
           </p>

@@ -198,7 +198,7 @@ export default function QuantoCosta() {
                 <tbody>
                   {righe.map((r) => (
                     <tr key={r.nome}>
-                      <td><Link href={`/provincia/${slug(r.nome)}`} className="link-interno">{nomeProvincia(r.nome)}</Link></td>
+                      <td><Link href={`/provincia/${slug(r.nome)}`} prefetch={false} className="link-interno">{nomeProvincia(r.nome)}</Link></td>
                       <td className="num">{cell(r.costo)}</td>
                     </tr>
                   ))}

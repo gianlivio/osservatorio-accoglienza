@@ -35,7 +35,7 @@ export default function TabellaPaesi({ paesi, anni, sicuro }: { paesi: Paese[]; 
             const x = p.anni[anno], d = x.decisioni;
             return (
               <tr key={p.slug}>
-                <td><Link href={`/paesi/${p.slug}`} className="nome-prov">{p.nome}</Link></td>
+                <td><Link href={`/paesi/${p.slug}`} prefetch={false} className="nome-prov">{p.nome}</Link></td>
                 <td className="num">{nItal(x.richiedenti)}</td>
                 <td className="num">{nItal(d.totale)}</td>
                 {TIPI.map((t) => <td key={t.campo} className="num">{d.totale === 0 ? "n.d." : pct((d[t.campo] / d.totale) * 100)}</td>)}

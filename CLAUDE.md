@@ -33,6 +33,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - Falsi positivi esclusi a mano in `script/esclusi.csv`, con il motivo; per i mesi futuri si aggiunge anche un VETO in `estrai2.py`. Gli estratti in `output/` non si modificano.
 - Enti per codice fiscale: 11 cifre = impresa o ente (hanno una pagina `/ente/`), 16 caratteri = persona fisica (esclusa), altri formati o assenti = contati per nome. Il nome è il più frequente per quel codice.
 - Performance: la home carica solo `province-lite.json` (la figura 3D scarica `/italia.json` dopo il primo rendering); il dettaglio di provincia, ente e centri si carica a build time nelle rispettive pagine, mai nella home. `Ricerca.tsx` non importa `lib/dati` e scarica `/ricerca.json` al primo focus.
+- I `Link` negli elenchi lunghi (tabelle e liste di province, enti e paesi) hanno `prefetch={false}`, per contenere il Fast Origin Transfer di Vercel; il menu e i link singoli nel testo restano con il precaricamento.
 - Centri d'Italia: SAI dal file dei progetti; CAS e prima accoglienza sommando tutte le righe, righe ripetute comprese, come la fonte.
 
 ## Registro del copy

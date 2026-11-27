@@ -17,7 +17,7 @@ export default function LegendaGlobo({ paesi, anno, attivo, onEntra, onEsce }: {
       <ol>
         {righe.map((p) => (
           <li key={p.slug} className={attivo === p.slug ? "attivo" : undefined}>
-            <Link href={`/paesi/${p.slug}`} onMouseEnter={onEntra && (() => onEntra(p.slug))} onMouseLeave={onEsce}
+            <Link href={`/paesi/${p.slug}`} prefetch={false} onMouseEnter={onEntra && (() => onEntra(p.slug))} onMouseLeave={onEsce}
               onFocus={onEntra && (() => onEntra(p.slug))} onBlur={onEsce}>
               <i style={{ background: COLORE[p.continente] }} aria-hidden="true" />
               <span className="nome">{p.nome}</span>

@@ -78,7 +78,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
             {d.province.map((p, i) => (
               <span key={p.provincia}>
                 {i > 0 && " · "}
-                <Link href={`/provincia/${mkSlug(p.provincia)}`} className="link-interno">{nomeProvincia(p.provincia)}</Link>
+                <Link href={`/provincia/${mkSlug(p.provincia)}`} prefetch={false} className="link-interno">{nomeProvincia(p.provincia)}</Link>
                 {" "}({nItal(p.affidamenti)})
               </span>
             ))}
@@ -97,7 +97,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
               <dl className="dettagli">
                 {c.provincia && (
                   <div><dt>Provincia</dt><dd>
-                    <Link href={`/provincia/${mkSlug(c.provincia)}`} className="link-interno">{nomeProvincia(c.provincia)}</Link>
+                    <Link href={`/provincia/${mkSlug(c.provincia)}`} prefetch={false} className="link-interno">{nomeProvincia(c.provincia)}</Link>
                   </dd></div>
                 )}
                 <div><dt>Ufficio</dt><dd>{c.amministrazione}</dd></div>
