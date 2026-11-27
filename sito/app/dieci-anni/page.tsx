@@ -1,5 +1,6 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
+import Figura3D from "@/app/Figura3D";
 import GraficoSerie, { margineSinistro, type Serie } from "@/app/GraficoSerie";
 import { cronologia as c, notoCome, type Atto } from "@/lib/cronologia";
 import { centri as centriFonte } from "@/lib/centri";
@@ -82,15 +83,24 @@ export default function DieciAnni() {
     <main>
       <JsonLd dati={breadcrumb([{ nome: "Dieci anni di accoglienza", percorso: "/dieci-anni" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
-      <p className="occhiello">{primo}–{ultimo}</p>
-      <h1 className="tesi">Leggi e numeri <em>dell&apos;accoglienza</em>.</h1>
+      <div className="apertura-figura">
+        <div>
+          <p className="occhiello">{primo}–{ultimo}</p>
+          <h1 className="tesi">Leggi e numeri <em>dell&apos;accoglienza</em>.</h1>
 
-      <div className="prosa">
-        <p>
-          Dal {primo} al {ultimo} {numero(c.leggi.length)} leggi hanno cambiato il sistema di accoglienza: chi è accolto dagli enti locali e chi nei
-          centri delle Prefetture, quanto restano i minori soli in prima accoglienza. Accanto a ogni legge la pagina riporta i contratti ANAC
-          da 40.000 € in su e le presenze nei centri, senza stabilire nessi tra le une e gli altri.
-        </p>
+          <div className="prosa">
+            <p>
+              Dal {primo} al {ultimo} {numero(c.leggi.length)} leggi hanno cambiato il sistema di accoglienza: chi è accolto dagli enti locali e chi nei
+              centri delle Prefetture, quanto restano i minori soli in prima accoglienza. Accanto a ogni legge la pagina riporta i contratti ANAC
+              da 40.000 € in su e le presenze nei centri, senza stabilire nessi tra le une e gli altri.
+            </p>
+          </div>
+        </div>
+        <Figura3D nome="dieci-anni">
+          <p className="mappa-didascalia">
+            Altezza: contratti per l&apos;accoglienza da 40.000 € in su, per anno (ANAC). I pannelli segnano l&apos;anno di ogni legge della tabella.
+          </p>
+        </Figura3D>
       </div>
 
       <section className="sezione" id="leggi-in-breve">

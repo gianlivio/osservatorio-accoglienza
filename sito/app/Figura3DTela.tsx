@@ -22,11 +22,12 @@ export default function Figura3DTela({ dati }: { dati: DatiFigura }) {
     const m = motore(dati);
     const stile = getComputedStyle(document.documentElement);
     const [timbro, carta, inchiostro, linea] = ["--timbro", "--carta", "--inchiostro", "--linea"].map((v) => rgb(stile.getPropertyValue(v).trim()));
+    const dato = stile.getPropertyValue("--dato").trim();
     const colori = m.voci.map((v) => {
       const q = v.classe === undefined ? v.tono : CHIARI[v.classe];
       const c = q === null ? linea : mescola(timbro, carta, q);
       const [l0, l1] = LUCI.map((l) => `rgb(${mescola(c, inchiostro, l)})`);
-      return { cima: `rgb(${c})`, piana: `rgb(${c})`, l0, l1 };
+      return { cima: `rgb(${c})`, piana: `rgb(${c})`, l0, l1, filo: "transparent", pannello: `rgba(${timbro},0.13)` };
     });
 
     const mq = matchMedia("(prefers-reduced-motion: reduce)");
@@ -52,19 +53,26 @@ export default function Figura3DTela({ dati }: { dati: DatiFigura }) {
         const q = Math.min(1, Math.max(0, (salita - m.ritardi[i] * (SALITA - SALITA_VOCE)) / SALITA_VOCE));
         return 1 - (1 - q) ** 3;
       };
-      disegnati = m.quadro(posa, crescita).map(({ voce, facce }) => {
+      disegnati = m.quadro(posa, crescita).map(({ voce, facce, testi }) => {
         const attiva = voce === scelta;
         const forme = facce.map(({ ruolo, punti }) => {
           const f = new Path2D();
           punti.forEach((p) => poligono(f, p));
           ctx.fillStyle = colori[voce][ruolo]; ctx.fill(f);
           // il bordo chiaro cancellerebbe le isole più piccole
-          if (ruolo === "cima" || (attiva && ruolo === "piana")) {
-            ctx.strokeStyle = `rgb(${attiva ? inchiostro : carta})`;
-            ctx.lineWidth = attiva ? 3 : 1;
-            ctx.stroke(f);
-          }
+          const bordo =
+            ruolo === "cima" ? { colore: `rgb(${attiva ? inchiostro : carta})`, spessore: attiva ? 3 : 1 }
+            : ruolo === "filo" ? { colore: `rgb(${attiva ? inchiostro : timbro})`, spessore: 2.5 }
+            : ruolo === "pannello" ? { colore: `rgba(${attiva ? inchiostro : timbro},0.55)`, spessore: attiva ? 3 : 1.5 }
+            : attiva && ruolo === "piana" ? { colore: `rgb(${inchiostro})`, spessore: 3 } : null;
+          if (bordo) { ctx.strokeStyle = bordo.colore; ctx.lineWidth = bordo.spessore; ctx.stroke(f); }
           return f;
+        });
+        testi?.forEach((t) => {
+          ctx.font = t.ruolo === "legge" ? `600 28px ${dato}` : `400 27px ${dato}`;
+          ctx.fillStyle = `rgb(${t.ruolo === "legge" ? timbro : inchiostro})`;
+          ctx.textAlign = "center";
+          ctx.fillText(t.testo, t.x, t.y);
         });
         return { voce, forme };
       });

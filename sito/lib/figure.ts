@@ -1,6 +1,7 @@
 // Dati delle figure in rilievo, costruiti al build: usati dall'SVG statico e da /figure/[nome].
 import mappa from "@/data/mappa.json";
 import { centri } from "@/lib/centri";
+import { cronologia } from "@/lib/cronologia";
 import { slug, nomeProvincia, nItal, nItal2, trovaProvincia } from "@/lib/dati";
 import { datiItalia } from "@/lib/italiaDati";
 import type { DatiFigura } from "@/lib/motori";
@@ -33,5 +34,26 @@ function costo(): DatiFigura {
   };
 }
 
-export const figure = { home: () => datiItalia, "quanto-costa": costo };
+/** Leggi e numeri: una barra per anno con i contratti da 40.000 € in su, come nel grafico della pagina. */
+function anniLeggi(): DatiFigura {
+  const { anni, leggi, contratti_40k: k } = cronologia;
+  const primo = anni[0], ultimo = anni[anni.length - 1];
+  return {
+    tipo: "anni",
+    descrizione:
+      `Grafico in rilievo, ${primo}–${ultimo}: una barra per anno con i contratti per l'accoglienza da 40.000 € in su; ` +
+      `il ${ultimo} è a filo perché il dato è provvisorio. Un pannello segna l'anno di ogni legge: ` +
+      `${leggi.map((l) => `${l.nome_breve} (${l.anno})`).join(", ")}. I valori di ogni anno sono nei blocchi più in basso.`,
+    barre: anni.map((anno) => {
+      const valore = k.affidamenti_40k[anno], legge = leggi.find((l) => l.anno === anno)?.nome_breve;
+      const provvisorio = anno === ultimo;
+      return {
+        anno, valore, provvisorio, legge, tono: 85, href: `#anno-${anno}`,
+        testi: [anno, `${nItal(valore)} contratti da 40.000 € in su`, ...(legge ? [`Legge: ${legge}`] : []), ...(provvisorio ? ["Dato provvisorio"] : [])],
+      };
+    }),
+  };
+}
+
+export const figure = { home: () => datiItalia, "quanto-costa": costo, "dieci-anni": anniLeggi };
 export type NomeFigura = keyof typeof figure;

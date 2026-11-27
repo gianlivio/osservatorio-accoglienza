@@ -183,6 +183,11 @@ th.num .ordina{flex-direction:row-reverse}
 .figura3d .f3-l0{fill:color-mix(in srgb,var(--c) 72%,var(--inchiostro))}
 .figura3d .f3-l1{fill:color-mix(in srgb,var(--c) 62%,var(--inchiostro))}
 .figura3d a:hover .f3-cima,.figura3d a:focus-visible .f3-cima{stroke:var(--inchiostro);stroke-width:3}
+.figura3d .f3-filo{fill:transparent;stroke:var(--timbro);stroke-width:2.5;stroke-linejoin:round}
+.figura3d .f3-pannello{fill:var(--timbro);fill-opacity:.13;stroke:var(--timbro);stroke-opacity:.55;stroke-width:1.5}
+.figura3d .f3-t-anno{font-family:var(--dato);font-size:27px;fill:var(--inchiostro)}
+.figura3d .f3-t-legge{font-family:var(--dato);font-size:28px;font-weight:600;fill:var(--timbro)}
+.figura3d a:hover .f3-filo,.figura3d a:hover .f3-pannello,.figura3d a:focus-visible .f3-filo,.figura3d a:focus-visible .f3-pannello{stroke:var(--inchiostro)}
 .figura3d a:focus-visible{outline:none}
 .figura3d-riquadro{position:absolute;z-index:2;pointer-events:none;background:var(--carta);border:1px solid var(--inchiostro);padding:8px 11px;
   font-family:var(--dato);font-size:12px;line-height:1.5;width:max-content;max-width:100%}

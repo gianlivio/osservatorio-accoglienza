@@ -28,9 +28,12 @@ export default function Figura3DStatico({ dati }: { dati: DatiFigura }) {
           ? { style: { "--c": coloreCss(v.tono) } as CSSProperties }
           : { className: `m-c${v.classe}` };
         const facce = pezzo.facce.map((f, i) => <path key={i} className={`f3-${f.ruolo}`} d={f.punti.map(tracciato).join("")} />);
+        const testi = pezzo.testi?.map((t, i) => (
+          <text key={`t${i}`} className={`f3-t-${t.ruolo}`} x={Math.round(t.x)} y={Math.round(t.y)} textAnchor="middle">{t.testo}</text>
+        ));
         return v.href
-          ? <a key={k} href={v.href} {...colore} tabIndex={ripetuto ? -1 : undefined} aria-label={v.testi.join(", ")}>{facce}</a>
-          : <g key={k} {...colore}><title>{v.testi.join(", ")}</title>{facce}</g>;
+          ? <a key={k} href={v.href} {...colore} tabIndex={ripetuto ? -1 : undefined} aria-label={v.testi.join(", ")}>{facce}{testi}</a>
+          : <g key={k} {...colore}><title>{v.testi.join(", ")}</title>{facce}{testi}</g>;
       })}
     </svg>
   );

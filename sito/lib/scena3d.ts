@@ -13,9 +13,11 @@ export const coloreCss = (tono: number | null) =>
 /** `testi`: righe del riquadro, già formattate al build; la prima è il nome. */
 export type Voce = Colore & { testi: string[]; href?: string };
 
-export type Ruolo = "cima" | "piana" | "l0" | "l1";
+/** cima e lati di un solido, poligono piatto, solido a soli spigoli, pannello semitrasparente */
+export type Ruolo = "cima" | "piana" | "l0" | "l1" | "filo" | "pannello";
 export type Faccia = { ruolo: Ruolo; punti: Punto[][] };
-export type Pezzo = { voce: number; facce: Faccia[] };
+export type Testo = { ruolo: "anno" | "legge"; x: number; y: number; testo: string };
+export type Pezzo = { voce: number; facce: Faccia[]; testi?: Testo[] };
 
 export type Motore = {
   larghezza: number; altezza: number;
