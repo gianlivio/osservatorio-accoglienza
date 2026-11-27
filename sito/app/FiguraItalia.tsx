@@ -1,6 +1,5 @@
 import Link from "next/link";
-import Italia3DLoader from "./Italia3DLoader";
-import Italia3DStatico from "./Italia3DStatico";
+import Figura3D from "./Figura3D";
 import { anni, senzaProvincia, slug, nomeProvincia, nItal, pct } from "@/lib/dati";
 import { intervalli, minima, massima } from "@/lib/italiaDati";
 
@@ -9,11 +8,7 @@ const nSenzaProvincia = Object.values(senzaProvincia).reduce((n, a) => n + a.aff
 // Figura della home: province in tre dimensioni, con la didascalia.
 export default function FiguraItalia() {
   return (
-    <figure className="figura-italia">
-      <Italia3DLoader>
-        <Italia3DStatico />
-      </Italia3DLoader>
-      <figcaption>
+    <Figura3D nome="home">
         <p className="mappa-didascalia">
           Altezza: contratti per l&apos;accoglienza firmati dal {anni[0]} al {anni[anni.length - 1]} (ANAC). Colore: quota assegnata con affidamento diretto.
         </p>
@@ -35,7 +30,6 @@ export default function FiguraItalia() {
           Non sono compresi i {nItal(nSenzaProvincia)} contratti che nei dati ANAC non indicano la provincia.{" "}
           <Link href="/metodologia#senza-provincia" className="link-interno">Come sono trattati</Link>
         </p>
-      </figcaption>
-    </figure>
+    </Figura3D>
   );
 }

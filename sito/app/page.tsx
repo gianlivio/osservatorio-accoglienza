@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <main>
       <JsonLd dati={datasetJsonLd} />
-      <div className="home-apertura">
+      <div className="apertura-figura">
         <div>
           <p className="occhiello">Contratti pubblici · {primo}–{ultimo}</p>
           <h1 className="tesi">Chi accoglie, <em>e a quali condizioni</em>.</h1>

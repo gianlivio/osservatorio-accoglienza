@@ -2,6 +2,7 @@ import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
 import Ricerca from "@/app/Ricerca";
 import GraficoCosto from "@/app/GraficoCosto";
+import Figura3D from "@/app/Figura3D";
 import { slug, nomeProvincia, nItal, nItal2, euroCent, dataLunga } from "@/lib/dati";
 import { centri, type Tipo } from "@/lib/centri";
 import { regioni } from "@/lib/regioni";
@@ -72,24 +73,34 @@ export default function QuantoCosta() {
       <JsonLd dati={datasetJsonLd} />
       <JsonLd dati={breadcrumb([{ nome: "Quanto costa l'accoglienza", percorso: "/quanto-costa" }])} />
       <Link href="/" className="indietro">← vai ai dati</Link>
-      <p className="occhiello">Centri d&apos;Italia · {primo}–{ultimo}</p>
-      <h1 className="tesi">Quanto costa <em>l&apos;accoglienza al giorno</em>.</h1>
-      <div className="prosa">
-        <p>
-          Nel {ultimo} il costo giornaliero per ospite nei centri di accoglienza straordinaria (CAS) per adulti è di{" "}
-          {nItal2(adulti(ultimo).mediana!)} €: metà dei centri sta sopra questa cifra, metà sotto. Nel {primo} era{" "}
-          {nItal2(adulti(primo).mediana!)} €.
-        </p>
-        <p>
-          La somma va all&apos;ente che gestisce il centro, non alla persona accolta. Alla persona va il pocket money:{" "}
-          {euroCent(POCKET_MONEY)} al giorno.
-        </p>
+      <div className="apertura-figura">
+        <div>
+          <p className="occhiello">Centri d&apos;Italia · {primo}–{ultimo}</p>
+          <h1 className="tesi">Quanto costa <em>l&apos;accoglienza al giorno</em>.</h1>
+          <div className="prosa">
+            <p>
+              Nel {ultimo} il costo giornaliero per ospite nei centri di accoglienza straordinaria (CAS) per adulti è di{" "}
+              {nItal2(adulti(ultimo).mediana!)} €: metà dei centri sta sopra questa cifra, metà sotto. Nel {primo} era{" "}
+              {nItal2(adulti(primo).mediana!)} €.
+            </p>
+            <p>
+              La somma va all&apos;ente che gestisce il centro, non alla persona accolta. Alla persona va il pocket money:{" "}
+              {euroCent(POCKET_MONEY)} al giorno.
+            </p>
+          </div>
+          <p className="vai-a">
+            <a href="#provincia" className="link-interno">Nella tua provincia</a> ·{" "}
+            <a href="#tipo" className="link-interno">Per tipo di centro</a> ·{" "}
+            <a href="#cosa-non-sappiamo" className="link-interno">Cosa non sappiamo</a>
+          </p>
+        </div>
+        <Figura3D nome="quanto-costa">
+          <p className="mappa-didascalia">
+            Altezza: costo giornaliero per ospite nei CAS per adulti, {ultimo}: metà dei centri sta sopra, metà sotto (Centri d&apos;Italia). Province in
+            grigio: nessun CAS per adulti con il dato.
+          </p>
+        </Figura3D>
       </div>
-      <p className="vai-a">
-        <a href="#provincia" className="link-interno">Nella tua provincia</a> ·{" "}
-        <a href="#tipo" className="link-interno">Per tipo di centro</a> ·{" "}
-        <a href="#cosa-non-sappiamo" className="link-interno">Cosa non sappiamo</a>
-      </p>
 
       <section className="sezione" id="soldi">
         <h2 className="titolo-sezione">A chi vanno i soldi</h2>

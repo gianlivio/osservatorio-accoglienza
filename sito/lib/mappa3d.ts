@@ -1,28 +1,23 @@
-// Geometria della figura 3D della home: province di mappa.json come prismi, alti in proporzione al numero di contratti.
+// Motore delle mappe in rilievo: poligoni di una mappa (province o regioni) come prismi, alti in proporzione a un valore.
 // Matematica comune all'SVG generato al build e al canvas. Non importa dati: finisce anche nel pacchetto del browser.
+import type { Motore, Punto, Voce } from "@/lib/scena3d";
 
-export type DatiProvincia = {
-  nome: string; slug: string; d: string; contratti: number; classe: number;
-  /** testi del riquadro, già formattati al build */
-  testoContratti: string; testoQuota: string;
-};
-export type DatiItalia = { descrizione: string; province: DatiProvincia[] };
+/** Una provincia o una regione: tracciato di script/mappa.py e valore che ne fa l'altezza (null: dato assente, piatta). */
+export type Forma = Voce & { d: string; valore: number | null };
+export type DatiMappa = { tipo: "mappa"; descrizione: string; altezzaMassima: number; forme: Forma[] };
 
-export type Punto = [number, number];
-export type Anello = { provincia: number; punti: Punto[]; centro: Punto; piana: boolean };
-
-/** Riquadro della figura (stesse proporzioni in globals.css, .italia3d). */
-export const LARGHEZZA = 1000, ALTEZZA = 1000;
-export const GRADI_ROTAZIONE = 15;   // rotazione automatica, avanti e indietro
-export const GRADI_MASSIMI = 25;     // limite del trascinamento
+const LARGHEZZA = 1000, ALTEZZA = 1000;
+const GRADI_ROTAZIONE = 15;   // rotazione automatica, avanti e indietro
+const GRADI_MASSIMI = 25;     // limite del trascinamento
 const INCLINAZIONE = (50 * Math.PI) / 180; // altezza della vista sopra il piano
 const DISTANZA = 1900;               // distanza della camera: prospettiva leggera
-const ALTEZZA_MASSIMA = 150;         // prisma della provincia con più contratti, in unità di mappa.json
 const MARGINE = 8;
 const PASSO_GRADI = 5;
 // Un poligono diverso dal principale della sua provincia, con area sotto questa soglia (unità² di mappa.json,
 // circa 400 km²), si disegna piatto: sono le isole minori e i piccoli pezzi staccati, che da estrusi sembrano aghi.
 const AREA_PIANA = 100;
+
+type Anello = { voce: number; punti: Punto[]; centro: Punto; piana: boolean };
 
 /** Anelli di un tracciato di script/mappa.py: «M x y l dx dy … z», ripetuto. */
 export function leggiTracciato(d: string): Punto[][] {
@@ -62,9 +57,9 @@ function semplifica(p: Punto[], tolleranza: number): Punto[] {
   return [...tieni].sort((a, b) => a - b).slice(0, -1).map((i) => chiuso[i]);
 }
 
-export function preparaScena(province: DatiProvincia[]) {
+function preparaScena(forme: Forma[], altezzaMassima: number) {
   const anelli: Anello[] = [];
-  province.forEach((p, provincia) => {
+  forme.forEach((p, voce) => {
     const poligoni = leggiTracciato(p.d).filter((q) => q.length >= 3 && area(q) !== 0);
     const principale = poligoni.reduce((m, q) => (Math.abs(area(q)) > Math.abs(area(m)) ? q : m));
     for (const punti of poligoni) {
@@ -72,20 +67,20 @@ export function preparaScena(province: DatiProvincia[]) {
         punti.reduce((s, q) => s + q[0], 0) / punti.length,
         punti.reduce((s, q) => s + q[1], 0) / punti.length,
       ];
-      anelli.push({ provincia, punti, centro, piana: punti !== principale && Math.abs(area(punti)) < AREA_PIANA });
+      anelli.push({ voce, punti, centro, piana: punti !== principale && Math.abs(area(punti)) < AREA_PIANA });
     }
   });
   const xs = anelli.flatMap((a) => a.punti.map((q) => q[0])), ys = anelli.flatMap((a) => a.punti.map((q) => q[1]));
   const cx = (Math.min(...xs) + Math.max(...xs)) / 2, cy = (Math.min(...ys) + Math.max(...ys)) / 2;
-  const max = Math.max(...province.map((p) => p.contratti));
-  const altezze = province.map((p) => (p.contratti / max) * ALTEZZA_MASSIMA);
+  const max = Math.max(...forme.map((p) => p.valore ?? 0));
+  const altezze = forme.map((p) => ((p.valore ?? 0) / max) * altezzaMassima);
 
   // Una sola scala per tutte le rotazioni possibili; il centro orizzontale è calcolato ogni 5 gradi.
   const ingombri: { x0: number; x1: number; y0: number; y1: number }[] = [];
   for (let g = -GRADI_MASSIMI; g <= GRADI_MASSIMI; g += PASSO_GRADI) {
     const proietta = proiezione(g, cx, cy);
     const q = { x0: Infinity, x1: -Infinity, y0: Infinity, y1: -Infinity };
-    for (const a of anelli) for (const [x, y] of a.punti) for (const z of [0, a.piana ? 0 : altezze[a.provincia]]) {
+    for (const a of anelli) for (const [x, y] of a.punti) for (const z of [0, a.piana ? 0 : altezze[a.voce]]) {
       const [u, v] = proietta(x, y, z);
       if (u < q.x0) q.x0 = u; if (u > q.x1) q.x1 = u; if (v < q.y0) q.y0 = v; if (v > q.y1) q.y1 = v;
     }
@@ -97,10 +92,10 @@ export function preparaScena(province: DatiProvincia[]) {
   const dy = ALTEZZA / 2 - (scala * (y0 + y1)) / 2;
   return { anelli, altezze, cx, cy, scala, dy, centri };
 }
-export type Scena = ReturnType<typeof preparaScena>;
+type Scena = ReturnType<typeof preparaScena>;
 
 /** Gli stessi anelli, con i contorni semplificati; quelli piatti, già piccoli, restano come sono. */
-export function alleggerisci(scena: Scena, tolleranza: number): Scena {
+function alleggerisci(scena: Scena, tolleranza: number): Scena {
   const anelli = scena.anelli.map((a) => {
     if (a.piana) return a;
     const p = semplifica(a.punti, tolleranza);
@@ -120,19 +115,12 @@ function proiezione(gradi: number, cx: number, cy: number) {
   };
 }
 
-export type Prisma = {
-  provincia: number;
-  piana: boolean;
-  /** facce laterali visibili, in due toni di luce; ogni poligono è una striscia di lati consecutivi */
-  lati: [Punto[][], Punto[][]];
-  cima: Punto[];
-};
-
 /**
  * Prismi in ordine di disegno: prima i poligoni piatti (al livello del piano non coprono nessun prisma),
- * poi gli altri dal più lontano al più vicino; per ciascuno prima i lati, poi la faccia superiore.
+ * poi gli altri dal più lontano al più vicino; per ciascuno prima i lati (due toni di luce; ogni poligono
+ * è una striscia di lati consecutivi), poi la faccia superiore.
  */
-export function prismi(scena: Scena, gradi: number, altezza: (provincia: number) => number): Prisma[] {
+function prismi(scena: Scena, gradi: number, altezza: (voce: number) => number) {
   const { cx, cy, scala, dy, centri } = scena;
   const posto = (gradi + GRADI_MASSIMI) / PASSO_GRADI, prima = Math.max(0, Math.min(centri.length - 2, Math.floor(posto)));
   const dx = LARGHEZZA / 2 - scala * (centri[prima] + (centri[prima + 1] - centri[prima]) * (posto - prima));
@@ -140,11 +128,12 @@ export function prismi(scena: Scena, gradi: number, altezza: (provincia: number)
   const schermo = (x: number, y: number, z: number): Punto => { const [u, v] = p(x, y, z); return [u * scala + dx, v * scala + dy]; };
   const t = (gradi * Math.PI) / 180, c = Math.cos(t), s = Math.sin(t);
   const occhio = DISTANZA * Math.cos(INCLINAZIONE);
+  const piatto = (a: Anello) => a.piana || scena.altezze[a.voce] === 0;
   return scena.anelli
     .map((a) => ({ a, profondita: (a.centro[0] - cx) * s + (a.centro[1] - cy) * c }))
-    .sort((m, n) => Number(n.a.piana) - Number(m.a.piana) || m.profondita - n.profondita)
+    .sort((m, n) => Number(piatto(n.a)) - Number(piatto(m.a)) || m.profondita - n.profondita)
     .map(({ a }) => {
-      const h = a.piana ? 0 : altezza(a.provincia), n = a.punti.length;
+      const h = a.piana ? 0 : altezza(a.voce), n = a.punti.length;
       const cima = a.punti.map(([x, y]) => schermo(x, y, h));
       const lati: [Punto[][], Punto[][]] = [[], []];
       if (h > 0) {
@@ -170,6 +159,26 @@ export function prismi(scena: Scena, gradi: number, altezza: (provincia: number)
           k = j;
         }
       }
-      return { provincia: a.provincia, piana: a.piana, lati, cima };
+      return {
+        voce: a.voce,
+        facce: [
+          ...lati.flatMap((strisce, t) => (strisce.length ? [{ ruolo: t ? "l1" as const : "l0" as const, punti: strisce }] : [])),
+          { ruolo: a.piana ? "piana" as const : "cima" as const, punti: [cima] },
+        ],
+      };
     });
+}
+
+/** `leggero`: contorni semplificati, per l'SVG statico; l'inquadratura resta quella dei contorni interi. */
+export function motoreMappa(dati: DatiMappa, leggero = false): Motore {
+  const intera = preparaScena(dati.forme, dati.altezzaMassima);
+  const scena = leggero ? alleggerisci(intera, 1.5) : intera;
+  // la salita va da nord a sud, dalla posizione del primo poligono di ogni voce
+  const nord = Math.min(...scena.anelli.map((a) => a.centro[1])), sud = Math.max(...scena.anelli.map((a) => a.centro[1]));
+  const ritardi = dati.forme.map((_, i) => ((scena.anelli.find((a) => a.voce === i)?.centro[1] ?? nord) - nord) / (sud - nord));
+  return {
+    larghezza: LARGHEZZA, altezza: ALTEZZA, voci: dati.forme, ritardi,
+    ampiezza: GRADI_ROTAZIONE, limite: GRADI_MASSIMI, perPixel: 0.2,
+    quadro: (gradi, crescita) => prismi(scena, gradi, (i) => scena.altezze[i] * crescita(i)),
+  };
 }

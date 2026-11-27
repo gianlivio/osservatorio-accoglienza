@@ -175,20 +175,20 @@ th.num .ordina{flex-direction:row-reverse}
 .g-punto{fill:var(--timbro)}
 .g-anno,.g-valore{font-family:var(--dato);font-size:12px;fill:var(--tenue)}
 .g-valore{font-weight:600;fill:var(--inchiostro)}
-.italia3d{position:relative;width:100%;aspect-ratio:1;margin-bottom:8px}
-.italia3d svg,.italia3d canvas{display:block;width:100%;height:100%}
-.italia3d canvas{cursor:grab;user-select:none;-webkit-tap-highlight-color:transparent}
-.italia3d .i3-cima{fill:var(--c);stroke:var(--carta);stroke-width:1;stroke-linejoin:round}
-.italia3d .i3-piana{stroke:none}
-.italia3d .i3-l0{fill:color-mix(in srgb,var(--c) 72%,var(--inchiostro))}
-.italia3d .i3-l1{fill:color-mix(in srgb,var(--c) 62%,var(--inchiostro))}
-.italia3d a:hover .i3-cima,.italia3d a:focus-visible .i3-cima{stroke:var(--inchiostro);stroke-width:3}
-.italia3d a:focus-visible{outline:none}
-.italia3d-riquadro{position:absolute;z-index:2;pointer-events:none;background:var(--carta);border:1px solid var(--inchiostro);padding:8px 11px;
+.figura3d{position:relative;width:100%;margin-bottom:8px}
+.figura3d svg,.figura3d canvas{display:block;width:100%;height:100%}
+.figura3d canvas{cursor:grab;user-select:none;-webkit-tap-highlight-color:transparent}
+.figura3d .f3-cima{fill:var(--c);stroke:var(--carta);stroke-width:1;stroke-linejoin:round}
+.figura3d .f3-piana{fill:var(--c)}
+.figura3d .f3-l0{fill:color-mix(in srgb,var(--c) 72%,var(--inchiostro))}
+.figura3d .f3-l1{fill:color-mix(in srgb,var(--c) 62%,var(--inchiostro))}
+.figura3d a:hover .f3-cima,.figura3d a:focus-visible .f3-cima{stroke:var(--inchiostro);stroke-width:3}
+.figura3d a:focus-visible{outline:none}
+.figura3d-riquadro{position:absolute;z-index:2;pointer-events:none;background:var(--carta);border:1px solid var(--inchiostro);padding:8px 11px;
   font-family:var(--dato);font-size:12px;line-height:1.5;width:max-content;max-width:100%}
-.italia3d-riquadro[hidden]{display:none}
-.italia3d-riquadro b{display:block;font-family:var(--display);font-size:14px}
-.italia3d-riquadro span{display:block}
+.figura3d-riquadro[hidden]{display:none}
+.figura3d-riquadro b{display:block;font-family:var(--display);font-size:14px}
+.figura3d-riquadro span{display:block}
 .m-c0{--c:color-mix(in srgb,var(--timbro) 20%,var(--carta));background:var(--c)}
 .m-c1{--c:color-mix(in srgb,var(--timbro) 38%,var(--carta));background:var(--c)}
 .m-c2{--c:color-mix(in srgb,var(--timbro) 56%,var(--carta));background:var(--c)}
@@ -197,12 +197,12 @@ th.num .ordina{flex-direction:row-reverse}
 .mappa-legenda{list-style:none;display:flex;flex-wrap:wrap;gap:6px 18px;margin:12px 0 0;font-family:var(--dato);font-size:12px;color:var(--tenue)}
 .mappa-legenda li{display:flex;align-items:center;gap:6px;white-space:nowrap}
 .mappa-legenda i{display:inline-block;width:14px;height:14px;border:1px solid var(--linea)}
-.figura-italia{margin:0 auto 44px;max-width:540px}
+.figura-a-lato{margin:0 auto 44px;max-width:540px}
 @media (min-width: 900px){
-  .home-apertura{display:grid;grid-template-columns:minmax(0,1fr) 480px;column-gap:32px;align-items:start}
-  .home-apertura .tesi{font-size:clamp(44px,5.4vw,52px)}
-  .home-apertura .sommario{margin-bottom:28px}
-  .figura-italia{width:100%;margin:0 0 44px}
+  .apertura-figura{display:grid;grid-template-columns:minmax(0,1fr) 480px;column-gap:32px;align-items:start}
+  .apertura-figura .tesi{font-size:clamp(44px,5.4vw,52px)}
+  .apertura-figura .sommario{margin-bottom:28px}
+  .figura-a-lato{width:100%;margin:0 0 44px}
 }
 .g-legge{stroke:var(--tenue);stroke-width:1;stroke-dasharray:3 3;opacity:.75}
 .g-sigla{font-family:var(--dato);font-size:10px;fill:var(--tenue);paint-order:stroke;stroke:var(--carta);stroke-width:3px;stroke-linejoin:round}

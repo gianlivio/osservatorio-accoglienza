@@ -1,6 +1,6 @@
 import mappa from "@/data/mappa.json";
 import { anni, province, slug, nomeProvincia, nItal, pct } from "@/lib/dati";
-import type { DatiItalia } from "@/lib/italia3d";
+import type { DatiMappa } from "@/lib/mappa3d";
 
 export const CLASSI = 5;
 const tracciati = mappa.province as Record<string, { sigla: string; d: string }>;
@@ -21,14 +21,16 @@ export const minima = righe.reduce((m, r) => (r.quota < m.quota ? r : m));
 export const massima = righe.reduce((m, r) => (r.quota > m.quota ? r : m));
 export const periodo = `${anni[0]}–${anni[anni.length - 1]}`;
 
-export const datiItalia: DatiItalia = {
+export const datiItalia: DatiMappa = {
+  tipo: "mappa",
+  altezzaMassima: 150,
   descrizione:
     `Italia in tre dimensioni: per ogni provincia un prisma alto in proporzione al numero di contratti ${periodo}, ` +
     `colorato per quota di contratti con affidamento diretto in ${CLASSI} classi. ` +
-    `La quota va da ${pct(minima.quota)} a ${nomeProvincia(minima.nome)} a ${pct(massima.quota)} a ${nomeProvincia(massima.nome)}.`,
-  province: righe.map((r) => ({
-    nome: nomeProvincia(r.nome), slug: slug(r.nome), d: tracciati[r.nome].d, contratti: r.n, classe: classe(r.quota),
-    testoContratti: `${nItal(r.n)} contratti ${periodo}`,
-    testoQuota: `${pct(r.quota)} con affidamento diretto`,
+    `La quota va da ${pct(minima.quota)} a ${nomeProvincia(minima.nome)} a ${pct(massima.quota)} a ${nomeProvincia(massima.nome)}. ` +
+    `I numeri di ogni provincia sono nella tabella più in basso.`,
+  forme: righe.map((r) => ({
+    d: tracciati[r.nome].d, valore: r.n, classe: classe(r.quota), tono: null, href: `/provincia/${slug(r.nome)}`,
+    testi: [nomeProvincia(r.nome), `${nItal(r.n)} contratti ${periodo}`, `${pct(r.quota)} con affidamento diretto`],
   })),
 };
