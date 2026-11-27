@@ -2,7 +2,7 @@ import Link from "next/link";
 import Ricerca from "./Ricerca";
 import TabellaProvince from "./TabellaProvince";
 import JsonLd from "./JsonLd";
-import MappaItalia from "./MappaItalia";
+import FiguraItalia from "./FiguraItalia";
 import { anni, province } from "@/lib/dati";
 import { creatore, distribuzioneCsv, fonteAnac, licenza } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
@@ -62,7 +62,7 @@ export default function Home() {
             <Link href="/dieci-anni" className="link-interno">Leggi e numeri dell&apos;accoglienza →</Link>
           </p>
         </div>
-        <MappaItalia />
+        <FiguraItalia />
       </div>
 
       <section className="sezione sezione-ricerca">

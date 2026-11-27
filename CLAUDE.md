@@ -9,15 +9,15 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - `script/centri.py`: aggrega Centri d'Italia (CAS, prima accoglienza, SAI) per provincia e anno.
 - `script/cronologia.py`: scrive `sito/data/cronologia.json` per `/dieci-anni`: legge `province-lite.json` e `centri.json` e contiene ancora, con rapporto e pagina, le cifre sulle notizie di Carta di Roma / Osservatorio di Pavia (i PDF stanno in `dati-media/`, non versionata): sono nel repo ma non usate da nessuna pagina.
 - `script/coordinate.mjs`: coordinate (centroidi dai contorni di world-atlas), contorno e continente di ogni paese di `paesi.json`, per il globo di `/paesi`; lo chiama `script/paesi.py` (servono node e le dipendenze di `sito/`).
-- `script/mappa.py`: tracciati delle province (confini ISTAT generalizzati, `dati-istat/confini/`) → `sito/data/mappa.json`, usato dalla mappa della home.
+- `script/mappa.py`: tracciati delle province (confini ISTAT generalizzati, `dati-istat/confini/`) → `sito/data/mappa.json`, usato dalla figura 3D della home.
 - `script/estrai_msna.py`: estrae i minori non accompagnati dai PDF del Ministero in `sito/data/msna.json` (serve `pdfplumber`). Si ferma, e la build di `lib/dati.ts` fallisce, se un valore di `sito/data/msna-attesi.json` non coincide o se le regioni non sommano al totale di un mese. Nei report fino al 2021 la seconda tabella per regione è quella delle sole minori: si usa la prima, con il totale più alto.
 - `script/estrai_ingressi.py`: ingressi di minori per anno (2023–2025, solo anno solare) e quota via mare per cittadinanza dai rapporti semestrali di dicembre (`dati-msna-sem/`, serve `pdfplumber`) → `sito/data/msna-ingressi.json`, con testo e pagina di ogni cifra; la build ripete i controlli (`sito/lib/msnaIngressi.ts`).
 - `script/esclusi.csv`: CIG esclusi a mano (cig, motivo). `unisci.py`, `consolida.py`, `aggiudicatari.py`: analisi su un solo anno, fuori dalla pipeline.
 - `output/`: versionati solo gli estratti mensili `accoglienza_ANNO_MM.csv`; i `*_completo.csv` sono ignorati.
 - `dati-grezzi/`, `dati-centri/`, `dati-msna*/`, `dati-istat/`: non versionate (ANAC, Centri d'Italia, PDF del Ministero).
 - `.github/workflows/aggiorna.yml`: il 25 di ogni mese apre una issue con i comandi di aggiornamento.
-- `sito/app/`: pagine `/`, `/che-cose`, `/minori`, `/metodologia`, `/quanto-costa`, `/dieci-anni`, `/provincia/[slug]` (con `feed.xml`), `/ente/[slug]`, `/feed.xml`, `/ricerca.json`, `sitemap.ts`, `robots.ts`; `Ricerca.tsx` è l'unico componente caricato dalla home oltre alla tabella.
-- `sito/lib/`: `dati.ts` (tipi, `slug`, `nomeProvincia`, `nItal`, `euro`), `enti.ts`, `centri.ts`, `regioni.ts` (provincia→regione), `nomi.ts` (`nomeEnte`), `jsonld.ts`, `metadati.ts`, `feed.ts`.
+- `sito/app/`: pagine `/`, `/che-cose`, `/minori`, `/metodologia`, `/quanto-costa`, `/dieci-anni`, `/provincia/[slug]` (con `feed.xml`), `/ente/[slug]`, `/feed.xml`, `/ricerca.json`, `sitemap.ts`, `robots.ts`; Nel primo caricamento della home ci sono, oltre alla tabella, solo `Ricerca.tsx` e `Italia3DLoader.tsx`; il canvas della figura 3D (`Italia3DTela.tsx`) è un pacchetto separato.
+- `sito/lib/`: `dati.ts` (tipi, `slug`, `nomeProvincia`, `nItal`, `euro`), `enti.ts`, `centri.ts`, `regioni.ts` (provincia→regione), `italia3d.ts` (geometria della figura 3D, comune all'SVG del build e al canvas; non importa dati), `italiaDati.ts` (classi e testi, scaricati dal browser da `/italia.json`), `nomi.ts` (`nomeEnte`), `jsonld.ts`, `metadati.ts`, `feed.ts`.
 - `sito/data/`: `province-lite.json` (totali e anni per provincia, caricato dalla home), `provincia/<slug>.json`, `ente/<slug>.json` + `enti.json`, `centri.json`, `msna.json`. `sito/public/dati/`: CSV scaricabili (uno per provincia, `contratti.csv`).
 
 ## Rigenerare i dati (dalla radice del repo)
@@ -32,7 +32,7 @@ Affianca i dati sui centri (Centri d'Italia, CC BY 4.0) e sui minori non accompa
 - I corsi di formazione professionale non contano come accoglienza (`solo_formazione` in `estrai2.py`), salvo se uniti a ospitalità.
 - Falsi positivi esclusi a mano in `script/esclusi.csv`, con il motivo; per i mesi futuri si aggiunge anche un VETO in `estrai2.py`. Gli estratti in `output/` non si modificano.
 - Enti per codice fiscale: 11 cifre = impresa o ente (hanno una pagina `/ente/`), 16 caratteri = persona fisica (esclusa), altri formati o assenti = contati per nome. Il nome è il più frequente per quel codice.
-- Performance: la home carica solo `province-lite.json`; il dettaglio di provincia, ente e centri si carica a build time nelle rispettive pagine, mai nella home. `Ricerca.tsx` non importa `lib/dati` e scarica `/ricerca.json` al primo focus.
+- Performance: la home carica solo `province-lite.json` (la figura 3D scarica `/italia.json` dopo il primo rendering); il dettaglio di provincia, ente e centri si carica a build time nelle rispettive pagine, mai nella home. `Ricerca.tsx` non importa `lib/dati` e scarica `/ricerca.json` al primo focus.
 - Centri d'Italia: SAI dal file dei progetti; CAS e prima accoglienza sommando tutte le righe, righe ripetute comprese, come la fonte.
 
 ## Registro del copy
