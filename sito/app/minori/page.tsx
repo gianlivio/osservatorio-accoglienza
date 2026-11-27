@@ -108,6 +108,8 @@ export default function Minori() {
   const primoSemestraleTot = d.nazionale.find((x) => x.tipo === "semestrale")!.periodo.slice(0, 4);
   const primoAnno = d.primo_periodo.split("-")[0];
   const maxRegione = Math.max(...d.regioni.map((r) => r.ultimo), 1);
+  const perNumero = [...d.regioni].sort((a, b) => a.ultimo - b.ultimo);
+  const regioneMin = perNumero[0], regioneMax = perNumero[perNumero.length - 1];
   const naz = (periodo: string) => d.nazionale.find((x) => x.periodo === periodo)!.presenti;
   const lungo = (periodo: string) => { const [a, m] = periodo.split("-"); return `${mesi[+m]} ${a}`; };
   const datasetJsonLd = {
@@ -157,6 +159,10 @@ export default function Minori() {
             Altezza: minori stranieri non accompagnati presenti al 31 {dataLeggibile}, per regione (Ministero del Lavoro). Dal {+fineRegionale + 1} il
             dato per regione non è pubblicato nello stesso formato.
           </p>
+          <ul className="mappa-legenda" aria-label="Legenda del colore: minori presenti, dal minimo al massimo">
+            <li><i className="m-c0" aria-hidden="true" />minimo {nItal(regioneMin.ultimo)} ({regioneMin.regione})</li>
+            <li><i className="m-c4" aria-hidden="true" />massimo {nItal(regioneMax.ultimo)} ({regioneMax.regione})</li>
+          </ul>
         </Figura3D>
       </div>
 

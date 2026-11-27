@@ -5,9 +5,13 @@ import { centri } from "@/lib/centri";
 import { cronologia } from "@/lib/cronologia";
 import { slug, nomeProvincia, nItal, nItal2, dataLunga, trovaProvincia, msnaData } from "@/lib/dati";
 import { datiItalia } from "@/lib/italiaDati";
+import { ALTEZZA_MASSIMA } from "@/lib/mappa3d";
 import type { DatiFigura } from "@/lib/motori";
 
 const tracciati = mappa.province as Record<string, { sigla: string; d: string }>;
+
+/** Scala di un solo tono, dal valore minimo (più chiaro) al massimo (pieno). */
+const tonoTra = (v: number, min: number, max: number) => Math.round(20 + (80 * (v - min)) / (max - min));
 
 /** Quanto costa: altezza e colore dal costo giornaliero mediano dei CAS per adulti dell'ultimo anno. */
 function costo(): DatiFigura {
@@ -17,7 +21,7 @@ function costo(): DatiFigura {
   const min = Math.min(...valori), max = Math.max(...valori);
   return {
     tipo: "mappa",
-    altezzaMassima: 50,
+    altezzaMassima: ALTEZZA_MASSIMA,
     descrizione:
       `Italia in tre dimensioni: per ogni provincia un prisma alto in proporzione al costo giornaliero per ospite nei CAS per adulti nel ${anno}, ` +
       `da ${nItal2(min)} € a ${nItal2(max)} €; più scuro dove il costo è più alto. Le province senza dato sono piatte e grigie. ` +
@@ -25,7 +29,7 @@ function costo(): DatiFigura {
     forme: righe.map(({ nome, d, cas }) => {
       const v = cas?.costo_mediano ?? null;
       return {
-        d, valore: v, tono: v === null ? null : Math.round(20 + (80 * (v - min)) / (max - min)),
+        d, valore: v, tono: v === null ? null : tonoTra(v, min, max),
         href: trovaProvincia(slug(nome)) ? `/provincia/${slug(nome)}` : undefined,
         testi: v === null
           ? [nomeProvincia(nome), `Nessun CAS per adulti con il dato nel ${anno}`]
@@ -69,12 +73,12 @@ function minori(): DatiFigura {
   const massima = ordinate[0], minima = ordinate[ordinate.length - 1];
   return {
     tipo: "mappa",
-    altezzaMassima: 90,
+    altezzaMassima: ALTEZZA_MASSIMA,
     descrizione:
       `Italia in tre dimensioni: per ogni regione un prisma alto in proporzione ai minori stranieri non accompagnati presenti al ${giorno}, ` +
-      `da ${nItal(minima.ultimo)} (${minima.regione}) a ${nItal(massima.ultimo)} (${massima.regione}). I valori di ogni regione sono nella tabella più in basso.`,
+      `da ${nItal(minima.ultimo)} (${minima.regione}) a ${nItal(massima.ultimo)} (${massima.regione}); più scuro dove sono di più. I valori di ogni regione sono nella tabella più in basso.`,
     forme: righe.map((r) => ({
-      d: confini[r.regione].d, valore: r.ultimo, tono: 60,
+      d: confini[r.regione].d, valore: r.ultimo, tono: tonoTra(r.ultimo, minima.ultimo, massima.ultimo),
       testi: [r.regione, `${nItal(r.ultimo)} minori presenti al ${giorno}`],
     })),
   };

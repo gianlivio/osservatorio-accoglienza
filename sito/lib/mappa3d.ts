@@ -7,6 +7,8 @@ export type Forma = Voce & { d: string; valore: number | null };
 export type DatiMappa = { tipo: "mappa"; descrizione: string; altezzaMassima: number; forme: Forma[] };
 
 const LARGHEZZA = 1000, ALTEZZA = 1000;
+/** Prisma più alto, in unità di mappa.json (larga 500): la stessa proporzione in tutte le mappe in rilievo. */
+export const ALTEZZA_MASSIMA = 150;
 const GRADI_ROTAZIONE = 15;   // rotazione automatica, avanti e indietro
 const GRADI_MASSIMI = 25;     // limite del trascinamento
 const INCLINAZIONE = (50 * Math.PI) / 180; // altezza della vista sopra il piano

@@ -1,6 +1,6 @@
 import mappa from "@/data/mappa.json";
 import { anni, province, slug, nomeProvincia, nItal, pct } from "@/lib/dati";
-import type { DatiMappa } from "@/lib/mappa3d";
+import { ALTEZZA_MASSIMA, type DatiMappa } from "@/lib/mappa3d";
 
 export const CLASSI = 5;
 const tracciati = mappa.province as Record<string, { sigla: string; d: string }>;
@@ -23,7 +23,7 @@ export const periodo = `${anni[0]}–${anni[anni.length - 1]}`;
 
 export const datiItalia: DatiMappa = {
   tipo: "mappa",
-  altezzaMassima: 150,
+  altezzaMassima: ALTEZZA_MASSIMA,
   descrizione:
     `Italia in tre dimensioni: per ogni provincia un prisma alto in proporzione al numero di contratti ${periodo}, ` +
     `colorato per quota di contratti con affidamento diretto in ${CLASSI} classi. ` +
