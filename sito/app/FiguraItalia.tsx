@@ -1,7 +1,10 @@
+import Link from "next/link";
 import Italia3DLoader from "./Italia3DLoader";
 import Italia3DStatico from "./Italia3DStatico";
-import { slug, nomeProvincia, pct } from "@/lib/dati";
+import { anni, senzaProvincia, slug, nomeProvincia, nItal, pct } from "@/lib/dati";
 import { intervalli, minima, massima } from "@/lib/italiaDati";
+
+const nSenzaProvincia = Object.values(senzaProvincia).reduce((n, a) => n + a.affidamenti, 0);
 
 // Figura della home: province in tre dimensioni, con la didascalia.
 export default function FiguraItalia() {
@@ -11,6 +14,9 @@ export default function FiguraItalia() {
         <Italia3DStatico />
       </Italia3DLoader>
       <figcaption>
+        <p className="mappa-didascalia">
+          Altezza: contratti per l&apos;accoglienza firmati dal {anni[0]} al {anni[anni.length - 1]} (ANAC). Colore: quota assegnata con affidamento diretto.
+        </p>
         <p className="mappa-spiega">Più la provincia è scura, più contratti sono stati assegnati con affidamento diretto.</p>
         <ul className="mappa-legenda" aria-label="Legenda: quota di contratti con affidamento diretto">
           {intervalli.map((c) => (
@@ -20,6 +26,10 @@ export default function FiguraItalia() {
         <p className="mappa-range">
           Va da {pct(minima.quota)} a <a href={`/provincia/${slug(minima.nome)}`} className="link-interno">{nomeProvincia(minima.nome)}</a> a{" "}
           {pct(massima.quota)} a <a href={`/provincia/${slug(massima.nome)}`} className="link-interno">{nomeProvincia(massima.nome)}</a>.
+        </p>
+        <p className="mappa-range">
+          Non sono compresi i {nItal(nSenzaProvincia)} contratti che nei dati ANAC non indicano la provincia.{" "}
+          <Link href="/metodologia#senza-provincia" className="link-interno">Come sono trattati</Link>
         </p>
       </figcaption>
     </figure>

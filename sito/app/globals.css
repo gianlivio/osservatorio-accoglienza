@@ -282,7 +282,8 @@ th.num .ordina{flex-direction:row-reverse}
 .nota-anni{font-family:var(--testo);font-size:13px;color:var(--tenue);margin-left:10px}
 .nota-periodi{margin:-8px 0 14px}
 .mappa-range{margin:10px 0 0;font-size:14px;color:var(--tenue)}
-.mappa-spiega{margin:12px 0 0;font-size:14px}
+.mappa-spiega{margin:8px 0 0;font-size:14px}
+.mappa-didascalia{font-size:14px}
 .altre-province{margin:18px 0 0}
 .mostra-tutte{font-family:var(--dato);font-size:13px;padding:9px 16px;border:1px solid var(--linea);background:transparent;color:var(--inchiostro);cursor:pointer}
 .mostra-tutte:hover{border-color:var(--inchiostro)}
