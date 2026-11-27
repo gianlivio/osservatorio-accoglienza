@@ -28,6 +28,10 @@ export default function FiguraItalia() {
           {pct(massima.quota)} a <a href={`/provincia/${slug(massima.nome)}`} className="link-interno">{nomeProvincia(massima.nome)}</a>.
         </p>
         <p className="mappa-range">
+          Le province con pochi contratti hanno quote meno stabili: il numero di contratti di ogni provincia compare{" "}
+          <span className="solo-largo">passando sopra</span><span className="solo-stretto">toccando</span> la mappa.
+        </p>
+        <p className="mappa-range">
           Non sono compresi i {nItal(nSenzaProvincia)} contratti che nei dati ANAC non indicano la provincia.{" "}
           <Link href="/metodologia#senza-provincia" className="link-interno">Come sono trattati</Link>
         </p>

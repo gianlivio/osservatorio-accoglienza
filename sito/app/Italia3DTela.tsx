@@ -71,7 +71,7 @@ export default function Italia3DTela({ dati }: { dati: DatiItalia }) {
         const attiva = s.provincia === scelta;
         ctx.strokeStyle = `rgb(${attiva ? inchiostro : carta})`;
         ctx.lineWidth = attiva ? 3 : 1;
-        ctx.stroke(cima);
+        if (attiva || !s.piana) ctx.stroke(cima); // il bordo chiaro cancellerebbe le isole più piccole
         forme.push(cima);
         return { provincia: s.provincia, forme };
       });

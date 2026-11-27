@@ -9,7 +9,7 @@ export type DatiProvincia = {
 export type DatiItalia = { descrizione: string; province: DatiProvincia[] };
 
 export type Punto = [number, number];
-export type Anello = { provincia: number; punti: Punto[]; centro: Punto };
+export type Anello = { provincia: number; punti: Punto[]; centro: Punto; piana: boolean };
 
 /** Riquadro della figura (stesse proporzioni in globals.css, .italia3d). */
 export const LARGHEZZA = 1000, ALTEZZA = 1000;
@@ -20,6 +20,9 @@ const DISTANZA = 1900;               // distanza della camera: prospettiva legge
 const ALTEZZA_MASSIMA = 150;         // prisma della provincia con più contratti, in unità di mappa.json
 const MARGINE = 8;
 const PASSO_GRADI = 5;
+// Un poligono diverso dal principale della sua provincia, con area sotto questa soglia (unità² di mappa.json,
+// circa 400 km²), si disegna piatto: sono le isole minori e i piccoli pezzi staccati, che da estrusi sembrano aghi.
+const AREA_PIANA = 100;
 
 /** Anelli di un tracciato di script/mappa.py: «M x y l dx dy … z», ripetuto. */
 export function leggiTracciato(d: string): Punto[][] {
@@ -62,13 +65,14 @@ function semplifica(p: Punto[], tolleranza: number): Punto[] {
 export function preparaScena(province: DatiProvincia[]) {
   const anelli: Anello[] = [];
   province.forEach((p, provincia) => {
-    for (const punti of leggiTracciato(p.d)) {
-      if (punti.length < 3 || area(punti) === 0) continue;
+    const poligoni = leggiTracciato(p.d).filter((q) => q.length >= 3 && area(q) !== 0);
+    const principale = poligoni.reduce((m, q) => (Math.abs(area(q)) > Math.abs(area(m)) ? q : m));
+    for (const punti of poligoni) {
       const centro: Punto = [
         punti.reduce((s, q) => s + q[0], 0) / punti.length,
         punti.reduce((s, q) => s + q[1], 0) / punti.length,
       ];
-      anelli.push({ provincia, punti, centro });
+      anelli.push({ provincia, punti, centro, piana: punti !== principale && Math.abs(area(punti)) < AREA_PIANA });
     }
   });
   const xs = anelli.flatMap((a) => a.punti.map((q) => q[0])), ys = anelli.flatMap((a) => a.punti.map((q) => q[1]));
@@ -81,7 +85,7 @@ export function preparaScena(province: DatiProvincia[]) {
   for (let g = -GRADI_MASSIMI; g <= GRADI_MASSIMI; g += PASSO_GRADI) {
     const proietta = proiezione(g, cx, cy);
     const q = { x0: Infinity, x1: -Infinity, y0: Infinity, y1: -Infinity };
-    for (const a of anelli) for (const [x, y] of a.punti) for (const z of [0, altezze[a.provincia]]) {
+    for (const a of anelli) for (const [x, y] of a.punti) for (const z of [0, a.piana ? 0 : altezze[a.provincia]]) {
       const [u, v] = proietta(x, y, z);
       if (u < q.x0) q.x0 = u; if (u > q.x1) q.x1 = u; if (v < q.y0) q.y0 = v; if (v > q.y1) q.y1 = v;
     }
@@ -95,16 +99,13 @@ export function preparaScena(province: DatiProvincia[]) {
 }
 export type Scena = ReturnType<typeof preparaScena>;
 
-/** Gli stessi anelli, semplificati; i pezzi molto piccoli si omettono, tranne il maggiore di ogni provincia. */
-export function alleggerisci(scena: Scena, tolleranza: number, areaMinima: number): Scena {
-  const maggiore = new Map<number, Anello>();
-  for (const a of scena.anelli) {
-    const m = maggiore.get(a.provincia);
-    if (!m || Math.abs(area(a.punti)) > Math.abs(area(m.punti))) maggiore.set(a.provincia, a);
-  }
-  const anelli = scena.anelli
-    .filter((a) => maggiore.get(a.provincia) === a || Math.abs(area(a.punti)) >= areaMinima)
-    .map((a) => { const p = semplifica(a.punti, tolleranza); return { ...a, punti: p.length < 3 ? a.punti : p }; });
+/** Gli stessi anelli, con i contorni semplificati; quelli piatti, già piccoli, restano come sono. */
+export function alleggerisci(scena: Scena, tolleranza: number): Scena {
+  const anelli = scena.anelli.map((a) => {
+    if (a.piana) return a;
+    const p = semplifica(a.punti, tolleranza);
+    return p.length < 3 ? a : { ...a, punti: p };
+  });
   return { ...scena, anelli };
 }
 
@@ -121,12 +122,16 @@ function proiezione(gradi: number, cx: number, cy: number) {
 
 export type Prisma = {
   provincia: number;
+  piana: boolean;
   /** facce laterali visibili, in due toni di luce; ogni poligono è una striscia di lati consecutivi */
   lati: [Punto[][], Punto[][]];
   cima: Punto[];
 };
 
-/** Prismi in ordine di disegno, dal più lontano al più vicino; per ciascuno prima i lati, poi la faccia superiore. */
+/**
+ * Prismi in ordine di disegno: prima i poligoni piatti (al livello del piano non coprono nessun prisma),
+ * poi gli altri dal più lontano al più vicino; per ciascuno prima i lati, poi la faccia superiore.
+ */
 export function prismi(scena: Scena, gradi: number, altezza: (provincia: number) => number): Prisma[] {
   const { cx, cy, scala, dy, centri } = scena;
   const posto = (gradi + GRADI_MASSIMI) / PASSO_GRADI, prima = Math.max(0, Math.min(centri.length - 2, Math.floor(posto)));
@@ -137,9 +142,9 @@ export function prismi(scena: Scena, gradi: number, altezza: (provincia: number)
   const occhio = DISTANZA * Math.cos(INCLINAZIONE);
   return scena.anelli
     .map((a) => ({ a, profondita: (a.centro[0] - cx) * s + (a.centro[1] - cy) * c }))
-    .sort((m, n) => m.profondita - n.profondita)
+    .sort((m, n) => Number(n.a.piana) - Number(m.a.piana) || m.profondita - n.profondita)
     .map(({ a }) => {
-      const h = altezza(a.provincia), n = a.punti.length;
+      const h = a.piana ? 0 : altezza(a.provincia), n = a.punti.length;
       const cima = a.punti.map(([x, y]) => schermo(x, y, h));
       const lati: [Punto[][], Punto[][]] = [[], []];
       if (h > 0) {
@@ -165,6 +170,6 @@ export function prismi(scena: Scena, gradi: number, altezza: (provincia: number)
           k = j;
         }
       }
-      return { provincia: a.provincia, lati, cima };
+      return { provincia: a.provincia, piana: a.piana, lati, cima };
     });
 }

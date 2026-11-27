@@ -15,7 +15,7 @@ function tracciato(punti: Punto[]) {
 
 /** La stessa vista del canvas, ferma, generata al build: si vede prima del caricamento e senza JavaScript. */
 export default function Italia3DStatico() {
-  const scena = alleggerisci(preparaScena(datiItalia.province), 1.5, 6);
+  const scena = alleggerisci(preparaScena(datiItalia.province), 1.5);
   const gia = new Set<number>();
   return (
     <svg viewBox={`0 0 ${LARGHEZZA} ${ALTEZZA}`} role="group" aria-label={datiItalia.descrizione}>
@@ -27,7 +27,7 @@ export default function Italia3DStatico() {
           <a key={k} href={`/provincia/${p.slug}`} className={`m-c${p.classe}`} tabIndex={ripetuto ? -1 : undefined}
             aria-label={`${p.nome}: ${p.testoContratti}, ${p.testoQuota}`}>
             {s.lati.map((l, t) => l.length > 0 && <path key={t} className={`i3-l${t}`} d={l.map(tracciato).join("")} />)}
-            <path className="i3-cima" d={tracciato(s.cima)} />
+            <path className={s.piana ? "i3-cima i3-piana" : "i3-cima"} d={tracciato(s.cima)} />
           </a>
         );
       })}
