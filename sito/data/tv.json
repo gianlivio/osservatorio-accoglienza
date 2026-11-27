@@ -1,0 +1,106 @@
+{
+ "fonte": "Wikimedia Commons",
+ "modifiche": "ridimensionate a 640 px di larghezza e convertite in WebP",
+ "immagini": [
+  {
+   "file": "/tv/sea-watch-3.webp",
+   "larghezza": 640,
+   "altezza": 427,
+   "alt": "La nave Sea-Watch 3 in mare aperto",
+   "autore": "Chris Grodotzki / Sea-Watch.org",
+   "licenza": "CC BY-SA 4.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:4_grodotzki_seawatch3_20181219_3388.jpg"
+  },
+  {
+   "file": "/tv/lampedusa-porto.webp",
+   "larghezza": 640,
+   "altezza": 480,
+   "alt": "Il Porto Vecchio di Lampedusa",
+   "autore": "Hein56didden",
+   "licenza": "CC BY-SA 3.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Lampedusa-Porto_Vecchio,Pelagische_Eilanden.JPG"
+  },
+  {
+   "file": "/tv/guardia-costiera.webp",
+   "larghezza": 640,
+   "altezza": 480,
+   "alt": "La nave CP 941 della Guardia Costiera ormeggiata in porto",
+   "autore": "ARPAT",
+   "licenza": "CC BY-SA 2.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:CP_941_Diciotti.jpg"
+  },
+  {
+   "file": "/tv/cara-di-mineo.webp",
+   "larghezza": 640,
+   "altezza": 480,
+   "alt": "Le case del centro di accoglienza (CARA) di Mineo viste dalla campagna",
+   "autore": "Davide Mauro",
+   "licenza": "CC BY-SA 4.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:CARA_di_Mineo_02.jpg"
+  },
+  {
+   "file": "/tv/ocean-viking.webp",
+   "larghezza": 640,
+   "altezza": 480,
+   "alt": "La nave Ocean Viking ormeggiata nel Porto Grande di Siracusa",
+   "autore": "Danysan1",
+   "licenza": "CC BY-SA 4.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Ocean_Viking_nel_Porto_Grande_di_Siracusa.jpg"
+  },
+  {
+   "file": "/tv/porto-di-augusta.webp",
+   "larghezza": 640,
+   "altezza": 383,
+   "alt": "La baia e il porto di Augusta visti dall’alto",
+   "autore": "Davide Mauro",
+   "licenza": "CC BY-SA 2.5",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Baia_di_augusta.jpg"
+  },
+  {
+   "file": "/tv/marina-san-giorgio.webp",
+   "larghezza": 640,
+   "altezza": 480,
+   "alt": "La nave San Giorgio della Marina militare nel porto di Brindisi",
+   "autore": "Saggittarius A",
+   "licenza": "CC BY-SA 4.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Nave_San_Giorgio_Brindisi.jpg"
+  },
+  {
+   "file": "/tv/lampedusa-costa.webp",
+   "larghezza": 640,
+   "altezza": 397,
+   "alt": "La costa di Lampedusa e il mare, dall’alto",
+   "autore": "Luca Siragusa",
+   "licenza": "CC BY 2.0",
+   "licenza_url": "https://creativecommons.org/licenses/by/2.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Mare_Morto,_Lampedusa_(5254488838).jpg"
+  },
+  {
+   "file": "/tv/humanity-1.webp",
+   "larghezza": 640,
+   "altezza": 480,
+   "alt": "La nave Humanity 1 ormeggiata nel Porto Grande di Siracusa",
+   "autore": "Danysan1",
+   "licenza": "CC BY-SA 4.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Humanity_1_nel_Porto_Grande_di_Siracusa.jpg"
+  },
+  {
+   "file": "/tv/pozzallo.webp",
+   "larghezza": 640,
+   "altezza": 480,
+   "alt": "Il porto di Pozzallo al tramonto",
+   "autore": "Brick84",
+   "licenza": "CC BY-SA 3.0",
+   "licenza_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Porto_di_Pozzallo_al_tramonto.jpg"
+  }
+ ]
+}
