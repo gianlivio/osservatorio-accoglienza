@@ -104,6 +104,67 @@ function alleggerisci(scena: Scena, tolleranza: number): Scena {
   return { ...scena, anelli };
 }
 
+const CONTATTO = 1.5; // unità di mappa.json: lati più vicini di così sono un confine in comune
+
+/**
+ * Per ogni coppia di poligoni confinanti, la somma delle normali (lunghe come il lato) dei lati di `a` che toccano `b`:
+ * ruotata con la vista, dice quale dei due sta davanti. I contorni sono semplificati uno per uno, quindi si confronta la distanza.
+ */
+function confini(anelli: Anello[]) {
+  const lati = anelli.map((a) => a.punti.map((p, i) => [p, a.punti[(i + 1) % a.punti.length]] as const));
+  const riquadri = anelli.map((a) => {
+    const xs = a.punti.map((q) => q[0]), ys = a.punti.map((q) => q[1]);
+    return [Math.min(...xs) - CONTATTO, Math.max(...xs) + CONTATTO, Math.min(...ys) - CONTATTO, Math.max(...ys) + CONTATTO];
+  });
+  const tocca = (x: number, y: number, [[ax, ay], [bx, by]]: readonly [Punto, Punto]) => {
+    // scarto rapido sul riquadro del lato: questo calcolo si ripete milioni di volte
+    if ((ax < x - CONTATTO && bx < x - CONTATTO) || (ax > x + CONTATTO && bx > x + CONTATTO) ||
+        (ay < y - CONTATTO && by < y - CONTATTO) || (ay > y + CONTATTO && by > y + CONTATTO)) return false;
+    const dx = bx - ax, dy = by - ay, t = Math.max(0, Math.min(1, ((x - ax) * dx + (y - ay) * dy) / (dx * dx + dy * dy || 1)));
+    const u = x - ax - t * dx, v = y - ay - t * dy;
+    return u * u + v * v < CONTATTO * CONTATTO;
+  };
+  const coppie: { a: number; b: number; nx: number; ny: number }[] = [];
+  anelli.forEach((_, a) => anelli.forEach((__, b) => {
+    const [p, q] = [riquadri[a], riquadri[b]];
+    if (a === b || p[0] > q[1] || q[0] > p[1] || p[2] > q[3] || q[2] > p[3]) return;
+    let nx = 0, ny = 0;
+    for (const [[x, y], [u, v]] of lati[a]) {
+      const mx = (x + u) / 2, my = (y + v) / 2;
+      if (mx < q[0] || mx > q[1] || my < q[2] || my > q[3] || !lati[b].some((l) => tocca(mx, my, l))) continue;
+      nx += v - y; ny -= u - x;
+    }
+    if (nx || ny) coppie.push({ a, b, nx, ny });
+  }));
+  return coppie;
+}
+
+/**
+ * Ordine di disegno: ogni poligono dopo i confinanti che gli stanno dietro; a parità, dal più lontano al più vicino.
+ * Dove i vincoli formano un anello si riprende dal più lontano tra i rimasti.
+ */
+function ordina(profondita: number[], coppie: ReturnType<typeof confini>, s: number, c: number) {
+  const davanti: number[][] = profondita.map(() => []);
+  const attesa = profondita.map(() => 0);
+  for (const { a, b, nx, ny } of coppie) {
+    // la normale di `a` rivolta verso la camera: `b` sta davanti ad `a`
+    if (nx * s + ny * c > 0.5) { davanti[a].push(b); attesa[b]++; }
+  }
+  const rimasti = new Set(profondita.keys());
+  const ordine: number[] = [];
+  while (rimasti.size) {
+    let scelto = -1, libero = false;
+    for (const i of rimasti) {
+      const l = attesa[i] <= 0;
+      if (scelto < 0 || (l && !libero) || (l === libero && profondita[i] < profondita[scelto])) { scelto = i; libero = l; }
+    }
+    rimasti.delete(scelto);
+    ordine.push(scelto);
+    for (const j of davanti[scelto]) attesa[j]--;
+  }
+  return ordine;
+}
+
 /** Rotazione di `gradi` attorno all'asse verticale, poi vista inclinata con prospettiva. */
 function proiezione(gradi: number, cx: number, cy: number) {
   const t = (gradi * Math.PI) / 180, c = Math.cos(t), s = Math.sin(t);
@@ -120,7 +181,7 @@ function proiezione(gradi: number, cx: number, cy: number) {
  * poi gli altri dal più lontano al più vicino; per ciascuno prima i lati (due toni di luce; ogni poligono
  * è una striscia di lati consecutivi), poi la faccia superiore.
  */
-function prismi(scena: Scena, gradi: number, altezza: (voce: number) => number) {
+function prismi(scena: Scena, coppie: ReturnType<typeof confini>, gradi: number, altezza: (voce: number) => number) {
   const { cx, cy, scala, dy, centri } = scena;
   const posto = (gradi + GRADI_MASSIMI) / PASSO_GRADI, prima = Math.max(0, Math.min(centri.length - 2, Math.floor(posto)));
   const dx = LARGHEZZA / 2 - scala * (centri[prima] + (centri[prima + 1] - centri[prima]) * (posto - prima));
@@ -129,10 +190,11 @@ function prismi(scena: Scena, gradi: number, altezza: (voce: number) => number) 
   const t = (gradi * Math.PI) / 180, c = Math.cos(t), s = Math.sin(t);
   const occhio = DISTANZA * Math.cos(INCLINAZIONE);
   const piatto = (a: Anello) => a.piana || scena.altezze[a.voce] === 0;
-  return scena.anelli
-    .map((a) => ({ a, profondita: (a.centro[0] - cx) * s + (a.centro[1] - cy) * c }))
-    .sort((m, n) => Number(piatto(n.a)) - Number(piatto(m.a)) || m.profondita - n.profondita)
-    .map(({ a }) => {
+  // i poligoni piatti hanno profondità spostata in fondo: si disegnano per primi
+  const profondita = scena.anelli.map((a) => (a.centro[0] - cx) * s + (a.centro[1] - cy) * c - (piatto(a) ? 1e6 : 0));
+  return ordina(profondita, coppie.filter(({ a, b }) => !piatto(scena.anelli[a]) && !piatto(scena.anelli[b])), s, c)
+    .map((i) => scena.anelli[i])
+    .map((a) => {
       const h = a.piana ? 0 : altezza(a.voce), n = a.punti.length;
       const cima = a.punti.map(([x, y]) => schermo(x, y, h));
       const lati: [Punto[][], Punto[][]] = [[], []];
@@ -176,9 +238,10 @@ export function motoreMappa(dati: DatiMappa, leggero = false): Motore {
   // la salita va da nord a sud, dalla posizione del primo poligono di ogni voce
   const nord = Math.min(...scena.anelli.map((a) => a.centro[1])), sud = Math.max(...scena.anelli.map((a) => a.centro[1]));
   const ritardi = dati.forme.map((_, i) => ((scena.anelli.find((a) => a.voce === i)?.centro[1] ?? nord) - nord) / (sud - nord));
+  const coppie = confini(scena.anelli);
   return {
     larghezza: LARGHEZZA, altezza: ALTEZZA, voci: dati.forme, ritardi,
     ampiezza: GRADI_ROTAZIONE, limite: GRADI_MASSIMI, perPixel: 0.2,
-    quadro: (gradi, crescita) => prismi(scena, gradi, (i) => scena.altezze[i] * crescita(i)),
+    quadro: (gradi, crescita) => prismi(scena, coppie, gradi, (i) => scena.altezze[i] * crescita(i)),
   };
 }

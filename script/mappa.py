@@ -5,6 +5,8 @@ Legge i confini amministrativi ISTAT generalizzati (shapefile, UTM 32N, licenza 
   https://www.istat.it/storage/cartografia/confini_amministrativi/generalizzati/2025/Limiti01012025_g.zip
 da scompattare in dati-istat/confini/ (cartella non versionata), e scrive sito/data/mappa.json:
 un tracciato SVG per provincia, già semplificato, nelle coordinate di un viewBox fisso.
+Scrive anche sito/data/mappa-regioni.json: un tracciato per regione (confini regionali dello stesso archivio ISTAT),
+nelle stesse coordinate, con Bolzano e Trento separate come nei report sui minori.
 Solo libreria standard: nessuna dipendenza da installare.
 
 Uso, dalla radice del repo: python3 script/mappa.py
@@ -21,6 +23,9 @@ RADICE = Path(__file__).resolve().parent.parent
 SHP = RADICE / "dati-istat/confini/ProvCM01012025_g/ProvCM01012025_g_WGS84"
 DATI = RADICE / "sito/data/province-lite.json"
 USCITA = RADICE / "sito/data/mappa.json"
+SHP_REGIONI = RADICE / "dati-istat/confini/Reg01012025_g/Reg01012025_g_WGS84"
+USCITA_REGIONI = RADICE / "sito/data/mappa-regioni.json"
+AUTONOME = {"BOLZANO": "Bolzano", "TRENTO": "Trento"}  # nei report MSNA al posto del Trentino-Alto Adige
 
 LARGHEZZA = 500          # unità del viewBox in orizzontale
 TOLLERANZA = 0.3         # unità del viewBox: soglia della semplificazione (Douglas-Peucker)
@@ -120,6 +125,17 @@ def tracciato(anelli):
     return "".join(d)
 
 
+def pezzi_mappa(anelli, x0, y1, scala):
+    """Anelli di un'unità nelle coordinate del viewBox, semplificati, senza i pezzi sotto l'area minima."""
+    pezzi = []
+    for anello in anelli:
+        a = [((x - x0) / scala, (y1 - y) / scala) for x, y in anello]
+        if area(a) < AREA_MINIMA:
+            continue
+        pezzi.append(semplifica(a, TOLLERANZA))
+    return tracciato(pezzi)
+
+
 def main():
     forme, schede = leggi_shp(SHP.with_suffix(".shp")), leggi_dbf(SHP.with_suffix(".dbf"))
     xs = [x for poligono in forme for anello in poligono for x, _ in anello]
@@ -138,13 +154,7 @@ def main():
             trovate[nome] = None
             continue
         trovate[nome] = mio
-        pezzi = []
-        for anello in anelli:
-            a = [((x - x0) / scala, (y1 - y) / scala) for x, y in anello]
-            if area(a) < AREA_MINIMA:
-                continue
-            pezzi.append(semplifica(a, TOLLERANZA))
-        province[mio] = {"sigla": s["SIGLA"], "d": tracciato(pezzi)}
+        province[mio] = {"sigla": s["SIGLA"], "d": pezzi_mappa(anelli, x0, y1, scala)}
 
     solo_nostre = sorted(set(nostre.values()) - set(province))
     solo_confini = sorted(n for n, m in trovate.items() if m is None)
@@ -158,6 +168,20 @@ def main():
         "province": dict(sorted(province.items())),
     }, ensure_ascii=False, separators=(",", ":")))
     print(f"Scritto {USCITA.relative_to(RADICE)}: {USCITA.stat().st_size / 1024:.0f} KB")
+
+    regioni = {}
+    for anelli, s in zip(leggi_shp(SHP_REGIONI.with_suffix(".shp")), leggi_dbf(SHP_REGIONI.with_suffix(".dbf"))):
+        nome = s["DEN_REG"].split("/")[0]
+        if chiave(nome) != "trentinoaltoadige":
+            regioni[nome] = {"d": pezzi_mappa(anelli, x0, y1, scala)}
+    for provincia, nome in AUTONOME.items():
+        regioni[nome] = {"d": province[provincia]["d"]}
+    USCITA_REGIONI.write_text(json.dumps({
+        "fonte": "ISTAT, Confini delle unità amministrative a fini statistici, generalizzati, 1 gennaio 2025",
+        "viewBox": [LARGHEZZA, altezza],
+        "regioni": dict(sorted(regioni.items())),
+    }, ensure_ascii=False, separators=(",", ":")))
+    print(f"Scritto {USCITA_REGIONI.relative_to(RADICE)}: {len(regioni)} unità, {USCITA_REGIONI.stat().st_size / 1024:.0f} KB")
 
 
 if __name__ == "__main__":

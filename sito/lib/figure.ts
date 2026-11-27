@@ -1,8 +1,9 @@
 // Dati delle figure in rilievo, costruiti al build: usati dall'SVG statico e da /figure/[nome].
 import mappa from "@/data/mappa.json";
+import mappaRegioni from "@/data/mappa-regioni.json";
 import { centri } from "@/lib/centri";
 import { cronologia } from "@/lib/cronologia";
-import { slug, nomeProvincia, nItal, nItal2, trovaProvincia } from "@/lib/dati";
+import { slug, nomeProvincia, nItal, nItal2, dataLunga, trovaProvincia, msnaData } from "@/lib/dati";
 import { datiItalia } from "@/lib/italiaDati";
 import type { DatiFigura } from "@/lib/motori";
 
@@ -16,7 +17,7 @@ function costo(): DatiFigura {
   const min = Math.min(...valori), max = Math.max(...valori);
   return {
     tipo: "mappa",
-    altezzaMassima: 110,
+    altezzaMassima: 50,
     descrizione:
       `Italia in tre dimensioni: per ogni provincia un prisma alto in proporzione al costo giornaliero per ospite nei CAS per adulti nel ${anno}, ` +
       `da ${nItal2(min)} € a ${nItal2(max)} €; più scuro dove il costo è più alto. Le province senza dato sono piatte e grigie. ` +
@@ -55,5 +56,29 @@ function anniLeggi(): DatiFigura {
   };
 }
 
-export const figure = { home: () => datiItalia, "quanto-costa": costo, "dieci-anni": anniLeggi };
+/** Minori: altezza dai presenti per regione all'ultimo mese con il dato regionale, come nella tabella della pagina. */
+function minori(): DatiFigura {
+  const confini = mappaRegioni.regioni as Record<string, { d: string }>;
+  const [anno, mese] = msnaData.ultimo_periodo.split("-").map(Number);
+  const giorno = dataLunga(`${msnaData.ultimo_periodo}-${new Date(Date.UTC(anno, mese, 0)).getUTCDate()}`);
+  const righe = msnaData.regioni;
+  const mancanti = righe.filter((r) => !confini[r.regione]).map((r) => r.regione);
+  if (mancanti.length || righe.length !== Object.keys(confini).length)
+    throw new Error(`Regioni dei dati sui minori e di mappa-regioni.json non coincidono: ${mancanti.join(", ")}`);
+  const ordinate = [...righe].sort((a, b) => b.ultimo - a.ultimo);
+  const massima = ordinate[0], minima = ordinate[ordinate.length - 1];
+  return {
+    tipo: "mappa",
+    altezzaMassima: 90,
+    descrizione:
+      `Italia in tre dimensioni: per ogni regione un prisma alto in proporzione ai minori stranieri non accompagnati presenti al ${giorno}, ` +
+      `da ${nItal(minima.ultimo)} (${minima.regione}) a ${nItal(massima.ultimo)} (${massima.regione}). I valori di ogni regione sono nella tabella più in basso.`,
+    forme: righe.map((r) => ({
+      d: confini[r.regione].d, valore: r.ultimo, tono: 60,
+      testi: [r.regione, `${nItal(r.ultimo)} minori presenti al ${giorno}`],
+    })),
+  };
+}
+
+export const figure = { home: () => datiItalia, "quanto-costa": costo, "dieci-anni": anniLeggi, minori };
 export type NomeFigura = keyof typeof figure;

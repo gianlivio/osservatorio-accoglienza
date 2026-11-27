@@ -1,5 +1,6 @@
 import Link from "next/link";
 import JsonLd from "@/app/JsonLd";
+import Figura3D from "@/app/Figura3D";
 
 import { breadcrumb, creatore, dominio } from "@/lib/jsonld";
 import { metadatiPagina } from "@/lib/metadati";
@@ -131,23 +132,33 @@ export default function Minori() {
       <JsonLd dati={datasetJsonLd} />
       <JsonLd dati={breadcrumb([{ nome: "Minori non accompagnati", percorso: "/minori" }])} />
       <Link href="/" className="indietro">← torna all&apos;archivio contratti</Link>
-      <p className="occhiello">Dati del Ministero del Lavoro</p>
-      <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>
-      <div className="apertura">
-        <b className="cifra-grande">{nItal(d.ultimo_totale)}</b>
-        <p>
-          minori stranieri non accompagnati presenti in Italia al {dataTotale}, secondo il Ministero del Lavoro.
-          Al {dataLeggibile} erano {nItal(naz(d.ultimo_periodo))}; al {lungo(`${primoAnno}-12`)}, {nItal(naz(`${primoAnno}-12`))}.
-        </p>
+      <div className="apertura-figura">
+        <div>
+          <p className="occhiello">Dati del Ministero del Lavoro</p>
+          <h1 className="tesi">Minori stranieri <em>non accompagnati</em>.</h1>
+          <div className="apertura">
+            <b className="cifra-grande">{nItal(d.ultimo_totale)}</b>
+            <p>
+              minori stranieri non accompagnati presenti in Italia al {dataTotale}, secondo il Ministero del Lavoro.
+              Al {dataLeggibile} erano {nItal(naz(d.ultimo_periodo))}; al {lungo(`${primoAnno}-12`)}, {nItal(naz(`${primoAnno}-12`))}.
+            </p>
+          </div>
+          <p className="sommario">
+            I minori stranieri non accompagnati sono le persone sotto la maggiore età che si
+            trovano in Italia senza un adulto legalmente responsabile per loro. La legge ne
+            affida l&apos;accoglienza allo Stato. Il Ministero del Lavoro ne ha pubblicato il numero
+            presente in ciascuna regione, mese per mese, fino a {dataLeggibile}; da allora pubblica rapporti
+            semestrali con, tra l&apos;altro, il totale nazionale. Qui i dati vanno dal {primoAnno} a {dataTotale}:
+            per regione fino a {dataLeggibile}, per il totale nazionale fino a {dataTotale}.
+          </p>
+        </div>
+        <Figura3D nome="minori">
+          <p className="mappa-didascalia">
+            Altezza: minori stranieri non accompagnati presenti al 31 {dataLeggibile}, per regione (Ministero del Lavoro). Dal {+fineRegionale + 1} il
+            dato per regione non è pubblicato nello stesso formato.
+          </p>
+        </Figura3D>
       </div>
-      <p className="sommario">
-        I minori stranieri non accompagnati sono le persone sotto la maggiore età che si
-        trovano in Italia senza un adulto legalmente responsabile per loro. La legge ne
-        affida l&apos;accoglienza allo Stato. Il Ministero del Lavoro ne ha pubblicato il numero
-        presente in ciascuna regione, mese per mese, fino a {dataLeggibile}; da allora pubblica rapporti
-        semestrali con, tra l&apos;altro, il totale nazionale. Qui i dati vanno dal {primoAnno} a {dataTotale}:
-        per regione fino a {dataLeggibile}, per il totale nazionale fino a {dataTotale}.
-      </p>
 
       <section className="sezione">
         <h2 className="titolo-sezione">

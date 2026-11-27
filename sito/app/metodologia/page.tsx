@@ -70,7 +70,7 @@ export default function Metodologia() {
           file delle strutture.
         </p>
         <p>
-          I confini delle province nella figura della home sono quelli dell&apos;ISTAT: confini delle
+          I confini di province e regioni nelle figure in rilievo (home, Quanto costa, Minori) sono quelli dell&apos;ISTAT: confini delle
           unità amministrative a fini statistici, versione generalizzata al 1° gennaio 2025
           (licenza{" "}
           <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank" rel="noopener" className="link-interno">CC BY 4.0</a>), semplificati per il sito con lo script script/mappa.py.
