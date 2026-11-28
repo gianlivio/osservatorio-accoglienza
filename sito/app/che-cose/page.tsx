@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
 import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import Televisore from "@/app/Televisore";
@@ -91,6 +92,7 @@ export default function CheCose() {
           perché può esserlo.
         </p>
       </section>
+      <ContinuaALeggere pagine={["/quanto-costa", "/dieci-anni", "/metodologia"]} />
     </main>
   );
 }

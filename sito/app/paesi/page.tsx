@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
 import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import { breadcrumb } from "@/lib/jsonld";
@@ -41,6 +42,7 @@ export default function Paesi() {
           <Link href="/metodologia#paesi" className="link-interno">Metodologia</Link>
         </p>
       </section>
+      <ContinuaALeggere pagine={["/dieci-anni", "/minori", "/quanto-costa"]} />
     </main>
   );
 }

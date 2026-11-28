@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
 import Intestazione from "@/app/Intestazione";
 import { notFound } from "next/navigation";
 import JsonLd from "@/app/JsonLd";
@@ -225,6 +226,7 @@ export default async function PaginaPaese({ params }: { params: Promise<{ slug: 
         </p>
         <p className="nota-tabella">Dati estratti il {dataLunga(dati.estratto)}.</p>
       </section>
+      <ContinuaALeggere pagine={["/dieci-anni", "/minori", "/quanto-costa"]} />
     </main>
   );
 }

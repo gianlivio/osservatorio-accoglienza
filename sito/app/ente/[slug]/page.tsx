@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
 import Intestazione from "@/app/Intestazione";
 import { notFound } from "next/navigation";
 import JsonLd from "@/app/JsonLd";
@@ -110,6 +111,7 @@ export default async function Ente({ params }: { params: Promise<{ slug: string 
           ))}
         </ul>
       </section>
+      <ContinuaALeggere pagine={["/quanto-costa", "/dieci-anni", "/metodologia"]} />
     </main>
   );
 }

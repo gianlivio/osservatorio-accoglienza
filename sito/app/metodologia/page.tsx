@@ -1,4 +1,6 @@
 import Link from "next/link";
+import IndicePagina from "@/app/IndicePagina";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
 import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
@@ -40,7 +42,9 @@ export default function Metodologia() {
         e buchi, descritti qui sotto. Chi li usa deve sapere cosa possono dire e cosa no.
       </p>
 
-      <section className="sezione">
+      <IndicePagina voci={[{id:"fonte",titolo:"La fonte"},{id:"accoglienza",titolo:"Cosa è accoglienza e cosa no"},{id:"cosa-conta",titolo:"Cosa conta, e cosa no"},{id:"cosa-manca",titolo:"Cosa manca"},{id:"minori",titolo:"Minori non accompagnati"},{id:"paesi",titolo:"Paesi di provenienza"},{id:"dati",titolo:"I dati"}]} />
+
+      <section className="sezione" id="fonte">
         <h2 className="titolo-sezione">La fonte</h2>
         <p>
           I dati vengono dalla banca dati dell&apos;Autorità Nazionale Anticorruzione, dove
@@ -89,7 +93,7 @@ export default function Metodologia() {
         </p>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="accoglienza">
         <h2 className="titolo-sezione">Cosa è accoglienza e cosa no</h2>
         <p>
           Nessun codice, nella banca dati, dice &laquo;questo contratto riguarda
@@ -123,7 +127,7 @@ export default function Metodologia() {
         </p>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="cosa-conta">
         <h2 className="titolo-sezione">Cosa conta, e cosa no</h2>
         <p>
           L&apos;archivio conta i contratti firmati in un anno, non l&apos;accoglienza attiva
@@ -145,7 +149,7 @@ export default function Metodologia() {
         </p>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="cosa-manca">
         <h2 className="titolo-sezione">Cosa manca</h2>
         <p>
           La banca dati contiene quello che le amministrazioni comunicano, e la comunicazione è
@@ -320,7 +324,7 @@ export default function Metodologia() {
         </p>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="dati">
         <h2 className="titolo-sezione">I dati</h2>
         <p className="nota-tabella">
           Tutti i contratti dell&apos;archivio in un unico file. Ogni provincia ha anche il suo
@@ -332,6 +336,7 @@ export default function Metodologia() {
           si aggiornano con i dati, una volta al mese.
         </p>
       </section>
+      <ContinuaALeggere pagine={["/che-cose", "/quanto-costa", "/dieci-anni"]} />
     </main>
   );
 }

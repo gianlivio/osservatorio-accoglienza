@@ -2,6 +2,8 @@ import Link from "next/link";
 import Intestazione from "@/app/Intestazione";
 import { notFound } from "next/navigation";
 import ElencoContratti from "@/app/ElencoContratti";
+import IndicePagina from "@/app/IndicePagina";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
 import JsonLd from "@/app/JsonLd";
 import ScaricaCsv from "@/app/ScaricaCsv";
 import { creatore, dominio, fonteAnac, fonteCentri, licenza, breadcrumb, distribuzioneCsv } from "@/lib/jsonld";
@@ -94,7 +96,18 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         locali.
       </p>
 
-      <section className="sezione">
+      <IndicePagina voci={[
+        { id: "totale", titolo: `Totale ${anni[0]}–${anni[anni.length - 1]}` },
+        ...(d.top_enti.length > 0 ? [{ id: "enti", titolo: "Enti gestori" }] : []),
+        { id: "anno-per-anno", titolo: "Anno per anno" },
+        ...(mesiDati.length > 0 ? [{ id: "mese-per-mese", titolo: "Mese per mese" }] : []),
+        { id: "contratti", titolo: "I contratti, uno per uno" },
+        ...(d.rapporti_ricorrenti.length > 0 ? [{ id: "assegnazioni-ripetute", titolo: "Assegnazioni ripetute" }] : []),
+        { id: "posti-e-presenze", titolo: "Posti e presenze nei centri" },
+        ...(altre.length > 0 ? [{ id: "altre-province", titolo: "Altre province della regione" }] : []),
+      ]} />
+
+      <section className="sezione" id="totale">
         <h2 className="titolo-sezione">Totale {anni[0]}–{anni[anni.length - 1]}</h2>
         <div className="cifre cifre-riga">
           <div className="cifra"><b>{euro(t.importo_mediano)}</b><span>importo mediano<small>metà dei contratti vale meno, metà di più</small></span></div>
@@ -106,7 +119,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       </section>
 
       {d.top_enti.length > 0 && (
-        <section className="sezione">
+        <section className="sezione" id="enti">
           <h2 className="titolo-sezione">Enti gestori · {p.anni_enti.join(" e ")}</h2>
           <table className="tabella">
             <caption className="sr-only">Enti gestori e numero di contratti ricevuti</caption>
@@ -120,7 +133,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         </section>
       )}
 
-      <section className="sezione">
+      <section className="sezione" id="anno-per-anno">
         <h2 className="titolo-sezione">Anno per anno</h2>
         <table className="tabella">
           <caption className="sr-only">Andamento anno per anno di contratti, contratti da 40.000 € in su, quota con affidamento diretto, importo mediano ed enti che hanno ricevuto contratti</caption>
@@ -164,7 +177,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       </section>
 
       {mesiDati.length > 0 && (
-        <section className="sezione">
+        <section className="sezione" id="mese-per-mese">
           <h2 className="titolo-sezione">Mese per mese</h2>
           <p className="nota-tabella">
             Ogni barra è un mese: la parte piena indica i contratti assegnati con affidamento diretto.
@@ -185,7 +198,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
         </section>
       )}
 
-      <section className="sezione">
+      <section className="sezione" id="contratti">
         <h2 className="titolo-sezione">I contratti, uno per uno</h2>
         <p className="nota-tabella">
           In ordine dal più recente. Ogni voce riporta quanto risulta nell&apos;archivio
@@ -196,7 +209,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       </section>
 
       {d.rapporti_ricorrenti.length > 0 && (
-        <section className="sezione">
+        <section className="sezione" id="assegnazioni-ripetute">
           <h2 className="titolo-sezione">Assegnazioni ripetute allo stesso ente</h2>
           <table className="tabella">
             <caption className="sr-only">Amministrazioni ed enti con assegnazioni dirette ripetute</caption>
@@ -288,7 +301,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
       </section>
 
       {altre.length > 0 && (
-        <section className="sezione">
+        <section className="sezione" id="altre-province">
           <h2 className="titolo-sezione">Altre province della regione · {regione}</h2>
           <p>
             {altre.map((n, i) => (
@@ -300,6 +313,7 @@ export default async function Provincia({ params }: { params: Promise<{ slug: st
           </p>
         </section>
       )}
+      <ContinuaALeggere pagine={["/quanto-costa", "/dieci-anni", "/metodologia"]} />
     </main>
   );
 }

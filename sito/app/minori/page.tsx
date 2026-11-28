@@ -1,4 +1,5 @@
 import JsonLd from "@/app/JsonLd";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
 import Intestazione from "@/app/Intestazione";
 import Figura3D from "@/app/Figura3D";
 
@@ -244,6 +245,7 @@ export default function Minori() {
           semestrale al 31 dicembre 2023, p. 25.
         </p>
       </section>
+      <ContinuaALeggere pagine={["/paesi", "/dieci-anni", "/metodologia"]} />
     </main>
   );
 }

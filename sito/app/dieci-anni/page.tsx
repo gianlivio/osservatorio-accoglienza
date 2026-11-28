@@ -1,4 +1,6 @@
 import Link from "next/link";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
+import IndicePagina from "@/app/IndicePagina";
 import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import Figura3D from "@/app/Figura3D";
@@ -102,6 +104,8 @@ export default function DieciAnni() {
         </div>
       </div>
 
+      <IndicePagina voci={[{id:"leggi-in-breve",titolo:"Le leggi in breve"},{id:"numeri",titolo:"I numeri"},{id:"prima-del-2015",titolo:`Prima del ${primo}`},{id:"anno-per-anno",titolo:"Anno per anno"},{id:"fonti",titolo:"Fonti"}]} />
+
       <section className="sezione" id="leggi-in-breve">
         <h2 className="titolo-sezione">Le leggi in breve</h2>
         <table className="tabella tabella-leggi">
@@ -163,7 +167,7 @@ export default function DieciAnni() {
         </div>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="anno-per-anno">
         <h2 className="titolo-sezione">Anno per anno</h2>
         {anni.map((a) => {
           const legge = c.leggi.find((l) => l.anno === a);
@@ -203,6 +207,7 @@ export default function DieciAnni() {
           </li>
         </ul>
       </section>
+      <ContinuaALeggere pagine={["/quanto-costa", "/paesi", "/minori"]} />
     </main>
   );
 }

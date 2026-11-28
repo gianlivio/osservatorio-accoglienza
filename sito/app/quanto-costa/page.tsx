@@ -1,4 +1,6 @@
 import Link from "next/link";
+import ContinuaALeggere from "@/app/ContinuaALeggere";
+import IndicePagina from "@/app/IndicePagina";
 import Intestazione from "@/app/Intestazione";
 import JsonLd from "@/app/JsonLd";
 import Ricerca from "@/app/Ricerca";
@@ -101,6 +103,8 @@ export default function QuantoCosta() {
           </p>
         </div>
       </div>
+
+      <IndicePagina voci={[{id:"soldi",titolo:"A chi vanno i soldi"},{id:"grafico",titolo:`Dal ${primo} al ${ultimo}`},{id:"provincia",titolo:"Quanto costa nella tua provincia"},{id:"tipo",titolo:"Per tipo di centro"},{id:"persone",titolo:"Quante persone nei centri"},{id:"cosa-non-sappiamo",titolo:"Cosa non sappiamo"},{id:"chi-riceve",titolo:"Chi riceve i contratti"},{id:"fonte",titolo:"Fonte dei dati"}]} />
 
       <section className="sezione" id="soldi">
         <h2 className="titolo-sezione">A chi vanno i soldi</h2>
@@ -257,7 +261,7 @@ export default function QuantoCosta() {
         </table>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="persone">
         <h2 className="titolo-sezione">Quante persone nei centri</h2>
         <p>
           Al {dataLunga(centri.rilevazioni_cas[ultimo])} le presenze sono {nItal(pres.cas)} nei CAS e{" "}
@@ -284,7 +288,7 @@ export default function QuantoCosta() {
         </p>
       </section>
 
-      <section className="sezione">
+      <section className="sezione" id="chi-riceve">
         <h2 className="titolo-sezione">Chi riceve i contratti</h2>
         <p>
           I contratti con cui le amministrazioni affidano questi servizi sono nelle pagine di ogni
@@ -308,6 +312,7 @@ export default function QuantoCosta() {
           sono calcolate le cifre.
         </p>
       </section>
+      <ContinuaALeggere pagine={["/dieci-anni", "/che-cose", "/metodologia"]} />
     </main>
   );
 }
