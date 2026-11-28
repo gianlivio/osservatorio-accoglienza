@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Analytics } from "@vercel/analytics/next";
 import { anni } from "@/lib/dati";
+import Comparsa from "@/app/Comparsa";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://osservatorioaccoglienza.org"),
@@ -44,6 +45,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             Un progetto di <a href="https://gianlivioiemolo.com" target="_blank" rel="noopener">Gianlivio Iemolo</a>
           </footer>
         </div>
+        <Comparsa />
         <Analytics />
       </body>
     </html>
